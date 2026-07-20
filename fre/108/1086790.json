@@ -1,0 +1,19 @@
+{
+  "seq": 1086790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tondeur d'animaux",
+      "personne qui soigne et coiffe les animaux"
+    ],
+    [
+      "outil de découpe pour laminoirs",
+      "appareil utilisé pour tronquer des lames de laminoirs"
+    ],
+    [
+      "tondeuse",
+      "outil pour couper les cheveux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

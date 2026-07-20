@@ -1,0 +1,14 @@
+{
+  "seq": 1089750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "robin des buissons",
+      "oiseau nocturne"
+    ],
+    [
+      "Florence Nightingale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

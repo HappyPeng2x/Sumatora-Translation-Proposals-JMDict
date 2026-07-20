@@ -1,0 +1,11 @@
+{
+  "seq": 1088100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "documentaire",
+      "relatif à un document ou à la documentation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

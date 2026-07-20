@@ -1,0 +1,12 @@
+{
+  "seq": 1087880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vérin de porte",
+      "ressort de porte",
+      "fermoir de porte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

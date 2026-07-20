@@ -1,0 +1,15 @@
+{
+  "seq": 1088760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médicament",
+      "remède"
+    ],
+    [
+      "drogue",
+      "narcotique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

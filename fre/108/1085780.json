@@ -1,0 +1,11 @@
+{
+  "seq": 1085780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ferme de camions",
+      "ferme qui utilise des camions pour le transport"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1086150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récepteur-transmetteur",
+      "émetteur-récepteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

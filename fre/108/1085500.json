@@ -1,0 +1,17 @@
+{
+  "seq": 1085500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "essai",
+      "tentative",
+      "effort",
+      "propre",
+      "entreprise"
+    ],
+    [
+      "essai (au rugby)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

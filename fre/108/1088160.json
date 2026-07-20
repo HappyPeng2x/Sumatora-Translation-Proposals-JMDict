@@ -1,0 +1,15 @@
+{
+  "seq": 1088160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordre du médecin",
+      "consigne du médecin"
+    ],
+    [
+      "arrêt sur ordre du médecin",
+      "interruption d'un combat sur ordre du médecin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

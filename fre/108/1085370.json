@@ -1,0 +1,11 @@
+{
+  "seq": 1085370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "actualité spécifique",
+      "nouvelle sur un sujet particulier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

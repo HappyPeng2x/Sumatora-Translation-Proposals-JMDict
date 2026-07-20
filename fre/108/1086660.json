@@ -1,0 +1,27 @@
+{
+  "seq": 1086660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voyage",
+      "excursion"
+    ],
+    [
+      "expérience",
+      "séance",
+      "sous l'effet de drogues"
+    ],
+    [
+      "plongée",
+      "dans un autre monde",
+      "dans un univers imaginaire"
+    ],
+    [
+      "code",
+      "de signature",
+      "code de hachage",
+      "utilisé pour signer anonymement des messages sur des forums d'images"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

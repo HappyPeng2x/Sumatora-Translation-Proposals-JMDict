@@ -1,0 +1,18 @@
+{
+  "seq": 1087770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réserve",
+      "résidence",
+      "dortoir",
+      "chambre d'hôtel"
+    ],
+    [
+      "chambre de type dortoir",
+      "chambre partagée",
+      "chambre à plusieurs lits"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

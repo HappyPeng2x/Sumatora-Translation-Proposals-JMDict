@@ -1,0 +1,15 @@
+{
+  "seq": 1088590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "drive-in (banque, cinéma, etc.)",
+      "établissement drive-in"
+    ],
+    [
+      "restaurant de bord de route",
+      "point de repos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

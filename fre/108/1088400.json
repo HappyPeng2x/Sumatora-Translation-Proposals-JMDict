@@ -1,0 +1,13 @@
+{
+  "seq": 1088400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "domaine"
+    ],
+    [
+      "nom de domaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

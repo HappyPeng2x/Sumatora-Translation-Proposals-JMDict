@@ -1,0 +1,15 @@
+{
+  "seq": 1088380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "note dominante",
+      "accord dominant"
+    ],
+    [
+      "personne dominante",
+      "personnalité autoritaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

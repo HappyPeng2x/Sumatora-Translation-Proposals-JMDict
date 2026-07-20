@@ -1,0 +1,13 @@
+{
+  "seq": 1089060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "-driven",
+      "dynamisé",
+      "entraîné",
+      "mouvementé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,32 @@
+{
+  "seq": 1089440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bonbon",
+      "candy",
+      "confisserie"
+    ],
+    [
+      "chute",
+      "tomber",
+      "perte"
+    ],
+    [
+      "courbe",
+      "balle courbe",
+      "lancer courbe"
+    ],
+    [
+      "abandon",
+      "laisser tomber",
+      "dénicher (en golf)"
+    ],
+    [
+      "geste de souris",
+      "mouvement de souris",
+      "action de la souris"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1087090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entraîneur",
+      "formateur",
+      "instructeur"
+    ],
+    [
+      "pull",
+      "sweat",
+      "pull-over"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1086880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Turquie",
+      "Türkiye"
+    ],
+    [
+      "turquoise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

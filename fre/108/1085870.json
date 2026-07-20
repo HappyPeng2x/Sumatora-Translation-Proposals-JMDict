@@ -1,0 +1,16 @@
+{
+  "seq": 1085870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement de métier",
+      "mutation professionnelle"
+    ],
+    [
+      "travail",
+      "labor",
+      "effort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1087520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "TRON; le noyau du système d'exploitation temps réel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

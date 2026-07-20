@@ -1,0 +1,11 @@
+{
+  "seq": 1088240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système d'exploitation disque",
+      "système d'exploitation DOS"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

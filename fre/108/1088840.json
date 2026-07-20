@@ -1,0 +1,11 @@
+{
+  "seq": 1088840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "batteur",
+      "musicien qui joue des percussions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

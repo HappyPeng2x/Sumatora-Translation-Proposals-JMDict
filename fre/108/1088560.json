@@ -1,0 +1,22 @@
+{
+  "seq": 1088560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conducteur",
+      "automobiliste"
+    ],
+    [
+      "tournevis"
+    ],
+    [
+      "fouet",
+      "club de golf"
+    ],
+    [
+      "pilote (logiciel)",
+      "pilote (matériel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1088630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allée",
+      "chemin d'accès",
+      "voie d'accès"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

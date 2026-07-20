@@ -1,0 +1,13 @@
+{
+  "seq": 1089960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nugget",
+      "d'or",
+      "de poulet",
+      "de poisson"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

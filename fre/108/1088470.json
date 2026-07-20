@@ -1,0 +1,14 @@
+{
+  "seq": 1088470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "riz au curry",
+      "pilaf au curry"
+    ],
+    [
+      "curry sec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

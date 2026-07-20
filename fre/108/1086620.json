@@ -1,0 +1,20 @@
+{
+  "seq": 1086620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être trompeur (de la mythologie)"
+    ],
+    [
+      "trompeur",
+      "escroc",
+      "fraudeur"
+    ],
+    [
+      "trompeur",
+      "magicien",
+      "illusionniste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

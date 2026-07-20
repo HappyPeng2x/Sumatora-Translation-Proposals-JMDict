@@ -1,0 +1,16 @@
+{
+  "seq": 1087160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remorque (véhicule)"
+    ],
+    [
+      "camion-remorque"
+    ],
+    [
+      "bande-annonce (pour un film, un jeu vidéo, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

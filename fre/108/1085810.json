@@ -1,0 +1,17 @@
+{
+  "seq": 1085810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traditionnel",
+      "traditionnel (en matière de mode)",
+      "trad"
+    ],
+    [
+      "jazz traditionnel",
+      "jazz trad",
+      "jazz dixieland"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

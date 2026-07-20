@@ -1,0 +1,15 @@
+{
+  "seq": 1085250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans haut",
+      "dénudé en haut"
+    ],
+    [
+      "monokini",
+      "maillot de bain topless"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

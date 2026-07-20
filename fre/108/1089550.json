@@ -1,0 +1,14 @@
+{
+  "seq": 1089550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dimanche"
+    ],
+    [
+      "jour férié",
+      "jour de congé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

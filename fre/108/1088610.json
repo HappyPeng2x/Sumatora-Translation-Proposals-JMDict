@@ -1,0 +1,11 @@
+{
+  "seq": 1088610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "banque automatique",
+      "banque avec guichets extérieurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

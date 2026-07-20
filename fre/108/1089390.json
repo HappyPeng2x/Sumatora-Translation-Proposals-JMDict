@@ -1,0 +1,20 @@
+{
+  "seq": 1089390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match nul",
+      "égalité"
+    ],
+    [
+      "tirage (pour déterminer les affrontements dans une compétition)"
+    ],
+    [
+      "démarche (en golf)"
+    ],
+    [
+      "dessin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

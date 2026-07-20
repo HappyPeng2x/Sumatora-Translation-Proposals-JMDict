@@ -1,0 +1,11 @@
+{
+  "seq": 1087290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tremolo",
+      "technique de musique consistant à faire vibrer rapidement une note ou une série de notes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

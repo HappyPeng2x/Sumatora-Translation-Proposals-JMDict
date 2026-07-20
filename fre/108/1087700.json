@@ -1,0 +1,14 @@
+{
+  "seq": 1087700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doping (dans le sport)",
+      "dopage (dans le sport)"
+    ],
+    [
+      "dopage (d'un semi-conducteur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

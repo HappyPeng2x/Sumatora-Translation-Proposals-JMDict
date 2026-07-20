@@ -1,0 +1,17 @@
+{
+  "seq": 1089950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à la mode",
+      "en vogue",
+      "actuel"
+    ],
+    [
+      "actuellement en train de ...",
+      "en cours de ...",
+      "en train de ... maintenant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

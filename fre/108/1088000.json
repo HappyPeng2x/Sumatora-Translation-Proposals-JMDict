@@ -1,0 +1,11 @@
+{
+  "seq": 1088000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "République démocratique allemande",
+      "Allemagne de l'Est"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

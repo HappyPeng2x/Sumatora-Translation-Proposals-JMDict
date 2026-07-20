@@ -1,0 +1,16 @@
+{
+  "seq": 1085990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déplacement (au basket-ball)",
+      "déplacement (sportif)"
+    ],
+    [
+      "déplacement",
+      "voyage",
+      "mouvement d'un lieu à un autre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1088330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imprimante à matrice de points",
+      "imprimante à points",
+      "imprimante matricielle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

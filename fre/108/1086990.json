@@ -1,0 +1,20 @@
+{
+  "seq": 1086990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "relevé",
+      "trace",
+      "suivi"
+    ],
+    [
+      "trace laissée",
+      "chemin",
+      "suivi de traces"
+    ],
+    [
+      "trace (d'une matrice)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

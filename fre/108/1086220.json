@@ -1,0 +1,11 @@
+{
+  "seq": 1086220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transformateur",
+      "convertisseur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

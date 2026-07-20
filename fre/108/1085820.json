@@ -1,0 +1,15 @@
+{
+  "seq": 1085820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pièce de papier sur laquelle on imprime en relief",
+      "technique d'impression en relief"
+    ],
+    [
+      "action de bloquer une balle ou une passe en soccer ou en hockey",
+      "mouvement utilisé pour arrêter une balle ou une passe dans un sport de balle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

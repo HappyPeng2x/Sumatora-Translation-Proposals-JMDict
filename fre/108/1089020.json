@@ -1,0 +1,14 @@
+{
+  "seq": 1089020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "goutte",
+      "gouttelette"
+    ],
+    [
+      "café filtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

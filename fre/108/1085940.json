@@ -1,0 +1,12 @@
+{
+  "seq": 1085940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépannage",
+      "réparation",
+      "correction d'un problème technique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

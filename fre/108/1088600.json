@@ -1,0 +1,12 @@
+{
+  "seq": 1088600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "théâtre à l'extérieur",
+      "cinéma en plein air",
+      "théâtre de plein air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

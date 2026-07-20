@@ -1,0 +1,10 @@
+{
+  "seq": 1090000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nationalisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

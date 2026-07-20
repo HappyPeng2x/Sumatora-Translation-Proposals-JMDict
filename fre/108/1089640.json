@@ -1,0 +1,11 @@
+{
+  "seq": 1089640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "banque de sages-femmes",
+      "banque de soignantes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

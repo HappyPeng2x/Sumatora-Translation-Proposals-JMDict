@@ -1,0 +1,12 @@
+{
+  "seq": 1089650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nerveux",
+      "inquiet",
+      "anxieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

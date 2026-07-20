@@ -1,0 +1,19 @@
+{
+  "seq": 1086080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "valise",
+      "coffre"
+    ],
+    [
+      "boîte de rangement",
+      "coffre d'une voiture",
+      "pare-brise"
+    ],
+    [
+      "ligne (de transmission)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

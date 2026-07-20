@@ -1,0 +1,11 @@
+{
+  "seq": 1088730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concours de frappe",
+      "concours de distance de frappe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

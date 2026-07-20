@@ -1,0 +1,14 @@
+{
+  "seq": 1089940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "neuf"
+    ],
+    [
+      "équipe",
+      "joueurs d'une équipe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

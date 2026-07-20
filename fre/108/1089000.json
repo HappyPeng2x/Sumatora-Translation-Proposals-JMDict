@@ -1,0 +1,11 @@
+{
+  "seq": 1089000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doria",
+      "plat cuisiné composé de riz, de viande et de légumes, recouvert d'une sauce au fromage et cuit au four"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

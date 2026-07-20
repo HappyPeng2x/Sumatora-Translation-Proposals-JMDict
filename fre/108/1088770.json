@@ -1,0 +1,11 @@
+{
+  "seq": 1088770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pharmacie",
+      "droguerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

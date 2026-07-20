@@ -1,0 +1,12 @@
+{
+  "seq": 1089610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conte de nursery",
+      "conte pour enfant",
+      "histoire de nursery"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

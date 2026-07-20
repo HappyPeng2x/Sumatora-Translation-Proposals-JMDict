@@ -1,0 +1,16 @@
+{
+  "seq": 1087430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course rapide",
+      "marche rapide",
+      "allure rapide"
+    ],
+    [
+      "foxtrot",
+      "danse fox-trot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

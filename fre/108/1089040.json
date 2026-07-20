@@ -1,0 +1,12 @@
+{
+  "seq": 1089040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "drifter",
+      "nomade",
+      "personne qui se déplace sans cesse d'un endroit à un autre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

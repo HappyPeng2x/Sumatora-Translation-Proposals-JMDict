@@ -1,0 +1,19 @@
+{
+  "seq": 1089570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit",
+      "détonation",
+      "feu d'arme à feu"
+    ],
+    [
+      "échange de tirs",
+      "affrontement",
+      "combat",
+      "conflit",
+      "guerre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

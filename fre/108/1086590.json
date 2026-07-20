@@ -1,0 +1,14 @@
+{
+  "seq": 1086590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "drapeau tricolore (surtout le drapeau français)",
+      "tricolore"
+    ],
+    [
+      "motif bleu, blanc et rouge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

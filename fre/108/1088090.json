@@ -1,0 +1,11 @@
+{
+  "seq": 1088090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "documentaire dramatique",
+      "drame documentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

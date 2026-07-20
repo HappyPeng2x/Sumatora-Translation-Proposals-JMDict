@@ -1,0 +1,11 @@
+{
+  "seq": 1089630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poste des infirmières",
+      "poste de soins"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

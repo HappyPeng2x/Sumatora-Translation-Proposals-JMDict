@@ -1,0 +1,12 @@
+{
+  "seq": 1085270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "niveau supérieur",
+      "niveau le plus élevé",
+      "premier niveau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

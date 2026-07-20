@@ -1,0 +1,15 @@
+{
+  "seq": 1086100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unité de stockage",
+      "salle de stockage (en location)"
+    ],
+    [
+      "boîte (d'une voiture)",
+      "coffre (d'une voiture)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

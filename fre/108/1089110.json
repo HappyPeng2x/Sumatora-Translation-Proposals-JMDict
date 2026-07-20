@@ -1,0 +1,11 @@
+{
+  "seq": 1089110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décalage en dollars",
+      "changement en dollars"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

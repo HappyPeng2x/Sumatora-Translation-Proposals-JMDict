@@ -1,0 +1,19 @@
+{
+  "seq": 1086800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recadrage",
+      "travail de réduction (d'une image)"
+    ],
+    [
+      "ornement",
+      "ajout décoratif"
+    ],
+    [
+      "tondage",
+      "rabotage (des poils d'un animal)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

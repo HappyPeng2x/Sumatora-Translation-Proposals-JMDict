@@ -1,0 +1,11 @@
+{
+  "seq": 1088850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dramaturge",
+      "auteur de pièces de théâtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1085240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coureur en tête (dans une course relais)"
+    ],
+    [
+      "coureur de haut niveau"
+    ],
+    [
+      "avant-garde (d'une personne) ; première ligne ; pointe de l'innovation"
+    ],
+    [
+      "meilleur praticien (dans un système de benchmarking par rapport aux performances de référence)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

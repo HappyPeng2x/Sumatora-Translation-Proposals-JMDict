@@ -1,0 +1,14 @@
+{
+  "seq": 1085190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "batteur qui frappe en premier dans une équipe de baseball",
+      "premier joueur à frapper dans une manche de baseball"
+    ],
+    [
+      "premier à apparaître (témoin, artiste, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

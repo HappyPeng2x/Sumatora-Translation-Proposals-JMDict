@@ -1,0 +1,17 @@
+{
+  "seq": 1089140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gâteau",
+      "dessert",
+      "pâtisserie"
+    ],
+    [
+      "dolce",
+      "doucement",
+      "avec douceur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

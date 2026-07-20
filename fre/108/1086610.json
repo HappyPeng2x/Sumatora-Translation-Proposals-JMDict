@@ -1,0 +1,17 @@
+{
+  "seq": 1086610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "piège",
+      "ruse",
+      "astuce"
+    ],
+    [
+      "procédé narratif",
+      "élément de suspense",
+      "truc de récit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
