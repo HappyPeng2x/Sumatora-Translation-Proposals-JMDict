@@ -1,0 +1,11 @@
+{
+  "seq": 1064880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gymnase",
+      "salle de sport"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

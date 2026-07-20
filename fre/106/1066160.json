@@ -1,0 +1,13 @@
+{
+  "seq": 1066160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Jupiter (dieu)"
+    ],
+    [
+      "Jupiter (planète)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

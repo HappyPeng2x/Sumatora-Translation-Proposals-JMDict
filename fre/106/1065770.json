@@ -1,0 +1,12 @@
+{
+  "seq": 1065770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nourriture industrielle",
+      "aliment de mauvaise qualité",
+      "nourriture peu saine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1062730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mariage de convenance",
+      "mariage forcé",
+      "mariage arrangé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

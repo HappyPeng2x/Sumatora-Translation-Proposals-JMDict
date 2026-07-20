@@ -1,0 +1,10 @@
+{
+  "seq": 1063580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur de golf dont le handicap est inférieur à 10"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

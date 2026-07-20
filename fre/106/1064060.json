@@ -1,0 +1,11 @@
+{
+  "seq": 1064060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Groupe des Cinq",
+      "Groupe des Cinq (anciens responsables financiers des États-Unis, du Royaume-Uni, de l'Allemagne de l'Ouest, du Japon et de la France)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

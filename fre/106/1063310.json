@@ -1,0 +1,12 @@
+{
+  "seq": 1063310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marché de l'argent",
+      "marché de l'argent en argent",
+      "marché de l'argent en argent fin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

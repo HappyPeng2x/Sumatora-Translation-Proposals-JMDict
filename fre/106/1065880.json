@@ -1,0 +1,16 @@
+{
+  "seq": 1065880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "énorme",
+      "très grand",
+      "de grande taille"
+    ],
+    [
+      "avion de transport de grande capacité",
+      "avion jumbo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

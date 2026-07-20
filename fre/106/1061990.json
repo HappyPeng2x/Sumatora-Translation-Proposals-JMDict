@@ -1,0 +1,19 @@
+{
+  "seq": 1061990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tir (d'une balle)",
+      "coup de pied (vers un but)",
+      "tir (dans le basket)"
+    ],
+    [
+      "shuuto (type de lancer utilisé au baseball au Japon)",
+      "shootball"
+    ],
+    [
+      "tige (d'un arbre ou d'une plante)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

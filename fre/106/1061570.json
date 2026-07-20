@@ -1,0 +1,23 @@
+{
+  "seq": 1061570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "poussière de plume"
+    ],
+    [
+      "n",
+      "service de navette"
+    ],
+    [
+      "n",
+      "mouvement de va-et-vient"
+    ],
+    [
+      "n",
+      "navette spatiale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

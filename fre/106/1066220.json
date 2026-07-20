@@ -1,0 +1,16 @@
+{
+  "seq": 1066220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joker (carte)",
+      "carte joker"
+    ],
+    [
+      "joker",
+      "personne amusante",
+      "humoriste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

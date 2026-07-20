@@ -1,0 +1,20 @@
+{
+  "seq": 1062240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spectacle",
+      "représentation"
+    ],
+    [
+      "exposition",
+      "foire",
+      "convention"
+    ],
+    [
+      "émission de télévision",
+      "émission"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

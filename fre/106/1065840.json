@@ -1,0 +1,21 @@
+{
+  "seq": 1065840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blouson",
+      "veste courte",
+      "imperméable",
+      "pull"
+    ],
+    [
+      "sauteur en ski",
+      "athlète de saut"
+    ],
+    [
+      "fil de saut",
+      "fil de connexion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

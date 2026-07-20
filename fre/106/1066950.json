@@ -1,0 +1,14 @@
+{
+  "seq": 1066950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être humain surhumain",
+      "personne surhumaine"
+    ],
+    [
+      "Superman (super-héros)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

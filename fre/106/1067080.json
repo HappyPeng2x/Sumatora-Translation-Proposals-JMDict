@@ -1,0 +1,16 @@
+{
+  "seq": 1067080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doux (en goût)"
+    ],
+    [
+      "doux (d'un alcool)"
+    ],
+    [
+      "doux (melodie, etc.) ; agréable (ambiance, etc.) ; plaisant ; délicieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

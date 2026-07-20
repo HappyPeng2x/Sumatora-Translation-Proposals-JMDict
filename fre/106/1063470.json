@@ -1,0 +1,14 @@
+{
+  "seq": 1063470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "synchronisation",
+      "accord"
+    ],
+    [
+      "natation synchronisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

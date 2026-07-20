@@ -1,0 +1,11 @@
+{
+  "seq": 1063570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "single",
+      "coup qui permet à un joueur de passer sur la première base"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

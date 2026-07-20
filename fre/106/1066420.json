@@ -1,0 +1,13 @@
+{
+  "seq": 1066420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail"
+    ],
+    [
+      "travail, poste de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

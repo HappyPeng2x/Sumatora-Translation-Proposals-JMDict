@@ -1,0 +1,19 @@
+{
+  "seq": 1063550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match individuel",
+      "match en simple"
+    ],
+    [
+      "personnes non mariées",
+      "personnes célibataires"
+    ],
+    [
+      "album musical",
+      "disque single"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

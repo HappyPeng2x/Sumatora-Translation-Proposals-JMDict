@@ -1,0 +1,12 @@
+{
+  "seq": 1062840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin dans un magasin",
+      "comptoir dans un magasin",
+      "boutique en boutique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

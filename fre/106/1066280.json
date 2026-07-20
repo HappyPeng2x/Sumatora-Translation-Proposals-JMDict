@@ -1,0 +1,13 @@
+{
+  "seq": 1066280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "persuasion par la force",
+      "intimidation",
+      "menaces"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

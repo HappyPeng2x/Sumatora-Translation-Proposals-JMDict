@@ -1,0 +1,12 @@
+{
+  "seq": 1066370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course rapide",
+      "marche rapide",
+      "promenade rapide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1065780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obligation de risque élevé",
+      "obligation spéculative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

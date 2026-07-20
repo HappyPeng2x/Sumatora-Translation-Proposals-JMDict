@@ -1,0 +1,17 @@
+{
+  "seq": 1066570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lentement, mais de manière continue",
+      "progressivement",
+      "péniblement"
+    ],
+    [
+      "en s'insinuant lentement",
+      "en s'écoulant lentement",
+      "en s'infiltrent progressivement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

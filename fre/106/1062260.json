@@ -1,0 +1,12 @@
+{
+  "seq": 1062260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "danseuse de spectacle",
+      "femme de spectacle",
+      "danseuse dans un show"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1065790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forêt dense",
+      "brousse",
+      "zone sauvage"
+    ],
+    [
+      "musique jungle",
+      "style musical jungle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1062340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gâteau en couche, gâteau à la crème et aux fruits",
+      "gâteau de type shortcake (avec des couches de génoise et de crème)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

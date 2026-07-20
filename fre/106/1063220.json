@@ -1,0 +1,10 @@
+{
+  "seq": 1063220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appareil de sécurité pour les personnes âgées qui appelle à l'aide si l'utilisateur ne l'active pas périodiquement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

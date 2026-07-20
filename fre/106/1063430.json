@@ -1,0 +1,12 @@
+{
+  "seq": 1063430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lavabo",
+      "bassin",
+      "évier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

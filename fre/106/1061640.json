@@ -1,0 +1,11 @@
+{
+  "seq": 1061640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entraînement au lancer de balle en imitant un lanceur réel",
+      "exercice de lancer de balle en miroir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

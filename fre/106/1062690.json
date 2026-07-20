@@ -1,0 +1,32 @@
+{
+  "seq": 1062690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prise",
+      "plan",
+      "séquence"
+    ],
+    [
+      "frappe",
+      "coup",
+      "tir"
+    ],
+    [
+      "tir",
+      "lancer",
+      "jet"
+    ],
+    [
+      "décharge",
+      "tir",
+      "feu"
+    ],
+    [
+      "verre",
+      "dose",
+      "shot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

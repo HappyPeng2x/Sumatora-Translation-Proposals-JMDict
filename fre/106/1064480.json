@@ -1,0 +1,13 @@
+{
+  "seq": 1064480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "genre"
+    ],
+    [
+      "genre (grammaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

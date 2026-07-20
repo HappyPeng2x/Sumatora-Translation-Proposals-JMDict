@@ -1,0 +1,13 @@
+{
+  "seq": 1066600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chose apportant de la chance ou de la malchance",
+      "croyance populaire",
+      "superstition",
+      "mauvaise chance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

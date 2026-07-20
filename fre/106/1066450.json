@@ -1,0 +1,12 @@
+{
+  "seq": 1066450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "titre d'emploi",
+      "intitulé de poste",
+      "dénomination professionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

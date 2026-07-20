@@ -1,0 +1,14 @@
+{
+  "seq": 1065060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gyroscope",
+      "gyro"
+    ],
+    [
+      "gyrocompas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

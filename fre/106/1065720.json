@@ -1,0 +1,15 @@
+{
+  "seq": 1065720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "drogué",
+      "accro"
+    ],
+    [
+      "obsessionné",
+      "fanatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1061500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélange",
+      "agiter",
+      "battre (les cartes)"
+    ],
+    [
+      "agitation",
+      "secousses (pour mélanger des ingrédients)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

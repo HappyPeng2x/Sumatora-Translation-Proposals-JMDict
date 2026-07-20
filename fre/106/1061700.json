@@ -1,0 +1,18 @@
+{
+  "seq": 1061700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arbre (de machine)",
+      "axe"
+    ],
+    [
+      "manche (d'une batte de golf)"
+    ],
+    [
+      "boyau (minier)",
+      "fosse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

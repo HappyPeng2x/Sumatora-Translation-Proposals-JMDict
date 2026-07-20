@@ -1,0 +1,15 @@
+{
+  "seq": 1061670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "technique d'apprentissage consistant à répéter immédiatement ce qui est entendu",
+      "mimétisme vocal en répétant immédiatement ce qui est entendu"
+    ],
+    [
+      "projection de l'ombre",
+      "cartographie des ombres (en informatique graphique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1065410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "valet",
+      "dame"
+    ],
+    [
+      "bouchon",
+      "connecteur"
+    ],
+    [
+      "saisie",
+      "prise de contrôle",
+      "hijacking"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

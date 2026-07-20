@@ -1,0 +1,19 @@
+{
+  "seq": 1065170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blouson",
+      "veste"
+    ],
+    [
+      "couverture de livre",
+      "enveloppe de livre"
+    ],
+    [
+      "enveloppe de CD",
+      "couverture de disque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

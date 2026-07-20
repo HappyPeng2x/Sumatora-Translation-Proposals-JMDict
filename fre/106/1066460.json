@@ -1,0 +1,11 @@
+{
+  "seq": 1066460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui change fréquemment de travail ou d'emploi",
+      "personne qui passe d'une entreprise à une autre sans s'attacher à une seule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

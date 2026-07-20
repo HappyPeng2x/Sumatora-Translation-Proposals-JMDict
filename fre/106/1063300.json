@@ -1,0 +1,11 @@
+{
+  "seq": 1063300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "volontaire en argent",
+      "volontaire en argent (personne qui participe à une activité bénévole en échange de dons ou de récompenses en argent)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

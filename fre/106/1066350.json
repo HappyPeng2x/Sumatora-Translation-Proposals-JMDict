@@ -1,0 +1,11 @@
+{
+  "seq": 1066350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coureur",
+      "joggeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

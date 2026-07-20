@@ -1,0 +1,12 @@
+{
+  "seq": 1066340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise conjointe",
+      "société en participation",
+      "coentreprise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,27 @@
+{
+  "seq": 1064960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tissu",
+      "jersey (tissu)"
+    ],
+    [
+      "chemise",
+      "chemise (vêtement de sport)",
+      "maillot (de sport)"
+    ],
+    [
+      "pantalon",
+      "pantalon de survêtement",
+      "pantalon de jogging",
+      "ensemble de survêtement",
+      "ensemble de jogging"
+    ],
+    [
+      "race bovine",
+      "race de vaches Jersey"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

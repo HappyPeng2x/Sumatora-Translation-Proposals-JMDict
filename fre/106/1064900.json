@@ -1,0 +1,15 @@
+{
+  "seq": 1064900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Jim Crow",
+      "personne noire"
+    ],
+    [
+      "ségrégation des Noirs",
+      "discrimination envers les Noirs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

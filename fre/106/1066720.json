@@ -1,0 +1,11 @@
+{
+  "seq": 1066720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous-titres",
+      "texte inséré sur une image ou une vidéo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

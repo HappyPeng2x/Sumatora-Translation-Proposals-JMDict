@@ -1,0 +1,16 @@
+{
+  "seq": 1064920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contenant pour maintenir aliment ou boisson chaud",
+      "thermos (à large ouverture)",
+      "réchaud (pour riz)"
+    ],
+    [
+      "jarre",
+      "pot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

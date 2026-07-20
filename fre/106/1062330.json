@@ -1,0 +1,14 @@
+{
+  "seq": 1062330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "raccourci",
+      "prendre un raccourci"
+    ],
+    [
+      "raccourci (clavier)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

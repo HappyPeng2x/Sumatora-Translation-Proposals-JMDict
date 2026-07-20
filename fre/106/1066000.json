@@ -1,0 +1,10 @@
+{
+  "seq": 1066000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cycle de Juglar"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1061720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaperon (moléculaire)",
+      "protéine chaperonne"
+    ],
+    [
+      "officier de contrôle antidopage",
+      "chaperon (personne qui accompagne)",
+      "agent chargé de prélever des échantillons chez les athlètes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

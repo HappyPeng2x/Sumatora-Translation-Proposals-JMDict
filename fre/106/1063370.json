@@ -1,0 +1,16 @@
+{
+  "seq": 1063370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mince"
+    ],
+    [
+      "os du tibia"
+    ],
+    [
+      "préfixe chimique indiquant la présence d'un groupe sulfonate"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

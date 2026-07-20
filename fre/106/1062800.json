@@ -1,0 +1,11 @@
+{
+  "seq": 1062800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme qui porte des sacs en shopping",
+      "femme sans abri portant des sacs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

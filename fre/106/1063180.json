@@ -1,0 +1,11 @@
+{
+  "seq": 1063180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Route de la soie",
+      "chemin de la soie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

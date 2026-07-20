@@ -1,0 +1,12 @@
+{
+  "seq": 1064400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "générer",
+      "produire",
+      "créer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

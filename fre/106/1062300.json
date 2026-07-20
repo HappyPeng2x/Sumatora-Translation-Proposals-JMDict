@@ -1,0 +1,25 @@
+{
+  "seq": 1062300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "court",
+      "brève",
+      "court (en durée)"
+    ],
+    [
+      "arrêt (au baseball)",
+      "arrêt (position de joueur)"
+    ],
+    [
+      "court-circuit"
+    ],
+    [
+      "cheveux courts"
+    ],
+    [
+      "vente à découvert"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

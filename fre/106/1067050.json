@@ -1,0 +1,12 @@
+{
+  "seq": 1067050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "souvenir",
+      "objet souvenir",
+      "chose rappelant un événement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

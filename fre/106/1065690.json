@@ -1,0 +1,11 @@
+{
+  "seq": 1065690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "session de jam",
+      "session de musique improvisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1066050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collège de niveau inférieur",
+      "établissement d'enseignement supérieur de niveau inférieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

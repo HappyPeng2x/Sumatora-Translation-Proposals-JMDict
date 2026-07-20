@@ -1,0 +1,15 @@
+{
+  "seq": 1062140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chant choral",
+      "chant en chœur"
+    ],
+    [
+      "chant collectif (ex. lors d'une manifestation)",
+      "cri de groupe (ex. lors d'une manifestation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

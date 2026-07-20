@@ -1,0 +1,11 @@
+{
+  "seq": 1064240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trouble lié au décalage horaire",
+      "fatigue due au décalage horaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

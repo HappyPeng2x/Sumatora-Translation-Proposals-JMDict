@@ -1,0 +1,12 @@
+{
+  "seq": 1064490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "différence de genre",
+      "inégalité entre les sexes",
+      "déséquilibre entre les sexes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

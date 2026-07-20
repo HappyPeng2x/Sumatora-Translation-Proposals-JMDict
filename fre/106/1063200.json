@@ -1,0 +1,15 @@
+{
+  "seq": 1063200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argent",
+      "en argent"
+    ],
+    [
+      "personne âgée",
+      "retraité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

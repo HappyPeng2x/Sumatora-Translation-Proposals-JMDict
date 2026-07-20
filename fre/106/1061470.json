@@ -1,0 +1,17 @@
+{
+  "seq": 1061470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exclusion",
+      "verrouillage",
+      "interdiction"
+    ],
+    [
+      "match sans but",
+      "match sans point",
+      "match sans but ni point"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

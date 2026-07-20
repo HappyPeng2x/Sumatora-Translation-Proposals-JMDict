@@ -1,0 +1,11 @@
+{
+  "seq": 1062420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrêt court",
+      "position de jeu dans le baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

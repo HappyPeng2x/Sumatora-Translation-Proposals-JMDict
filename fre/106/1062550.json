@@ -1,0 +1,12 @@
+{
+  "seq": 1062550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui se produit en spectacle",
+      "artiste de spectacle",
+      "personne qui attire l'attention par ses performances"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

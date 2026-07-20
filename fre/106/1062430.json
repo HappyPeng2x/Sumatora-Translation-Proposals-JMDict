@@ -1,0 +1,14 @@
+{
+  "seq": 1062430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "procédure à durée réduite",
+      "opération limitée dans le temps"
+    ],
+    [
+      "réunion courte en début ou fin de journée scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1067230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur de baseball capable de jouer à la fois en tant que frappeur droitier et gaucher",
+      "joueur de baseball ambidextre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

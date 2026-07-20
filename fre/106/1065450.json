@@ -1,0 +1,20 @@
+{
+  "seq": 1065450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "juge"
+    ],
+    [
+      "jugement",
+      "décision",
+      "appréciation"
+    ],
+    [
+      "jugement",
+      "appréciation",
+      "évaluation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
