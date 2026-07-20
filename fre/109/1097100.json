@@ -1,0 +1,16 @@
+{
+  "seq": 1097100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vierge",
+      "virginité"
+    ],
+    [
+      "vierge",
+      "inviolé",
+      "pur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

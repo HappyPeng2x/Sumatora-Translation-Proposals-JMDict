@@ -1,0 +1,17 @@
+{
+  "seq": 1096140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "incident inattendu",
+      "événement imprévu",
+      "occurrence surprenante"
+    ],
+    [
+      "spectacle",
+      "prestation",
+      "représentation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

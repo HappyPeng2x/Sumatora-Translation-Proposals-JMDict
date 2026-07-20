@@ -1,0 +1,15 @@
+{
+  "seq": 1100880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parfait",
+      "idéal"
+    ],
+    [
+      "jeu parfait",
+      "match parfait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

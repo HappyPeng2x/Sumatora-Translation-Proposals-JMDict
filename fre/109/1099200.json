@@ -1,0 +1,12 @@
+{
+  "seq": 1099200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "installation de batting",
+      "salle de batting",
+      "centre de batting"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

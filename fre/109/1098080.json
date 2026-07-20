@@ -1,0 +1,21 @@
+{
+  "seq": 1098080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liant",
+      "agent qui lie",
+      "ce qui lie"
+    ],
+    [
+      "support de papier avec des languettes pour fixer des documents",
+      "support de papier avec des languettes"
+    ],
+    [
+      "machine à brocher",
+      "machine de brochage",
+      "appareil de brochage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

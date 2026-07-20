@@ -1,0 +1,14 @@
+{
+  "seq": 1096670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "petit",
+      "livre",
+      "bon marché",
+      "au format",
+      "d'un magazine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1099650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abri",
+      "cabane",
+      "hutte",
+      "bâtiment de fortune"
+    ],
+    [
+      "barracks",
+      "casernement",
+      "bâtiment militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

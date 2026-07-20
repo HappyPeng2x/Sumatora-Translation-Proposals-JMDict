@@ -1,0 +1,15 @@
+{
+  "seq": 1098690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] licencié (d'université)",
+      "[n] diplômé (d'université)"
+    ],
+    [
+      "[n] célibataire",
+      "[n] homme non marié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

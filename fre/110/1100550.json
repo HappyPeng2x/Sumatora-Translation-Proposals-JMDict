@@ -1,0 +1,12 @@
+{
+  "seq": 1100550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "analyse",
+      "décomposition",
+      "examen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

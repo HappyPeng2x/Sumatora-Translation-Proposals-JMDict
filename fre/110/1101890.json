@@ -1,0 +1,18 @@
+{
+  "seq": 1101890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coussin",
+      "rembourrage"
+    ],
+    [
+      "feuille de papier",
+      "bloc de papier"
+    ],
+    [
+      "manette de jeu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

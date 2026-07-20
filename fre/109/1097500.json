@@ -1,0 +1,15 @@
+{
+  "seq": 1097500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préfixe",
+      "bio-"
+    ],
+    [
+      "nom, abbréviation",
+      "biotechnologie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

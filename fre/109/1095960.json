@@ -1,0 +1,13 @@
+{
+  "seq": 1095960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agir avec enthousiasme",
+      "travailler dur",
+      "montrer de l'enthousiasme",
+      "être plein d'énergie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

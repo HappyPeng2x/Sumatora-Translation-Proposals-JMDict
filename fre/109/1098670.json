@@ -1,0 +1,15 @@
+{
+  "seq": 1098670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nageoire papillon",
+      "style de natation en papillon"
+    ],
+    [
+      "string en forme de papillon",
+      "soutien-gorge en forme de papillon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

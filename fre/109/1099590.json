@@ -1,0 +1,16 @@
+{
+  "seq": 1099590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ballade",
+      "poésie narrative",
+      "composition musicale"
+    ],
+    [
+      "ballade",
+      "chanson populaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

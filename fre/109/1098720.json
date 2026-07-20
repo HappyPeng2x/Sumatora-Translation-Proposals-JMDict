@@ -1,0 +1,15 @@
+{
+  "seq": 1098720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bacille"
+    ],
+    [
+      "pest",
+      "malheur",
+      "calamité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

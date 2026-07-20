@@ -1,0 +1,13 @@
+{
+  "seq": 1099640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ballast (pour un navire, sous-marin, ballon à air chaud, etc.)"
+    ],
+    [
+      "ballast (pour la fondation d'une route ou d'un tracé ferroviaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

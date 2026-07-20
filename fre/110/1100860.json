@@ -1,0 +1,15 @@
+{
+  "seq": 1100860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partenariat",
+      "collaboration",
+      "association"
+    ],
+    [
+      "partenariat entre personnes du même sexe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

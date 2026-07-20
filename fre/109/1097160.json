@@ -1,0 +1,18 @@
+{
+  "seq": 1097160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déchirure",
+      "rupture",
+      "débordement",
+      "explosion"
+    ],
+    [
+      "émission soudaine",
+      "éclat",
+      "décharge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

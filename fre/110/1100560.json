@@ -1,0 +1,14 @@
+{
+  "seq": 1100560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vue en perspective",
+      "dessin en perspective"
+    ],
+    [
+      "perspective"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

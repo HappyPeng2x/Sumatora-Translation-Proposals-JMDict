@@ -1,0 +1,11 @@
+{
+  "seq": 1096030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manteau happi (surtout en style occidental)",
+      "manteau de bonheur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

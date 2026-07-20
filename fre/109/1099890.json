@@ -1,0 +1,11 @@
+{
+  "seq": 1099890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne de mise en vrac",
+      "ligne de transport en vrac"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

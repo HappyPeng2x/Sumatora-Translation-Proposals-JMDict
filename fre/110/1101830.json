@@ -1,0 +1,15 @@
+{
+  "seq": 1101830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "morceau",
+      "de tissu"
+    ],
+    [
+      "correctif",
+      "logiciel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

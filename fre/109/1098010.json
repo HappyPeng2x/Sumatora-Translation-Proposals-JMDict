@@ -1,0 +1,12 @@
+{
+  "seq": 1098010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "acteur de second plan",
+      "second acteur",
+      "acteur de soutien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

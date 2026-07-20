@@ -1,0 +1,13 @@
+{
+  "seq": 1095930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, comp] piratage informatique"
+    ],
+    [
+      "[n, sports] coup de pied malhonnête (au basket-ball, au rugby, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

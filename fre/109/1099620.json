@@ -1,0 +1,11 @@
+{
+  "seq": 1099620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin de vente en gros",
+      "magasin de divers produits"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

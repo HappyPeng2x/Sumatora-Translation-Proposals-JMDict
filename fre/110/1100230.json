@@ -1,0 +1,11 @@
+{
+  "seq": 1100230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manœuvre de baseball consistant à faire un bunt puis à courir vers une base",
+      "manœuvre de bunt et course en baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

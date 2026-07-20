@@ -1,0 +1,19 @@
+{
+  "seq": 1096490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suspension",
+      "pendaison"
+    ],
+    [
+      "suspendre",
+      "geler",
+      "verrouiller"
+    ],
+    [
+      "surplomb"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

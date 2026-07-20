@@ -1,0 +1,15 @@
+{
+  "seq": 1099750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "barium",
+      "élément chimique (symbole Ba)"
+    ],
+    [
+      "suspension de sulfate de baryum",
+      "préparation médicale utilisée en radiologie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

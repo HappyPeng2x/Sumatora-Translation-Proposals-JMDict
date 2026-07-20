@@ -1,0 +1,17 @@
+{
+  "seq": 1100540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nettoyage (de données)",
+      "purge (de données)",
+      "suppression (de données)"
+    ],
+    [
+      "purge",
+      "élimination (de fonctionnaires)",
+      "démission (forcée) (de fonctionnaires)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

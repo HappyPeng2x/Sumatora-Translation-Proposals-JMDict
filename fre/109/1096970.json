@@ -1,0 +1,21 @@
+{
+  "seq": 1096970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taverne",
+      "bar",
+      "estaminet"
+    ],
+    [
+      "bar",
+      "établissement de vente de boissons et de nourriture"
+    ],
+    [
+      "barre (en saut à la perche ou en pole vault)",
+      "barre transversale (en football, rugby, etc.)",
+      "barre (en danse)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

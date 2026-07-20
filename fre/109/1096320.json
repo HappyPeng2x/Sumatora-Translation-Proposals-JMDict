@@ -1,0 +1,10 @@
+{
+  "seq": 1096320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "halation (en photographie, effet de halo causé par une lumière parasite autour d'un sujet)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

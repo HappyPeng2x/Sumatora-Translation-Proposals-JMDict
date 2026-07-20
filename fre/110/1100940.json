@@ -1,0 +1,16 @@
+{
+  "seq": 1100940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "permanent",
+      "durable",
+      "éternel"
+    ],
+    [
+      "perm",
+      "boucle permanente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

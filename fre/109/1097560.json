@@ -1,0 +1,10 @@
+{
+  "seq": 1097560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bioconversion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

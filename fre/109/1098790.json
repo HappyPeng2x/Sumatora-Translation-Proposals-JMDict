@@ -1,0 +1,23 @@
+{
+  "seq": 1098790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fond",
+      "arrière-plan"
+    ],
+    [
+      "contexte",
+      "circonstances"
+    ],
+    [
+      "musique d'ambiance",
+      "musique de fond"
+    ],
+    [
+      "activité arrière-plan",
+      "tâche en arrière-plan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

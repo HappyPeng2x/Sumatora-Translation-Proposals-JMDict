@@ -1,0 +1,18 @@
+{
+  "seq": 1100850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compagnon de danse"
+    ],
+    [
+      "collègue",
+      "partenaire de travail"
+    ],
+    [
+      "compagnon",
+      "conjoint"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

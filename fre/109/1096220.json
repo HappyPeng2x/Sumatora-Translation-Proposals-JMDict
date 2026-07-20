@@ -1,0 +1,14 @@
+{
+  "seq": 1096220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "harmoniser",
+      "être en harmonie"
+    ],
+    [
+      "dire la même chose en chœur (sans s'en rendre compte)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

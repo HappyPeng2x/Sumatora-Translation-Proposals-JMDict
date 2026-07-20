@@ -1,0 +1,14 @@
+{
+  "seq": 1097980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vibration"
+    ],
+    [
+      "vibrato",
+      "trill"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

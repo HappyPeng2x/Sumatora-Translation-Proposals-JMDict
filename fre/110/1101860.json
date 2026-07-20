@@ -1,0 +1,15 @@
+{
+  "seq": 1101860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tapotement",
+      "frappement léger"
+    ],
+    [
+      "frappe",
+      "coup léger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

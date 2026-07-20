@@ -1,0 +1,11 @@
+{
+  "seq": 1101610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exercice de pattern",
+      "exercice de pratique de pattern"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

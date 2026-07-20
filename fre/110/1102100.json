@@ -1,0 +1,11 @@
+{
+  "seq": 1102100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discussion de groupe",
+      "débat en panel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

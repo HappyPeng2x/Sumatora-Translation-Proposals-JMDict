@@ -1,0 +1,11 @@
+{
+  "seq": 1101730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "programme de package",
+      "programme d'ensemble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1100740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voyage effectué par une personne",
+      "déplacement d'une personne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

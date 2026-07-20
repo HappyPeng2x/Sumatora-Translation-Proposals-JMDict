@@ -1,0 +1,12 @@
+{
+  "seq": 1101580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "communications en ligne",
+      "communications via ordinateur personnel",
+      "service en ligne pré-Internet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

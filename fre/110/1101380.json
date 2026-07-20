@@ -1,0 +1,13 @@
+{
+  "seq": 1101380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paquet (de données)"
+    ],
+    [
+      "paquet ; colis ; paquetage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1100020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Jour des amoureux",
+      "Valentine's Day"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

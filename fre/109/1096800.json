@@ -1,0 +1,12 @@
+{
+  "seq": 1096800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fait à la main",
+      "artisanal",
+      "manuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

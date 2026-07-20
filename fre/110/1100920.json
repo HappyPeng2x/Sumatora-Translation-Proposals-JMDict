@@ -1,0 +1,11 @@
+{
+  "seq": 1100920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "égaliser le par pour le tour complet",
+      "faire un score égal au par sur l'ensemble du tour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

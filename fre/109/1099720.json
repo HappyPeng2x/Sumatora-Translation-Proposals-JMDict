@@ -1,0 +1,22 @@
+{
+  "seq": 1099720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "barrière",
+      "mur de protection",
+      "bouclier"
+    ],
+    [
+      "obstacle",
+      "gêne",
+      "difficulté"
+    ],
+    [
+      "bouclier imaginaire",
+      "protection fictive",
+      "abri imaginaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

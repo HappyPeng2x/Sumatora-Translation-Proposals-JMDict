@@ -1,0 +1,10 @@
+{
+  "seq": 1097890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compiler en bytecode"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

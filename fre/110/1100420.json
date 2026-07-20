@@ -1,0 +1,15 @@
+{
+  "seq": 1100420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "zone de stationnement",
+      "aire de stationnement"
+    ],
+    [
+      "aire de repos",
+      "zone de service"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1101800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passion",
+      "ardeur",
+      "enthousiasme"
+    ],
+    [
+      "la Passion",
+      "la souffrance et la mort de Jésus-Christ"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

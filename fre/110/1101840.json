@@ -1,0 +1,11 @@
+{
+  "seq": 1101840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "test de patch",
+      "test en patch"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

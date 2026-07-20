@@ -1,0 +1,15 @@
+{
+  "seq": 1100800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séparation",
+      "cloison",
+      "séparation de pièce"
+    ],
+    [
+      "partition (d'un disque dur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

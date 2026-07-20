@@ -1,0 +1,16 @@
+{
+  "seq": 1098950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "numéro arrière",
+      "numéro d'archive",
+      "numéro d'un ancien numéro de publication"
+    ],
+    [
+      "numéro sur le dos",
+      "numéro de maillot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

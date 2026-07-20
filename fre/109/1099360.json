@@ -1,0 +1,17 @@
+{
+  "seq": 1099360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le passage du relais",
+      "le transfert du bâton",
+      "le relais"
+    ],
+    [
+      "le transfert",
+      "le passage de responsabilités",
+      "le remplacement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

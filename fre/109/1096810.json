@@ -1,0 +1,15 @@
+{
+  "seq": 1096810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manipulateur",
+      "personne qui manipule des chiens"
+    ],
+    [
+      "gestionnaire",
+      "routine logicielle chargée de gérer une tâche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

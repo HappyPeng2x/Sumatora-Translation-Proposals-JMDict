@@ -1,0 +1,15 @@
+{
+  "seq": 1101930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prêtre",
+      "titre donné aux jésuites portugais qui sont venus au Japon au seizième siècle"
+    ],
+    [
+      "christianisme",
+      "chrétien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

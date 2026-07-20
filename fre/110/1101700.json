@@ -1,0 +1,25 @@
+{
+  "seq": 1101700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sac",
+      "colis",
+      "carton"
+    ],
+    [
+      "emballer",
+      "packager",
+      "envelopper"
+    ],
+    [
+      "masque facial",
+      "masque pour le visage"
+    ],
+    [
+      "forfait",
+      "package (tour, voyage, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

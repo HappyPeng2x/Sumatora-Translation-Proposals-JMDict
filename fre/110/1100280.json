@@ -1,0 +1,14 @@
+{
+  "seq": 1100280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre d'un groupe (rock)",
+      "membre d'un groupe de musique"
+    ],
+    [
+      "musicien d'un orchestre de musique militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

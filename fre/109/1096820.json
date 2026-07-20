@@ -1,0 +1,21 @@
+{
+  "seq": 1096820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, sports] faute de main (en football)"
+    ],
+    [
+      "[n, sports] manipulation (en rugby, handball, etc.)"
+    ],
+    [
+      "[n] conduite (d'un véhicule)"
+    ],
+    [
+      "[n, vs, vt] gestion (d'une situation, d'une affaire, etc.)",
+      "[n, vs, vt] direction (d'une équipe)",
+      "[n, vs, vt] prise en charge (d'une affaire, d'un problème)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1096250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excellent",
+      "formidable",
+      "magnifique"
+    ],
+    [
+      "d'accord",
+      "compris",
+      "okay"
+    ],
+    []
+  ],
+  "model": "qwen3:14b"
+}

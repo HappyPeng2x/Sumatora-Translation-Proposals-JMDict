@@ -1,0 +1,11 @@
+{
+  "seq": 1099150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taille de lot",
+      "taille de batch"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

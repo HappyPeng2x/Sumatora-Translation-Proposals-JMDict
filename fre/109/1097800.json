@@ -1,0 +1,19 @@
+{
+  "seq": 1097800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Viking"
+    ],
+    [
+      "buffet",
+      "smorgasbord"
+    ],
+    [
+      "mélange",
+      "variété",
+      "assortiment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1100390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sweatshirt à capuche",
+      "pull à capuche",
+      "hoodie"
+    ],
+    [
+      "veste à capuche",
+      "parka",
+      "anorak"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

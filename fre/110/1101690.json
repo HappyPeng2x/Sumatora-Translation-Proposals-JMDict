@@ -1,0 +1,19 @@
+{
+  "seq": 1101690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "emballage",
+      "manipulation d'objets dans un sac de voyage"
+    ],
+    [
+      "matériau d'emballage",
+      "matériau utilisé pour protéger les marchandises emballées"
+    ],
+    [
+      "joint de scellage",
+      "gasket"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

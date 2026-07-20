@@ -1,0 +1,11 @@
+{
+  "seq": 1102080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre d'un panel",
+      "participant à un débat ou une discussion en panel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

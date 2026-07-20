@@ -1,0 +1,15 @@
+{
+  "seq": 1100380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par"
+    ],
+    [
+      "équivalence",
+      "valeur nominale",
+      "parité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

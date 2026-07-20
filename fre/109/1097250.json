@@ -1,0 +1,11 @@
+{
+  "seq": 1097250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "observation des oiseaux",
+      "observation ornithologique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

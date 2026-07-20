@@ -1,0 +1,13 @@
+{
+  "seq": 1099400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bandeau"
+    ],
+    [
+      "bandeau (sur une page web)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

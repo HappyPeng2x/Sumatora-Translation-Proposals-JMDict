@@ -1,0 +1,15 @@
+{
+  "seq": 1100060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instrument de mesure de la pression atmosphérique"
+    ],
+    [
+      "indicateur",
+      "mesure",
+      "indice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

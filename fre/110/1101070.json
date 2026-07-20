@@ -1,0 +1,14 @@
+{
+  "seq": 1101070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tarte",
+      "pâté"
+    ],
+    [
+      "palmier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

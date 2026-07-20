@@ -1,0 +1,11 @@
+{
+  "seq": 1101770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inhalation passive de la fumée",
+      "exposition passive à la fumée de cigarette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

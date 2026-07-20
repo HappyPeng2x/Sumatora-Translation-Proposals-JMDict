@@ -1,0 +1,20 @@
+{
+  "seq": 1098210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "véhicule tout-terrain",
+      "quad"
+    ],
+    [
+      "buggy de plage",
+      "buggy de dune"
+    ],
+    [
+      "buggy",
+      "poussette",
+      "chariot d'enfant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

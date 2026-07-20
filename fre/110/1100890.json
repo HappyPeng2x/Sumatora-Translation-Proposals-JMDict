@@ -1,0 +1,11 @@
+{
+  "seq": 1100890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu parfait",
+      "jeu sans erreur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

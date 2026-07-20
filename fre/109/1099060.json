@@ -1,0 +1,11 @@
+{
+  "seq": 1099060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "miroir de recul",
+      "miroir arrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

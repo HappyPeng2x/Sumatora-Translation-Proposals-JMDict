@@ -1,0 +1,11 @@
+{
+  "seq": 1100260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "score d'ensemble",
+      "score de groupe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

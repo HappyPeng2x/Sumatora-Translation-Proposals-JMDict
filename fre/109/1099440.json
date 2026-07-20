@@ -1,0 +1,11 @@
+{
+  "seq": 1099440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fille en tenue de lapin",
+      "serveuse en tenue de lapin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

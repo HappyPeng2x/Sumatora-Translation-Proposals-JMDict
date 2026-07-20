@@ -1,0 +1,12 @@
+{
+  "seq": 1099090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dossier en attente",
+      "retard",
+      "accumulation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

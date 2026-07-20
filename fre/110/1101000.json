@@ -1,0 +1,19 @@
+{
+  "seq": 1101000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salon",
+      "salle de réception",
+      "salle de séjour",
+      "chambre d'hôte",
+      "vestibule"
+    ],
+    [
+      "café",
+      "buvette",
+      "comptoir de snacks"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

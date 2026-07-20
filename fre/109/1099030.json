@@ -1,0 +1,17 @@
+{
+  "seq": 1099030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soutien émotionnel",
+      "colonne vertébrale (figuré)",
+      "appui"
+    ],
+    [
+      "structure de soutien (d'un réseau)",
+      "ossature (d'un réseau)",
+      "support technique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

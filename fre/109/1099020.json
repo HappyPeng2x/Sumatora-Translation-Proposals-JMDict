@@ -1,0 +1,11 @@
+{
+  "seq": 1099020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "régression en arrière",
+      "propagation arrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

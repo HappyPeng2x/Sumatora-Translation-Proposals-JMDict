@@ -1,0 +1,22 @@
+{
+  "seq": 1101990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mécène",
+      "sponsoreur",
+      "protecteur"
+    ],
+    [
+      "père de famille",
+      "homme qui finance une femme"
+    ],
+    [
+      "patron",
+      "maître",
+      "supérieur",
+      "chef"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

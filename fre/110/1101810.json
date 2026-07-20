@@ -1,0 +1,16 @@
+{
+  "seq": 1101810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clignotement des phares (en tant que signal à un autre conducteur)"
+    ],
+    [
+      "passage (dans le tennis)"
+    ],
+    [
+      "passage (souvent dans les composés)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

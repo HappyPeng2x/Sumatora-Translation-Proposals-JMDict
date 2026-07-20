@@ -1,0 +1,11 @@
+{
+  "seq": 1100250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "col de bande",
+      "col en bande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1100130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "institution financière"
+    ],
+    [
+      "rive (d'un fleuve, etc.) ; digue"
+    ],
+    [
+      "éminence sous-marine"
+    ],
+    [
+      "courbe en pente"
+    ],
+    [
+      "incliner (avion)"
+    ],
+    [
+      "réutilisation de mouvements d'un personnage (dans un anime)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1098180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vide"
+    ],
+    [
+      "absorption",
+      "souffle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

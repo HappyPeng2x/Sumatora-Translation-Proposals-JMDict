@@ -1,0 +1,11 @@
+{
+  "seq": 1101280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin de test pour l'essai de nouveaux produits",
+      "boutique d'essai pour la vente de nouveaux produits"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

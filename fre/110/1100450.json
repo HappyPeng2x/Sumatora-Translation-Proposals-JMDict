@@ -1,0 +1,15 @@
+{
+  "seq": 1100450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parc",
+      "zone de loisirs"
+    ],
+    [
+      "stationnement",
+      "parking"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

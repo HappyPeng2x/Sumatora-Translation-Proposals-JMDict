@@ -1,0 +1,13 @@
+{
+  "seq": 1099210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "batterie"
+    ],
+    [
+      "batterie (ensemble du lanceur et du receveur en baseball)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

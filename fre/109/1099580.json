@@ -1,0 +1,12 @@
+{
+  "seq": 1099580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom",
+      "phénomène",
+      "nom d'une chanson pop japonaise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1098250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bactéries",
+      "bacilles",
+      "germes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

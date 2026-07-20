@@ -1,0 +1,22 @@
+{
+  "seq": 1098770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soutien",
+      "appui",
+      "secours"
+    ],
+    [
+      "couverture",
+      "protection",
+      "soutien"
+    ],
+    [
+      "sauvegarde",
+      "copie de secours",
+      "réservation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

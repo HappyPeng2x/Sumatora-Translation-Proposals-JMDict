@@ -1,0 +1,17 @@
+{
+  "seq": 1097090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mise à jour",
+      "upgrade",
+      "mise à niveau (logicielle)"
+    ],
+    [
+      "amélioration",
+      "upgrade",
+      "mise à niveau (d'un appareil, d'un produit, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

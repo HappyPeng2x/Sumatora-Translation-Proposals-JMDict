@@ -1,0 +1,11 @@
+{
+  "seq": 1097900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opération consistant à inverser l'ordre des octets dans un mot ou un nombre",
+      "procédé d'inversion des octets dans un mot ou un nombre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

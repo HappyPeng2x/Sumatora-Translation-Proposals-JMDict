@@ -1,0 +1,15 @@
+{
+  "seq": 1098450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contraception",
+      "contraceptif"
+    ],
+    [
+      "conversion d'autobus en camping-car",
+      "camion de camping"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

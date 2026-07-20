@@ -1,0 +1,12 @@
+{
+  "seq": 1099190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "structure en forme de cage utilisée pour l'entraînement au baseball",
+      "structure en cage pour s'entraîner au baseball",
+      "cage de batting pour le baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

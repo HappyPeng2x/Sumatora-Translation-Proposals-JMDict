@@ -1,0 +1,16 @@
+{
+  "seq": 1096620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chasse"
+    ],
+    [
+      "comportement oscillatoire d'une boucle de rétroaction non convergente"
+    ],
+    [
+      "chapeau de chasse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

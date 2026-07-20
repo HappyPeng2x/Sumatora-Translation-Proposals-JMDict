@@ -1,0 +1,11 @@
+{
+  "seq": 1099880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navire-citerne",
+      "navire transportant des marchandises en vrac"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

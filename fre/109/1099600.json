@@ -1,0 +1,15 @@
+{
+  "seq": 1099600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "variété",
+      "diversité"
+    ],
+    [
+      "émission de variétés",
+      "spectacle varié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

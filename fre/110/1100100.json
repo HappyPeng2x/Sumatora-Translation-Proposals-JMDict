@@ -1,0 +1,10 @@
+{
+  "seq": 1100100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ceinture de Van Allen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

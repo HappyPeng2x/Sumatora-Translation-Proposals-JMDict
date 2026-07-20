@@ -1,0 +1,11 @@
+{
+  "seq": 1100720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnalisation",
+      "personnalisation du produit en cessant d'être un article de luxe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

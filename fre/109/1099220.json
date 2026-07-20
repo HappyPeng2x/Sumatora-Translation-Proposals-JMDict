@@ -1,0 +1,13 @@
+{
+  "seq": 1099220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bateau"
+    ],
+    [
+      "sushi au maquereau pressé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
