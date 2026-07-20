@@ -1,0 +1,26 @@
+{
+  "seq": 1010450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "croustillant",
+      "croquant"
+    ],
+    [
+      "déchirure",
+      "arrachement",
+      "craquement"
+    ],
+    [
+      "vif",
+      "énergique",
+      "vigoureux"
+    ],
+    [
+      "neuf et de qualité",
+      "très repassé",
+      "net et précis (facture)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

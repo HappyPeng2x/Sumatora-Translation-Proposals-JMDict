@@ -1,0 +1,12 @@
+{
+  "seq": 1014910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malfaiteur",
+      "bandit",
+      " hors-la-loi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

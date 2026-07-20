@@ -1,0 +1,17 @@
+{
+  "seq": 1010720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imperturbé",
+      "détaché",
+      "serein"
+    ],
+    [
+      "inflexible",
+      "inébranlable",
+      "ferme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

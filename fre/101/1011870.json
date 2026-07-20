@@ -1,0 +1,16 @@
+{
+  "seq": 1011870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mâcher bruyamment",
+      "mordre bruyamment",
+      "croquer"
+    ],
+    [
+      "gratter (une démangeaison)",
+      "grincer (les dents)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

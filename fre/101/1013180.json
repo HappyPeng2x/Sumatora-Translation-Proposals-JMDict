@@ -1,0 +1,15 @@
+{
+  "seq": 1013180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chancelant",
+      "démunis",
+      "frêle",
+      "faible",
+      "décrépit",
+      "infirm"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

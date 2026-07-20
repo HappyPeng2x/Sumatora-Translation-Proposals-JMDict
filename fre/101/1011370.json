@@ -1,0 +1,12 @@
+{
+  "seq": 1011370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ivre mort",
+      "ivre comme un bœuf",
+      "complètement saoul"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

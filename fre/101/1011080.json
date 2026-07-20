@@ -1,0 +1,22 @@
+{
+  "seq": 1011080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flottant",
+      "dérivant",
+      "avec un sentiment de légèreté"
+    ],
+    [
+      "doucement",
+      "légèrement",
+      "avec douceur"
+    ],
+    [
+      "agitéement",
+      "inassurément",
+      "nerveusement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

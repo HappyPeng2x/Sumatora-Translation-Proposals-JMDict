@@ -1,0 +1,17 @@
+{
+  "seq": 1011070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de façon imprévue",
+      "de manière inattendue",
+      "sans but précis"
+    ],
+    [
+      "en swaying lentement",
+      "en titubant",
+      "d'une manière faible et instable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

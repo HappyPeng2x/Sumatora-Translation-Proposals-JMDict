@@ -1,0 +1,16 @@
+{
+  "seq": 1012150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commencer par la première étape",
+      "prendre la première initiative",
+      "commencer par les choses simples"
+    ],
+    [
+      "celui qui propose une idée doit être le premier à l'appliquer",
+      "celui qui suggère quelque chose doit être le premier à l'agir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

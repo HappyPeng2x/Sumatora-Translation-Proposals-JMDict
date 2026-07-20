@@ -1,0 +1,21 @@
+{
+  "seq": 1011040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mollesse",
+      "manque de fermeté"
+    ],
+    [
+      "mollassant",
+      "flasque",
+      "paresseux"
+    ],
+    [
+      "bavardage",
+      "murmure",
+      "parler avec de la nourriture dans la bouche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

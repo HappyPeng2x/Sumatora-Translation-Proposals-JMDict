@@ -1,0 +1,21 @@
+{
+  "seq": 1010610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "subitement",
+      "brusquement"
+    ],
+    [
+      "par hasard",
+      "par accident",
+      "d'un coup"
+    ],
+    [
+      "légèrement",
+      "agilement",
+      "avec agilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

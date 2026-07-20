@@ -1,0 +1,18 @@
+{
+  "seq": 1010660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de manière vacillante",
+      "de manière titubante",
+      "de manière instable"
+    ],
+    [
+      "maigre",
+      "étique",
+      "frêle",
+      "mince"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1013580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "artefact",
+      "objet artificiel",
+      "objet culturel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

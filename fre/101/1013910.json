@@ -1,0 +1,11 @@
+{
+  "seq": 1013910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "verbe (nouveau) : représenter sous forme d'icône",
+      "verbe (nouveau) : transformer en icône"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

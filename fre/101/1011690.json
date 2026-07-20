@@ -1,0 +1,17 @@
+{
+  "seq": 1011690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doucement",
+      "faiblement",
+      "avec une lumière faible"
+    ],
+    [
+      "chaleureusement",
+      "aimablement",
+      "d'une manière réconfortante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

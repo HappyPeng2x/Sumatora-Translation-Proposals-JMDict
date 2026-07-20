@@ -1,0 +1,17 @@
+{
+  "seq": 1011990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un bruit sec",
+      "en claquant",
+      "nettement"
+    ],
+    [
+      "rien de plus que",
+      "simplement",
+      "exactement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

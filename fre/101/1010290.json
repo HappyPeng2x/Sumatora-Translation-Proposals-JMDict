@@ -1,0 +1,12 @@
+{
+  "seq": 1010290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "divorcé(e) une fois",
+      "personne ayant été divorcée une fois",
+      "personne portant une croix sur le registre familial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

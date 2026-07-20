@@ -1,0 +1,17 @@
+{
+  "seq": 1011170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "continu",
+      "sans interruption",
+      "constant"
+    ],
+    [
+      "démolir les cloisons",
+      "raser les murs",
+      "unir des pièces"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

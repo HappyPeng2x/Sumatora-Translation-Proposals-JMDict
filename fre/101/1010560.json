@@ -1,0 +1,12 @@
+{
+  "seq": 1010560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vol de sac",
+      "agression avec vol de sac",
+      "voleur de sac"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

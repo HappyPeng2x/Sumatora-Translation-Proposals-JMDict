@@ -1,0 +1,17 @@
+{
+  "seq": 1011270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flou",
+      "tremblement",
+      "défaut de netteté"
+    ],
+    [
+      "déviation",
+      "décalage",
+      "déplacement léger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

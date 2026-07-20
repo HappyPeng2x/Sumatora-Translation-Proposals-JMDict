@@ -1,0 +1,14 @@
+{
+  "seq": 1011050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à l'improviste",
+      "par hasard",
+      "sans but précis",
+      "subitement",
+      "de façon inattendue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

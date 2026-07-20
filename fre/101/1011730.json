@@ -1,0 +1,22 @@
+{
+  "seq": 1011730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "émouvoir",
+      "être ému",
+      "toucher émotionnellement"
+    ],
+    [
+      "tomber doucement",
+      "chuter légèrement",
+      "tomber en douceur"
+    ],
+    [
+      "devenir un peu ivre",
+      "être légèrement saoul",
+      "être enivrée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1013110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme",
+      "de la manière de"
+    ],
+    [
+      "afin que",
+      "pour que"
+    ],
+    [
+      "s'assurer de",
+      "ne pas oublier de"
+    ],
+    [
+      "j'espère que",
+      "je prie que",
+      "que... (après le forme -masu d'un verbe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

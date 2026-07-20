@@ -1,0 +1,11 @@
+{
+  "seq": 1012300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cicade robuste (Oncotympana maculaticollis)",
+      "cicade mingming"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

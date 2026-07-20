@@ -1,0 +1,17 @@
+{
+  "seq": 1011980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en train de couper",
+      "en train de tailler",
+      "en train de trancher"
+    ],
+    [
+      "mignon",
+      "rond",
+      "potelé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

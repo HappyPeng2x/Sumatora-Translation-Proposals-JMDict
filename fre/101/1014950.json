@@ -1,0 +1,12 @@
+{
+  "seq": 1014950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "responsabilité",
+      "imputabilité",
+      "réponsabilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

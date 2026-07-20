@@ -1,0 +1,30 @@
+{
+  "seq": 1010340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vigoureusement",
+      "brutalement",
+      "avec un craquement"
+    ],
+    [
+      "avec un bruit de croquement"
+    ],
+    [
+      "dur",
+      "craquant",
+      "rigide"
+    ],
+    [
+      "travaillement",
+      "énergiquement",
+      "avec force"
+    ],
+    [
+      "avec un bruit répétitif",
+      "avec beaucoup de bruit",
+      "avec un bruit continu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

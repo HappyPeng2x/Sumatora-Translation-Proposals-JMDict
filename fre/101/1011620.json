@@ -1,0 +1,13 @@
+{
+  "seq": 1011620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dire",
+      "parler sans arrêt",
+      "babiller",
+      "parler de manière incohérente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

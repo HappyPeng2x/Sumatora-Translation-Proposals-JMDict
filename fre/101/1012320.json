@@ -1,0 +1,19 @@
+{
+  "seq": 1012320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "irriter",
+      "se sentir irrité",
+      "être en colère",
+      "être offensé"
+    ],
+    [
+      "se sentir mal",
+      "être nauséabond",
+      "avoir le mal de mer",
+      "être nauséeux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

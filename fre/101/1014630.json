@@ -1,0 +1,14 @@
+{
+  "seq": 1014630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extérieur"
+    ],
+    [
+      "vêtement extérieur",
+      "habillement supérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

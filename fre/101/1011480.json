@@ -1,0 +1,22 @@
+{
+  "seq": 1011480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collant",
+      "adhérant",
+      "accroché"
+    ],
+    [
+      "avec un bruit sec",
+      "durement",
+      "fortement"
+    ],
+    [
+      "abondamment",
+      "épaissement",
+      "partout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

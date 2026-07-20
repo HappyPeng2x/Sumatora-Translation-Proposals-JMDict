@@ -1,0 +1,16 @@
+{
+  "seq": 1011700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brûlant",
+      "fumant",
+      "chaud",
+      "neuf (sorti du four)"
+    ],
+    [
+      "neuf (sorti de l'université), récent (couple marié)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

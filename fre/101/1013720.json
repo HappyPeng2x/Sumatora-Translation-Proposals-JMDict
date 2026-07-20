@@ -1,0 +1,12 @@
+{
+  "seq": 1013720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "idiot",
+      "imbécile",
+      "dilettante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

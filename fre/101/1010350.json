@@ -1,0 +1,18 @@
+{
+  "seq": 1010350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fuir",
+      "se révéler",
+      "être découvert",
+      "être dévoilé",
+      "être exposé"
+    ],
+    [
+      "s'échapper",
+      "prendre la fuite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1011510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imbécile",
+      "idiot",
+      "abruti"
+    ],
+    [
+      "Tokyoite",
+      "Tokyo natif",
+      "Tokyo né"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

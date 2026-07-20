@@ -1,0 +1,14 @@
+{
+  "seq": 1010880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à coups secs",
+      "brusquement",
+      "avec un bruit sec",
+      "nettement",
+      "fermement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

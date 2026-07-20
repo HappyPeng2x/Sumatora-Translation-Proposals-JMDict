@@ -1,0 +1,27 @@
+{
+  "seq": 1011840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peu à peu",
+      "progressivement",
+      "d'une manière aérienne"
+    ],
+    [
+      "bientôt",
+      "dans un futur proche"
+    ],
+    [
+      "ici et là",
+      "disséminé",
+      "dispersé"
+    ],
+    [
+      "taches",
+      "points",
+      "boutons",
+      "éruption cutanée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

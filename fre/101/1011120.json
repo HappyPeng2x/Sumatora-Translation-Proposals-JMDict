@@ -1,0 +1,20 @@
+{
+  "seq": 1011120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruyant",
+      "son strident",
+      "vibrations (comme un téléphone)"
+    ],
+    [
+      "gémir",
+      "murmurer en se plaignant"
+    ],
+    [
+      "voiture",
+      "automobile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1014520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chien guide",
+      "chien d'assistance visuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

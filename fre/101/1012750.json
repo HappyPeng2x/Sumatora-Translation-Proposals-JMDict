@@ -1,0 +1,14 @@
+{
+  "seq": 1012750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anxieusement",
+      "impatiemment",
+      "inquietement",
+      "en s'agitant",
+      "en s'énervant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

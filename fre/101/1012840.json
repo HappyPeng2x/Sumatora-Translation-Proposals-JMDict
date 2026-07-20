@@ -1,0 +1,30 @@
+{
+  "seq": 1012840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dangerieux",
+      "risqué",
+      "périlleux"
+    ],
+    [
+      "affreux",
+      "terrible",
+      "nul",
+      "détestable"
+    ],
+    [
+      "formidable",
+      "incroyable",
+      "génial",
+      "super"
+    ],
+    [
+      "fou",
+      "déraisonnable",
+      "hors du commun",
+      "extrême"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

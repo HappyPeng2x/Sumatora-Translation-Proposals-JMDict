@@ -1,0 +1,17 @@
+{
+  "seq": 1014900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin de vente",
+      "centre commercial",
+      "boutique"
+    ],
+    [
+      "prise électrique",
+      "bouchon de prise",
+      "embranchement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

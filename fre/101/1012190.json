@@ -1,0 +1,13 @@
+{
+  "seq": 1012190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impossible à faire comme on le voudrait",
+      "difficile à réaliser",
+      "hors de son contrôle",
+      "qui ne se déroule pas comme on le souhaite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

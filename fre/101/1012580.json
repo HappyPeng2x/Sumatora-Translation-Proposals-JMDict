@@ -1,0 +1,17 @@
+{
+  "seq": 1012580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parodie",
+      "imitation",
+      "copie maladroite"
+    ],
+    [
+      "jeu de mots",
+      "double sens",
+      "pun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

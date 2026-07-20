@@ -1,0 +1,20 @@
+{
+  "seq": 1011280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se troubler",
+      "être flou (à cause du mouvement ; d'une photo, vidéo, etc.)",
+      "être secoué (d'une caméra)"
+    ],
+    [
+      "vaciller",
+      "osciller (dans ses croyances, politique, etc.)"
+    ],
+    [
+      "se déplacer",
+      "être légèrement décalé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

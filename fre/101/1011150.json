@@ -1,0 +1,20 @@
+{
+  "seq": 1011150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déverser",
+      "renverser",
+      "jeter par terre",
+      "vider par renversement"
+    ],
+    [
+      "avouer",
+      "révéler",
+      "dévoiler",
+      "exprimer librement",
+      "faire sortir (une émotion)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

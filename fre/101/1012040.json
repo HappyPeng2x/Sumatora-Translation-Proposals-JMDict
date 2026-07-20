@@ -1,0 +1,16 @@
+{
+  "seq": 1012040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "escroc",
+      "arnaqueur",
+      "voleur de sacs"
+    ],
+    [
+      "pimp",
+      "proxénète"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

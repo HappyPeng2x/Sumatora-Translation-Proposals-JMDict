@@ -1,0 +1,26 @@
+{
+  "seq": 1011420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'une manière naïve",
+      "d'une façon insouciante"
+    ],
+    [
+      "indiscretement",
+      "légèrement",
+      "frivolement",
+      "d'un ton léger"
+    ],
+    [
+      "fin",
+      "mince",
+      "fragile"
+    ],
+    [
+      "s'embrasant",
+      "s'enflammant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1010990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "petit morceau de soie",
+      "petit chiffon",
+      "morceau de crêpe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

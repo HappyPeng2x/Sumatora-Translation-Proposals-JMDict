@@ -1,0 +1,19 @@
+{
+  "seq": 1011320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être épuisé",
+      "être fatigué",
+      "être à bout de forces",
+      "tomber en pâmoison"
+    ],
+    [
+      "perdre espoir",
+      "se décourager",
+      "abdiquer",
+      "céder"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

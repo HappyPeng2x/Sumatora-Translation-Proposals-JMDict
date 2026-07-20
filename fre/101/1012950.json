@@ -1,0 +1,12 @@
+{
+  "seq": 1012950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terminer fermement",
+      "achever résolument",
+      "faire en sorte que quelque chose soit complètement accompli"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

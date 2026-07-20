@@ -1,0 +1,11 @@
+{
+  "seq": 1012680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marmotte volante du Japon",
+      "marmotte volante naine du Japon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

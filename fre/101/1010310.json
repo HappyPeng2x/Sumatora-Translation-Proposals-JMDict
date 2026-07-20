@@ -1,0 +1,16 @@
+{
+  "seq": 1010310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excrément",
+      "merde"
+    ],
+    [
+      "choses sales",
+      "pooh-pooh",
+      "poop"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1012340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir sérieux",
+      "prendre quelque chose au sérieux",
+      "s'irriter",
+      "se mettre en colère",
+      "se mettre en rogne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

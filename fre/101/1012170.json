@@ -1,0 +1,12 @@
+{
+  "seq": 1012170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avant",
+      "d'ici",
+      "au plus tard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

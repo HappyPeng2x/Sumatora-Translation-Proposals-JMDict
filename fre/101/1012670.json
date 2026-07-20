@@ -1,0 +1,23 @@
+{
+  "seq": 1012670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obtenir",
+      "acquérir",
+      "s'emparer de",
+      "prendre possession de",
+      "gagner (le cœur de quelqu'un)"
+    ],
+    [
+      "apprendre",
+      "maîtriser"
+    ],
+    [
+      "achever",
+      "terminer",
+      "compléter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

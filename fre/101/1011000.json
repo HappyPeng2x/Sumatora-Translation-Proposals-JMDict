@@ -1,0 +1,18 @@
+{
+  "seq": 1011000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rond",
+      "charnu",
+      "bien développé",
+      "plein"
+    ],
+    [
+      "agréable",
+      "parfumé",
+      "riche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

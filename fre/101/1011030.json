@@ -1,0 +1,13 @@
+{
+  "seq": 1011030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impudent",
+      "brazen",
+      "sans vergogne",
+      "audacieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

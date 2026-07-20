@@ -1,0 +1,10 @@
+{
+  "seq": 1014730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nombre de frappeurs déjà hors des bases"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

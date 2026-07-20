@@ -1,0 +1,13 @@
+{
+  "seq": 1013130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir",
+      "atteindre le point où",
+      "commencer à",
+      "commencer à faire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

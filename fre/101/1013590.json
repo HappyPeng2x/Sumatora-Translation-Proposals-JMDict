@@ -1,0 +1,13 @@
+{
+  "seq": 1013590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "article",
+      "nouvel article",
+      "article de journal",
+      "article de magazine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

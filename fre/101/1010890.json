@@ -1,0 +1,21 @@
+{
+  "seq": 1010890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rempli d'énergie, vif, dynamique",
+      "jeune et plein d'élan, surtout chez une jeune femme"
+    ],
+    [
+      "bondissant, agité (comme un poisson pris dans un filet)"
+    ],
+    [
+      "tendu, qui craque (comme des coutures)",
+      "très serré"
+    ],
+    [
+      "qui éclabousse, qui projette (comme l'huile lors de la cuisson)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1010650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peut-être",
+      "sans doute",
+      "probablement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

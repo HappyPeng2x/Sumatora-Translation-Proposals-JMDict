@@ -1,0 +1,20 @@
+{
+  "seq": 1010460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brusquement",
+      "avec fracas",
+      "avec un bruit sec"
+    ],
+    [
+      "gonflé",
+      "rempli au point de déborder"
+    ],
+    [
+      "prostituée",
+      "courtisane"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

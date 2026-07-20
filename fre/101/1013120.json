@@ -1,0 +1,14 @@
+{
+  "seq": 1013120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voir à ce que",
+      "s'assurer que",
+      "faire en sorte que",
+      "tenter de",
+      "faire un effort pour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

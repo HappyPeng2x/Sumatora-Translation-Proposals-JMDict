@@ -1,0 +1,13 @@
+{
+  "seq": 1010790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dernier",
+      "dernier (sur une liste)",
+      "dernier (en position)",
+      "queue-de-berger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

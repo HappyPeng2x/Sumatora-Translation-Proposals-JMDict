@@ -1,0 +1,17 @@
+{
+  "seq": 1011140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gonflé",
+      "détendu",
+      "ample",
+      "souffrant"
+    ],
+    [
+      "bouillonnant",
+      "moussant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

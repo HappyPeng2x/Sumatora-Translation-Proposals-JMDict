@@ -1,0 +1,14 @@
+{
+  "seq": 1011300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se décourager",
+      "être découragé",
+      "être abattu",
+      "être épuisé",
+      "être fatigué à l'extrême"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

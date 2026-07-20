@@ -1,0 +1,11 @@
+{
+  "seq": 1014230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme d'idées",
+      "personne d'idées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

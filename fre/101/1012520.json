@@ -1,0 +1,20 @@
+{
+  "seq": 1012520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peut-être",
+      "possible",
+      "peut-être que",
+      "par hasard",
+      "si je ne me trompe pas"
+    ],
+    [
+      "si",
+      "en cas de",
+      "au cas où",
+      "en cas que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

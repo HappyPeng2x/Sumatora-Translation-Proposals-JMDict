@@ -1,0 +1,17 @@
+{
+  "seq": 1012780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire une bêtise",
+      "se tromper",
+      "faire quelque chose qu'on regrette"
+    ],
+    [
+      "battre",
+      "mettre hors de combat",
+      "prendre pour cible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

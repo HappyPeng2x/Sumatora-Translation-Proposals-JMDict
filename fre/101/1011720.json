@@ -1,0 +1,25 @@
+{
+  "seq": 1011720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par intervalles",
+      "de façon intermittente"
+    ],
+    [
+      "larmes ou pétales de fleurs tombant doucement"
+    ],
+    [
+      "bruit guttural d'un oiseau"
+    ],
+    [
+      "se désagréger",
+      "se défaire",
+      "se fondre (dans la bouche)"
+    ],
+    [
+      "plat composé de pousses de fiveleaf aralia, de daikon mariné, de noisettes, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

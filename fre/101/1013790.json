@@ -1,0 +1,13 @@
+{
+  "seq": 1013790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bras"
+    ],
+    [
+      "modération rétroactive minimale automatisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

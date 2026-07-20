@@ -1,0 +1,21 @@
+{
+  "seq": 1010280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parfaitement",
+      "exactement",
+      "précisément",
+      "juste",
+      "à propos"
+    ],
+    [
+      "suffisamment",
+      "assez",
+      "complètement",
+      "entièrement",
+      "thoroughtement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

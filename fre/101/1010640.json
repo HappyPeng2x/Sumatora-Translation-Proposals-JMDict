@@ -1,0 +1,17 @@
+{
+  "seq": 1010640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éventuellement",
+      "peut-être",
+      "par hasard"
+    ],
+    [
+      "par accident",
+      "involontairement",
+      "sans le vouloir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

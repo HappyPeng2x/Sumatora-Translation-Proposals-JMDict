@@ -1,0 +1,14 @@
+{
+  "seq": 1011460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bavard",
+      "mou",
+      "pâteux",
+      "mouillé",
+      "mélange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

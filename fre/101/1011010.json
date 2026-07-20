@@ -1,0 +1,21 @@
+{
+  "seq": 1011010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dissolu",
+      "licencieux",
+      "désordonné",
+      "débauché",
+      "dissipé"
+    ],
+    [
+      "malpropre",
+      "désordonné",
+      "en désordre",
+      "sale",
+      "négligé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

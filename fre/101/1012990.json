@@ -1,0 +1,14 @@
+{
+  "seq": 1012990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "oh !",
+      "ah !",
+      "oh mon dieu !",
+      "mon dieu !",
+      "je suis soulagé(e) !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

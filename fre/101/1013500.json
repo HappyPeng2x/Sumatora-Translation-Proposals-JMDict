@@ -1,0 +1,16 @@
+{
+  "seq": 1013500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terre",
+      "sol",
+      "mise à la terre",
+      "mise à la masse"
+    ],
+    [
+      "la Terre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

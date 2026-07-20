@@ -1,0 +1,19 @@
+{
+  "seq": 1011500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parler sans arrêt",
+      "parler à tort et à travers",
+      "bavarder sans fin",
+      "parler trop"
+    ],
+    [
+      "mince",
+      "fragile",
+      "faible",
+      "délabré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1010420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvert grand",
+      "d'aspect large"
+    ],
+    [
+      "mordre avidement",
+      "avaler rapidement"
+    ],
+    [
+      "plagiat",
+      "copie malhonnête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

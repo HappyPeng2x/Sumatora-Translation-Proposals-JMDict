@@ -1,0 +1,14 @@
+{
+  "seq": 1011660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un sentiment de soulagement",
+      "avec un soupir de soulagement"
+    ],
+    [
+      "profondément (soupirer)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

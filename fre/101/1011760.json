@@ -1,0 +1,27 @@
+{
+  "seq": 1011760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démentiellement",
+      "absentement",
+      "videment",
+      "abstraitement",
+      "sans expression",
+      "distraitement"
+    ],
+    [
+      "d'un manière floue",
+      "vaguement",
+      "indistinctement",
+      "faiblement",
+      "de façon incertaine"
+    ],
+    [
+      "avec un rugissement",
+      "avec un souffle",
+      "en flambant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

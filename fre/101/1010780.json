@@ -1,0 +1,18 @@
+{
+  "seq": 1010780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flottant",
+      "battant",
+      "dansant"
+    ],
+    [
+      "morceau de tissu, papier, métal, etc., pendouillant"
+    ],
+    [
+      "lèvres minores"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

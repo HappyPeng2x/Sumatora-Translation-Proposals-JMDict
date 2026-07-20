@@ -1,0 +1,10 @@
+{
+  "seq": 1010480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Hikari ; service Shinkansen Tōkaidō et Sanyō à grande vitesse (plus rapide que Kodama, mais plus lent que Nozomi)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

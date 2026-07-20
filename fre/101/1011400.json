@@ -1,0 +1,19 @@
+{
+  "seq": 1011400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "erreur",
+      "maladresse",
+      "gaffe",
+      "bêtise"
+    ],
+    [
+      "maladroit",
+      "stupide",
+      "inconsidéré",
+      "embarrassant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

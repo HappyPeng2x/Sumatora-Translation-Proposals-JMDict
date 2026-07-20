@@ -1,0 +1,20 @@
+{
+  "seq": 1012350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir boudeur",
+      "boudérer",
+      "être contrarié",
+      "être fâché",
+      "prendre offense"
+    ],
+    [
+      "se détacher",
+      "se décoller",
+      "péter (de la peau)",
+      "s'écailler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1013950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glace",
+      "crème glaçée"
+    ],
+    [
+      "revêtement",
+      "enduit (d'avion, bateau, etc.)"
+    ],
+    [
+      "faute de glace (au hockey)"
+    ],
+    [
+      "cryothérapie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

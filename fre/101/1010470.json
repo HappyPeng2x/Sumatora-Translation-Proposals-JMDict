@@ -1,0 +1,14 @@
+{
+  "seq": 1010470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par extension",
+      "par conséquent",
+      "de même",
+      "en outre",
+      "ainsi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

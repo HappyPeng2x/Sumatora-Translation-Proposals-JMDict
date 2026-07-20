@@ -1,0 +1,16 @@
+{
+  "seq": 1014030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "route glissante"
+    ],
+    [
+      "surface enneigée gelée (par exemple sur une piste de ski)"
+    ],
+    [
+      "patinoire (sens d'origine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

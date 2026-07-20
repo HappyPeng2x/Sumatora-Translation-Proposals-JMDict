@@ -1,0 +1,12 @@
+{
+  "seq": 1014780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mode de vie en plein air",
+      "vie en extérieur",
+      "vie de plein air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

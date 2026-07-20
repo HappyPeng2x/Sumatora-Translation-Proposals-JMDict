@@ -1,0 +1,12 @@
+{
+  "seq": 1012560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "si possible",
+      "si cela est possible",
+      "dans la mesure du possible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1012690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flou",
+      "brouillé",
+      "mouillé",
+      "trouble",
+      "flou visuel"
+    ],
+    [
+      "sentiment flou",
+      "sentiment douteux",
+      "tristesse vague",
+      "ressentiment accumulé",
+      "mauvaise humeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

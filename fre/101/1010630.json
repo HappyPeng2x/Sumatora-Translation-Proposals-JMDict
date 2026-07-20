@@ -1,0 +1,14 @@
+{
+  "seq": 1010630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brusquement",
+      "tout à coup",
+      "soudainement",
+      "par hasard",
+      "inopinément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1011600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doux et croquant (comme des pommes de terre, du potiron, etc.)",
+      "moelleux et friable",
+      "aérien",
+      "croustillant",
+      "tout juste sorti du four"
+    ],
+    [
+      "satisfait de soi-même",
+      "rayonnant de bonheur",
+      "ricanant tout seul"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

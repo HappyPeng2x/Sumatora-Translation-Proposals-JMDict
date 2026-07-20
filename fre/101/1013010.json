@@ -1,0 +1,29 @@
+{
+  "seq": 1013010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malicieux",
+      "débridé",
+      "insouciant",
+      "agité"
+    ],
+    [
+      "malfaiteur",
+      "enfant turbulent"
+    ],
+    [
+      "délit",
+      "malfaçon",
+      "déviation",
+      "délinquance"
+    ],
+    [
+      "audacieux",
+      "hardi",
+      "éclatant",
+      "ostentatoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

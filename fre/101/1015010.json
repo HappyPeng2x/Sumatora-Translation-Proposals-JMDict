@@ -1,0 +1,11 @@
+{
+  "seq": 1015010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "académicien",
+      "membre d'une académie scientifique ou littéraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1010870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un craquement",
+      "avec un bruit sec",
+      "avec un claquement"
+    ],
+    [
+      "fermement",
+      "sévèrement",
+      "très nettement"
+    ],
+    [
+      "précisément",
+      "correctement",
+      "soigneusement",
+      "en ordre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

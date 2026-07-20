@@ -1,0 +1,22 @@
+{
+  "seq": 1012700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec appétit",
+      "en mangeant avec enthousiasme"
+    ],
+    [
+      "avec énergie",
+      "vigoureusement",
+      "dans un état d'enthousiasme",
+      "travaillant dur"
+    ],
+    [
+      "gonflé",
+      "enflé",
+      "empli (de force, de courage, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

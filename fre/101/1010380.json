@@ -1,0 +1,22 @@
+{
+  "seq": 1010380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en répétant, de manière répétitive",
+      "en ouvrant et refermant (la bouche) de façon répétitive",
+      "en haletant"
+    ],
+    [
+      "en battant (par exemple, la semelle d'une chaussure)",
+      "en s'ouvrant et se refermant brusquement"
+    ],
+    [
+      "avec appétit",
+      "en dévorant",
+      "en mangeant avidement",
+      "en mastiquant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

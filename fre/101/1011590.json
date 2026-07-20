@@ -1,0 +1,13 @@
+{
+  "seq": 1011590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaud, bien chaud",
+      "tiède, agréablement chaud",
+      "fumant, brûlant (pour les aliments)",
+      "lumineux (d'une chaleur intense)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

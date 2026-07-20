@@ -1,0 +1,22 @@
+{
+  "seq": 1011380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladroit",
+      "débutant inexpérimenté",
+      "personne peu habile"
+    ],
+    [
+      "de mauvaise qualité",
+      "produit de basse qualité",
+      "crops de qualité inférieure"
+    ],
+    [
+      "larve d'abeille",
+      "larve de guêpe (Vespula flaviceps)",
+      "larve de frelon (dialecte de Gifu)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

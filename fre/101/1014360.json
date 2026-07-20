@@ -1,0 +1,11 @@
+{
+  "seq": 1014360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coût d'inactivité",
+      "dépense liée à l'inutilisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

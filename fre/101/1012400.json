@@ -1,0 +1,12 @@
+{
+  "seq": 1012400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "incompréhensiblement",
+      "en murmurant",
+      "d'un air indistinct"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

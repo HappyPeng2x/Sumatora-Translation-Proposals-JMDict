@@ -1,0 +1,14 @@
+{
+  "seq": 1014990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "académie"
+    ],
+    [
+      "académie",
+      "la communauté universitaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

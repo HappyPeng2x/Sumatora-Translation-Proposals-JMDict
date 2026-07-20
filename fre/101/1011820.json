@@ -1,0 +1,11 @@
+{
+  "seq": 1011820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un bruit d'eau",
+      "avec un plouf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

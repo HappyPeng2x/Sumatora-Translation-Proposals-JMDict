@@ -1,0 +1,17 @@
+{
+  "seq": 1012370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gratter",
+      "avoir une démangeaison",
+      "être irrité (la peau)"
+    ],
+    [
+      "être impatient",
+      "avoir envie de faire quelque chose",
+      "être pressé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

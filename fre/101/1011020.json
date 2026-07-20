@@ -1,0 +1,16 @@
+{
+  "seq": 1011020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'évanouir",
+      "disparaître",
+      "cesser"
+    ],
+    [
+      "éclater",
+      "crever"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

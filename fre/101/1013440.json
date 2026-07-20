@@ -1,0 +1,15 @@
+{
+  "seq": 1013440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argument",
+      "discussion",
+      "débat"
+    ],
+    [
+      "argument (d'une fonction)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1011220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flâner",
+      "errer",
+      "traîner",
+      "traîner en ville",
+      "rester sans rien faire"
+    ],
+    [
+      "pendre",
+      "balancer",
+      "osciller"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

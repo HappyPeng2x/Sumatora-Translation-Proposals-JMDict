@@ -1,0 +1,22 @@
+{
+  "seq": 1010410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un clic",
+      "avec un bruit sec",
+      "avec un claquement"
+    ],
+    [
+      "avec un regard étonné",
+      "avec un clignement de paupières",
+      "avec un éblouissement"
+    ],
+    [
+      "avec un craquement",
+      "avec un bruissement",
+      "avec un éclat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

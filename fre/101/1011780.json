@@ -1,0 +1,18 @@
+{
+  "seq": 1011780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désordonné",
+      "désaliéné",
+      "désordonné (cheveux, poils de brosse, etc.)",
+      "désordonné, mal coiffé"
+    ],
+    [
+      "traîner en chemin",
+      "traîner, perdre son temps",
+      "dilapider le temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

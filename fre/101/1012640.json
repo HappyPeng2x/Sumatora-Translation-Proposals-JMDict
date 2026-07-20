@@ -1,0 +1,15 @@
+{
+  "seq": 1012640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agaçant",
+      "irritant",
+      "frustrant",
+      "vexant",
+      "impatient",
+      "tantalisant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

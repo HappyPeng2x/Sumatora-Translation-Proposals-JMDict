@@ -1,0 +1,26 @@
+{
+  "seq": 1010980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fumer (une cigarette, une pipe, etc.)",
+      "pousser une bouffée de fumée",
+      "expulser de la fumée"
+    ],
+    [
+      "faire tourner (un moteur) à haute vitesse",
+      "faire rugir (un moteur)"
+    ],
+    [
+      "adopter un air de ...",
+      "se comporter en ...",
+      "jouer le rôle de ...",
+      "faire semblant d'être ..."
+    ],
+    [
+      "frapper (une balle) trop haut",
+      "envoyer (une balle) au-dessus de la barre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

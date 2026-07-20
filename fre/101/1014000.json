@@ -1,0 +1,10 @@
+{
+  "seq": 1014000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "thé glacé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

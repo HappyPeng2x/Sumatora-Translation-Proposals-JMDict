@@ -1,0 +1,11 @@
+{
+  "seq": 1014330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moteur en marche sans charge",
+      "régime de ralenti"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

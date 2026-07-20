@@ -1,0 +1,16 @@
+{
+  "seq": 1011340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faiblement",
+      "d'une manière impuissante"
+    ],
+    [
+      "faible",
+      "fragile",
+      "facile à plier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

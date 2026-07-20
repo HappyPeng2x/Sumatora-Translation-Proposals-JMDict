@@ -1,0 +1,10 @@
+{
+  "seq": 1015000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "académisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
