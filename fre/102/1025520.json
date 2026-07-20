@@ -1,0 +1,12 @@
+{
+  "seq": 1025520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "station de ski",
+      "station de montagne",
+      "résidence de vacances en hiver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

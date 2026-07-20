@@ -1,0 +1,11 @@
+{
+  "seq": 1024100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "volée jouée par un joueur de champ intérieur dans le baseball",
+      "volée interceptée par un joueur de champ intérieur dans un match de baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

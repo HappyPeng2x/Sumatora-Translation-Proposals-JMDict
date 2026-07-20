@@ -1,0 +1,10 @@
+{
+  "seq": 1024200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "analyste en information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

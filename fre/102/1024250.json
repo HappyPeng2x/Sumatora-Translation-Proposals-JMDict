@@ -1,0 +1,10 @@
+{
+  "seq": 1024250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "théorie de l'information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1026100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "veste courte portée sur la chemise",
+      "gilet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

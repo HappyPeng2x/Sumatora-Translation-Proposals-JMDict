@@ -1,0 +1,12 @@
+{
+  "seq": 1026960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "golf",
+      "joueur de golf âgé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

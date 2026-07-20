@@ -1,0 +1,11 @@
+{
+  "seq": 1024490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exécutant",
+      "metteur en œuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

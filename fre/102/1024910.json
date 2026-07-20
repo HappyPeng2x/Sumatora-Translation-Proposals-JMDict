@@ -1,0 +1,10 @@
+{
+  "seq": 1024910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, musique] une majeure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

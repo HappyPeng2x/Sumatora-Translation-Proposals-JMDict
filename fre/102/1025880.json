@@ -1,0 +1,11 @@
+{
+  "seq": 1025880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "zone de départ",
+      "cercle d'attente (baseball)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

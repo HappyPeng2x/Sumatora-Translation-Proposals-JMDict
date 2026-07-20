@@ -1,0 +1,11 @@
+{
+  "seq": 1027020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "edelweiss",
+      "plante alpine du genre Leontopodium"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

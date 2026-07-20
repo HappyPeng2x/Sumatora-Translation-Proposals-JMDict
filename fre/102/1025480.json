@@ -1,0 +1,23 @@
+{
+  "seq": 1025480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aile",
+      "partie d'un oiseau, d'un avion, etc."
+    ],
+    [
+      "ailier",
+      "joueur en position d'ailier dans le football, le rugby, etc."
+    ],
+    [
+      "aile",
+      "partie d'un bâtiment"
+    ],
+    [
+      "bord déséquilibré",
+      "bord asymétrique dans le jeu d'Othello"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

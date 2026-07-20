@@ -1,0 +1,11 @@
+{
+  "seq": 1023110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intervieweur",
+      "interrogateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1022610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "installateur",
+      "personne qui installe un logiciel ou un programme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

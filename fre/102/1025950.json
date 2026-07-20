@@ -1,0 +1,24 @@
+{
+  "seq": 1025950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vague",
+      "mouvement de l'eau"
+    ],
+    [
+      "onde",
+      "vibration",
+      "pulsation"
+    ],
+    [
+      "frise",
+      "mèche de cheveux ondulée"
+    ],
+    [
+      "vague de foule",
+      "vague mexicaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

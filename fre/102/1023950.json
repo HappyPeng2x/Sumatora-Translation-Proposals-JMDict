@@ -1,0 +1,11 @@
+{
+  "seq": 1023950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pitch high and inside",
+      "lancer une balle haute et à l'intérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

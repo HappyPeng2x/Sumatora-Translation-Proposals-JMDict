@@ -1,0 +1,11 @@
+{
+  "seq": 1023030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Interpol",
+      "Organisation internationale de police criminelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

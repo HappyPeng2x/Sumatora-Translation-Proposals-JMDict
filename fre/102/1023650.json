@@ -1,0 +1,14 @@
+{
+  "seq": 1023650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Amérindien",
+      "Indien (d'Amérique du Nord)"
+    ],
+    [
+      "indien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

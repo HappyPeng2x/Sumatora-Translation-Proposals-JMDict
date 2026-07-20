@@ -1,0 +1,11 @@
+{
+  "seq": 1027120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marchandises transportées par avion",
+      "chargement aérien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

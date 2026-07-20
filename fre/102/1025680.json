@@ -1,0 +1,17 @@
+{
+  "seq": 1025680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poids",
+      "poids corporel"
+    ],
+    [
+      "importance",
+      "poids",
+      "insistance",
+      "priorité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

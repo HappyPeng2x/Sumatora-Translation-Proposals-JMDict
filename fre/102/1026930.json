@@ -1,0 +1,11 @@
+{
+  "seq": 1026930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agence",
+      "organisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

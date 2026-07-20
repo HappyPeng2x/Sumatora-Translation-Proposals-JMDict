@@ -1,0 +1,12 @@
+{
+  "seq": 1025610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bénéfice inattendu",
+      "gain inattendu",
+      "avantage inattendu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

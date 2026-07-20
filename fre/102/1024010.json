@@ -1,0 +1,18 @@
+{
+  "seq": 1024010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impact",
+      "impression forte",
+      "effet",
+      "influence"
+    ],
+    [
+      "choc",
+      "collision",
+      "rencontre (d'une balle avec une raquette, un batteur, une batte, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

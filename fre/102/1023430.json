@@ -1,0 +1,11 @@
+{
+  "seq": 1023430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conseiller en décoration intérieure",
+      "consultant en aménagement intérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

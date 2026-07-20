@@ -1,0 +1,15 @@
+{
+  "seq": 1024770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "import",
+      "marchandise importée"
+    ],
+    [
+      "importation",
+      "transfert de données"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

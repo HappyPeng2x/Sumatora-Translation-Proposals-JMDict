@@ -1,0 +1,22 @@
+{
+  "seq": 1022750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interchange"
+    ],
+    [
+      "international"
+    ],
+    [
+      "entretien"
+    ],
+    [
+      "école internationale"
+    ],
+    [
+      "inter-"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

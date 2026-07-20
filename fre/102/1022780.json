@@ -1,0 +1,14 @@
+{
+  "seq": 1022780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intercollegiate"
+    ],
+    [
+      "match interuniversitaire",
+      "concours interuniversitaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

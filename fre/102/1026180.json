@@ -1,0 +1,17 @@
+{
+  "seq": 1026180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "humide",
+      "mouillé",
+      "souillé"
+    ],
+    [
+      "sentimental",
+      "tendre",
+      "émouvant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

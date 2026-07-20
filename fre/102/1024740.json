@@ -1,0 +1,12 @@
+{
+  "seq": 1024740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impliquer",
+      "entraîner",
+      "involver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

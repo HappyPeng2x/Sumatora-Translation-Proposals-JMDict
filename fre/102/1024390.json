@@ -1,0 +1,10 @@
+{
+  "seq": 1024390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "développement de l'infrastructure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

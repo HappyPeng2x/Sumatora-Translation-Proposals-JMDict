@@ -1,0 +1,11 @@
+{
+  "seq": 1022900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réseau d'interconnexion",
+      "réseau interne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

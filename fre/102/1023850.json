@@ -1,0 +1,11 @@
+{
+  "seq": 1023850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indérieur",
+      "intérieur (d'un bâtiment)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

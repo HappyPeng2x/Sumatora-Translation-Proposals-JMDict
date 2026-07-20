@@ -1,0 +1,11 @@
+{
+  "seq": 1023330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pouce",
+      "unité de mesure de longueur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

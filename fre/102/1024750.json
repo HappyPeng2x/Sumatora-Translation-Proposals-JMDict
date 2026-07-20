@@ -1,0 +1,13 @@
+{
+  "seq": 1024750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impuissance"
+    ],
+    [
+      "homme impuissant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

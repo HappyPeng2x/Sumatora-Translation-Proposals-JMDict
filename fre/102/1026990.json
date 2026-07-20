@@ -1,0 +1,19 @@
+{
+  "seq": 1026990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "as"
+    ],
+    [
+      "as de jeu"
+    ],
+    [
+      "as, vedette, éléphant de l'armée, prodige"
+    ],
+    [
+      "service d'ace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

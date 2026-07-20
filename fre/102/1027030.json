@@ -1,0 +1,15 @@
+{
+  "seq": 1027030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la Fête des Poissons",
+      "le 1er avril"
+    ],
+    [
+      "un imbécile",
+      "un naïf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

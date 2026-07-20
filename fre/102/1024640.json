@@ -1,0 +1,10 @@
+{
+  "seq": 1024640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "analyste en investissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

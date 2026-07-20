@@ -1,0 +1,11 @@
+{
+  "seq": 1024990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coton à poils",
+      "coton velouté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

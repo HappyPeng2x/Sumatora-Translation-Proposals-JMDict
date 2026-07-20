@@ -1,0 +1,12 @@
+{
+  "seq": 1024170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vêtement de ville",
+      "tenue de ville",
+      "habillement de ville"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

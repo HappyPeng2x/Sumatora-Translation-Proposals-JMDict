@@ -1,0 +1,16 @@
+{
+  "seq": 1025225,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vent"
+    ],
+    [
+      "instrument à vent"
+    ],
+    [
+      "fenêtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

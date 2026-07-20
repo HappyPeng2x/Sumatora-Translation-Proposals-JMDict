@@ -1,0 +1,12 @@
+{
+  "seq": 1025390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esprit",
+      "intelligence",
+      "jugement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

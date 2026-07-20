@@ -1,0 +1,13 @@
+{
+  "seq": 1026940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agent"
+    ],
+    [
+      "agent, représentant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

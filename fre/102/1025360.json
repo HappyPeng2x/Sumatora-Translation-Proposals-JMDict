@@ -1,0 +1,12 @@
+{
+  "seq": 1025360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bonbon au whisky",
+      "candy au whisky",
+      "confisier au whisky"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

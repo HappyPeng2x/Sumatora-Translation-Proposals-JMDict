@@ -1,0 +1,15 @@
+{
+  "seq": 1024520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mise en œuvre",
+      "exécution"
+    ],
+    [
+      "outil",
+      "équipement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

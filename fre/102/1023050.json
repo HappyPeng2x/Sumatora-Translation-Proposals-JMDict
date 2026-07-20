@@ -1,0 +1,12 @@
+{
+  "seq": 1023050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intercaler",
+      "entrelacer",
+      "alterner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1023290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "industriel",
+      "relatif à l'industrie",
+      "d'aspect industriel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

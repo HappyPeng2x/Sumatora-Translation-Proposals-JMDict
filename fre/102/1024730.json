@@ -1,0 +1,13 @@
+{
+  "seq": 1024730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facture"
+    ],
+    [
+      "facture fiscale; facture certifiée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

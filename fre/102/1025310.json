@@ -1,0 +1,11 @@
+{
+  "seq": 1025310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point faible",
+      "faiblesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1025980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entrepôt",
+      "magasin de stockage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

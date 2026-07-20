@@ -1,0 +1,15 @@
+{
+  "seq": 1026660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chien de garde",
+      "chien de protection"
+    ],
+    [
+      "veilleur",
+      "gardien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

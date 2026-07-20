@@ -1,0 +1,11 @@
+{
+  "seq": 1023980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inverseur",
+      "convertisseur de courant continu en courant alternatif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

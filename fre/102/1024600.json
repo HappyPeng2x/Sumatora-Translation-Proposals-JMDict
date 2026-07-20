@@ -1,0 +1,12 @@
+{
+  "seq": 1024600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "envahisseur",
+      "agresseur",
+      "invasif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

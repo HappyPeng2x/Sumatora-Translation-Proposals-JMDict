@@ -1,0 +1,11 @@
+{
+  "seq": 1025280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "père qui passe le week-end avec ses enfants",
+      "père présent uniquement le week-end"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

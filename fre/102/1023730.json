@@ -1,0 +1,16 @@
+{
+  "seq": 1023730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement",
+      "pour",
+      "un",
+      "mode",
+      "de",
+      "vie",
+      "autonome"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

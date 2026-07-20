@@ -1,0 +1,10 @@
+{
+  "seq": 1023920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voyage intérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

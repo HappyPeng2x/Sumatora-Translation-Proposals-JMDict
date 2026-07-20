@@ -1,0 +1,12 @@
+{
+  "seq": 1023520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intelligent",
+      "sensible",
+      "judicieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

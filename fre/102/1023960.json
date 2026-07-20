@@ -1,0 +1,12 @@
+{
+  "seq": 1023960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en interne",
+      "intérieur",
+      "interne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

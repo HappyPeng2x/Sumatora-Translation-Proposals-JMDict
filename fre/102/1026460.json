@@ -1,0 +1,12 @@
+{
+  "seq": 1026460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obstacle d'eau",
+      "danger d'eau",
+      "zone dangereuse d'eau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1022860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Baccalauréat international",
+      "Baccalauréat IB"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

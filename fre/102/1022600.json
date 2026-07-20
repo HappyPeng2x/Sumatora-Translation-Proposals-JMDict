@@ -1,0 +1,20 @@
+{
+  "seq": 1022600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instrumental",
+      "instrumental (musique)"
+    ],
+    [
+      "instructions",
+      "instructions",
+      "instructif"
+    ],
+    [
+      "installation",
+      "installation (logiciel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

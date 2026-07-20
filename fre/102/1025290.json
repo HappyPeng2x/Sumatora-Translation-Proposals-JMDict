@@ -1,0 +1,11 @@
+{
+  "seq": 1025290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peintre qui peint uniquement le week-end",
+      "peintre amateur qui travaille surtout le week-end"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

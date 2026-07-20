@@ -1,0 +1,10 @@
+{
+  "seq": 1023500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service de renseignement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

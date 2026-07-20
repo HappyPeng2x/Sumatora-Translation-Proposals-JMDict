@@ -1,0 +1,15 @@
+{
+  "seq": 1025330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magicien",
+      "sorcier"
+    ],
+    [
+      "assistant d'installation",
+      "assistant de configuration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

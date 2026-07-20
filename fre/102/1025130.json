@@ -1,0 +1,12 @@
+{
+  "seq": 1025130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "table de ouija",
+      "table de communication avec les esprits",
+      "table parlante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

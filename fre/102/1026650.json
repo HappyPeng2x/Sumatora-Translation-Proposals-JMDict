@@ -1,0 +1,21 @@
+{
+  "seq": 1026650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "montre"
+    ],
+    [
+      "surveillance",
+      "observation"
+    ],
+    [
+      "gardes",
+      "veille"
+    ],
+    [
+      "chapeau de veille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

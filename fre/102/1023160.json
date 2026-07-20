@@ -1,0 +1,19 @@
+{
+  "seq": 1023160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guide",
+      "personne qui explique l'histoire, la nature, etc. aux visiteurs"
+    ],
+    [
+      "interprète",
+      "personne qui traduit oralement"
+    ],
+    [
+      "interprète",
+      "traducteur (surtout en contexte technique ou spécialisé)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

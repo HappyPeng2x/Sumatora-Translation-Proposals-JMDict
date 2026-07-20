@@ -1,0 +1,12 @@
+{
+  "seq": 1024140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "informateur",
+      "défenseur",
+      "avocat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

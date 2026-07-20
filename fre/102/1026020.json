@@ -1,0 +1,16 @@
+{
+  "seq": 1026020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "film western",
+      "film de western",
+      "film du genre western"
+    ],
+    [
+      "musique country",
+      "musique country et western"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

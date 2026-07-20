@@ -1,0 +1,10 @@
+{
+  "seq": 1024700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récession des stocks"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

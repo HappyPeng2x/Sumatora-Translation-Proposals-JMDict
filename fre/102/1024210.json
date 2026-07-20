@@ -1,0 +1,12 @@
+{
+  "seq": 1024210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "différence d'information",
+      "désinformation",
+      "lacune d'information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

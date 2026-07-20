@@ -1,0 +1,11 @@
+{
+  "seq": 1022910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compétition sportive inter-scolaire",
+      "concours sportif entre établissements scolaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
