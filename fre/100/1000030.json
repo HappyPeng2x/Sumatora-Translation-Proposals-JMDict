@@ -1,0 +1,10 @@
+{
+  "seq": 1000030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marque de répétition sonore dans l'hiragana"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

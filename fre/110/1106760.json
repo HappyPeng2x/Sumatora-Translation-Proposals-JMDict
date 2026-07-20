@@ -1,0 +1,50 @@
+{
+  "seq": 1106760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rythme",
+      "vitesse",
+      "cadence"
+    ],
+    [
+      "écart",
+      "intervalle",
+      "espacement"
+    ],
+    [
+      "hauteur",
+      "ton",
+      "fréquence"
+    ],
+    [
+      "lancer",
+      "pichenette",
+      "jet"
+    ],
+    [
+      "cadence des coups de rame",
+      "rythme de frappe"
+    ],
+    [
+      "section",
+      "tranche",
+      "partie d'une ascension"
+    ],
+    [
+      "résidu",
+      "substance distillée",
+      "résine"
+    ],
+    [
+      "terrain de jeu",
+      "champ",
+      "pelouse"
+    ],
+    [
+      "système de téléphone portable personnel",
+      "PHS"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

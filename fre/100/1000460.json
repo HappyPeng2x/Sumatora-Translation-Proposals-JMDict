@@ -1,0 +1,15 @@
+{
+  "seq": 1000460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne pas réussir (à obtenir un emploi)",
+      "manquer (une pêche, une chasse, etc.)"
+    ],
+    [
+      "être laissé de côté",
+      "être dépassé par la foule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

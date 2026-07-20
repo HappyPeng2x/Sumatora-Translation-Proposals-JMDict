@@ -1,0 +1,11 @@
+{
+  "seq": 1000600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mets-toi en forme !",
+      "agis correctement !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

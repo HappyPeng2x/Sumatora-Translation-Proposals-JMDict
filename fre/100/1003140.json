@@ -1,0 +1,13 @@
+{
+  "seq": 1003140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un bruit de claquant",
+      "avec un bruit de coup",
+      "avec un bruit de fracas",
+      "avec un bruit de claquement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

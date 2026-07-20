@@ -1,0 +1,22 @@
+{
+  "seq": 1003520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aigu",
+      "strident",
+      "pénétrant",
+      "métallique"
+    ],
+    [
+      "douloureux",
+      "soudain",
+      "intense"
+    ],
+    [
+      "très froid",
+      "glacial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

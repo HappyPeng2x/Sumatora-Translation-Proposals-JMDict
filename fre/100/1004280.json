@@ -1,0 +1,21 @@
+{
+  "seq": 1004280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vomir",
+      "rouge",
+      "vomissement"
+    ],
+    [
+      "confesser",
+      "avouer"
+    ],
+    [
+      "très",
+      "vraiment",
+      "extrêmement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

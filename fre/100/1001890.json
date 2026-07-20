@@ -1,0 +1,11 @@
+{
+  "seq": 1001890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "okonomiyaki",
+      "crêpe salée cuite sur une plaque de fonte avec des légumes, de la viande et/ou des fruits de mer, accompagnée de divers sauces et condiments"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

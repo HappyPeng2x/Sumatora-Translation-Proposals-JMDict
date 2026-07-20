@@ -1,0 +1,15 @@
+{
+  "seq": 1002470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps",
+      "météo"
+    ],
+    [
+      "humeur",
+      "état d'esprit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

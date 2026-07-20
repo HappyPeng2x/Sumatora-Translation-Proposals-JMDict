@@ -1,0 +1,21 @@
+{
+  "seq": 1001770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "invité",
+      "personne qui vient chez quelqu'un"
+    ],
+    [
+      "client",
+      "personne qui achète des biens ou services",
+      "acheteur",
+      "spectateur",
+      "audience",
+      "touriste",
+      "promeneur",
+      "passager"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1001490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charme",
+      "incantation",
+      "sortilège",
+      "malédiction"
+    ],
+    [
+      "code non indispensable à comprendre",
+      "code de routine obligatoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

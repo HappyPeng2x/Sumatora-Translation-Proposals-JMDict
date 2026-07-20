@@ -1,0 +1,14 @@
+{
+  "seq": 1001350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme moyen âgé",
+      "homme d'âge mûr"
+    ],
+    [
+      "prêtre bouddhiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

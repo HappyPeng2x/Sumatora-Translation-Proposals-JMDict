@@ -1,0 +1,27 @@
+{
+  "seq": 1012010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taches",
+      "points",
+      "petites taches"
+    ],
+    [
+      "peu à peu",
+      "progressivement",
+      "petit à petit"
+    ],
+    [
+      "ici et là",
+      "dispersé",
+      "disséminé"
+    ],
+    [
+      "en gouttes",
+      "de manière légère",
+      "en tombant légèrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

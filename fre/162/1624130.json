@@ -1,0 +1,16 @@
+{
+  "seq": 1624130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "générosité",
+      "magnanimité",
+      "tolérance"
+    ],
+    [
+      "longueur et capacité",
+      "mesures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

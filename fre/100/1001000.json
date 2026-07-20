@@ -1,0 +1,17 @@
+{
+  "seq": 1001000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parler sans cesse de choses sans importance",
+      "bavasser",
+      "dire des absurdités"
+    ],
+    [
+      "traîner en chemin",
+      "gaspiller son temps",
+      "diluer le temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

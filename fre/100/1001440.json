@@ -1,0 +1,12 @@
+{
+  "seq": 1001440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flatterie",
+      "adulation",
+      "compliments"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

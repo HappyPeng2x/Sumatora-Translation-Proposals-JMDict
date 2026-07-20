@@ -1,0 +1,19 @@
+{
+  "seq": 1003020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clair, net",
+      "parfaitement (en parlant du temps)"
+    ],
+    [
+      "sèchement (pour le linge, l'air, etc.)",
+      "cruement (pour la nourriture cuite, frite, etc.)"
+    ],
+    [
+      "franchement",
+      "ouvertement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

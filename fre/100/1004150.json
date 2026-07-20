@@ -1,0 +1,13 @@
+{
+  "seq": 1004150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'égarer",
+      "se détourner de la bonne voie",
+      "aller à l'encontre de la morale",
+      "devenir délinquant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

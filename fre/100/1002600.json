@@ -1,0 +1,14 @@
+{
+  "seq": 1002600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre un bain",
+      "se baigner"
+    ],
+    [
+      "prendre une douche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

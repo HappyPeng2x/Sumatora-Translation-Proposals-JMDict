@@ -1,0 +1,15 @@
+{
+  "seq": 1002720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "eau froide (à boire)",
+      "verre d'eau froide"
+    ],
+    [
+      "riz cuit refroidi",
+      "riz cuit laissé refroidir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

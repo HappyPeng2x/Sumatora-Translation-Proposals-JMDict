@@ -1,0 +1,14 @@
+{
+  "seq": 1002510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "eau chaude",
+      "eau bouillante"
+    ],
+    [
+      "bain chaud"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

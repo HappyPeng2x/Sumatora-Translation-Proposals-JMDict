@@ -1,0 +1,19 @@
+{
+  "seq": 2752050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chérie",
+      "ma chérie",
+      "mon bien-aimé",
+      "mon fiancé"
+    ],
+    [
+      "sœur"
+    ],
+    [
+      "amie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1003330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vide",
+      "creux",
+      "désert",
+      "désolé",
+      "déserté"
+    ],
+    [
+      "grand hall principal d'un temple (souvent vaste et vide)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

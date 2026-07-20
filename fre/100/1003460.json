@@ -1,0 +1,15 @@
+{
+  "seq": 1003460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruyamment",
+      "vivement",
+      "d'un air énergique",
+      "efficacement",
+      "nettement",
+      "vigoureusement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

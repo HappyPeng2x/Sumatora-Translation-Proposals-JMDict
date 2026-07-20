@@ -1,0 +1,17 @@
+{
+  "seq": 1000500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "câliner",
+      "réconforter",
+      "bercer",
+      "apaiser",
+      "dandiner",
+      "flatter",
+      "apaiser (un enfant)",
+      "endormir (un enfant)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

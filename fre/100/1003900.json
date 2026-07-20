@@ -1,0 +1,14 @@
+{
+  "seq": 1003900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tournant",
+      "sinueux",
+      "ondulant",
+      "tordant",
+      "zigzaguant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1002580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gardien",
+      "serviteur",
+      "escorte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

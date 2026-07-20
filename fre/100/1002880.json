@@ -1,0 +1,12 @@
+{
+  "seq": 1002880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire du style",
+      "montrer sa bonne mine",
+      "se mettre en valeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

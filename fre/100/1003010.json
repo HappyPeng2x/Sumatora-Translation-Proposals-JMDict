@@ -1,0 +1,22 @@
+{
+  "seq": 1003010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mécanisme",
+      "machinerie",
+      "dispositif",
+      "appareil"
+    ],
+    [
+      "ruse",
+      "piège",
+      "manœuvre"
+    ],
+    [
+      "poupée mécanique",
+      "poupée à cordes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

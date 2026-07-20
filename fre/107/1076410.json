@@ -1,0 +1,23 @@
+{
+  "seq": 1076410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pastille",
+      "pilule"
+    ],
+    [
+      "tablette",
+      "ordinateur de poche"
+    ],
+    [
+      "tablette",
+      "stèle (inscrite)"
+    ],
+    [
+      "tablette graphique",
+      "tablette de dessin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

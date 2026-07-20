@@ -1,0 +1,13 @@
+{
+  "seq": 1001800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la première visite d'un nouveau-né à un sanctuaire, effectuée dans les trente jours suivant la naissance"
+    ],
+    [
+      "visite d'un sanctuaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1002270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désolé",
+      "malheureusement",
+      "pardon",
+      "navré"
+    ],
+    [
+      "dommage",
+      "pauvre",
+      "trop dommage",
+      "c'est pas de chance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

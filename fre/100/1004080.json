@@ -1,0 +1,36 @@
+{
+  "seq": 1004080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brusquement",
+      "tout à coup",
+      "d'un seul coup",
+      "avec un mouvement soudain",
+      "avec un coup de gorge"
+    ],
+    [
+      "beaucoup",
+      "énormément",
+      "fortement",
+      "à un degré considérable"
+    ],
+    [
+      "fermement",
+      "avec effort",
+      "serré",
+      "avec pression"
+    ],
+    [
+      "complètement",
+      "entièrement",
+      "totale"
+    ],
+    [
+      "profondément",
+      "intensément",
+      "d'une manière émouvante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

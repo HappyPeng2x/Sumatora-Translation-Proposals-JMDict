@@ -1,0 +1,17 @@
+{
+  "seq": 1001100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excrément",
+      "selles",
+      "fèces"
+    ],
+    [
+      "merde",
+      "ordures",
+      "crap"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

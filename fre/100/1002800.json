@@ -1,0 +1,13 @@
+{
+  "seq": 1002800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[prt, fem] Je me demande ; est-ce que tu penses que ; je pourrais ; et si"
+    ],
+    [
+      "[prt] quelque chose ; une certaine étape ; de manière quelconque ; quelque part (indique une imprecision)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

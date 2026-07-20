@@ -1,0 +1,13 @@
+{
+  "seq": 1000640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être malin",
+      "être cool",
+      "être élégant",
+      "être distingué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

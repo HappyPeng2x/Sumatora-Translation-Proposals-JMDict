@@ -1,0 +1,11 @@
+{
+  "seq": 1000490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "variété de truite masu à pois rouges vivant en eau douce",
+      "truite amago"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1003570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rigide",
+      "froid",
+      "désagréable",
+      "distant",
+      "tendu"
+    ],
+    [
+      "maigre",
+      "osseux",
+      "émacié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

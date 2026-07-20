@@ -1,0 +1,13 @@
+{
+  "seq": 1002010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfant (d'autrui)"
+    ],
+    [
+      "enfant; petit enfant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

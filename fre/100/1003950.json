@@ -1,0 +1,12 @@
+{
+  "seq": 1003950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confrontation",
+      "comparaison",
+      "concurrence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

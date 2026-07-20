@@ -1,0 +1,12 @@
+{
+  "seq": 1003690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dans un état de dépression",
+      "dans un état de mélancolie",
+      "dans un état de tristesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

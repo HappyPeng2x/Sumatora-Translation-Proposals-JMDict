@@ -1,0 +1,14 @@
+{
+  "seq": 1001160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sale",
+      "vulgaire",
+      "répugnant",
+      "offensant",
+      "dégoûtant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

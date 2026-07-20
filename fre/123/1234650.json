@@ -1,0 +1,18 @@
+{
+  "seq": 1234650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coexistence",
+      "vie commune",
+      "vivre ensemble"
+    ],
+    [
+      "symbiose"
+    ],
+    [
+      "paragénèse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

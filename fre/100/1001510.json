@@ -1,0 +1,11 @@
+{
+  "seq": 1001510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "irritation de la peau causée par un coussinet",
+      "rougeur due à l'usage d'un coussinet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

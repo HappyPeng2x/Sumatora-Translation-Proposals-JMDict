@@ -1,0 +1,14 @@
+{
+  "seq": 1000830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se comporter de manière affectueuse",
+      "être tendre",
+      "faire des avances amoureuses",
+      "s'embrasser",
+      "se peloter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

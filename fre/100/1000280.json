@@ -1,0 +1,16 @@
+{
+  "seq": 1000280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discuter",
+      "débattre"
+    ],
+    [
+      "reprocher",
+      "critiquer",
+      "pointer du doigt"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

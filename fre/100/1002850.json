@@ -1,0 +1,17 @@
+{
+  "seq": 1002850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un clic",
+      "avec un clink",
+      "avec un snap"
+    ],
+    [
+      "fermement",
+      "serrément",
+      "précisément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

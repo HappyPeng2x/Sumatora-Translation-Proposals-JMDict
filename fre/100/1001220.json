@@ -1,0 +1,10 @@
+{
+  "seq": 1001220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "style de chanson populaire japonaise associé à la préfecture de Niigata"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

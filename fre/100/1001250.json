@@ -1,0 +1,12 @@
+{
+  "seq": 1001250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne pas être pris au sérieux",
+      "être négligé",
+      "être traité avec désinvolture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

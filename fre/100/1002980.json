@@ -1,0 +1,38 @@
+{
+  "seq": 1002980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de",
+      "à partir de",
+      "du",
+      "depuis"
+    ],
+    [
+      "par",
+      "de la part de"
+    ],
+    [
+      "parce que",
+      "puisque"
+    ],
+    [
+      "de",
+      "issu de",
+      "provenant de"
+    ],
+    [
+      "à travers",
+      "par",
+      "à travers (une fenêtre, un vestibule)"
+    ],
+    [
+      "après",
+      "depuis (suit le forme te d'un verbe)"
+    ],
+    [
+      "exprime de la sympathie ou un avertissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

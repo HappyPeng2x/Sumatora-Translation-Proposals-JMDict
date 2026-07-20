@@ -1,0 +1,11 @@
+{
+  "seq": 1002410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "félicitations pour votre anniversaire",
+      "joyeux anniversaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

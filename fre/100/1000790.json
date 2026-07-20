@@ -1,0 +1,18 @@
+{
+  "seq": 1000790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avare",
+      "petit",
+      "pathétique"
+    ],
+    [
+      "adorable",
+      "mignon",
+      "touchant",
+      "charmant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

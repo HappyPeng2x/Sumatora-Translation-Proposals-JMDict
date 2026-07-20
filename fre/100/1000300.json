@@ -1,0 +1,19 @@
+{
+  "seq": 1000300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traiter",
+      "gérer",
+      "s'occuper de"
+    ],
+    [
+      "arranger",
+      "décorer avec",
+      "orner avec",
+      "parer avec",
+      "garnir avec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

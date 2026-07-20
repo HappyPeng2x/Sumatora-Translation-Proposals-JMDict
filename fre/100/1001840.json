@@ -1,0 +1,16 @@
+{
+  "seq": 1001840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frère aîné",
+      "frère ainé"
+    ],
+    [
+      "gars",
+      "jeune homme",
+      "mignon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1003350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui étudie très dur (à l'école); travailleur acharné; étudiant assidu"
+    ],
+    [
+      "étudier très dur; réviser intensivement; se préparer avec application"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

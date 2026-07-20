@@ -1,0 +1,18 @@
+{
+  "seq": 1003940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démentiellement",
+      "étourdit",
+      "tournoyant",
+      "vacillant",
+      "sens dessus dessous"
+    ],
+    [
+      "bouillir",
+      "monter en flammes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

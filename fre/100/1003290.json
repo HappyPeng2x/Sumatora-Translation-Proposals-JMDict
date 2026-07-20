@@ -1,0 +1,42 @@
+{
+  "seq": 1003290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un bruit de claquement",
+      "avec un bruit de grincement"
+    ],
+    [
+      "presque vide",
+      "désert",
+      "déserté",
+      "désolé",
+      "déserté",
+      "inhabité",
+      "inoccupé"
+    ],
+    [
+      "râpeux (voix)",
+      "grêle (voix)",
+      "rougeâtre (voix)",
+      "âpre (voix)"
+    ],
+    [
+      "avec un gargouillis"
+    ],
+    [
+      "grossier (personnalité, discours, etc.)",
+      "direct (personnalité, discours, etc.)",
+      "impoli",
+      "mal élevé"
+    ],
+    [
+      "bâton de son",
+      "jouet de bébé qui fait du bruit"
+    ],
+    [
+      "roue de loterie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

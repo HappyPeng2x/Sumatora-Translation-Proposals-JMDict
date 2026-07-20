@@ -1,0 +1,11 @@
+{
+  "seq": 1001880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "article d'occasion",
+      "vieux vêtement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1000630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suspicious",
+      "douteux",
+      "suspect"
+    ],
+    [
+      "indécent",
+      "inconvenant",
+      "déshonnête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1004290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vomir",
+      "rendre malade"
+    ],
+    [
+      "coasser",
+      "gargariser"
+    ],
+    [
+      "ah !",
+      "mauvais !",
+      "dégoûtant !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,28 @@
+{
+  "seq": 1003000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séché",
+      "asséché",
+      "à sec",
+      "complètement sec"
+    ],
+    [
+      "vide",
+      "creux",
+      "hollow"
+    ],
+    [
+      "bruyant",
+      "cliquetant",
+      "faisant un bruit sec"
+    ],
+    [
+      "riant fort",
+      "riant à gorge déployée",
+      "hurlant de rire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

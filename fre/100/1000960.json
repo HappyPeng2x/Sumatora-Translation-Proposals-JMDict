@@ -1,0 +1,13 @@
+{
+  "seq": 1000960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indécisément",
+      "hésitant",
+      "irrésolument",
+      "de manière vague et indécise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

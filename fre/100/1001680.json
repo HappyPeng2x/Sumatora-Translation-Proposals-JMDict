@@ -1,0 +1,15 @@
+{
+  "seq": 1001680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison hantée",
+      "maison effrayante"
+    ],
+    [
+      "attraction hantée",
+      "attraction de type maison hantée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

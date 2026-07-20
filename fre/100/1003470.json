@@ -1,0 +1,22 @@
+{
+  "seq": 1003470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un cri aigu",
+      "qui crie",
+      "qui fait un bruit aigu"
+    ],
+    [
+      "étroitement",
+      "serré",
+      "fermement"
+    ],
+    [
+      "à peine",
+      "à la limite",
+      "sur le point de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

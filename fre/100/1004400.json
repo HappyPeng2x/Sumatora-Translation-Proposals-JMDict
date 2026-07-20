@@ -1,0 +1,18 @@
+{
+  "seq": 1004400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agitéement",
+      "de manière agitée",
+      "avec anxiété",
+      "en faisant des manières pour des bagatelles"
+    ],
+    [
+      "être étouffant",
+      "être encombré",
+      "être confiné dans un espace étroit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

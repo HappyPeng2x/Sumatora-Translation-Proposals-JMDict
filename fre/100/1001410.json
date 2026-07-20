@@ -1,0 +1,20 @@
+{
+  "seq": 1001410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poêle",
+      "marmite"
+    ],
+    [
+      "transgenre (homme transgenre, femme à l'origine) ; lesbienne butch ; travestie (souvent dérogatoire)"
+    ],
+    [
+      "servante ; femme de ménage (d'origine, utilisé comme nom pour les servantes féminines dans la littérature de l'époque d'Edo)"
+    ],
+    [
+      "travail de nuit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

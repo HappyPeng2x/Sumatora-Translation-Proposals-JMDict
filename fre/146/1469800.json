@@ -1,0 +1,25 @@
+{
+  "seq": 1469800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indique le possessif (écrit originellement 乃 ou 之)"
+    ],
+    [
+      "nominalise les verbes et les adjectifs"
+    ],
+    [
+      "remplace le が dans les phrases subordonnées"
+    ],
+    [
+      "indique une conclusion assurée (à la fin de la phrase ; ton descendant)"
+    ],
+    [
+      "indique une emphase émotionnelle (à la fin de la phrase ; utilisé par les femmes)"
+    ],
+    [
+      "indique une question (à la fin de la phrase ; ton ascendant)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

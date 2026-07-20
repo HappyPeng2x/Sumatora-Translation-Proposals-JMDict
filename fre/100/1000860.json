@@ -1,0 +1,11 @@
+{
+  "seq": 1000860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plus que d'habitude",
+      "plus qu'à l'ordinaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

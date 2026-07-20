@@ -1,0 +1,11 @@
+{
+  "seq": 1002180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie de sevrage",
+      "repas rituel pour un bébé de 100 jours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

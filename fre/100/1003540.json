@@ -1,0 +1,20 @@
+{
+  "seq": 1003540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladroit",
+      "stiff",
+      "raide",
+      "saccadé",
+      "stérile"
+    ],
+    [
+      "tendu",
+      "tensionné",
+      "sour",
+      "difficile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1000480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "idiot",
+      "imbécile",
+      "sot"
+    ],
+    [
+      "sutra satirique",
+      "chant humoristique imitant les sutras bouddhiques",
+      "texte humoristique imitant les sutras"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

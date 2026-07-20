@@ -1,0 +1,17 @@
+{
+  "seq": 1002020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "hist",
+      "le noir des dents"
+    ],
+    [
+      "n",
+      "hist",
+      "teinture noire pour les dents"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

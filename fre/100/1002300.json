@@ -1,0 +1,16 @@
+{
+  "seq": 1002300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vous",
+      "toi"
+    ],
+    [
+      "mon mari",
+      "mon chéri",
+      "mon amour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

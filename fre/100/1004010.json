@@ -1,0 +1,20 @@
+{
+  "seq": 1004010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans hésitation",
+      "avec beaucoup d'optimisme",
+      "vigoureusement",
+      "avec beaucoup d'énergie",
+      "positivement"
+    ],
+    [
+      "fortement (en poussant ou en tirant)"
+    ],
+    [
+      "en buvant beaucoup"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1002975,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peut-être",
+      "pourrait",
+      "peut-être que",
+      "pourrait être"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

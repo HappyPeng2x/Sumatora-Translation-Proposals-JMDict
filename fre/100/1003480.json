@@ -1,0 +1,22 @@
+{
+  "seq": 1003480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un cri aigu",
+      "en produisant un son aigu",
+      "avec un cri perçant"
+    ],
+    [
+      "fermement",
+      "serré(e)ment",
+      "avec force"
+    ],
+    [
+      "d'un seul coup",
+      "en une seule gorgée",
+      "sans interruption"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

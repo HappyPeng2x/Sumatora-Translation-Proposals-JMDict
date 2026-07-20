@@ -1,0 +1,14 @@
+{
+  "seq": 1249850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ayant purgé sa peine",
+      "ancien détenu"
+    ],
+    [
+      "eunuque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

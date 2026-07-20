@@ -1,0 +1,17 @@
+{
+  "seq": 1000230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inutile",
+      "sans valeur",
+      "désespéré"
+    ],
+    [
+      "ne pas pouvoir",
+      "ne pas être autorisé",
+      "interdit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1004120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vaciller",
+      "trembler",
+      "être instable"
+    ],
+    [
+      "osciller",
+      "être inconstant",
+      "être troublé (émotions, pensées)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

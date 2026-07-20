@@ -1,0 +1,37 @@
+{
+  "seq": 1551240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "départ",
+      "début",
+      "démarrage"
+    ],
+    [
+      "épuisement",
+      "consommation",
+      "usure"
+    ],
+    [
+      "écoulement du temps",
+      "laps de temps"
+    ],
+    [
+      "répétition",
+      "répétition d'essai"
+    ],
+    [
+      "rôle principal masculin",
+      "rôle de premier plan"
+    ],
+    [
+      "départ en charge",
+      "attaque initiale",
+      "affrontement"
+    ],
+    [
+      "préfixe verbal indiquant l'accentuation ou la formalité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

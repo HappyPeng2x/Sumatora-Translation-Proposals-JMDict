@@ -1,0 +1,12 @@
+{
+  "seq": 1002240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne recherchée par la police",
+      "personne recherchée par les autorités",
+      "fugitive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

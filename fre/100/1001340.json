@@ -1,0 +1,17 @@
+{
+  "seq": 1001340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tomber",
+      "chuter",
+      "tomber en bas"
+    ],
+    [
+      "échouer",
+      "perdre (un concours, une élection)",
+      "ne pas réussir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

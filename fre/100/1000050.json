@@ -1,0 +1,10 @@
+{
+  "seq": 1000050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signe indiquant que ce qui précède est à nouveau mentionné plus haut"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

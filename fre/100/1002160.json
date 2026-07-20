@@ -1,0 +1,14 @@
+{
+  "seq": 1002160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "campagnard",
+      "visiteur de la campagne",
+      "étranger de la campagne",
+      "rustique",
+      "campagnard en ville"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

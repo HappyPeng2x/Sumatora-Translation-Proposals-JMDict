@@ -1,0 +1,29 @@
+{
+  "seq": 1003110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(de) parler (des dents) en chatter",
+      "mâcher (des dents) en chatter"
+    ],
+    [
+      "rigide",
+      "dur",
+      "figé",
+      "tendu"
+    ],
+    [
+      "rigide",
+      "inflexible",
+      "sérieux",
+      "stupide (fig.)"
+    ],
+    [
+      "vorace",
+      "sans relâche",
+      "sans pause",
+      "constant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

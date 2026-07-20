@@ -1,0 +1,17 @@
+{
+  "seq": 1004250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être découragé",
+      "être abattu",
+      "être déprimé"
+    ],
+    [
+      "soudainement (perdre beaucoup de poids)",
+      "paraître amaigri",
+      "devenir très maigre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

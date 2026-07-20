@@ -1,0 +1,22 @@
+{
+  "seq": 1002680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "certificat",
+      "document officiel",
+      "autorisation"
+    ],
+    [
+      "approbation",
+      "sceau d'approbation",
+      "pouce levé"
+    ],
+    [
+      "document signé par le shogun ou un seigneur",
+      "papier portant la signature d'un seigneur",
+      "document historique signé par un lord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

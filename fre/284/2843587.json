@@ -1,0 +1,15 @@
+{
+  "seq": 2843587,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dernière course (d'un train en fin de vie)",
+      "dernière mise en service (d'un train en fin de vie)"
+    ],
+    [
+      "dernière course",
+      "course de retraite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

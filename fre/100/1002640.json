@@ -1,0 +1,19 @@
+{
+  "seq": 1002640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cadeau en retour",
+      "faveur rendue"
+    ],
+    [
+      "vengeance",
+      "revenge"
+    ],
+    [
+      "changement (dans une transaction monétaire)",
+      "modification (dans un échange de monnaie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

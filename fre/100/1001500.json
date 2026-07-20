@@ -1,0 +1,15 @@
+{
+  "seq": 1001500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vulve",
+      "vagina"
+    ],
+    [
+      "rapport sexuel",
+      "fellation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

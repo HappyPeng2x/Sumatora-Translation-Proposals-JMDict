@@ -1,0 +1,31 @@
+{
+  "seq": 1003120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un bruit de claquement",
+      "avec un bruit de cliquetis",
+      "avec un bruit de métal qui entre en collision"
+    ],
+    [
+      "de façon insistante",
+      "de façon importune",
+      "sans cesse",
+      "sans relâche"
+    ],
+    [
+      "en désordre",
+      "encombré",
+      "désordonné",
+      "en bazar"
+    ],
+    [
+      "machine à distributeur de jouets en capsule",
+      "jouet en capsule"
+    ],
+    [
+      "Mecopoda nipponensis (espèce de grillon)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

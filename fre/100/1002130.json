@@ -1,0 +1,16 @@
+{
+  "seq": 1002130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appel",
+      "convocation",
+      "habillement",
+      "vêtement"
+    ],
+    [
+      "soie crêpe de qualité supérieure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

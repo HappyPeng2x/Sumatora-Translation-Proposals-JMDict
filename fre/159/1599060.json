@@ -1,0 +1,27 @@
+{
+  "seq": 1599060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prise",
+      "absorption",
+      "introduction"
+    ],
+    [
+      "captation",
+      "attirance",
+      "séduction"
+    ],
+    [
+      "bouillonnement",
+      "désordre",
+      "malheur"
+    ],
+    [
+      "importation",
+      "capture",
+      "récupération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

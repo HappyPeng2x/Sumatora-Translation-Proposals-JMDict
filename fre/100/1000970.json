@@ -1,0 +1,17 @@
+{
+  "seq": 1000970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en grappes",
+      "en foule",
+      "en abondance"
+    ],
+    [
+      "de façon lente",
+      "de manière fastidieuse",
+      "avec lenteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

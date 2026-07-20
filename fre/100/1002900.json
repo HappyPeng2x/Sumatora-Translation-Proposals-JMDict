@@ -1,0 +1,17 @@
+{
+  "seq": 1002900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exactement",
+      "précisément",
+      "étroitement"
+    ],
+    [
+      "étroit",
+      "ferme",
+      "serré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

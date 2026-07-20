@@ -1,0 +1,15 @@
+{
+  "seq": 1000400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en difficulté, dans une situation périlleuse",
+      "dans l'embarras, en péril"
+    ],
+    [
+      "souffrant, en souffrance",
+      "dans la douleur, en détresse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

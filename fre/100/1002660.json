@@ -1,0 +1,11 @@
+{
+  "seq": 1002660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mère",
+      "maman"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

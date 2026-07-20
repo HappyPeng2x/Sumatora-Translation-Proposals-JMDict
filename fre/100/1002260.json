@@ -1,0 +1,14 @@
+{
+  "seq": 1002260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recevoir des faveurs",
+      "recevoir de l'aide",
+      "être pris en charge",
+      "être redevable",
+      "être reconnaissant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

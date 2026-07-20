@@ -1,0 +1,23 @@
+{
+  "seq": 1000780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir timide",
+      "reculer en tremblant",
+      "perdre son courage"
+    ],
+    [
+      "devenir pervers",
+      "devenir capricieux",
+      "se déformer",
+      "se replier sur soi"
+    ],
+    [
+      "être étroit",
+      "être contraint",
+      "être serré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

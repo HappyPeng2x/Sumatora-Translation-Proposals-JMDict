@@ -1,0 +1,31 @@
+{
+  "seq": 1019850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancre"
+    ],
+    [
+      "dernier relais (dans une course relais)"
+    ],
+    [
+      "animateur (journalisme)"
+    ],
+    [
+      "ancre (HTML)"
+    ],
+    [
+      "lien vers un message antérieur (forum)"
+    ],
+    [
+      "joueur de défense (football)"
+    ],
+    [
+      "boulon d'ancrage"
+    ],
+    [
+      "ancrage (mécanisme d'échappement)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

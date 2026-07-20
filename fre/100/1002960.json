@@ -1,0 +1,16 @@
+{
+  "seq": 1002960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] (l') épouse"
+    ],
+    [
+      "[n] (l') épouse de quelqu'un"
+    ],
+    [
+      "[n] patronne de maison de location"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

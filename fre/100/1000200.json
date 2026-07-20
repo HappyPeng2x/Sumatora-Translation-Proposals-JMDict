@@ -1,0 +1,11 @@
+{
+  "seq": 1000200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'harmonisation mentale et physique de deux parties engagées dans une activité",
+      "l'entente parfaite entre deux personnes agissant en synergie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

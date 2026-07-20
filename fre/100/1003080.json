@@ -1,0 +1,19 @@
+{
+  "seq": 1003080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tremblant",
+      "tremblant de peur",
+      "frissonnant",
+      "claquant (des dents)"
+    ],
+    [
+      "détaché",
+      "désaxé",
+      "vacillant",
+      "dangereux (sur ses fondations)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

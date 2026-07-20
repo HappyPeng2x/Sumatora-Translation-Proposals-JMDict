@@ -1,0 +1,11 @@
+{
+  "seq": 1000060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signe utilisé pour répéter un kanji précédent dans un texte japonais",
+      "marque de répétition des kanjis dans un texte japonais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

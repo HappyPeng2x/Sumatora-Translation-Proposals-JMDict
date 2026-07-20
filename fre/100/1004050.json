@@ -1,0 +1,17 @@
+{
+  "seq": 1004050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pulpeux",
+      "mou",
+      "collant"
+    ],
+    [
+      "désordonné",
+      "en désordre",
+      "chaotique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

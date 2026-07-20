@@ -1,0 +1,12 @@
+{
+  "seq": 1001920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "billet de banque",
+      "billet monnaie",
+      "note de banque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

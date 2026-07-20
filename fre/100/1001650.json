@@ -1,0 +1,18 @@
+{
+  "seq": 1001650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assistance",
+      "aide",
+      "bonté",
+      "gentillesse"
+    ],
+    [
+      "grâce",
+      "bénédiction",
+      "bonté divine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

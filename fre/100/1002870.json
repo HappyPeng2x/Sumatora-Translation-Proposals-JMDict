@@ -1,0 +1,16 @@
+{
+  "seq": 1002870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brûler violemment",
+      "brûler avec une forte intensité"
+    ],
+    [
+      "se mettre en colère",
+      "perdre son calme",
+      "être irrité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

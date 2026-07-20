@@ -1,0 +1,17 @@
+{
+  "seq": 1003240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avidement",
+      "voracement",
+      "ravement"
+    ],
+    [
+      "avarement",
+      "avidement",
+      "ardemment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

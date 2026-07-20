@@ -1,0 +1,32 @@
+{
+  "seq": 1000090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cercle",
+      "anneau",
+      "rond"
+    ],
+    [
+      "correct",
+      "bon",
+      "valide"
+    ],
+    [
+      "astérisque",
+      "caractère de remplacement",
+      "espace à remplir"
+    ],
+    [
+      "point",
+      "ponctuation",
+      "arrêt de phrase"
+    ],
+    [
+      "handakuten",
+      "diacritique",
+      "signe japonais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

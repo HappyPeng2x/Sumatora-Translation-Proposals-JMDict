@@ -1,0 +1,15 @@
+{
+  "seq": 1002070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sacoche de haricots",
+      "jeu de jonglage avec des sacoches de haricots"
+    ],
+    [
+      "faire trembler la balle",
+      "faire ballotter la balle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

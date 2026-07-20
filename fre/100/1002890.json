@@ -1,0 +1,17 @@
+{
+  "seq": 1002890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'emparer (et s'enfuir)",
+      "emporter (brusquement)",
+      "prendre (par la force)",
+      "attraper (par surprise)"
+    ],
+    [
+      "rasper (pour retirer de la terre, du sable, etc.)",
+      "soulever (et retirer de la terre, du sable, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

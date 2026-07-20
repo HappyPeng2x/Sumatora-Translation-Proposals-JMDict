@@ -1,0 +1,11 @@
+{
+  "seq": 1003970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladie liée au manque de vitamine D chez les enfants",
+      "rachitisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

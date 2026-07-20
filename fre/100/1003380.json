@@ -1,0 +1,26 @@
+{
+  "seq": 1003380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "encombré",
+      "rempli au maximum",
+      "surchargé"
+    ],
+    [
+      "bruit de friction",
+      "grincement",
+      "bruit strident"
+    ],
+    [
+      "précisément",
+      "exactement",
+      "avec exactitude"
+    ],
+    [
+      "locuste longicéphale orientale",
+      "Acrida cinerea"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

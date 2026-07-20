@@ -1,0 +1,16 @@
+{
+  "seq": 1001370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "seins",
+      "tétines",
+      "mamelons"
+    ],
+    [
+      "lait maternel",
+      "lait de lait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

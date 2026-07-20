@@ -1,0 +1,16 @@
+{
+  "seq": 1002670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fils (d'autrui); garçon; jeune maître",
+      "fils de famille; jeune homme de bonne famille",
+      "jeune homme innocent"
+    ],
+    [
+      "jeune homme inexpérimenté",
+      "jeune homme naïf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

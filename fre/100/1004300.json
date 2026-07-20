@@ -1,0 +1,11 @@
+{
+  "seq": 1004300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être superstitieux",
+      "avoir des croyances superstitieuses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

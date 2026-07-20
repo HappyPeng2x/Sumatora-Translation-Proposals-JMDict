@@ -1,0 +1,17 @@
+{
+  "seq": 1002860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit sec",
+      "clic",
+      "claque"
+    ],
+    [
+      "être irrité",
+      "être offensé",
+      "être blessé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

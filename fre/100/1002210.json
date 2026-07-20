@@ -1,0 +1,11 @@
+{
+  "seq": 1002210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conserves de légumes",
+      "pickles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

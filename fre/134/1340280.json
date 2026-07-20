@@ -1,0 +1,21 @@
+{
+  "seq": 1340280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bouton",
+      "éruption cutanée",
+      "pustule"
+    ],
+    [
+      "article d'occasion",
+      "bon marché",
+      "affaire"
+    ],
+    [
+      "pet",
+      "fart"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1002220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "légumes bouillis dans du sauce soja au bonito",
+      "plat de légumes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

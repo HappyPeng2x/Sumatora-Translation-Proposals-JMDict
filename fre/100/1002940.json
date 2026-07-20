@@ -1,0 +1,16 @@
+{
+  "seq": 1002940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[prt] Je me demande (à la fin de la phrase)"
+    ],
+    [
+      "[prt] Devrais-je ? Est-ce que ? (à la fin de la phrase)"
+    ],
+    [
+      "[prt] Je souhaite que ; j'espère que (à la fin de la phrase ; avec une négation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

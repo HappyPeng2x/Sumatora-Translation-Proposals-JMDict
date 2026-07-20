@@ -1,0 +1,16 @@
+{
+  "seq": 1002230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vin sacré",
+      "saké sacré",
+      "saké offert aux dieux"
+    ],
+    [
+      "saké",
+      "vin de riz"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

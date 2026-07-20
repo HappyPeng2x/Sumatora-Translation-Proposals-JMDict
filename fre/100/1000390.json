@@ -1,0 +1,14 @@
+{
+  "seq": 1000390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en un instant",
+      "en un clin d'œil",
+      "aussitôt",
+      "en un rien de temps",
+      "ainsi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
