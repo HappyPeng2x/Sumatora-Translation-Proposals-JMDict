@@ -1,0 +1,21 @@
+{
+  "seq": 1080970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état d'esprit",
+      "enthousiasme",
+      "énergie",
+      "bonne humeur"
+    ],
+    [
+      "tension",
+      "force exercée"
+    ],
+    [
+      "anxiété",
+      "tension mentale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

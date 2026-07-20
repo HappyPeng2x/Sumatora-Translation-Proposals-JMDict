@@ -1,0 +1,25 @@
+{
+  "seq": 1083350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affrontement",
+      "concurrentiel",
+      "très serré"
+    ],
+    [
+      "égalité",
+      "parfaite",
+      "entre",
+      "deux",
+      "parties",
+      "dans",
+      "une",
+      "course",
+      "ou",
+      "une",
+      "compétition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

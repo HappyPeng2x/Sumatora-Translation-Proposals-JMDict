@@ -1,0 +1,14 @@
+{
+  "seq": 1082670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le style de musique d'origine sud-américaine",
+      "les États du sud des États-Unis"
+    ],
+    [
+      "le jazz dixieland"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

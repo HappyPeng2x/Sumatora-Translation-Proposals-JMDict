@@ -1,0 +1,14 @@
+{
+  "seq": 1084700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tournoi"
+    ],
+    [
+      "tournoi éliminatoire",
+      "tournoi en simple élimination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1081610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distributeur (de voitures)",
+      "concessionnaire"
+    ],
+    [
+      "distributeur (finances)"
+    ],
+    [
+      "distributeur (jeux de cartes)"
+    ],
+    [
+      "exposant (à une convention, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

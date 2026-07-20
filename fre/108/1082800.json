@@ -1,0 +1,20 @@
+{
+  "seq": 1082800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décolleté",
+      "décolletage",
+      "la partie du torse et du dos d'une femme exposée par un décolleté profond"
+    ],
+    [
+      "robe décolletée",
+      "robe à décolleté profond"
+    ],
+    [
+      "à décolleté profond",
+      "décolleté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

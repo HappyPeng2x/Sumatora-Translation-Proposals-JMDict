@@ -1,0 +1,12 @@
+{
+  "seq": 1085140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "top down",
+      "d'en haut en bas",
+      "de haut en bas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

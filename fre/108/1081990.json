@@ -1,0 +1,16 @@
+{
+  "seq": 1081990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "montrer",
+      "exposer",
+      "afficher"
+    ],
+    [
+      "écran",
+      "moniteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

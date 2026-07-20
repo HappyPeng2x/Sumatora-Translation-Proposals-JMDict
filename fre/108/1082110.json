@@ -1,0 +1,12 @@
+{
+  "seq": 1082110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détecteur",
+      "détecteur de substances",
+      "détecteur de radiation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

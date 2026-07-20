@@ -1,0 +1,14 @@
+{
+  "seq": 1079750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "test",
+      "épreuve",
+      "essai",
+      "examen",
+      "procédure de vérification"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

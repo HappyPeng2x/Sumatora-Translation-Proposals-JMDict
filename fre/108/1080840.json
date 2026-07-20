@@ -1,0 +1,11 @@
+{
+  "seq": 1080840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "documentaire télévisé",
+      "émission télévisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

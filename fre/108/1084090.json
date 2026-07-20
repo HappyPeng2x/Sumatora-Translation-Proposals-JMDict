@@ -1,0 +1,15 @@
+{
+  "seq": 1084090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démonstrateur",
+      "personne qui montre un produit, par exemple dans un magasin"
+    ],
+    [
+      "instructeur",
+      "personne qui enseigne le ski ou le snowboard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

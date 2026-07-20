@@ -1,0 +1,10 @@
+{
+  "seq": 1079150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tilapia (poisson d'eau douce originaire d'Afrique, introduit dans de nombreuses régions du monde comme source alimentaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

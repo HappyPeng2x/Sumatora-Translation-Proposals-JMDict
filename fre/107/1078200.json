@@ -1,0 +1,18 @@
+{
+  "seq": 1078200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélodie",
+      "air",
+      "tune"
+    ],
+    [
+      "ajustage",
+      "réglage",
+      "accordage",
+      "tuning"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,36 @@
+{
+  "seq": 1080870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dispositif",
+      "utilisé",
+      "pour",
+      "superposer",
+      "du",
+      "texte",
+      "ou",
+      "des",
+      "images",
+      "à",
+      "l'écran",
+      "de",
+      "télévision"
+    ],
+    [
+      "texte",
+      "ou",
+      "image",
+      "superposée",
+      "à",
+      "l'écran",
+      "de",
+      "télévision",
+      ";",
+      "sous-titre",
+      "à",
+      "l'écran"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

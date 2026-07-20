@@ -1,0 +1,25 @@
+{
+  "seq": 1083270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pont (d'un navire)"
+    ],
+    [
+      "palier (d'un immeuble)"
+    ],
+    [
+      "plateforme (à l'extrémité d'un wagon de train) ; vestibule"
+    ],
+    [
+      "plateforme d'observation (surtout dans un aéroport)"
+    ],
+    [
+      "déck (abréviation de déck de bande)"
+    ],
+    [
+      "jeu de cartes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

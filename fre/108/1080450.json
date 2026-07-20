@@ -1,0 +1,12 @@
+{
+  "seq": 1080450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marche en montagne",
+      "randonnée en pleine nature",
+      "randonnée de longue distance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

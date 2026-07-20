@@ -1,0 +1,12 @@
+{
+  "seq": 1082170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dîner en société",
+      "réception de dîner",
+      "soirée de dîner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

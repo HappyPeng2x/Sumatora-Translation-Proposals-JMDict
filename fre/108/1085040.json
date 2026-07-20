@@ -1,0 +1,11 @@
+{
+  "seq": 1085040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vitesse maximale",
+      "rapport de vitesse le plus élevé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

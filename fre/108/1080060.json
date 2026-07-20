@@ -1,0 +1,11 @@
+{
+  "seq": 1080060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanteur ténor",
+      "voix ténor"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

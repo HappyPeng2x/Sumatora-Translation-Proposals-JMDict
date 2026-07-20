@@ -1,0 +1,15 @@
+{
+  "seq": 1081740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disque",
+      "disque plat"
+    ],
+    [
+      "disque (support de stockage)",
+      "disque dur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

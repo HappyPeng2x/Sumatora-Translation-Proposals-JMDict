@@ -1,0 +1,15 @@
+{
+  "seq": 1078440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jumeau",
+      "jumelle"
+    ],
+    [
+      "chambre double",
+      "chambre pour deux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1084560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "total",
+      "totale",
+      "addition",
+      "somme"
+    ],
+    [
+      "complet",
+      "général",
+      "global",
+      "intégral"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

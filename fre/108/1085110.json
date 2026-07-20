@@ -1,0 +1,12 @@
+{
+  "seq": 1085110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étoile principale",
+      "vedette masculine dans les spectacles de la troupe Takarazuka",
+      "personnalité célèbre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

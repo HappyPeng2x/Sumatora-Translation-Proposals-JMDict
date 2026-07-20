@@ -1,0 +1,14 @@
+{
+  "seq": 1084440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "film sonore",
+      "film parlant"
+    ],
+    [
+      "annonce enregistrée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

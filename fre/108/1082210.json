@@ -1,0 +1,11 @@
+{
+  "seq": 1082210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débogueur",
+      "outil de débogage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

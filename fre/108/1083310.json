@@ -1,0 +1,15 @@
+{
+  "seq": 1083310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impasse",
+      "cul-de-sac"
+    ],
+    [
+      "fin tragique",
+      "dénouement dramatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

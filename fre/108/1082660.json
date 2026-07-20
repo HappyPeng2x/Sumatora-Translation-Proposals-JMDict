@@ -1,0 +1,14 @@
+{
+  "seq": 1082660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le Sud des États-Unis",
+      "Dixie"
+    ],
+    [
+      "le jazz dixieland"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

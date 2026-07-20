@@ -1,0 +1,13 @@
+{
+  "seq": 1083120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bureau"
+    ],
+    [
+      "correcteur de copies"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

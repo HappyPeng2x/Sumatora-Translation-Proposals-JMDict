@@ -1,0 +1,11 @@
+{
+  "seq": 1078560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "offre d'acquisition",
+      "offre de rachat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

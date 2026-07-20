@@ -1,0 +1,16 @@
+{
+  "seq": 1083220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match mortel",
+      "combat à mort"
+    ],
+    [
+      "combat à mort",
+      "lutte sans merci",
+      "affrontement déchirant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

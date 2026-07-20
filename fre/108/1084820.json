@@ -1,0 +1,12 @@
+{
+  "seq": 1084820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toilettage",
+      "soins de toilette",
+      "produits de toilette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

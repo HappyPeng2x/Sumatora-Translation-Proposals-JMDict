@@ -1,0 +1,11 @@
+{
+  "seq": 1083340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps mort",
+      "période de non-fonctionnement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

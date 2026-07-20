@@ -1,0 +1,11 @@
+{
+  "seq": 1084980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu de balle où les joueurs s'efforcent de frapper la balle à l'adversaire",
+      "jeu de balle rapide entre deux joueurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

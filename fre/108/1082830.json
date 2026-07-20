@@ -1,0 +1,11 @@
+{
+  "seq": 1082830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désassembleur",
+      "decompilateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

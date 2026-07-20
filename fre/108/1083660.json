@@ -1,0 +1,15 @@
+{
+  "seq": 1083660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démon",
+      "satan"
+    ],
+    [
+      "le Diable",
+      "Satan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

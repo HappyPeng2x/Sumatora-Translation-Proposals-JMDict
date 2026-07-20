@@ -1,0 +1,11 @@
+{
+  "seq": 1080600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résine de terebinthe",
+      "terébenthine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

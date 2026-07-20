@@ -1,0 +1,27 @@
+{
+  "seq": 1084320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sensible",
+      "émouvant",
+      "fragile (dans le sens émotionnel)"
+    ],
+    [
+      "délicat",
+      "sensible",
+      "subtil (dans le sens d'une question ou d'un problème)"
+    ],
+    [
+      "fragile",
+      "délicat",
+      "sensible (comme la peau)"
+    ],
+    [
+      "délicat",
+      "subtil",
+      "fin (dans le sens d'un tissu, d'une nuance, d'un goût)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

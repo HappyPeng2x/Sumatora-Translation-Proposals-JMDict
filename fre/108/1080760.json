@@ -1,0 +1,11 @@
+{
+  "seq": 1080760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "télévendeur",
+      "personne qui vend par téléphone"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

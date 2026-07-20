@@ -1,0 +1,15 @@
+{
+  "seq": 1079190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "goût",
+      "saveur"
+    ],
+    [
+      "goût",
+      "préférence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

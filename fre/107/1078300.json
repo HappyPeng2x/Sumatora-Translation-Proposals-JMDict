@@ -1,0 +1,22 @@
+{
+  "seq": 1078300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "erreur",
+      "maladresse",
+      "bêtise",
+      "faute"
+    ],
+    [
+      "infraction",
+      "manquement",
+      "violation (d'une règle)"
+    ],
+    [
+      "déclaration prématurée de victoire",
+      "erreur de déclaration de gagnant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

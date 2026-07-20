@@ -1,0 +1,19 @@
+{
+  "seq": 1084970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lancer",
+      "jet",
+      "tir",
+      "démarrage",
+      "action de lancer"
+    ],
+    [
+      "jet de pièce",
+      "lancer de pièce",
+      "tirage au sort par une pièce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

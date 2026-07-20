@@ -1,0 +1,18 @@
+{
+  "seq": 1084460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conversation",
+      "bavardage",
+      "discours",
+      "remarque",
+      "échange"
+    ],
+    [
+      "émission de télévision",
+      "émission de radio"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

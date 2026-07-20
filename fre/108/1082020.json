@@ -1,0 +1,16 @@
+{
+  "seq": 1082020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distributeur"
+    ],
+    [
+      "machine à vendre"
+    ],
+    [
+      "distributeur de billets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

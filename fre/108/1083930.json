@@ -1,0 +1,16 @@
+{
+  "seq": 1083930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faux bruit",
+      "faux avertissement",
+      "information erronée"
+    ],
+    [
+      "démagogie",
+      "démagoguerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

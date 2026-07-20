@@ -1,0 +1,20 @@
+{
+  "seq": 1078490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arbre",
+      "arbre de Noël"
+    ],
+    [
+      "structure",
+      "diagramme",
+      "arbre (en informatique)"
+    ],
+    [
+      "fil",
+      "thread (sur Twitter)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

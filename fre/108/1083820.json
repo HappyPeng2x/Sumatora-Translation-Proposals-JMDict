@@ -1,0 +1,16 @@
+{
+  "seq": 1083820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obèse",
+      "rond",
+      "bedonnant"
+    ],
+    [
+      "un obèse",
+      "un bedonnant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

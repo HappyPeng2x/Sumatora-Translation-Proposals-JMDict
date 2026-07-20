@@ -1,0 +1,10 @@
+{
+  "seq": 1078660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discours court prononcé lors d'un dîner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

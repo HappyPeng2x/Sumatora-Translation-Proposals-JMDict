@@ -1,0 +1,13 @@
+{
+  "seq": 1083190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désespéré",
+      "désespérant",
+      "abandonné",
+      "perdu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

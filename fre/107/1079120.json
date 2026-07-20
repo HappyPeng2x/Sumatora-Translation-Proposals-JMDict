@@ -1,0 +1,12 @@
+{
+  "seq": 1079120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "typique",
+      "caractéristique",
+      "représentatif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

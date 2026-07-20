@@ -1,0 +1,15 @@
+{
+  "seq": 1080140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison en rangée",
+      "maison de rangée",
+      "maison en terrasse"
+    ],
+    [
+      "maison indépendante avec terrasse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

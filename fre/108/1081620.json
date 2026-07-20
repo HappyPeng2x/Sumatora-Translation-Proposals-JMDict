@@ -1,0 +1,11 @@
+{
+  "seq": 1081620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dictionnaire",
+      "livre de référence contenant des mots avec leurs significations"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

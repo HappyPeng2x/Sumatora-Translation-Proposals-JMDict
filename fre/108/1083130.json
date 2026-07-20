@@ -1,0 +1,17 @@
+{
+  "seq": 1083130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bureau",
+      "surface de travail"
+    ],
+    [
+      "ordinateur de bureau"
+    ],
+    [
+      "écran principal d'un ordinateur personnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

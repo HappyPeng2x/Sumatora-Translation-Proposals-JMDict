@@ -1,0 +1,20 @@
+{
+  "seq": 1083300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mort",
+      "inutilisable",
+      "dépensé"
+    ],
+    [
+      "balle morte"
+    ],
+    [
+      "muet",
+      "sans écho",
+      "désuet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

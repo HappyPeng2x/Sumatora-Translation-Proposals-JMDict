@@ -1,0 +1,10 @@
+{
+  "seq": 1079640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne compétente à la fois dans le domaine des affaires et de la technologie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

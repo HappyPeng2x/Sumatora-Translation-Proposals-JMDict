@@ -1,0 +1,13 @@
+{
+  "seq": 1082740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "degré",
+      "mesure",
+      "niveau",
+      "grade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

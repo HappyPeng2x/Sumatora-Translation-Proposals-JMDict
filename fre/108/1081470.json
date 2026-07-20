@@ -1,0 +1,13 @@
+{
+  "seq": 1081470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démon"
+    ],
+    [
+      "démon (dans le système Unix, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

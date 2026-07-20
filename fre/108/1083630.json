@@ -1,0 +1,17 @@
+{
+  "seq": 1083630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "début",
+      "première tentative",
+      "première apparition"
+    ],
+    [
+      "nouvelle commencement",
+      "reprise",
+      "renouveau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

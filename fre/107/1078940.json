@@ -1,0 +1,16 @@
+{
+  "seq": 1078940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "queue",
+      "extrémité",
+      "appendice"
+    ],
+    [
+      "veste à queue",
+      "queue d'habit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

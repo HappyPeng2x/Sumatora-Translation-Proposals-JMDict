@@ -1,0 +1,11 @@
+{
+  "seq": 1081450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "club de rencontres payant",
+      "club offrant un service de rencontres payant à ses membres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

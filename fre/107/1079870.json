@@ -1,0 +1,17 @@
+{
+  "seq": 1079870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "panneau en fibre douce",
+      "panneau en fibre",
+      "panneau de paroi"
+    ],
+    [
+      "tissu",
+      "matière",
+      "tissu (souvent utilisé dans les noms de marques)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

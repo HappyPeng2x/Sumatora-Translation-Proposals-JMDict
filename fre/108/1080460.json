@@ -1,0 +1,11 @@
+{
+  "seq": 1080460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "télégraphe télétypé",
+      "échange télétypé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

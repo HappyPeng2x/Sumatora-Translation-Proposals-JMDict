@@ -1,0 +1,12 @@
+{
+  "seq": 1084350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livraison",
+      "expédition",
+      "enlèvement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

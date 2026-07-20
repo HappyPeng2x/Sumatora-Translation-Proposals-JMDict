@@ -1,0 +1,11 @@
+{
+  "seq": 1080570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnalité télévisée",
+      "personne célèbre dans le domaine de la télévision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1084160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "revêtement double",
+      "couche double"
+    ],
+    [
+      "manteau réversible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1080750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "téléportation",
+      "action de se déplacer instantanément d'un lieu à un autre"
+    ],
+    [
+      "téléportation",
+      "procédé de transport instantané"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

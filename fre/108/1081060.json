@@ -1,0 +1,14 @@
+{
+  "seq": 1081060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tempérament"
+    ],
+    [
+      "déséquilibre",
+      "agitation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

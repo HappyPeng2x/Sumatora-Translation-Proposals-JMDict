@@ -1,0 +1,11 @@
+{
+  "seq": 1082960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle de décision",
+      "chambre de prise de décision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

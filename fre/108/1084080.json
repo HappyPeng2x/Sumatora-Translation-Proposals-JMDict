@@ -1,0 +1,20 @@
+{
+  "seq": 1084080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manifestation",
+      "protestation"
+    ],
+    [
+      "démonstration",
+      "présentation",
+      "démo"
+    ],
+    [
+      "match de démonstration",
+      "exhibition match"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

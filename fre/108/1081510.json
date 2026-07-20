@@ -1,0 +1,14 @@
+{
+  "seq": 1081510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quotidien",
+      "journalier"
+    ],
+    [
+      "produits périssables livrés quotidiennement aux détaillants"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

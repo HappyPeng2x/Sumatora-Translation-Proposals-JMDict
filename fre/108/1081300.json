@@ -1,0 +1,10 @@
+{
+  "seq": 1081300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "longueur d'un bit de données"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

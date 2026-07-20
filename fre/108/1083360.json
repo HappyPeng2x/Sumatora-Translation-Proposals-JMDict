@@ -1,0 +1,11 @@
+{
+  "seq": 1083360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lancer qui frappe le frappeur",
+      "balle qui touche le frappeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

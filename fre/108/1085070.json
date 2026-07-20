@@ -1,0 +1,17 @@
+{
+  "seq": 1085070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manteau de ville",
+      "manteau léger"
+    ],
+    [
+      "couche supérieure (de peinture, de vernis, etc.)"
+    ],
+    [
+      "couche de vernis à ongles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

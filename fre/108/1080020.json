@@ -1,0 +1,11 @@
+{
+  "seq": 1080020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épicondylite du coude",
+      "douleur au coude due à la pratique du tennis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

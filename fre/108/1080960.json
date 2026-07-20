@@ -1,0 +1,16 @@
+{
+  "seq": 1080960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clavier numérique",
+      "pavé numérique",
+      "pavé de chiffres"
+    ],
+    [
+      "touches numériques",
+      "touches de chiffres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

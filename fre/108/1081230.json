@@ -1,0 +1,11 @@
+{
+  "seq": 1081230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "artisanat des données",
+      "technique de traitement des données"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

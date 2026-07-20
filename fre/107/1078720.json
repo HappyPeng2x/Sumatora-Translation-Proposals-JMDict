@@ -1,0 +1,12 @@
+{
+  "seq": 1078720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discours à la table",
+      "parole tenue à table",
+      "conversation à table"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

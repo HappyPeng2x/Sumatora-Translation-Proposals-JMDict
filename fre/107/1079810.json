@@ -1,0 +1,11 @@
+{
+  "seq": 1079810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conducteur de test",
+      "conducteur de test (logiciel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

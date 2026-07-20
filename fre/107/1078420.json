@@ -1,0 +1,12 @@
+{
+  "seq": 1078420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tour",
+      "voyage organisé",
+      "circuit touristique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

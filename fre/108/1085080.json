@@ -1,0 +1,11 @@
+{
+  "seq": 1085080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état optimal",
+      "meilleure forme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1085130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "best-seller",
+      "ouvrage très vendu",
+      "produit très vendu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

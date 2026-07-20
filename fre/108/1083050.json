@@ -1,0 +1,12 @@
+{
+  "seq": 1083050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tapis audio numérique",
+      "bande magnétique audio numérique",
+      "DAT"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

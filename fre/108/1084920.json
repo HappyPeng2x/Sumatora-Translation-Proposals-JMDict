@@ -1,0 +1,11 @@
+{
+  "seq": 1084920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tokamak",
+      "dispositif toroïdal de confinement magnétique du plasma"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

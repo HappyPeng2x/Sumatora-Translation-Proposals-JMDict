@@ -1,0 +1,20 @@
+{
+  "seq": 1078290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup de ciseaux",
+      "coup de hachoir"
+    ],
+    [
+      "coup",
+      "frappe"
+    ],
+    [
+      "coup de raquette",
+      "frappe en tennis",
+      "coup de batte en ping-pong"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
