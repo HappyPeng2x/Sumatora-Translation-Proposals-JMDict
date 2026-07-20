@@ -1,0 +1,17 @@
+{
+  "seq": 1094060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nouvelle chose",
+      "originalité",
+      "chose inédite"
+    ],
+    [
+      "objet de promotion",
+      "cadeau publicitaire",
+      "souvenir promotionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

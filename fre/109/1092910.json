@@ -1,0 +1,15 @@
+{
+  "seq": 1092910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le fait de construire un nid",
+      "l'action de faire un nid"
+    ],
+    [
+      "imbriquement",
+      "emboîtement (d'éléments de données, de structures de contrôle, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

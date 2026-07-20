@@ -1,0 +1,12 @@
+{
+  "seq": 1094380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nonpolitique",
+      "apolitique",
+      "personne apolitique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

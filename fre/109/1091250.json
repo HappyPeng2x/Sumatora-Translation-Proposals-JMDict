@@ -1,0 +1,15 @@
+{
+  "seq": 1091250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préfixe",
+      "nitro-"
+    ],
+    [
+      "[n., abbr.]",
+      "nitroglycérine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

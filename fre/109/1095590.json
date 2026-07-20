@@ -1,0 +1,12 @@
+{
+  "seq": 1095590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mettre en évidence",
+      "souligner",
+      "mettre en valeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

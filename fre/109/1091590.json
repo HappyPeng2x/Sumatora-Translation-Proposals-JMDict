@@ -1,0 +1,11 @@
+{
+  "seq": 1091590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "valeur journalistique",
+      "valeur d'actualité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1093330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match",
+      "fin de match",
+      "temps plein"
+    ],
+    [
+      "éloges mutuels après un combat",
+      "réconciliation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

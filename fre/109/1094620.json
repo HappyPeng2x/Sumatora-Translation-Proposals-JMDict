@@ -1,0 +1,16 @@
+{
+  "seq": 1094620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dur, intraitable",
+      "personne dure, implacable",
+      "style dur, sans détour"
+    ],
+    [
+      "fiction dure",
+      "roman dur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

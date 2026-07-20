@@ -1,0 +1,11 @@
+{
+  "seq": 1090780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récitateur",
+      "narrateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

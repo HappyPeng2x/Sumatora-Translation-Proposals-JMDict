@@ -1,0 +1,12 @@
+{
+  "seq": 1093160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne faites pas attention",
+      "n'y pensez pas",
+      "ce n'est pas important"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

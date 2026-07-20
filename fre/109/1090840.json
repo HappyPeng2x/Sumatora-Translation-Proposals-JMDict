@@ -1,0 +1,17 @@
+{
+  "seq": 1090840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nonsense",
+      "absurdité",
+      "bêtise"
+    ],
+    [
+      "de mauvais goût",
+      "démodé",
+      "sans élégance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

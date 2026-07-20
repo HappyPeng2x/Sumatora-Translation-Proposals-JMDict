@@ -1,0 +1,13 @@
+{
+  "seq": 1094550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "copie imprimée"
+    ],
+    [
+      "capture d'écran"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

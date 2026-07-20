@@ -1,0 +1,20 @@
+{
+  "seq": 1093020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réseau"
+    ],
+    [
+      "Internet"
+    ],
+    [
+      "filet",
+      "maille"
+    ],
+    [
+      "net (prix, poids, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

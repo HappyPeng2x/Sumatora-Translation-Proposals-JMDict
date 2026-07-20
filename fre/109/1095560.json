@@ -1,0 +1,11 @@
+{
+  "seq": 1095560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "véhicule avec chauffeur loué",
+      "véhicule de location avec conducteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

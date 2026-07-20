@@ -1,0 +1,15 @@
+{
+  "seq": 1094730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "swing contrôlé",
+      "mouvement partiel de batte"
+    ],
+    [
+      "swing incomplet",
+      "mouvement de moitié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

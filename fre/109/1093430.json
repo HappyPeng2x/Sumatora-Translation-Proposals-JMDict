@@ -1,0 +1,16 @@
+{
+  "seq": 1093430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans contact",
+      "sans toucher"
+    ],
+    [
+      "ne participant pas",
+      "n'ayant rien à voir avec",
+      "n'étant pas impliqué dans"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

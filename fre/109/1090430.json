@@ -1,0 +1,17 @@
+{
+  "seq": 1090430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phalange",
+      "articulation",
+      "bout de doigt"
+    ],
+    [
+      "balle au doigt",
+      "balle de knuckle",
+      "lancer au doigt"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

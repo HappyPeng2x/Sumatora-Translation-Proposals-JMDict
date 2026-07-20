@@ -1,0 +1,11 @@
+{
+  "seq": 1095710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ménagère",
+      "personne chargée du ménage dans une maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

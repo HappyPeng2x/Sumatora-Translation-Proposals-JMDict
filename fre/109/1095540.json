@@ -1,0 +1,12 @@
+{
+  "seq": 1095540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vieille femme non mariée",
+      "femme célibataire âgée",
+      "spinster"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

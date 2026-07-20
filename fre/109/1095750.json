@@ -1,0 +1,11 @@
+{
+  "seq": 1095750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ménagier",
+      "mari qui s'occupe des tâches domestiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1095510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rythme rapide",
+      "cadence rapide",
+      "allure rapide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

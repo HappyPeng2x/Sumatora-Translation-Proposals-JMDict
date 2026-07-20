@@ -1,0 +1,12 @@
+{
+  "seq": 1092670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "neopolis",
+      "nouvelle ville",
+      "zone nouvellement développée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

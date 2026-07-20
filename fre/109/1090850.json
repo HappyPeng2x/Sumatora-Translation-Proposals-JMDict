@@ -1,0 +1,11 @@
+{
+  "seq": 1090850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comédie absurde",
+      "comédie de l'absurde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

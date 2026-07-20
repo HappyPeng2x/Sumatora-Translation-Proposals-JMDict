@@ -1,0 +1,12 @@
+{
+  "seq": 1095800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour audio",
+      "retour acoustique",
+      "hurlement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

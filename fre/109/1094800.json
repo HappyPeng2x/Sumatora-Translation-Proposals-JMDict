@@ -1,0 +1,12 @@
+{
+  "seq": 1094800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tisane",
+      "thé à la plante",
+      "infusion de plantes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

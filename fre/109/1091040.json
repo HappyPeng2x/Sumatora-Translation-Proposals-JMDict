@@ -1,0 +1,16 @@
+{
+  "seq": 1091040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le plus proche du trou",
+      "le plus près du trou"
+    ],
+    [
+      "très proche (de réussir)",
+      "à peine manqué",
+      "presque réussi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

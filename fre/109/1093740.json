@@ -1,0 +1,10 @@
+{
+  "seq": 1093740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réduction du bruit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

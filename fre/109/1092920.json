@@ -1,0 +1,22 @@
+{
+  "seq": 1092920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nid",
+      "ruche",
+      "gîte à oiseaux"
+    ],
+    [
+      "planque",
+      "refuge",
+      "retraite"
+    ],
+    [
+      "imbriquement",
+      "structure imbriquée",
+      "emboîtement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1091510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "analyste des médias",
+      "analyste de l'information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1093620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "non observé",
+      "non remarqué",
+      "pas sous surveillance"
+    ],
+    [
+      "non marqué (joueur)",
+      "non couvert (dans un jeu)",
+      "sans protection"
+    ],
+    [
+      "non marqué (objet, etc.)",
+      "sans marque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

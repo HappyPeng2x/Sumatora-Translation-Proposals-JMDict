@@ -1,0 +1,15 @@
+{
+  "seq": 1093530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne portant pas de soutien-gorge",
+      "sans soutien-gorge"
+    ],
+    [
+      "marchandise générique",
+      "produit non spécifique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

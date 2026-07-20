@@ -1,0 +1,14 @@
+{
+  "seq": 1094460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cœur",
+      "organe"
+    ],
+    [
+      "cœur (jeu de cartes)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

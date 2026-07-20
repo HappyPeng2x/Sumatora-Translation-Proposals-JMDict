@@ -1,0 +1,13 @@
+{
+  "seq": 1093420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(interjection) moment (utilisé par un arbitre à la fin d'une pause)"
+    ],
+    [
+      "(nom) coup immédiat (dans un jeu en temps limité comme le shogi ou le go)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

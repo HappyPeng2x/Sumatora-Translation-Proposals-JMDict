@@ -1,0 +1,19 @@
+{
+  "seq": 1092790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négatif",
+      "pessimiste"
+    ],
+    [
+      "négatif (photographie)",
+      "négatif (image)"
+    ],
+    [
+      "pôle négatif",
+      "polarité négative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

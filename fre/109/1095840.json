@@ -1,0 +1,12 @@
+{
+  "seq": 1095840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lumières de danger",
+      "lumières d'alerte",
+      "lumières d'urgence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

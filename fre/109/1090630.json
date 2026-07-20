@@ -1,0 +1,16 @@
+{
+  "seq": 1090630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "serviette de table",
+      "serviette de table (pour manger)"
+    ],
+    [
+      "protection hygiénique",
+      "protection hygiénique féminine",
+      "coussin hygiénique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

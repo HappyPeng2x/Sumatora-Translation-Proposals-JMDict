@@ -1,0 +1,21 @@
+{
+  "seq": 1095660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logement",
+      "hébergement"
+    ],
+    [
+      "enveloppe",
+      "protection",
+      "boîtier",
+      "enceinte"
+    ],
+    [
+      "colocation",
+      "cohabitation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

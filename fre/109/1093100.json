@@ -1,0 +1,11 @@
+{
+  "seq": 1093100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui établit des relations professionnelles",
+      "personne qui s'efforce de créer des liens sociaux ou commerciaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

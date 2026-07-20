@@ -1,0 +1,12 @@
+{
+  "seq": 1093470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nœud",
+      "point de jonction",
+      "élément d'un réseau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

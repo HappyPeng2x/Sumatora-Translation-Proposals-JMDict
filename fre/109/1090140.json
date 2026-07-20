@@ -1,0 +1,11 @@
+{
+  "seq": 1090140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "centre national des syndicats",
+      "centre de syndicats nationaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

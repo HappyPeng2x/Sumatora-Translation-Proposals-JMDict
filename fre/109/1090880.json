@@ -1,0 +1,13 @@
+{
+  "seq": 1090880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affichage numérique"
+    ],
+    [
+      "affichage de l'appelant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

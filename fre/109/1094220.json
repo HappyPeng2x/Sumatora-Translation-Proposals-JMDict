@@ -1,0 +1,11 @@
+{
+  "seq": 1094220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "non-commercialisation en dehors des magasins",
+      "vente en dehors des points de vente traditionnels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

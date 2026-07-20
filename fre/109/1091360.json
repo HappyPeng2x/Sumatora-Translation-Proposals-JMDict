@@ -1,0 +1,11 @@
+{
+  "seq": 1091360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne récemment devenue adulte",
+      "personne qui vient d'atteindre l'âge adulte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

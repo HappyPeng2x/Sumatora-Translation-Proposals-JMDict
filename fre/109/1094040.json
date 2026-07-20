@@ -1,0 +1,15 @@
+{
+  "seq": 1094040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boudin",
+      "bouton",
+      "poignée"
+    ],
+    [
+      "poignée de porte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1095870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "escroc",
+      "charlatan",
+      "escamoteur"
+    ],
+    [
+      "joueur de billard",
+      "billardier",
+      "joueur de pool"
+    ],
+    [
+      "entrepreneur",
+      "homme d'affaires",
+      "personne dynamique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

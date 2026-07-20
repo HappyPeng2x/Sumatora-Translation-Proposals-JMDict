@@ -1,0 +1,15 @@
+{
+  "seq": 1090910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "numérotation",
+      "acte de numéroter",
+      "système de numérotation"
+    ],
+    [
+      "machine à numéroter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

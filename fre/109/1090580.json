@@ -1,0 +1,17 @@
+{
+  "seq": 1090580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navigateur",
+      "personne qui navigue"
+    ],
+    [
+      "animateur",
+      "animatrice",
+      "hôte",
+      "hôtesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

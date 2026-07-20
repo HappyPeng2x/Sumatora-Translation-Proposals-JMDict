@@ -1,0 +1,15 @@
+{
+  "seq": 1094410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Hercule",
+      "Héraclès"
+    ],
+    [
+      "coléoptère Hercule",
+      "Dynastes hercules"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

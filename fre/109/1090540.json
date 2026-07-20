@@ -1,0 +1,12 @@
+{
+  "seq": 1090540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nanoseconde",
+      "billionième de seconde",
+      "ns"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

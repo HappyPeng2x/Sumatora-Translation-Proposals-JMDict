@@ -1,0 +1,19 @@
+{
+  "seq": 1090830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] la ville de Nankin en Chine"
+    ],
+    [
+      "[n] citrouille; potiron"
+    ],
+    [
+      "[n-pref] chinois; du Sud-Est asiatique; étranger"
+    ],
+    [
+      "[n-pref] rare; précieux; mignon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

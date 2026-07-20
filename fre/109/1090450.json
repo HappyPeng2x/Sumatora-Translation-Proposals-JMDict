@@ -1,0 +1,11 @@
+{
+  "seq": 1090450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quatuor à rameurs avec un coxswain",
+      "embarcation de course pour quatre rameurs et un coxswain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

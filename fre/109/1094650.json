@@ -1,0 +1,16 @@
+{
+  "seq": 1094650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obstacle"
+    ],
+    [
+      "course d'obstacles"
+    ],
+    [
+      "obstacle; difficulté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

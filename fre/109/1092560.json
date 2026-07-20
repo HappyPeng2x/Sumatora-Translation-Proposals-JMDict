@@ -1,0 +1,16 @@
+{
+  "seq": 1092560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autochtone",
+      "indigène",
+      "natif"
+    ],
+    [
+      "locuteur natif",
+      "parlant langue maternelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

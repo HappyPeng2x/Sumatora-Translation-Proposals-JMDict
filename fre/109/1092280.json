@@ -1,0 +1,24 @@
+{
+  "seq": 1092280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moderne",
+      "actuel",
+      "à la mode"
+    ],
+    [
+      "art nouveau"
+    ],
+    [
+      "Beaujolais nouveau"
+    ],
+    [
+      "vague",
+      "flou",
+      "évasif",
+      "mystérieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

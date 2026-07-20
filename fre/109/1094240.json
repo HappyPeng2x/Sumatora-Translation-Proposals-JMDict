@@ -1,0 +1,15 @@
+{
+  "seq": 1094240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "non glissant",
+      "qui ne glisse pas"
+    ],
+    [
+      "nez de marche",
+      "partie surmontant le bord d'une marche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

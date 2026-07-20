@@ -1,0 +1,16 @@
+{
+  "seq": 1090340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "naturel",
+      "naturelle",
+      "naturellement"
+    ],
+    [
+      "signe naturel",
+      "note naturelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

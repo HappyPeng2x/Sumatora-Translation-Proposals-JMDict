@@ -1,0 +1,12 @@
+{
+  "seq": 1095190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salut par la main",
+      "salutation par la main",
+      "geste de salutation par les mains"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

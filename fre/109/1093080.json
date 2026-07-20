@@ -1,0 +1,13 @@
+{
+  "seq": 1093080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "netball"
+    ],
+    [
+      "service qui touche le filet avant d'atteindre le côté adverse du terrain (au tennis et au volley-ball)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

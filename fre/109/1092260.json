@@ -1,0 +1,15 @@
+{
+  "seq": 1092260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roman court",
+      "nouvelle courte"
+    ],
+    [
+      "nouveau",
+      "neuf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

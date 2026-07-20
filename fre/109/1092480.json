@@ -1,0 +1,11 @@
+{
+  "seq": 1092480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plaquette d'identification",
+      "plaquette portant un nom"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

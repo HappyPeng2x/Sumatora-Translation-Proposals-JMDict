@@ -1,0 +1,16 @@
+{
+  "seq": 1091050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manque de peu",
+      "faux pas",
+      "échec imminent"
+    ],
+    [
+      "se frôler",
+      "manquer de peu de se rencontrer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1091620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logiciel de lecture de nouvelles",
+      "programme de lecture de groupes de discussion Usenet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

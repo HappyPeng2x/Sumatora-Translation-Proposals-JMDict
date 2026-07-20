@@ -1,0 +1,11 @@
+{
+  "seq": 1093510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu de baseball sans but ni course",
+      "match de baseball où aucun joueur adverse ne réussit à faire un but ni à avancer sur les bases"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
