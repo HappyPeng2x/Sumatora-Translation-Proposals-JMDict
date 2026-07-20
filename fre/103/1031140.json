@@ -1,0 +1,10 @@
+{
+  "seq": 1031140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "-endien (c'est-à-dire big-endien ou little-endien)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

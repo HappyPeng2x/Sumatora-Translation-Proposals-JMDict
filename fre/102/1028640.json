@@ -1,0 +1,24 @@
+{
+  "seq": 1028640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échappement",
+      "fuite",
+      "sortie"
+    ],
+    [
+      "absenter",
+      "manquer",
+      "dérober"
+    ],
+    [
+      "échappement"
+    ],
+    [
+      "échappement",
+      "organe d'échappement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

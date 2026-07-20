@@ -1,0 +1,11 @@
+{
+  "seq": 1028730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salon de beauté",
+      "clinique de soins esthétiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1032500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surdub",
+      "surdub d'une voix"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

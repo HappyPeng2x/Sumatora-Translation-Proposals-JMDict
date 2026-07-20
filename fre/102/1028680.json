@@ -1,0 +1,15 @@
+{
+  "seq": 1028680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "établissement",
+      "institution"
+    ],
+    [
+      "l'Établissement",
+      "la puissance dominante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

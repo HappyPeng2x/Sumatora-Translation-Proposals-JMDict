@@ -1,0 +1,11 @@
+{
+  "seq": 1027240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mal de l'air",
+      "nausée dû à l'altitude ou à la pression atmosphérique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

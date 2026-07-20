@@ -1,0 +1,11 @@
+{
+  "seq": 1032090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autolecteur",
+      "lecteur automatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

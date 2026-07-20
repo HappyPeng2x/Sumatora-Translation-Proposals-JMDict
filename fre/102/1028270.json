@@ -1,0 +1,19 @@
+{
+  "seq": 1028270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écho"
+    ],
+    [
+      "résonner",
+      "répéter",
+      "faire résonner"
+    ],
+    [
+      "échographie",
+      "ultrasons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

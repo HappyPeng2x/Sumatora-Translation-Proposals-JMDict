@@ -1,0 +1,14 @@
+{
+  "seq": 1028480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échalote"
+    ],
+    [
+      "oignon chinois",
+      "ciboule chinoise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

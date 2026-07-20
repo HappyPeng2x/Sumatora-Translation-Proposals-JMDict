@@ -1,0 +1,13 @@
+{
+  "seq": 1031190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entropie"
+    ],
+    [
+      "entropie (théorie de l'information)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

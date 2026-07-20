@@ -1,0 +1,11 @@
+{
+  "seq": 1027600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aérobic",
+      "danse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

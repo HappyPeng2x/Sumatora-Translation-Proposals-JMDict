@@ -1,0 +1,11 @@
+{
+  "seq": 1030070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méthode de détection virale par immunoessai enzymatique",
+      "ELISA"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

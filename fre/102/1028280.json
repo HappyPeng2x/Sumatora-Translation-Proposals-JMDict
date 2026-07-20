@@ -1,0 +1,11 @@
+{
+  "seq": 1028280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écho retour",
+      "retour d'écho"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

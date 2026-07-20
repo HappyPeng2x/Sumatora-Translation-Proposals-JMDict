@@ -1,0 +1,11 @@
+{
+  "seq": 1030490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison électronique",
+      "cabane électronique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

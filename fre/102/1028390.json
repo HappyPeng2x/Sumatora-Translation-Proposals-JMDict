@@ -1,0 +1,14 @@
+{
+  "seq": 1028390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écologie"
+    ],
+    [
+      "mouvement écologiste",
+      "écologisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

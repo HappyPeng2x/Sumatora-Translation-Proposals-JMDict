@@ -1,0 +1,12 @@
+{
+  "seq": 1033030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voiture ouverte",
+      "voiture cabriolet",
+      "voiture avec toit amovible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

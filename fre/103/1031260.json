@@ -1,0 +1,12 @@
+{
+  "seq": 1031260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ininterrompu",
+      "sans fin",
+      "éternel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

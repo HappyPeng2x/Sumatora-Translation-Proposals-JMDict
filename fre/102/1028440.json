@@ -1,0 +1,11 @@
+{
+  "seq": 1028440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "egoïste",
+      "personne qui agit en fonction de ses propres intérêts, sans considération pour les autres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

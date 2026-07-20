@@ -1,0 +1,12 @@
+{
+  "seq": 1028910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esprit nouveau",
+      "nouvelle idée",
+      "nouvelle manière de penser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

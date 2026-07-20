@@ -1,0 +1,11 @@
+{
+  "seq": 1027380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnes de l'air",
+      "réfugiés fuyant par air (surtout du Vietnam)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,37 @@
+{
+  "seq": 1029150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lettre H",
+      "lettre h"
+    ],
+    [
+      "indécent",
+      "lascivieux",
+      "sexy",
+      "obscène"
+    ],
+    [
+      "avoir des relations sexuelles",
+      "faire l'amour"
+    ],
+    [
+      "pervers",
+      "perverti"
+    ],
+    [
+      "année n du règne de l'ère Heisei"
+    ],
+    [
+      "heure"
+    ],
+    [
+      "hydrogène"
+    ],
+    [
+      "trou (dans le golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

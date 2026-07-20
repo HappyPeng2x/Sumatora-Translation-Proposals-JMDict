@@ -1,0 +1,11 @@
+{
+  "seq": 1028950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étude des comportements animaux",
+      "étude des comportements des animaux sauvages"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

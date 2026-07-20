@@ -1,0 +1,12 @@
+{
+  "seq": 1032850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surcharge",
+      "excédent",
+      "surmenage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

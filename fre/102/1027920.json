@@ -1,0 +1,11 @@
+{
+  "seq": 1027920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exercice",
+      "activité physique visant à renforcer le corps ou à améliorer la santé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

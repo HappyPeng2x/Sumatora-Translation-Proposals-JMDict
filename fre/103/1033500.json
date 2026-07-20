@@ -1,0 +1,12 @@
+{
+  "seq": 1033500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tous-ou-rien",
+      "sans compromis",
+      "qui risque tout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

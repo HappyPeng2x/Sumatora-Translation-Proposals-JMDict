@@ -1,0 +1,12 @@
+{
+  "seq": 1029210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "révision",
+      "correction",
+      "montage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

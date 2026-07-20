@@ -1,0 +1,13 @@
+{
+  "seq": 1031850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "audiovisuel"
+    ],
+    [
+      "équipement audiovisuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

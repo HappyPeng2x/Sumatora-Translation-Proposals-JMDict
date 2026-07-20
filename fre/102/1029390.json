@@ -1,0 +1,17 @@
+{
+  "seq": 1029390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvais",
+      "non acceptable",
+      "interdit"
+    ],
+    [
+      "prise de vue non utilisée",
+      "erreur de tournage",
+      "reprise de prise de vue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1029410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enable",
+      "activer",
+      "rendre possible",
+      "donner la capacité de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

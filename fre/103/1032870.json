@@ -1,0 +1,12 @@
+{
+  "seq": 1032870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surmenage",
+      "travail excessif",
+      "excès de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

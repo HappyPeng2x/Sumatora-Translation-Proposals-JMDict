@@ -1,0 +1,15 @@
+{
+  "seq": 1030380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "générateur électrique manuel",
+      "générateur électrique à main"
+    ],
+    [
+      "électricité",
+      "électricité (sens originel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1028320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "économie",
+      "économie",
+      "finances"
+    ],
+    [
+      "économie",
+      "économie d'énergie",
+      "économie de moyens"
+    ],
+    [
+      "classe économique",
+      "classe économique (avion)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

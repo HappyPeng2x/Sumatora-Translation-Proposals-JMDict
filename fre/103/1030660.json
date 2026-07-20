@@ -1,0 +1,17 @@
+{
+  "seq": 1030660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "érotique",
+      "pornographique",
+      "obscène"
+    ],
+    [
+      "pervers",
+      "honteux",
+      "sale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

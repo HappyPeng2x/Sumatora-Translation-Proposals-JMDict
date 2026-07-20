@@ -1,0 +1,16 @@
+{
+  "seq": 1028900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esprit",
+      "âme"
+    ],
+    [
+      "esprit",
+      "verve",
+      "sagacité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

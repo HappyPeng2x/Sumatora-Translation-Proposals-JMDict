@@ -1,0 +1,12 @@
+{
+  "seq": 1028200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écriture",
+      "littérature",
+      "œuvre écrite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

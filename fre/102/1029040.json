@@ -1,0 +1,10 @@
+{
+  "seq": 1029040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boisson alcoolisée à base de lait, d'œufs, de sucre et de rhum"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1033460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tous-en-un",
+      "tous-ensemble",
+      "tous-à-la-fois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

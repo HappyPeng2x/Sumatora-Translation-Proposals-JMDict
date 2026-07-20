@@ -1,0 +1,18 @@
+{
+  "seq": 1027760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "acteur de second plan",
+      "personne supplémentaire"
+    ],
+    [
+      "supplémentaire",
+      "excédentaire",
+      "supérieur",
+      "particulier",
+      "exceptionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

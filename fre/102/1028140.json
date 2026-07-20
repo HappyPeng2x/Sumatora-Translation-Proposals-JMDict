@@ -1,0 +1,15 @@
+{
+  "seq": 1028140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "export",
+      "marchandise exportée"
+    ],
+    [
+      "exportation",
+      "exporter (des données)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

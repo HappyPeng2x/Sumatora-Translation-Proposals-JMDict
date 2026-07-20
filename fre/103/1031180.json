@@ -1,0 +1,17 @@
+{
+  "seq": 1031180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une inscription",
+      "un candidat",
+      "une demande d'inscription"
+    ],
+    [
+      "une entrée",
+      "un message",
+      "un article"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

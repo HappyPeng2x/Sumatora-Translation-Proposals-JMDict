@@ -1,0 +1,16 @@
+{
+  "seq": 1032100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "automatique"
+    ],
+    [
+      "arme automatique"
+    ],
+    [
+      "boîte de vitesses automatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

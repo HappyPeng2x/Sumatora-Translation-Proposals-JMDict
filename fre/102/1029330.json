@@ -1,0 +1,13 @@
+{
+  "seq": 1029330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un peu",
+      "quelque peu",
+      "assez",
+      "plutôt"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

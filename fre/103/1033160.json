@@ -1,0 +1,11 @@
+{
+  "seq": 1033160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phrase interjectionnelle",
+      "ouvre sesame"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

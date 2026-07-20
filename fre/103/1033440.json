@@ -1,0 +1,10 @@
+{
+  "seq": 1033440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méthode orale (d'enseignement d'une langue étrangère)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

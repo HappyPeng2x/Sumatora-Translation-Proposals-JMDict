@@ -1,0 +1,22 @@
+{
+  "seq": 1027990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échange",
+      "mutual exchange",
+      "échange réciproque"
+    ],
+    [
+      "bureau de change",
+      "monnaie étrangère",
+      "agence de change"
+    ],
+    [
+      "taux de change",
+      "cours de la monnaie",
+      "rapport de change"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

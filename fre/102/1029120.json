@@ -1,0 +1,12 @@
+{
+  "seq": 1029120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "repas",
+      "manger",
+      "collation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

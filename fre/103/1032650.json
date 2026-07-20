@@ -1,0 +1,15 @@
+{
+  "seq": 1032650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surexcitation",
+      "surexcès"
+    ],
+    [
+      "surechauffe",
+      "surechauffement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

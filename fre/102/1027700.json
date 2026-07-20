@@ -1,0 +1,12 @@
+{
+  "seq": 1027700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excitation",
+      "émoi",
+      "enthousiasme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

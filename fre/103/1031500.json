@@ -1,0 +1,19 @@
+{
+  "seq": 1031500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme de bureau",
+      "belle-sœur (en contexte familial)"
+    ],
+    [
+      "superposition",
+      "chevauchement"
+    ],
+    [
+      "orientation (sport)",
+      "orienteering"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

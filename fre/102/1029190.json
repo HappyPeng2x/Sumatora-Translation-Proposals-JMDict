@@ -1,0 +1,13 @@
+{
+  "seq": 1029190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éditeur de texte"
+    ],
+    [
+      "éditeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

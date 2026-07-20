@@ -1,0 +1,16 @@
+{
+  "seq": 1029000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étude (musicale)"
+    ],
+    [
+      "étude (dans le domaine de la peinture, de la sculpture, etc.) ; œuvre d'essai"
+    ],
+    [
+      "théâtre d'improvisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

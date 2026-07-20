@@ -1,0 +1,20 @@
+{
+  "seq": 1032960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "début",
+      "commencement",
+      "lancement"
+    ],
+    [
+      "bande-annonce",
+      "séquence de présentation"
+    ],
+    [
+      "chanson thème",
+      "morceau musical diffusé lors de la bande-annonce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

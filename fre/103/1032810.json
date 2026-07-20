@@ -1,0 +1,16 @@
+{
+  "seq": 1032810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'excès de course sur la base",
+      "dépassement de la base"
+    ],
+    [
+      "dépassement (d'une piste d'atterrissage)",
+      "dépasser (une piste d'atterrissage)",
+      "débordement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

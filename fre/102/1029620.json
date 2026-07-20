@@ -1,0 +1,15 @@
+{
+  "seq": 1029620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épisode",
+      "anecdote",
+      "vignette"
+    ],
+    [
+      "épisode (musique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

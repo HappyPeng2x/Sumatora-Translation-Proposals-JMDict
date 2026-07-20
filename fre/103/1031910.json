@@ -1,0 +1,17 @@
+{
+  "seq": 1031910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "automatique"
+    ],
+    [
+      "automobile",
+      "voiture"
+    ],
+    [
+      "camion à trois roues"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

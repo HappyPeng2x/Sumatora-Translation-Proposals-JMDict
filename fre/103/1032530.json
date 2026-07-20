@@ -1,0 +1,16 @@
+{
+  "seq": 1032530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne sans emploi détenteur d'un doctorat",
+      "personne ayant un doctorat mais sans emploi"
+    ],
+    [
+      "boursier postdoctoral",
+      "postdoctorant",
+      "postdoc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

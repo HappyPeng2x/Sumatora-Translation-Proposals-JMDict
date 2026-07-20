@@ -1,0 +1,13 @@
+{
+  "seq": 1030840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "engagement",
+      "mariage",
+      "promesse",
+      "engagement (militaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

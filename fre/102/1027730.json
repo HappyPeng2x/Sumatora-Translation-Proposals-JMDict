@@ -1,0 +1,17 @@
+{
+  "seq": 1027730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exposition",
+      "exposition",
+      "exposition"
+    ],
+    [
+      "match de démonstration",
+      "match d'exhibition",
+      "jeu de démonstration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

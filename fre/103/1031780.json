@@ -1,0 +1,21 @@
+{
+  "seq": 1031780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commande",
+      "ordre (pour des marchandises ou services)"
+    ],
+    [
+      "ordre",
+      "séquence"
+    ],
+    [
+      "ordre de grandeur"
+    ],
+    [
+      "ordre (architectural)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

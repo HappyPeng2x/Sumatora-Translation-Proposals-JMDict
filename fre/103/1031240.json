@@ -1,0 +1,11 @@
+{
+  "seq": 1031240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne de fin",
+      "ligne d'arrivée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

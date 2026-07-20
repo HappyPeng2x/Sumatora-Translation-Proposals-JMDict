@@ -1,0 +1,11 @@
+{
+  "seq": 1030530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argent électronique",
+      "monnaie électronique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

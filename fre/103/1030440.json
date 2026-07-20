@@ -1,0 +1,11 @@
+{
+  "seq": 1030440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bureau électronique",
+      "bureau informatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

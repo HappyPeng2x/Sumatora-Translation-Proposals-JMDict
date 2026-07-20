@@ -1,0 +1,11 @@
+{
+  "seq": 1032770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "emprunt excessif",
+      "endettement excessif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

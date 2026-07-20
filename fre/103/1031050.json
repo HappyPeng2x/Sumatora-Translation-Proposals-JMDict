@@ -1,0 +1,14 @@
+{
+  "seq": 1031050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "artiste",
+      "personne qui divertit un public",
+      "animateur",
+      "chanteur",
+      "acteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

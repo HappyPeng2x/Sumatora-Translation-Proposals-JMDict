@@ -1,0 +1,17 @@
+{
+  "seq": 1032910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancien élève",
+      "ancien membre",
+      "ancien employé",
+      "ancien joueur"
+    ],
+    [
+      "hors limite",
+      "en dehors des limites du terrain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

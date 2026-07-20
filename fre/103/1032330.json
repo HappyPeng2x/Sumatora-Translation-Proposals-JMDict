@@ -1,0 +1,13 @@
+{
+  "seq": 1032330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gestion d'une entreprise par les employés"
+    ],
+    [
+      "co-gestion d'un immeuble ou d'un autre type de logement par les propriétaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

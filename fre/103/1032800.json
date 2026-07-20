@@ -1,0 +1,12 @@
+{
+  "seq": 1032800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chevauchement",
+      "superposition",
+      "recouvrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

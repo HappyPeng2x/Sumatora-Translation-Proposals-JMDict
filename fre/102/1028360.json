@@ -1,0 +1,13 @@
+{
+  "seq": 1028360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être économique",
+      "animal économique",
+      "personne uniquement motivée par le profit",
+      "individu ou groupe axé uniquement sur la recherche du profit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1028420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ego"
+    ],
+    [
+      "égoïsme"
+    ],
+    [
+      "égoïste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

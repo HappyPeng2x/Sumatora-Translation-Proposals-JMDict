@@ -1,0 +1,10 @@
+{
+  "seq": 1032020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soignante automatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

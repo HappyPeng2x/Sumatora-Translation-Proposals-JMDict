@@ -1,0 +1,16 @@
+{
+  "seq": 1032540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suralimentation",
+      "mode suralimenté",
+      "excès de puissance"
+    ],
+    [
+      "dominer (un autre joueur) au golf",
+      "frapper plus loin qu'un autre joueur au golf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

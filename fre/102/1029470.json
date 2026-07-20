@@ -1,0 +1,17 @@
+{
+  "seq": 1029470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sapin de Noël",
+      "plante persistante",
+      "arbre feuillu persistant"
+    ],
+    [
+      "œuvre immortelle",
+      "œuvre intemporelle",
+      "chef-d'œuvre éternel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

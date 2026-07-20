@@ -1,0 +1,11 @@
+{
+  "seq": 1032750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courir trop vite",
+      "rythme de course trop rapide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

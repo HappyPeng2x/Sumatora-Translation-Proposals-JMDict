@@ -1,0 +1,15 @@
+{
+  "seq": 1028720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soin de la beauté",
+      "cosmétologie"
+    ],
+    [
+      "salon de beauté"
+    ],
+    []
+  ],
+  "model": "qwen3:14b"
+}

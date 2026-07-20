@@ -1,0 +1,11 @@
+{
+  "seq": 1029630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épitaxie",
+      "croissance épitaxiale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

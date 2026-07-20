@@ -1,0 +1,11 @@
+{
+  "seq": 1029720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "modulation de fréquence",
+      "radio en modulation de fréquence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

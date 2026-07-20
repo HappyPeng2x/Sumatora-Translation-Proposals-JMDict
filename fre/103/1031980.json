@@ -1,0 +1,11 @@
+{
+  "seq": 1031980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mécanisme d'arrêt automatique",
+      "système d'arrêt automatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1028800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "racialisme",
+      "ethnisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

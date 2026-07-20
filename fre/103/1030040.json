@@ -1,0 +1,14 @@
+{
+  "seq": 1030040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "erreur"
+    ],
+    [
+      "faux pas",
+      "erreur de jeu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

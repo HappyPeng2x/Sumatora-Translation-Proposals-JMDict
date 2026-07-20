@@ -1,0 +1,12 @@
+{
+  "seq": 1032160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "céréales d'avoine",
+      "avoine en poudre",
+      "céréales de blé d'avoine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

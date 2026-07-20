@@ -1,0 +1,27 @@
+{
+  "seq": 1032490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps supplémentaire",
+      "travail en dehors des heures normales"
+    ],
+    [
+      "contact",
+      "quatre contacts (foul en volley-ball)"
+    ],
+    [
+      "violation des trois secondes",
+      "infraction en handball"
+    ],
+    [
+      "violation du temps",
+      "infraction liée au temps en basket-ball"
+    ],
+    [
+      "temps supplémentaire",
+      "période supplémentaire en football américain ou en basket-ball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1032300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amuse-bouche"
+    ],
+    [
+      "plat de réception",
+      "plateau de nourritures variées",
+      "plat de service"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

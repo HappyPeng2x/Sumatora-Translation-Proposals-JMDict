@@ -1,0 +1,11 @@
+{
+  "seq": 1027230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mal aérien",
+      "nausée dû à l'altitude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

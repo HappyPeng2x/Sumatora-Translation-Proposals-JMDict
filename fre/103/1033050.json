@@ -1,0 +1,15 @@
+{
+  "seq": 1033050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tournoi ouvert",
+      "épreuve ouverte"
+    ],
+    [
+      "match d'exhibition",
+      "match de pré-saison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

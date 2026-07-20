@@ -1,0 +1,23 @@
+{
+  "seq": 1030730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désir sexuel",
+      "amour physique"
+    ],
+    [
+      "dieu de l'amour",
+      "dieu de l'attraction"
+    ],
+    [
+      "l'amour platonique",
+      "le désir amoureux selon Platon"
+    ],
+    [
+      "astéroïde Eros",
+      "corps céleste nommé Eros"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

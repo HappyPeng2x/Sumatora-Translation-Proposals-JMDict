@@ -1,0 +1,11 @@
+{
+  "seq": 1033580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match des étoiles",
+      "jeu des étoiles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

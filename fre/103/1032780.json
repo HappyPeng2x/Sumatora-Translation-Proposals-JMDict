@@ -1,0 +1,11 @@
+{
+  "seq": 1032780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surécriture",
+      "écriture sur un support déjà utilisé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

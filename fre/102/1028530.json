@@ -1,0 +1,15 @@
+{
+  "seq": 1028530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sadomasochisme",
+      "sado-masochisme"
+    ],
+    [
+      "centre commercial",
+      "galerie commerciale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

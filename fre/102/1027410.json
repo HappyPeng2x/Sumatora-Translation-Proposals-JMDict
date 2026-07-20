@@ -1,0 +1,11 @@
+{
+  "seq": 1027410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moteur à air",
+      "moteur respirant l'air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

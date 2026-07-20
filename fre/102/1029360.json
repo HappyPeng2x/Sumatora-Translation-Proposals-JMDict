@@ -1,0 +1,16 @@
+{
+  "seq": 1029360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "émail"
+    ],
+    [
+      "peinture à l'émail"
+    ],
+    [
+      "cuir émaillé ; cuir verni"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

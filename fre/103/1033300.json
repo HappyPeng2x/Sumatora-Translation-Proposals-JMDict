@@ -1,0 +1,11 @@
+{
+  "seq": 1033300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bande magnétique sur bobine",
+      "bande magnétique de type bobine à bobine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

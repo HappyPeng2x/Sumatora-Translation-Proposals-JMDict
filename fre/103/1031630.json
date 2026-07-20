@@ -1,0 +1,11 @@
+{
+  "seq": 1031630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "explorateur des océans",
+      "navigateur sous-marin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

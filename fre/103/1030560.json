@@ -1,0 +1,11 @@
+{
+  "seq": 1030560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "banque électronique",
+      "banque par correspondance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
