@@ -1,0 +1,14 @@
+{
+  "seq": 1054020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "virgule"
+    ],
+    [
+      "point décimal",
+      "virgule décimale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

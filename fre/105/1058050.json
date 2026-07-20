@@ -1,0 +1,10 @@
+{
+  "seq": 1058050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladie chronique du système immunitaire caractérisée par la formation de granulomes dans plusieurs organes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

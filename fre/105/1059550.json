@@ -1,0 +1,12 @@
+{
+  "seq": 1059550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu de débarquement sur un navire",
+      "embarcadère maritime",
+      "quai de débarquement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

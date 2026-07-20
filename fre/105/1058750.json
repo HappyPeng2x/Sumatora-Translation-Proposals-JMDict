@@ -1,0 +1,10 @@
+{
+  "seq": 1058750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fréquence d'échantillonnage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

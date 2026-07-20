@@ -1,0 +1,11 @@
+{
+  "seq": 1055100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lancer en surface",
+      "technique de pêche consistant à lancer l'appât à la surface de l'eau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

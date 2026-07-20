@@ -1,0 +1,13 @@
+{
+  "seq": 1055790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boisson gazeuse",
+      "boisson gazeuse sucrée",
+      "limonade gazeuse",
+      "boisson gazeuse aromatisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

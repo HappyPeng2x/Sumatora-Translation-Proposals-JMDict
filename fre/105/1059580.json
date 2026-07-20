@@ -1,0 +1,14 @@
+{
+  "seq": 1059580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enquête sur les prix à la consommation",
+      "CPS"
+    ],
+    [
+      "caractères par seconde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

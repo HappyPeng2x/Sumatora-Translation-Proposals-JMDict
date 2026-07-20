@@ -1,0 +1,19 @@
+{
+  "seq": 1054170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fantôme"
+    ],
+    [
+      "l'effet de fantôme (télévision)"
+    ],
+    [
+      "l'effet de fantôme (photographie) ; flare fantôme"
+    ],
+    [
+      "image fantôme (impression) ; effet de fantôme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

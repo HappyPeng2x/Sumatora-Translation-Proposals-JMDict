@@ -1,0 +1,20 @@
+{
+  "seq": 1058740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prélèvement",
+      "prise d'échantillon",
+      "extraction d'un échantillon"
+    ],
+    [
+      "prélèvement (musique)",
+      "utilisation d'un extrait sonore dans une composition musicale"
+    ],
+    [
+      "distribution d'échantillons gratuits",
+      "dispensation d'échantillons gratuits"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

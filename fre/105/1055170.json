@@ -1,0 +1,15 @@
+{
+  "seq": 1055170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service (au tennis)",
+      "servir (au tennis)"
+    ],
+    [
+      "service (de nourriture)",
+      "servir (un repas)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

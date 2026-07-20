@@ -1,0 +1,17 @@
+{
+  "seq": 1058290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sanctuaire",
+      "lieu saint",
+      "refuge"
+    ],
+    [
+      "Sanctuaire (faction de la Ligue constitutionnelle démocratique du Japon)",
+      "faction Akamatsu",
+      "groupe Akamatsu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

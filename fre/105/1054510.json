@@ -1,0 +1,12 @@
+{
+  "seq": 1054510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parrain",
+      "tuteur",
+      "protecteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

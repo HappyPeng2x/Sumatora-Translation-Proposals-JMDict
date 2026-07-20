@@ -1,0 +1,12 @@
+{
+  "seq": 1056160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "silencieux",
+      "muet",
+      "désactivé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

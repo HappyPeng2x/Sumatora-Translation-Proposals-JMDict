@@ -1,0 +1,15 @@
+{
+  "seq": 1056670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Saturn (dieu)",
+      "Saturn (dieu romain)"
+    ],
+    [
+      "Saturne (planète)",
+      "Saturne (planète du système solaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

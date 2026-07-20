@@ -1,0 +1,11 @@
+{
+  "seq": 1059440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disque compact à lecture seule",
+      "disque optique à lecture seule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

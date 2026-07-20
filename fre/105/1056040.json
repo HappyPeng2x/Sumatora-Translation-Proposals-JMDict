@@ -1,0 +1,12 @@
+{
+  "seq": 1056040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'excès d'adoration envers son épouse",
+      "l'attitude d'un mari trop indulgent envers sa femme",
+      "un mari qui ne critique jamais sa femme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1059950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logiciel libre distribué gratuitement, mais souvent accompagné de restrictions d'utilisation",
+      "logiciel partagé, distribué gratuitement avec des conditions d'utilisation spécifiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

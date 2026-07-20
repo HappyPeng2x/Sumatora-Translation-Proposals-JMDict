@@ -1,0 +1,21 @@
+{
+  "seq": 1054740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gondole (bateau, notamment à Venise)",
+      "gondole (bateau à Venise)"
+    ],
+    [
+      "gondole (ballon à air chaud, dirigeable, etc.)",
+      "panier",
+      "cabine (téléphérique, remontée mécanique, etc.)",
+      "cabine (ascenseur)"
+    ],
+    [
+      "échafaudage (construction)",
+      "étagère (magasin)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

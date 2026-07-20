@@ -1,0 +1,14 @@
+{
+  "seq": 1060770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "citron",
+      "citronnier"
+    ],
+    [
+      "limonade au citron"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

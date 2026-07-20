@@ -1,0 +1,12 @@
+{
+  "seq": 1059360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu sur bascule",
+      "match à la bascule",
+      "jeu où le leadership change plusieurs fois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

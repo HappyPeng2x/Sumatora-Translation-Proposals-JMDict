@@ -1,0 +1,12 @@
+{
+  "seq": 1055830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "visite touristique",
+      "observation des lieux",
+      "promenade pour admirer les paysages"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

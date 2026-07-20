@@ -1,0 +1,15 @@
+{
+  "seq": 1059820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "geste de serrage de main",
+      "serrage de main"
+    ],
+    [
+      "prise en table-tennis",
+      "prise de shakehand"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

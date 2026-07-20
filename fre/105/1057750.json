@@ -1,0 +1,12 @@
+{
+  "seq": 1057750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résumé",
+      "synthèse",
+      "abrégé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

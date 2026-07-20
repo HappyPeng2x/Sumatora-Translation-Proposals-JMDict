@@ -1,0 +1,10 @@
+{
+  "seq": 1059570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indice des prix à la consommation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

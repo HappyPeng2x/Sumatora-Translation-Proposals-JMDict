@@ -1,0 +1,11 @@
+{
+  "seq": 1060760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guide touristique",
+      "guide de ville"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

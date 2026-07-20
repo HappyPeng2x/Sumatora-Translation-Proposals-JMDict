@@ -1,0 +1,11 @@
+{
+  "seq": 1056570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "programme de soutien",
+      "programme de soutien radiodiffusé ou télévisé sans publicité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

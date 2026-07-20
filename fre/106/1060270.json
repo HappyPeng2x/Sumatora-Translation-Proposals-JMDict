@@ -1,0 +1,19 @@
+{
+  "seq": 1060270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sœur",
+      "soeur (parente)"
+    ],
+    [
+      "religieuse",
+      "sœur (dans l'Église catholique)"
+    ],
+    [
+      "compagne",
+      "partenaire (dans une relation homosexuelle)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

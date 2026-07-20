@@ -1,0 +1,16 @@
+{
+  "seq": 1059670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boucle",
+      "scellé",
+      "sceau"
+    ],
+    [
+      "étiquette",
+      "autocollant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

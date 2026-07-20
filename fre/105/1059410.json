@@ -1,0 +1,22 @@
+{
+  "seq": 1059410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système de composition typographique assistée par ordinateur",
+      "système CTS"
+    ],
+    [
+      "système de typographie froide",
+      "système CTS"
+    ],
+    [
+      "système terminal central (système de transport du pétrole brut utilisant un terminal de stockage central pour la distribution ultérieure aux raffineries)"
+    ],
+    [
+      "syndrome du tunnel carpien",
+      "CTS"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

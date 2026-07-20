@@ -1,0 +1,16 @@
+{
+  "seq": 1057190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "substitut",
+      "remplaçant",
+      "réserviste",
+      "secours"
+    ],
+    [
+      "préfixe signifiant 'sous' ou 'sous-"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1059160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séquenceur"
+    ],
+    [
+      "contrôleur logique programmable; automate programmable industriel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

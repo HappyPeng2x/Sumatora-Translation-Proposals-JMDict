@@ -1,0 +1,16 @@
+{
+  "seq": 1054660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "club de golf (instrument utilisé pour frapper la balle)",
+      "club de golf (outil de jeu)"
+    ],
+    [
+      "club de golf (organisation)",
+      "association de golf",
+      "organisation de golf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1055840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "côté",
+      "flanc",
+      "rue (dans un immeuble)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1059800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "secousses",
+      "action de secouer",
+      "mouvement de secousses"
+    ],
+    [
+      "boisson au lait",
+      "milkshake"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

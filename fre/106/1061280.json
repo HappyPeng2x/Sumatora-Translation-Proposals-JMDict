@@ -1,0 +1,24 @@
+{
+  "seq": 1061280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aigu",
+      "tranchant",
+      "net",
+      "décisif"
+    ],
+    [
+      "dièse"
+    ],
+    [
+      "signe dièse",
+      "signe du hash",
+      "signe du pound"
+    ],
+    [
+      "crayon à mine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

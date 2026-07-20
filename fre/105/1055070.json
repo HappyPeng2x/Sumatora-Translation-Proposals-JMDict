@@ -1,0 +1,12 @@
+{
+  "seq": 1055070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle de stockage sans fenêtres",
+      "pièce non habitable",
+      "chambre non conforme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

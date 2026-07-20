@@ -1,0 +1,11 @@
+{
+  "seq": 1058590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme qui vend des sandwiches",
+      "vendeur ambulant de sandwiches"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

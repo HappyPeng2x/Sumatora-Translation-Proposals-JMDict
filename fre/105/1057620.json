@@ -1,0 +1,17 @@
+{
+  "seq": 1057620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soutien",
+      "prothèse",
+      "ceinture de soutien"
+    ],
+    [
+      "supporter",
+      "partisan",
+      "adepte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

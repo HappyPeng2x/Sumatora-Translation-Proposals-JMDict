@@ -1,0 +1,14 @@
+{
+  "seq": 1059260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fourreau"
+    ],
+    [
+      "capuchon de fil",
+      "couvercle terminal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

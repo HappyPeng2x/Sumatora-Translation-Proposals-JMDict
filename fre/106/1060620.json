@@ -1,0 +1,15 @@
+{
+  "seq": 1060620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "six nines",
+      "neuf neuf neuf neuf neuf neuf (soit 99,9999%)"
+    ],
+    [
+      "soixante-neuf",
+      "position sexuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

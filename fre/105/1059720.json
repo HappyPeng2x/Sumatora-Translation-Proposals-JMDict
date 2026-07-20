@@ -1,0 +1,17 @@
+{
+  "seq": 1059720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vue",
+      "spectacle",
+      "scène"
+    ],
+    [
+      "scénario",
+      "contexte",
+      "cadre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

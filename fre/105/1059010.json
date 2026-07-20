@@ -1,0 +1,12 @@
+{
+  "seq": 1059010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cela fait",
+      "c'est ça",
+      "justement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

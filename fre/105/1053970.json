@@ -1,0 +1,11 @@
+{
+  "seq": 1053970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stéréo composée",
+      "stéréo en composants séparés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

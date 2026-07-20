@@ -1,0 +1,13 @@
+{
+  "seq": 1059840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abri solaire",
+      "store",
+      "voile d'ombrage",
+      "abat-jour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

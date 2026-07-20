@@ -1,0 +1,12 @@
+{
+  "seq": 1055930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frein à main",
+      "frein de stationnement",
+      "frein d'urgence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

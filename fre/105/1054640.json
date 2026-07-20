@@ -1,0 +1,11 @@
+{
+  "seq": 1054640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "veuve de golf",
+      "femme dont le mari passe beaucoup de temps à jouer au golf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1058190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cocktail acide (souvent gazeux)",
+      "boisson alcoolisée acide (souvent gazeuse)"
+    ],
+    [
+      "goût acide",
+      "saveur acide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

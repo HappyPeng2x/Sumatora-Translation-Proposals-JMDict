@@ -1,0 +1,16 @@
+{
+  "seq": 1054240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "atteindre la ligne d'arrivée",
+      "atteindre le but",
+      "franchir la ligne d'arrivée"
+    ],
+    [
+      "se marier",
+      "contracter un mariage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

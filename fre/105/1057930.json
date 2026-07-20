@@ -1,0 +1,15 @@
+{
+  "seq": 1057930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pur-sang",
+      "cheval de race"
+    ],
+    [
+      "personne de noble origine",
+      "personne de lignée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

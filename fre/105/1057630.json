@@ -1,0 +1,14 @@
+{
+  "seq": 1057630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "supporter",
+      "soutien",
+      "appui",
+      "secours",
+      "aide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

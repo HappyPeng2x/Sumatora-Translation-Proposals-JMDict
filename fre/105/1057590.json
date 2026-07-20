@@ -1,0 +1,20 @@
+{
+  "seq": 1057590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grève de la défaillance",
+      "travail au ralenti",
+      "action de ralentir le travail"
+    ],
+    [
+      "paresse",
+      "absence injustifiée",
+      "fausse absence",
+      "détour",
+      "absence scolaire",
+      "fuir les responsabilités"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

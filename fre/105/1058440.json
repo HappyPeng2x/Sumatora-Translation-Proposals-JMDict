@@ -1,0 +1,14 @@
+{
+  "seq": 1058440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Vierge Marie",
+      "Mère de Jésus"
+    ],
+    [
+      "Santa Maria (navire de Christophe Colomb)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1055880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail secondaire",
+      "boulot secondaire",
+      "activité secondaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

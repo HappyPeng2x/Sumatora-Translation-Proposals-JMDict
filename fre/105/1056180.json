@@ -1,0 +1,17 @@
+{
+  "seq": 1056180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "silencieux",
+      "muet"
+    ],
+    [
+      "film muet"
+    ],
+    [
+      "lettre muette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

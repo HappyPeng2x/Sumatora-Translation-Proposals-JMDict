@@ -1,0 +1,15 @@
+{
+  "seq": 1055810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu",
+      "endroit"
+    ],
+    [
+      "site internet",
+      "site web"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

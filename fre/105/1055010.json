@@ -1,0 +1,12 @@
+{
+  "seq": 1055010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ace",
+      "service",
+      "dans le tennis, le volley-ball, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

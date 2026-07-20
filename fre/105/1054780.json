@@ -1,0 +1,16 @@
+{
+  "seq": 1054780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circuit (électrique)"
+    ],
+    [
+      "circuit (de course)"
+    ],
+    [
+      "séquence (d'événements ou de lieux)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

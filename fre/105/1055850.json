@@ -1,0 +1,16 @@
+{
+  "seq": 1055850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "action de passer le service à l'adversaire en volley-ball",
+      "passage du service à l'adversaire",
+      "droit de service obtenu par l'adversaire"
+    ],
+    [
+      "balle sortant du terrain par la ligne de côté en tennis",
+      "sortie de balle par la bande latérale en tennis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

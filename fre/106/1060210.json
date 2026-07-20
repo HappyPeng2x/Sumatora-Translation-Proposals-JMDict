@@ -1,0 +1,10 @@
+{
+  "seq": 1060210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fonction sigmoïde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

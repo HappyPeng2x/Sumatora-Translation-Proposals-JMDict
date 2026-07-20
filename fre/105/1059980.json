@@ -1,0 +1,14 @@
+{
+  "seq": 1059980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chien allemand",
+      "chien d'Allemagne"
+    ],
+    [
+      "berger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

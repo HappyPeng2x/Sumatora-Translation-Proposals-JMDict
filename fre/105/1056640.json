@@ -1,0 +1,12 @@
+{
+  "seq": 1056640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suspension",
+      "attente",
+      "mode veille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

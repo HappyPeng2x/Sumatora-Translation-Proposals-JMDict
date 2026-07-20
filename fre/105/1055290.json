@@ -1,0 +1,11 @@
+{
+  "seq": 1055290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élément thermique",
+      "élément thermoelectrique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

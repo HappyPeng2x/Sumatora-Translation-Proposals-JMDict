@@ -1,0 +1,15 @@
+{
+  "seq": 1058730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sampler",
+      "échantillon",
+      "extrait"
+    ],
+    [
+      "platinium imité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

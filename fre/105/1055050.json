@@ -1,0 +1,17 @@
+{
+  "seq": 1055050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "station-service",
+      "station de carburant",
+      "station-essence"
+    ],
+    [
+      "agence",
+      "bureau",
+      "service de maintenance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

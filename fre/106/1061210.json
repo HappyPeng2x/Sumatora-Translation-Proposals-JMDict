@@ -1,0 +1,17 @@
+{
+  "seq": 1061210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "simulation",
+      "simulacre",
+      "reproduction artificielle"
+    ],
+    [
+      "simulation (d'une faute)",
+      "plongée (au football)",
+      "fausse chute"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

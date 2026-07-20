@@ -1,0 +1,11 @@
+{
+  "seq": 1060380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuisine intégrée",
+      "système de cuisine intégré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

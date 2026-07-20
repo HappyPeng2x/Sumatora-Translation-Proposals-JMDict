@@ -1,0 +1,11 @@
+{
+  "seq": 1055580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courbe cycloïde",
+      "courbe traçée par un point fixe sur un cercle roulant sur une droite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

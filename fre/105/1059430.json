@@ -1,0 +1,18 @@
+{
+  "seq": 1059430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disque compact",
+      "CD"
+    ],
+    [
+      "distributeur de billets",
+      "machine à retrait de billets"
+    ],
+    [
+      "certificat de dépôt négociable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

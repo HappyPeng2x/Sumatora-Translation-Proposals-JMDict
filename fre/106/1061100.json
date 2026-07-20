@@ -1,0 +1,19 @@
+{
+  "seq": 1061100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déplacement",
+      "mouvement"
+    ],
+    [
+      "tour de travail",
+      "horaire de travail"
+    ],
+    [
+      "boîte de vitesses",
+      "changement de vitesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

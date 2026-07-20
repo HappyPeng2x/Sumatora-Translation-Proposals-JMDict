@@ -1,0 +1,28 @@
+{
+  "seq": 1059100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "publicité",
+      "message publicitaire",
+      "annonce commerciale"
+    ],
+    [
+      "gestion de construction",
+      "direction de travaux"
+    ],
+    [
+      "fabricant sous contrat",
+      "entreprise de fabrication selon contrat"
+    ],
+    [
+      "gestion client",
+      "relation client"
+    ],
+    [
+      "tribunal militaire",
+      "martial court"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

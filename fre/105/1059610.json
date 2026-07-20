@@ -1,0 +1,16 @@
+{
+  "seq": 1059610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans couture",
+      "continu",
+      "non entaché"
+    ],
+    [
+      "collant sans couture",
+      "chaussettes sans couture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

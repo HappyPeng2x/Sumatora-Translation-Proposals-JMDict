@@ -1,0 +1,17 @@
+{
+  "seq": 1053910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combo (surtout un petit groupe de jazz)",
+      "ensemble (surtout un petit groupe de jazz)"
+    ],
+    [
+      "combinaison; ensemble; assortiment"
+    ],
+    [
+      "combo (séquence d'actions exécutées enchaînées)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

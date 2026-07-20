@@ -1,0 +1,15 @@
+{
+  "seq": 1056580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suspension (dans un véhicule)",
+      "suspension (système de suspension d'un véhicule)"
+    ],
+    [
+      "suspension (mélange)",
+      "suspension (mélange de particules solides dans un liquide)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

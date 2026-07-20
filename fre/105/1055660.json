@@ -1,0 +1,11 @@
+{
+  "seq": 1055660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] psychopathe",
+      "[n] personne instable ou bizarre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

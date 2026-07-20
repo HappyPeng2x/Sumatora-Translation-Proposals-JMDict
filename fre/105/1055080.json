@@ -1,0 +1,11 @@
+{
+  "seq": 1055080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surfeur",
+      "personne qui pratique le surf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

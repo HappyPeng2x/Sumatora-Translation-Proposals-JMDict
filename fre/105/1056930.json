@@ -1,0 +1,13 @@
+{
+  "seq": 1056930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mort soudaine"
+    ],
+    [
+      "match de mort soudaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

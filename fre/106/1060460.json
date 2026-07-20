@@ -1,0 +1,11 @@
+{
+  "seq": 1060460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison de système",
+      "entreprise spécialisée dans les systèmes informatiques ou techniques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

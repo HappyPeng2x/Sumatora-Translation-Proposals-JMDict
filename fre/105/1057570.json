@@ -1,0 +1,15 @@
+{
+  "seq": 1057570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sabot",
+      "chaussure en bois"
+    ],
+    [
+      "grève du travail par la lenteur",
+      "action de ralentir le travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

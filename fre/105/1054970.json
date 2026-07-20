@@ -1,0 +1,26 @@
+{
+  "seq": 1054970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordinateur",
+      "serveur",
+      "machine"
+    ],
+    [
+      "plateau",
+      "support",
+      "ustensile"
+    ],
+    [
+      "distributeur",
+      "fontaine"
+    ],
+    [
+      "joueur",
+      "serviteur",
+      "personne qui sert"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
