@@ -1,0 +1,45 @@
+{
+  "seq": 1037630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup",
+      "découpage"
+    ],
+    [
+      "omission",
+      "réduction",
+      "découpage"
+    ],
+    [
+      "tondeuse",
+      "coupe de cheveux"
+    ],
+    [
+      "plan-séquence",
+      "séquence"
+    ],
+    [
+      "illustration",
+      "découpage"
+    ],
+    [
+      "coup",
+      "découpe",
+      "frappe"
+    ],
+    [
+      "découpage",
+      "frappe"
+    ],
+    [
+      "découpage",
+      "interception"
+    ],
+    [
+      "découpage",
+      "partie d'un jeu de cartes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

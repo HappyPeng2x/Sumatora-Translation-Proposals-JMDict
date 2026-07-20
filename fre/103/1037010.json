@@ -1,0 +1,12 @@
+{
+  "seq": 1037010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comptage",
+      "dans le boxe",
+      "après un knock-down"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

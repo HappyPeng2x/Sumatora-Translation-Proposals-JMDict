@@ -1,0 +1,22 @@
+{
+  "seq": 1037000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compte",
+      "décompte",
+      "nombre",
+      "calcul"
+    ],
+    [
+      "compte (de balles et de strikes)"
+    ],
+    [
+      "compte (en boxe, après un knock-down)"
+    ],
+    [
+      "compte (d'activités radioactives)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

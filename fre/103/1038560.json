@@ -1,0 +1,15 @@
+{
+  "seq": 1038560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peinture en aérosol",
+      "encre de couleur en aérosol"
+    ],
+    [
+      "confettis colorés",
+      "paillettes colorées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

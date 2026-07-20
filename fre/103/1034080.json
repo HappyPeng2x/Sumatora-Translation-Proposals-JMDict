@@ -1,0 +1,11 @@
+{
+  "seq": 1034080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argent provenant du pétrole",
+      "revenus issus de la vente du pétrole"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

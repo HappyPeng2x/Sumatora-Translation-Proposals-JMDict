@@ -1,0 +1,15 @@
+{
+  "seq": 1036360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chariot (de course)",
+      "chariot (de supermarché)"
+    ],
+    [
+      "karting",
+      "go-kart"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

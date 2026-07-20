@@ -1,0 +1,15 @@
+{
+  "seq": 1038600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne de couleur",
+      "d'origine non blanche"
+    ],
+    [
+      "les Coloureds",
+      "groupe ethnique en Afrique du Sud"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

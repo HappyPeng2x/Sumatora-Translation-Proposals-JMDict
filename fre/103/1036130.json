@@ -1,0 +1,17 @@
+{
+  "seq": 1036130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "seulement",
+      "uniquement",
+      "ne...que"
+    ],
+    [
+      "prostituée",
+      "courtisane",
+      "femme de petite vertu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

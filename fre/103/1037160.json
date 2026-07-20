@@ -1,0 +1,15 @@
+{
+  "seq": 1037160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mûre noire",
+      "fruit de la mûre noire"
+    ],
+    [
+      "cassis (liqueur)",
+      "liqueur de mûre noire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

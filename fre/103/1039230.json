@@ -1,0 +1,12 @@
+{
+  "seq": 1039230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courant",
+      "actuel",
+      "en vigueur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

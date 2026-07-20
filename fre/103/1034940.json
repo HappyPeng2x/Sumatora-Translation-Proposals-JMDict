@@ -1,0 +1,11 @@
+{
+  "seq": 1034940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "orienté objet",
+      "relatif aux objets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

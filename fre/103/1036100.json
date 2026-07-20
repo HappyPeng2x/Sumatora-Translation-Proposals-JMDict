@@ -1,0 +1,12 @@
+{
+  "seq": 1036100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manuel en ligne",
+      "documentation en ligne",
+      "livre électronique à l'écran"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

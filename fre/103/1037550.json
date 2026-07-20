@@ -1,0 +1,12 @@
+{
+  "seq": 1037550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décharge émotionnelle",
+      "purge émotionnelle",
+      "débâcle émotionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

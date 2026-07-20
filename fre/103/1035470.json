@@ -1,0 +1,24 @@
+{
+  "seq": 1035470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lettre grecque omega",
+      "dernière lettre de l'alphabet grec"
+    ],
+    [
+      "fin",
+      "conclusion",
+      "aboutissement",
+      "finalité"
+    ],
+    [
+      "ohm",
+      "unité de résistance électrique"
+    ],
+    [
+      "vitesse angulaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

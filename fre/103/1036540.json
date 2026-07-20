@@ -1,0 +1,11 @@
+{
+  "seq": 1036540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ferry pour véhicules",
+      "bateau transportant des voitures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1037330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voiture modifiée",
+      "voiture réaménagée"
+    ],
+    [
+      "voiture sur mesure",
+      "voiture personnalisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

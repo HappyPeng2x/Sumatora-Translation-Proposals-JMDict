@@ -1,0 +1,20 @@
+{
+  "seq": 1037310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnalisé",
+      "fait sur mesure",
+      "spécifique"
+    ],
+    [
+      "personnalisation",
+      "adaptation"
+    ],
+    [
+      "douane",
+      "droit de douane"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

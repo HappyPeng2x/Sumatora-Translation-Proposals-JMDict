@@ -1,0 +1,11 @@
+{
+  "seq": 1035320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opérateur",
+      "personne qui opère, qui exerce une fonction technique ou professionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

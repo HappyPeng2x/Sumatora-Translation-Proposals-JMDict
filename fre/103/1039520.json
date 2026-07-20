@@ -1,0 +1,16 @@
+{
+  "seq": 1039520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "campagne de collecte de fonds"
+    ],
+    [
+      "don; contribution (à une campagne de collecte de fonds)"
+    ],
+    [
+      "campagne (politique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

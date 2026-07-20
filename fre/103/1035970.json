@@ -1,0 +1,12 @@
+{
+  "seq": 1035970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à propos",
+      "en rapport avec",
+      "en lien avec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

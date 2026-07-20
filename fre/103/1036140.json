@@ -1,0 +1,21 @@
+{
+  "seq": 1036140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unique",
+      "seul",
+      "unique (personne, chose)"
+    ],
+    [
+      "le meilleur",
+      "le plus remarquable",
+      "le plus exceptionnel"
+    ],
+    [
+      "sur mesure",
+      "spécialement conçu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

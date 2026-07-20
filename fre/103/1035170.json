@@ -1,0 +1,11 @@
+{
+  "seq": 1035170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "code opérationnel",
+      "code d'opération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

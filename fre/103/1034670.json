@@ -1,0 +1,10 @@
+{
+  "seq": 1034670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "automatisation du bureau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1037350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sur mesure",
+      "fait sur mesure",
+      "spécialement conçu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

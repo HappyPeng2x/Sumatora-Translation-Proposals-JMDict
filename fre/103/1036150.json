@@ -1,0 +1,12 @@
+{
+  "seq": 1036150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en avant",
+      "vers l'avant",
+      "dans la direction de l'avant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

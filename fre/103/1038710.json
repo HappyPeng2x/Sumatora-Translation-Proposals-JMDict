@@ -1,0 +1,16 @@
+{
+  "seq": 1038710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "colonne",
+      "données"
+    ],
+    [
+      "colonne",
+      "distillation",
+      "chromatographie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1033800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur polyvalent",
+      "joueur complet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

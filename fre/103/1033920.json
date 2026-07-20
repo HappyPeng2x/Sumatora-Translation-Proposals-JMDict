@@ -1,0 +1,12 @@
+{
+  "seq": 1033920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sables bitumineux",
+      "sables à pétrole",
+      "sables asphaltiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

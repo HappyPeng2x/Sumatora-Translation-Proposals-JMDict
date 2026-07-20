@@ -1,0 +1,11 @@
+{
+  "seq": 1035340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système d'exploitation",
+      "OS"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

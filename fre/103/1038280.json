@@ -1,0 +1,13 @@
+{
+  "seq": 1038280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arbre du kapok (Ceiba pentandra)"
+    ],
+    [
+      "arbre à liane (Schefflera heptaphylla)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

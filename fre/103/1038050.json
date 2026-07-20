@@ -1,0 +1,16 @@
+{
+  "seq": 1038050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "café",
+      "café",
+      "coffeehouse"
+    ],
+    [
+      "bar à hôtesses",
+      "bar de serveuses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

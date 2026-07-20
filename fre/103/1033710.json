@@ -1,0 +1,13 @@
+{
+  "seq": 1033710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancien élève",
+      "alumni",
+      "ancien membre",
+      "ancien joueur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

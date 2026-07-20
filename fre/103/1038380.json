@@ -1,0 +1,11 @@
+{
+  "seq": 1038380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "position de la caméra",
+      "emplacement de la caméra"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

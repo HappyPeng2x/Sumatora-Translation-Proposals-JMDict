@@ -1,0 +1,19 @@
+{
+  "seq": 1038740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caries dentaire",
+      "déchaussement osseux"
+    ],
+    [
+      "carieux"
+    ],
+    [
+      "caries vertébrale",
+      "ostéite tuberculeuse",
+      "maladie de Pott"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

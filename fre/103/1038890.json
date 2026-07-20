@@ -1,0 +1,13 @@
+{
+  "seq": 1038890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calcaire chlorationné",
+      "hypochlorite de calcium",
+      "poussière de chaux chlorationnée",
+      "poudre blanchissante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

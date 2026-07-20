@@ -1,0 +1,15 @@
+{
+  "seq": 1034810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compensation",
+      "contrepartie",
+      "déduction"
+    ],
+    [
+      "impression offset"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

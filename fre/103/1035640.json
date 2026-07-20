@@ -1,0 +1,18 @@
+{
+  "seq": 1035640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "original",
+      "unique",
+      "original (œuvre)"
+    ],
+    [
+      "unique",
+      "spécial",
+      "exclusif",
+      "original (produit)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1035790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "organisateur",
+      "organisatrice"
+    ],
+    [
+      "organisation",
+      "organisationnisme",
+      "organisationnel",
+      "organisationnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1034950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langage orienté objet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

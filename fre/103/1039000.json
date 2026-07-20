@@ -1,0 +1,16 @@
+{
+  "seq": 1039000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dossier médical",
+      "dossier clinique"
+    ],
+    [
+      "dossier",
+      "registre",
+      "fiche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1037380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "kasbah",
+      "casbah",
+      "qasbah"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1036490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "noyau (d'un système d'exploitation)",
+      "noyau central (d'un système d'exploitation)"
+    ],
+    [
+      "noyau (d'une noix ou d'un grain)",
+      "graine centrale (d'une noix ou d'un grain)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1034000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chauffage à huile",
+      "radiateur à huile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

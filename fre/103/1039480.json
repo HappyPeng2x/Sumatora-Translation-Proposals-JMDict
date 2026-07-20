@@ -1,0 +1,11 @@
+{
+  "seq": 1039480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "risque pays",
+      "risque lié à un investissement ou un prêt dans un pays"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

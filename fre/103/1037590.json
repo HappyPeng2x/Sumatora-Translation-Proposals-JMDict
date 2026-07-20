@@ -1,0 +1,21 @@
+{
+  "seq": 1037590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cutter",
+      "outil de coupe"
+    ],
+    [
+      "ciseau de carton",
+      "couteau de bureau"
+    ],
+    [
+      "ciseau (pour la couture)"
+    ],
+    [
+      "cutter (bateau)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1037030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "César",
+      "personnage historique romain, empereur romain",
+      "nom propre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

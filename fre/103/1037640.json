@@ -1,0 +1,21 @@
+{
+  "seq": 1037640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désconnexion",
+      "coupure",
+      "interception"
+    ],
+    [
+      "défense",
+      "arrêt",
+      "interruption (dans un jeu de baseball)"
+    ],
+    [
+      "ourlet",
+      "coupure (sur un jean)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

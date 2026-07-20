@@ -1,0 +1,15 @@
+{
+  "seq": 1034900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet d'art",
+      "œuvre d'art"
+    ],
+    [
+      "objet",
+      "curiosité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

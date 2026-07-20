@@ -1,0 +1,22 @@
+{
+  "seq": 1035040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "choix",
+      "alternative"
+    ],
+    [
+      "supplément facultatif",
+      "option payante"
+    ],
+    [
+      "élément individuel",
+      "service isolé"
+    ],
+    [
+      "option (finances)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

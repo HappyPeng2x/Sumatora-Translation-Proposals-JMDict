@@ -1,0 +1,11 @@
+{
+  "seq": 1036270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accent visuel d'un curseur",
+      "mise en évidence d'un curseur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

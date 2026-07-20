@@ -1,0 +1,19 @@
+{
+  "seq": 1036350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prêtre catholique du rang de cardinal"
+    ],
+    [
+      "chose essentielle; chose fondamentale; nombre cardinal"
+    ],
+    [
+      "couleur cardinal; rouge vif"
+    ],
+    [
+      "oiseau cardinal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

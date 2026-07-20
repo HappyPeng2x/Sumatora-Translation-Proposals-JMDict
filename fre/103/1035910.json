@@ -1,0 +1,11 @@
+{
+  "seq": 1035910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état alternant entre deux états opposés",
+      "état de fonctionnement intermittent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

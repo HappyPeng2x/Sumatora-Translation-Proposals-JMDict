@@ -1,0 +1,11 @@
+{
+  "seq": 1034360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "explorateur de l'espace océanique",
+      "OSPER"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

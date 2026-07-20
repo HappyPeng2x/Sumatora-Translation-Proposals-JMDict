@@ -1,0 +1,12 @@
+{
+  "seq": 1038020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cavalier",
+      "chevalier",
+      "gentilhomme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

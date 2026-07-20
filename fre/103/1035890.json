@@ -1,0 +1,14 @@
+{
+  "seq": 1035890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allumé",
+      "en marche"
+    ],
+    [
+      "sur le green (en golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

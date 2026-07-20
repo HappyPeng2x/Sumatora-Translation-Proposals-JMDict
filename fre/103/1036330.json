@@ -1,0 +1,11 @@
+{
+  "seq": 1036330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discours tenu derrière un rideau",
+      "discours tenu en cachant son visage derrière un rideau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

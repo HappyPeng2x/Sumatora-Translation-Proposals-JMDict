@@ -1,0 +1,12 @@
+{
+  "seq": 1039250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sujets d'actualité",
+      "thèmes en vogue",
+      "questions brûlantes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

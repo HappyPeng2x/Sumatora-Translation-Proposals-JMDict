@@ -1,0 +1,11 @@
+{
+  "seq": 1036390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "train routier",
+      "train transportant à la fois des passagers et des véhicules"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

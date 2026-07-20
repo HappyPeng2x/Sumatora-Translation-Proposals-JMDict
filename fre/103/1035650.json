@@ -1,0 +1,10 @@
+{
+  "seq": 1035650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calories des ingrédients d'aliments transformés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

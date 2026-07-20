@@ -1,0 +1,11 @@
+{
+  "seq": 1038230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hôtel en capsules",
+      "hôtel de type capsule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

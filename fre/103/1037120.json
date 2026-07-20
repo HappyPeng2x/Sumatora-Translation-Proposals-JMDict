@@ -1,0 +1,16 @@
+{
+  "seq": 1037120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "structure interne d'un pneu",
+      "corps d'un pneu"
+    ],
+    [
+      "charogne",
+      "cadavre",
+      "corps d'un animal mort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

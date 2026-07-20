@@ -1,0 +1,11 @@
+{
+  "seq": 1035800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boîte à musique",
+      "boîte musicale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

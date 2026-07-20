@@ -1,0 +1,24 @@
+{
+  "seq": 1038790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charme",
+      "attractivité"
+    ],
+    [
+      "charisme",
+      "pouvoir divinement conféré",
+      "don exceptionnel"
+    ],
+    [
+      "personne charismatique"
+    ],
+    [
+      "célébrité",
+      "idole",
+      "icône"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

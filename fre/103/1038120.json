@@ -1,0 +1,11 @@
+{
+  "seq": 1038120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réfectoire",
+      "salle de restauration collective"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

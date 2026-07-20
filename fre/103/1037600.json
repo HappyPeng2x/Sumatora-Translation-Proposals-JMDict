@@ -1,0 +1,18 @@
+{
+  "seq": 1037600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemise (formelle)",
+      "chemise de ville",
+      "chemise d'affaires"
+    ],
+    [
+      "chemise (de uniforme scolaire)"
+    ],
+    [
+      "chemise à manches longues et à col et manchettes non amovibles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

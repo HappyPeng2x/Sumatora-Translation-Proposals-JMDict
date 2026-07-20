@@ -1,0 +1,12 @@
+{
+  "seq": 1034700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roman d'entreprise",
+      "amour dans le travail",
+      "affaire d'amour avec un collègue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

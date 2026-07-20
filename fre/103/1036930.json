@@ -1,0 +1,28 @@
+{
+  "seq": 1036930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compteur",
+      "dispositif de comptage"
+    ],
+    [
+      "guichet (dans une banque, un magasin, etc.)"
+    ],
+    [
+      "comptoir (dans un bar, un café, etc.)",
+      "bar"
+    ],
+    [
+      "contre-attaque (en football)"
+    ],
+    [
+      "contre",
+      "contre-poussée (en boxe)"
+    ],
+    [
+      "slot d'upload automatique (dans les systèmes P2P, par exemple)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

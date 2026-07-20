@@ -1,0 +1,19 @@
+{
+  "seq": 1035420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "omettre",
+      "exclure",
+      "laisser de côté",
+      "rejeter",
+      "jeter dehors"
+    ],
+    [
+      "disqualification",
+      "élimination",
+      "exclusion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

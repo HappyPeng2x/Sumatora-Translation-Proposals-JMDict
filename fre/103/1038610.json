@@ -1,0 +1,11 @@
+{
+  "seq": 1038610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "planification des couleurs",
+      "organisation des couleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

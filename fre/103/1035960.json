@@ -1,0 +1,12 @@
+{
+  "seq": 1035960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "formation en entreprise",
+      "apprentissage sur le tas",
+      "formation sur le lieu de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1033780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "omnipuissant",
+      "tous-puissant"
+    ],
+    [
+      "carte la plus forte",
+      "carte sauvage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

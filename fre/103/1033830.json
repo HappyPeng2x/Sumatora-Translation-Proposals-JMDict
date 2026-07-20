@@ -1,0 +1,11 @@
+{
+  "seq": 1033830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lumière dansante dans le ciel, souvent visible dans les régions polaires",
+      "phénomène lumineux dans le ciel, causé par des particules chargées de l'espace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

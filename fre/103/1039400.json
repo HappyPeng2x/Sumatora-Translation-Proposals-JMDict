@@ -1,0 +1,19 @@
+{
+  "seq": 1039400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arête",
+      "rebord"
+    ],
+    [
+      "point de départ",
+      "emplacement de départ"
+    ],
+    [
+      "bord",
+      "extrémité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

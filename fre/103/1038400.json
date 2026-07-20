@@ -1,0 +1,11 @@
+{
+  "seq": 1038400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reportage photographique",
+      "reportage en caméra"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

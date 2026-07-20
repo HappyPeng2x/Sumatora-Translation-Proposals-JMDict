@@ -1,0 +1,11 @@
+{
+  "seq": 1038580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affichage en couleur",
+      "écran couleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

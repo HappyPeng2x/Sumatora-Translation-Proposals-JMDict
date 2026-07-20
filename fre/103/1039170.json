@@ -1,0 +1,11 @@
+{
+  "seq": 1039170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collège",
+      "université"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
