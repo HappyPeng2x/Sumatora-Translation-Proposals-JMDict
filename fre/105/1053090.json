@@ -1,0 +1,19 @@
+{
+  "seq": 1053090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compact",
+      "dense",
+      "serré"
+    ],
+    [
+      "compact (maquillage)",
+      "case de poudre portable"
+    ],
+    [
+      "voiture compacte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

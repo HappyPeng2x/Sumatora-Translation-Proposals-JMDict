@@ -1,0 +1,11 @@
+{
+  "seq": 1053240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "viande de bœuf salée et coupée en morceaux",
+      "viande de bœuf salée et coupée en tranches"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

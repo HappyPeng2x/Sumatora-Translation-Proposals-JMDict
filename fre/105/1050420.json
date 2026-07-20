@@ -1,0 +1,11 @@
+{
+  "seq": 1050420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fromage à la crème",
+      "fromage cottage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

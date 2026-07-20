@@ -1,0 +1,11 @@
+{
+  "seq": 1053310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aliments préparés à l'avance",
+      "nourriture prête à consommer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

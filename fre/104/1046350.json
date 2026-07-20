@@ -1,0 +1,11 @@
+{
+  "seq": 1046350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gardien du terrain",
+      "personne chargée de l'entretien d'un terrain de sport"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1050080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coût",
+      "dépense",
+      "prix"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

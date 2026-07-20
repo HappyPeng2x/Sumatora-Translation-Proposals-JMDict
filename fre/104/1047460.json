@@ -1,0 +1,12 @@
+{
+  "seq": 1047460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gourmand",
+      "mangeur excessif",
+      "amateur de bons repas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

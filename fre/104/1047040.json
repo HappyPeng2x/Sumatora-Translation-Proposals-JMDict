@@ -1,0 +1,16 @@
+{
+  "seq": 1047040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ceinture verte",
+      "zone verte"
+    ],
+    [
+      "bande végétale",
+      "bande d'herbe",
+      "lisière arborée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

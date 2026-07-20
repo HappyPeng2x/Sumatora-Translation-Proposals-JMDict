@@ -1,0 +1,11 @@
+{
+  "seq": 1050930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service de transport pour les commutateurs",
+      "service destiné aux personnes qui commutent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

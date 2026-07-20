@@ -1,0 +1,21 @@
+{
+  "seq": 1052280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concept",
+      "idée générale",
+      "notion"
+    ],
+    [
+      "intention",
+      "but",
+      "projet",
+      "philosophie",
+      "plan",
+      "intrigue",
+      "thème"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

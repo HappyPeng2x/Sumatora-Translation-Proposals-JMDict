@@ -1,0 +1,16 @@
+{
+  "seq": 1052150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défense des droits des consommateurs",
+      "mouvement en faveur des consommateurs",
+      "activisme des consommateurs"
+    ],
+    [
+      "dépenses des consommateurs",
+      "niveau élevé de consommation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

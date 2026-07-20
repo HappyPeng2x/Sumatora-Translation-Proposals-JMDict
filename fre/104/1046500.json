@@ -1,0 +1,11 @@
+{
+  "seq": 1046500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bateau à fond transparent",
+      "bateau dont le fond est en verre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

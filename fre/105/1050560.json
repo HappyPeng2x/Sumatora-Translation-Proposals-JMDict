@@ -1,0 +1,13 @@
+{
+  "seq": 1050560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cobalt"
+    ],
+    [
+      "bleu cobalt"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

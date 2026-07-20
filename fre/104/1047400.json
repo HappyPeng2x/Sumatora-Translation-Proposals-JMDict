@@ -1,0 +1,12 @@
+{
+  "seq": 1047400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conspire",
+      "agir en collusion",
+      "être complice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

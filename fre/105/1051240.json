@@ -1,0 +1,11 @@
+{
+  "seq": 1051240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désactiver (une section de code source)",
+      "commenter (une partie de code source)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

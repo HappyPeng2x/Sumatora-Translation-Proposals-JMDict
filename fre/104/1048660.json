@@ -1,0 +1,17 @@
+{
+  "seq": 1048660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guerrilla",
+      "guérilla",
+      "guérilla (militaire)"
+    ],
+    [
+      "soudain",
+      "brusque",
+      "inattendu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

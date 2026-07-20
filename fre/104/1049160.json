@@ -1,0 +1,14 @@
+{
+  "seq": 1049160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "technique de lancer visant les angles de la zone de strike",
+      "action de frapper les coins de la plaque de but"
+    ],
+    [
+      "habileté à corner (patinage, conduite, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

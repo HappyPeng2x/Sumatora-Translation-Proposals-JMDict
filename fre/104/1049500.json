@@ -1,0 +1,12 @@
+{
+  "seq": 1049500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu appelé",
+      "jeu arrêté par le joueur",
+      "jeu interrompu par le lanceur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

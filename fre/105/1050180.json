@@ -1,0 +1,11 @@
+{
+  "seq": 1050180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "costume de rôle",
+      "déguisement en personnage d'animation, manga, jeu vidéo, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

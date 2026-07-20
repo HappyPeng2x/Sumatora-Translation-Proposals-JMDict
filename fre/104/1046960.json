@@ -1,0 +1,11 @@
+{
+  "seq": 1046960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordinateur écologique",
+      "ordinateur à faible consommation d'énergie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

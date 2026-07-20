@@ -1,0 +1,11 @@
+{
+  "seq": 1046410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "règle du terrain",
+      "règle spécifique à un terrain de jeu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

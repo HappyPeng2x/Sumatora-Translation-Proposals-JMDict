@@ -1,0 +1,13 @@
+{
+  "seq": 1048000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "câble"
+    ],
+    [
+      "chemin de fer à câble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

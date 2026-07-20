@@ -1,0 +1,13 @@
+{
+  "seq": 1050700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, astron] coma (d'une comète)"
+    ],
+    [
+      "[n] coma ; aberration comatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

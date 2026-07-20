@@ -1,0 +1,20 @@
+{
+  "seq": 1048330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "porte",
+      "ouverture",
+      "accès"
+    ],
+    [
+      "porte",
+      "élément de structure"
+    ],
+    [
+      "élément logique",
+      "porte logique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

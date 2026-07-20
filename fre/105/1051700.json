@@ -1,0 +1,17 @@
+{
+  "seq": 1051700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couronne",
+      "couronne solaire"
+    ],
+    [
+      "coronavirus"
+    ],
+    [
+      "maladie à coronavirus 2019"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

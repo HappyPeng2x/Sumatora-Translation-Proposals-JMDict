@@ -1,0 +1,11 @@
+{
+  "seq": 1047370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui toilettage un animal",
+      "personne qui s'occupe du toilettage d'animaux de compagnie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

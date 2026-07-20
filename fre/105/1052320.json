@@ -1,0 +1,12 @@
+{
+  "seq": 1052320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "consensus",
+      "accord",
+      "désaccord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

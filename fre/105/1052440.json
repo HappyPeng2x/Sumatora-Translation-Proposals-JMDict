@@ -1,0 +1,12 @@
+{
+  "seq": 1052440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conductor",
+      "dirigeant",
+      "chef d'orchestre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1046400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étiquette du stade de baseball",
+      "manières à adopter sur un terrain de baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

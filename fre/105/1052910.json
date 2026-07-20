@@ -1,0 +1,15 @@
+{
+  "seq": 1052910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "condor (vautour de la famille des Cathartidae)",
+      "vautour des Amériques"
+    ],
+    [
+      "vautour andin",
+      "Vultur gryphus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

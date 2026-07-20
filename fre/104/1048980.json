@@ -1,0 +1,16 @@
+{
+  "seq": 1048980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "programmation",
+      "codage",
+      "écriture de programmes"
+    ],
+    [
+      "codage",
+      "attribution d'un code"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

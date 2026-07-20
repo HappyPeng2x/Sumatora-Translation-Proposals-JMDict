@@ -1,0 +1,27 @@
+{
+  "seq": 1047130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "kyste",
+      "tumeur",
+      "boursouflure"
+    ],
+    [
+      "frotter",
+      "raboter",
+      "pousser en tournant"
+    ],
+    [
+      "plier les yeux",
+      "cligner des yeux de manière exagérée",
+      "regarder avec des yeux ronds"
+    ],
+    [
+      "bruit de grincement",
+      "bruit de frottement",
+      "bruit sec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

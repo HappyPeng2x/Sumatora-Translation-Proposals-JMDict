@@ -1,0 +1,11 @@
+{
+  "seq": 1046390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeune homme chargé de porter les batteurs dans un stade de baseball",
+      "jeune homme chargé de l'entretien du terrain de baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

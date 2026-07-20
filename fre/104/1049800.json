@@ -1,0 +1,11 @@
+{
+  "seq": 1049800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] fichier de diagnostic contenant l'état complet d'un programme en cours d'exécution",
+      "fichier de diagnostic contenant l'état complet d'un système informatique à un moment donné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1050400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fourneau de camp, ensemble de cuisson en extérieur",
+      "ustensiles de cuisine pour le camping"
+    ],
+    [
+      "forceps artériel chirurgical, forceps de Kocher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

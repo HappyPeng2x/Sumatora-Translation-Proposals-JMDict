@@ -1,0 +1,17 @@
+{
+  "seq": 1045560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nage coulée",
+      "nage sur le ventre",
+      "technique de natation"
+    ],
+    [
+      "exploration automatique",
+      "recherche sur le web",
+      "scraping"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

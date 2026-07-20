@@ -1,0 +1,18 @@
+{
+  "seq": 1047220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gril (pour le poisson en particulier)",
+      "nourriture grillée"
+    ],
+    [
+      "salle de grillade",
+      "restaurant servant de la nourriture grillée"
+    ],
+    [
+      "grille (d'un radiateur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

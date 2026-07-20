@@ -1,0 +1,11 @@
+{
+  "seq": 1051600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collectionneur passionné",
+      "collectionneur maniaque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

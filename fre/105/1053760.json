@@ -1,0 +1,15 @@
+{
+  "seq": 1053760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complet"
+    ],
+    [
+      "achèvement",
+      "finissage",
+      "terminaison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

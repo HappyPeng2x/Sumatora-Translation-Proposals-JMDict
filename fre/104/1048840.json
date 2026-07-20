@@ -1,0 +1,12 @@
+{
+  "seq": 1048840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "matériel pédagogique",
+      "logiciels de formation",
+      "ressources d'apprentissage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

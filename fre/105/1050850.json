@@ -1,0 +1,20 @@
+{
+  "seq": 1050850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comic",
+      "bande dessinée",
+      "manga"
+    ],
+    [
+      "opéra comique"
+    ],
+    [
+      "comique",
+      "amusant",
+      "drôle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

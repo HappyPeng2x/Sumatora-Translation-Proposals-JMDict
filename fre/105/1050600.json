@@ -1,0 +1,14 @@
+{
+  "seq": 1050600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "copywriter",
+      "copywriter",
+      "rédacteur publicitaire",
+      "rédacteur de publicité",
+      "spécialiste de la rédaction publicitaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

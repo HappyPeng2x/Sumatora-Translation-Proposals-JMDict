@@ -1,0 +1,15 @@
+{
+  "seq": 1046660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "graphisme",
+      "graphique"
+    ],
+    [
+      "magazine illustré",
+      "revue picturale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

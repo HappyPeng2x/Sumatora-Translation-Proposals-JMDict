@@ -1,0 +1,15 @@
+{
+  "seq": 1047470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nourriture de qualité",
+      "aliment de luxe"
+    ],
+    [
+      "gourmand",
+      "gastronome"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1046370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le point zéro",
+      "le centre de l'impact",
+      "le lieu de l'origine d'un événement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

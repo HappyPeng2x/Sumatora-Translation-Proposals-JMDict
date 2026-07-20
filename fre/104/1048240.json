@@ -1,0 +1,15 @@
+{
+  "seq": 1048240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en croassant",
+      "comme un crapaud"
+    ],
+    [
+      "avec un effet de voix synthétisé",
+      "avec un son de voix robotisé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

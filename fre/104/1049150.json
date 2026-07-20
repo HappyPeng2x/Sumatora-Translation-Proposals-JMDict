@@ -1,0 +1,11 @@
+{
+  "seq": 1049150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coin supérieure",
+      "système de relais en course où les coureurs suivants se positionnent dans l'ordre où les coureurs actuels passent un point désigné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

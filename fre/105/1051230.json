@@ -1,0 +1,13 @@
+{
+  "seq": 1051230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comment",
+      "remarque",
+      "observation",
+      "note"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

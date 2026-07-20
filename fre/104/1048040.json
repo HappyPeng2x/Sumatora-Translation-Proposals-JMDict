@@ -1,0 +1,11 @@
+{
+  "seq": 1048040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "erreur due à la négligence",
+      "faute commise par manque d'attention"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1050470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "modèle connexionniste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

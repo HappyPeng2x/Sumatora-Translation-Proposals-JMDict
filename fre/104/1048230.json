@@ -1,0 +1,11 @@
+{
+  "seq": 1048230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "keloïde",
+      "tache de peau résultant d'une cicatrice hypertrophique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

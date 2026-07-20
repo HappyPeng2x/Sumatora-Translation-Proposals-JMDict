@@ -1,0 +1,14 @@
+{
+  "seq": 1049570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appel en retour",
+      "retour d'appel"
+    ],
+    [
+      "rappel (de produits défectueux)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

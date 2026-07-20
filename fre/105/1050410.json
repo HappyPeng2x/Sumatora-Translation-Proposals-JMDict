@@ -1,0 +1,12 @@
+{
+  "seq": 1050410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cabane",
+      "maison de campagne",
+      "petite maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

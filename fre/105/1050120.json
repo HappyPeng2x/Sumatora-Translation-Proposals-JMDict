@@ -1,0 +1,11 @@
+{
+  "seq": 1050120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "économie de coût",
+      "réduction de coûts"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

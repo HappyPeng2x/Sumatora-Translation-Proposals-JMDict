@@ -1,0 +1,19 @@
+{
+  "seq": 1048860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "supporte",
+      "sous-verre"
+    ],
+    [
+      "manège",
+      "montagnes russes"
+    ],
+    [
+      "frein",
+      "frein de roue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

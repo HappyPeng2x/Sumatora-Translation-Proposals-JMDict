@@ -1,0 +1,12 @@
+{
+  "seq": 1049020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom",
+      "nom de la corde",
+      "nom du symbole de la corde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1053620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "communication informatique",
+      "transmission de données par ordinateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1048160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaussures en matières synthétiques",
+      "chaussures en faux cuir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

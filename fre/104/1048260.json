@@ -1,0 +1,14 @@
+{
+  "seq": 1048260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'État du Kentucky"
+    ],
+    [
+      "Kentucky Fried Chicken",
+      "KFC"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

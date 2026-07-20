@@ -1,0 +1,11 @@
+{
+  "seq": 1048630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "violence politique",
+      "tactiques violentes utilisées par des radicaux politiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

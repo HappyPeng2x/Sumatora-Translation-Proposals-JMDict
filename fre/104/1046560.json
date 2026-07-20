@@ -1,0 +1,14 @@
+{
+  "seq": 1046560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gradation"
+    ],
+    [
+      "tondure en gradation",
+      "décrochage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

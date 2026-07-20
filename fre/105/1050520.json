@@ -1,0 +1,12 @@
+{
+  "seq": 1050520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "connecter",
+      "lien",
+      "liaison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

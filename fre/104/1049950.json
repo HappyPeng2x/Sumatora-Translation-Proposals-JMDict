@@ -1,0 +1,11 @@
+{
+  "seq": 1049950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuculo",
+      "oiseau du genre Cuculus, particulièrement le Cuculus canorus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

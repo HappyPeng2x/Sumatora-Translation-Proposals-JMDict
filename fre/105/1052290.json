@@ -1,0 +1,11 @@
+{
+  "seq": 1052290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "art conceptuel",
+      "œuvre d'art créée pour illustrer une idée ou un projet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

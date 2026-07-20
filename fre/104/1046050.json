@@ -1,0 +1,17 @@
+{
+  "seq": 1046050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en train de renifler",
+      "reniflant",
+      "reniflement"
+    ],
+    [
+      "gémir",
+      "pleurnicher",
+      "se plaindre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1052180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "produits de consommation",
+      "biens de consommation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

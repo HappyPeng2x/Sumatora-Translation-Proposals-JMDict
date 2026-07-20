@@ -1,0 +1,11 @@
+{
+  "seq": 1052860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "programme de contrôle",
+      "programme de contrôle informatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

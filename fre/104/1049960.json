@@ -1,0 +1,11 @@
+{
+  "seq": 1049960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cogito, ergo sum",
+      "je pense, donc je suis (Descartes)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

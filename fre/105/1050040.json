@@ -1,0 +1,13 @@
+{
+  "seq": 1050040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corsage (bouquet de fleurs porté sur une robe)"
+    ],
+    [
+      "corsage (partie supérieure d'une robe féminine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

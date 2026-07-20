@@ -1,0 +1,14 @@
+{
+  "seq": 1053650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "configuration"
+    ],
+    [
+      "configuration",
+      "configuration (technique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

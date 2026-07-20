@@ -1,0 +1,11 @@
+{
+  "seq": 1051790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "œuf de Colomb",
+      "œuf de Christophe Colomb"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

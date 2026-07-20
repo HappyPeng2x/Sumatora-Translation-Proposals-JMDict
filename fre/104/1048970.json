@@ -1,0 +1,27 @@
+{
+  "seq": 1048970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coordonnée",
+      "coordonnées",
+      "coordonner",
+      "coordination"
+    ],
+    [
+      "correspondance",
+      "harmonie",
+      "accord",
+      "concordance"
+    ],
+    [
+      "ensemble",
+      "tenue coordonnée"
+    ],
+    [
+      "ensemble de pièces conçues pour être utilisées ensemble",
+      "ensemble de meubles coordonnés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

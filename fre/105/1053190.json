@@ -1,0 +1,21 @@
+{
+  "seq": 1053190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mannequin de promotion",
+      "jeune femme guide",
+      "belle fille de stand"
+    ],
+    [
+      "hôtesse de réception",
+      "hôtesse de gala"
+    ],
+    [
+      "compagnon",
+      "compagne",
+      "accompagnateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

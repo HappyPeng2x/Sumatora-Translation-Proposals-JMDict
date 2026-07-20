@@ -1,0 +1,11 @@
+{
+  "seq": 1053210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "figure obligatoire",
+      "figure scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

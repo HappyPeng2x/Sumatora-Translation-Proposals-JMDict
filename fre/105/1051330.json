@@ -1,0 +1,12 @@
+{
+  "seq": 1051330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collaborateur",
+      "co-auteur",
+      "partenaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

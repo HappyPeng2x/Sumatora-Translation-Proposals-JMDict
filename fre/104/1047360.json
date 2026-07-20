@@ -1,0 +1,11 @@
+{
+  "seq": 1047360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séparateur de groupe",
+      "caractère de séparation de groupe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1053610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calcul",
+      "opération mathématique",
+      "traitement informatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

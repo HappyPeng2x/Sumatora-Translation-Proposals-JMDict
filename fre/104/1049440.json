@@ -1,0 +1,11 @@
+{
+  "seq": 1049440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langue froide",
+      "plat composé de tranches de langue froide (spécialité de Kansai)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

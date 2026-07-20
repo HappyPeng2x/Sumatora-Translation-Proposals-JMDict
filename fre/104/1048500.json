@@ -1,0 +1,11 @@
+{
+  "seq": 1048500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement de libération gay",
+      "mouvement en faveur des droits des homosexuels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

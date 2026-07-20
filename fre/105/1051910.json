@@ -1,0 +1,12 @@
+{
+  "seq": 1051910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "félicitations",
+      "souhaits de réussite",
+      "bienfaits"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

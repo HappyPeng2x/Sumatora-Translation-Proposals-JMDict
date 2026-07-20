@@ -1,0 +1,11 @@
+{
+  "seq": 1046700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affichage graphique",
+      "affichage de graphiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

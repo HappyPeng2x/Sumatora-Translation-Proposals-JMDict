@@ -1,0 +1,14 @@
+{
+  "seq": 1048730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "germanique",
+      "relatif aux Germains",
+      "relatif au peuple germanique",
+      "relatif à la langue germanique",
+      "relatif à la culture germanique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

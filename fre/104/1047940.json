@@ -1,0 +1,11 @@
+{
+  "seq": 1047940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail de cas",
+      "travail social de suivi de cas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

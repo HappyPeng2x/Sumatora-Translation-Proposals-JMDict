@@ -1,0 +1,12 @@
+{
+  "seq": 1045850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "zone de croisement",
+      "zone de passage",
+      "zone de transit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

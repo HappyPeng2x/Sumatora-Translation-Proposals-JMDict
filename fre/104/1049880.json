@@ -1,0 +1,12 @@
+{
+  "seq": 1049880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lancer d'une pièce de monnaie",
+      "jet de pièce",
+      "tirage au sort par lancer de pièce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

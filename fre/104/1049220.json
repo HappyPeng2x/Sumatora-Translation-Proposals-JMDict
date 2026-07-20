@@ -1,0 +1,12 @@
+{
+  "seq": 1049220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "café",
+      "maison de café",
+      "établissement de vente de café"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1050910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "engagement",
+      "implication",
+      "participation"
+    ],
+    [
+      "commiter (données, contrôle de version)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

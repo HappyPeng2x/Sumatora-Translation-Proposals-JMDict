@@ -1,0 +1,11 @@
+{
+  "seq": 1049620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prêt à la consommation",
+      "prêt à court terme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

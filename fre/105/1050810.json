@@ -1,0 +1,16 @@
+{
+  "seq": 1050810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordre",
+      "commande",
+      "instruction"
+    ],
+    [
+      "touches de commande",
+      "bouton de commande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1046590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gravure",
+      "photogravure",
+      "rotogravure",
+      "image en gravure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

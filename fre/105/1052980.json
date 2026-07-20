@@ -1,0 +1,19 @@
+{
+  "seq": 1052980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conversion",
+      "transformation"
+    ],
+    [
+      "déplacement",
+      "changement de position"
+    ],
+    [
+      "conversion",
+      "transformations dans le rugby ou le football américain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

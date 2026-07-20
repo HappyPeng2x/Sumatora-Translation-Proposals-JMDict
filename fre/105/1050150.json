@@ -1,0 +1,17 @@
+{
+  "seq": 1050150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "performance coût",
+      "rapport coût-efficacité",
+      "rapport prix-performance"
+    ],
+    [
+      "bon rapport qualité-prix",
+      "bonne valeur pour l'argent",
+      "bonne affaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1049750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "noyau",
+      "centre",
+      "cœur (d'une pomme)"
+    ],
+    [
+      "ferme",
+      "dévoué",
+      "passionné",
+      "extrêmiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1049240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pause café",
+      "pause pour boire du café",
+      "interruption pour prendre un café"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1051670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Colisée",
+      "amphithéâtre romain"
+    ],
+    [
+      "stade",
+      "grand stade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1051160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système de microfilm de sortie d'ordinateur",
+      "système COM de sortie d'ordinateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

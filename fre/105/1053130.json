@@ -1,0 +1,16 @@
+{
+  "seq": 1053130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compas (pour tracer des cercles, etc.) ; paire de compas"
+    ],
+    [
+      "compas (de marin)"
+    ],
+    [
+      "longueur d'une foulée ; longueur des jambes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

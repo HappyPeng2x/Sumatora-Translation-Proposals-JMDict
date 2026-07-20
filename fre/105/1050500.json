@@ -1,0 +1,10 @@
+{
+  "seq": 1050500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "connecteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1049630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cornet (de glace)"
+    ],
+    [
+      "cornet (d'un haut-parleur)"
+    ],
+    [
+      "boule (de signalisation routière)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

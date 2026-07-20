@@ -1,0 +1,10 @@
+{
+  "seq": 1050680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langage de programmation COBOL"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

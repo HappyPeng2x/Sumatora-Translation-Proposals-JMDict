@@ -1,0 +1,15 @@
+{
+  "seq": 1045510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plan rapproché"
+    ],
+    [
+      "mettre en avant",
+      "mettre en évidence",
+      "mettre sous le feu des projecteurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

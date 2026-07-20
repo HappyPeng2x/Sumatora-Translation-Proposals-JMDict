@@ -1,0 +1,26 @@
+{
+  "seq": 1049390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appel",
+      "sonnerie (téléphone)"
+    ],
+    [
+      "cri",
+      "appel",
+      "chant"
+    ],
+    [
+      "appel (jeu de cartes)"
+    ],
+    [
+      "prêt à court terme",
+      "argent de call"
+    ],
+    [
+      "appel (option)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

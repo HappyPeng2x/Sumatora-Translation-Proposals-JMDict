@@ -1,0 +1,11 @@
+{
+  "seq": 1048680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guérillero",
+      "combattant de guérilla"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

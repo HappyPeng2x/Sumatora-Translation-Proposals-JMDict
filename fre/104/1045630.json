@@ -1,0 +1,18 @@
+{
+  "seq": 1045630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "croix"
+    ],
+    [
+      "croisement",
+      "intersection",
+      "croisade"
+    ],
+    [
+      "football (soccer)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

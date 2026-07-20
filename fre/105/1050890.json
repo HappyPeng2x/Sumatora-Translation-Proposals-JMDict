@@ -1,0 +1,12 @@
+{
+  "seq": 1050890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commissionnaire",
+      "commissaire",
+      "commissioner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

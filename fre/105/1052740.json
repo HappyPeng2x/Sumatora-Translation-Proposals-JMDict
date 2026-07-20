@@ -1,0 +1,17 @@
+{
+  "seq": 1052740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conte",
+      "histoire courte",
+      "récit"
+    ],
+    [
+      "sketch comique",
+      "pièce de théâtre courte",
+      "numéro de variété"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
