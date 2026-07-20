@@ -1,0 +1,11 @@
+{
+  "seq": 1067590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture dans le toit permettant d'adoucir l'éclairage naturel",
+      "ouverture dans le plafond laissant entrer la lumière du ciel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

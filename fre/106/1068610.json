@@ -1,0 +1,11 @@
+{
+  "seq": 1068610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "superviseur de tournage",
+      "superviseur de continuité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

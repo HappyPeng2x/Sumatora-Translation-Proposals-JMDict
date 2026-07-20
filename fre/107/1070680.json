@@ -1,0 +1,15 @@
+{
+  "seq": 1070680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stéréotype (impression en relief utilisée en imprimerie)",
+      "stéréotype (plaque de métal utilisée dans l'imprimerie)"
+    ],
+    [
+      "stéréotype (idéotype, image fixe et souvent exagérée d'un groupe social)",
+      "stéréotype (caractère typique, commun à un groupe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

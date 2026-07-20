@@ -1,0 +1,11 @@
+{
+  "seq": 1068570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scénario de film",
+      "scénario de cinéma"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

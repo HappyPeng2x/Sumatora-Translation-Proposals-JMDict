@@ -1,0 +1,11 @@
+{
+  "seq": 1067570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "billet d'avion étudiant",
+      "réduction étudiante pour vol aérien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

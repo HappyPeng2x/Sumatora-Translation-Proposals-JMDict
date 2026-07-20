@@ -1,0 +1,11 @@
+{
+  "seq": 1070290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "restaurant spécialisé dans les steaks",
+      "établissement servant des steaks"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

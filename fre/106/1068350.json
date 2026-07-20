@@ -1,0 +1,12 @@
+{
+  "seq": 1068350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "col en carré",
+      "col carré",
+      "encolure carrée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

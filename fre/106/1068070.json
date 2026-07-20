@@ -1,0 +1,12 @@
+{
+  "seq": 1068070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amélioration des compétences",
+      "renforcement des compétences",
+      "développement des compétences"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

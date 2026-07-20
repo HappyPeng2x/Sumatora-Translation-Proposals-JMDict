@@ -1,0 +1,19 @@
+{
+  "seq": 1068420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débris métallique",
+      "morceau de métal usagé"
+    ],
+    [
+      "coupure (d'un journal, d'une revue, etc.)",
+      "extrait (d'un texte imprimé)"
+    ],
+    [
+      "album de coupures",
+      "recueil de coupures de presse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

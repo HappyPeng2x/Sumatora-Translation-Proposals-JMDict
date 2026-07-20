@@ -1,0 +1,19 @@
+{
+  "seq": 1067920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bondir en sautant alternativement sur chaque pied",
+      "faire un bond en sautant alternativement sur chaque pied"
+    ],
+    [
+      "action de sauter par-dessus quelque chose",
+      "mouvement de saut surélevé"
+    ],
+    [
+      "chef d'équipe de curling",
+      "capitaine d'équipe de curling"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

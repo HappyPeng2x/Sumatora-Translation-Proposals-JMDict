@@ -1,0 +1,41 @@
+{
+  "seq": 1071450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit",
+      "direct",
+      "non courbé"
+    ],
+    [
+      "direct",
+      "franc",
+      "sans détour"
+    ],
+    [
+      "droit (dans le cas des victoires, des sets, etc.)"
+    ],
+    [
+      "pur (alcool)",
+      "neuf (alcool)",
+      "noir (thé ou café)"
+    ],
+    [
+      "entrée directe à l'université après le lycée"
+    ],
+    [
+      "dans le baseball, une balle rapide à quatre coutures"
+    ],
+    [
+      "dans le boxe, un direct"
+    ],
+    [
+      "dans les cartes, une suite (poker)"
+    ],
+    [
+      "hétérosexuel",
+      "personne hétérosexuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

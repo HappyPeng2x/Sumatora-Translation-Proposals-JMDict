@@ -1,0 +1,12 @@
+{
+  "seq": 1069700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "film de stag",
+      "film de stags",
+      "film de cerf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

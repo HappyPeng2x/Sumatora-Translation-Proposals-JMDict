@@ -1,0 +1,18 @@
+{
+  "seq": 1071350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bande magnétique",
+      "bande de stockage"
+    ],
+    [
+      "diffuseur en ligne",
+      "streamer en direct"
+    ],
+    [
+      "mouche streamer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

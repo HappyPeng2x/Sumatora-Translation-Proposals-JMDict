@@ -1,0 +1,15 @@
+{
+  "seq": 1068460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scrub (pour le visage)",
+      "nettoyant pour le visage"
+    ],
+    [
+      "tenue de travail (pour les soignants)",
+      "uniforme (pour le personnel médical)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1071600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stroboscope",
+      "lampe stroboscopique",
+      "éclairage stroboscopique"
+    ],
+    [
+      "flash (de caméra)",
+      "éclair (caméra)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

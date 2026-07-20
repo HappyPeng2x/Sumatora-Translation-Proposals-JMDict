@@ -1,0 +1,11 @@
+{
+  "seq": 1069060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "position de marquage",
+      "dans le baseball, position permettant à un joueur d'atteindre la base suivante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

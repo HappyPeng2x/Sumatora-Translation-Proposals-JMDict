@@ -1,0 +1,20 @@
+{
+  "seq": 1067630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recruteur",
+      "chasseur de têtes"
+    ],
+    [
+      "recrutement",
+      "chasse aux talents"
+    ],
+    [
+      "éclaireurs",
+      "jeunes garçons",
+      "jeunes filles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

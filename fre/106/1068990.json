@@ -1,0 +1,19 @@
+{
+  "seq": 1068990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étendue",
+      "portée",
+      "gamme"
+    ],
+    [
+      "appareil optique",
+      "instrument optique"
+    ],
+    [
+      "portée (d'une liaison de nom)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1068620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Écriture sacrée",
+      "Texte sacré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

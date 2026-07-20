@@ -1,0 +1,15 @@
+{
+  "seq": 1069810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "endurance",
+      "énergie"
+    ],
+    [
+      "qui renforce l'endurance",
+      "qui booste l'énergie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

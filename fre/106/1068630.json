@@ -1,0 +1,19 @@
+{
+  "seq": 1068630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scénario",
+      "texte d'un film, d'une pièce de théâtre, d'une série télévisée"
+    ],
+    [
+      "écriture manuscrite imitée",
+      "style de police de caractères imitant l'écriture à la main"
+    ],
+    [
+      "script",
+      "ensemble de commandes ou d'instructions dans un langage de programmation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

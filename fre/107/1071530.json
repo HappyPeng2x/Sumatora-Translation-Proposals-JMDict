@@ -1,0 +1,12 @@
+{
+  "seq": 1071530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étranger",
+      "inconnu",
+      "personne non familière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

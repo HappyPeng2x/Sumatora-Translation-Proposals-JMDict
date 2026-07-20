@@ -1,0 +1,15 @@
+{
+  "seq": 1071250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ceinture (pour porter quelque chose)",
+      "sangle (pour porter quelque chose)"
+    ],
+    [
+      "ceinture (sur une robe, un soutien-gorge, etc.)",
+      "sangle (sur une robe, un soutien-gorge, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

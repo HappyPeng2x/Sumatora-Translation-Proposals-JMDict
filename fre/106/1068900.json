@@ -1,0 +1,11 @@
+{
+  "seq": 1068900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "téléphone permettant de transmettre des mots et des dessins écrits à la main",
+      "système de télécriture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

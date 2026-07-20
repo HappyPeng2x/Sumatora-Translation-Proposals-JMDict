@@ -1,0 +1,11 @@
+{
+  "seq": 1067620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "restaurant situé en haut d'un immeuble haut",
+      "restaurant offrant une vue panoramique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

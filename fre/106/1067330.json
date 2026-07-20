@@ -1,0 +1,22 @@
+{
+  "seq": 1067330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement",
+      "d'un club de golf",
+      "d'une raquette de tennis"
+    ],
+    [
+      "mouvement",
+      "d'un poing",
+      "dans le boxe"
+    ],
+    [
+      "style",
+      "musical",
+      "de jazz"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

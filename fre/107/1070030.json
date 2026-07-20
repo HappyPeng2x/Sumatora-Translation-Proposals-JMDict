@@ -1,0 +1,16 @@
+{
+  "seq": 1070030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tampon",
+      "empreinte",
+      "cachet"
+    ],
+    [
+      "étiquette",
+      "émoticône (grand)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1068470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scrum (rugby)",
+      "scrummage"
+    ],
+    [
+      "huddle",
+      "groupe serré (par exemple, lors d'une manifestation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

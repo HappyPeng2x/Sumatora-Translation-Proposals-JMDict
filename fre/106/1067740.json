@@ -1,0 +1,15 @@
+{
+  "seq": 1067740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "renard à l'odeur forte",
+      "animal à odeur forte"
+    ],
+    [
+      "empêcher quelqu'un de marquer un point",
+      "empêcher un but"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

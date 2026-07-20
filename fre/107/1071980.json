@@ -1,0 +1,13 @@
+{
+  "seq": 1071980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaussures à pointes",
+      "chaussures de sport avec des pointes métalliques",
+      "semelles avec des pointes",
+      "bottines à crampons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

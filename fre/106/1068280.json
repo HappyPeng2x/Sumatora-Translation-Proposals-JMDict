@@ -1,0 +1,17 @@
+{
+  "seq": 1068280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "serrure",
+      "action de serrer",
+      "compression"
+    ],
+    [
+      "douleur",
+      "inconfort",
+      "pression due à l'eau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

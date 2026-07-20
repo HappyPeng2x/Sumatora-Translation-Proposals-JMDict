@@ -1,0 +1,17 @@
+{
+  "seq": 1069850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attitude",
+      "position",
+      "point de vue"
+    ],
+    [
+      "position",
+      "attitude",
+      "posture (en sport)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,34 @@
+{
+  "seq": 1071010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stock",
+      "inventaire"
+    ],
+    [
+      "se procurer en abondance",
+      "s'approvisionner"
+    ],
+    [
+      "bouillon",
+      "fond de cuisine"
+    ],
+    [
+      "action",
+      "part",
+      "titre"
+    ],
+    [
+      "stock",
+      "réserve",
+      "quantité (économique)"
+    ],
+    [
+      "plante",
+      "gillyflower",
+      "mignonette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

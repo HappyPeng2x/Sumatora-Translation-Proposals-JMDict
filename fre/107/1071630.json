@@ -1,0 +1,20 @@
+{
+  "seq": 1071630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collation",
+      "repas léger"
+    ],
+    [
+      "bar à snacks",
+      "établissement servant des boissons et des snacks"
+    ],
+    [
+      "en-cas",
+      "collation",
+      "mets léger (comme des chips ou du pop-corn)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

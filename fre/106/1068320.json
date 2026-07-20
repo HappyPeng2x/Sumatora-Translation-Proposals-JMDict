@@ -1,0 +1,19 @@
+{
+  "seq": 1068320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] carré (forme)"
+    ],
+    [
+      "[n] place (espace ouvert)"
+    ],
+    [
+      "[adj-na] formel; méthodique; correct; strict; rigide"
+    ],
+    [
+      "[n] carré (outil)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

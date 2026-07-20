@@ -1,0 +1,16 @@
+{
+  "seq": 1068100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peau"
+    ],
+    [
+      "préservatif"
+    ],
+    [
+      "interface graphique personnalisée d'une application"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

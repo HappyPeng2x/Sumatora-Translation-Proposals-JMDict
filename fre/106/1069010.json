@@ -1,0 +1,13 @@
+{
+  "seq": 1069010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "score (dans un jeu)"
+    ],
+    [
+      "partition (musique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

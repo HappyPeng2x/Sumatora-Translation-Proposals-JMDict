@@ -1,0 +1,11 @@
+{
+  "seq": 1069680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pointeur de pile",
+      "indicateur de pile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

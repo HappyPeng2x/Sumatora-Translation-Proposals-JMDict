@@ -1,0 +1,11 @@
+{
+  "seq": 1068340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "danse en carré",
+      "danse de groupe en formation carrée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

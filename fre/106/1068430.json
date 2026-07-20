@@ -1,0 +1,11 @@
+{
+  "seq": 1068430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déconstruction et reconstruction",
+      "démolition et reconstruction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

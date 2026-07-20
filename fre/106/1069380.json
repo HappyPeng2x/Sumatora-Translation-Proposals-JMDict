@@ -1,0 +1,15 @@
+{
+  "seq": 1069380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "départ en accéléré d'une course de courte distance",
+      "démarrage rapide en course courte"
+    ],
+    [
+      "début violent et énergique",
+      "assaut initial à pleine force"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1071130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instant figé",
+      "cadre figé"
+    ],
+    [
+      "animation par arrêt de mouvement",
+      "technique d'animation par stop motion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

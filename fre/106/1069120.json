@@ -1,0 +1,11 @@
+{
+  "seq": 1069120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chien de race Scottie",
+      "chien terrier écossais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1068270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compagnon de classe",
+      "camarade de classe",
+      "collègue de classe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

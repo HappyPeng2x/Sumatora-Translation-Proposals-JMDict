@@ -1,0 +1,31 @@
+{
+  "seq": 1068830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échelle (de mesure)",
+      "règle",
+      "règle à mesurer"
+    ],
+    [
+      "échelle",
+      "étendue",
+      "importance"
+    ],
+    [
+      "gamme (musicale)",
+      "échelle musicale"
+    ],
+    [
+      "balance",
+      "basculière",
+      "pèse-personne"
+    ],
+    [
+      "dépôt",
+      "calcaire",
+      "incrustation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

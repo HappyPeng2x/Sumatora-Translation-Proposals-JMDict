@@ -1,0 +1,11 @@
+{
+  "seq": 1069440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moteur à air pulsé",
+      "moteur de Stirling"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

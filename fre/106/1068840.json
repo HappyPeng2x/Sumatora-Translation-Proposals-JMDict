@@ -1,0 +1,11 @@
+{
+  "seq": 1068840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "économie d'échelle",
+      "avantage lié à une plus grande échelle de production"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

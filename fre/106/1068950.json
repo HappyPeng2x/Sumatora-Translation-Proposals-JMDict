@@ -1,0 +1,26 @@
+{
+  "seq": 1068950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ossement",
+      "structure squelettique",
+      "charpente"
+    ],
+    [
+      "transparence",
+      "translucide",
+      "corps transparent"
+    ],
+    [
+      "squelette (sport)",
+      "équipage (course en canoë)"
+    ],
+    [
+      "code squelette",
+      "brique de base",
+      "ossature (programmation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1071970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épingle",
+      "pique (de chaussure ou de pneu)",
+      "semelle à pointes"
+    ],
+    [
+      "chaussures à pointes",
+      "pointes (de chaussures)",
+      "semelles à pointes"
+    ],
+    [
+      "blesser un adversaire avec les pointes des chaussures",
+      "frapper avec les pointes des chaussures"
+    ],
+    [
+      "attaque (au volleyball)",
+      "spike (au volleyball)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

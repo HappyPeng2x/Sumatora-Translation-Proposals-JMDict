@@ -1,0 +1,15 @@
+{
+  "seq": 1068810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échelle (dentaire)",
+      "dépôt sur les dents"
+    ],
+    [
+      "mise à l'échelle",
+      "redimensionnement (d'une image)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

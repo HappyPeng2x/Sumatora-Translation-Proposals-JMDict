@@ -1,0 +1,13 @@
+{
+  "seq": 1067600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne d'horizon"
+    ],
+    [
+      "route panoramique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

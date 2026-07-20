@@ -1,0 +1,16 @@
+{
+  "seq": 1070990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "support de présentation alimentaire",
+      "rayon de vente de produits alimentaires",
+      "étagère frigorifique"
+    ],
+    [
+      "meuble de rangement de maison",
+      "unité de stockage domestique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

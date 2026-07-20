@@ -1,0 +1,12 @@
+{
+  "seq": 1071560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu au coup",
+      "jeu par coups",
+      "jeu au score"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

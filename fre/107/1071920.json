@@ -1,0 +1,11 @@
+{
+  "seq": 1071920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entraînement en boxe",
+      "exercice de boxe sans frapper vraiment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

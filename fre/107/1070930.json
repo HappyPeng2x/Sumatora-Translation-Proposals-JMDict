@@ -1,0 +1,15 @@
+{
+  "seq": 1070930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin",
+      "boutique"
+    ],
+    [
+      "stockage",
+      "stocker"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1071390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spectacle de déshabillage",
+      "déshabillage scénique",
+      "striptease"
+    ],
+    [
+      "déshabillage",
+      "retirer ses vêtements"
+    ],
+    [
+      "lame (de bois)",
+      "bande (de bois)",
+      "longue bande fine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

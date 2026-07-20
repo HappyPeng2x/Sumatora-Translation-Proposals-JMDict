@@ -1,0 +1,12 @@
+{
+  "seq": 1070800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligue du chauffage",
+      "ligue de la saison morte",
+      "ligue de commerce de joueurs hors saison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

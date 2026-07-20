@@ -1,0 +1,20 @@
+{
+  "seq": 1071500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étirage (d'un matériau)",
+      "matériau étirable"
+    ],
+    [
+      "étirement (exercice)",
+      "étirements"
+    ],
+    [
+      "étirage",
+      "ligne droite",
+      "droite (course)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

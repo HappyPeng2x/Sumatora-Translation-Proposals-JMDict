@@ -1,0 +1,11 @@
+{
+  "seq": 1068640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme chargée de superviser le scénario sur un tournage",
+      "assistante de réalisation chargée de vérifier le scénario pendant le tournage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

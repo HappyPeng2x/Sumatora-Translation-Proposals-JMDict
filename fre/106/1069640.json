@@ -1,0 +1,15 @@
+{
+  "seq": 1069640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pile",
+      "amas",
+      "accumulation"
+    ],
+    [
+      "structure de données appelée 'pile'"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

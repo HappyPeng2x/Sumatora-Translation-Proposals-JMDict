@@ -1,0 +1,15 @@
+{
+  "seq": 1067760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scampi (Nephrops norvegicus)",
+      "crevette de Norvège",
+      "langoustine de Dublin"
+    ],
+    [
+      "scampi (plat de crustacés)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

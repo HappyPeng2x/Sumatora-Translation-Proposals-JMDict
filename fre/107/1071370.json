@@ -1,0 +1,16 @@
+{
+  "seq": 1071370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courant",
+      "filet",
+      "flux"
+    ],
+    [
+      "courant",
+      "filet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

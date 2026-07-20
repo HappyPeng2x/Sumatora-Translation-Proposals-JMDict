@@ -1,0 +1,19 @@
+{
+  "seq": 1071660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brusque mouvement (du poignet) ; dans le baseball, le golf, etc."
+    ],
+    [
+      "instantané (photographique)"
+    ],
+    [
+      "bouton pression"
+    ],
+    [
+      "mouvement brusque ; action soudaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1070980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stoïque",
+      "résigné"
+    ],
+    [
+      "discipliné",
+      "rigoureux",
+      "austère"
+    ],
+    [
+      "Stoïcien",
+      "philosophe stoïcien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

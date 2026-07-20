@@ -1,0 +1,11 @@
+{
+  "seq": 1068250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "zone scolaire",
+      "zone de vitesse scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

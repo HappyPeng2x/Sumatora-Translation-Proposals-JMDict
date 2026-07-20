@@ -1,0 +1,12 @@
+{
+  "seq": 1068400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match de grattage",
+      "match à l'aveugle",
+      "match improvisé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

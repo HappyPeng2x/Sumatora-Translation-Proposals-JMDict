@@ -1,0 +1,11 @@
+{
+  "seq": 1070160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "outil en acier pour poncer des clous",
+      "outil en acier utilisé pour affiner ou lisser la surface de clous"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1070550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marche (d'un escalier, etc.) ; marche de bus, de train"
+    ],
+    [
+      "mouvement ; pas"
+    ],
+    [
+      "pas (de danse)"
+    ],
+    [
+      "étape ; étape d'un processus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

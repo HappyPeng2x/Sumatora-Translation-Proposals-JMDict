@@ -1,0 +1,12 @@
+{
+  "seq": 1070560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étapes",
+      "marches",
+      "paliers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

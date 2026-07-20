@@ -1,0 +1,18 @@
+{
+  "seq": 1070830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conte",
+      "histoire",
+      "récit",
+      "légende"
+    ],
+    [
+      "intrigue",
+      "déroulement de l'histoire",
+      "scénario"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

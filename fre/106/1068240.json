@@ -1,0 +1,15 @@
+{
+  "seq": 1068240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couleur scolaire",
+      "couleur de l'école"
+    ],
+    [
+      "caractère d'une école",
+      "nature d'une école"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
