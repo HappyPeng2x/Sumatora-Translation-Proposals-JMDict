@@ -1,0 +1,10 @@
+{
+  "seq": 1000000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signe de répétition dans le katakana"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
