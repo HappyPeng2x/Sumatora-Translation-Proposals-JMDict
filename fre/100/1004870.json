@@ -1,0 +1,29 @@
+{
+  "seq": 1004870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tap-tap",
+      "tap-tap",
+      "tap-tap"
+    ],
+    [
+      "toux-toux",
+      "tousser"
+    ],
+    [
+      "aboiement",
+      "cri",
+      "gémissement"
+    ],
+    [
+      "lourdement",
+      "abondamment",
+      "durement"
+    ],
+    [
+      "renard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

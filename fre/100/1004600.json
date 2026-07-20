@@ -1,0 +1,13 @@
+{
+  "seq": 1004600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par",
+      "par l'intermédiaire de",
+      "en utilisant",
+      "par le biais de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

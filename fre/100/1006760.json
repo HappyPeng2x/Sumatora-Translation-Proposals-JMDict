@@ -1,0 +1,12 @@
+{
+  "seq": 1006760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malgré soi",
+      "d'une certaine manière",
+      "vaguement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

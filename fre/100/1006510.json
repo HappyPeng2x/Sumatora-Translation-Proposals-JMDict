@@ -1,0 +1,14 @@
+{
+  "seq": 1006510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devoir faire",
+      "ne pouvoir s'empêcher de faire",
+      "être contraint de faire",
+      "être obligé de faire",
+      "ne pas pouvoir éviter de faire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

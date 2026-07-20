@@ -1,0 +1,15 @@
+{
+  "seq": 1006250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "long, élancé, bien proportionné",
+      "long et élancé"
+    ],
+    [
+      "fluide, continu",
+      "sans heurt, en mouvement fluide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

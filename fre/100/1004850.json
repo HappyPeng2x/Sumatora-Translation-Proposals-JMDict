@@ -1,0 +1,19 @@
+{
+  "seq": 1004850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aisément",
+      "sans effort",
+      "brusquement",
+      "absolument"
+    ],
+    [
+      "changer complètement"
+    ],
+    [
+      "plink (son d'un objet léger qui tombe ou roule)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

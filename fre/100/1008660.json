@@ -1,0 +1,11 @@
+{
+  "seq": 1008660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'herbe est plus verte du côté de la palissade",
+      "l'herbe du voisin est toujours plus verte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

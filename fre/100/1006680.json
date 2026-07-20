@@ -1,0 +1,22 @@
+{
+  "seq": 1006680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "là-bas",
+      "ce coin-là",
+      "cette zone"
+    ],
+    [
+      "cela",
+      "cette affaire",
+      "ce point"
+    ],
+    [
+      "environ",
+      "autour de",
+      "vers cette quantité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

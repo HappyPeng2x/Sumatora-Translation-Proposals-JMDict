@@ -1,0 +1,11 @@
+{
+  "seq": 1005690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "riz de sushis",
+      "riz préparé avec du vinaigre, du sucre et du sel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

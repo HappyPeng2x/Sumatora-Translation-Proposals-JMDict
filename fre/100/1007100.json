@@ -1,0 +1,12 @@
+{
+  "seq": 1007100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "donc",
+      "par conséquent",
+      "pour cette raison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

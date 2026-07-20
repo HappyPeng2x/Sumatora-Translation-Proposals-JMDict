@@ -1,0 +1,17 @@
+{
+  "seq": 1005510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fréquemment",
+      "souvent"
+    ],
+    [
+      "fixement",
+      "attentivement",
+      "étroitement",
+      "fermement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

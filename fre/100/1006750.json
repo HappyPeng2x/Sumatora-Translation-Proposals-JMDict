@@ -1,0 +1,15 @@
+{
+  "seq": 1006750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exciter",
+      "inciter",
+      "stimuler",
+      "susciter",
+      "tempter",
+      "agiter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

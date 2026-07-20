@@ -1,0 +1,19 @@
+{
+  "seq": 1006470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapidement",
+      "vite",
+      "d'un pas ferme",
+      "avec régularité",
+      "en flambant neuf"
+    ],
+    [
+      "tonnant",
+      "bourdonnant",
+      "retentissant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

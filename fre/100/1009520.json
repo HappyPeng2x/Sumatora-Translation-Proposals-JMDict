@@ -1,0 +1,12 @@
+{
+  "seq": 1009520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quand même",
+      "en tout cas",
+      "de toute façon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

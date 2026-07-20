@@ -1,0 +1,14 @@
+{
+  "seq": 1007900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coiffure en chonmage",
+      "queue de cheval portée par les hommes à l'époque d'Edo et par les lutteurs de sumo aujourd'hui"
+    ],
+    [
+      "s'il te plaît (forme plaisante de chōdai, après la forme -te d'un verbe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

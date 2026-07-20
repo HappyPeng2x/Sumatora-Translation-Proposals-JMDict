@@ -1,0 +1,12 @@
+{
+  "seq": 1009400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ce peu que l'on a",
+      "quantité minime",
+      "très petite quantité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

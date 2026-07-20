@@ -1,0 +1,10 @@
+{
+  "seq": 1007670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, sumo, food] potée de poisson, viande et légumes traditionnellement servie aux lutteurs de sumo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

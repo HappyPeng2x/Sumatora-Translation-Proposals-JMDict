@@ -1,0 +1,15 @@
+{
+  "seq": 1005940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cheval nerveux"
+    ],
+    [
+      "personne difficile à gérer",
+      "shrew",
+      "tomboy entêtée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

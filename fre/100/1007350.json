@@ -1,0 +1,19 @@
+{
+  "seq": 1007350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme on pouvait s'y attendre",
+      "puisqu'il en est ainsi",
+      "étant donné que ...",
+      "vu que ...",
+      "parce que ..."
+    ],
+    [
+      "pour de bonnes raisons",
+      "il y a une bonne raison que ...",
+      "justement parce que ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

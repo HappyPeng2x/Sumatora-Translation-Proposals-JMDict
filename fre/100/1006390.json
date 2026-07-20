@@ -1,0 +1,12 @@
+{
+  "seq": 1006390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dire clairement",
+      "parler franchement",
+      "ne pas se cacher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,36 @@
+{
+  "seq": 1007960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pénis"
+    ],
+    [
+      "avec un tintement",
+      "avec un bruit de clochettes"
+    ],
+    [
+      "avec un sifflement (d'une bouilloire)"
+    ],
+    [
+      "assis et mendiant (d'un chien)"
+    ],
+    [
+      "maigre poisson noir juvénile"
+    ],
+    [
+      "jeu pour enfants où l'on saute sur une jambe"
+    ],
+    [
+      "très chaud (par exemple du thé) (dialecte d'Aichi)"
+    ],
+    [
+      "flirtation",
+      "caresses (obsolète)"
+    ],
+    [
+      "jalousie (obsolète)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

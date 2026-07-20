@@ -1,0 +1,12 @@
+{
+  "seq": 1006630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ayant fait cela",
+      "si l'on fait cela",
+      "si on fait ainsi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

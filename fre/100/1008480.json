@@ -1,0 +1,19 @@
+{
+  "seq": 1008480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traînassant",
+      "paresseux",
+      "fainéant"
+    ],
+    [
+      "flirteur",
+      "amoureux",
+      "fou d'amour",
+      "galant",
+      "courtisan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

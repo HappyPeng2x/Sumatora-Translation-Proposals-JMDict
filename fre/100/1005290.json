@@ -1,0 +1,11 @@
+{
+  "seq": 1005290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup de grâce en baseball qui termine le jeu",
+      "coup de grâce terminant le match de baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

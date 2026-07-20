@@ -1,0 +1,12 @@
+{
+  "seq": 1005010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corbeille à ordures",
+      "poubelle",
+      "bac à déchets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

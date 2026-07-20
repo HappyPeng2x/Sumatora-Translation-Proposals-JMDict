@@ -1,0 +1,17 @@
+{
+  "seq": 1005530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exactement",
+      "parfaitement",
+      "à la perfection"
+    ],
+    [
+      "s'adapter",
+      "correspondre",
+      "aller ensemble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

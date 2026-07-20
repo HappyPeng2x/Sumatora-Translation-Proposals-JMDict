@@ -1,0 +1,24 @@
+{
+  "seq": 1007810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ingérence",
+      "intervention",
+      "manœuvre amoureuse"
+    ],
+    [
+      "étendre la patte pour tirer quelque chose vers soi"
+    ],
+    [
+      "main",
+      "bras",
+      "poignet"
+    ],
+    [
+      "bras déformé",
+      "main déformée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

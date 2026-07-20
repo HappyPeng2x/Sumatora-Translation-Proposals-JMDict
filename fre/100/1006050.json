@@ -1,0 +1,17 @@
+{
+  "seq": 1006050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "légèrement et doucement",
+      "avec fluidité",
+      "en glissant"
+    ],
+    [
+      "sans difficulté",
+      "facilement",
+      "de manière fluide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

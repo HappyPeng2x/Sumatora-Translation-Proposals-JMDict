@@ -1,0 +1,19 @@
+{
+  "seq": 1004590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être décidé ainsi",
+      "avoir été convenu ainsi"
+    ],
+    [
+      "résulter de",
+      "être le résultat de"
+    ],
+    [
+      "être la raison de",
+      "être la cause de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

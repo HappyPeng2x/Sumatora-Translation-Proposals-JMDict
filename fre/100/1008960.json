@@ -1,0 +1,17 @@
+{
+  "seq": 1008960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ravi de faire votre connaissance",
+      "content de vous rencontrer"
+    ],
+    [
+      "mes salutations",
+      "mes respects",
+      "mes hommages",
+      "mes bonnes paroles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

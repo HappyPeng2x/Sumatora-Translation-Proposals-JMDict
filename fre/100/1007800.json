@@ -1,0 +1,27 @@
+{
+  "seq": 1007800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en petit pas",
+      "en marchant de manière rapide et courte"
+    ],
+    [
+      "agitéement",
+      "sans cesse",
+      "en mouvement constant"
+    ],
+    [
+      "facilement",
+      "rapidement",
+      "aisément"
+    ],
+    [
+      "fréquemment",
+      "souvent",
+      "de temps en temps",
+      "occasionnellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

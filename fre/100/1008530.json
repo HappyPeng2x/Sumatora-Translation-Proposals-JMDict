@@ -1,0 +1,27 @@
+{
+  "seq": 1008530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "et ainsi de suite",
+      "et autres choses du même genre",
+      "et cetera"
+    ],
+    [
+      "ou quelque chose du genre",
+      "quelque chose comme",
+      "quelque chose à peu près"
+    ],
+    [
+      "on dit que",
+      "on prétend que",
+      "on raconte que"
+    ],
+    [
+      "ou quelque chose",
+      "ou n'importe quoi",
+      "ou tout ce qui s'en approche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

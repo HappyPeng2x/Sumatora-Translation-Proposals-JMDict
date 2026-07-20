@@ -1,0 +1,24 @@
+{
+  "seq": 1010260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruissement",
+      "froufrou",
+      "battement"
+    ],
+    [
+      "désordonné",
+      "désaliéné",
+      "désordonné (cheveux, etc.)"
+    ],
+    [
+      "sec"
+    ],
+    [
+      "décisivement",
+      "avec un coup sec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

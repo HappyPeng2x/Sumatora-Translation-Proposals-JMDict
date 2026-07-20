@@ -1,0 +1,17 @@
+{
+  "seq": 1009910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collant",
+      "gluant"
+    ],
+    [
+      "persévérant",
+      "obstiné",
+      "tenace",
+      "désespérément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

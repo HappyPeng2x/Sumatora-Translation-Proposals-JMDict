@@ -1,0 +1,20 @@
+{
+  "seq": 1006320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mince",
+      "élancé",
+      "agile",
+      "souple"
+    ],
+    [
+      "facilement",
+      "sans difficulté",
+      "sans résistance",
+      "aisément",
+      "sans opposition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

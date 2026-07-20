@@ -1,0 +1,28 @@
+{
+  "seq": 1006000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lentement, mais de manière constante",
+      "progressivement",
+      "péniblement, pas à pas"
+    ],
+    [
+      "irrité, impatiemment"
+    ],
+    [
+      "brûlant (du soleil)"
+    ],
+    [
+      "sifflant (son des aliments qui frirent dans l'huile)"
+    ],
+    [
+      "son d'une cloche d'alarme, d'un réveil, etc."
+    ],
+    [
+      "qui s'écoule lentement (huile, sueur, etc.)",
+      "qui s'infiltre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1009970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parce que",
+      "puisque",
+      "car",
+      "donc",
+      "ainsi"
+    ],
+    [
+      "pour cette raison",
+      "ainsi",
+      "par conséquent",
+      "en conséquence",
+      "pour ce motif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

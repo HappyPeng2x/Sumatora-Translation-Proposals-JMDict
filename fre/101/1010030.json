@@ -1,0 +1,16 @@
+{
+  "seq": 1010030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme",
+      "de la même façon que",
+      "ressemblant à"
+    ],
+    [
+      "de la même manière que",
+      "ainsi que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

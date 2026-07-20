@@ -1,0 +1,14 @@
+{
+  "seq": 1008420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[exp, pol] semble ; je pense ; je crois ; je suppose",
+      "[exp, pol] semble ; je suppose ; je crois ; je pense"
+    ],
+    [
+      "[exp, pol] n'est-ce pas ? ; ne penses-tu pas ? ; n'est-ce pas vrai ? ; ne crois-tu pas ?"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

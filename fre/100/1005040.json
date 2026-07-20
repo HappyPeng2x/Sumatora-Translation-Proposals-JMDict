@@ -1,0 +1,11 @@
+{
+  "seq": 1005040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Je vous remercie de vos efforts",
+      "Je tiens à vous exprimer ma gratitude pour vos efforts"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

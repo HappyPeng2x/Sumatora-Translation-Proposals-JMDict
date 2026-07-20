@@ -1,0 +1,21 @@
+{
+  "seq": 1007700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "régulièrement",
+      "promptement"
+    ],
+    [
+      "le bruit des épées qui s'entrechoquent"
+    ],
+    [
+      "la queue de Mandchou"
+    ],
+    [
+      "chemise de kimono rembourrée",
+      "veste japonaise (souvent pour les enfants)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

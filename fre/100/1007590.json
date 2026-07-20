@@ -1,0 +1,13 @@
+{
+  "seq": 1007590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "progressivement",
+      "peu à peu",
+      "en petit comité",
+      "avec parcimonie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1010230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "galette de poisson écrabouillée",
+      "cylindre de poisson pressé"
+    ],
+    [
+      "moitié d'un ticket",
+      "reste d'un billet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

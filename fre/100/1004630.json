@@ -1,0 +1,12 @@
+{
+  "seq": 1004630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grâce à cela",
+      "parce que de cela",
+      "du fait de cela"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

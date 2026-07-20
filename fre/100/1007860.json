@@ -1,0 +1,15 @@
+{
+  "seq": 1007860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point",
+      "tache",
+      "marque"
+    ],
+    [
+      "musiciens gidayū"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

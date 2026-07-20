@@ -1,0 +1,22 @@
+{
+  "seq": 1004930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "difficulté",
+      "problème",
+      "conflit",
+      "querelle",
+      "désaccord",
+      "dissension"
+    ],
+    [
+      "confusion",
+      "désordre",
+      "bazar",
+      "embrouille",
+      "mélange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1008610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alors",
+      "si tel est le cas",
+      "si l'on considère que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

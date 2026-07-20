@@ -1,0 +1,17 @@
+{
+  "seq": 1009060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surpris",
+      "étonné",
+      "dans l'étonnement"
+    ],
+    [
+      "plaisanterie",
+      "farce",
+      "joke"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

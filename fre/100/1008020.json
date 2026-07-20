@@ -1,0 +1,16 @@
+{
+  "seq": 1008020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laisser (ouvert, inachevé, etc.)",
+      "laisser en l'état (impropre)"
+    ],
+    [
+      "faire continuellement",
+      "faire sans cesse",
+      "maintenir en train de ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

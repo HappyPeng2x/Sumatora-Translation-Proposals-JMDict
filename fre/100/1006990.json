@@ -1,0 +1,14 @@
+{
+  "seq": 1006990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "seulement cela",
+      "cela seul",
+      "rien de plus que cela",
+      "justement cela",
+      "pas plus que cela"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

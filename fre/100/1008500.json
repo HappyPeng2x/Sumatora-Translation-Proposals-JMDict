@@ -1,0 +1,17 @@
+{
+  "seq": 1008500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parce que ...",
+      "pour ...",
+      "la raison étant que ..."
+    ],
+    [
+      "quant à ...",
+      "lorsqu'il s'agit de ...",
+      "en ce qui concerne ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

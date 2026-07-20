@@ -1,0 +1,12 @@
+{
+  "seq": 1008240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tomber en avant",
+      "se précipiter en avant",
+      "s'écrouler en avant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

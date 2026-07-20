@@ -1,0 +1,22 @@
+{
+  "seq": 1008590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en tant que",
+      "du point de vue de"
+    ],
+    [
+      "en dehors de ...",
+      "en changeant de sujet"
+    ],
+    [
+      "même (avant une forme négative)"
+    ],
+    [
+      "pensant que ...",
+      "essayant de ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

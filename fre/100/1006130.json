@@ -1,0 +1,19 @@
+{
+  "seq": 1006130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fraîchement",
+      "avec soulagement",
+      "agréablement",
+      "comme un poids enlevé de l'épaule"
+    ],
+    [
+      "élégamment",
+      "sobrement",
+      "avec style",
+      "de manière raffinée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

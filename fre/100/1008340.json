@@ -1,0 +1,12 @@
+{
+  "seq": 1008340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être",
+      "se trouver en tant que",
+      "constituer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

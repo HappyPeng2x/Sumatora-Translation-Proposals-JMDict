@@ -1,0 +1,18 @@
+{
+  "seq": 1005250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soulagé",
+      "rassuré",
+      "détendu"
+    ],
+    [
+      "franc",
+      "direct",
+      "détendu",
+      "facile à vivre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

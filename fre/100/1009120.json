@@ -1,0 +1,11 @@
+{
+  "seq": 1009120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dosukoi",
+      "exclamation chantée par les lutteurs de sumo lors des divertissements supplémentaires d'un match de sumo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

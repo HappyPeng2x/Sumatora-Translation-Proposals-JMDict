@@ -1,0 +1,15 @@
+{
+  "seq": 1008860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être possible de dire",
+      "pouvoir dire"
+    ],
+    [
+      "avoir dit",
+      "dire (archaïque)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

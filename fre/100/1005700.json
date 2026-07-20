@@ -1,0 +1,16 @@
+{
+  "seq": 1005700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facile à faire",
+      "simple à faire"
+    ],
+    [
+      "enclin à faire",
+      "prone à faire",
+      "susceptible de faire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

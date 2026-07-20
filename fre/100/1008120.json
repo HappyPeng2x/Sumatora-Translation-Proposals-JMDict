@@ -1,0 +1,15 @@
+{
+  "seq": 1008120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pendant que",
+      "alors que"
+    ],
+    [
+      "malgré",
+      "bien que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

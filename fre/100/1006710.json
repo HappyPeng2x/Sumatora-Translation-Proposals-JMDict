@@ -1,0 +1,16 @@
+{
+  "seq": 1006710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aussi loin que cela",
+      "à ce point",
+      "jusqu'à ce degré"
+    ],
+    [
+      "arrêtez !",
+      "ne faites pas un pas de plus !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

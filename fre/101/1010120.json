@@ -1,0 +1,12 @@
+{
+  "seq": 1010120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ou",
+      "ou bien",
+      "ou alors"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1009180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "heigh-ho",
+      "heave-ho"
+    ],
+    [
+      "tiens !",
+      "un instant, s'il te plaît"
+    ],
+    [
+      "la-la (mot sans signification utilisé dans une chanson pour le rythme)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

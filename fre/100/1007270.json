@@ -1,0 +1,12 @@
+{
+  "seq": 1007270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque fois",
+      "chaque fois que",
+      "à chaque occasion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

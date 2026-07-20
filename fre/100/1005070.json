@@ -1,0 +1,12 @@
+{
+  "seq": 1005070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne vous inquiétez pas",
+      "aucune inquiétude nécessaire",
+      "ce n'est pas grave"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

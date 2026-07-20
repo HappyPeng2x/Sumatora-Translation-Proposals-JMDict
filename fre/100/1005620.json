@@ -1,0 +1,17 @@
+{
+  "seq": 1005620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hardiment",
+      "sans vergogne",
+      "froidement"
+    ],
+    [
+      "rapide",
+      "très rapide",
+      "fluide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

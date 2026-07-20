@@ -1,0 +1,12 @@
+{
+  "seq": 1008640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "petit poisson",
+      "petit oiseau",
+      "petit animal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

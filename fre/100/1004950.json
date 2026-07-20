@@ -1,0 +1,12 @@
+{
+  "seq": 1004950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu",
+      "jeu de rôle",
+      "improvisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

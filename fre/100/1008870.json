@@ -1,0 +1,12 @@
+{
+  "seq": 1008870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être appelé ...",
+      "être désigné ...",
+      "porter le nom de ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1009540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cicade Kaempfer",
+      "cicade Platypleura kaempferi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

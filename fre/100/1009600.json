@@ -1,0 +1,12 @@
+{
+  "seq": 1009600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pour",
+      "du point de vue de",
+      "concernant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

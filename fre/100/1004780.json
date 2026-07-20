@@ -1,0 +1,13 @@
+{
+  "seq": 1004780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(interjection) hey ! (pour réprimander ou reprocher)"
+    ],
+    [
+      "(interjection) hey ! (pour appeler quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

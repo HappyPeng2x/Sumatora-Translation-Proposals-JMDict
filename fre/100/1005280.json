@@ -1,0 +1,15 @@
+{
+  "seq": 1005280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méprisable",
+      "bas",
+      "vulgaire",
+      "ignoble",
+      "égoïste",
+      "avare"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1007600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "authentique",
+      "pur",
+      "de souche",
+      "véritable"
+    ],
+    [
+      "capable",
+      "doué",
+      "prometteur",
+      "de première qualité"
+    ],
+    [
+      "agréablement",
+      "sagement",
+      "d'un pas ferme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

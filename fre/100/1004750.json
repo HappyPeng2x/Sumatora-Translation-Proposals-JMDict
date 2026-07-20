@@ -1,0 +1,16 @@
+{
+  "seq": 1004750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cette zone",
+      "ici, autour d'ici"
+    ],
+    [
+      "ce point",
+      "cette quantité",
+      "cette mesure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

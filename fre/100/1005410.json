@@ -1,0 +1,12 @@
+{
+  "seq": 1005410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vois ce qui t'arrive",
+      "va voir ce qui t'arrive",
+      "tu en as vu de toutes les couleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

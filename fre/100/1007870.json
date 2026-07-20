@@ -1,0 +1,19 @@
+{
+  "seq": 1007870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de façon épars",
+      "en goutte à goutte"
+    ],
+    [
+      "à la hauteur de",
+      "aussi bon que"
+    ],
+    [
+      "marque de répétition verticale",
+      "signe d'itération vertical"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

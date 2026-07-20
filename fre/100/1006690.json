@@ -1,0 +1,23 @@
+{
+  "seq": 1006690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assez",
+      "raisonnablement",
+      "modérément",
+      "pas trop mal"
+    ],
+    [
+      "précipitamment",
+      "en hâte",
+      "à peine terminé"
+    ],
+    [
+      "environ",
+      "approximativement",
+      "autour de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

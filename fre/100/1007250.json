@@ -1,0 +1,14 @@
+{
+  "seq": 1007250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balbutiant",
+      "incertain",
+      "maladroit",
+      "tremblant",
+      "embarrassé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

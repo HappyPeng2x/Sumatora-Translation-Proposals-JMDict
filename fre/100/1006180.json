@@ -1,0 +1,17 @@
+{
+  "seq": 1006180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapide",
+      "agile",
+      "vif"
+    ],
+    [
+      "souple",
+      "malin",
+      "doux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

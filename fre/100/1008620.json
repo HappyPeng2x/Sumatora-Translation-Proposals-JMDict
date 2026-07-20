@@ -1,0 +1,21 @@
+{
+  "seq": 1008620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "absurde",
+      "extravagant",
+      "inconcevable",
+      "impossible",
+      "ridicule"
+    ],
+    [
+      "énorme",
+      "colossal",
+      "extraordinaire",
+      "monumental",
+      "démesuré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1007380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme on pouvait s'y attendre à partir de ...",
+      "puisque ...",
+      "étant donné que ..."
+    ],
+    [
+      "précisément parce que ...",
+      "d'autant plus parce que ... (lorsqu'il s'agit de résultats inattendus)"
+    ],
+    [
+      "à cause de ...",
+      "étant ce que c'est ..."
+    ],
+    [
+      "seulement pour ...",
+      "seulement en ...",
+      "seulement à ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

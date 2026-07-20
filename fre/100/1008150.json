@@ -1,0 +1,13 @@
+{
+  "seq": 1008150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "articulation",
+      "jonction",
+      "nœud",
+      "point de raccordement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

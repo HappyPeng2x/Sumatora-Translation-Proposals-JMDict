@@ -1,0 +1,17 @@
+{
+  "seq": 1009780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à propos de",
+      "sur",
+      "concernant",
+      "au sujet de"
+    ],
+    [
+      "par",
+      "pour chaque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

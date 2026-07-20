@@ -1,0 +1,14 @@
+{
+  "seq": 1004540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(pour quelque chose) s'être produit",
+      "(pour quelque chose) avoir été fait (après la forme du verbe au passé)"
+    ],
+    [
+      "(pour quelque chose) arriver de temps en temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

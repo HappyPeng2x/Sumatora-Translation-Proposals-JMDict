@@ -1,0 +1,28 @@
+{
+  "seq": 1004505,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ce côté",
+      "ici",
+      "dans ce sens"
+    ],
+    [
+      "la personne en question",
+      "lui",
+      "elle",
+      "le/la"
+    ],
+    [
+      "depuis (un moment dans le passé)",
+      "avant (un moment dans le futur)"
+    ],
+    [
+      "moi"
+    ],
+    [
+      "toi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

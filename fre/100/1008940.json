@@ -1,0 +1,11 @@
+{
+  "seq": 1008940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Quelle est la meilleure chose à faire ?",
+      "Que faire ?"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

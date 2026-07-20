@@ -1,0 +1,19 @@
+{
+  "seq": 1004940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désordonné",
+      "en désordre",
+      "confus",
+      "chaotique",
+      "embrouillé",
+      "mêlé"
+    ],
+    [
+      "de manière insistante",
+      "en se plaignant de diverses choses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

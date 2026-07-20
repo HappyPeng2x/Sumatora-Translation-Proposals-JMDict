@@ -1,0 +1,24 @@
+{
+  "seq": 1007140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tremblant",
+      "frissonnant",
+      "avoir froid"
+    ],
+    [
+      "frissonnant",
+      "effrayé",
+      "s'effrayer",
+      "avoir des frissons"
+    ],
+    [
+      "enthousiaste",
+      "excité",
+      "ravi",
+      "plein d'enthousiasme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

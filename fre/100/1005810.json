@@ -1,0 +1,16 @@
+{
+  "seq": 1005810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "persévérantement",
+      "de manière persistante"
+    ],
+    [
+      "lentement",
+      "hésitant",
+      "de manière irrésolue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

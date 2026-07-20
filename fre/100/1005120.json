@@ -1,0 +1,21 @@
+{
+  "seq": 1005120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "même",
+      "même (pour souligner l'insistance)"
+    ],
+    [
+      "seulement",
+      "juste",
+      "à condition que"
+    ],
+    [
+      "en plus",
+      "de plus",
+      "par-dessus le marché"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

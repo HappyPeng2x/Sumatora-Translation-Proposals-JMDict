@@ -1,0 +1,25 @@
+{
+  "seq": 1009470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "si",
+      "si c'est le cas",
+      "si cela est vrai"
+    ],
+    [
+      "quant à",
+      "en ce qui concerne"
+    ],
+    [
+      "si c'est le cas",
+      "dans ce cas",
+      "puisque c'est ainsi"
+    ],
+    [
+      "si possible",
+      "si les circonstances le permettent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

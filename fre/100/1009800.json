@@ -1,0 +1,13 @@
+{
+  "seq": 1009800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vers",
+      "contre",
+      "par rapport à",
+      "en contraste avec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

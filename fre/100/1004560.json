@@ -1,0 +1,17 @@
+{
+  "seq": 1004560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un bruit de cliquetis",
+      "avec un léger tintement",
+      "frapper (à une porte)"
+    ],
+    [
+      "à petite ébullition",
+      "en mijotant doucement",
+      "en bouillonnant légèrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

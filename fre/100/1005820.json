@@ -1,0 +1,18 @@
+{
+  "seq": 1005820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doucement",
+      "en douceur",
+      "sérieusement",
+      "intimement",
+      "profondément"
+    ],
+    [
+      "solennellement",
+      "tristement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

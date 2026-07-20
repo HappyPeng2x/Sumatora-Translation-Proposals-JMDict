@@ -1,0 +1,16 @@
+{
+  "seq": 1008600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "même si",
+      "même en supposant que"
+    ],
+    [
+      "aussi bien que",
+      "aussi ... que",
+      "même en tant que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

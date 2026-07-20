@@ -1,0 +1,12 @@
+{
+  "seq": 1007090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "depuis lors",
+      "depuis ce temps",
+      "dès lors"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1007210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de manière tremblante",
+      "avec hésitation",
+      "en tremblant",
+      "en étant submergé"
+    ],
+    [
+      "d'une manière vacillante",
+      "de façon titubante",
+      "de manière instable",
+      "en trébuchant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1007880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facile",
+      "simple",
+      "aisé"
+    ],
+    [
+      "simple d'esprit",
+      "naïf",
+      "évident (comme un piège)"
+    ],
+    [
+      "doux",
+      "laxiste",
+      "flasque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

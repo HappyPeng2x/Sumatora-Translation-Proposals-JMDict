@@ -1,0 +1,21 @@
+{
+  "seq": 1006150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complètement",
+      "entièrement",
+      "totally",
+      "résolument",
+      "décidément",
+      "sans hésitation"
+    ],
+    [
+      "nettement",
+      "d'un seul coup",
+      "clairement",
+      "sans ambiguïté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

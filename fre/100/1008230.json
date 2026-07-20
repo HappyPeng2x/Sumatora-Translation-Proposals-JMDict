@@ -1,0 +1,32 @@
+{
+  "seq": 1008230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distant",
+      "froid",
+      "désagréable",
+      "arrogant",
+      "détaché"
+    ],
+    [
+      "fort",
+      "intense",
+      "pénétrant",
+      "âcre"
+    ],
+    [
+      "pointu",
+      "hérissé",
+      "dressé",
+      "droit"
+    ],
+    [
+      "poussant",
+      "picorant",
+      "frappant",
+      "tâtonnant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

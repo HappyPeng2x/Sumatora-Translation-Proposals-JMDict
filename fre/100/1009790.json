@@ -1,0 +1,14 @@
+{
+  "seq": 1009790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en comparaison de",
+      "selon",
+      "en lumière de",
+      "d'après",
+      "en tenant compte de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

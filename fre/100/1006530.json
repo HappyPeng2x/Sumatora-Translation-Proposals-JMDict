@@ -1,0 +1,12 @@
+{
+  "seq": 1006530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans avoir fait",
+      "sans avoir accompli",
+      "sans avoir exécuté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1005490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pleurer doucement",
+      "sangloter",
+      "pleurer en silence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

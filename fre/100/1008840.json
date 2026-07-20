@@ -1,0 +1,12 @@
+{
+  "seq": 1008840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "c'est pourquoi",
+      "c'est ainsi",
+      "voilà pourquoi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

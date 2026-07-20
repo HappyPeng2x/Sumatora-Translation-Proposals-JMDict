@@ -1,0 +1,27 @@
+{
+  "seq": 1010170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un sursaut",
+      "en surprise"
+    ],
+    [
+      "soudain (realiser, se rappeler, etc.)",
+      "tout à coup"
+    ],
+    [
+      "en soufflant (de l'air)",
+      "avec un souffle"
+    ],
+    [
+      "soudain (d'un mouvement ou d'un changement)"
+    ],
+    [
+      "qui se distingue",
+      "qui est ostentatoire",
+      "qui est guindé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

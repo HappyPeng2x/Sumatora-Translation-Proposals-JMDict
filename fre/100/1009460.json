@@ -1,0 +1,13 @@
+{
+  "seq": 1009460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "delicatement",
+      "faiblement",
+      "doucement",
+      "souplement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

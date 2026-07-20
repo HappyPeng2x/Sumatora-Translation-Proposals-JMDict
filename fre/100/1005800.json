@@ -1,0 +1,17 @@
+{
+  "seq": 1005800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fatigué",
+      "épuisé"
+    ],
+    [
+      "pénible",
+      "fatigant",
+      "agaçant",
+      "préoccupant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

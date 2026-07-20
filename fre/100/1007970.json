@@ -1,0 +1,12 @@
+{
+  "seq": 1007970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jouer (clochette)",
+      "tinter",
+      "crépiter (eau bouillante)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

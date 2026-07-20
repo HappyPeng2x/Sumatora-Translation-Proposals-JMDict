@@ -1,0 +1,12 @@
+{
+  "seq": 1006200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devoir faire",
+      "doit faire",
+      "devrait faire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

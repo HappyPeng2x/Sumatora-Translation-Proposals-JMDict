@@ -1,0 +1,13 @@
+{
+  "seq": 1009920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans inquiétude",
+      "nonchalamment",
+      "sans vergogne",
+      "hardiment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

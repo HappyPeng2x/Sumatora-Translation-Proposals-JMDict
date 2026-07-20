@@ -1,0 +1,17 @@
+{
+  "seq": 1009640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "selon",
+      "d'après",
+      "par",
+      "grâce à",
+      "en raison de",
+      "par l'intermédiaire de",
+      "dans la mesure où",
+      "en dépendant de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

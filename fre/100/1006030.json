@@ -1,0 +1,17 @@
+{
+  "seq": 1006030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "progressivement",
+      "de manière progressive",
+      "d'une façon continue"
+    ],
+    [
+      "s'écouler lentement",
+      "s'égoutter",
+      "s'écaper peu à peu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1006500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "petit",
+      "mesquin",
+      "avare",
+      "avare",
+      "sournois",
+      "ruse"
+    ],
+    [
+      "mauvais",
+      "imparfait",
+      "maladroit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

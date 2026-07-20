@@ -1,0 +1,27 @@
+{
+  "seq": 1009550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à (un moment ou un lieu)",
+      "en",
+      "sur"
+    ],
+    [
+      "dans (une situation, un sujet, etc.)",
+      "sur (un point)",
+      "lorsqu'il s'agit de",
+      "concernant",
+      "au sujet de",
+      "en termes de",
+      "quant à",
+      "par rapport à"
+    ],
+    [
+      "du côté de",
+      "sous l'autorité de",
+      "au nom de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

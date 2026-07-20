@@ -1,0 +1,17 @@
+{
+  "seq": 1008850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en parlant de ...",
+      "lorsqu'il s'agit de ...",
+      "si l'on devait dire ..."
+    ],
+    [
+      "quand on parle de ...",
+      "comme on dit ...",
+      "si l'on disait ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

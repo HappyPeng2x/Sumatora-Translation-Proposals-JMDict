@@ -1,0 +1,22 @@
+{
+  "seq": 1005090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attention",
+      "précaution",
+      "vigilance"
+    ],
+    [
+      "soin",
+      "prudence",
+      "précaution"
+    ],
+    [
+      "avis",
+      "avertissement",
+      "méticuleuse attention"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

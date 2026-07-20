@@ -1,0 +1,21 @@
+{
+  "seq": 1007780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fréquemment",
+      "souvent",
+      "de temps en temps"
+    ],
+    [
+      "légèrement",
+      "doucement"
+    ],
+    [
+      "facilement",
+      "aisément",
+      "simplement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

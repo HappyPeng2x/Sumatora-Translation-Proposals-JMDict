@@ -1,0 +1,21 @@
+{
+  "seq": 1008320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "du tout",
+      "nullement",
+      "pas du tout",
+      "complètement",
+      "entièrement",
+      "absolument"
+    ],
+    [
+      "très",
+      "extrêmement",
+      "fortement",
+      "à un degré élevé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

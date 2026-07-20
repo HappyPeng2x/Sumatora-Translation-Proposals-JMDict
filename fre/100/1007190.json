@@ -1,0 +1,15 @@
+{
+  "seq": 1007190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extorsion",
+      "extorsion, chantage"
+    ],
+    [
+      "extorqueur",
+      "chanteur de corbeaux, racketteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

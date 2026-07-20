@@ -1,0 +1,27 @@
+{
+  "seq": 1005130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "croquant",
+      "craquant",
+      "moelleux (en pâtisserie)"
+    ],
+    [
+      "bruit de craquement",
+      "bruit sec (comme sur la neige, le givre, le sable)"
+    ],
+    [
+      "agir avec habileté et efficacité",
+      "agir rapidement",
+      "se dérouler sans difficulté"
+    ],
+    [
+      "bruit du liquide qui coule"
+    ],
+    [
+      "parler clairement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

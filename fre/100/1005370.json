@@ -1,0 +1,19 @@
+{
+  "seq": 1005370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en marchant sur la glace ; en faisant un bruit sec (ex. sur des graviers)"
+    ],
+    [
+      "en abondance, en quantité (ex. de pièces ou de bijoux)"
+    ],
+    [
+      "en coupant en morceaux larges ; en tissant de façon lâche"
+    ],
+    [
+      "larges (morceaux, points de couture, grains de sable, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

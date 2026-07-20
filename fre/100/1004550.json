@@ -1,0 +1,12 @@
+{
+  "seq": 1004550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pouvoir",
+      "être capable de",
+      "être possible de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

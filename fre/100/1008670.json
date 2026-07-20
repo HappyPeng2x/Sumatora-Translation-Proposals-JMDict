@@ -1,0 +1,33 @@
+{
+  "seq": 1008670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faucon noir",
+      "faucon migrateur"
+    ],
+    [
+      "ouvrier du bâtiment",
+      "charpentier",
+      "ouvrier de chantier"
+    ],
+    [
+      "grappin de feu",
+      "outil de lutte contre l'incendie"
+    ],
+    [
+      "rougeâtre",
+      "brun rougeâtre"
+    ],
+    [
+      "cape d'Inverness",
+      "manteau d'Inverness"
+    ],
+    [
+      "voleur",
+      "sournois",
+      "pickpocket"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

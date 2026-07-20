@@ -1,0 +1,17 @@
+{
+  "seq": 1010000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "non seulement ... mais aussi",
+      "non pas seulement",
+      "ainsi que"
+    ],
+    [
+      "de plus",
+      "en outre",
+      "par ailleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

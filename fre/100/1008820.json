@@ -1,0 +1,11 @@
+{
+  "seq": 1008820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "même en supposant que",
+      "même si l'on suppose que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

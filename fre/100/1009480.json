@@ -1,0 +1,19 @@
+{
+  "seq": 1009480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distinctif de",
+      "caractéristique de",
+      "propre à",
+      "spécifique à"
+    ],
+    [
+      "mais",
+      "excepté",
+      "sans",
+      "si ce n'était pas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

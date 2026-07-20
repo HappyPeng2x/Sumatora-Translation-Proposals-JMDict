@@ -1,0 +1,18 @@
+{
+  "seq": 1006650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "c'est vrai",
+      "c'est comme ça",
+      "ça me semble",
+      "ça me paraît"
+    ],
+    [
+      "on dit que",
+      "il est dit que",
+      "je crois que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

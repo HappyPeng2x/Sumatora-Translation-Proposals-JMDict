@@ -1,0 +1,15 @@
+{
+  "seq": 1007550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un peu",
+      "un tout petit peu"
+    ],
+    [
+      "un court moment",
+      "un peu de temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

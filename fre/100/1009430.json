@@ -1,0 +1,18 @@
+{
+  "seq": 1009430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à la légère",
+      "imprudemment",
+      "sans réfléchir",
+      "d'une manière insouciante"
+    ],
+    [
+      "inachevé",
+      "incomplet",
+      "à moitié fait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

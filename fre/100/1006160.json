@@ -1,0 +1,13 @@
+{
+  "seq": 1006160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laisser (quelque chose) inachevé",
+      "négliger (une responsabilité, une tâche, etc.)",
+      "rompre (une promesse, un rendez-vous, etc.)",
+      "faire attendre (quelqu'un) en ne se montrant pas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

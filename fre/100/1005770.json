@@ -1,0 +1,12 @@
+{
+  "seq": 1005770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir rauque",
+      "perdre sa voix",
+      "avoir la voix rauque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

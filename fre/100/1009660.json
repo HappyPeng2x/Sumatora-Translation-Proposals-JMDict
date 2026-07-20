@@ -1,0 +1,12 @@
+{
+  "seq": 1009660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par le biais de",
+      "en raison de",
+      "selon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

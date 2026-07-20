@@ -1,0 +1,13 @@
+{
+  "seq": 1008970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rien de particulier",
+      "rien de spécial",
+      "peu important",
+      "pas de quoi s'inquiéter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

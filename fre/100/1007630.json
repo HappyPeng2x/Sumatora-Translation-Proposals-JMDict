@@ -1,0 +1,17 @@
+{
+  "seq": 1007630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annulation",
+      "pardon",
+      "équilibre"
+    ],
+    [
+      "oubli",
+      "ignorer",
+      "faire comme si"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

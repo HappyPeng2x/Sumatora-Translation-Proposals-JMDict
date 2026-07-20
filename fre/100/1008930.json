@@ -1,0 +1,16 @@
+{
+  "seq": 1008930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "qu'est-ce qui ne va pas ?",
+      "qu'est-ce qui se passe ?"
+    ],
+    [
+      "qu'est-ce qui est arrivé à ... ?",
+      "où est ... ?",
+      "que lui as-tu fait ?"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1008470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détendu",
+      "paresseux",
+      "désinvolte"
+    ],
+    [
+      "amoureux",
+      "éperdu d'amour",
+      "ensorcelé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

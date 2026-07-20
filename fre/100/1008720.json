@@ -1,0 +1,17 @@
+{
+  "seq": 1008720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dire des choses sans importance",
+      "critiquer",
+      "être critique",
+      "reprocher",
+      "se plaindre",
+      "s'opposer",
+      "s'immiscer",
+      "intervenir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

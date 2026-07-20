@@ -1,0 +1,12 @@
+{
+  "seq": 1009710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en plus",
+      "par ailleurs",
+      "de plus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

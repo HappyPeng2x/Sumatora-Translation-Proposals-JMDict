@@ -1,0 +1,14 @@
+{
+  "seq": 1009930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lentement",
+      "d'un air lent",
+      "péniblement",
+      "avec lourdeur",
+      "d'un pas lourd"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1009940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Nozomi",
+      "service de Shinkansen Tōkaidō et Sanyō le plus rapide, s'arrêtant uniquement aux grandes gares"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

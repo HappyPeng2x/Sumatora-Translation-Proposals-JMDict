@@ -1,0 +1,13 @@
+{
+  "seq": 1007320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malgré tout",
+      "néanmoins",
+      "tout de même",
+      "pourtant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

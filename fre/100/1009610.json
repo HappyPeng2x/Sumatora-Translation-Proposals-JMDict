@@ -1,0 +1,19 @@
+{
+  "seq": 1009610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aussi",
+      "même",
+      "encore",
+      "même pas",
+      "même si"
+    ],
+    [
+      "peu importe",
+      "quoi qu'il en soit",
+      "même si l'on voudrait autrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1010130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nuisance pour les autres",
+      "inconvénient pour les autres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

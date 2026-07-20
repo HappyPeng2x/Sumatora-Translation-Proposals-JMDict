@@ -1,0 +1,15 @@
+{
+  "seq": 1005160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire faire (à quelqu'un)",
+      "obliger (quelqu'un) à faire"
+    ],
+    [
+      "laisser (quelqu'un) faire",
+      "permettre (à quelqu'un) de faire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1008350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "probablement",
+      "vraisemblablement",
+      "sans doute",
+      "je pense que",
+      "je crois que",
+      "il semble que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

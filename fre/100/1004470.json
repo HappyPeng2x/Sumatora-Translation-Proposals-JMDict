@@ -1,0 +1,23 @@
+{
+  "seq": 1004470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obsession",
+      "fixation",
+      "préoccupation",
+      "exigence",
+      "excentricité",
+      "manie"
+    ],
+    [
+      "plainte",
+      "critique"
+    ],
+    [
+      "spécialité",
+      "plats de prédilection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

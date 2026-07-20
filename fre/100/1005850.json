@@ -1,0 +1,19 @@
+{
+  "seq": 1005850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se débattre",
+      "trembler",
+      "agiter les membres",
+      "se débattre en vain"
+    ],
+    [
+      "faire un esclandre",
+      "faire un tapage",
+      "paniquer",
+      "faire une scène"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

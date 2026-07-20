@@ -1,0 +1,22 @@
+{
+  "seq": 1007990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "môme délinquant",
+      "gamin mal élevé",
+      "petit voyou",
+      "punk"
+    ],
+    [
+      "petit yakuza",
+      "membre de bas rang de la yakuza"
+    ],
+    [
+      "petit con",
+      "môme impertinent",
+      "brat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

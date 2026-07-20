@@ -1,0 +1,15 @@
+{
+  "seq": 1010250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "simplement parce que",
+      "à cause de"
+    ],
+    [
+      "comme si pour",
+      "comme si sur le point de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1009980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malgré",
+      "bien que",
+      "pourtant"
+    ],
+    [
+      "alors que",
+      "tandis que"
+    ],
+    [
+      "si seulement",
+      "j'aimerais que"
+    ],
+    [
+      "afin de",
+      "pour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

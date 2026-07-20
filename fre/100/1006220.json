@@ -1,0 +1,13 @@
+{
+  "seq": 1006220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, dérogatoire] femme vulgaire; sorcière; femme laide; chienne"
+    ],
+    [
+      "[n, hanaf] carte à 1 point; carte inutile (ancienne signification, faisant référence à la couleur des piques)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

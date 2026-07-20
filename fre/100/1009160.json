@@ -1,0 +1,16 @@
+{
+  "seq": 1009160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les deux",
+      "tous deux",
+      "les deux (deux choses ou personnes)"
+    ],
+    [
+      "ne...pas l'un ni l'autre",
+      "ni l'un ni l'autre (avec une phrase négative)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

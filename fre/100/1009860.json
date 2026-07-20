@@ -1,0 +1,15 @@
+{
+  "seq": 1009860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gluant",
+      "glissant"
+    ],
+    [
+      "lentement",
+      "avec lenteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

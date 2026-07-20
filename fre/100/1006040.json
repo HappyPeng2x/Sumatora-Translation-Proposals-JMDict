@@ -1,0 +1,17 @@
+{
+  "seq": 1006040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fraîchement",
+      "rafraîchissant",
+      "doux au goût"
+    ],
+    [
+      "bruit",
+      "sifflement",
+      "bruit de fuite d'air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

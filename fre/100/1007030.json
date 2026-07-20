@@ -1,0 +1,18 @@
+{
+  "seq": 1007030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en soi-même",
+      "tel quel",
+      "comme il convient",
+      "selon sa propre manière"
+    ],
+    [
+      "dans ses limites",
+      "selon ses capacités",
+      "dans les bornes de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1009850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à cause de",
+      "par suite de",
+      "en raison de"
+    ],
+    [
+      "à propos de",
+      "concernant",
+      "au sujet de"
+    ],
+    [
+      "par",
+      "pour chaque",
+      "à raison de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

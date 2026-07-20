@@ -1,0 +1,17 @@
+{
+  "seq": 1007390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "in",
+      "démodé",
+      "malhabillé",
+      "dépaysé",
+      "maladroit",
+      "pauvre",
+      "pathétique",
+      "triste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

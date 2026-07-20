@@ -1,0 +1,12 @@
+{
+  "seq": 1010010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se perdre dans",
+      "s'abandonner à",
+      "être complètement absorbé par"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1008920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quelle sorte de",
+      "quelle espèce de",
+      "quel genre de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

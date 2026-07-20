@@ -1,0 +1,16 @@
+{
+  "seq": 1005150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se fendre en fines lamelles",
+      "se fissurer",
+      "s'effilocher"
+    ],
+    [
+      "devenir irritable",
+      "se mettre en colère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

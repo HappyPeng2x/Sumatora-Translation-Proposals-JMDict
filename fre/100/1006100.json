@@ -1,0 +1,15 @@
+{
+  "seq": 1006100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vidé, vide complètement",
+      "absolument vide"
+    ],
+    [
+      "sans le sou",
+      "complètement ruiné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
