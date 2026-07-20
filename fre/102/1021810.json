@@ -1,0 +1,12 @@
+{
+  "seq": 1021810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spécialiste de la communication",
+      "consultant en relations publiques",
+      "chargé de créer une image favorable pour une campagne, un produit ou un candidat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

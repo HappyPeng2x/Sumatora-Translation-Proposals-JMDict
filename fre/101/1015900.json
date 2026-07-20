@@ -1,0 +1,12 @@
+{
+  "seq": 1015900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tracts",
+      "flyer",
+      "affiche propagandiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

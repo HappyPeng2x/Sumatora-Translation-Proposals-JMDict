@@ -1,0 +1,11 @@
+{
+  "seq": 1015880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agitateur",
+      "mélangeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

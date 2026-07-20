@@ -1,0 +1,11 @@
+{
+  "seq": 1017420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réaction allergique aiguë et grave",
+      "réaction anaphylactique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

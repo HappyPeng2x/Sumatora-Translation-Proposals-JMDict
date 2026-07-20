@@ -1,0 +1,19 @@
+{
+  "seq": 1018260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "approche (d'un problème, d'un sujet, etc.)"
+    ],
+    [
+      "approche (d'un saut en longueur, d'une trajectoire d'avion, etc.) ; entrée (d'un saut en ski)"
+    ],
+    [
+      "approche (d'un bâtiment, d'une montagne, etc.)"
+    ],
+    [
+      "frappe d'approche (au golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

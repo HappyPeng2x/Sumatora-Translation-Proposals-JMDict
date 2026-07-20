@@ -1,0 +1,11 @@
+{
+  "seq": 1020160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous le par",
+      "en dessous du par"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

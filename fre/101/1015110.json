@@ -1,0 +1,10 @@
+{
+  "seq": 1015110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contrôle artificiel de l'environnement pour les plantes et les animaux aquatiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

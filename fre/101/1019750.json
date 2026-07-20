@@ -1,0 +1,19 @@
+{
+  "seq": 1019750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adaptation",
+      "interprétation",
+      "arrangement (musical)",
+      "version modifiée"
+    ],
+    [
+      "organisation",
+      "disposition",
+      "préparation (d'un événement)",
+      "agencement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

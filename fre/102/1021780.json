@@ -1,0 +1,11 @@
+{
+  "seq": 1021780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enquête sur l'image",
+      "sondage d'image"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1015250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assistant technique",
+      "assistant de tournage"
+    ],
+    [
+      "vendeur d'accessoires automobiles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

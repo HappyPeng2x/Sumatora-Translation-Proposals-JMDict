@@ -1,0 +1,11 @@
+{
+  "seq": 1019960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "heure de rediffusion",
+      "slot de rediffusion télévisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

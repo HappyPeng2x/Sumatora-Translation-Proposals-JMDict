@@ -1,0 +1,12 @@
+{
+  "seq": 1021770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mascotte",
+      "ambassadeur de marque",
+      "figure de prédilection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

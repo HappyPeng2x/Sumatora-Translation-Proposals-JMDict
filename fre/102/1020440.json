@@ -1,0 +1,15 @@
+{
+  "seq": 1020440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Société des Artistes Indépendants",
+      "société artistique fondée en France en 1884 en opposition au Salon officiel"
+    ],
+    [
+      "exposition d'art sans jurés ni récompenses",
+      "exposition artistique non sélectionnée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

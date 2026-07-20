@@ -1,0 +1,11 @@
+{
+  "seq": 1017950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service après-vente",
+      "service de garantie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

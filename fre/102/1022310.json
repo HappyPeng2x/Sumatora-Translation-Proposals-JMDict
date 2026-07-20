@@ -1,0 +1,11 @@
+{
+  "seq": 1022310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "testeur en circuit",
+      "testeur de circuit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

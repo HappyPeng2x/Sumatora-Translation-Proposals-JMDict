@@ -1,0 +1,19 @@
+{
+  "seq": 1016390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attaque"
+    ],
+    [
+      "entreprise (d'une tâche difficile) ; prise en charge ; confrontation ; tentative ; essai"
+    ],
+    [
+      "assaut (contre un sommet)"
+    ],
+    [
+      "attaque (musique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

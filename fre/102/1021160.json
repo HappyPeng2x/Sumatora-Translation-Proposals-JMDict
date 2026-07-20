@@ -1,0 +1,14 @@
+{
+  "seq": 1021160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Royaume-Uni",
+      "Grande-Bretagne"
+    ],
+    [
+      "Angleterre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

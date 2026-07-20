@@ -1,0 +1,12 @@
+{
+  "seq": 1021830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement d'image",
+      "transformation d'image",
+      "make-up"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

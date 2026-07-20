@@ -1,0 +1,15 @@
+{
+  "seq": 1015230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accès",
+      "à un lieu, notamment en utilisant les transports en commun"
+    ],
+    [
+      "accès",
+      "à un site web, à des données, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

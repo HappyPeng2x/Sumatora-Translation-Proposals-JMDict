@@ -1,0 +1,15 @@
+{
+  "seq": 1022150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "revenu",
+      "issu",
+      "d'intérêts",
+      "ou",
+      "de",
+      "dividendes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1017240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adresse"
+    ],
+    [
+      "adresse (d'un document)"
+    ],
+    [
+      "adresse électronique"
+    ],
+    [
+      "adresse (dans le golf, le fait de pointer la balle avec le club)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

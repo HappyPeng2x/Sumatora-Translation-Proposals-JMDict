@@ -1,0 +1,12 @@
+{
+  "seq": 1015870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agitation",
+      "mouvement",
+      "agitation politique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1018990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autour",
+      "environnement",
+      "alentour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

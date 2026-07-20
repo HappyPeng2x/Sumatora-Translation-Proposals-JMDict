@@ -1,0 +1,20 @@
+{
+  "seq": 1019880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous-mondain",
+      "alternatif",
+      "expérimental",
+      "radical"
+    ],
+    [
+      "sous-terrain",
+      "illégal",
+      "non officiel",
+      "sombre",
+      "d'origine inconnue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

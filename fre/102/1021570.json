@@ -1,0 +1,16 @@
+{
+  "seq": 1021570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "initiales",
+      "lettre initiale"
+    ],
+    [
+      "initial",
+      "début",
+      "commencement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

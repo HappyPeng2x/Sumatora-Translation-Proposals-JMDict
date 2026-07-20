@@ -1,0 +1,15 @@
+{
+  "seq": 1021050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carte jaune",
+      "carton jaune (dans un match de football)"
+    ],
+    [
+      "certificat international de vaccination ou de prophylaxie",
+      "attestation internationale de vaccination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1015090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tendon d'Achille",
+      "tendon calcaneal"
+    ],
+    [
+      "point faible",
+      "faiblesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

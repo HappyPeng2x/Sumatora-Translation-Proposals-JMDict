@@ -1,0 +1,15 @@
+{
+  "seq": 1016200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "athlétisme",
+      "sports"
+    ],
+    [
+      "parcours d'obstacles",
+      "cours d'aventure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

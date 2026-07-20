@@ -1,0 +1,11 @@
+{
+  "seq": 1015240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps d'accès",
+      "durée pendant laquelle un système est accessible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

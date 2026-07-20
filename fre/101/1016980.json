@@ -1,0 +1,11 @@
+{
+  "seq": 1016980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annonce",
+      "publicité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

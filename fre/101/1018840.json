@@ -1,0 +1,15 @@
+{
+  "seq": 1018840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "américain",
+      "américaine"
+    ],
+    [
+      "café américain",
+      "café en goutte à goutte américain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

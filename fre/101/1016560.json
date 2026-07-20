@@ -1,0 +1,12 @@
+{
+  "seq": 1016560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à l'attaque",
+      "en attaque",
+      "au bâton"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

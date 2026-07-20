@@ -1,0 +1,12 @@
+{
+  "seq": 1021240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partenaire égal",
+      "collègue égal",
+      "partenaire de niveau équivalent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

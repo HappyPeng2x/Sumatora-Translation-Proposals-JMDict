@@ -1,0 +1,13 @@
+{
+  "seq": 1022320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "insertion"
+    ],
+    [
+      "insert (plan séquence inséré dans un film ou une vidéo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

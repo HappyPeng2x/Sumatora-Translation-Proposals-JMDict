@@ -1,0 +1,12 @@
+{
+  "seq": 1016590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup porté en diagonale vers le haut",
+      "frappe en diagonale ascendante",
+      "uppercut"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

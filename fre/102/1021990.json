@@ -1,0 +1,12 @@
+{
+  "seq": 1021990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "illégal",
+      "illégitime",
+      "interdit par la loi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

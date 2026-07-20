@@ -1,0 +1,12 @@
+{
+  "seq": 1019800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allouer",
+      "attribuer",
+      "affecter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

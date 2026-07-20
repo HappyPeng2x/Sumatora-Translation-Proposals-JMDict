@@ -1,0 +1,13 @@
+{
+  "seq": 1015430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "activation"
+    ],
+    [
+      "activation de produit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

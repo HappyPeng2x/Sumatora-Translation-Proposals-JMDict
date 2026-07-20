@@ -1,0 +1,12 @@
+{
+  "seq": 1017180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "publicitaire",
+      "homme des affaires",
+      "spécialiste de la publicité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1019490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Albireo",
+      "étoile dans la constellation du Cygne, aussi appelée Beta Cygni"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

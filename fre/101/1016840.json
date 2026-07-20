@@ -1,0 +1,14 @@
+{
+  "seq": 1016840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "atopique",
+      "prédisposition à l'allergie"
+    ],
+    [
+      "dermatite atopique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

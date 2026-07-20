@@ -1,0 +1,14 @@
+{
+  "seq": 1017940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soins postopératoires",
+      "suivi médical après la sortie de l'hôpital"
+    ],
+    [
+      "service après-vente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

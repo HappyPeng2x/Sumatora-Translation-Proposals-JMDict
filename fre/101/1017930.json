@@ -1,0 +1,15 @@
+{
+  "seq": 1017930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "après"
+    ],
+    [
+      "socialisation",
+      "sortie",
+      "rencontre sociale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

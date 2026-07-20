@@ -1,0 +1,17 @@
+{
+  "seq": 1020240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préfixe",
+      "anti-"
+    ],
+    [
+      "nom",
+      "détesteur",
+      "persona non grata",
+      "opposant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

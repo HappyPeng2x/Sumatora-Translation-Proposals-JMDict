@@ -1,0 +1,17 @@
+{
+  "seq": 1020070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous"
+    ],
+    [
+      "sous-exposition",
+      "développement insuffisant"
+    ],
+    [
+      "sous le par"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

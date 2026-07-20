@@ -1,0 +1,16 @@
+{
+  "seq": 1017130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avantage"
+    ],
+    [
+      "avantage (en sport, comme au football ou au rugby) ; règle de l'avantage"
+    ],
+    [
+      "avantage (en tennis)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

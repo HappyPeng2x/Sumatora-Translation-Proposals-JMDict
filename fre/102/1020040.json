@@ -1,0 +1,10 @@
+{
+  "seq": 1020040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prêt non garanti"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

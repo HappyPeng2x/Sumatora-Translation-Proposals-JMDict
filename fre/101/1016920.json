@@ -1,0 +1,12 @@
+{
+  "seq": 1016920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au hasard",
+      "aléatoire",
+      "arbitraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

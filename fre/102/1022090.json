@@ -1,0 +1,13 @@
+{
+  "seq": 1022090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "onze"
+    ],
+    [
+      "équipe (de onze joueurs ; spécialement en football)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

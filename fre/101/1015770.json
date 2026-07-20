@@ -1,0 +1,17 @@
+{
+  "seq": 1015770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assistance",
+      "aide",
+      "soutien"
+    ],
+    [
+      "passage",
+      "passe",
+      "dernière passe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1022290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avantage",
+      "position",
+      "avantage favorable"
+    ],
+    [
+      "lancer",
+      "balayage",
+      "lancer intérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

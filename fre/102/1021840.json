@@ -1,0 +1,11 @@
+{
+  "seq": 1021840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annuaire",
+      "livret d'annuaire scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

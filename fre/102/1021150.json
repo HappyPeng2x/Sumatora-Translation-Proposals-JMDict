@@ -1,0 +1,18 @@
+{
+  "seq": 1021150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fraîchement conservé",
+      "neuf",
+      "en bon état"
+    ],
+    [
+      "vif",
+      "énergique",
+      "plein de vie",
+      "animé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1019690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "array",
+      "ensemble",
+      "collection",
+      "séries"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

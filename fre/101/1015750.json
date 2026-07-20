@@ -1,0 +1,11 @@
+{
+  "seq": 1015750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assistant du directeur",
+      "assistant de direction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

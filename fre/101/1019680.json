@@ -1,0 +1,14 @@
+{
+  "seq": 1019680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alcoolisme"
+    ],
+    [
+      "alcoolique",
+      "ivrogne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

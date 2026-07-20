@@ -1,0 +1,12 @@
+{
+  "seq": 1017360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anachronisme",
+      "incohérence chronologique",
+      "erreur historique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1017730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "génération pré-1939",
+      "génération antérieure à la Seconde Guerre mondiale"
+    ],
+    [
+      "pensée artistique pré-1914",
+      "courant artistique antérieur à la Première Guerre mondiale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1019060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Arabe",
+      "pays arabes"
+    ],
+    [
+      "arabe (cheval)",
+      "arabe (cheval de race)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

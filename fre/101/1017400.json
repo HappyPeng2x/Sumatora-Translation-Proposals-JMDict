@@ -1,0 +1,11 @@
+{
+  "seq": 1017400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anathème",
+      "malediction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

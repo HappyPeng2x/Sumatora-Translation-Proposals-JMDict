@@ -1,0 +1,12 @@
+{
+  "seq": 1022220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "incrémental",
+      "progressif",
+      "par étapes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1017340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annonce",
+      "déclaration faite par haut-parleur"
+    ],
+    [
+      "annonce officielle",
+      "communiqué officiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1018750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système automatique de collecte de données météorologiques",
+      "réseau national de stations météorologiques automatiques gérées par l'Agence météorologique du Japon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

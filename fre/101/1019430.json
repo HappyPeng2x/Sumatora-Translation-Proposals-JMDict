@@ -1,0 +1,15 @@
+{
+  "seq": 1019430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "albatros (oiseau marin)",
+      "albatros (grand oiseau marin)"
+    ],
+    [
+      "albatros (score en golf)",
+      "double eagle (en golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

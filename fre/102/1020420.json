@@ -1,0 +1,15 @@
+{
+  "seq": 1020420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin vendant des spécialités locales d'autres régions",
+      "boutique proposant des produits typiques d'autres régions"
+    ],
+    [
+      "magasin de test pour des nouveaux produits",
+      "showroom (sens d'origine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

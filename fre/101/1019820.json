@@ -1,0 +1,13 @@
+{
+  "seq": 1019820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[int] aloha"
+    ],
+    [
+      "[n, abbr] chemise aloha"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

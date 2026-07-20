@@ -1,0 +1,16 @@
+{
+  "seq": 1016330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assemblage",
+      "réunion",
+      "congrès"
+    ],
+    [
+      "assemblage (linguistique)",
+      "construction (linguistique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

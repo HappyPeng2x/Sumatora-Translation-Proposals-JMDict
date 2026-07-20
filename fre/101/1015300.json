@@ -1,0 +1,18 @@
+{
+  "seq": 1015300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] composant électronique qui accélère le signal",
+      "[n] composant matériel qui accélère le traitement des données"
+    ],
+    [
+      "[n] accélérateur (de particules)"
+    ],
+    [
+      "[n] pédale d'accélérateur",
+      "[n] pédale de gaz"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1021060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "journalisme sensationnaliste",
+      "journalisme à sensation",
+      "journalisme de ragots"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

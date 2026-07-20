@@ -1,0 +1,20 @@
+{
+  "seq": 1018210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logiciel",
+      "application logicielle"
+    ],
+    [
+      "application",
+      "mise en œuvre"
+    ],
+    [
+      "demande",
+      "requête",
+      "pétition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

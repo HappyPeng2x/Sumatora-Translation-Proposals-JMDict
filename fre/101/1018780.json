@@ -1,0 +1,11 @@
+{
+  "seq": 1018780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "football américain",
+      "jeu de football originaire des États-Unis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

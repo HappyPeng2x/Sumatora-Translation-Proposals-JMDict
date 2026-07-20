@@ -1,0 +1,11 @@
+{
+  "seq": 1016730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attester (un score) dans le golf",
+      "signer (un score) dans le golf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

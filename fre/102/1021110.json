@@ -1,0 +1,11 @@
+{
+  "seq": 1021110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "journal (de presse) jaune",
+      "presse jaune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

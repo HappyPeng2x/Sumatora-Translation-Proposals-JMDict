@@ -1,0 +1,12 @@
+{
+  "seq": 1022140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "revenu",
+      "gain",
+      "entrée d'argent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

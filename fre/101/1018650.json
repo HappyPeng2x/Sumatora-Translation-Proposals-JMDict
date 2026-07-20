@@ -1,0 +1,12 @@
+{
+  "seq": 1018650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amour",
+      "affection",
+      "attachement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

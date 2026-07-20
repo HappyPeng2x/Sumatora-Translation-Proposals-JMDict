@@ -1,0 +1,11 @@
+{
+  "seq": 1017680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anonym",
+      "personne dont le nom n'est connu ou qui refuse de révéler son identité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

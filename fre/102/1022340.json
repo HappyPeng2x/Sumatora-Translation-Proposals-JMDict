@@ -1,0 +1,12 @@
+{
+  "seq": 1022340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "histoire interne",
+      "révélation interne",
+      "secret interne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

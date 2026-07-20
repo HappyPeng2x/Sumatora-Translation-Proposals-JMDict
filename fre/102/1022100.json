@@ -1,0 +1,11 @@
+{
+  "seq": 1022100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf",
+      "neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf virgule neuf (pourcentage)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

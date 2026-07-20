@@ -1,0 +1,11 @@
+{
+  "seq": 1016520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "test d'aptitude",
+      "épreuve d'aptitude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

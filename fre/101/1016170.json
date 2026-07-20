@@ -1,0 +1,12 @@
+{
+  "seq": 1016170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapport des dimensions",
+      "proportion des côtés",
+      "rapport largeur/hauteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

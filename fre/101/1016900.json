@@ -1,0 +1,13 @@
+{
+  "seq": 1016900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attirant",
+      "séduisant",
+      "séduisante",
+      "séduisant(e)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

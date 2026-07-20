@@ -1,0 +1,12 @@
+{
+  "seq": 1015700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affirmer",
+      "déclarer",
+      "prétendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1018130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abstrait"
+    ],
+    [
+      "art abstrait"
+    ],
+    [
+      "résumé",
+      "extrait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

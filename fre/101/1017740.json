@@ -1,0 +1,11 @@
+{
+  "seq": 1017740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aventure amoureuse",
+      "affaire d'amour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

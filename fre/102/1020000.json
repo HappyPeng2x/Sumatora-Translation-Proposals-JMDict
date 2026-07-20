@@ -1,0 +1,11 @@
+{
+  "seq": 1020000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se ligoter soi-même",
+      "s'attacher soi-même"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

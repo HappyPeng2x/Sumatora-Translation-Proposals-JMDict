@@ -1,0 +1,12 @@
+{
+  "seq": 1017600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "animation",
+      "film d'animation",
+      "dessin animé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

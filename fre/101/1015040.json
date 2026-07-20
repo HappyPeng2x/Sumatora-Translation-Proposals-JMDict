@@ -1,0 +1,15 @@
+{
+  "seq": 1015040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agapé"
+    ],
+    [
+      "fête de l'agapé",
+      "repas de l'agapé",
+      "repas de l'amour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

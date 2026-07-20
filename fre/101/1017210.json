@@ -1,0 +1,11 @@
+{
+  "seq": 1017210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "admission gratuite",
+      "entrée gratuite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

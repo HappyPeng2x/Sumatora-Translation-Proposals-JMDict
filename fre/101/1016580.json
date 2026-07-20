@@ -1,0 +1,21 @@
+{
+  "seq": 1016580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "supérieur",
+      "vers le haut"
+    ],
+    [
+      "partie supérieure (d'une chaussure)"
+    ],
+    [
+      "coup de poing vers le haut"
+    ],
+    [
+      "stimulant",
+      "drogue excitante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

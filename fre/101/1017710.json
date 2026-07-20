@@ -1,0 +1,17 @@
+{
+  "seq": 1017710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "approximatif",
+      "grossier",
+      "brutal"
+    ],
+    [
+      "paresseux",
+      "négligent",
+      "maladroit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

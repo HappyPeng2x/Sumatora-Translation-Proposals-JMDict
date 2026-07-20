@@ -1,0 +1,14 @@
+{
+  "seq": 1017980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "postrecording",
+      "post-synchronisation",
+      "doublage",
+      "remplacement automatique des dialogues",
+      "ADR"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

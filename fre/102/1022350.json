@@ -1,0 +1,11 @@
+{
+  "seq": 1022350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "football intérieur",
+      "baseball intérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

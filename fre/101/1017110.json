@@ -1,0 +1,15 @@
+{
+  "seq": 1017110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avance",
+      "mouvement en avant"
+    ],
+    [
+      "avance",
+      "paiement anticipé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
