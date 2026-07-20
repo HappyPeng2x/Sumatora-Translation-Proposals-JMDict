@@ -1,0 +1,12 @@
+{
+  "seq": 1074150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marché de troc",
+      "vente aux enchères de troc",
+      "foire de troc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

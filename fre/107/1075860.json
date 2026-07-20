@@ -1,0 +1,12 @@
+{
+  "seq": 1075860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match nul",
+      "match terminé par un égalité",
+      "partie à égalité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

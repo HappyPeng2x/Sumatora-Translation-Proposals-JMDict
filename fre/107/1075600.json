@@ -1,0 +1,10 @@
+{
+  "seq": 1075600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jour solaire (spécialement sur les planètes autres que la Terre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

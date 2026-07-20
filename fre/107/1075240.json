@@ -1,0 +1,11 @@
+{
+  "seq": 1075240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point zéro",
+      "origine (d'un système de coordonnées)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

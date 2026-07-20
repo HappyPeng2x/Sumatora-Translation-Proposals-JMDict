@@ -1,0 +1,20 @@
+{
+  "seq": 1074140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échange",
+      "transaction",
+      "échange de biens ou de services"
+    ],
+    [
+      "échange de mémoire",
+      "transfert de données entre la mémoire principale et secondaire"
+    ],
+    [
+      "échange de conjointes",
+      "pratique de partage de conjoint(e)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

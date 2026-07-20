@@ -1,0 +1,27 @@
+{
+  "seq": 1077380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "son d'une cloche",
+      "son de cloche",
+      "tintement",
+      "bruit de cloche"
+    ],
+    [
+      "son d'un nez qui coule",
+      "bruit de nez",
+      "snif"
+    ],
+    [
+      "cuisson au micro-ondes",
+      "chauffage au micro-ondes",
+      "faire cuire au micro-ondes"
+    ],
+    [
+      "pénis",
+      "organe génital masculin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

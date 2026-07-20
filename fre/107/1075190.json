@@ -1,0 +1,13 @@
+{
+  "seq": 1075190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, aliment] gelée; dessert en gelée; gélatine (pour dessert)"
+    ],
+    [
+      "[n] gel; gélatine; substance en gel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

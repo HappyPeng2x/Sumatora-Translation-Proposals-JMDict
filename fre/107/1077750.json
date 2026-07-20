@@ -1,0 +1,27 @@
+{
+  "seq": 1077750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfant",
+      "petit être",
+      "personnage mignon de manga ou d'animation"
+    ],
+    [
+      "nain",
+      "nain de jardin",
+      "dwarf"
+    ],
+    [
+      "animal de petite taille",
+      "chiot",
+      "petit animal"
+    ],
+    [
+      "usé",
+      "abîmé",
+      "érodé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1076050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marque-temps",
+      "empreinte temporelle"
+    ],
+    [
+      "machine à marquer le temps",
+      "appareil de tamponnage horaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

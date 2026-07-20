@@ -1,0 +1,11 @@
+{
+  "seq": 1076250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remorqueur",
+      "navire de remorquage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

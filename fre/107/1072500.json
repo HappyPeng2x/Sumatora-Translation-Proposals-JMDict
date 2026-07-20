@@ -1,0 +1,22 @@
+{
+  "seq": 1072500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rotation",
+      "tournant",
+      "mouvement de rotation"
+    ],
+    [
+      "spin",
+      "manipulation",
+      "déclaration orientée",
+      "message contrôlé"
+    ],
+    [
+      "marque-page en ruban",
+      "ruban de reliure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1072730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sprinteur",
+      "athlète spécialiste des courses de courte distance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

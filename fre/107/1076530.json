@@ -1,0 +1,11 @@
+{
+  "seq": 1076530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "camion-citerne",
+      "camion transporteur de liquides"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

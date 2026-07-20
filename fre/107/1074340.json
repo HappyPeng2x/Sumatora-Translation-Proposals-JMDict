@@ -1,0 +1,14 @@
+{
+  "seq": 1074340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ventes",
+      "activité de vente"
+    ],
+    [
+      "vendeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

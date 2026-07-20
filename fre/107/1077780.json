@@ -1,0 +1,25 @@
+{
+  "seq": 1077780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charge (électrique) ; recharge"
+    ],
+    [
+      "taxe ; frais"
+    ],
+    [
+      "recharge (carte de transport en commun sans contact) ; mise à niveau"
+    ],
+    [
+      "remplissage (carburant) ; ravitaillement"
+    ],
+    [
+      "charge (sport) ; assaut ; attaque"
+    ],
+    [
+      "charge (rugby) ; foncer sur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

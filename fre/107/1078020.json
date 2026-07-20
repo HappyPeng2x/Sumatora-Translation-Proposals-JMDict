@@ -1,0 +1,18 @@
+{
+  "seq": 1078020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise",
+      "tentative",
+      "effort",
+      "défi",
+      "affronter"
+    ],
+    [
+      "demande d'analyse vidéo",
+      "requête pour vérification par la vidéo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

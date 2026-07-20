@@ -1,0 +1,26 @@
+{
+  "seq": 1074590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "installation",
+      "montage",
+      "disposition"
+    ],
+    [
+      "organisation",
+      "préparation",
+      "mise en place"
+    ],
+    [
+      "décors",
+      "scène"
+    ],
+    [
+      "cadre",
+      "contexte",
+      "ambiance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

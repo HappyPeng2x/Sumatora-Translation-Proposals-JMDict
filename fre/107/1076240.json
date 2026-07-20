@@ -1,0 +1,24 @@
+{
+  "seq": 1076240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étiquette",
+      "marqueur",
+      "balise"
+    ],
+    [
+      "jeu de chat et souris"
+    ],
+    [
+      "match de catch par équipe",
+      "combat de catch en équipe"
+    ],
+    [
+      "collaboration",
+      "travail d'équipe",
+      "coopération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

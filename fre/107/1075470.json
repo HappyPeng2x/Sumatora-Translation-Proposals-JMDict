@@ -1,0 +1,17 @@
+{
+  "seq": 1075470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conseil",
+      "assemblée",
+      "instance",
+      "groupe",
+      "collectif"
+    ],
+    [
+      "Union soviétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

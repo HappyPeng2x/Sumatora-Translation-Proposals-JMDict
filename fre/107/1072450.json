@@ -1,0 +1,15 @@
+{
+  "seq": 1072450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spirituel",
+      "religieux"
+    ],
+    [
+      "spiritualité",
+      "chanson religieuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

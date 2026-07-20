@@ -1,0 +1,16 @@
+{
+  "seq": 1076500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réservoir",
+      "citerne",
+      "cuve"
+    ],
+    [
+      "char d'assaut",
+      "char"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

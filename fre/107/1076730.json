@@ -1,0 +1,15 @@
+{
+  "seq": 1076730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "régime alimentaire",
+      "régime"
+    ],
+    [
+      "perte de poids",
+      "amaigrissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,27 @@
+{
+  "seq": 1073730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glissade",
+      "en baseball"
+    ],
+    [
+      "glissière",
+      "de réglage (ex. volume)"
+    ],
+    [
+      "glissoire",
+      "dans un parc de jeux ou une piscine"
+    ],
+    [
+      "glissière",
+      "d'une fermeture éclair"
+    ],
+    [
+      "sandwich",
+      "en forme de glissière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

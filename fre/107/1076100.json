@@ -1,0 +1,12 @@
+{
+  "seq": 1076100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup décisif",
+      "coup qui permet de marquer un point",
+      "coup qui rapporte un but"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

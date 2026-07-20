@@ -1,0 +1,11 @@
+{
+  "seq": 1077940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chat",
+      "communication en temps réel sur Internet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

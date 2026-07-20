@@ -1,0 +1,14 @@
+{
+  "seq": 1074250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tissu",
+      "toile",
+      "tissu de chanvre",
+      "tissu de jute",
+      "tissu de sac"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

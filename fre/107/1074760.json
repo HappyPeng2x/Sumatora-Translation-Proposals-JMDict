@@ -1,0 +1,16 @@
+{
+  "seq": 1074760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vendeur",
+      "commercial"
+    ],
+    [
+      "cave",
+      "sous-sol",
+      "cellier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

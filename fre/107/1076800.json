@@ -1,0 +1,12 @@
+{
+  "seq": 1076800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dynamique",
+      "mouvement",
+      "action"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

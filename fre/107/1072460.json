@@ -1,0 +1,17 @@
+{
+  "seq": 1072460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alcool fort",
+      "boisson alcoolisée distillée"
+    ],
+    [
+      "esprit",
+      "âme",
+      "caractère",
+      "dynamisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1076990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réduction d'effectif",
+      "réduction de la taille"
+    ],
+    [
+      "passage des ordinateurs centraux aux ordinateurs personnels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

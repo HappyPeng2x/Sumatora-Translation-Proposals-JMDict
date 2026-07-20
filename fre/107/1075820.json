@@ -1,0 +1,20 @@
+{
+  "seq": 1075820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "virage",
+      "tournure",
+      "rotation"
+    ],
+    [
+      "ornement musical",
+      "tournure mélodique"
+    ],
+    [
+      "tour (dans un jeu)",
+      "manche (dans un jeu)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

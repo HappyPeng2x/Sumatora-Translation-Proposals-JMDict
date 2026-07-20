@@ -1,0 +1,17 @@
+{
+  "seq": 1076020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interruption",
+      "pause",
+      "moment de suspension"
+    ],
+    [
+      "délai",
+      "interruption temporaire",
+      "arrêt momentané"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

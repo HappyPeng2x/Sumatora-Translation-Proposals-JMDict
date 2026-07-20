@@ -1,0 +1,14 @@
+{
+  "seq": 1077760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "typhoïde",
+      "paratyphoïde"
+    ],
+    [
+      "typhus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

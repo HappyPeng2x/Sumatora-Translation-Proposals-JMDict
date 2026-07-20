@@ -1,0 +1,24 @@
+{
+  "seq": 1076340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "robinet",
+      "tuyau d'eau"
+    ],
+    [
+      "toucher",
+      "appuyer",
+      "cliquer",
+      "taper (sur un écran tactile)"
+    ],
+    [
+      "danse tap"
+    ],
+    [
+      "contact électrique",
+      "branchement électrique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

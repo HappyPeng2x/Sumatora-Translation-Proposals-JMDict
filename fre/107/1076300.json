@@ -1,0 +1,15 @@
+{
+  "seq": 1076300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pli",
+      "retrait",
+      "doublure"
+    ],
+    [
+      "tuck (plongeon, gymnastique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

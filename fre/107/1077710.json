@@ -1,0 +1,17 @@
+{
+  "seq": 1077710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "douloureux",
+      "piquant",
+      "piquant",
+      "démangeant"
+    ],
+    [
+      "raconter des ragots",
+      "colporter des commérages"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

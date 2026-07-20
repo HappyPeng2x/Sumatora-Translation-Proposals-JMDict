@@ -1,0 +1,11 @@
+{
+  "seq": 1077580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comptoir d'enregistrement",
+      "comptoir de check-in"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

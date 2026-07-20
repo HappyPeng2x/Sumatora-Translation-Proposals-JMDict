@@ -1,0 +1,12 @@
+{
+  "seq": 1073440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annonce publicitaire courte",
+      "annonce de courte durée",
+      "publicité courte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

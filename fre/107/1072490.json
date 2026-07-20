@@ -1,0 +1,14 @@
+{
+  "seq": 1072490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spirillé",
+      "spirillée"
+    ],
+    [
+      "Treponema pallidum"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

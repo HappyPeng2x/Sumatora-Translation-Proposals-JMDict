@@ -1,0 +1,19 @@
+{
+  "seq": 1072120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collants moulants",
+      "pantalons moulants"
+    ],
+    [
+      "spats",
+      "accessoire de chaussure"
+    ],
+    [
+      "gants de cuir",
+      "gaiters"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

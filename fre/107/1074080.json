@@ -1,0 +1,16 @@
+{
+  "seq": 1074080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement lent (en vidéo)",
+      "enregistrement en ralenti (vidéo)"
+    ],
+    [
+      "mouvement lent",
+      "marche lente",
+      "démarche nonchalante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

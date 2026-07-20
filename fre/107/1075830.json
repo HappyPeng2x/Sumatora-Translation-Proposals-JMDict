@@ -1,0 +1,19 @@
+{
+  "seq": 1075830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cravate",
+      "nœud (de cravate)"
+    ],
+    [
+      "nœud",
+      "égalité (dans un match)"
+    ],
+    [
+      "ligature (musique)",
+      "lien (musique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

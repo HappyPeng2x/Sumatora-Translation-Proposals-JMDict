@@ -1,0 +1,11 @@
+{
+  "seq": 1072390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lignes de vitesse",
+      "lignes tracées pour représenter le mouvement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

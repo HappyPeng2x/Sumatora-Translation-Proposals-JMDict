@@ -1,0 +1,22 @@
+{
+  "seq": 1074430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "deuxième"
+    ],
+    [
+      "deuxième base; joueur de deuxième base"
+    ],
+    [
+      "deuxième vitesse"
+    ],
+    [
+      "seconde (unité de temps)"
+    ],
+    [
+      "second (dans le boxe, etc.) ; assistant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

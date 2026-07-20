@@ -1,0 +1,12 @@
+{
+  "seq": 1075320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "triage",
+      "classification",
+      "sérialisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

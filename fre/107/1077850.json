@@ -1,0 +1,21 @@
+{
+  "seq": 1077850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séduire",
+      "charme",
+      "attrait"
+    ],
+    [
+      "ornement",
+      "bijou"
+    ],
+    [
+      "saveur",
+      "flair",
+      "caractère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

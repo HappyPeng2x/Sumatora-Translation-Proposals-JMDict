@@ -1,0 +1,12 @@
+{
+  "seq": 1077010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "téléchargement",
+      "action de télécharger",
+      "fichier téléchargé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

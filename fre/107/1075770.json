@@ -1,0 +1,15 @@
+{
+  "seq": 1075770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bâtiment de terminal (aéroport)",
+      "édifice terminal (aéroport)"
+    ],
+    [
+      "gare (chemins de fer)",
+      "terminal (chemins de fer)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

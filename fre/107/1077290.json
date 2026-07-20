@@ -1,0 +1,16 @@
+{
+  "seq": 1077290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décharge",
+      "déversoir",
+      "dépôt",
+      "déversement"
+    ],
+    [
+      "camion benne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1072070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spaghetti au sauce à la viande",
+      "spaghetti boloise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

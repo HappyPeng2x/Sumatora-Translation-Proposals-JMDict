@@ -1,0 +1,18 @@
+{
+  "seq": 1073010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spectacle",
+      "vue impressionnante",
+      "affichage frappant"
+    ],
+    [
+      "spectaculaire",
+      "œuvre spectaculaire",
+      "production à grande échelle",
+      "épique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

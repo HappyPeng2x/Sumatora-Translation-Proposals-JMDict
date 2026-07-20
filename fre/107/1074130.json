@@ -1,0 +1,17 @@
+{
+  "seq": 1074130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échange",
+      "de mémoire"
+    ],
+    [
+      "échange",
+      "de femmes",
+      "entre couples",
+      "dans le cadre du swing"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

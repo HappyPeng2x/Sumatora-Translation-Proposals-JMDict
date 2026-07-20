@@ -1,0 +1,19 @@
+{
+  "seq": 1073600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glace enrobée de chocolat sur un bâton"
+    ],
+    [
+      "boisson gazeuse appelée Smack"
+    ],
+    [
+      "drogue; héroïne"
+    ],
+    [
+      "sumac"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

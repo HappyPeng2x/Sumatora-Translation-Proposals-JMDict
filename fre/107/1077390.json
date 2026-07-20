@@ -1,0 +1,17 @@
+{
+  "seq": 1077390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "encouragement",
+      "soutien",
+      "encouragement verbal"
+    ],
+    [
+      "encadrement de la danse de l'encouragement",
+      "activité d'encouragement sportif",
+      "métier d'encourager les équipes sportives"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

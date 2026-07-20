@@ -1,0 +1,15 @@
+{
+  "seq": 1074040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lent",
+      "paresseux"
+    ],
+    [
+      "mouvement lent",
+      "image en mouvement lent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

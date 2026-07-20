@@ -1,0 +1,17 @@
+{
+  "seq": 1076970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doute",
+      "mensonge",
+      "bluff"
+    ],
+    [
+      "doute",
+      "impossible",
+      "mensonge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

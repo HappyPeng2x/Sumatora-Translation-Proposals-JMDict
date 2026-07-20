@@ -1,0 +1,20 @@
+{
+  "seq": 1077520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu de dames",
+      "jeu de billes (au Canada)"
+    ],
+    [
+      "motif à carreaux",
+      "motif en damier"
+    ],
+    [
+      "personne qui vérifie",
+      "appareil de vérification",
+      "contrôleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

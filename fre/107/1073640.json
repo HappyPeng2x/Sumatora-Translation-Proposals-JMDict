@@ -1,0 +1,11 @@
+{
+  "seq": 1073640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intervention monétaire",
+      "intervention sur le marché monétaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

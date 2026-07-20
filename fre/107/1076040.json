@@ -1,0 +1,11 @@
+{
+  "seq": 1076040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décalage temporel",
+      "déplacement temporel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

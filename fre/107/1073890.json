@@ -1,0 +1,15 @@
+{
+  "seq": 1073890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fente",
+      "entaille"
+    ],
+    [
+      "découpage en lanières",
+      "opération de découpage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

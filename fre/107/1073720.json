@@ -1,0 +1,22 @@
+{
+  "seq": 1073720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tranche",
+      "coup de ciseaux"
+    ],
+    [
+      "coup de tranchant",
+      "coup de biseau",
+      "détachement",
+      "découpage"
+    ],
+    [
+      "frappe arrière",
+      "frappe avec effet de rebond",
+      "frappe en tennis ou en ping-pong avec effet de rotation arrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

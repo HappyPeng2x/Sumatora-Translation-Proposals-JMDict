@@ -1,0 +1,16 @@
+{
+  "seq": 1072990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spéculations",
+      "spéculer",
+      "spéculation financière"
+    ],
+    [
+      "as de trèfle",
+      "as de pique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1072520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "verre à spin",
+      "matériau à spin-glass"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

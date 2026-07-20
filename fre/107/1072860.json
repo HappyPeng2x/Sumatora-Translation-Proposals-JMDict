@@ -1,0 +1,12 @@
+{
+  "seq": 1072860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vaisseau spatial",
+      "navire spatial",
+      "engin spatial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

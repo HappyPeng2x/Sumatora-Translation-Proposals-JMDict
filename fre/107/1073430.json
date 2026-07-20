@@ -1,0 +1,32 @@
+{
+  "seq": 1073430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tache",
+      "point",
+      "marque"
+    ],
+    [
+      "lieu",
+      "endroit",
+      "site"
+    ],
+    [
+      "piste d'atterrissage"
+    ],
+    [
+      "publicité à la télévision",
+      "annonce publicitaire courte"
+    ],
+    [
+      "actualité brève",
+      "nouvelle courte"
+    ],
+    [
+      "projecteur",
+      "spotlight"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

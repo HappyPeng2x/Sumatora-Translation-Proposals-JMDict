@@ -1,0 +1,15 @@
+{
+  "seq": 1077170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assurance",
+      "certitude"
+    ],
+    [
+      "point supplémentaire",
+      "course d'assurance (au baseball)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

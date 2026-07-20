@@ -1,0 +1,16 @@
+{
+  "seq": 1075880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étroit",
+      "serré",
+      "reserré"
+    ],
+    [
+      "jupe moulante",
+      "jupe droite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

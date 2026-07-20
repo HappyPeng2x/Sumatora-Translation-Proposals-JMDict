@@ -1,0 +1,20 @@
+{
+  "seq": 1076390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractère",
+      "touche"
+    ],
+    [
+      "onglet",
+      "onglet (d'une fenêtre)"
+    ],
+    [
+      "langue",
+      "bande",
+      "languette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

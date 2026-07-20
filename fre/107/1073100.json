@@ -1,0 +1,11 @@
+{
+  "seq": 1073100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unité spéciale",
+      "unité de mission spécifique (Russie, Union soviétique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

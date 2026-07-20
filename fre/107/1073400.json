@@ -1,0 +1,15 @@
+{
+  "seq": 1073400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "seringue à piston",
+      "goutte-à-goutte",
+      "plume d'écriture à encre en tube"
+    ],
+    [
+      "goutte-à-goutte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

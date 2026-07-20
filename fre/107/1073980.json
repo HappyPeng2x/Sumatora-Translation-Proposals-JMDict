@@ -1,0 +1,12 @@
+{
+  "seq": 1073980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débit",
+      "capacité de traitement",
+      "quantité traitée par unité de temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

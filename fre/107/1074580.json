@@ -1,0 +1,14 @@
+{
+  "seq": 1074580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "session"
+    ],
+    [
+      "session de jam",
+      "jam session"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

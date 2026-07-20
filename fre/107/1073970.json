@@ -1,0 +1,23 @@
+{
+  "seq": 1073970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ignorance",
+      "détour",
+      "laisser passer"
+    ],
+    [
+      "passage",
+      "traversée"
+    ],
+    [
+      "laisser le ballon passer à un coéquipier",
+      "faux pas"
+    ],
+    [
+      "balle qui traverse le filet et atterrit dans le camp adverse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

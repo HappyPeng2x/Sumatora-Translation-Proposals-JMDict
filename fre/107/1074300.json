@@ -1,0 +1,26 @@
+{
+  "seq": 1074300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "économie",
+      "restriction",
+      "modération",
+      "récupération",
+      "sauvegarde"
+    ],
+    [
+      "sauvegarder",
+      "protéger",
+      "préserver"
+    ],
+    [
+      "sauver",
+      "défendre",
+      "protéger",
+      "préserver",
+      "éviter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

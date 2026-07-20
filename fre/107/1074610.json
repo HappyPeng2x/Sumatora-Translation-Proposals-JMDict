@@ -1,0 +1,16 @@
+{
+  "seq": 1074610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "installation",
+      "mise en place",
+      "configuration initiale"
+    ],
+    [
+      "ensemble de vêtements coordonnés",
+      "tenue composée d'un haut et d'un bas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1074020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fil d'exécution"
+    ],
+    [
+      "sujet",
+      "discussion",
+      "message"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

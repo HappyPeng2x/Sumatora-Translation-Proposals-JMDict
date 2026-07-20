@@ -1,0 +1,26 @@
+{
+  "seq": 1072810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace",
+      "chambre",
+      "lieu"
+    ],
+    [
+      "espace",
+      "intervalle",
+      "distance"
+    ],
+    [
+      "espace",
+      "espace typographique"
+    ],
+    [
+      "espace",
+      "espace cosmique",
+      "l'espace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1076210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "emplacement de taxi",
+      "lieu où les taxis s'arrêtent pour prendre des passagers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

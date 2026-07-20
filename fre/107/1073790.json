@@ -1,0 +1,15 @@
+{
+  "seq": 1073790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "virgule",
+      "signe de ponctuation"
+    ],
+    [
+      "entaille",
+      "fente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

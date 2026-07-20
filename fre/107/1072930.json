@@ -1,0 +1,15 @@
+{
+  "seq": 1072930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pièce de rechange",
+      "pneu de rechange"
+    ],
+    [
+      "spare (jeu de quilles)",
+      "faire tomber toutes les quilles au deuxième lancer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

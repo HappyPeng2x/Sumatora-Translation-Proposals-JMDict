@@ -1,0 +1,20 @@
+{
+  "seq": 1077410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tsk",
+      "tut",
+      "darn",
+      "dang",
+      "mauvais sang",
+      "soupir de frustration"
+    ],
+    [
+      "chirper",
+      "tweeter",
+      "cri d'oiseau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

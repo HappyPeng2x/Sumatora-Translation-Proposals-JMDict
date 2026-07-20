@@ -1,0 +1,18 @@
+{
+  "seq": 1076090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ponctuel",
+      "bien choisi",
+      "à point",
+      "approprié"
+    ],
+    [
+      "coup décisif",
+      "coup de clutch",
+      "coup qui marque un point"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

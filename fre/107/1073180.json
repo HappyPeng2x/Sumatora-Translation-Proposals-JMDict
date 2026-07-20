@@ -1,0 +1,11 @@
+{
+  "seq": 1073180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "porte-parole",
+      "femme porte-parole"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

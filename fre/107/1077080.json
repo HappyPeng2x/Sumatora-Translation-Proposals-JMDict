@@ -1,0 +1,16 @@
+{
+  "seq": 1077080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dublage",
+      "mélange",
+      "reprise en studio"
+    ],
+    [
+      "copie",
+      "duplication (de bande audio)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1074410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "théorie"
+    ],
+    [
+      "procédé standard",
+      "stratégie courante",
+      "tactiques établies"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

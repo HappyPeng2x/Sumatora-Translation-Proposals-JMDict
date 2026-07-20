@@ -1,0 +1,11 @@
+{
+  "seq": 1076030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carte d'horaires",
+      "feuille de temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

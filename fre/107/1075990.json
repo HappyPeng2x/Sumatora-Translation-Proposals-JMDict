@@ -1,0 +1,21 @@
+{
+  "seq": 1075990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dispositif qui déclenche une action après un délai prédéfini",
+      "interrupteur temporel"
+    ],
+    [
+      "chronomètre"
+    ],
+    [
+      "personne qui mesure le temps"
+    ],
+    [
+      "dispositif de retardateur (photographie)",
+      "timer de retard (photographie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1073470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vérification ponctuelle",
+      "examen aléatoire",
+      "contrôle ponctuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

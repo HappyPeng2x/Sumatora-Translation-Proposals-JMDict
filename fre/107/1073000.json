@@ -1,0 +1,11 @@
+{
+  "seq": 1073000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spéculateur",
+      "spéculatrice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

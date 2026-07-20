@@ -1,0 +1,12 @@
+{
+  "seq": 1076220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tactique",
+      "stratagème",
+      "manœuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1074320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "uniforme de marin",
+      "costume de marin"
+    ],
+    [
+      "uniforme scolaire à deux pièces inspiré du costume de marin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
