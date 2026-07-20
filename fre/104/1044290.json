@@ -1,0 +1,12 @@
+{
+  "seq": 1044290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "artisan",
+      "ouvrier qualifié",
+      "maître artisan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

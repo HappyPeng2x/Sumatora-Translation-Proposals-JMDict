@@ -1,0 +1,20 @@
+{
+  "seq": 1041610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passerelle",
+      "passerelle étroite au-dessus d'une scène, le long d'un pont, etc."
+    ],
+    [
+      "aire de jeu pour chats",
+      "étagères pour chats",
+      "pont pour chats"
+    ],
+    [
+      "passerelle de mode",
+      "défilé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

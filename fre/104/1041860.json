@@ -1,0 +1,11 @@
+{
+  "seq": 1041860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système d'accès téléphonique par caractères et motifs",
+      "système CAPTAIN"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

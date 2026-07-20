@@ -1,0 +1,11 @@
+{
+  "seq": 1041710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "capacité électrique",
+      "capacité de stockage d'électricité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

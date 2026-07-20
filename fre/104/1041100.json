@@ -1,0 +1,15 @@
+{
+  "seq": 1041100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rabat (argent versé en contrepartie d'une facilitation de transaction)",
+      "commission secrète"
+    ],
+    [
+      "rejet soudain",
+      "recul brusque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1042480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tueur",
+      "détruit",
+      "annihilateur",
+      "défaiteur"
+    ],
+    [
+      "séducteur",
+      "séductrice",
+      "tentateur",
+      "tentatrice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1045270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réclamation (pour compensation)",
+      "plainte client visant une compensation"
+    ],
+    [
+      "plainte",
+      "objection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

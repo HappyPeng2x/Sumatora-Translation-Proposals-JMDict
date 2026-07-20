@@ -1,0 +1,15 @@
+{
+  "seq": 1042110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service à la bougie (dans une église)",
+      "cérémonie lumineuse dans une église"
+    ],
+    [
+      "cérémonie lors d'une réception de mariage où la mariée et le marié allument une bougie à chaque table",
+      "rituel de mariage avec allumage de bougies à chaque table"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

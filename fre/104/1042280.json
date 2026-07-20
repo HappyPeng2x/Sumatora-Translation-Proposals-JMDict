@@ -1,0 +1,13 @@
+{
+  "seq": 1042280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "queue (billard, baby-foot)"
+    ],
+    [
+      "queue (musique, théâtre, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

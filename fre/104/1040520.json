@@ -1,0 +1,15 @@
+{
+  "seq": 1040520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "galère (navire de l'époque maritime)",
+      "galère (navire historique)"
+    ],
+    [
+      "cuisine d'un navire ou d'un avion",
+      "cuisine sur un vaisseau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

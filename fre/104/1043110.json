@@ -1,0 +1,15 @@
+{
+  "seq": 1043110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeune femme suivant un style vestimentaire particulier, souvent caractérisé par des cheveux teints et des vêtements colorés"
+    ],
+    [
+      "jeune fille",
+      "fille",
+      "jeune femme (dans un contexte familier ou colloquial)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

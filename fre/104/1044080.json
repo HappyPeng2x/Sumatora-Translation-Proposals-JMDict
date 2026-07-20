@@ -1,0 +1,12 @@
+{
+  "seq": 1044080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "action collective",
+      "action en groupe",
+      "action de classe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

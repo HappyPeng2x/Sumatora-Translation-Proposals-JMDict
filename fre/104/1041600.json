@@ -1,0 +1,15 @@
+{
+  "seq": 1041600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pierre précieuse ressemblant à l'œil d'un chat",
+      "pierre semi-précieuse appelée œil de chat"
+    ],
+    [
+      "disque réfléchissant utilisé sur les routes",
+      "boule réfléchissante placée sur les chaussées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

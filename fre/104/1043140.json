@@ -1,0 +1,15 @@
+{
+  "seq": 1043140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course rapide",
+      "marche rapide",
+      "allure rapide"
+    ],
+    [
+      "danse en galop"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

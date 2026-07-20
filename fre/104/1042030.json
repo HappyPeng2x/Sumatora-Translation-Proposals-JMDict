@@ -1,0 +1,11 @@
+{
+  "seq": 1042030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson festive",
+      "chanson de Noël"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1039530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise",
+      "société"
+    ],
+    [
+      "groupe d'amis",
+      "compagnie (d'amis)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

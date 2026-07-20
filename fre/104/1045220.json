@@ -1,0 +1,13 @@
+{
+  "seq": 1045220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fou",
+      "dément",
+      "insensé",
+      "hystérique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1040830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gardien de but",
+      "gardien",
+      "buteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

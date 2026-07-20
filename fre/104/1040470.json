@@ -1,0 +1,13 @@
+{
+  "seq": 1040470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Gulliver"
+    ],
+    [
+      "exemple remarquable de son espèce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

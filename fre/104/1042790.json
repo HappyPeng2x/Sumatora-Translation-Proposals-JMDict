@@ -1,0 +1,11 @@
+{
+  "seq": 1042790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement de vitesse",
+      "changement de rapport de vitesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

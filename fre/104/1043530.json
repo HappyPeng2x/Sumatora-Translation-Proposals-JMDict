@@ -1,0 +1,11 @@
+{
+  "seq": 1043530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement rapide",
+      "dans le baseball, mouvement de glissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

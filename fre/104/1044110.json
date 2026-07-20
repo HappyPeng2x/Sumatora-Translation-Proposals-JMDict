@@ -1,0 +1,16 @@
+{
+  "seq": 1044110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regroupement (d'un ensemble d'ordinateurs)",
+      "agrégation (d'un groupe d'ordinateurs)"
+    ],
+    [
+      "clustering",
+      "analyse en groupes",
+      "analyse de regroupement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1040400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "verrières",
+      "glacage"
+    ],
+    [
+      "transparence",
+      "ouverture",
+      "manque de secret",
+      "ouverture à l'examen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

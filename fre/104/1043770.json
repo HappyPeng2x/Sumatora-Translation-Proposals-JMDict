@@ -1,0 +1,11 @@
+{
+  "seq": 1043770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuisine",
+      "préparation des aliments"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

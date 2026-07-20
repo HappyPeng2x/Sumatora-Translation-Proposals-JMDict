@@ -1,0 +1,16 @@
+{
+  "seq": 1043980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couronne (ornement sur la tête)"
+    ],
+    [
+      "couronne dentaire"
+    ],
+    [
+      "couronne (ancienne monnaie britannique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

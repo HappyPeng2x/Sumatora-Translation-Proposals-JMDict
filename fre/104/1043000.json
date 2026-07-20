@@ -1,0 +1,13 @@
+{
+  "seq": 1043000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gimmick",
+      "astuce",
+      "ruse",
+      "truc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

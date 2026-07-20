@@ -1,0 +1,21 @@
+{
+  "seq": 1042250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "promotion commerciale",
+      "campagne publicitaire"
+    ],
+    [
+      "campagne (électorale, sociale, etc.)",
+      "mouvement",
+      "sensibilisation",
+      "collecte de fonds",
+      "recrutement"
+    ],
+    [
+      "campagne militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

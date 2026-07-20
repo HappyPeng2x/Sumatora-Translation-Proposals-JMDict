@@ -1,0 +1,16 @@
+{
+  "seq": 1045430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Kremlin (citadelle de Moscou)"
+    ],
+    [
+      "Kremlin ; gouvernement russe ; (ancien) gouvernement soviétique"
+    ],
+    [
+      "Kremlin (citadelle d'une ville russe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

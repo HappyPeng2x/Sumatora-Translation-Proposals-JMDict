@@ -1,0 +1,17 @@
+{
+  "seq": 1041830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caption",
+      "légende",
+      "soustitre",
+      "légende d'une image"
+    ],
+    [
+      "sous-titres",
+      "sous-titres (d'un film ou d'une émission de télévision)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

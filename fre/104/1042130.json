@@ -1,0 +1,17 @@
+{
+  "seq": 1042130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toile",
+      "support en toile",
+      "matériau de peinture"
+    ],
+    [
+      "base",
+      "fondation",
+      "support"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

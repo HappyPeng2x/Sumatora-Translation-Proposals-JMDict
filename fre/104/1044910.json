@@ -1,0 +1,15 @@
+{
+  "seq": 1044910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clic (de souris)",
+      "action de cliquer avec la souris"
+    ],
+    [
+      "clic (son)",
+      "bruit sec et court"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

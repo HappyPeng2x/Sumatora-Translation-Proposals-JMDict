@@ -1,0 +1,15 @@
+{
+  "seq": 1040020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "robe",
+      "tenue élégante"
+    ],
+    [
+      "peignoir",
+      "robe de chambre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1039800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "l'étude des déchets humains, notamment pour en déduire des informations sur les habitudes de vie d'une communauté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

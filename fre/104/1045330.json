@@ -1,0 +1,28 @@
+{
+  "seq": 1045330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crédit"
+    ],
+    [
+      "vente à crédit; vente en mensualités"
+    ],
+    [
+      "carte de crédit"
+    ],
+    [
+      "crédits (d'un film, d'une émission de télévision, etc.)"
+    ],
+    [
+      "attribution de crédits (à un créateur, à un titulaire de droits d'auteur, etc.)"
+    ],
+    [
+      "crédit d'émission; crédit carbone"
+    ],
+    [
+      "jeton de crédit (par exemple pour une machine à sous)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1043420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coulomb"
+    ],
+    [
+      "cron (tâche informatique exécutée à un moment précis)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

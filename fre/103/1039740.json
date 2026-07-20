@@ -1,0 +1,12 @@
+{
+  "seq": 1039740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garde de sécurité",
+      "gardien de sécurité",
+      "agent de sécurité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

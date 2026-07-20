@@ -1,0 +1,19 @@
+{
+  "seq": 1043440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reine"
+    ],
+    [
+      "reine (cartes)"
+    ],
+    [
+      "reine (pièce d'échecs)"
+    ],
+    [
+      "reine (titre féminin le plus élevé pour les joueuses dans le karuta compétitif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

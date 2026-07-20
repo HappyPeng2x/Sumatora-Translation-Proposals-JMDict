@@ -1,0 +1,13 @@
+{
+  "seq": 1041940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caravane"
+    ],
+    [
+      "groupe de personnes voyageant pour vendre, enquêter, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

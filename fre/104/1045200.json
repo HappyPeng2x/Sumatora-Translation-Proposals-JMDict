@@ -1,0 +1,14 @@
+{
+  "seq": 1045200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argile"
+    ],
+    [
+      "tir à l'argile",
+      "cible en argile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

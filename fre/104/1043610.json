@@ -1,0 +1,15 @@
+{
+  "seq": 1043610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quart",
+      "quartier",
+      "quart de quelque chose"
+    ],
+    [
+      "personne ayant un grand-parent non japonais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

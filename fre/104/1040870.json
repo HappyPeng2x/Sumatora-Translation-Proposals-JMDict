@@ -1,0 +1,27 @@
+{
+  "seq": 1040870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garder",
+      "maintenir",
+      "conserver"
+    ],
+    [
+      "réserver",
+      "garder (pour quelqu'un)"
+    ],
+    [
+      "garder (le ballon)",
+      "conserver (la possession)"
+    ],
+    [
+      "garder le service"
+    ],
+    [
+      "ami(e) en perspective",
+      "personne en attente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

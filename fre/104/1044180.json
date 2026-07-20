@@ -1,0 +1,19 @@
+{
+  "seq": 1044180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "biscuit",
+      "craquelein"
+    ],
+    [
+      "pétard",
+      "boum-boum"
+    ],
+    [
+      "personne qui fait des blagues",
+      "farceur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

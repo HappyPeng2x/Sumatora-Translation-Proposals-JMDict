@@ -1,0 +1,14 @@
+{
+  "seq": 1040900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaîne de clés",
+      "collier de clés"
+    ],
+    [
+      "anneau de chiffrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

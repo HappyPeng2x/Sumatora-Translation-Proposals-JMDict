@@ -1,0 +1,28 @@
+{
+  "seq": 1044090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe",
+      "amas",
+      "ensemble"
+    ],
+    [
+      "amas",
+      "groupe",
+      "ensemble"
+    ],
+    [
+      "unité d'allocation d'espace disque"
+    ],
+    [
+      "groupe d'ordinateurs"
+    ],
+    [
+      "claque",
+      "faction",
+      "groupe de fans"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

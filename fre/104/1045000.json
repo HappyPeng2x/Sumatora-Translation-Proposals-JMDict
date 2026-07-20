@@ -1,0 +1,13 @@
+{
+  "seq": 1045000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clinique"
+    ],
+    [
+      "atelier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

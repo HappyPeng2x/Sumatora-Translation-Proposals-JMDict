@@ -1,0 +1,22 @@
+{
+  "seq": 1043380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frais",
+      "doux (en couleur)",
+      "lumineux (en couleur)"
+    ],
+    [
+      "calme",
+      "froid (dans le comportement)",
+      "impassible"
+    ],
+    [
+      "à la mode",
+      "élégant",
+      "stylish"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

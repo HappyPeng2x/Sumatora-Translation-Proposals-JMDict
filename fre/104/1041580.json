@@ -1,0 +1,15 @@
+{
+  "seq": 1041580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "receveur (au baseball)",
+      "le joueur qui capte les balles lancées par le lanceur"
+    ],
+    [
+      "receveur",
+      "personne ou dispositif qui capte quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

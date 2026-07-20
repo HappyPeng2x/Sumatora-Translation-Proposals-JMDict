@@ -1,0 +1,36 @@
+{
+  "seq": 1044620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clair",
+      "transparent"
+    ],
+    [
+      "le passage",
+      "l'effacement",
+      "le franchissement (d'un obstacle)"
+    ],
+    [
+      "le surmontage",
+      "l'accomplissement",
+      "la résolution",
+      "le dépassement",
+      "l'atteinte (d'un standard)"
+    ],
+    [
+      "le passage (du ballon)",
+      "l'élimination (du ballon)"
+    ],
+    [
+      "le marquage (d'une case)",
+      "l'effacement (d'un élément)"
+    ],
+    [
+      "le passage (d'un niveau)",
+      "la finition (d'un jeu)",
+      "le franchissement (d'un niveau)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

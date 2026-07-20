@@ -1,0 +1,12 @@
+{
+  "seq": 1042760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "créateur d'un roi",
+      "personne qui permet à quelqu'un d'atteindre le pouvoir",
+      "personne qui influence le choix d'un roi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

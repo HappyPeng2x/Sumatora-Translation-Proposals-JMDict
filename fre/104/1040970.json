@@ -1,0 +1,17 @@
+{
+  "seq": 1040970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mot-clé",
+      "phrase-clé",
+      "indice"
+    ],
+    [
+      "mot-clé",
+      "terme de recherche",
+      "terme d'indexation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

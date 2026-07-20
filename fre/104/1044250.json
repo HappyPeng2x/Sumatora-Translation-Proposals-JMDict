@@ -1,0 +1,11 @@
+{
+  "seq": 1044250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur de baseball qui entre en jeu dans des situations critiques pour marquer des points",
+      "joueur de baseball qui entre en jeu dans des situations cruciales pour inverser la situation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

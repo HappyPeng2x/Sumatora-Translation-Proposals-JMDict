@@ -1,0 +1,16 @@
+{
+  "seq": 1040990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fruit du kiwi",
+      "kiwi",
+      "pomme de kiwi"
+    ],
+    [
+      "kiwi (oiseau)",
+      "oiseau kiwi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

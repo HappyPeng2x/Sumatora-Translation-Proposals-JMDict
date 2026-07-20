@@ -1,0 +1,15 @@
+{
+  "seq": 1042980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plâtre (dans un moule)",
+      "attelle en plâtre"
+    ],
+    [
+      "gypse",
+      "plâtre de Paris"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

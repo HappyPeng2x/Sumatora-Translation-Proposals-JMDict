@@ -1,0 +1,15 @@
+{
+  "seq": 1044470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déformation progressive d'un solide sous l'effet d'une contrainte",
+      "déformation lente d'un matériau solide sous pression"
+    ],
+    [
+      "marche au ralenti d'une voiture à transmission automatique",
+      "vitesse de ralenti d'un véhicule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

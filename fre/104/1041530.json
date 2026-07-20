@@ -1,0 +1,32 @@
+{
+  "seq": 1041530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récupération",
+      "obtention",
+      "réception",
+      "captation"
+    ],
+    [
+      "action de recevoir une balle",
+      "récupération (au baseball)"
+    ],
+    [
+      "vendeur ambulant",
+      "personne qui attire les clients"
+    ],
+    [
+      "action de saisir l'eau",
+      "mouvement de capture dans l'eau"
+    ],
+    [
+      "receveur (au baseball)"
+    ],
+    [
+      "attente d'appel",
+      "service d'attente de communication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

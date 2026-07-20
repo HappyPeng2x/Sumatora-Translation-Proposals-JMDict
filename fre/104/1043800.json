@@ -1,0 +1,11 @@
+{
+  "seq": 1043800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuisinier",
+      "personne qui cuisine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

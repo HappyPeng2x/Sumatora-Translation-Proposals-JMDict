@@ -1,0 +1,12 @@
+{
+  "seq": 1039840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chasse à la fille",
+      "recherche d'une copine",
+      "tentative de séduire une fille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1041980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carrière",
+      "métier"
+    ],
+    [
+      "histoire personnelle",
+      "expérience professionnelle"
+    ],
+    [
+      "fonctionnaire",
+      "employé du gouvernement ayant réussi l'examen administratif national le plus élevé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

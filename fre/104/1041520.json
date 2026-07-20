@@ -1,0 +1,11 @@
+{
+  "seq": 1041520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "château",
+      "forteresse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

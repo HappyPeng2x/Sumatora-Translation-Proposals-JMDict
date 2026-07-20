@@ -1,0 +1,24 @@
+{
+  "seq": 1041370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distribution des rôles dans un film, une pièce de théâtre, etc.",
+      "membre du casting",
+      "rôle"
+    ],
+    [
+      "action de jeter une ligne de pêche",
+      "lancer (une ligne de pêche)"
+    ],
+    [
+      "traitement audio ou vidéo",
+      "enregistrement (audio, vidéo, etc.)"
+    ],
+    [
+      "choix de type (police, etc.)",
+      "sélection de type"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

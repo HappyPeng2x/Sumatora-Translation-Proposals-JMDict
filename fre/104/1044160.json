@@ -1,0 +1,11 @@
+{
+  "seq": 1044160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moyens de communication utilisés dans une classe",
+      "supports pédagogiques utilisés en classe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

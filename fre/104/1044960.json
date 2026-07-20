@@ -1,0 +1,16 @@
+{
+  "seq": 1044960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "critique",
+      "décisif",
+      "déterminant"
+    ],
+    [
+      "frappe critique",
+      "coup critique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

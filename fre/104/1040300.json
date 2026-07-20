@@ -1,0 +1,12 @@
+{
+  "seq": 1040300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corde",
+      "corde de gut",
+      "matériau de gut utilisé pour les raquettes de tennis, les cordes de violon, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

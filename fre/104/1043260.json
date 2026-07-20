@@ -1,0 +1,15 @@
+{
+  "seq": 1043260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fou",
+      "bizarre"
+    ],
+    [
+      "cookie",
+      "biscuit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

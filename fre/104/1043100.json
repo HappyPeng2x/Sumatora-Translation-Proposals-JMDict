@@ -1,0 +1,20 @@
+{
+  "seq": 1043100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "galerie",
+      "couloir"
+    ],
+    [
+      "galerie d'art"
+    ],
+    [
+      "galerie supérieure (dans un théâtre)"
+    ],
+    [
+      "spectateurs (surtout lors d'un tournoi de golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

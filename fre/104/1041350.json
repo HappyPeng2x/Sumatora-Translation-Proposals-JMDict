@@ -1,0 +1,13 @@
+{
+  "seq": 1041350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vote de barrage"
+    ],
+    [
+      "équilibre des forces (dans une assemblée, détenu par un parti minoritaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1039550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "document officiel d'une entreprise",
+      "document interne d'une entreprise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

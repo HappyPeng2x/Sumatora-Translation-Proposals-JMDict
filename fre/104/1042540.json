@@ -1,0 +1,12 @@
+{
+  "seq": 1042540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chrétien",
+      "croyant chrétien",
+      "personne pratiquant le christianisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

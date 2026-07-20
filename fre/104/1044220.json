@@ -1,0 +1,17 @@
+{
+  "seq": 1044220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collision",
+      "choc",
+      "accident"
+    ],
+    [
+      "collision",
+      "choc",
+      "écrasement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1043500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapide"
+    ],
+    [
+      "quickstep"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

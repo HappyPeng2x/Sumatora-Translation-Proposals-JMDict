@@ -1,0 +1,18 @@
+{
+  "seq": 1043060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace",
+      "ouverture",
+      "interruption"
+    ],
+    [
+      "différence",
+      "déséquilibre",
+      "désaccord",
+      "désunion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
