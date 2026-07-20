@@ -1,0 +1,11 @@
+{
+  "seq": 1103820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson qui connaît un grand succès",
+      "chanson populaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

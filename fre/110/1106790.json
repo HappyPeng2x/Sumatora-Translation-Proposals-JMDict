@@ -1,0 +1,15 @@
+{
+  "seq": 1106790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lancer (dans le baseball)",
+      "action de lancer (dans le baseball)"
+    ],
+    [
+      "mouvement de bascule (d'un navire, d'un avion, etc.)",
+      "inclinaison (d'un navire, d'un avion, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

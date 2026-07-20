@@ -1,0 +1,11 @@
+{
+  "seq": 1106730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manœuvre de pickoff",
+      "action de pickoff dans un jeu de baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

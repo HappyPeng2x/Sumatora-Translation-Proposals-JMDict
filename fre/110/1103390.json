@@ -1,0 +1,12 @@
+{
+  "seq": 1103390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuisine",
+      "armoire de cuisine",
+      "réserve de cuisine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

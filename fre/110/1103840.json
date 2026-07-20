@@ -1,0 +1,12 @@
+{
+  "seq": 1103840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hit parade",
+      "liste des chansons populaires",
+      "palmarès musical"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

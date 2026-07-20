@@ -1,0 +1,23 @@
+{
+  "seq": 1102580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en quantité modérée, de façon épars",
+      "qui tombe en gouttes isolées, comme la pluie ou le sel"
+    ],
+    [
+      "feuilleter rapidement, tourner les pages",
+      "parcourir (un livre) en feuilletant"
+    ],
+    [
+      "dispersé, épars",
+      "rare, sporadique"
+    ],
+    [
+      "craquant, friable (comme le tofu ou le fromage)",
+      "non collant (comme le riz)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

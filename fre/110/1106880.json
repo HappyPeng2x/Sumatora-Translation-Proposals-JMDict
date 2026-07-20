@@ -1,0 +1,15 @@
+{
+  "seq": 1106880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "puritan",
+      "membre d'une secte chrétienne calviniste du XVIe siècle"
+    ],
+    [
+      "puritain",
+      "personne qui prône une vie morale rigoureuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

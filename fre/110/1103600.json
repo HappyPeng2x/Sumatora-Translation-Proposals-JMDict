@@ -1,0 +1,13 @@
+{
+  "seq": 1103600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] talon (de chaussure)"
+    ],
+    [
+      "[n, prowres] talon; méchant; comédien jouant des rôles de vilain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

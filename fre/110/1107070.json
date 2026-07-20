@@ -1,0 +1,20 @@
+{
+  "seq": 1107070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire tilt",
+      "comprendre immédiatement",
+      "prendre conscience",
+      "voir clair",
+      "saisir sur-le-champ"
+    ],
+    [
+      "toucher une corde sensible",
+      "faire résonner",
+      "impressionner",
+      "atteindre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

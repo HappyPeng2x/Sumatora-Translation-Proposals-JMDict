@@ -1,0 +1,12 @@
+{
+  "seq": 1106720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service de ramassage",
+      "service de prise en charge",
+      "service de collecte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

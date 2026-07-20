@@ -1,0 +1,11 @@
+{
+  "seq": 1104430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "génération du beat",
+      "génération des beatniks"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

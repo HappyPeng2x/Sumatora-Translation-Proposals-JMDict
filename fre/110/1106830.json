@@ -1,0 +1,19 @@
+{
+  "seq": 1106830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trou",
+      "fosse"
+    ],
+    [
+      "fosse",
+      "trou",
+      "cavité"
+    ],
+    [
+      "fosse de piste de bowling"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

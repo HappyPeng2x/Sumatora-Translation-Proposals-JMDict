@@ -1,0 +1,11 @@
+{
+  "seq": 1105700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service préalable à la vente",
+      "conseil destiné à un client potentiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

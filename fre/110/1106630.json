@@ -1,0 +1,11 @@
+{
+  "seq": 1106630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tarte aux pommes de terre",
+      "pâté de pommes de terre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

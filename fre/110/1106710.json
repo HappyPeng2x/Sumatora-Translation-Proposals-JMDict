@@ -1,0 +1,24 @@
+{
+  "seq": 1106710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pique",
+      "plectre"
+    ],
+    [
+      "pioche à glace"
+    ],
+    [
+      "pioche"
+    ],
+    [
+      "pique (d'une pioche à glace)"
+    ],
+    [
+      "outil pour déverrouiller une serrure",
+      "serrure-pique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

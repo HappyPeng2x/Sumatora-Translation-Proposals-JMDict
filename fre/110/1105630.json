@@ -1,0 +1,13 @@
+{
+  "seq": 1105630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être en retard (en points, buts, etc.) ; être en arrière ; déficit"
+    ],
+    [
+      "être en retard sur l'horaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

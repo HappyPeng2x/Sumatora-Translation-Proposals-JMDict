@@ -1,0 +1,12 @@
+{
+  "seq": 1104800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vêtements de travail",
+      "habits de travail",
+      "tenue professionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1104730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "piece du jeu d'échecs"
+    ],
+    [
+      "évêque (chrétien)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

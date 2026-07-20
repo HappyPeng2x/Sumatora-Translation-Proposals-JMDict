@@ -1,0 +1,11 @@
+{
+  "seq": 1106800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "machine de lancer des balles",
+      "machine à lancer des balles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

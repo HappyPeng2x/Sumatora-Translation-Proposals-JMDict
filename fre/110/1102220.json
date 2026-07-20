@@ -1,0 +1,16 @@
+{
+  "seq": 1102220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] performance (dans le domaine de la musique, de la danse, du théâtre)"
+    ],
+    [
+      "[n] geste spectaculaire, action feinte, mise en scène, façon de se comporter pour impressionner"
+    ],
+    [
+      "[n] rendement (d'un ordinateur, d'une voiture, d'un investissement, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

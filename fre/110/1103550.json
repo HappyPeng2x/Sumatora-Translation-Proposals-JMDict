@@ -1,0 +1,15 @@
+{
+  "seq": 1103550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaleur"
+    ],
+    [
+      "chauffage",
+      "échauffement",
+      "excitation croissante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1105480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enregistreur de bande vidéo",
+      "enregistreur de bande vidéo (VTR)"
+    ],
+    [
+      "enregistreur de cassette vidéo",
+      "enregistreur de cassette vidéo (VCR)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

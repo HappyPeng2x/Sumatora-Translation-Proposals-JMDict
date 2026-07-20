@@ -1,0 +1,12 @@
+{
+  "seq": 1104130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "documentaire sur la vie de quelqu'un",
+      "document humain",
+      "document personnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

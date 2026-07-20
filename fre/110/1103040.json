@@ -1,0 +1,11 @@
+{
+  "seq": 1103040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "centrale électrique",
+      "usine de production d'énergie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1104450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Vénus (déesse)",
+      "Vénus (déesse romaine)"
+    ],
+    [
+      "Vénus (planète)",
+      "Vénus (deuxième planète du système solaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

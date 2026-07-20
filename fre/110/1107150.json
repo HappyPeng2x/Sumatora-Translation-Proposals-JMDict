@@ -1,0 +1,11 @@
+{
+  "seq": 1107150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travailleur du secteur des services",
+      "personne travaillant dans le secteur des services"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

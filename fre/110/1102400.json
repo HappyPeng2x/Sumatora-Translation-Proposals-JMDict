@@ -1,0 +1,16 @@
+{
+  "seq": 1102400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poivron",
+      "poivron doux",
+      "capsicum"
+    ],
+    [
+      "paprika",
+      "épice paprika"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1103500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "des chapelures",
+      "du panko"
+    ],
+    [
+      "de la farine de blé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

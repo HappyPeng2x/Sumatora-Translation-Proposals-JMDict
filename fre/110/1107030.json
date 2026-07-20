@@ -1,0 +1,15 @@
+{
+  "seq": 1107030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pastille",
+      "comprimé"
+    ],
+    [
+      "pilule contraceptive",
+      "pilule anti-conceptionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1106700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sélection de commandes (prélèvement de marchandises dans un entrepôt pour satisfaire les commandes des clients)"
+    ],
+    [
+      "démontage de serrures (action de déverrouiller une serrure sans la clé)"
+    ],
+    [
+      "pincement (technique utilisée pour jouer une guitare, un banjo, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1104590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ball (in baseball) thrown with a lot of movement, making it difficult to hit",
+      "balle (en baseball) lancée avec beaucoup de mouvement, difficile à frapper"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

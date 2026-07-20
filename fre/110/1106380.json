@@ -1,0 +1,11 @@
+{
+  "seq": 1106380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pianica",
+      "melodica"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

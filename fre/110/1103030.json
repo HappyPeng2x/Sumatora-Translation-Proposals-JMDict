@@ -1,0 +1,11 @@
+{
+  "seq": 1103030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "direction assistée par puissance",
+      "direction assistée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

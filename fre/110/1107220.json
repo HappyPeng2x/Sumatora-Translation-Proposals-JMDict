@@ -1,0 +1,18 @@
+{
+  "seq": 1107220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "situation critique",
+      "moment difficile",
+      "crise",
+      "embarras",
+      "problème urgent"
+    ],
+    [
+      "pinces à linge",
+      "agrafeuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

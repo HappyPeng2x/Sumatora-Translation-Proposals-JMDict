@@ -1,0 +1,15 @@
+{
+  "seq": 1102610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "antenne parabolique",
+      "reflecteur parabolique",
+      "assiette parabolique"
+    ],
+    [
+      "parabole (courbe plane)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

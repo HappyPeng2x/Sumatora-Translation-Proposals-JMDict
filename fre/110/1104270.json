@@ -1,0 +1,16 @@
+{
+  "seq": 1104270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "héroïne",
+      "personnage féminin principal d'un récit"
+    ],
+    [
+      "héroïne",
+      "femme héroïque",
+      "femme courageuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

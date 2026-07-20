@@ -1,0 +1,13 @@
+{
+  "seq": 1105350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bidet"
+    ],
+    [
+      "fonction de bidet (pour le nettoyage des organes génitaux féminins)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

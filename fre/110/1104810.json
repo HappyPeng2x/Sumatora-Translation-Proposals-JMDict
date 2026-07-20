@@ -1,0 +1,11 @@
+{
+  "seq": 1104810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "automatisation du commerce",
+      "automatisation des affaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1103220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup de poing",
+      "frapper avec le poing"
+    ],
+    [
+      "perforation",
+      "perceuse à trou",
+      "outil pour faire des trous"
+    ],
+    [
+      "boisson alcoolisée",
+      "mélange alcoolisé"
+    ],
+    [
+      "impact",
+      "effet puissant",
+      "force",
+      "poussée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

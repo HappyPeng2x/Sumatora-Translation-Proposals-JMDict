@@ -1,0 +1,11 @@
+{
+  "seq": 1106130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu de société où les joueurs marquent des cases sur une carte en fonction de numéros tirés au hasard",
+      "jeu de hasard populaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1102570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paranoïa",
+      "trouble mental caractérisé par une méfiance excessive et des idées fixes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

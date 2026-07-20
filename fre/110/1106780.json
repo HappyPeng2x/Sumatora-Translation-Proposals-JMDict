@@ -1,0 +1,16 @@
+{
+  "seq": 1106780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lancer (en baseball)",
+      "joueur qui lance la balle (en baseball)"
+    ],
+    [
+      "récipient",
+      "jarre",
+      "bottle (contenant)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

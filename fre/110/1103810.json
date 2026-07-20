@@ -1,0 +1,12 @@
+{
+  "seq": 1103810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attaque rapide",
+      "manœuvre rapide",
+      "action rapide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

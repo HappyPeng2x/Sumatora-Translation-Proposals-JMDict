@@ -1,0 +1,11 @@
+{
+  "seq": 1105380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ingénieur du cinéma",
+      "ingénieur en vidéo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

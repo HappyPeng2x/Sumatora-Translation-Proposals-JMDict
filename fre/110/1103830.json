@@ -1,0 +1,11 @@
+{
+  "seq": 1103830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charte des succès",
+      "classement des chansons populaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

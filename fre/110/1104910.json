@@ -1,0 +1,12 @@
+{
+  "seq": 1104910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hôtel d'affaires",
+      "hôtel économique destiné aux voyageurs d'affaires",
+      "hôtel de passage pour les commercants"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

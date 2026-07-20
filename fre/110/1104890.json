@@ -1,0 +1,12 @@
+{
+  "seq": 1104890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen d'entrée à une école de commerce",
+      "test d'admission à une école de commerce",
+      "examen GMAT"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

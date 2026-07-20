@@ -1,0 +1,12 @@
+{
+  "seq": 1105930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bureau",
+      "bureaucratie",
+      "administration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

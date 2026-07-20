@@ -1,0 +1,20 @@
+{
+  "seq": 1103640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écoute",
+      "compréhension orale"
+    ],
+    [
+      "entretien",
+      "enquête",
+      "vérification de détails",
+      "audience"
+    ],
+    [
+      "audience publique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1102600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paraphrase",
+      "réécriture",
+      "formulation alternative"
+    ],
+    [
+      "arrangement",
+      "version réinterprétée",
+      "mise en musique alternative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1105680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être facilement effrayé",
+      "perdre son courage",
+      "lâche",
+      "poule mouillée",
+      "chien battu"
+    ],
+    [
+      "chatter (vibration indésirable dans les outils de machine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

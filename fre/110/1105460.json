@@ -1,0 +1,13 @@
+{
+  "seq": 1105460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "œuvre audiovisuelle (sur bande vidéo, DVD, etc.)",
+      "support vidéo (enregistré)",
+      "support média vidéo (physique)",
+      "vidéogramme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

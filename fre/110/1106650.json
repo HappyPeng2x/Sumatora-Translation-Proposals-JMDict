@@ -1,0 +1,19 @@
+{
+  "seq": 1106650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vélo à transmission fixe"
+    ],
+    [
+      "piste (d'escrime) ; bande"
+    ],
+    [
+      "piste de ski"
+    ],
+    [
+      "piste d'atterrissage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

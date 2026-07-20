@@ -1,0 +1,12 @@
+{
+  "seq": 1104010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "humaniste",
+      "relatif à l'humanisme",
+      "d'inspiration humaniste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

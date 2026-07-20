@@ -1,0 +1,15 @@
+{
+  "seq": 1104750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "visiteur",
+      "personne venue rendre visite"
+    ],
+    [
+      "équipe visiteuse",
+      "équipe adverse lors d'un match"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

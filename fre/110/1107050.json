@@ -1,0 +1,17 @@
+{
+  "seq": 1107050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pilier",
+      "poteau",
+      "piédestal",
+      "pilon"
+    ],
+    [
+      "édifice surélevé",
+      "bâtiment sur colonnes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
