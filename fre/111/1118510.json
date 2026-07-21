@@ -1,0 +1,15 @@
+{
+  "seq": 1118510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feu de croisement (d'un véhicule)",
+      "lumière de conduite (d'un véhicule)"
+    ],
+    [
+      "lampe de poche portée sur la tête",
+      "lampe frontale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

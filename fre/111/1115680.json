@@ -1,0 +1,12 @@
+{
+  "seq": 1115680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argent en plastique",
+      "argent fictif",
+      "monnaie synthétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1115120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrier journalier",
+      "travailleur temporaire"
+    ],
+    [
+      "personne sans emploi",
+      "vagabond",
+      "nomade",
+      "vagrant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

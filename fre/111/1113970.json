@@ -1,0 +1,12 @@
+{
+  "seq": 1113970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "humour noir",
+      "humour sombre",
+      "humour macabre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

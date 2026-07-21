@@ -1,0 +1,15 @@
+{
+  "seq": 1115580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "connecteur",
+      "prise",
+      "bouchon"
+    ],
+    [
+      "bougie d'allumage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1118580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en-tête",
+      "titre",
+      "rubrique"
+    ],
+    [
+      "coup de tête (en football)",
+      "action de frapper la balle avec la tête"
+    ],
+    [
+      "coups de tête (en boxe)",
+      "frapper avec la tête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

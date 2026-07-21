@@ -1,0 +1,11 @@
+{
+  "seq": 1113750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musique",
+      "ensemble instrumental à instruments à vent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

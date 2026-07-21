@@ -1,0 +1,41 @@
+{
+  "seq": 1115010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bloc",
+      "morceau",
+      "morceau de matière solide"
+    ],
+    [
+      "bloc de béton"
+    ],
+    [
+      "bloc (jouet)"
+    ],
+    [
+      "bloc (imprimerie)"
+    ],
+    [
+      "quartier",
+      "bloc (zone urbaine)"
+    ],
+    [
+      "obstruction",
+      "gêne",
+      "empêchement"
+    ],
+    [
+      "bloc (sport)"
+    ],
+    [
+      "blocage",
+      "interdiction",
+      "filtrage"
+    ],
+    [
+      "bloc (entreprise)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

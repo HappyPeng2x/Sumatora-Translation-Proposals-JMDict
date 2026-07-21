@@ -1,0 +1,15 @@
+{
+  "seq": 1115470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "principal",
+      "principal, premier"
+    ],
+    [
+      "glisseur principal",
+      "glisseur de base"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

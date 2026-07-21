@@ -1,0 +1,24 @@
+{
+  "seq": 1118530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préfixe",
+      "hétéro-"
+    ],
+    [
+      "nom, abbréviation",
+      "hétérosexuel",
+      "hétéro"
+    ],
+    [
+      "nom, génétique, abbréviation",
+      "hétérozygote"
+    ],
+    [
+      "adjectif, génétique",
+      "hétérozygote"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1113780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "noir"
+    ],
+    [
+      "noir (café)"
+    ],
+    [
+      "exploitative; excessif; abusif; oppressif; non éthique"
+    ],
+    [
+      "gras (police); police en gras; police épaisse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

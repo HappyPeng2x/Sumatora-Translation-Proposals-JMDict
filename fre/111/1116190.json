@@ -1,0 +1,13 @@
+{
+  "seq": 1116190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, aliment] flan (souvent au lait ou au fromage)"
+    ],
+    [
+      "[n, col, joc] cheveux noirs teints en blond, mais dont les racines sont à nouveau noires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

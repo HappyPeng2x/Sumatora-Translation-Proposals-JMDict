@@ -1,0 +1,16 @@
+{
+  "seq": 1113360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frapper à mort",
+      "tuer avec des coups",
+      "assommer à coups de massue"
+    ],
+    [
+      "tuer (avec force)",
+      "mettre à mort (de manière emphatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

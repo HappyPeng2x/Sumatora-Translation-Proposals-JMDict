@@ -1,0 +1,15 @@
+{
+  "seq": 1117890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "proportions corporelles",
+      "rapport des proportions corporelles"
+    ],
+    [
+      "proportion de largeur",
+      "rapport de proportion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

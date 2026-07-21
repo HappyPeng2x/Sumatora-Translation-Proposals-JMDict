@@ -1,0 +1,16 @@
+{
+  "seq": 1117510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intrigue (d'un roman, d'une pièce de théâtre, etc.)",
+      "histoire (d'un récit, d'une œuvre dramatique, etc.)"
+    ],
+    [
+      "tracé (de données)",
+      "représentation graphique (de données)",
+      "mise en graphique (de données)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

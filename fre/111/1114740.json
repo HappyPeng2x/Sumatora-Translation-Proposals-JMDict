@@ -1,0 +1,21 @@
+{
+  "seq": 1114740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pause",
+      "repos"
+    ],
+    [
+      "interruption",
+      "suspension",
+      "arrêt"
+    ],
+    [
+      "succès",
+      "popularité",
+      "hit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

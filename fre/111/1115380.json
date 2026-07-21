@@ -1,0 +1,11 @@
+{
+  "seq": 1115380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argent décerné en récompense pour une victoire",
+      "argent obtenu en gagnant un concours ou un tournoi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

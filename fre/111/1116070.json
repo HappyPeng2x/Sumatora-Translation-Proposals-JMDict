@@ -1,0 +1,11 @@
+{
+  "seq": 1116070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "formatage visuel d'un texte ou d'un code pour en faciliter la lecture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

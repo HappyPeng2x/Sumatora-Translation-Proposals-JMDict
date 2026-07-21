@@ -1,0 +1,31 @@
+{
+  "seq": 1116470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plaquette",
+      "plaque (d'identification, d'immatriculation)"
+    ],
+    [
+      "plat (de service)"
+    ],
+    [
+      "plaque (tectonique)"
+    ],
+    [
+      "plaque (de but en baseball)",
+      "monticule du lanceur"
+    ],
+    [
+      "plaque (photographique)"
+    ],
+    [
+      "plaque (d'impression)"
+    ],
+    [
+      "plaque (d'une valve à vide)",
+      "anode"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

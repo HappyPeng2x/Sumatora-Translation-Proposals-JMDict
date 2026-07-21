@@ -1,0 +1,19 @@
+{
+  "seq": 1115190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "légèrement",
+      "flottant doucement"
+    ],
+    [
+      "en soufflant",
+      "en tirant des bouffées (d'une pipe, d'une cigarette, etc.)"
+    ],
+    [
+      "en soufflant (un instrument à vent)",
+      "en faisant des sons (d'une trompette, d'une flûte, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

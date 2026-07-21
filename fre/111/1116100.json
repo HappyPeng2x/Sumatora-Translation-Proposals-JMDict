@@ -1,0 +1,17 @@
+{
+  "seq": 1116100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en colère",
+      "furieusement",
+      "d'un air furieux"
+    ],
+    [
+      "doux",
+      "tendre",
+      "moelleux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

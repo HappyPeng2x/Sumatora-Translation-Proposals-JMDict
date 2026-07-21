@@ -1,0 +1,11 @@
+{
+  "seq": 1116430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agence de billetterie",
+      "agence de vente de billets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1113570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "store",
+      "rideau de fenêtre",
+      "volets"
+    ],
+    [
+      "jeu",
+      "blindage (jeu de cartes)",
+      "mise aveugle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

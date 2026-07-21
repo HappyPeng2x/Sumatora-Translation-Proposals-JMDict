@@ -1,0 +1,15 @@
+{
+  "seq": 1115070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "photo de star",
+      "portrait photographique de célébrité en format de carte postale"
+    ],
+    [
+      "papier bromé",
+      "papier sensible à la lumière utilisé en photographie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

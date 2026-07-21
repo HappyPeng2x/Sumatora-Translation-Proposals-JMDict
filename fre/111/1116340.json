@@ -1,0 +1,15 @@
+{
+  "seq": 1116340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Pluton (dieu)",
+      "Pluton (dieu de l'Enfer)"
+    ],
+    [
+      "Pluton (planète naine)",
+      "Pluton (dixième planète du système solaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1114850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séchage à l'air chaud",
+      "action de sécher les cheveux avec un sèche-cheveux"
+    ],
+    [
+      "coup de poing",
+      "frappe"
+    ],
+    [
+      "jouer d'un instrument à vent",
+      "blow (jazz)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

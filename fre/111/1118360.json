@@ -1,0 +1,12 @@
+{
+  "seq": 1118360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "début d'en-tête",
+      "début d'entête",
+      "SOH"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

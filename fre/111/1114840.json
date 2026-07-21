@@ -1,0 +1,12 @@
+{
+  "seq": 1114840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "whisky allongé",
+      "whisky mélangé",
+      "whisky composé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

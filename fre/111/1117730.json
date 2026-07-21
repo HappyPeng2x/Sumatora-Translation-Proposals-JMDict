@@ -1,0 +1,16 @@
+{
+  "seq": 1117730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "propre"
+    ],
+    [
+      "employé à temps plein; professionnel"
+    ],
+    [
+      "prix normal; prix net"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

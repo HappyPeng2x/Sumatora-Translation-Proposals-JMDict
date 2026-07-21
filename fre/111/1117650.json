@@ -1,0 +1,18 @@
+{
+  "seq": 1117650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "produire",
+      "créer",
+      "mettre en scène",
+      "concevoir"
+    ],
+    [
+      "production",
+      "création",
+      "conception"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1116320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carte imprimée",
+      "carte de circuit imprimé",
+      "carte de circuit imprimé (PCB)",
+      "carte de mise en œuvre imprimée (PWB)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1117570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "protection",
+      "sécurité",
+      "mesure de protection"
+    ],
+    [
+      "protection contre la copie",
+      "système de protection contre la copie"
+    ],
+    [
+      "protection contre l'écriture",
+      "verrouillage en écriture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

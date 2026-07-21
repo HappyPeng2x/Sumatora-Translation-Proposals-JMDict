@@ -1,0 +1,14 @@
+{
+  "seq": 1113930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enregistreur de vol",
+      "boîte noire (d'avion)"
+    ],
+    [
+      "boîte noire (système ou appareil dont le fonctionnement interne est caché)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

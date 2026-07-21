@@ -1,0 +1,14 @@
+{
+  "seq": 1115430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "privé"
+    ],
+    [
+      "vie privée",
+      "intimité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

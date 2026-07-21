@@ -1,0 +1,24 @@
+{
+  "seq": 1117040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enquête",
+      "examen approfondi",
+      "interrogatoire"
+    ],
+    [
+      "sonde",
+      "instrument de mesure"
+    ],
+    [
+      "sonde",
+      "instrument médical"
+    ],
+    [
+      "sonde",
+      "molécule de détection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

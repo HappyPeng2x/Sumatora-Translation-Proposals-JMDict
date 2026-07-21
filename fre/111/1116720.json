@@ -1,0 +1,25 @@
+{
+  "seq": 1116720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appui",
+      "pression",
+      "impression",
+      "soufflet"
+    ],
+    [
+      "machine à imprimer",
+      "presse"
+    ],
+    [
+      "presse (médias)",
+      "journalisme"
+    ],
+    [
+      "presse (exercice)",
+      "pompes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

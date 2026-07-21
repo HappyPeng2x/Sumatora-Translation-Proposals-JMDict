@@ -1,0 +1,11 @@
+{
+  "seq": 1113830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comédie noire",
+      "comédie sombre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

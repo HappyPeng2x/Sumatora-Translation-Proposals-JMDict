@@ -1,0 +1,16 @@
+{
+  "seq": 1115950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "installation",
+      "équipement",
+      "machinerie"
+    ],
+    [
+      "plante",
+      "végétation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

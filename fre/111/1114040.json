@@ -1,0 +1,17 @@
+{
+  "seq": 1114040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace vide",
+      "page blanche",
+      "case vide"
+    ],
+    [
+      "interruption",
+      "période de non-activité",
+      "pause"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1115020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manteau de clergyman",
+      "manteau de prêtre",
+      "manteau de pasteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

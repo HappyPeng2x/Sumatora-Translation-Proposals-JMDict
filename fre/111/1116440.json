@@ -1,0 +1,17 @@
+{
+  "seq": 1116440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu",
+      "position",
+      "endroit"
+    ],
+    [
+      "placement",
+      "positionnement",
+      "mise en position"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

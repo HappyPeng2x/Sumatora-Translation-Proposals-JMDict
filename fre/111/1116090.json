@@ -1,0 +1,11 @@
+{
+  "seq": 1116090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prix fixe",
+      "repas à prix fixe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

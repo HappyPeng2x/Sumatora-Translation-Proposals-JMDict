@@ -1,0 +1,14 @@
+{
+  "seq": 1118060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "téléprompteur",
+      "autocue"
+    ],
+    [
+      "prompteur (théâtre, opéra)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

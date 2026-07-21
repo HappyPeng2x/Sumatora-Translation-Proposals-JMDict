@@ -1,0 +1,15 @@
+{
+  "seq": 1114710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cerveau (d'une opération) ; conseiller ; cerveau de l'opération",
+      "cerveau (d'une organisation) ; conseiller ; cerveau de l'organisation"
+    ],
+    [
+      "cerveau (organe)",
+      "cerveau (organe du corps)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

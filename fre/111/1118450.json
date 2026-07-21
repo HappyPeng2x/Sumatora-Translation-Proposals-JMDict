@@ -1,0 +1,12 @@
+{
+  "seq": 1118450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recrutement de professionnels dans d'autres entreprises",
+      "chasse aux talents",
+      "recrutement de cadres supérieurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

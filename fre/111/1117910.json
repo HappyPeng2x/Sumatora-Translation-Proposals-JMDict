@@ -1,0 +1,17 @@
+{
+  "seq": 1117910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prominence",
+      "éclat",
+      "importance"
+    ],
+    [
+      "prominence",
+      "importance",
+      "prééminence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

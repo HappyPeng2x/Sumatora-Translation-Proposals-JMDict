@@ -1,0 +1,12 @@
+{
+  "seq": 1114940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diffusion",
+      "émission",
+      "radiodiffusion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

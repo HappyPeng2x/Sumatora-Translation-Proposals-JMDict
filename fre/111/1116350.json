@@ -1,0 +1,24 @@
+{
+  "seq": 1116350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mesure d'alcool",
+      "degré d'alcool"
+    ],
+    [
+      "résistant à",
+      "étanche"
+    ],
+    [
+      "épreuve (typographie)",
+      "première version imprimée"
+    ],
+    [
+      "preuve",
+      "preuves",
+      "preuve juridique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

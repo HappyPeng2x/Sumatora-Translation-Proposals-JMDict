@@ -1,0 +1,11 @@
+{
+  "seq": 1117930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vidéo promotionnelle",
+      "vidéo musicale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

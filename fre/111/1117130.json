@@ -1,0 +1,15 @@
+{
+  "seq": 1117130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "progressif",
+      "progressiste"
+    ],
+    [
+      "scan progressif",
+      "scan non entrelacé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

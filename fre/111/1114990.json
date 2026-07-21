@@ -1,0 +1,24 @@
+{
+  "seq": 1114990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blocageur",
+      "blocageuse",
+      "obstacle",
+      "dispositif de blocage"
+    ],
+    [
+      "blocageur",
+      "blocageuse",
+      "joueur qui bloque"
+    ],
+    [
+      "blocageur",
+      "blocageuse",
+      "antagoniste",
+      "inhibiteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

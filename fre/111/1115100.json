@@ -1,0 +1,12 @@
+{
+  "seq": 1115100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lien",
+      "attache",
+      "nœud"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

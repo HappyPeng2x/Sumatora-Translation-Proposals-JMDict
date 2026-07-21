@@ -1,0 +1,11 @@
+{
+  "seq": 1113450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "foire aux livres",
+      "marché des livres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

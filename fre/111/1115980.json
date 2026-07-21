@@ -1,0 +1,13 @@
+{
+  "seq": 1115980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "planificateur"
+    ],
+    [
+      "concepteur de jeux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1117670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "protocole",
+      "procédure",
+      "méthodologie"
+    ],
+    [
+      "document diplomatique",
+      "acte protocolaire"
+    ],
+    [
+      "règlement",
+      "ensemble de règles",
+      "normes"
+    ],
+    [
+      "protocole scientifique",
+      "protocole médical",
+      "méthodologie expérimentale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

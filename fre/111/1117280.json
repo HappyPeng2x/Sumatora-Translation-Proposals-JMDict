@@ -1,0 +1,12 @@
+{
+  "seq": 1117280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prospectif",
+      "prévisionnel",
+      "à venir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1114170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conversation libre",
+      "entretien non structuré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

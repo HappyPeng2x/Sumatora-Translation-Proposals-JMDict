@@ -1,0 +1,11 @@
+{
+  "seq": 1117200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "projecteur",
+      "appareil qui projette des images sur un écran"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

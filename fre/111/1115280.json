@@ -1,0 +1,11 @@
+{
+  "seq": 1115280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poussée",
+      "faute de poussée (dans le football, le basketball, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

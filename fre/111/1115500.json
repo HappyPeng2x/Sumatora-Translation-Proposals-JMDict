@@ -1,0 +1,10 @@
+{
+  "seq": 1115500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soins de santé primaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

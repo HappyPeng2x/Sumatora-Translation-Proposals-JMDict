@@ -1,0 +1,15 @@
+{
+  "seq": 1113530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "relatif à une mariée ou à un mariage",
+      "nuptial"
+    ],
+    [
+      "mariage",
+      "organisation d'un mariage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

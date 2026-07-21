@@ -1,0 +1,12 @@
+{
+  "seq": 1118600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boue",
+      "slime",
+      "dépôts chimiques visqueux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

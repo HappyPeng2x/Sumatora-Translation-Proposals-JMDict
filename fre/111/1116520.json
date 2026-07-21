@@ -1,0 +1,15 @@
+{
+  "seq": 1116520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jouer au ballon!",
+      "jouer à la balle!"
+    ],
+    [
+      "le début d'un match (de baseball, de tennis, etc.)",
+      "le commencement d'un match (de baseball, de tennis, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

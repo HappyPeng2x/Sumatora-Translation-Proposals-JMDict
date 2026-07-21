@@ -1,0 +1,27 @@
+{
+  "seq": 1116400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu",
+      "divertissement"
+    ],
+    [
+      "jeu",
+      "match",
+      "partie"
+    ],
+    [
+      "interprétation",
+      "exécution (musique)"
+    ],
+    [
+      "représentation théâtrale"
+    ],
+    [
+      "début d'un match",
+      "lancer la balle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1115240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pousser",
+      "action de pousser"
+    ],
+    [
+      "pousser",
+      "action de presser, d'inciter"
+    ],
+    [
+      "pousser",
+      "action de mettre à jour, de publier du contenu"
+    ],
+    [
+      "pousser",
+      "opération de pile (informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1117530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "protéine"
+    ],
+    [
+      "poudre de protéines",
+      "supplément en protéines"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,37 @@
+{
+  "seq": 1114250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pont"
+    ],
+    [
+      "jeu de cartes (abrégé)"
+    ],
+    [
+      "Sept Ponts (jeu de cartes japonais)"
+    ],
+    [
+      "pont (dentaire)"
+    ],
+    [
+      "pont (lunettes)"
+    ],
+    [
+      "pont (lutte)"
+    ],
+    [
+      "pont (électronique)"
+    ],
+    [
+      "pont (réseau informatique)"
+    ],
+    [
+      "pont (musique)"
+    ],
+    [
+      "exercice du pont"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
