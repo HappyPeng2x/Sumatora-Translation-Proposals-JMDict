@@ -1,0 +1,12 @@
+{
+  "seq": 1112230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bases chargées",
+      "bases pleines",
+      "bases remplies"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

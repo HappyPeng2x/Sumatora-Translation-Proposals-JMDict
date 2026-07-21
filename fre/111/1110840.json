@@ -1,0 +1,12 @@
+{
+  "seq": 1110840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transmission",
+      "envoi",
+      "acheminement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

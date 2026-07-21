@@ -1,0 +1,13 @@
+{
+  "seq": 1110480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brouillard"
+    ],
+    [
+      "lampe de brouillard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

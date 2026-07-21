@@ -1,0 +1,15 @@
+{
+  "seq": 1113200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boule (pain rond de mie)",
+      "boule (pain de forme ronde)"
+    ],
+    [
+      "jeu de boules",
+      "jeu de boules (sport)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

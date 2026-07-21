@@ -1,0 +1,14 @@
+{
+  "seq": 1112280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flocon",
+      "écaille",
+      "fragment",
+      "partie",
+      "morceau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

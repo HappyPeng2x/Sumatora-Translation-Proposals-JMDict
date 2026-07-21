@@ -1,0 +1,12 @@
+{
+  "seq": 1110080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clôture",
+      "barrière",
+      "enceinte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1112400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "formulation",
+      "expression",
+      "manière de formuler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

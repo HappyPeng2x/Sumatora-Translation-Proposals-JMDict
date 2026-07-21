@@ -1,0 +1,10 @@
+{
+  "seq": 1110220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langage de programmation Fortran"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

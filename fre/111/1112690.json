@@ -1,0 +1,18 @@
+{
+  "seq": 1112690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flottaison",
+      "ponton"
+    ],
+    [
+      "boisson glacée contenant de la glace à l'italienne flottante"
+    ],
+    [
+      "flotter",
+      "flottaison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

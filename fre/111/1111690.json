@@ -1,0 +1,16 @@
+{
+  "seq": 1111690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fanatique",
+      "enthousiaste"
+    ],
+    [
+      "monstre",
+      "anomalie",
+      "déformé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

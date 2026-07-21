@@ -1,0 +1,25 @@
+{
+  "seq": 1110800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suivre"
+    ],
+    [
+      "suivi (sur les réseaux sociaux, notamment Twitter)"
+    ],
+    [
+      "suit-up; suite; suivi"
+    ],
+    [
+      "soutien; couverture; réparation; réconciliation"
+    ],
+    [
+      "reprise de jeu; tir de suite"
+    ],
+    [
+      "vent arrière; vent de suite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

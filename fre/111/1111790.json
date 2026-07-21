@@ -1,0 +1,14 @@
+{
+  "seq": 1111790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logiciel gratuit"
+    ],
+    [
+      "logiciel libre",
+      "logiciel open source"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

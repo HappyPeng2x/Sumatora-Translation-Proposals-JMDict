@@ -1,0 +1,11 @@
+{
+  "seq": 1113150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prix de consolation",
+      "prix attribué au deuxième-dernier classé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

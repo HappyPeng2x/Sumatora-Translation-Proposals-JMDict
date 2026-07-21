@@ -1,0 +1,11 @@
+{
+  "seq": 1111880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exercice de frappe en baseball",
+      "entraînement de frappe en baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1112650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glace au yaourt",
+      "yaourt gelé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

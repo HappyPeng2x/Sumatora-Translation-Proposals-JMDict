@@ -1,0 +1,11 @@
+{
+  "seq": 1111390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course hippique sur piste plate",
+      "course de chevaux sur piste plate"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

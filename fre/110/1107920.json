@@ -1,0 +1,15 @@
+{
+  "seq": 1107920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faute",
+      "manœuvre illégale",
+      "infraction"
+    ],
+    [
+      "balle foulée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

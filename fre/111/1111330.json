@@ -1,0 +1,18 @@
+{
+  "seq": 1111330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclair (surtout d'appareil photo)",
+      "lampe de poche",
+      "bulbe de flash"
+    ],
+    [
+      "plan séquence très court dans un film ou un programme télévisé"
+    ],
+    [
+      "flash d'information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

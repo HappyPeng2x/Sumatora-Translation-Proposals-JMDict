@@ -1,0 +1,15 @@
+{
+  "seq": 1113220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flottaison",
+      "boyau (morceau de corde)",
+      "bouée"
+    ],
+    [
+      "bouée de sauvetage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

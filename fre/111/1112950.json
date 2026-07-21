@@ -1,0 +1,12 @@
+{
+  "seq": 1112950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fluorocarbone",
+      "chlorofluorohydrocarbure",
+      "CFC"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

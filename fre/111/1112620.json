@@ -1,0 +1,16 @@
+{
+  "seq": 1112620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débit",
+      "écoulement",
+      "flux"
+    ],
+    [
+      "période",
+      "quantité économique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

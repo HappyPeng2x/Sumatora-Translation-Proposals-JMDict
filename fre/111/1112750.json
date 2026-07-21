@@ -1,0 +1,14 @@
+{
+  "seq": 1112750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spectacle donné sur une scène de plancher",
+      "representation sur le sol"
+    ],
+    [
+      "défilé de mode à petite échelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

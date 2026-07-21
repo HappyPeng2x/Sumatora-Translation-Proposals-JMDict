@@ -1,0 +1,21 @@
+{
+  "seq": 1110280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme",
+      "format"
+    ],
+    [
+      "format",
+      "structure",
+      "disposition"
+    ],
+    [
+      "formater",
+      "formatter",
+      "mettre en forme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

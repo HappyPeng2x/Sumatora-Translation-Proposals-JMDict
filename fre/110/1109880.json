@@ -1,0 +1,13 @@
+{
+  "seq": 1109880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phénix (oiseau de la mythologie égyptienne)"
+    ],
+    [
+      "phénix (n'importe quel palmier du genre Phoenix, notamment le palmier dattier)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

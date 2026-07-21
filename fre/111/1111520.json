@@ -1,0 +1,14 @@
+{
+  "seq": 1111520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Frankfurt (en Allemagne)"
+    ],
+    [
+      "frankfurter",
+      "frank"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

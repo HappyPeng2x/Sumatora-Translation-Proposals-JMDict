@@ -1,0 +1,17 @@
+{
+  "seq": 1108530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "farce",
+      "comédie",
+      "pièce de théâtre absurde"
+    ],
+    [
+      "farce",
+      "remplissage",
+      "aliment farci"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

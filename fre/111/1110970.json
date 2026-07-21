@@ -1,0 +1,11 @@
+{
+  "seq": 1110970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "football (soccer, rugby, football américain, etc.)",
+      "football (surtout le football de rue)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

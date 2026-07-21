@@ -1,0 +1,16 @@
+{
+  "seq": 1111240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cellule (d'une organisation)"
+    ],
+    [
+      "faction (d'un parti politique) ; groupe dissident"
+    ],
+    [
+      "fraction (chimie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

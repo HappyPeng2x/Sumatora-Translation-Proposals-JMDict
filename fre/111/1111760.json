@@ -1,0 +1,24 @@
+{
+  "seq": 1111760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le fait de geler",
+      "le passage à l'état solide par le froid"
+    ],
+    [
+      "le gel",
+      "le blocage",
+      "l'immobilisation"
+    ],
+    [
+      "le fait de figer sur place",
+      "le fait de rester immobile par surprise ou par crainte"
+    ],
+    [
+      "frieze",
+      "moulure décorative située entre l'architrave et le faîtage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

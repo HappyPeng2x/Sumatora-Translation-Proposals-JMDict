@@ -1,0 +1,12 @@
+{
+  "seq": 1111770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conserver par lyophilisation",
+      "sécher par lyophilisation",
+      "mettre en conserve par lyophilisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

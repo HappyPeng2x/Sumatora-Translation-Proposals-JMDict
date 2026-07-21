@@ -1,0 +1,25 @@
+{
+  "seq": 1109100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fixation",
+      "mise en place",
+      "sécurisation"
+    ],
+    [
+      "accord",
+      "convention",
+      "entente"
+    ],
+    [
+      "réparation",
+      "réglage",
+      "réparation technique"
+    ],
+    [
+      "fenêtre fixe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

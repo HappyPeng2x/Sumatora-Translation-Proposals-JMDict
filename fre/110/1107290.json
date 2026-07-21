@@ -1,0 +1,17 @@
+{
+  "seq": 1107290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trou minuscule",
+      "petit trou",
+      "ouverture étroite"
+    ],
+    [
+      "défaut de sérigraphie",
+      "défaut de gravure",
+      "imperfection de surface"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

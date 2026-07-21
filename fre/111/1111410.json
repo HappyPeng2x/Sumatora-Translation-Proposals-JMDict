@@ -1,0 +1,15 @@
+{
+  "seq": 1111410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aile (d'un avion)",
+      "partie mobile (d'une aile d'avion)"
+    ],
+    [
+      "langue (d'un enveloppe)",
+      "partie repliable (d'un enveloppe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

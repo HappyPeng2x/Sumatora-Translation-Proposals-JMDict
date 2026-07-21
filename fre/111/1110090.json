@@ -1,0 +1,15 @@
+{
+  "seq": 1110090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aile (d'une voiture)",
+      "pare-choc (d'une voiture)"
+    ],
+    [
+      "aile (d'un bateau)",
+      "pare-choc (d'un bateau)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

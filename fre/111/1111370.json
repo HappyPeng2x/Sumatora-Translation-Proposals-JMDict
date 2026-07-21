@@ -1,0 +1,23 @@
+{
+  "seq": 1111370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plat",
+      "niveau",
+      "régulier"
+    ],
+    [
+      "exactement",
+      "précisément"
+    ],
+    [
+      "bémol"
+    ],
+    [
+      "appartement",
+      "studio"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

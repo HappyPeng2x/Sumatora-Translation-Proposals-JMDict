@@ -1,0 +1,19 @@
+{
+  "seq": 1110850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avant (position en sport)",
+      "attaquant"
+    ],
+    [
+      "transmission (d'un courriel)",
+      "envoi (d'un courriel)"
+    ],
+    [
+      "avance (contrat)",
+      "opération à terme (finances)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1107520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démarrage rapide",
+      "début rapide",
+      "départ rapide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

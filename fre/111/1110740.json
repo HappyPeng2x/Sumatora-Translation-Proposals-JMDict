@@ -1,0 +1,16 @@
+{
+  "seq": 1110740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musique folklorique sud-américaine",
+      "musique andine"
+    ],
+    [
+      "coutumes populaires",
+      "folklore",
+      "musique folklorique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

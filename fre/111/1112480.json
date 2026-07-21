@@ -1,0 +1,17 @@
+{
+  "seq": 1112480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fraîchement",
+      "neuf",
+      "récemment",
+      "non décomposé"
+    ],
+    [
+      "crème pour café (non laitière)",
+      "agent blanchissant pour le café"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

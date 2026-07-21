@@ -1,0 +1,15 @@
+{
+  "seq": 1109420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nageoire",
+      "paddle"
+    ],
+    [
+      "aile (d'avion)",
+      "fouette (de planche à voile)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1109360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "choix du joueur de champ",
+      "décision du joueur de champ"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

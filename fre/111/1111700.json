@@ -1,0 +1,12 @@
+{
+  "seq": 1111700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unisexe",
+      "tous tailles",
+      "taille unique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

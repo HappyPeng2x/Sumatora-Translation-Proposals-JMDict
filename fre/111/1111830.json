@@ -1,0 +1,14 @@
+{
+  "seq": 1111830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "numéro gratuit"
+    ],
+    [
+      "dispositif à combinaison libre",
+      "verrou à combinaison libre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

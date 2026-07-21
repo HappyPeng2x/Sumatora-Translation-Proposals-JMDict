@@ -1,0 +1,16 @@
+{
+  "seq": 1111260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "drapeau",
+      "valeur booléenne"
+    ],
+    [
+      "indice",
+      "présage",
+      "souffle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1108840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour d'information",
+      "retour d'expérience",
+      "retour critique"
+    ],
+    [
+      "retour de signal",
+      "rétroaction",
+      "retour en boucle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

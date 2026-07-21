@@ -1,0 +1,12 @@
+{
+  "seq": 1112470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système d'heures flexibles",
+      "horaire flexible",
+      "flextime"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

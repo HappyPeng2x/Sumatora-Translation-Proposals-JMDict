@@ -1,0 +1,11 @@
+{
+  "seq": 1107240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remplaçant temporaire",
+      "joueur de baseball remplaçant un autre joueur en difficulté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

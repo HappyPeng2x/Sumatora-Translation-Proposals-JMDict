@@ -1,0 +1,21 @@
+{
+  "seq": 1109000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "figure",
+      "forme",
+      "contour"
+    ],
+    [
+      "figurine",
+      "statuette",
+      "modèle en miniature"
+    ],
+    [
+      "patinage artistique",
+      "patinage sur glace (figuratif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

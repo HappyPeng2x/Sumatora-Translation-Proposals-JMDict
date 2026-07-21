@@ -1,0 +1,11 @@
+{
+  "seq": 1111810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne (jeune) vivant de travaux à temps partiel",
+      "personne dont le revenu provient de travaux à temps partiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

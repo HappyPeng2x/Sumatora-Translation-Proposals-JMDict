@@ -1,0 +1,11 @@
+{
+  "seq": 1107820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom",
+      "nom de fichier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

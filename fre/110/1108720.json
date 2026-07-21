@@ -1,0 +1,12 @@
+{
+  "seq": 1108720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fondements",
+      "bases",
+      "principes fondamentaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

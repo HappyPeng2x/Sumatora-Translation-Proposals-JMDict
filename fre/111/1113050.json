@@ -1,0 +1,12 @@
+{
+  "seq": 1113050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "page d'accueil",
+      "page principale",
+      "première page"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

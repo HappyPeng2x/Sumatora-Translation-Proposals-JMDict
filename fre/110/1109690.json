@@ -1,0 +1,23 @@
+{
+  "seq": 1109690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faux",
+      "contrefaçon",
+      "imposteur",
+      "fausse personne"
+    ],
+    [
+      "improvisation",
+      "ad-lib",
+      "riff vocal",
+      "course vocale"
+    ],
+    [
+      "feinte",
+      "démarche trompeuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

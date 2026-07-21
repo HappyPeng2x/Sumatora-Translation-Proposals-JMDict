@@ -1,0 +1,16 @@
+{
+  "seq": 1109210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fin",
+      "finale",
+      "conclusion"
+    ],
+    [
+      "atterrissage",
+      "atterrissage en gymnastique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

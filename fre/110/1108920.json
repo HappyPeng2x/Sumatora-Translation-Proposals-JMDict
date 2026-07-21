@@ -1,0 +1,11 @@
+{
+  "seq": 1108920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parcours d'aventure",
+      "parcours d'obstacles en plein air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

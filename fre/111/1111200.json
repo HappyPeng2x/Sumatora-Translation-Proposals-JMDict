@@ -1,0 +1,20 @@
+{
+  "seq": 1111200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vol",
+      "flying"
+    ],
+    [
+      "départ prématuré",
+      "false start"
+    ],
+    [
+      "avance",
+      "faire quelque chose avant l'heure ou la date prévue",
+      "dépasser la date de sortie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

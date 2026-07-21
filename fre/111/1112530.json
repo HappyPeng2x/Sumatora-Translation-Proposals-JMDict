@@ -1,0 +1,13 @@
+{
+  "seq": 1112530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "français"
+    ],
+    [
+      "cuisine française; alimentation française"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1110100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le point de concentration (d'une caméra, d'un microscope, etc.)"
+    ],
+    [
+      "le point de concentration (de l'attention, des efforts, etc.)"
+    ],
+    [
+      "le fait de photographier (quelqu'un) en secret"
+    ],
+    [
+      "le point de concentration (dans une interface graphique utilisateur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

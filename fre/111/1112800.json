@@ -1,0 +1,12 @@
+{
+  "seq": 1112800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manager de salle",
+      "chef de salle",
+      "responsable de salle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

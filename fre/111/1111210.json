@@ -1,0 +1,19 @@
+{
+  "seq": 1111210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "départ prématuré",
+      "démarrage prématuré"
+    ],
+    [
+      "départ en vol",
+      "départ en course"
+    ],
+    [
+      "diffusion anticipée",
+      "émission en avance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

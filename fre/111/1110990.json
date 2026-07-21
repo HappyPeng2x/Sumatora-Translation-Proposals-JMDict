@@ -1,0 +1,17 @@
+{
+  "seq": 1110990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "technique de mouvement des pieds",
+      "agilité des pieds",
+      "mouvements des pieds"
+    ],
+    [
+      "mobilité",
+      "flexibilité",
+      "adaptabilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

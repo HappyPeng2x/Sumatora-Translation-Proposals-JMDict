@@ -1,0 +1,15 @@
+{
+  "seq": 1112490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudiant en première année",
+      "nouveau venu dans un établissement scolaire"
+    ],
+    [
+      "nouveau recruté dans une entreprise",
+      "employé en début de carrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1112730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étage",
+      "niveau",
+      "palier"
+    ],
+    [
+      "piste de danse"
+    ],
+    [
+      "zone de vente"
+    ],
+    [
+      "étage",
+      "niveau",
+      "palier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

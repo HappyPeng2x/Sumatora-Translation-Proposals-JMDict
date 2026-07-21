@@ -1,0 +1,11 @@
+{
+  "seq": 1111120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sac de voyage",
+      "sacoche de vol"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

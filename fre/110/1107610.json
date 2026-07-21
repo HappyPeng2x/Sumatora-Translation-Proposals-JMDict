@@ -1,0 +1,11 @@
+{
+  "seq": 1107610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "banque en ligne pour les entreprises",
+      "banque en ligne d'entreprise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

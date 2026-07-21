@@ -1,0 +1,20 @@
+{
+  "seq": 1107700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combat"
+    ],
+    [
+      "détartrage",
+      "esprit de combat"
+    ],
+    [
+      "combattez !",
+      "faites de votre mieux !",
+      "allez-y !",
+      "poursuivez !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

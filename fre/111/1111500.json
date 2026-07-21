@@ -1,0 +1,11 @@
+{
+  "seq": 1111500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saucisse à la viennoise",
+      "saucisse de Francfort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

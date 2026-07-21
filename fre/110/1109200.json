@@ -1,0 +1,11 @@
+{
+  "seq": 1109200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "finale",
+      "dernière partie d'un spectacle ou d'un événement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

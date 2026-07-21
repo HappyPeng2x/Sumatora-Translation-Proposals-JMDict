@@ -1,0 +1,15 @@
+{
+  "seq": 1112120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compte plein",
+      "compte complet (en baseball)"
+    ],
+    [
+      "compte plein (en boxe)",
+      "compte de dix (après que le boxeur soit mis KO)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

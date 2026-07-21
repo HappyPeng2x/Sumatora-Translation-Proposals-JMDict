@@ -1,0 +1,15 @@
+{
+  "seq": 1112180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à temps plein",
+      "travail à temps plein"
+    ],
+    [
+      "temps plein",
+      "match en temps plein"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

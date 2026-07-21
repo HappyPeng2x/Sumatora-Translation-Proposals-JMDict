@@ -1,0 +1,16 @@
+{
+  "seq": 1112460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système d'heures flexibles",
+      "horaire flexible",
+      "flextime"
+    ],
+    [
+      "flexibilité (d'une tige de golf)",
+      "flex (d'une tige de golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

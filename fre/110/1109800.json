@@ -1,0 +1,11 @@
+{
+  "seq": 1109800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup de plume",
+      "technique de coupe de cheveux en forme de plume"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

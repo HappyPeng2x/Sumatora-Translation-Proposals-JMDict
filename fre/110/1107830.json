@@ -1,0 +1,11 @@
+{
+  "seq": 1107830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séparateur de fichiers",
+      "caractère de séparation de fichiers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

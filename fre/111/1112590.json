@@ -1,0 +1,13 @@
+{
+  "seq": 1112590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ami",
+      "camarade",
+      "compagnon",
+      "collègue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1108460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "restaurant familial",
+      "restaurant de cuisine variée et abordable",
+      "restaurant pour repas informels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

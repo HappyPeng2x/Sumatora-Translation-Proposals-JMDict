@@ -1,0 +1,11 @@
+{
+  "seq": 1112170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travailleur à temps plein",
+      "personne travaillant à temps plein"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

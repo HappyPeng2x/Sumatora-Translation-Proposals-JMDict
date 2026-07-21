@@ -1,0 +1,12 @@
+{
+  "seq": 1112430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flexibilité",
+      "capacité à s'adapter",
+      "aptitude à se plier à des circonstances changeantes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

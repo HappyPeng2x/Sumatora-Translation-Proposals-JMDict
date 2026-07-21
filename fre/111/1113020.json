@@ -1,0 +1,13 @@
+{
+  "seq": 1113020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "siège social",
+      "direction générale",
+      "haut management",
+      "bureau exécutif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

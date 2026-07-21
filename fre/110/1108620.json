@@ -1,0 +1,18 @@
+{
+  "seq": 1108620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fantaisiste",
+      "imaginaire",
+      "excentrique"
+    ],
+    [
+      "fantaisie",
+      "imagination",
+      "caprice",
+      "idée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

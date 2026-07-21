@@ -1,0 +1,11 @@
+{
+  "seq": 1113240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décollage et atterrissage verticaux",
+      "VTOL"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

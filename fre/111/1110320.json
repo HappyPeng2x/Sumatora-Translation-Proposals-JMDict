@@ -1,0 +1,11 @@
+{
+  "seq": 1110320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voiture de formule",
+      "voiture de course de formule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

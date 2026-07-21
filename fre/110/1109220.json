@@ -1,0 +1,12 @@
+{
+  "seq": 1109220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "égalité",
+      "partage équitable",
+      "démarche consistant à diviser quelque chose en deux parties égales"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

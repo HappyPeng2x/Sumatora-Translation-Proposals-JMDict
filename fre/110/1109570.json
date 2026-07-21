@@ -1,0 +1,11 @@
+{
+  "seq": 1109570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balle de fade",
+      "balle qui se déplace en s'atténuant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

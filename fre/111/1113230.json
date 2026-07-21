@@ -1,0 +1,10 @@
+{
+  "seq": 1113230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement vers une ville pour étudier puis vers un autre endroit pour travailler, sans retourner dans sa ville natale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

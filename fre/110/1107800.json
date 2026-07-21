@@ -1,0 +1,16 @@
+{
+  "seq": 1107800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dossier (pour ranger des documents)"
+    ],
+    [
+      "dossier; classement; conserver en dossier"
+    ],
+    [
+      "fichier (informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

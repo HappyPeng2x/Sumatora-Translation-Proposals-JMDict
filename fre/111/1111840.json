@@ -1,0 +1,17 @@
+{
+  "seq": 1111840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liberté"
+    ],
+    [
+      "libre",
+      "ouvert",
+      "non restreint",
+      "non entravé",
+      "désencombré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

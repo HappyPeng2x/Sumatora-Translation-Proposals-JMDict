@@ -1,0 +1,23 @@
+{
+  "seq": 1108730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maquillage",
+      "base de maquillage"
+    ],
+    [
+      "soutien-gorge",
+      "corset"
+    ],
+    [
+      "organisation",
+      "fondation (institution)"
+    ],
+    [
+      "peinture de sous-fond",
+      "couche de base (en peinture à l'huile)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

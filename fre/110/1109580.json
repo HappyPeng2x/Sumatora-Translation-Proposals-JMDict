@@ -1,0 +1,21 @@
+{
+  "seq": 1109580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "équitable",
+      "juste",
+      "fair (en termes de justice ou de traitement)"
+    ],
+    [
+      "balle de fair",
+      "balle en dehors du champ de jeu en baseball"
+    ],
+    [
+      "foire",
+      "exposition",
+      "manifestation commerciale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

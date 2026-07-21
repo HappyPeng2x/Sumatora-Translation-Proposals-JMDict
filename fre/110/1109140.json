@@ -1,0 +1,19 @@
+{
+  "seq": 1109140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ajustage",
+      "ajustement (de vêtements)"
+    ],
+    [
+      "installation",
+      "montage"
+    ],
+    [
+      "ajustement",
+      "adaptation (dans un graphique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

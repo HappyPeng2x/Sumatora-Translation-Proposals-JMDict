@@ -1,0 +1,12 @@
+{
+  "seq": 1111650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autoroute",
+      "route rapide",
+      "freeway"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1112310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frameur",
+      "metteur en scène"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

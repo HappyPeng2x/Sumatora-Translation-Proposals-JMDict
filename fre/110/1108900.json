@@ -1,0 +1,22 @@
+{
+  "seq": 1108900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "champ (dans un sport)"
+    ],
+    [
+      "champ; prairie"
+    ],
+    [
+      "domaine (d'intérêt, d'étude, etc.)"
+    ],
+    [
+      "champ (en physique)"
+    ],
+    [
+      "champ (dans un formulaire, une page web, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

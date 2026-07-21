@@ -1,0 +1,15 @@
+{
+  "seq": 1112130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "repas complet",
+      "repas à plusieurs plats"
+    ],
+    [
+      "cours complet",
+      "cours (scolaire) complet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

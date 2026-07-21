@@ -1,0 +1,11 @@
+{
+  "seq": 1113010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "front-end processor",
+      "FEP"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

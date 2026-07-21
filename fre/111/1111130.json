@@ -1,0 +1,11 @@
+{
+  "seq": 1111130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enregistreur de vol",
+      "boîte noire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
