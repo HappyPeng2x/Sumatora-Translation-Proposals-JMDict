@@ -1,0 +1,14 @@
+{
+  "seq": 1145920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "niveau supérieur",
+      "passer au niveau supérieur",
+      "améliorer",
+      "monter en niveau",
+      "améliorer son niveau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

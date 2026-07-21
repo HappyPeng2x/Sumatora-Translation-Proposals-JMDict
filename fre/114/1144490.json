@@ -1,0 +1,19 @@
+{
+  "seq": 1144490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voie",
+      "de circulation"
+    ],
+    [
+      "piste",
+      "de natation, de course"
+    ],
+    [
+      "voie",
+      "de bowling"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1148540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vermine",
+      "vers",
+      "bestiole"
+    ],
+    [
+      "ver"
+    ],
+    [
+      "appât en plastique mou",
+      "lure en plastique mou"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

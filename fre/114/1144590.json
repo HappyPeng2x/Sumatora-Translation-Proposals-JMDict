@@ -1,0 +1,25 @@
+{
+  "seq": 1144590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le relèvement (d'une mise)"
+    ],
+    [
+      "le levage (d'un objet) ; le soulèvement"
+    ],
+    [
+      "l'évoquer (un sujet) ; aborder (un sujet)"
+    ],
+    [
+      "l'éducation (des enfants) ; l'élevage"
+    ],
+    [
+      "la construction (d'un bâtiment) ; l'érection"
+    ],
+    [
+      "le fait de faire revenir (quelqu'un) des morts, par exemple dans un jeu vidéo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

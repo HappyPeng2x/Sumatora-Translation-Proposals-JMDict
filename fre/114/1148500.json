@@ -1,0 +1,12 @@
+{
+  "seq": 1148500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avertissement",
+      "préavis",
+      "mise en garde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1146310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réseau local",
+      "réseau à petite portée",
+      "réseau local d'ordinateurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

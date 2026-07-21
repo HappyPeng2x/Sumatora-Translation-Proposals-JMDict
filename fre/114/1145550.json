@@ -1,0 +1,12 @@
+{
+  "seq": 1145550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bureaucracy",
+      "paperwork",
+      "formalities"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1144130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rubis"
+    ],
+    [
+      "caractère ruby; petite notation en hiragana ou katakana placée à côté ou au-dessus d'un kanji, généralement utilisée par les imprimeurs ou dans les références à des textes imprimés"
+    ],
+    [
+      "langage de programmation Ruby"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

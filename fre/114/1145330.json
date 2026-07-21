@@ -1,0 +1,15 @@
+{
+  "seq": 1145330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toilette publique",
+      "salle de toilettes"
+    ],
+    [
+      "salle de repos",
+      "chambre de repos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

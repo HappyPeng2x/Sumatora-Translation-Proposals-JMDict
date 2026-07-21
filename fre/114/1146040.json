@@ -1,0 +1,11 @@
+{
+  "seq": 1146040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "limonade",
+      "boisson gazeuse au citron"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

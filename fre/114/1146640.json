@@ -1,0 +1,11 @@
+{
+  "seq": 1146640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adhérence de la route",
+      "capacité d'une route à retenir un véhicule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

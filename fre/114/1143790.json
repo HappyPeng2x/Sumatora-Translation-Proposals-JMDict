@@ -1,0 +1,12 @@
+{
+  "seq": 1143790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour de boucle",
+      "boucle de retour",
+      "boucle de retour de signal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

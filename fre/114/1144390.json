@@ -1,0 +1,12 @@
+{
+  "seq": 1144390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "raison d'être",
+      "motif d'être",
+      "justification d'être"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

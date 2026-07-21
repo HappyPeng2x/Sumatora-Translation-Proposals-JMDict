@@ -1,0 +1,15 @@
+{
+  "seq": 1146110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étendue",
+      "four",
+      "cuisinière"
+    ],
+    [
+      "micro-ondes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

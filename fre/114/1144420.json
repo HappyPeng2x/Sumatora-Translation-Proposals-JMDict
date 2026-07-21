@@ -1,0 +1,17 @@
+{
+  "seq": 1144420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taux",
+      "prix",
+      "valeur"
+    ],
+    [
+      "note",
+      "classement",
+      "évaluation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

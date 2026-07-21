@@ -1,0 +1,17 @@
+{
+  "seq": 1147740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lot",
+      "série",
+      "bâtiment"
+    ],
+    [
+      "terrain",
+      "parc",
+      "emplacement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

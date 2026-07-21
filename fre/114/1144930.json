@@ -1,0 +1,12 @@
+{
+  "seq": 1144930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enregistrement",
+      "acte d'enregistrer",
+      "enregistrement sonore"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

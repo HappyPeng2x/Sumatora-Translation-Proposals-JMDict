@@ -1,0 +1,17 @@
+{
+  "seq": 1145460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retouche",
+      "retouchage",
+      "toucher léger"
+    ],
+    [
+      "taguer",
+      "se taguer",
+      "lever les gants"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

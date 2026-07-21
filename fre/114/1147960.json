@@ -1,0 +1,11 @@
+{
+  "seq": 1147960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Romancecar",
+      "service de luxe en train rapide vers le sud-ouest de Tokyo, exploité par la Odakyu Electric Railway"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

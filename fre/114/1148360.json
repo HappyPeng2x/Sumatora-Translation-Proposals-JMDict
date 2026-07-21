@@ -1,0 +1,13 @@
+{
+  "seq": 1148360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail",
+      "œuvre",
+      "production",
+      "activité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

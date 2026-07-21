@@ -1,0 +1,19 @@
+{
+  "seq": 1147950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "romance",
+      "histoire d'amour"
+    ],
+    [
+      "affaire d'amour",
+      "relation amoureuse"
+    ],
+    [
+      "romance (musique)",
+      "pièce musicale romantique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

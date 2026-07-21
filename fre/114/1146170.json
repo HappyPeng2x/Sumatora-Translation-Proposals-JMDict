@@ -1,0 +1,15 @@
+{
+  "seq": 1146170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "location de vélo",
+      "vélo en location"
+    ],
+    [
+      "vélo en location",
+      "location de vélo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

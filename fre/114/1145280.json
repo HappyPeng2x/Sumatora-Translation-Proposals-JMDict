@@ -1,0 +1,12 @@
+{
+  "seq": 1145280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sauvetage",
+      "secours",
+      "rescue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

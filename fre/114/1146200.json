@@ -1,0 +1,13 @@
+{
+  "seq": 1146200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vidéo à louer"
+    ],
+    [
+      "magasin de location de vidéos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1147620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lockout (arrêt de travail)",
+      "séquestration (dans un contexte de conflit social)",
+      "verrouillage (dans un contexte de grève)"
+    ],
+    [
+      "verrouillage du compte",
+      "désactivation temporaire d'un compte",
+      "bloquer un compte (par mesure de sécurité)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

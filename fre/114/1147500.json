@@ -1,0 +1,11 @@
+{
+  "seq": 1147500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "article promotionné à prix réduit pour attirer les clients",
+      "article vendu à perte pour attirer des clients"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

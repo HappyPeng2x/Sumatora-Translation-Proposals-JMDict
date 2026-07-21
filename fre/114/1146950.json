@@ -1,0 +1,11 @@
+{
+  "seq": 1146950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "test de Rorschach",
+      "test des taches d'encre de Rorschach"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

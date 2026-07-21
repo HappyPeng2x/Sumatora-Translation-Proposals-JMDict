@@ -1,0 +1,11 @@
+{
+  "seq": 1148160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "best-seller à longue durée",
+      "produit dont les ventes restent stables sur une longue période"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

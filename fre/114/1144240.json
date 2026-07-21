@@ -1,0 +1,13 @@
+{
+  "seq": 1144240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poumon"
+    ],
+    [
+      "tuberculose pulmonaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

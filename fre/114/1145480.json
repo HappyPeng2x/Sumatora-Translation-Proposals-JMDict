@@ -1,0 +1,15 @@
+{
+  "seq": 1145480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remorqueur",
+      "véhicule de dépannage"
+    ],
+    [
+      "tirer (un véhicule)",
+      "remorquer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

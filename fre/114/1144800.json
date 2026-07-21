@@ -1,0 +1,11 @@
+{
+  "seq": 1144800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaîne de magasins régulière",
+      "chaîne de commerce régulière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

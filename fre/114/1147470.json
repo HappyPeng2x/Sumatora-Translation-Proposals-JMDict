@@ -1,0 +1,16 @@
+{
+  "seq": 1147470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perdu",
+      "perte",
+      "pertes (souvent dans les composés)"
+    ],
+    [
+      "perdre (quelque chose)",
+      "faire perdre (quelque chose)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

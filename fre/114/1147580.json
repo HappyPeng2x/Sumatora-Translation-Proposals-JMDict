@@ -1,0 +1,17 @@
+{
+  "seq": 1147580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement de balancement",
+      "action de balancer",
+      "oscillation"
+    ],
+    [
+      "verrouillage",
+      "action de verrouiller",
+      "serrure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

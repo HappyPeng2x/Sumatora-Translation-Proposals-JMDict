@@ -1,0 +1,15 @@
+{
+  "seq": 1145090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réception",
+      "action de recevoir (une balle)"
+    ],
+    [
+      "poussée",
+      "action de pousser la balle avec les bras (en volley-ball)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

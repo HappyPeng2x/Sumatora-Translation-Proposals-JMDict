@@ -1,0 +1,14 @@
+{
+  "seq": 1147300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logo",
+      "logotype"
+    ],
+    [
+      "logotype"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

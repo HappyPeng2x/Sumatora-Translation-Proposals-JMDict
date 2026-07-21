@@ -1,0 +1,11 @@
+{
+  "seq": 1145560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "purge rouge",
+      "purge politique rouge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

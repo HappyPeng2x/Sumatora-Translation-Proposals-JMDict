@@ -1,0 +1,15 @@
+{
+  "seq": 1146550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chargeur (machine)",
+      "engin de chargement"
+    ],
+    [
+      "chargeur (logiciel)",
+      "programme de chargement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

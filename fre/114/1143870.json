@@ -1,0 +1,11 @@
+{
+  "seq": 1143870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "colocataire",
+      "partenaire de chambre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

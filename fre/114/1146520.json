@@ -1,0 +1,18 @@
+{
+  "seq": 1146520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "rotatoire",
+      "rond-point",
+      "cercle de circulation"
+    ],
+    [
+      "adj-f",
+      "rotative",
+      "tournante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

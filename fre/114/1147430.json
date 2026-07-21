@@ -1,0 +1,16 @@
+{
+  "seq": 1147430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perte",
+      "dépense",
+      "gaspillage",
+      "pertes"
+    ],
+    [
+      "sentiment de perte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

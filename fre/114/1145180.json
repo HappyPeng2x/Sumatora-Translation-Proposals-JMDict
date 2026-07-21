@@ -1,0 +1,20 @@
+{
+  "seq": 1145180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caisse enregistreuse",
+      "registre (de caisse)"
+    ],
+    [
+      "comptoir de caisse",
+      "caissier"
+    ],
+    [
+      "registre",
+      "enregistrement",
+      "inscrire (dans un registre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

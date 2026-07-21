@@ -1,0 +1,17 @@
+{
+  "seq": 1146160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voiture de location",
+      "voiture de louage",
+      "véhicule en location"
+    ],
+    [
+      "agence de location de voitures",
+      "agence de louage de voitures",
+      "entreprise de location de véhicules"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

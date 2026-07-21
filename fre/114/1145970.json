@@ -1,0 +1,15 @@
+{
+  "seq": 1145970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapport",
+      "document"
+    ],
+    [
+      "reportage",
+      "chronique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

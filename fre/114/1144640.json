@@ -1,0 +1,12 @@
+{
+  "seq": 1144640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "non-spécialiste",
+      "non-expert",
+      "non-professionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1145620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prêt-à-porter",
+      "prêt à l'emploi",
+      "d'usine",
+      "en magasin",
+      "non personnalisé"
+    ],
+    [
+      "objet trouvé",
+      "œuvre d'art prête à l'emploi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

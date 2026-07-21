@@ -1,0 +1,14 @@
+{
+  "seq": 1145840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gauche"
+    ],
+    [
+      "champ de gauche",
+      "joueur de champ de gauche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

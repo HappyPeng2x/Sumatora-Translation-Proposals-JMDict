@@ -1,0 +1,15 @@
+{
+  "seq": 1148100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attirance sexuelle envers les filles prépubères",
+      "homme attiré par des filles très jeunes"
+    ],
+    [
+      "charme des personnages féminins jeunes ou prépubères",
+      "personnages présentant un aspect enfantin et débordant de vitalité (dans la culture otaku)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

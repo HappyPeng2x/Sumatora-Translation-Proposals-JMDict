@@ -1,0 +1,13 @@
+{
+  "seq": 1148050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémoire en lecture seule"
+    ],
+    [
+      "membre en lecture seule (d'une communauté en ligne)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1146760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cableway",
+      "tramway aérien",
+      "téléphérique",
+      "cable-car"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

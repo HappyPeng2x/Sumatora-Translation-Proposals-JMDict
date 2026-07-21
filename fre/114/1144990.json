@@ -1,0 +1,11 @@
+{
+  "seq": 1144990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séparateur de records",
+      "caractère de séparation de records"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

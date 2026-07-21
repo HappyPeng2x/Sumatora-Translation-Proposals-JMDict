@@ -1,0 +1,10 @@
+{
+  "seq": 1145140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bactérie Legionella pneumophila responsable de la maladie des légionnaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

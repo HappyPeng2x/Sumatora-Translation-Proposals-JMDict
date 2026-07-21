@@ -1,0 +1,27 @@
+{
+  "seq": 1147940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "romance",
+      "histoire héroïque"
+    ],
+    [
+      "rêve presque impossible",
+      "esprit aventureux",
+      "entreprise audacieuse",
+      "aventure épique"
+    ],
+    [
+      "roman (long)"
+    ],
+    [
+      "amour",
+      "affaire amoureuse"
+    ],
+    [
+      "romantisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1146900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement de balancement",
+      "mouvement de roulis (d'un navire, etc.)"
+    ],
+    [
+      "progressif, en cours de mise en œuvre",
+      "qui commence à prendre forme (d'un projet, plan, etc.)"
+    ],
+    [
+      "course illégale sur les routes",
+      "course de voitures clandestine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

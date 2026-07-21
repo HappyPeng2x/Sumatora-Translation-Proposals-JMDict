@@ -1,0 +1,15 @@
+{
+  "seq": 1146430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui fait rôtir",
+      "appareil de cuisson à la vapeur"
+    ],
+    [
+      "liste",
+      "registre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1148340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vacances de travail",
+      "séjour de travail et de loisirs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

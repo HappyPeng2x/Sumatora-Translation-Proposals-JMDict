@@ -1,0 +1,13 @@
+{
+  "seq": 1145650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, chim] récipient utilisé pour la distillation"
+    ],
+    [
+      "[n] récipient hermétique utilisé pour chauffer et stériliser les aliments en conserve ou en sachet de rétort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

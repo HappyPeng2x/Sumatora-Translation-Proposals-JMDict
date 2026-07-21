@@ -1,0 +1,12 @@
+{
+  "seq": 1146600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match à l'extérieur",
+      "match en déplacement",
+      "match hors de son stade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

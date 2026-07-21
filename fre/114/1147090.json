@@ -1,0 +1,25 @@
+{
+  "seq": 1147090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "journal",
+      "registre"
+    ],
+    [
+      "logarithme"
+    ],
+    [
+      "tronc d'arbre",
+      "branche d'arbre"
+    ],
+    [
+      "journal de bord",
+      "livre de bord"
+    ],
+    [
+      "log (instrument de mesure de la vitesse d'un navire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

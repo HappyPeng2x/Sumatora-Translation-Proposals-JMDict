@@ -1,0 +1,11 @@
+{
+  "seq": 1143820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agencer un appartement selon ses goûts",
+      "aménager un logement à sa convenance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1145290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "repos"
+    ],
+    [
+      "silence",
+      "pause",
+      "note muette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

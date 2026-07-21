@@ -1,0 +1,15 @@
+{
+  "seq": 1144780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lexique",
+      "vocabulary"
+    ],
+    [
+      "lexique",
+      "dictionnaire (surtout des langues anciennes comme le grec, le latin, l'hébreu, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

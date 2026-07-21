@@ -1,0 +1,10 @@
+{
+  "seq": 1145800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service de référence (d'une bibliothèque, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

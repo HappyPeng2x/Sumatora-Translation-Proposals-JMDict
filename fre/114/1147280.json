@@ -1,0 +1,13 @@
+{
+  "seq": 1147280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logo"
+    ],
+    [
+      "Logo (langage de programmation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

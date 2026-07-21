@@ -1,0 +1,29 @@
+{
+  "seq": 1146920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rouler",
+      "roule",
+      "action de rouler",
+      "mouvement de roulement"
+    ],
+    [
+      "boule",
+      "pain de mie"
+    ],
+    [
+      "rouleau",
+      "rouleuse"
+    ],
+    [
+      "roulis",
+      "mouvement de roulis"
+    ],
+    [
+      "bobine",
+      "pellicule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

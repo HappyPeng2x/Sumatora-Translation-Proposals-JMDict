@@ -1,0 +1,17 @@
+{
+  "seq": 1144510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rare",
+      "peu courant",
+      "exceptionnel"
+    ],
+    [
+      "à point",
+      "bien cuit",
+      "doux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

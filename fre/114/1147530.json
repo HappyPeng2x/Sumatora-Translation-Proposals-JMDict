@@ -1,0 +1,11 @@
+{
+  "seq": 1147530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pierre de Rosette",
+      "pierre de Rosette (pierre gravée en hiéroglyphes, déchiffrée grâce à l'inscription trilingue qui l'a rendue célèbre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

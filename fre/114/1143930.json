@@ -1,0 +1,12 @@
+{
+  "seq": 1143930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre des règles",
+      "manuel des règles",
+      "recueil de règles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

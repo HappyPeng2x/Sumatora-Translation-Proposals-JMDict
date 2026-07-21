@@ -1,0 +1,12 @@
+{
+  "seq": 1146690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course de rue",
+      "course sur route",
+      "course en extérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

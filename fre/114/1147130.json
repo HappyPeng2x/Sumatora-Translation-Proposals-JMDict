@@ -1,0 +1,12 @@
+{
+  "seq": 1147130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déconnexion",
+      "action de se déconnecter",
+      "désactivation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

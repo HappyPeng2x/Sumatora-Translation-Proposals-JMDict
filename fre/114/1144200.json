@@ -1,0 +1,16 @@
+{
+  "seq": 1144200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reportage",
+      "report",
+      "reporting"
+    ],
+    [
+      "littérature documentaire",
+      "documentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

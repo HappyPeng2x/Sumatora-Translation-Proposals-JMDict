@@ -1,0 +1,11 @@
+{
+  "seq": 1146280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "absorbeur à faible capacité",
+      "absorbeur de faible puissance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

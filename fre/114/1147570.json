@@ -1,0 +1,12 @@
+{
+  "seq": 1147570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chambre des vestiaires",
+      "salle des vestiaires",
+      "vestiaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

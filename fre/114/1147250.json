@@ -1,0 +1,12 @@
+{
+  "seq": 1147250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reconnaissance des lieux",
+      "repérage des lieux",
+      "inspection des lieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

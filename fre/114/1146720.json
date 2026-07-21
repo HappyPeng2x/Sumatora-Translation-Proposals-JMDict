@@ -1,0 +1,11 @@
+{
+  "seq": 1146720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faible en matières grasses",
+      "à faible teneur en gras"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

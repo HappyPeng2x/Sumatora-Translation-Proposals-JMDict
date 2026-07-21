@@ -1,0 +1,14 @@
+{
+  "seq": 1145400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordonnance médicale"
+    ],
+    [
+      "reçu pour remboursement par l'assurance maladie"
+    ],
+    []
+  ],
+  "model": "qwen3:14b"
+}

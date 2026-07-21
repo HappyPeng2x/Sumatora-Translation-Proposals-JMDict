@@ -1,0 +1,11 @@
+{
+  "seq": 1145830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "position du juge",
+      "position de l'arbitre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
