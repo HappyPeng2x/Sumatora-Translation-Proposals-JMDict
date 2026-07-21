@@ -1,0 +1,17 @@
+{
+  "seq": 1270400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "venue",
+      "départ",
+      "présence (en un lieu)"
+    ],
+    [
+      "venez",
+      "allez",
+      "restez"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

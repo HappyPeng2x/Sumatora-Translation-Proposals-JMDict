@@ -1,0 +1,15 @@
+{
+  "seq": 1268690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fort à cinq côtés",
+      "fortification pentagonale"
+    ],
+    [
+      "le Pentagone",
+      "bâtiment du Pentagone"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

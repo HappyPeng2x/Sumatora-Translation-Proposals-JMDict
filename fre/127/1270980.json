@@ -1,0 +1,11 @@
+{
+  "seq": 1270980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parler toute la nuit",
+      "causer toute la nuit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

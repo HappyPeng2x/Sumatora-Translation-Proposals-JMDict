@@ -1,0 +1,17 @@
+{
+  "seq": 1270090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie ultérieure",
+      "dernière partie",
+      "deuxième partie",
+      "dernier volume"
+    ],
+    [
+      "suite",
+      "œuvre suivante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

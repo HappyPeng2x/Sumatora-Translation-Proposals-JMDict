@@ -1,0 +1,11 @@
+{
+  "seq": 1272030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pays amis",
+      "pays signataires de traités"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

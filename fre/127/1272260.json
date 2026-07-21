@@ -1,0 +1,11 @@
+{
+  "seq": 1272260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail en équipes tournantes",
+      "travail par relais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

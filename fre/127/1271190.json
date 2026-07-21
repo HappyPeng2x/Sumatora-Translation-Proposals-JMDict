@@ -1,0 +1,12 @@
+{
+  "seq": 1271190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déclaration erronée",
+      "affirmation trompeuse",
+      "malentendu causé par une déclaration trompeuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

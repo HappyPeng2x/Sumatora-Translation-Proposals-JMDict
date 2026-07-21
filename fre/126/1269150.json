@@ -1,0 +1,12 @@
+{
+  "seq": 1269150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "donateur",
+      "donneur",
+      "personne qui fait quelque chose pour vous"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

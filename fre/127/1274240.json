@@ -1,0 +1,12 @@
+{
+  "seq": 1274240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "procès public",
+      "accusation",
+      "indictement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

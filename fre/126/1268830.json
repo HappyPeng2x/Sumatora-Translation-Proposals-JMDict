@@ -1,0 +1,19 @@
+{
+  "seq": 1268830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échange",
+      "mutual exchange"
+    ],
+    [
+      "transposition",
+      "échange de positions"
+    ],
+    [
+      "compatible",
+      "compatible (ordinateurs)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

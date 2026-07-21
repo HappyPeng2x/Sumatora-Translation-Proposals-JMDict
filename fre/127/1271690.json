@@ -1,0 +1,20 @@
+{
+  "seq": 1271690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "connaissance",
+      "relations",
+      "fellowship"
+    ],
+    [
+      "rapport sexuel",
+      "relations sexuelles"
+    ],
+    [
+      "intersection",
+      "croisement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

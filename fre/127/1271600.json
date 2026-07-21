@@ -1,0 +1,11 @@
+{
+  "seq": 1271600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "demander et obtenir",
+      "solliciter et recevoir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

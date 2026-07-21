@@ -1,0 +1,12 @@
+{
+  "seq": 1275060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mérites et fautes",
+      "qualités et défauts",
+      "forces et faiblesses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

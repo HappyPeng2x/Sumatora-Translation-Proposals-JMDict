@@ -1,0 +1,15 @@
+{
+  "seq": 1271830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bourse de compensation",
+      "lieu de compensation"
+    ],
+    [
+      "bureau de change",
+      "monnaie échange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

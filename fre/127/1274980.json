@@ -1,0 +1,11 @@
+{
+  "seq": 1274980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fonctionnaire local",
+      "officiel local"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

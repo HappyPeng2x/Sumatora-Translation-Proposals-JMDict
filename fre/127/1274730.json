@@ -1,0 +1,11 @@
+{
+  "seq": 1274730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corporation publique",
+      "personne morale publique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

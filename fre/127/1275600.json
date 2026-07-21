@@ -1,0 +1,19 @@
+{
+  "seq": 1275600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épaisseur"
+    ],
+    [
+      "profondeur",
+      "profondité"
+    ],
+    [
+      "épaisseur",
+      "groupe dense",
+      "mur compact"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

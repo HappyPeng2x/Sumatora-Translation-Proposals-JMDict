@@ -1,0 +1,12 @@
+{
+  "seq": 1269740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mentionner plus tard",
+      "aborder plus loin",
+      "évoquer ultérieurement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

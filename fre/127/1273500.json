@@ -1,0 +1,11 @@
+{
+  "seq": 1273500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "permis officiel",
+      "licence délivrée par le gouvernement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

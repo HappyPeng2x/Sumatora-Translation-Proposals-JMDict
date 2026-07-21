@@ -1,0 +1,11 @@
+{
+  "seq": 1268240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le cinquième quart de veille de la nuit",
+      "la cinquième veille de la nuit (environ 3h à 5h)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

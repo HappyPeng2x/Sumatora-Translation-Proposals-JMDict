@@ -1,0 +1,12 @@
+{
+  "seq": 1275840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladroit dans le discours",
+      "malhabile verbalement",
+      "peu doué oratoirement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

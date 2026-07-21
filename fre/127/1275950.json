@@ -1,0 +1,16 @@
+{
+  "seq": 1275950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élégant",
+      "clair",
+      "sonore"
+    ],
+    [
+      "non gourmand",
+      "modéré dans la nourriture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

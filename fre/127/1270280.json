@@ -1,0 +1,27 @@
+{
+  "seq": 1270280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "humeur",
+      "tempérament",
+      "état d'esprit",
+      "santé",
+      "bien-être"
+    ],
+    [
+      "sécurité",
+      "état de santé",
+      "bien-être",
+      "situation"
+    ],
+    [
+      "en bonne humeur",
+      "heureux",
+      "joyeux",
+      "content",
+      "satisfait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

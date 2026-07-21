@@ -1,0 +1,13 @@
+{
+  "seq": 1271030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sens du langage"
+    ],
+    [
+      "sensation d'un mot ; impression qu'un mot donne ; nuance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

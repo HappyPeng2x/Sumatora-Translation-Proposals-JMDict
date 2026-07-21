@@ -1,0 +1,24 @@
+{
+  "seq": 1269880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retrait",
+      "recul",
+      "marche arrière",
+      "retour en arrière",
+      "désistement",
+      "retour en arrière (d'un véhicule)"
+    ],
+    [
+      "déclin",
+      "réduction",
+      "diminution",
+      "retrecissement"
+    ],
+    [
+      "touches de suppression (clavier)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

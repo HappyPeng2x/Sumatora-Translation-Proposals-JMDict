@@ -1,0 +1,21 @@
+{
+  "seq": 1268970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cheval",
+      "signe chinois de l'année du cheval"
+    ],
+    [
+      "heure du cheval",
+      "heure correspondant au signe du cheval (environ midi)"
+    ],
+    [
+      "sud"
+    ],
+    [
+      "cinquième mois du calendrier lunaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

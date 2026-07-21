@@ -1,0 +1,17 @@
+{
+  "seq": 1270200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "votre volonté",
+      "votre plaisir",
+      "votre souhait"
+    ],
+    [
+      "certainement",
+      "comme vous dites",
+      "vous avez tout à fait raison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

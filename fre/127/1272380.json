@@ -1,0 +1,11 @@
+{
+  "seq": 1272380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feu de signalisation routière",
+      "signal lumineux régulant la circulation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

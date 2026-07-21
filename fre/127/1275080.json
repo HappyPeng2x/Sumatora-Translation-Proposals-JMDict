@@ -1,0 +1,21 @@
+{
+  "seq": 1275080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mérite",
+      "acte de mérite",
+      "œuvre de charité"
+    ],
+    [
+      "récompense divine",
+      "grâce des bouddhas et des dieux",
+      "bénédiction"
+    ],
+    [
+      "mérite (chrétien)",
+      "méritum"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

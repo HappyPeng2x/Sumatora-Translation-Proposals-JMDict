@@ -1,0 +1,27 @@
+{
+  "seq": 1269730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désavantage",
+      "perte de l'initiative",
+      "être devancé"
+    ],
+    [
+      "joueur qui agit en second",
+      "coup joué en second",
+      "démarrage retardé"
+    ],
+    [
+      "gote",
+      "coup non exigeant de suite une réponse",
+      "mouvement passif dans le go ou le shogi"
+    ],
+    [
+      "garde arrière",
+      "unité de protection en arrière-garde",
+      "troupes de couverture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

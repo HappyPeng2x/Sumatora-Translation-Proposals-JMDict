@@ -1,0 +1,11 @@
+{
+  "seq": 1271770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudiant échange",
+      "étudiante échange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1274710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaires publiques",
+      "le tribunal",
+      "le shogun",
+      "le shogunat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

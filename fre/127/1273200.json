@@ -1,0 +1,12 @@
+{
+  "seq": 1273200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "question de méditation zen",
+      "question kōan",
+      "problème philosophique zen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

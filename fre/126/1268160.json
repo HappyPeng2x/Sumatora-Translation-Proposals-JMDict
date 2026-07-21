@@ -1,0 +1,11 @@
+{
+  "seq": 1268160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nombre à cinq chiffres",
+      "colonne des dizaines de milliers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

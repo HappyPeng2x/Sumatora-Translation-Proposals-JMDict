@@ -1,0 +1,11 @@
+{
+  "seq": 1270950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mode de récitation",
+      "manière de raconter une histoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

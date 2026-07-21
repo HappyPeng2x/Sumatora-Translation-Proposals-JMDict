@@ -1,0 +1,13 @@
+{
+  "seq": 1271150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ton (de la voix) ; manière de parler ; style"
+    ],
+    [
+      "intonation ; accent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

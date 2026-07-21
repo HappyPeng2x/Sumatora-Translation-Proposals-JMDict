@@ -1,0 +1,11 @@
+{
+  "seq": 1273320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réunion publique",
+      "assemblée publique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1273090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cellule photovoltaïque",
+      "cellule photoélectrique",
+      "cellule de lumière",
+      "cellule solaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

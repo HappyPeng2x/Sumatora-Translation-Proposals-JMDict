@@ -1,0 +1,16 @@
+{
+  "seq": 1274940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaire officielle",
+      "affaire gouvernementale",
+      "devoir professionnel"
+    ],
+    [
+      "usage public",
+      "usage gouvernemental"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

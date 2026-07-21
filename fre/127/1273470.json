@@ -1,0 +1,18 @@
+{
+  "seq": 1273470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opinion publique",
+      "débat public"
+    ],
+    [
+      "vue équitable",
+      "argument raisonnable"
+    ],
+    [
+      "conférence à la cour impériale ou shogunale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1268090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les cinq péchés (meurtre, vol, adultère, mensonge et consommation d'alcool)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

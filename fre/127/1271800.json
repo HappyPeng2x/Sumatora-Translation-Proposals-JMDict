@@ -1,0 +1,11 @@
+{
+  "seq": 1271800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "professeur échange",
+      "professeur en poste temporaire dans un autre établissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

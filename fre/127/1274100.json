@@ -1,0 +1,11 @@
+{
+  "seq": 1274100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne publique",
+      "personne en position officielle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

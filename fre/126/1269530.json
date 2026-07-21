@@ -1,0 +1,14 @@
+{
+  "seq": 1269530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "successeur",
+      "remplaçant"
+    ],
+    [
+      "deuxième épouse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

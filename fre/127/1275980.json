@@ -1,0 +1,11 @@
+{
+  "seq": 1275980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aveu écrit",
+      "déposition écrite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

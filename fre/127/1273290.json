@@ -1,0 +1,16 @@
+{
+  "seq": 1273290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nobilité",
+      "noble de la cour impériale",
+      "kuge"
+    ],
+    [
+      "cour impériale",
+      "palais impérial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

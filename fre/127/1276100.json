@@ -1,0 +1,12 @@
+{
+  "seq": 1276100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "habile en parole",
+      "habile dans la conversation",
+      "bavard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

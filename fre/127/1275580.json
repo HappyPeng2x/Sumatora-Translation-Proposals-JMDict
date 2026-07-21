@@ -1,0 +1,20 @@
+{
+  "seq": 1275580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plaque épaisse",
+      "planche épaisse"
+    ],
+    [
+      "plaquette d'acier (d'une épaisseur d'au moins 3 mm)"
+    ],
+    [
+      "tissu broché épais"
+    ],
+    [
+      "espèce de fougère, Elaphoglossum yoshinagae"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

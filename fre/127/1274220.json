@@ -1,0 +1,11 @@
+{
+  "seq": 1274220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "secret dont tout le monde est au courant",
+      "secret évident pour tous"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

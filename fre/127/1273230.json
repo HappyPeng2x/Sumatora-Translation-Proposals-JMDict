@@ -1,0 +1,12 @@
+{
+  "seq": 1273230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise publique",
+      "service public",
+      "secteur des services publics"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

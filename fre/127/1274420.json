@@ -1,0 +1,16 @@
+{
+  "seq": 1274420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "route publique",
+      "autoroute"
+    ],
+    [
+      "droiture",
+      "justice",
+      "chemin droit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

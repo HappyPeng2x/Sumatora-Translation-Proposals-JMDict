@@ -1,0 +1,11 @@
+{
+  "seq": 1271140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "famille de langues",
+      "groupe de langues apparentées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

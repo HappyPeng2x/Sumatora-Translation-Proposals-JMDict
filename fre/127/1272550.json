@@ -1,0 +1,16 @@
+{
+  "seq": 1272550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ami",
+      "compagnon",
+      "connaissance"
+    ],
+    [
+      "amitié",
+      "compagnonnage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

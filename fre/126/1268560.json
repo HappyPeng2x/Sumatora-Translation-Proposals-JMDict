@@ -1,0 +1,18 @@
+{
+  "seq": 1268560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les cinq vertus",
+      "les cinq vertus confucéennes"
+    ],
+    [
+      "tripode",
+      "support de chaudron à trois ou quatre pieds"
+    ],
+    [
+      "monogramme en forme de support de chaudron à trois pieds"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

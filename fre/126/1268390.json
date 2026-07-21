@@ -1,0 +1,10 @@
+{
+  "seq": 1268390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les cinq passions (la colère, la joie, la haine, le désir et la tristesse)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

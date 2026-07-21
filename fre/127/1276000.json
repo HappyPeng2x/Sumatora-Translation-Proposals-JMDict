@@ -1,0 +1,19 @@
+{
+  "seq": 1276000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cap (en métal)"
+    ],
+    [
+      "fermoir"
+    ],
+    [
+      "embouchure"
+    ],
+    [
+      "emboîture (pour une lampe, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

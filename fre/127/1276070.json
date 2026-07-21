@@ -1,0 +1,15 @@
+{
+  "seq": 1276070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "promesse verbale",
+      "engagement verbal"
+    ],
+    [
+      "interdiction de parler à quelqu'un",
+      "sécurité contre la divulgation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

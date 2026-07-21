@@ -1,0 +1,17 @@
+{
+  "seq": 1275860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fuseau",
+      "allumette",
+      "amorce"
+    ],
+    [
+      "cause",
+      "origine",
+      "déclencheur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

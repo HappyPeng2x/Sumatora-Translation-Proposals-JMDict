@@ -1,0 +1,16 @@
+{
+  "seq": 1276060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langage parlé",
+      "paroles dites",
+      "mots prononcés"
+    ],
+    [
+      "langue",
+      "langue (sens général)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

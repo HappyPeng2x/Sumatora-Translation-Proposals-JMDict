@@ -1,0 +1,14 @@
+{
+  "seq": 1268530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conjugaison verbale à cinq syllabes",
+      "verbe de la cinquième classe (en grammaire japonaise)"
+    ],
+    [
+      "cinquième dan (dans les arts martiaux, le go, le shogi, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

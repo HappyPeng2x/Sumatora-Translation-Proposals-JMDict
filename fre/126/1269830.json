@@ -1,0 +1,18 @@
+{
+  "seq": 1269830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au-delà",
+      "vie future",
+      "existence après la mort"
+    ],
+    [
+      "pour l'amour de Dieu",
+      "je vous en prie",
+      "pour le bien de",
+      "par pitié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

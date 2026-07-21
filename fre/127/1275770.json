@@ -1,0 +1,12 @@
+{
+  "seq": 1275770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intervenir",
+      "donner un conseil",
+      "faire une remarque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

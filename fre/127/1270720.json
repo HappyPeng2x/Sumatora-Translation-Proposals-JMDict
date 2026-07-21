@@ -1,0 +1,32 @@
+{
+  "seq": 1270720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaire",
+      "préoccupation",
+      "besoin"
+    ],
+    [
+      "commande",
+      "ordre",
+      "demande client"
+    ],
+    [
+      "affaire officielle",
+      "affaire d'État",
+      "affaire gouvernementale"
+    ],
+    [
+      "arrestation",
+      "capture",
+      "emprisonnement"
+    ],
+    [
+      "soumis",
+      "obéissant",
+      "pro-gouvernemental"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

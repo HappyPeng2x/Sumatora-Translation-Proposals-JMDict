@@ -1,0 +1,17 @@
+{
+  "seq": 1275780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réputation",
+      "avis des gens",
+      "parole d'autrui"
+    ],
+    [
+      "avis en ligne",
+      "commentaires sur Internet",
+      "évaluations en ligne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

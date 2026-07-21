@@ -1,0 +1,13 @@
+{
+  "seq": 1275870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commencer une discussion",
+      "lancer une conversation",
+      "ouvrir le feu",
+      "mettre les choses en mouvement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

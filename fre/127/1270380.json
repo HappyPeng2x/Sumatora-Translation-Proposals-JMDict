@@ -1,0 +1,15 @@
+{
+  "seq": 1270380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "votre entreprise",
+      "votre société"
+    ],
+    [
+      "votre sanctuaire",
+      "votre temple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

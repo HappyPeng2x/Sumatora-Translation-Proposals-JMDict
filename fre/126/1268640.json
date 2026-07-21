@@ -1,0 +1,16 @@
+{
+  "seq": 1268640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélange d'ingrédients (originellement cinq)"
+    ],
+    [
+      "mélange de légumes, de poisson et de viande hachés, mélangés avec un amidon (riz, nouilles)"
+    ],
+    [
+      "gomoku (jeu) ; cinq en ligne ; go-bang"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

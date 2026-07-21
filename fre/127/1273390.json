@@ -1,0 +1,12 @@
+{
+  "seq": 1273390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cours ouverts au public",
+      "séminaires publics",
+      "conférences publiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1269910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrière",
+      "arrière-partie",
+      "arrière-plan"
+    ],
+    [
+      "postposition",
+      "suffixe postpositionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1271170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie initiale d'un mot",
+      "début d'un mot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

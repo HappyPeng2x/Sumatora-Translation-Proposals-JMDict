@@ -1,0 +1,14 @@
+{
+  "seq": 1269790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pays arriéré"
+    ],
+    [
+      "pays sous-développé",
+      "pays en développement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

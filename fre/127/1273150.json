@@ -1,0 +1,17 @@
+{
+  "seq": 1273150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lumière vive"
+    ],
+    [
+      "espoir",
+      "avenir radieux"
+    ],
+    [
+      "lumière émanant d'un bouddha ou d'un bodhisattva, symbolisant leur sagesse et leur compassion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1272860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps qui passe comme une flèche",
+      "le temps ne s'arrête pour personne",
+      "la vie est courte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

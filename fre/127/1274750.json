@@ -1,0 +1,15 @@
+{
+  "seq": 1274750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "citoyen",
+      "personne ayant la nationalité d'un pays donné"
+    ],
+    [
+      "civisme",
+      "enseignement relatif aux droits et devoirs des citoyens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

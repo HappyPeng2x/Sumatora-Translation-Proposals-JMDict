@@ -1,0 +1,16 @@
+{
+  "seq": 1271860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet échangé",
+      "chose donnée en échange"
+    ],
+    [
+      "substitut",
+      "remplacement",
+      "équivalent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

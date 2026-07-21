@@ -1,0 +1,13 @@
+{
+  "seq": 1272570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amitié",
+      "compagnonnage",
+      "fraternité",
+      "camaraderie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

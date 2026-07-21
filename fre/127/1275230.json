@@ -1,0 +1,11 @@
+{
+  "seq": 1275230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amélioration de l'efficacité",
+      "progrès en matière d'efficacité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

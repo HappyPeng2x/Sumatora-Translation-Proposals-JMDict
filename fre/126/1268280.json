@@ -1,0 +1,13 @@
+{
+  "seq": 1268280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les cinq doigts"
+    ],
+    [
+      "les cinq premiers; les cinq majeurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

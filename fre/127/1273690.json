@@ -1,0 +1,15 @@
+{
+  "seq": 1273690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "différence commune"
+    ],
+    [
+      "tolérance",
+      "marge d'erreur",
+      "tolérance (dans l'ingénierie, la fabrication, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

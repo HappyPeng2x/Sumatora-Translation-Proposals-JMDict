@@ -1,0 +1,11 @@
+{
+  "seq": 1269800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poussière laissée par quelqu'un qui court devant",
+      "poussière soulevée par une personne en mouvement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

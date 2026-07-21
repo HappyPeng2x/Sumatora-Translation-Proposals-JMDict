@@ -1,0 +1,20 @@
+{
+  "seq": 1274030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déclaration officielle",
+      "annonce publique",
+      "affirmation officielle"
+    ],
+    [
+      "nominal",
+      "officiel",
+      "déclaré"
+    ],
+    [
+      "nom officiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

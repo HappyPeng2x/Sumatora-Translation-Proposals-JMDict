@@ -1,0 +1,12 @@
+{
+  "seq": 1270750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fin d'année",
+      "fermeture des bureaux",
+      "dernier jour de travail avant les vacances de fin d'année"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

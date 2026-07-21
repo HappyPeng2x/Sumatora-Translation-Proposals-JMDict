@@ -1,0 +1,15 @@
+{
+  "seq": 1273250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "organisation à but non lucratif",
+      "corporation à vocation sociale"
+    ],
+    [
+      "personne morale d'intérêt public",
+      "personne juridique œuvrant pour le bien commun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

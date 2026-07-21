@@ -1,0 +1,24 @@
+{
+  "seq": 1272810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corps lumineux",
+      "corps émettant de la lumière"
+    ],
+    [
+      "métal brillant",
+      "métal scintillant"
+    ],
+    [
+      "poisson à reflet argenté",
+      "poisson d'apparence argentée"
+    ],
+    [
+      "carte de 20 points",
+      "carte brillante",
+      "carte légère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

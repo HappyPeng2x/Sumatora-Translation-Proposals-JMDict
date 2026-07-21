@@ -1,0 +1,14 @@
+{
+  "seq": 1272630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marquis",
+      "second rang des cinq rangs de la noblesse"
+    ],
+    [
+      "daimyo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

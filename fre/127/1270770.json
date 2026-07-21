@@ -1,0 +1,17 @@
+{
+  "seq": 1270770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(s’il vous plaît) regarder",
+      "(s’il vous plaît) voir"
+    ],
+    [
+      "voir (pour souligner que prédiction précédente était correcte)"
+    ],
+    [
+      "(s’il vous plaît) essayer de faire (après la forme -te d’un verbe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

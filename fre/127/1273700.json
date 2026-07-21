@@ -1,0 +1,12 @@
+{
+  "seq": 1273700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dettes publiques",
+      "obligations publiques",
+      "valeurs mobilières émises par l'État"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

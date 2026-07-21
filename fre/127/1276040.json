@@ -1,0 +1,18 @@
+{
+  "seq": 1276040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bouche",
+      "lèvres"
+    ],
+    [
+      "forme de la bouche"
+    ],
+    [
+      "près d'une entrée",
+      "voisinage d'une entrée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

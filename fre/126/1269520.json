@@ -1,0 +1,15 @@
+{
+  "seq": 1269520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudiant plus jeune",
+      "apprenti"
+    ],
+    [
+      "référence future",
+      "allusion future"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

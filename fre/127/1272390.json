@@ -1,0 +1,11 @@
+{
+  "seq": 1272390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mesures de contrôle du trafic",
+      "régulation du trafic"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

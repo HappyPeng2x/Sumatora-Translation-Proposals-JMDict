@@ -1,0 +1,15 @@
+{
+  "seq": 1271810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bureau de commutation (téléphonique)",
+      "centrale téléphonique"
+    ],
+    [
+      "bureau de poste international",
+      "bureau de tri postal international"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

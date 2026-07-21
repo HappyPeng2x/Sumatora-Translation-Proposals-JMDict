@@ -1,0 +1,16 @@
+{
+  "seq": 1267620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre des secrets",
+      "recueil de secrets"
+    ],
+    [
+      "guide de révision",
+      "aide-mémoire",
+      "trousseau de clés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

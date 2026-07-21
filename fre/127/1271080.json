@@ -1,0 +1,10 @@
+{
+  "seq": 1271080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inflexion des mots (par exemple, déclinaison des noms et conjugaison des verbes)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

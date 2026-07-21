@@ -1,0 +1,25 @@
+{
+  "seq": 1270270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marmite",
+      "casserole"
+    ],
+    [
+      "cratère",
+      "bassin volcanique"
+    ],
+    [
+      "fessier",
+      "postérieur"
+    ],
+    [
+      "homosexuel efféminé",
+      "transvesti masculin",
+      "transgenre femme (préopératoire)",
+      "prostitute homosexuel (masculin)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

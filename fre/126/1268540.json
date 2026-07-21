@@ -1,0 +1,13 @@
+{
+  "seq": 1268540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "verbe de la première conjugaison",
+      "verbe en -u",
+      "verbe à racine consonnante",
+      "verbe type 1"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

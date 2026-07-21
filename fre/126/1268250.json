@@ -1,0 +1,16 @@
+{
+  "seq": 1268250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les cinq éléments (dans la philosophie chinoise : bois, feu, terre, métal et eau) ; les cinq phases ; wu xing"
+    ],
+    [
+      "les cinq pratiques des Bodhisattvas"
+    ],
+    [
+      "les cinq piliers de l'islam"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

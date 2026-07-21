@@ -1,0 +1,11 @@
+{
+  "seq": 1276120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chirurgie dentaire",
+      "chirurgie buccale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

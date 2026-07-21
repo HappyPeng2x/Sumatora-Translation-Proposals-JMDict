@@ -1,0 +1,10 @@
+{
+  "seq": 1268520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les cinq océans (Pacifique, Atlantique, Indien, Austral et Arctique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

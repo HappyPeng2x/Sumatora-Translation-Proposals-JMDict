@@ -1,0 +1,14 @@
+{
+  "seq": 1273010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "axe optique",
+      "axe de lentille"
+    ],
+    [
+      "axe optique (d'un cristal)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1270320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mutuellement égaux en ce qui concerne",
+      "être dans la même situation",
+      "être sur le même plan"
+    ],
+    [
+      "mutuel",
+      "réciproque",
+      "pareil pour vous"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

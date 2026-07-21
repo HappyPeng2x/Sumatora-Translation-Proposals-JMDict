@@ -1,0 +1,22 @@
+{
+  "seq": 1269850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avant et arrière",
+      "début et fin",
+      "les deux extrémités"
+    ],
+    [
+      "ordre",
+      "séquence"
+    ],
+    [
+      "conséquences"
+    ],
+    [
+      "contexte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

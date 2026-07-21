@@ -1,0 +1,16 @@
+{
+  "seq": 1268360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Shavuot",
+      "Fête des Semaines",
+      "Pentecôte (juive)"
+    ],
+    [
+      "Pentecôte",
+      "Dimanche de la Pentecôte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

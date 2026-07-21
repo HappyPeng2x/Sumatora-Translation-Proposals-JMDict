@@ -1,0 +1,18 @@
+{
+  "seq": 1276340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écriture avec le pinceau tenu dans la bouche"
+    ],
+    [
+      "préface",
+      "avant-propos"
+    ],
+    [
+      "déposition écrite",
+      "aveu écrit (d'un citoyen commun sous l'époque d'Edo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1270300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail",
+      "peine",
+      "fatigue"
+    ],
+    [
+      "merci",
+      "je vous remercie",
+      "je tiens à vous remercier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

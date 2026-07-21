@@ -1,0 +1,15 @@
+{
+  "seq": 1268400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe de cinq personnes",
+      "quintette"
+    ],
+    [
+      "unité de cinq ménages",
+      "quartier de cinq maisons (époque d'Edo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

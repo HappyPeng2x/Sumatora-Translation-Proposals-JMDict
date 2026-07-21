@@ -1,0 +1,15 @@
+{
+  "seq": 1271850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "table de commutation",
+      "table de connexion téléphonique"
+    ],
+    [
+      "opérateur de standard téléphonique",
+      "opérateur de table de commutation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

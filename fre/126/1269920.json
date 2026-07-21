@@ -1,0 +1,22 @@
+{
+  "seq": 1269920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suivi",
+      "poursuite",
+      "chasse"
+    ],
+    [
+      "imitation",
+      "copie",
+      "exemple suivi"
+    ],
+    [
+      "accrochement",
+      "attachement",
+      "dépendance (chez les bébés et jeunes enfants)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

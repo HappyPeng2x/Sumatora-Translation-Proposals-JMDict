@@ -1,0 +1,12 @@
+{
+  "seq": 1272560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réseau de relations",
+      "cercle de connaissances",
+      "relations sociales"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

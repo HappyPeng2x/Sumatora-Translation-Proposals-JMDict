@@ -1,0 +1,16 @@
+{
+  "seq": 1275820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malpropos",
+      "grossier",
+      "à langage vulgaire"
+    ],
+    [
+      "gourmand",
+      "avide de nourriture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

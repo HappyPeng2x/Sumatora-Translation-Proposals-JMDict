@@ -1,0 +1,12 @@
+{
+  "seq": 1270960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parler ensemble",
+      "discuter ensemble",
+      "s'entretenir mutuellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

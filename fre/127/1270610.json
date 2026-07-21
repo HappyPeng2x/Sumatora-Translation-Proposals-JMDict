@@ -1,0 +1,11 @@
+{
+  "seq": 1270610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trésors impériaux",
+      "objets précieux appartenant à l'empereur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

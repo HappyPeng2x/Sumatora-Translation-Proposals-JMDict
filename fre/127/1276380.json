@@ -1,0 +1,13 @@
+{
+  "seq": 1276380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "habile en conversation",
+      "bon orateur",
+      "persuasif",
+      "charmeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

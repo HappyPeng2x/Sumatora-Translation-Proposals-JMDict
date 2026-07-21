@@ -1,0 +1,13 @@
+{
+  "seq": 1271230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "son (d'une phrase) ; euphonie"
+    ],
+    [
+      "jeu de mots ; jeu sur les mots ; double sens ; jeu de rhymes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

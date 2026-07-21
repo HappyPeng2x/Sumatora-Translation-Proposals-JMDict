@@ -1,0 +1,12 @@
+{
+  "seq": 1272590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mutation du personnel",
+      "changement de personnel",
+      "réorganisation du personnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

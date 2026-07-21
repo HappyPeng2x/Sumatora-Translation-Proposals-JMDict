@@ -1,0 +1,15 @@
+{
+  "seq": 1275120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "efficacité",
+      "bénéfice",
+      "efficience",
+      "effet",
+      "résultat",
+      "succès"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

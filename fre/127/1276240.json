@@ -1,0 +1,16 @@
+{
+  "seq": 1276240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mener un cheval, une vache, etc."
+    ],
+    [
+      "valet de cheval ; garçon de piste"
+    ],
+    [
+      "amuse-bouche ; entrée ; plat de mise en bouche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

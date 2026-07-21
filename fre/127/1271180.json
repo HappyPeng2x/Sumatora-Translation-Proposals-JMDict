@@ -1,0 +1,17 @@
+{
+  "seq": 1271180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suffixe",
+      "fin de mot",
+      "terminaison"
+    ],
+    [
+      "fin",
+      "extrémité",
+      "bout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

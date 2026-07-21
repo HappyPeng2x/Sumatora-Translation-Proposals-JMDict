@@ -1,0 +1,12 @@
+{
+  "seq": 1270160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "omettre le reste",
+      "omettre la suite",
+      "ne pas mentionner le reste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1275750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "goûter",
+      "manger",
+      "boire"
+    ],
+    [
+      "exprimer",
+      "formuler",
+      "mentionner",
+      "dire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1270500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discours fastidieux",
+      "parole impertinente",
+      "répétition ennuyeuse",
+      "discours prétentieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

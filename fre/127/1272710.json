@@ -1,0 +1,11 @@
+{
+  "seq": 1272710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "oiseau migrateur",
+      "oiseau de passage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

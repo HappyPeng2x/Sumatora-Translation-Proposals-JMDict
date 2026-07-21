@@ -1,0 +1,19 @@
+{
+  "seq": 1270930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récit",
+      "conte"
+    ],
+    [
+      "narration",
+      "récit"
+    ],
+    [
+      "sujet",
+      "thème"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

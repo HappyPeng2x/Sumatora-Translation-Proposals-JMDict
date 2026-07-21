@@ -1,0 +1,11 @@
+{
+  "seq": 1269930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suicide par imitation",
+      "suicide commis après avoir vu quelqu'un se suicider"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

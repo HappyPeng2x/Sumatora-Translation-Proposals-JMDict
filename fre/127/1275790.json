@@ -1,0 +1,16 @@
+{
+  "seq": 1275790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alimentation par la bouche",
+      "alimentation bec à bec",
+      "réanimation bouche à bouche"
+    ],
+    [
+      "transmission orale",
+      "tradition orale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1269620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tutelle",
+      "protecteur",
+      "sauvegarde"
+    ],
+    [
+      "assistant",
+      "prompteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
