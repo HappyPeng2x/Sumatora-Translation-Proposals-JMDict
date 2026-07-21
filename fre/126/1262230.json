@@ -1,0 +1,12 @@
+{
+  "seq": 1262230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mal causé par une bombe atomique",
+      "symptômes de la maladie causée par les radiations d'une bombe atomique",
+      "maladie liée à l'exposition aux radiations d'une bombe atomique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

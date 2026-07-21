@@ -1,0 +1,23 @@
+{
+  "seq": 1264120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remarques",
+      "commentaires"
+    ],
+    [
+      "manière de parler",
+      "style de discours"
+    ],
+    [
+      "excuse",
+      "prétexte"
+    ],
+    [
+      "sujet de conversation",
+      "thème"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

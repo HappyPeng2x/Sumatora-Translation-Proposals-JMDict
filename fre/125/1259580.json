@@ -1,0 +1,28 @@
+{
+  "seq": 1259580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prévoir",
+      "anticiper",
+      "estimer",
+      "compter sur",
+      "prendre en compte"
+    ],
+    [
+      "faire confiance",
+      "mettre sa confiance en",
+      "croire en"
+    ],
+    [
+      "juger prometteur",
+      "voir des perspectives favorables dans"
+    ],
+    [
+      "mettre le regard sur",
+      "marquer (comme victime)",
+      "fixer les yeux sur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1262360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "original",
+      "document, copie, œuvre, texte, etc."
+    ],
+    [
+      "racine",
+      "origine",
+      "source"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

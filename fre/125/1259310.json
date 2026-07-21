@@ -1,0 +1,15 @@
+{
+  "seq": 1259310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne pas reconnaître",
+      "manquer de reconnaître"
+    ],
+    [
+      "sous-estimer",
+      "ne pas estimer à sa juste valeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

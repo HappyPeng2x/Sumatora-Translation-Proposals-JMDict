@@ -1,0 +1,11 @@
+{
+  "seq": 1265390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tous les temps et tous les lieux",
+      "tous les âges et tous les pays"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

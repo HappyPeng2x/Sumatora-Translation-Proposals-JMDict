@@ -1,0 +1,12 @@
+{
+  "seq": 1264300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arguer vivement",
+      "débattre avec passion",
+      "plaidoyer avec force"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

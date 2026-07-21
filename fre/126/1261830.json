@@ -1,0 +1,17 @@
+{
+  "seq": 1261830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grain de semence",
+      "semence de base",
+      "semence fondatrice"
+    ],
+    [
+      "race pure",
+      "souche originale",
+      "ancêtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

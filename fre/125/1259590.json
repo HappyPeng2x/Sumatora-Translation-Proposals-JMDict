@@ -1,0 +1,15 @@
+{
+  "seq": 1259590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moment",
+      "période",
+      "époque",
+      "instant",
+      "temps",
+      "période idéale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

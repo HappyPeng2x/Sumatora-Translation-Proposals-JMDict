@@ -1,0 +1,15 @@
+{
+  "seq": 1263350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perte de poids",
+      "réduction de poids"
+    ],
+    [
+      "diminution de quantité",
+      "réduction de la quantité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

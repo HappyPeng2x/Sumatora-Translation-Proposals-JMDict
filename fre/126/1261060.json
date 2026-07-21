@@ -1,0 +1,16 @@
+{
+  "seq": 1261060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négociant",
+      "fabricant"
+    ],
+    [
+      "capitaliste",
+      "financier",
+      "investisseur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

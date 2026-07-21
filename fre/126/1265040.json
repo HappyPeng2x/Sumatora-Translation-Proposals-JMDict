@@ -1,0 +1,13 @@
+{
+  "seq": 1265040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "antiquité",
+      "temps anciens",
+      "époques passées",
+      "temps révolus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

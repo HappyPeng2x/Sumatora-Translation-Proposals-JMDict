@@ -1,0 +1,13 @@
+{
+  "seq": 1264240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défaire (quelqu'un) en argument",
+      "convaincre (quelqu'un) par l'argumentation",
+      "réfuter (quelqu'un)",
+      "contredire (quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

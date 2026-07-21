@@ -1,0 +1,14 @@
+{
+  "seq": 1264270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "persuader",
+      "convaincre",
+      "admonester",
+      "prévenir",
+      "raisonner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

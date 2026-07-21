@@ -1,0 +1,11 @@
+{
+  "seq": 1264590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étouffer la liberté d'expression",
+      "censurer la liberté d'expression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

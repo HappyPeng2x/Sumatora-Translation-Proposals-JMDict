@@ -1,0 +1,11 @@
+{
+  "seq": 1260250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langage humble",
+      "langage modeste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1261950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bombe atomique et bombe à hydrogène",
+      "bombe nucléaire et bombe thermonucléaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

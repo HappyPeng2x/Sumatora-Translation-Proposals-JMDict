@@ -1,0 +1,16 @@
+{
+  "seq": 1265230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vétéran",
+      "senior",
+      "personne expérimentée"
+    ],
+    [
+      "stump",
+      "racine ancienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

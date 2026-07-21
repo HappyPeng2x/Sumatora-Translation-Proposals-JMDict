@@ -1,0 +1,16 @@
+{
+  "seq": 1262400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bois brut",
+      "bois non traité",
+      "troncs d'arbres"
+    ],
+    [
+      "origine d'une variété d'arbre",
+      "ancêtre d'une variété d'arbre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

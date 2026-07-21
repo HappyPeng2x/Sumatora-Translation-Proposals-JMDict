@@ -1,0 +1,11 @@
+{
+  "seq": 1266110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paléographie",
+      "étude des écritures anciennes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1266390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appeler (quelqu'un) pour qu'il vienne",
+      "appeler à l'aide",
+      "appeler à la rescousse"
+    ],
+    [
+      "toujours appeler quelqu'un par son nom",
+      "s'habituer à appeler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

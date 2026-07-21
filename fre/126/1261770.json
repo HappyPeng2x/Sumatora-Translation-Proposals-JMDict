@@ -1,0 +1,11 @@
+{
+  "seq": 1261770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "électricité nucléaire",
+      "production d'électricité nucléaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

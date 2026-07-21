@@ -1,0 +1,20 @@
+{
+  "seq": 1264750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chambre individuelle",
+      "pièce privée",
+      "cabine privée"
+    ],
+    [
+      "salle privée",
+      "salle à manger privée"
+    ],
+    [
+      "cabine de toilette",
+      "cloaque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

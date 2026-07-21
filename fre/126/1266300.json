@@ -1,0 +1,17 @@
+{
+  "seq": 1266300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réveiller (quelqu'un) en l'appelant",
+      "réveiller"
+    ],
+    [
+      "appeler à l'esprit",
+      "rappeler (des souvenirs)",
+      "évoquer",
+      "provoquer (un intérêt)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

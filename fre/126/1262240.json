@@ -1,0 +1,16 @@
+{
+  "seq": 1262240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "centrale nucléaire",
+      "production d'énergie nucléaire"
+    ],
+    [
+      "principal",
+      "primordial",
+      "originel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

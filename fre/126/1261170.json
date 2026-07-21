@@ -1,0 +1,11 @@
+{
+  "seq": 1261170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comité de rédaction",
+      "comité chargé de rédiger un projet initial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

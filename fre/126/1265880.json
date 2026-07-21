@@ -1,0 +1,10 @@
+{
+  "seq": 1265880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langues classiques ou disparues"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

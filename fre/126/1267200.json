@@ -1,0 +1,11 @@
+{
+  "seq": 1267200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "achat de biens volés",
+      "reception de biens volés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

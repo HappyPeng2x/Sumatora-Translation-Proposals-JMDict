@@ -1,0 +1,20 @@
+{
+  "seq": 1266560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "durcissement",
+      "renforcement"
+    ],
+    [
+      "engagement",
+      "serment"
+    ],
+    [
+      "défense",
+      "protection",
+      "garde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

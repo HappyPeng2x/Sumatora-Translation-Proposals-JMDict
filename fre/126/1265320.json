@@ -1,0 +1,15 @@
+{
+  "seq": 1265320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "précédents anciens",
+      "enseignements anciens"
+    ],
+    [
+      "lecture ancienne",
+      "lecture traditionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

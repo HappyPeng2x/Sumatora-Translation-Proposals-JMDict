@@ -1,0 +1,16 @@
+{
+  "seq": 1259750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fixer le regard sur",
+      "fixer ses yeux sur"
+    ],
+    [
+      "s'assurer de",
+      "mettre son regard sur",
+      "se concentrer sur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

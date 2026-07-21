@@ -1,0 +1,11 @@
+{
+  "seq": 1266000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "édition ancienne (d'un livre)",
+      "édition ancienne (de bois gravé)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

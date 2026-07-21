@@ -1,0 +1,22 @@
+{
+  "seq": 1259810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abandonnement",
+      "renoncement",
+      "abandon"
+    ],
+    [
+      "vente à bas prix",
+      "vente en solde",
+      "débarras"
+    ],
+    [
+      "bord",
+      "limite",
+      "arrête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

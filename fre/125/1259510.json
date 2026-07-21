@@ -1,0 +1,15 @@
+{
+  "seq": 1259510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "choisir librement",
+      "agir selon son propre jugement"
+    ],
+    [
+      "déterminer le moment opportun",
+      "estimer le temps propice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

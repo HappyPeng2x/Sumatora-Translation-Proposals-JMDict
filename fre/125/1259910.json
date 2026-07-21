@@ -1,0 +1,28 @@
+{
+  "seq": 1259910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voir sans obstruction",
+      "avoir une vue dégagée de",
+      "voir à travers"
+    ],
+    [
+      "lire dans les pensées de quelqu'un",
+      "deviner les intentions de quelqu'un",
+      "percevoir les émotions de quelqu'un",
+      "voir à travers les intentions de quelqu'un"
+    ],
+    [
+      "prévoir",
+      "prédire",
+      "anticiper",
+      "prévoir à l'avance"
+    ],
+    [
+      "assister à quelque chose de début à fin",
+      "suivre quelque chose jusqu'au bout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

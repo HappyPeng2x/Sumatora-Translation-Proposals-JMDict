@@ -1,0 +1,17 @@
+{
+  "seq": 1263880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet réel",
+      "marchandise réelle"
+    ],
+    [
+      "points (actions, change, matières premières, etc.)"
+    ],
+    [
+      "en nature (revenu, avantage, loyer, impôts, investissement, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

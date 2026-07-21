@@ -1,0 +1,11 @@
+{
+  "seq": 1265280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancienne signification",
+      "interprétation ancienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

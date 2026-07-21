@@ -1,0 +1,14 @@
+{
+  "seq": 1261070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "principal",
+      "capital"
+    ],
+    [
+      "actifs générateurs de revenus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

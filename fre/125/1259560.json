@@ -1,0 +1,18 @@
+{
+  "seq": 1259560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se regarder mutuellement",
+      "échanger des regards"
+    ],
+    [
+      "correspondre à",
+      "être proportionné à",
+      "être en accord avec",
+      "compenser",
+      "équilibrer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

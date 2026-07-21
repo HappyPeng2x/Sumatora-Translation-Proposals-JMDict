@@ -1,0 +1,12 @@
+{
+  "seq": 1259400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regarder autour de soi",
+      "inspecter",
+      "surveiller"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1266120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "riz ancien",
+      "riz restant de la récolte précédente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

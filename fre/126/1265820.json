@@ -1,0 +1,14 @@
+{
+  "seq": 1265820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vieux renard",
+      "vieux renard rusé",
+      "vieux malin",
+      "vétéran",
+      "vieux habitué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

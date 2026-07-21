@@ -1,0 +1,11 @@
+{
+  "seq": 1265500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manuscrit ancien",
+      "codex ancien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

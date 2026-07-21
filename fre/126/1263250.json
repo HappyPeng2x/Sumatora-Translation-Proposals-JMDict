@@ -1,0 +1,15 @@
+{
+  "seq": 1263250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diminution",
+      "déclin",
+      "baisse"
+    ],
+    [
+      "soustrayant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

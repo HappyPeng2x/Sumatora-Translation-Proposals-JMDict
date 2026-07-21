@@ -1,0 +1,12 @@
+{
+  "seq": 1264480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "consistance entre paroles et actes",
+      "cohérence entre mots et actions",
+      "unité entre ce que l'on dit et ce que l'on fait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

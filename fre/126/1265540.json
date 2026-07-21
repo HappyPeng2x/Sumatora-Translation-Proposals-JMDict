@@ -1,0 +1,16 @@
+{
+  "seq": 1265540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre ancien",
+      "livre rare",
+      "classique"
+    ],
+    [
+      "livre d'occasion",
+      "livre usagé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

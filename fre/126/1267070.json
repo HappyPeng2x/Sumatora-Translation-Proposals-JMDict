@@ -1,0 +1,15 @@
+{
+  "seq": 1267070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "porte coulissante",
+      "panneau coulissant"
+    ],
+    [
+      "flétan",
+      "grande espèce de flétan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

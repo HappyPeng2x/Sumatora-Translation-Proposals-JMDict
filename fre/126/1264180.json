@@ -1,0 +1,19 @@
+{
+  "seq": 1264180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transmettre (une histoire, une légende, etc.)",
+      "laisser descendre (une tradition, etc.)"
+    ],
+    [
+      "répandre (un bruit, des nouvelles, etc.)",
+      "faire circuler"
+    ],
+    [
+      "envoyer un message",
+      "transmettre un message"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

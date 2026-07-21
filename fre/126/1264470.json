@@ -1,0 +1,11 @@
+{
+  "seq": 1264470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parole et comportement",
+      "discours et action"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

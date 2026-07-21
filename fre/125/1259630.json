@@ -1,0 +1,17 @@
+{
+  "seq": 1259630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vue",
+      "opinion",
+      "jugement",
+      "aperçu"
+    ],
+    [
+      "fierté",
+      "estime de soi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

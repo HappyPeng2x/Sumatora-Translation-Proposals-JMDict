@@ -1,0 +1,12 @@
+{
+  "seq": 1264140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ajouter",
+      "dire quelque chose en plus",
+      "ajouter un commentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

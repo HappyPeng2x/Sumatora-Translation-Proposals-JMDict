@@ -1,0 +1,18 @@
+{
+  "seq": 1261810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "support pour un stencil",
+      "support pour mimeographe"
+    ],
+    [
+      "feuille contenant des œufs de vers à soie"
+    ],
+    [
+      "papier de base",
+      "papier de corps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

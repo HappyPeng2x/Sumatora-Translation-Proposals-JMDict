@@ -1,0 +1,11 @@
+{
+  "seq": 1264570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pouvoir mystique inhérent aux mots",
+      "esprit de la langue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

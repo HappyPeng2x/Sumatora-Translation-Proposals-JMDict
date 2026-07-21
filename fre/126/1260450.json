@@ -1,0 +1,17 @@
+{
+  "seq": 1260450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "misérable",
+      "désespéré",
+      "abattu",
+      "désolé",
+      "sans espoir",
+      "sans issue",
+      "sans ressource",
+      "dans l'abandon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

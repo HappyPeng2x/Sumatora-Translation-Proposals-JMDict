@@ -1,0 +1,12 @@
+{
+  "seq": 1259790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "estimer",
+      "calculer",
+      "évaluer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

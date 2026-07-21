@@ -1,0 +1,18 @@
+{
+  "seq": 1261000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gestionnaire",
+      "contrôleur",
+      "administrateur"
+    ],
+    [
+      "trésorier en chef"
+    ],
+    [
+      "patron d'un casino"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

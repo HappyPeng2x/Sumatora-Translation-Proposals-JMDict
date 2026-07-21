@@ -1,0 +1,11 @@
+{
+  "seq": 1260110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "foire commerciale",
+      "exposition commerciale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

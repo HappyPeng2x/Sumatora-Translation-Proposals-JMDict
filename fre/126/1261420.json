@@ -1,0 +1,11 @@
+{
+  "seq": 1261420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tribunal d'instance",
+      "tribunal de première instance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1264210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expliquer de façon vague",
+      "répondre de manière évasive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

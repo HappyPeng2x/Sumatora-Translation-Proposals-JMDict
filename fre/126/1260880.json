@@ -1,0 +1,12 @@
+{
+  "seq": 1260880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reprise",
+      "réconciliation",
+      "retour à la normale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

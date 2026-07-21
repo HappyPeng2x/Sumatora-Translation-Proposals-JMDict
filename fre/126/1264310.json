@@ -1,0 +1,11 @@
+{
+  "seq": 1264310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passer le temps à parler",
+      "passer son temps à bavarder"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

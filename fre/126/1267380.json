@@ -1,0 +1,15 @@
+{
+  "seq": 1267380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "renard",
+      "tanuki"
+    ],
+    [
+      "homme rusé",
+      "menteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

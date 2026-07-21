@@ -1,0 +1,11 @@
+{
+  "seq": 1263600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "machine automatique de retrait de fonds",
+      "distributeur automatique de billets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

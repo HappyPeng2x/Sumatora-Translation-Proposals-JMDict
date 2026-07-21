@@ -1,0 +1,12 @@
+{
+  "seq": 1262760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "protestation ferme",
+      "exigence d'explication",
+      "discussion sérieuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

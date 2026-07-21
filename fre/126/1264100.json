@@ -1,0 +1,18 @@
+{
+  "seq": 1264100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affirmer",
+      "déclarer",
+      "asserter",
+      "dire catégoriquement"
+    ],
+    [
+      "terminer une phrase",
+      "dire tout ce qu'on a à dire",
+      "exprimer complètement ce qu'on veut dire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

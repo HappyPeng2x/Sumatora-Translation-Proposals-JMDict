@@ -1,0 +1,11 @@
+{
+  "seq": 1264390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "singe qui ne parle pas",
+      "singe du 'ne pas dire' (l'un des trois singes sages)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

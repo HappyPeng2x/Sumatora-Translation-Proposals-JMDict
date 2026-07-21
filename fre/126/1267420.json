@@ -1,0 +1,17 @@
+{
+  "seq": 1267420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "largeur de chevauchement",
+      "marge de collage"
+    ],
+    [
+      "espace disponible",
+      "marge de manœuvre",
+      "latitude",
+      "marge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

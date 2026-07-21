@@ -1,0 +1,13 @@
+{
+  "seq": 1265200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "convention",
+      "usage",
+      "coutume ancienne",
+      "étiquette ancienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

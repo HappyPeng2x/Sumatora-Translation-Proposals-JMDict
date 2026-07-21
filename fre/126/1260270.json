@@ -1,0 +1,12 @@
+{
+  "seq": 1260270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme doué",
+      "personne capable",
+      "individu talentueux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

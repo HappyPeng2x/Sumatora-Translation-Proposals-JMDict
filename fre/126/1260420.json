@@ -1,0 +1,14 @@
+{
+  "seq": 1260420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mettre (quelqu'un) à sa place",
+      "faire taire (quelqu'un)",
+      "dominer (quelqu'un) dans un débat",
+      "mettre (quelqu'un) dans un coin lors d'un argument",
+      "avoir le dessus sur (quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

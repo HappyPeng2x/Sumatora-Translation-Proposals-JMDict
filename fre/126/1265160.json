@@ -1,0 +1,12 @@
+{
+  "seq": 1265160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancien lecteur",
+      "lecture ancienne",
+      "lecture basée sur le chinois des dynasties Zhou, Han et Wei"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

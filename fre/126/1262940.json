@@ -1,0 +1,11 @@
+{
+  "seq": 1262940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hallucination visuelle",
+      "vision fantôme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

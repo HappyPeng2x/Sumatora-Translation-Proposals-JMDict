@@ -1,0 +1,11 @@
+{
+  "seq": 1261380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "honorarium pour un manuscrit",
+      "paiement pour un texte écrit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1260150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "choisir après avoir vu",
+      "sélectionner après avoir observé"
+    ],
+    [
+      "diagnostiquer",
+      "identifier (une maladie)"
+    ],
+    [
+      "juger",
+      "évaluer",
+      "estimer"
+    ],
+    [
+      "comparer à",
+      "imaginer comme",
+      "considérer comme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

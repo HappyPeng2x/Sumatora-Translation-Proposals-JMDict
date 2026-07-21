@@ -1,0 +1,22 @@
+{
+  "seq": 1265520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet usagé",
+      "article usé"
+    ],
+    [
+      "vétéran",
+      "ancien employé",
+      "personne expérimentée"
+    ],
+    [
+      "établi depuis longtemps",
+      "ancien",
+      "ordinaire",
+      "démodé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

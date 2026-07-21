@@ -1,0 +1,16 @@
+{
+  "seq": 1262270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme",
+      "plaque de typographie",
+      "plaque originale"
+    ],
+    [
+      "édition originale",
+      "première édition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

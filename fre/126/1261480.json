@@ -1,0 +1,15 @@
+{
+  "seq": 1261480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu d'origine (d'une espèce végétale ou animale, etc.)",
+      "habitat naturel",
+      "terre natale"
+    ],
+    [
+      "lieu d'origine (des produits manufacturés)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

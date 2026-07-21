@@ -1,0 +1,11 @@
+{
+  "seq": 1259450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "visiteur",
+      "de l'usine, de l'école, du laboratoire, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

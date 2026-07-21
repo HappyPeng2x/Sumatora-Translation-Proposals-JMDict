@@ -1,0 +1,16 @@
+{
+  "seq": 1266270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réveiller (quelqu'un) en criant",
+      "faire réveiller (quelqu'un) par des appels"
+    ],
+    [
+      "ramener (un souvenir, etc.)",
+      "évoquer",
+      "rappeler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1264340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affirmer",
+      "déclarer",
+      "prétendre",
+      "insister",
+      "maintenir"
+    ],
+    [
+      "énumérer",
+      "lister",
+      "compter un à un"
+    ],
+    [
+      "répandre des rumeurs",
+      "ne cesser de parler (de quelque chose)"
+    ],
+    [
+      "utiliser comme excuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1259600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laisser mourir sans aider",
+      "ne pas porter secours à quelqu'un qui est en danger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

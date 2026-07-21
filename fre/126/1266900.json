@@ -1,0 +1,15 @@
+{
+  "seq": 1266900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuisine du temple",
+      "cuisine du monastère"
+    ],
+    [
+      "logement du supérieur du temple",
+      "demeure du chef moine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

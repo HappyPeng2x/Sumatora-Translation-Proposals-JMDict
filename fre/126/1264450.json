@@ -1,0 +1,15 @@
+{
+  "seq": 1264450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abominable",
+      "inadmissible",
+      "intolérable",
+      "scandaleux",
+      "déshonnête",
+      "honteux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

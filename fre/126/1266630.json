@@ -1,0 +1,12 @@
+{
+  "seq": 1266630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retenir sa respiration",
+      "garder le souffle coupé",
+      "suffoquer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1262290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie civile et partie adverse",
+      "plaignant et défendeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

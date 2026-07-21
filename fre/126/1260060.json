@@ -1,0 +1,22 @@
+{
+  "seq": 1260060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récompense",
+      "indemnité",
+      "remboursement",
+      "chose donnée ou faite en retour"
+    ],
+    [
+      "gage",
+      "sécurité",
+      "garantie"
+    ],
+    [
+      "regard en arrière",
+      "détour de la tête vers l'arrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

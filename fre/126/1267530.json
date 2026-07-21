@@ -1,0 +1,15 @@
+{
+  "seq": 1267530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'asseoir en tailleur",
+      "croiser les jambes pour s'asseoir"
+    ],
+    [
+      "se reposer sur ses lauriers",
+      "être arrogant, se croire supérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

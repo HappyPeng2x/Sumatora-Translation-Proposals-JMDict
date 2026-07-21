@@ -1,0 +1,11 @@
+{
+  "seq": 1263050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musique de cordes",
+      "musique pour instruments à cordes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

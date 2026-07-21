@@ -1,0 +1,12 @@
+{
+  "seq": 1260200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terme modeste",
+      "expression humiliante",
+      "manière modeste de se référer à soi-même, à ses capacités, à ses possessions, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

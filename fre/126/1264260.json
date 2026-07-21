@@ -1,0 +1,11 @@
+{
+  "seq": 1264260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "équivoquer",
+      "tergiverser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

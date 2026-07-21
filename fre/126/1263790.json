@@ -1,0 +1,15 @@
+{
+  "seq": 1263790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ce monde",
+      "cette vie"
+    ],
+    [
+      "l'ère actuelle",
+      "l'ère holocène"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

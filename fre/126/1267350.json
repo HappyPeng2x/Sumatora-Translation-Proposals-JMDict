@@ -1,0 +1,14 @@
+{
+  "seq": 1267350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lumière faible et incandescente vue dans les champs et les montagnes la nuit",
+      "feu follet",
+      "ignis fatuus",
+      "feu d'elfe",
+      "feu de marais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

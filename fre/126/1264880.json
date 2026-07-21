@@ -1,0 +1,12 @@
+{
+  "seq": 1264880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "individualité",
+      "personnalité",
+      "idiosyncrasie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

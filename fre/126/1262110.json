@@ -1,0 +1,11 @@
+{
+  "seq": 1262110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "champignon de champ",
+      "champignon des prairies"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

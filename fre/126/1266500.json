@@ -1,0 +1,11 @@
+{
+  "seq": 1266500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "techniques de respiration",
+      "maîtrise de la respiration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

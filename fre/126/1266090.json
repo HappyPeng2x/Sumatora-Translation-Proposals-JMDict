@@ -1,0 +1,12 @@
+{
+  "seq": 1266090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "antiquaire",
+      "vendeur de curiosités",
+      "commerçant en objets d'occasion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

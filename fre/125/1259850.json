@@ -1,0 +1,12 @@
+{
+  "seq": 1259850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manquer de voir",
+      "ne pas voir",
+      "rater une vision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

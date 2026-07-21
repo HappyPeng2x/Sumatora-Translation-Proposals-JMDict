@@ -1,0 +1,11 @@
+{
+  "seq": 1264700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plafond",
+      "limite (d'un montant, par exemple sur une carte de crédit, un prêt, une dépense)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

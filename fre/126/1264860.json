@@ -1,0 +1,11 @@
+{
+  "seq": 1264860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépenses des ménages",
+      "consommation individuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

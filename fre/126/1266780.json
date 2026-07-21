@@ -1,0 +1,17 @@
+{
+  "seq": 1266780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "douteux",
+      "malhonnête",
+      "trichériste"
+    ],
+    [
+      "provisoire",
+      "précédent",
+      "expédient"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

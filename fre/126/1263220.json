@@ -1,0 +1,12 @@
+{
+  "seq": 1263220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réduction des rations alimentaires",
+      "restriction de l'alimentation",
+      "diminution de la quantité de nourriture consommée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1267430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rempaillement",
+      "starchage"
+    ],
+    [
+      "collage",
+      "pâte",
+      "coller",
+      "paster"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

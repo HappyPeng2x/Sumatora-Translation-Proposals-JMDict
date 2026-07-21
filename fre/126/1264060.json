@@ -1,0 +1,15 @@
+{
+  "seq": 1264060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dire selon la tradition",
+      "dire conformément à la coutume"
+    ],
+    [
+      "avoir l'habitude de dire",
+      "être en train de dire habituellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

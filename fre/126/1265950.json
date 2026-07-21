@@ -1,0 +1,11 @@
+{
+  "seq": 1265950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet ancien importé",
+      "souvenir précieux importé durant ou avant la période de Muromachi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

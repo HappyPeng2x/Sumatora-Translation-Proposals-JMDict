@@ -1,0 +1,12 @@
+{
+  "seq": 1260690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dans le même état que départ",
+      "revenir à la situation initiale",
+      "retourner à l'origine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

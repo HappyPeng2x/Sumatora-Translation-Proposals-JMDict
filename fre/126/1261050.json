@@ -1,0 +1,11 @@
+{
+  "seq": 1261050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prépaiement",
+      "de frais de port, d'expédition, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

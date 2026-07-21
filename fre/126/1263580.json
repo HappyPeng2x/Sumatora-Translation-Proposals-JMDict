@@ -1,0 +1,11 @@
+{
+  "seq": 1263580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distributeur de billets",
+      "distributeur de monnaie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

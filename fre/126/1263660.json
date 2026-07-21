@@ -1,0 +1,12 @@
+{
+  "seq": 1263660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pour l'instant",
+      "actuellement",
+      "pour le moment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

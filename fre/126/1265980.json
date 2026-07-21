@@ -1,0 +1,16 @@
+{
+  "seq": 1265980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemin ancien",
+      "route ancienne"
+    ],
+    [
+      "méthodes anciennes",
+      "enseignements moraux anciens",
+      "la voie de l'apprentissage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

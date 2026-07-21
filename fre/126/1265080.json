@@ -1,0 +1,15 @@
+{
+  "seq": 1265080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anciennement",
+      "autrefois"
+    ],
+    [
+      "l'ancien temps",
+      "il y a longtemps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

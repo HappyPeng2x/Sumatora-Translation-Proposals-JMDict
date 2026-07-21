@@ -1,0 +1,11 @@
+{
+  "seq": 1264130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "envoyer un message",
+      "écrire à quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

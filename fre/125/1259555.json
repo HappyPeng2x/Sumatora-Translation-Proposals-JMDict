@@ -1,0 +1,11 @@
+{
+  "seq": 1259555,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rencontre formelle visant au mariage",
+      "entretien avec un(e) futur(e) conjoint(e)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

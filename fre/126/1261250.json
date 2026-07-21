@@ -1,0 +1,17 @@
+{
+  "seq": 1261250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dessin original",
+      "image originale"
+    ],
+    [
+      "image clé",
+      "dessin clé",
+      "cadre clé",
+      "animation clé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

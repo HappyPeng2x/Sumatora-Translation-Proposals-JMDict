@@ -1,0 +1,11 @@
+{
+  "seq": 1262100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unité d'origine",
+      "unité d'appartenance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1263870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "employé résidant sur un site de travail à l'étranger",
+      "expatrié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

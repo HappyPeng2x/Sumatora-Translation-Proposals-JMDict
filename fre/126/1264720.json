@@ -1,0 +1,11 @@
+{
+  "seq": 1264720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signes diacritiques",
+      "utilisés pour interpréter le chinois classique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1264320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déclarer",
+      "affirmer",
+      "dire franchement",
+      "dire sans détour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
