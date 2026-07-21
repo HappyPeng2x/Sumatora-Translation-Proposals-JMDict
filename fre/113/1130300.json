@@ -1,0 +1,11 @@
+{
+  "seq": 1130300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interface homme-machine",
+      " MMI"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

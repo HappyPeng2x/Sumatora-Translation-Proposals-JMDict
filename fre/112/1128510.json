@@ -1,0 +1,20 @@
+{
+  "seq": 1128510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "correspondance",
+      "association",
+      "liaison entre des éléments de données"
+    ],
+    [
+      "application",
+      "correspondance (mathématiques)"
+    ],
+    [
+      "cartographie",
+      "représentation graphique d'un territoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

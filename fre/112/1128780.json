@@ -1,0 +1,15 @@
+{
+  "seq": 1128780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manucure",
+      "soin des ongles"
+    ],
+    [
+      "lak de vernis à ongles",
+      "vernis à ongles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

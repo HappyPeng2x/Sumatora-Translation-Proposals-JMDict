@@ -1,0 +1,15 @@
+{
+  "seq": 1129590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Mars (dieu)",
+      "Mars (dieu romain)"
+    ],
+    [
+      "Mars (planète)",
+      "Mars (planète du système solaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1125000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pager",
+      "beeper"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

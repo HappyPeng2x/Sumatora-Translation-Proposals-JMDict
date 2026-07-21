@@ -1,0 +1,11 @@
+{
+  "seq": 1125090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système de point de vente",
+      "système POS"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

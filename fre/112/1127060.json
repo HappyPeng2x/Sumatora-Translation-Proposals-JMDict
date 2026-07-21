@@ -1,0 +1,13 @@
+{
+  "seq": 1127060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "miler (athlète ou cheval spécialisé dans les courses de un mile)"
+    ],
+    [
+      "personne qui accumule beaucoup de miles fréquents"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

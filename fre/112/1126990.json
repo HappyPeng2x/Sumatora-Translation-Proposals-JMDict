@@ -1,0 +1,13 @@
+{
+  "seq": 1126990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "image négative",
+      "image déplaisante",
+      "mauvaise image",
+      "mauvaise impression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

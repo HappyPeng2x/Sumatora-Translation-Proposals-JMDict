@@ -1,0 +1,12 @@
+{
+  "seq": 1125430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pomme de terre frite",
+      "frites",
+      "chips"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

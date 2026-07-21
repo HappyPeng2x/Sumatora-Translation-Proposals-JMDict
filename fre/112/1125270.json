@@ -1,0 +1,15 @@
+{
+  "seq": 1125270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tomber goutte à goutte",
+      "tomber en gouttes"
+    ],
+    [
+      "brusquement",
+      "soudain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

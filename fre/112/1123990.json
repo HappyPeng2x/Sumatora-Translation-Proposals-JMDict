@@ -1,0 +1,14 @@
+{
+  "seq": 1123990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corps",
+      "tranche de corps"
+    ],
+    [
+      "coup de corps (boxe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

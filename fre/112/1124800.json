@@ -1,0 +1,21 @@
+{
+  "seq": 1124800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poteau",
+      "bâton",
+      "colonne"
+    ],
+    [
+      "pôle de tramway",
+      "pôle de trolleybus"
+    ],
+    [
+      "pôle (unité de mesure)",
+      "perche",
+      "rode (unité de longueur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

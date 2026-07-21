@@ -1,0 +1,11 @@
+{
+  "seq": 1124030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langage corporel",
+      "communication non verbale par le corps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1130250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chasse à l'homme",
+      "recherche intense d'une personne recherchée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

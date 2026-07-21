@@ -1,0 +1,25 @@
+{
+  "seq": 1127200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "support",
+      "base",
+      "structure"
+    ],
+    [
+      "support pour une lentille"
+    ],
+    [
+      "support (d'un disque dur, etc.)"
+    ],
+    [
+      "montage (comportement animal)"
+    ],
+    [
+      "affirmer sa domination",
+      "prendre le dessus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

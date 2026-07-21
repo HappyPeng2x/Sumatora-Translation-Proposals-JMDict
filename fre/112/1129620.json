@@ -1,0 +1,16 @@
+{
+  "seq": 1129620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "multi-"
+    ],
+    [
+      "post-multi"
+    ],
+    [
+      "marketing multi-niveaux; vente en pyramide; réseau de recommandations"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

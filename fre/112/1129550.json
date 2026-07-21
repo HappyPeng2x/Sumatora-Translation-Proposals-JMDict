@@ -1,0 +1,10 @@
+{
+  "seq": 1129550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "processus de Markov"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

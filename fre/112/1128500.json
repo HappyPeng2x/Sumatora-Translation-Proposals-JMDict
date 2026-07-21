@@ -1,0 +1,13 @@
+{
+  "seq": 1128500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nombre de Mach"
+    ],
+    [
+      "à grande vitesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

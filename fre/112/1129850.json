@@ -1,0 +1,11 @@
+{
+  "seq": 1129850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système à microprocesseurs",
+      "système multiprocesseurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

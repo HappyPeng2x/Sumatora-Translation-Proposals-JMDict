@@ -1,0 +1,15 @@
+{
+  "seq": 1127170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comportement de montée (chez les animaux)",
+      "action de monter (chez les animaux)"
+    ],
+    [
+      "affirmation de la suprématie",
+      "manifestation de domination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

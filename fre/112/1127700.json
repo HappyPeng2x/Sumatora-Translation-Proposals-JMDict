@@ -1,0 +1,18 @@
+{
+  "seq": 1127700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magie"
+    ],
+    [
+      "stylo à bille",
+      "stylo permanent",
+      "marqueur"
+    ],
+    [
+      "nombre magique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

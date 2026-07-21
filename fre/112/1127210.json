@@ -1,0 +1,16 @@
+{
+  "seq": 1127210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "butte (de lancer)",
+      "colline (de lancer)"
+    ],
+    [
+      "butte",
+      "colline",
+      "éminence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

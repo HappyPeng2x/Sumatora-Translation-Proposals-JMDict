@@ -1,0 +1,53 @@
+{
+  "seq": 1124860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point clé",
+      "élément essentiel",
+      "partie importante"
+    ],
+    [
+      "lieu",
+      "emplacement",
+      "endroit"
+    ],
+    [
+      "point (dans un système de notation)"
+    ],
+    [
+      "point (dans un programme de fidélité)"
+    ],
+    [
+      "point (d'unité de mesure des pourcentages)"
+    ],
+    [
+      "virgule décimale"
+    ],
+    [
+      "aiguillage",
+      "points (ferroviaires)"
+    ],
+    [
+      "point (unité de mesure typographique)"
+    ],
+    [
+      "point (dans un indice boursier)"
+    ],
+    [
+      "zone de regroupement de poissons"
+    ],
+    [
+      "as (cartes)"
+    ],
+    [
+      "point (d'arme projectile)"
+    ],
+    [
+      "pointer (vers)",
+      "indiquer (vers)",
+      "montrer (vers)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

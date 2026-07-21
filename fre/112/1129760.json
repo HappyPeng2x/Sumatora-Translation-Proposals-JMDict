@@ -1,0 +1,13 @@
+{
+  "seq": 1129760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amplification multicanal"
+    ],
+    [
+      "système d'amplification multicanal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

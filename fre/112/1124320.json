@@ -1,0 +1,12 @@
+{
+  "seq": 1124320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contrôle du volume",
+      "régulation du volume",
+      "manette de volume"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1127690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magicien",
+      "illusionniste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

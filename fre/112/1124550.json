@@ -1,0 +1,12 @@
+{
+  "seq": 1124550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jambon sans os",
+      "jambon débarrassé des os",
+      "jambon désossé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

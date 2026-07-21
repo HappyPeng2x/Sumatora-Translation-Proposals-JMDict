@@ -1,0 +1,11 @@
+{
+  "seq": 1129110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mannequin",
+      "jeune femme employée pour montrer des vêtements aux clients"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

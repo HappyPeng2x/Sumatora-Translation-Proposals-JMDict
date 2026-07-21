@@ -1,0 +1,16 @@
+{
+  "seq": 1123710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enregistreur de voix de cockpit",
+      "enregistreur de voix de cabine de pilotage"
+    ],
+    [
+      "enregistreur de voix",
+      "machine à dictée",
+      "dictaphone"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1123790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boxeur (combattant)",
+      "boxeur (sportif)"
+    ],
+    [
+      "chien de race boxer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

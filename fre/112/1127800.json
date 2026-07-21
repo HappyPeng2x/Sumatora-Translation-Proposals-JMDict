@@ -1,0 +1,15 @@
+{
+  "seq": 1127800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "masse"
+    ],
+    [
+      "majeur",
+      "important",
+      "considérable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

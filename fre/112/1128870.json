@@ -1,0 +1,20 @@
+{
+  "seq": 1128870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manuel",
+      "guide",
+      "instructions"
+    ],
+    [
+      "manuel d'instructions",
+      "règles de base",
+      "normes"
+    ],
+    [
+      "voiture à transmission manuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

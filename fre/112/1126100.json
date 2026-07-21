@@ -1,0 +1,19 @@
+{
+  "seq": 1126100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Mercure (dieu)",
+      "dieu romain du commerce et de l'argent"
+    ],
+    [
+      "Mercure (planète)",
+      "planète du système solaire la plus proche du Soleil"
+    ],
+    [
+      "mercure (Hg)",
+      "élément chimique de numéro atomique 80"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1127270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "revue",
+      "périodique"
+    ],
+    [
+      "chargeur",
+      "magasin (d'arme à feu)"
+    ],
+    [
+      "boîtier",
+      "cartouche (de film)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

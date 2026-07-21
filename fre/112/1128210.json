@@ -1,0 +1,17 @@
+{
+  "seq": 1128210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dame",
+      "femme mariée",
+      "lady",
+      "ménagère"
+    ],
+    [
+      "propriétaire (d'un bar, d'un café, etc.)",
+      "gérante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1130070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remboursement mensuel total d'une carte de crédit",
+      "paiement intégral mensuel d'un solde de carte de crédit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

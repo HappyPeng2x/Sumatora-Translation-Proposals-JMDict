@@ -1,0 +1,14 @@
+{
+  "seq": 1129340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marin"
+    ],
+    [
+      "les Marines",
+      "la Marine (armée)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

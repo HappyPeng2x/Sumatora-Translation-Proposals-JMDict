@@ -1,0 +1,12 @@
+{
+  "seq": 1128460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agiter des problèmes pour en tirer profit",
+      "profiter de la résolution de problèmes qu'on a soi-même créés",
+      "susciter des difficultés afin de se mettre en valeur en les résolvant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

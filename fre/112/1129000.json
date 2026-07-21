@@ -1,0 +1,10 @@
+{
+  "seq": 1129000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "consultant en gestion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

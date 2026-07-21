@@ -1,0 +1,11 @@
+{
+  "seq": 1130120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défense en individuel",
+      "défense un-contre-un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

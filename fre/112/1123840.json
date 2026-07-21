@@ -1,0 +1,15 @@
+{
+  "seq": 1123840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef",
+      "leader",
+      "maître"
+    ],
+    [
+      "boss (adversaire difficile, généralement à la fin d'un niveau ou d'une section)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

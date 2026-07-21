@@ -1,0 +1,11 @@
+{
+  "seq": 1129670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "multi-agent",
+      "système composé de plusieurs agents autonomes qui interagissent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

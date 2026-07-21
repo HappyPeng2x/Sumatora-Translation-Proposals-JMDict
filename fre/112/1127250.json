@@ -1,0 +1,11 @@
+{
+  "seq": 1127250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "western à spaghetti",
+      "film de western spaghetti"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

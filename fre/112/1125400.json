@@ -1,0 +1,18 @@
+{
+  "seq": 1125400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "patate"
+    ],
+    [
+      "frites",
+      "chips",
+      "patate frite"
+    ],
+    [
+      "patate douce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

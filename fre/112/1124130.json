@@ -1,0 +1,13 @@
+{
+  "seq": 1124130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "atteindre le fond",
+      "arriver au point le plus bas",
+      "atteindre le minimum"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

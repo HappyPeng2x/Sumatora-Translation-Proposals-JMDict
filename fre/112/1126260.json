@@ -1,0 +1,12 @@
+{
+  "seq": 1126260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "leader du marché",
+      "premier du marché",
+      "entreprise dominante sur le marché"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

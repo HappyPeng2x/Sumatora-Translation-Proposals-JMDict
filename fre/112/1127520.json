@@ -1,0 +1,11 @@
+{
+  "seq": 1127520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "thé au masala",
+      "thé à la safran et épices"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

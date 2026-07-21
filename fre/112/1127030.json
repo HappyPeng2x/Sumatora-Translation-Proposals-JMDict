@@ -1,0 +1,15 @@
+{
+  "seq": 1127030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à son propre rythme",
+      "selon son propre rythme"
+    ],
+    [
+      "à sa propre manière",
+      "selon sa propre manière (surtout de façon peu considérée)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

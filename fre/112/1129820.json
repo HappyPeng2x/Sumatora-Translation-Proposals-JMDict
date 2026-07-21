@@ -1,0 +1,12 @@
+{
+  "seq": 1129820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "multiplexeur",
+      "multiplexor",
+      "mux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

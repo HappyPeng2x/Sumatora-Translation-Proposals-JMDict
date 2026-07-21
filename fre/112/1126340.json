@@ -1,0 +1,11 @@
+{
+  "seq": 1126340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stratégie de marketing",
+      "tactique de marketing"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

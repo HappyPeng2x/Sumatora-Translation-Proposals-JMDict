@@ -1,0 +1,12 @@
+{
+  "seq": 1126170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feuille de réponse à choix multiple",
+      "feuille de réponse lisible par ordinateur",
+      "feuille à bulles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

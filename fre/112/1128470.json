@@ -1,0 +1,17 @@
+{
+  "seq": 1128470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "correspondance",
+      "adéquation",
+      "accord"
+    ],
+    [
+      "réseau",
+      "liaison",
+      "relation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

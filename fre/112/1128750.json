@@ -1,0 +1,17 @@
+{
+  "seq": 1128750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fanatique",
+      "passionné",
+      "collectionneur acharné"
+    ],
+    [
+      "manie",
+      "enthousiasme excessif",
+      "obsession"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1128340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "journaliste investigateur",
+      "chroniqueur social",
+      "reporter enquêteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

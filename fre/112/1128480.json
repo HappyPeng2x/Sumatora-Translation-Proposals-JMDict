@@ -1,0 +1,16 @@
+{
+  "seq": 1128480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tapis",
+      "coussin",
+      "matériel de sol"
+    ],
+    [
+      "tapis de combat",
+      "tapis de boxe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1130160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, geol] manteau"
+    ],
+    [
+      "[n] (gaz) manteau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1125540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélange",
+      "mélange de fleurs et d'épices aromatisées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1127670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle des machines",
+      "local technique",
+      "salle de machines"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

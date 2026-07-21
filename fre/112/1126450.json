@@ -1,0 +1,15 @@
+{
+  "seq": 1126450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marche (musicale)",
+      "marche militaire"
+    ],
+    [
+      "mars (mois)",
+      "nom propre : March (prénom ou nom de famille)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

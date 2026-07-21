@@ -1,0 +1,13 @@
+{
+  "seq": 1127600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "machine"
+    ],
+    [
+      "voiture de course ; moto de course"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

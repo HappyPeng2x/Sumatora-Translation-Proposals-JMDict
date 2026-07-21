@@ -1,0 +1,17 @@
+{
+  "seq": 1124510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lien",
+      "attachement",
+      "union"
+    ],
+    [
+      "collage",
+      "colle",
+      "adhésif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

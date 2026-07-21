@@ -1,0 +1,15 @@
+{
+  "seq": 1124520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "capot (de voiture)",
+      "morceau de tissu sur la tête"
+    ],
+    [
+      "chapeau de bébé",
+      "chapeau de femme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1130240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Manhattan"
+    ],
+    [
+      "cocktail Manhattan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

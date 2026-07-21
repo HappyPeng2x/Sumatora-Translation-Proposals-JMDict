@@ -1,0 +1,11 @@
+{
+  "seq": 1124300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre d'une organisation qui participe à des activités bénévoles",
+      "personne qui s'engage bénévolement dans une activité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

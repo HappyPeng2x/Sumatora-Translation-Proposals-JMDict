@@ -1,0 +1,15 @@
+{
+  "seq": 1127580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fils dépendant de sa mère",
+      "attaché de façon excessive à sa mère"
+    ],
+    [
+      "complexe d'Œdipe",
+      "attirance sexuelle envers sa mère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

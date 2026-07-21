@@ -1,0 +1,11 @@
+{
+  "seq": 1125500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musique populaire",
+      "musique pop"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

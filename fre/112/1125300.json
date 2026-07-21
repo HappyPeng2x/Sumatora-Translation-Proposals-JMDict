@@ -1,0 +1,23 @@
+{
+  "seq": 1125300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "populaire",
+      "en vogue",
+      "à la mode"
+    ],
+    [
+      "au style pop-art"
+    ],
+    [
+      "musique pop",
+      "pop (musique)"
+    ],
+    [
+      "opérer une pop (opération de pile)",
+      "pop (opération de pile)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1127540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mâle qui est trop attaché à sa mère",
+      "enfant gâté par sa mère",
+      "personne qui dépend excessivement de sa mère"
+    ],
+    [
+      "complexe d'Édipe",
+      "attirance sexuelle envers sa mère",
+      "complexe oedipien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

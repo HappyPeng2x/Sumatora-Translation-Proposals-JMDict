@@ -1,0 +1,11 @@
+{
+  "seq": 1123950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin en boîte",
+      "magasin de vente au détail en format compact"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1127140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "souris (surtout en laboratoire)",
+      "ratto (surtout en laboratoire)"
+    ],
+    [
+      "souris (d'ordinateur)",
+      "mousser (d'ordinateur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

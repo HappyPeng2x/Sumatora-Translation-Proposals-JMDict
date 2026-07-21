@@ -1,0 +1,11 @@
+{
+  "seq": 1128440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match play",
+      "mode de jeu en golf où les joueurs s'affrontent directement, par manche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

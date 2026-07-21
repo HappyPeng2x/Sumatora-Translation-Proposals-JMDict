@@ -1,0 +1,19 @@
+{
+  "seq": 1125610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préfixe",
+      "poly-"
+    ],
+    [
+      "nom, abbréviation",
+      "polyéthylène (souvent dans les composés)"
+    ],
+    [
+      "nom, musique, abbréviation",
+      "polyphonie (d'un clavier électronique, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

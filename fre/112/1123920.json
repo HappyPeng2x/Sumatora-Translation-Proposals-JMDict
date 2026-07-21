@@ -1,0 +1,29 @@
+{
+  "seq": 1123920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boîte",
+      "contenant",
+      "seau"
+    ],
+    [
+      "boîte (théâtre)",
+      "booth (restaurant)",
+      "fosse d'orchestre"
+    ],
+    [
+      "petit bâtiment rectangulaire (ex. cabine téléphonique)"
+    ],
+    [
+      "zone rectangulaire sur un terrain de baseball (ex. zone du frappeur, zone du receveur)"
+    ],
+    [
+      "boîte (cuir de veau)"
+    ],
+    [
+      "zone centrale 4x4 (jeu d'othello)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

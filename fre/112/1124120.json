@@ -1,0 +1,18 @@
+{
+  "seq": 1124120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie inférieure",
+      "bas",
+      "fond"
+    ],
+    [
+      "vêtement du bas (comme des jeans, des pantalons, une jupe, etc.)"
+    ],
+    [
+      "ourlet (de pantalons, jupe, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

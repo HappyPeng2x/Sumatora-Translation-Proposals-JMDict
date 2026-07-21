@@ -1,0 +1,19 @@
+{
+  "seq": 1125070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "positif",
+      "optimiste",
+      "favorable"
+    ],
+    [
+      "positif (photographie)"
+    ],
+    [
+      "pôle positif",
+      "anode"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

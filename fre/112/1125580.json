@@ -1,0 +1,15 @@
+{
+  "seq": 1125580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étoile dans la constellation de la Petite Ourse",
+      "Alpha de la Petite Ourse",
+      "étoile polaire"
+    ],
+    [
+      "missile balistique sous-marin nucléaire UGM-27 Polaris"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

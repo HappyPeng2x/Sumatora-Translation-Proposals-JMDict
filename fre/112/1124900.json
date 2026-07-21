@@ -1,0 +1,11 @@
+{
+  "seq": 1124900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taille en points",
+      "taille de police en points"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1129020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "simulation de gestion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

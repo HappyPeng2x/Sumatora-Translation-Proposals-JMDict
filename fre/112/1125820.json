@@ -1,0 +1,11 @@
+{
+  "seq": 1125820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "politicien",
+      "personne engagée dans la politique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

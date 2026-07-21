@@ -1,0 +1,11 @@
+{
+  "seq": 1125680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "polygraphe",
+      "détection de mensonges"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

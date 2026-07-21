@@ -1,0 +1,20 @@
+{
+  "seq": 1126920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "micro-ordinateur",
+      "ordinateur personnel",
+      "ordinateur domestique"
+    ],
+    [
+      "microcontrôleur",
+      "microprocesseur",
+      "unité de contrôle à microprocesseur"
+    ],
+    [
+      "icône animée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

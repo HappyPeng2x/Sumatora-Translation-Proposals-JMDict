@@ -1,0 +1,19 @@
+{
+  "seq": 1126940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mineur",
+      "petit",
+      "insignifiant",
+      "obscure"
+    ],
+    [
+      "mineur (mode, gamme, etc.)"
+    ],
+    [
+      "les ligues mineures (baseball américain)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

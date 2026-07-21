@@ -1,0 +1,20 @@
+{
+  "seq": 1125490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "populaire",
+      "bien aimé"
+    ],
+    [
+      "commun",
+      "fréquent",
+      "populaire"
+    ],
+    [
+      "musique populaire",
+      "musique pop"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

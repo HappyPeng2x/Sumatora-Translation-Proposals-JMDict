@@ -1,0 +1,20 @@
+{
+  "seq": 1126070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stylo",
+      "marqueur (d'écriture)"
+    ],
+    [
+      "objet",
+      "repère",
+      "signe distinctif"
+    ],
+    [
+      "compteur de points",
+      "marqueur (dans le golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

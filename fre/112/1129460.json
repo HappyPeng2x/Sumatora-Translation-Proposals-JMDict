@@ -1,0 +1,11 @@
+{
+  "seq": 1129460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "viande de mer",
+      "viande synthétique faite de chair de poisson"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
