@@ -1,0 +1,10 @@
+{
+  "seq": 1132000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "café au lait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

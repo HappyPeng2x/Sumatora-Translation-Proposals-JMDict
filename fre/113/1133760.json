@@ -1,0 +1,15 @@
+{
+  "seq": 1133760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélange",
+      "combinaison",
+      "assemblage"
+    ],
+    [
+      "relais en nage combinée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

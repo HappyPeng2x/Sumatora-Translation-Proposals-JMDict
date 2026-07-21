@@ -1,0 +1,11 @@
+{
+  "seq": 1132660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logiciel de lecture de courriel",
+      "programme de lecture de courriel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

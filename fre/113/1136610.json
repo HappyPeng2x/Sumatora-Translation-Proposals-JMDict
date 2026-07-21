@@ -1,0 +1,12 @@
+{
+  "seq": 1136610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interface utilisateur",
+      "interface de l'utilisateur",
+      "interface utilisateur (informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

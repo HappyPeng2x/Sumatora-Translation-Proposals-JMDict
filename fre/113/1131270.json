@@ -1,0 +1,16 @@
+{
+  "seq": 1131270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voiture mini",
+      "voiture de petite taille",
+      "voiture kei"
+    ],
+    [
+      "voiture miniature",
+      "voiture de collection en miniature"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

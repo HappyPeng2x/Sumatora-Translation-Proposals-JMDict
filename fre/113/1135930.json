@@ -1,0 +1,11 @@
+{
+  "seq": 1135930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mortier",
+      "mélange de ciment, de chaux et de sable utilisé en maçonnerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

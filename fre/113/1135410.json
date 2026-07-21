@@ -1,0 +1,17 @@
+{
+  "seq": 1135410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mon ami",
+      "mon amie",
+      "mon copain",
+      "ma copine",
+      "mon camarade",
+      "mon collègue",
+      "mon associé",
+      "mon partenaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

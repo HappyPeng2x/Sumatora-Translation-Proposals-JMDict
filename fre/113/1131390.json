@@ -1,0 +1,16 @@
+{
+  "seq": 1131390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "miniature",
+      "petit",
+      "réduit"
+    ],
+    [
+      "figurine miniature",
+      "modèle réduit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

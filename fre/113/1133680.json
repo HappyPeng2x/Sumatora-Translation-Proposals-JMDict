@@ -1,0 +1,11 @@
+{
+  "seq": 1133680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travailleur social médical",
+      "travailleur social spécialisé en santé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

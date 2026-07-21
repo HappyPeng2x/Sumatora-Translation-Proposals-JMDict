@@ -1,0 +1,11 @@
+{
+  "seq": 1131700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bande magnétique contenant de la musique",
+      "bande audio"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

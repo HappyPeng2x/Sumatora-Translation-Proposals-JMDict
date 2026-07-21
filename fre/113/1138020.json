@@ -1,0 +1,11 @@
+{
+  "seq": 1138020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "technique de jeu consistant à frapper des notes",
+      "technique de jeu consistant à taper sur les cordes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1132950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mécanisation",
+      "automatisation mécanique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

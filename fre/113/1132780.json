@@ -1,0 +1,11 @@
+{
+  "seq": 1132780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "banque principale",
+      "banque de financement principal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

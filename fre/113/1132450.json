@@ -1,0 +1,16 @@
+{
+  "seq": 1132450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maquillage",
+      "apparence, mise en beauté",
+      "décor, mise en scène"
+    ],
+    [
+      "composition, structure",
+      "répartition, distribution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

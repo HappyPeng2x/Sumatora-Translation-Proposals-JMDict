@@ -1,0 +1,11 @@
+{
+  "seq": 1134680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appel du matin",
+      "réveil téléphonique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

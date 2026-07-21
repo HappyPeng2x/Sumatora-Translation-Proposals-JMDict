@@ -1,0 +1,17 @@
+{
+  "seq": 1137950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lumière",
+      "éclairage",
+      "lumineux"
+    ],
+    [
+      "clair",
+      "léger",
+      "pâle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

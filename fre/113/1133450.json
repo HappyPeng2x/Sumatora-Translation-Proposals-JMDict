@@ -1,0 +1,11 @@
+{
+  "seq": 1133450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "niveau méta",
+      "niveau supérieur dans une hiérarchie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

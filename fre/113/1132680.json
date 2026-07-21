@@ -1,0 +1,19 @@
+{
+  "seq": 1132680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "principal",
+      "principal, majeur"
+    ],
+    [
+      "plat principal",
+      "cours principal"
+    ],
+    [
+      "partie principale",
+      "élément principal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

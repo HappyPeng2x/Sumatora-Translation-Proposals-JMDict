@@ -1,0 +1,14 @@
+{
+  "seq": 1134030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avantage",
+      "bénéfice",
+      "mérite",
+      "point fort",
+      "atout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

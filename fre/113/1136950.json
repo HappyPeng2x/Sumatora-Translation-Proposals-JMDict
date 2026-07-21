@@ -1,0 +1,14 @@
+{
+  "seq": 1136950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "euro (monnaie)",
+      "monnaie de l'euro"
+    ],
+    [
+      "Euro-; européen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

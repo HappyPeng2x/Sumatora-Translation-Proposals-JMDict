@@ -1,0 +1,19 @@
+{
+  "seq": 1134180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "follement amoureux",
+      "éperdument amoureux",
+      "subjugué",
+      "en extase"
+    ],
+    [
+      "effondré",
+      "désespéré",
+      "abattu",
+      "sans énergie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

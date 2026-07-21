@@ -1,0 +1,12 @@
+{
+  "seq": 1136770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle de service",
+      "salle de lavage",
+      "salle d'utilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

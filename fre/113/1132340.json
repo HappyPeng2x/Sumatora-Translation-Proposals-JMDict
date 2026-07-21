@@ -1,0 +1,15 @@
+{
+  "seq": 1132340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mustélidé",
+      "renard des marais"
+    ],
+    [
+      "chien renard",
+      "Nyctereutes procyonoides"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

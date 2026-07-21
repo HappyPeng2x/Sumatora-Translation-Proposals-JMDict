@@ -1,0 +1,16 @@
+{
+  "seq": 1131080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moyen (cuisson, préparation, etc.)",
+      "de degré moyen"
+    ],
+    [
+      "support (transparent) pour l'encre",
+      "substance intermédiaire",
+      "support (transparent) d'impression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

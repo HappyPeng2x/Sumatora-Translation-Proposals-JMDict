@@ -1,0 +1,19 @@
+{
+  "seq": 1135790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moratoire",
+      "période de grâce",
+      "extension (de temps, par exemple pour effectuer des paiements)",
+      "cessation (pendant une période, par exemple des essais nucléaires)"
+    ],
+    [
+      "report (de responsabilités sociales)",
+      "immaturité",
+      "manque de maturité émotionnelle",
+      "état mental d'un jeune qui ne veut pas devenir adulte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

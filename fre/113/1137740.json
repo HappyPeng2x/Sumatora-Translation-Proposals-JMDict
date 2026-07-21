@@ -1,0 +1,11 @@
+{
+  "seq": 1137740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "position",
+      "dans le golf, la position où se trouve la balle avant le coup"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

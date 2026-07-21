@@ -1,0 +1,12 @@
+{
+  "seq": 1136630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facile à utiliser",
+      "conçu pour être intuitif",
+      "adapté aux besoins de l'utilisateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

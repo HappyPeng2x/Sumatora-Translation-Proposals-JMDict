@@ -1,0 +1,16 @@
+{
+  "seq": 1133190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mettre le scalpel sur",
+      "opérer"
+    ],
+    [
+      "prendre des mesures drastiques pour investiguer",
+      "examiner minutieusement",
+      "mettre quelque chose sous microscope"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1138270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "live (diffusion, musique, etc.)",
+      "en direct (diffusion, musique, etc.)"
+    ],
+    [
+      "prestation en direct",
+      "concert en direct"
+    ],
+    [
+      "résonnant (salle, etc.)",
+      "réverbérant",
+      "échoïque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

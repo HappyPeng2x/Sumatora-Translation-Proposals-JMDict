@@ -1,0 +1,27 @@
+{
+  "seq": 1133140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "principal",
+      "important",
+      "majeur",
+      "célèbre",
+      "d'importance"
+    ],
+    [
+      "les Ligues majeures",
+      "la Ligue majeure de baseball"
+    ],
+    [
+      "majeur (mode, gamme, etc.)"
+    ],
+    [
+      "majeur (pétrole)"
+    ],
+    [
+      "grand label (disque)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

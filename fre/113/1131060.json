@@ -1,0 +1,11 @@
+{
+  "seq": 1131060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "MIPS",
+      "millions d'instructions par seconde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

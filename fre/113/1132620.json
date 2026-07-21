@@ -1,0 +1,16 @@
+{
+  "seq": 1132620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courriel"
+    ],
+    [
+      "courrier; poste (souvent dans les composés)"
+    ],
+    [
+      "message (dans une application de messagerie instantanée); message instantané; message texte (SMS)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

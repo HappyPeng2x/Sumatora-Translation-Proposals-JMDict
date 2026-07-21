@@ -1,0 +1,12 @@
+{
+  "seq": 1133150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les Ligues majeures",
+      "la Ligue majeure de baseball",
+      "la MLB"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

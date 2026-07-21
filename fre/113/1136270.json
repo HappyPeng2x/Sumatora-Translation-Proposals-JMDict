@@ -1,0 +1,12 @@
+{
+  "seq": 1136270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vente de garage",
+      "vente de maison",
+      "vente de jardin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1135980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cobaye",
+      "animal de laboratoire"
+    ],
+    [
+      "sujet d'expérience",
+      "cobaye (humain)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

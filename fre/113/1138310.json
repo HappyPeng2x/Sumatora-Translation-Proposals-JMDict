@@ -1,0 +1,16 @@
+{
+  "seq": 1138310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bibliothèque"
+    ],
+    [
+      "série de livres"
+    ],
+    [
+      "bibliothèque (logiciel, modules, images, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

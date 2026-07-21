@@ -1,0 +1,12 @@
+{
+  "seq": 1138100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "notes de disque",
+      "notes d'album",
+      "notes de chanteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

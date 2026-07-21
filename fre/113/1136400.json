@@ -1,0 +1,14 @@
+{
+  "seq": 1136400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeune"
+    ],
+    [
+      "jeune personne",
+      "jeunesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

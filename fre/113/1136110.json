@@ -1,0 +1,23 @@
+{
+  "seq": 1136110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monstre",
+      "chose monstrueuse"
+    ],
+    [
+      "géant",
+      "personnage influent",
+      "colosse"
+    ],
+    [
+      "monstrueux",
+      "exigeant",
+      "tyrannique",
+      "autoritaire",
+      "dominant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1132630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commande par correspondance",
+      "commande par courrier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

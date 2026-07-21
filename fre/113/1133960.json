@@ -1,0 +1,13 @@
+{
+  "seq": 1133960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "melancholique",
+      "doux",
+      "triste",
+      "sombre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

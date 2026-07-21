@@ -1,0 +1,17 @@
+{
+  "seq": 1137220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unité",
+      "unité de mesure"
+    ],
+    [
+      "groupe",
+      "formation",
+      "bande (musique)",
+      "groupe (spectacle)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1131860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "best-seller qui a vendu un million d'exemplaires",
+      "ouvrage, disque, etc. vendu à un million d'exemplaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

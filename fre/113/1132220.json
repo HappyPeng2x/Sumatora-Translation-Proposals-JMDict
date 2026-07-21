@@ -1,0 +1,27 @@
+{
+  "seq": 1132220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement",
+      "politique",
+      "social",
+      "artistique",
+      "etc."
+    ],
+    [
+      "mouvement",
+      "d'une montre",
+      "d'un horloge"
+    ],
+    [
+      "impression",
+      "de mouvement"
+    ],
+    [
+      "mouvement",
+      "musical"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

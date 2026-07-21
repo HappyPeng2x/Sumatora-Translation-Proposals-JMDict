@@ -1,0 +1,16 @@
+{
+  "seq": 1134640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "matin"
+    ],
+    [
+      "petit-déjeuner (souvent accompagné de pain et de boisson) ; offre spéciale du petit-déjeuner"
+    ],
+    [
+      "costume de matinée ; vêtements de matinée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

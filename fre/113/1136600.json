@@ -1,0 +1,12 @@
+{
+  "seq": 1136600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "utilisateur",
+      "usager",
+      "personne qui utilise un logiciel ou un service"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

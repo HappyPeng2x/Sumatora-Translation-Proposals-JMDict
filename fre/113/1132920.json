@@ -1,0 +1,16 @@
+{
+  "seq": 1132920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mécanisme",
+      "mécanique",
+      "équipement mécanique",
+      "machines"
+    ],
+    [
+      "mécanicien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

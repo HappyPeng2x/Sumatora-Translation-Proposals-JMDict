@@ -1,0 +1,12 @@
+{
+  "seq": 1133720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "métro",
+      "sous-sol",
+      "chemin de fer souterrain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

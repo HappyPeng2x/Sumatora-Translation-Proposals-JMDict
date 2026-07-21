@@ -1,0 +1,11 @@
+{
+  "seq": 1130670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "erreur de casting",
+      "mauvaise interprétation d'un rôle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

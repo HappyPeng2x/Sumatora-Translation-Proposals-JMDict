@@ -1,0 +1,15 @@
+{
+  "seq": 1134780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tissu moiré",
+      "texture moirée"
+    ],
+    [
+      "effet moiré",
+      "motif moiré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1134620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mode",
+      "réglage",
+      "manière",
+      "façon"
+    ],
+    [
+      "état d'esprit",
+      "mode (de fonctionnement)",
+      "état mental",
+      "humeur"
+    ],
+    [
+      "mode (musique)"
+    ],
+    [
+      "mode (statistique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

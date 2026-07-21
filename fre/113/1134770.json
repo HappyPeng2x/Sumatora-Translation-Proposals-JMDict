@@ -1,0 +1,17 @@
+{
+  "seq": 1134770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "centre commercial",
+      "marché",
+      "galerie commerciale"
+    ],
+    [
+      "rue piétonne",
+      "zone piétonne",
+      "artère commerciale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1137800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un sentiment d'appréciation",
+      "un goût, une préférence"
+    ],
+    [
+      "-style",
+      "-forme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

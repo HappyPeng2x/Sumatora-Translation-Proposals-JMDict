@@ -1,0 +1,19 @@
+{
+  "seq": 1138090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne (de baseball)",
+      "ligne droite (en baseball)"
+    ],
+    [
+      "paquebot",
+      "navire de ligne"
+    ],
+    [
+      "revêtement intérieur",
+      "doublure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1131350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "petit cinéma",
+      "cinéma d'art et d'essai"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

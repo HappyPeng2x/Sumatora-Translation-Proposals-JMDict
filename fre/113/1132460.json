@@ -1,0 +1,16 @@
+{
+  "seq": 1132460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maquillage",
+      "apparence extérieure",
+      "décoration"
+    ],
+    [
+      "préparation de repas",
+      "cuisine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

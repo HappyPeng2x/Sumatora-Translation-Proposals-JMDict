@@ -1,0 +1,13 @@
+{
+  "seq": 1135150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "motel"
+    ],
+    [
+      "hôtel de passe à accès par voie routière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1136740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "utilité",
+      "bénéfice",
+      "avantage"
+    ],
+    [
+      "cuisine",
+      "salle de bain",
+      "pièce avec lavabo et machine à laver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

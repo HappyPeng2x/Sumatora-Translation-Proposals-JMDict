@@ -1,0 +1,15 @@
+{
+  "seq": 1137080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Judee",
+      "pays ancien du sud de la Palestine"
+    ],
+    [
+      "Juif",
+      "Juive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

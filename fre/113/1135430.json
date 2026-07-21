@@ -1,0 +1,22 @@
+{
+  "seq": 1135430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surveiller",
+      "appareil de surveillance",
+      "logiciel de surveillance",
+      "personne qui surveille"
+    ],
+    [
+      "participant",
+      "membre",
+      "panel d'utilisateurs"
+    ],
+    [
+      "écran",
+      "moniteur (informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1131120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moyenne taille de communication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

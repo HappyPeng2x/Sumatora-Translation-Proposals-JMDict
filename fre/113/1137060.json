@@ -1,0 +1,11 @@
+{
+  "seq": 1137060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monnaie européenne",
+      "monnaie détenue en dehors du pays émetteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

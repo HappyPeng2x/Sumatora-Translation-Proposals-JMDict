@@ -1,0 +1,16 @@
+{
+  "seq": 1134500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voiture",
+      "automobile",
+      "véhicule à moteur"
+    ],
+    [
+      "wagon motorisé",
+      "voiturette de chemin de fer autonome"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

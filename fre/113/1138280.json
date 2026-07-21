@@ -1,0 +1,12 @@
+{
+  "seq": 1138280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spectacle en direct",
+      "performance en direct",
+      "representation en direct"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

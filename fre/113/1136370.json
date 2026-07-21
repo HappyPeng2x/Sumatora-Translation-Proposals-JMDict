@@ -1,0 +1,16 @@
+{
+  "seq": 1136370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "délinquant",
+      "jeune délinquant"
+    ],
+    [
+      "Américain",
+      "Yankee",
+      "Yank"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

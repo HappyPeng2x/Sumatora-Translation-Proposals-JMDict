@@ -1,0 +1,17 @@
+{
+  "seq": 1133860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémoire",
+      "souvenir",
+      "rappel"
+    ],
+    [
+      "mémoire",
+      "souvenance",
+      "remémoration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

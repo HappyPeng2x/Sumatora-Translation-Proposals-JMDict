@@ -1,0 +1,11 @@
+{
+  "seq": 1132650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système de courrier",
+      "système de messagerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

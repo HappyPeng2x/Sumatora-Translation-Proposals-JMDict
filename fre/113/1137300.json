@@ -1,0 +1,11 @@
+{
+  "seq": 1137300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séparateur d'unités",
+      "caractère de séparation d'unités"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

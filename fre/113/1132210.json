@@ -1,0 +1,15 @@
+{
+  "seq": 1132210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "film",
+      "cinéma"
+    ],
+    [
+      "vidéo",
+      "clip vidéo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

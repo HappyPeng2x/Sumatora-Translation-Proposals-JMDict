@@ -1,0 +1,22 @@
+{
+  "seq": 1134740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instant",
+      "moment",
+      "brève période"
+    ],
+    [
+      "occasion",
+      "chance",
+      "opportunité"
+    ],
+    [
+      "moment (en physique)",
+      "moment de force",
+      "moment cinétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

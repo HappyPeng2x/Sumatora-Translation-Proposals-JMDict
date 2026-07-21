@@ -1,0 +1,15 @@
+{
+  "seq": 1131160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moyen",
+      "intermédiaire"
+    ],
+    [
+      "âge moyen",
+      "moyen âge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1131720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mute",
+      "amortisseur"
+    ],
+    [
+      "action de rendre muet",
+      "désactivation du son"
+    ],
+    [
+      "désactivation d'un utilisateur",
+      "muting d'un utilisateur sur un réseau social"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

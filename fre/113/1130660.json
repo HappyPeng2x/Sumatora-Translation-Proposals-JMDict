@@ -1,0 +1,12 @@
+{
+  "seq": 1130660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malentendu",
+      "erreur de compréhension",
+      "compréhension erronée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

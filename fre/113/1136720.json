@@ -1,0 +1,17 @@
+{
+  "seq": 1136720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "virage à 180 degrés",
+      "virage en U"
+    ],
+    [
+      "retour à la maison après des vacances"
+    ],
+    [
+      "retour dans sa ville natale (rurale) après avoir vécu en ville"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1132300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travailleur occasionnel",
+      "personne qui travaille à temps partiel ou en dehors de son emploi principal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

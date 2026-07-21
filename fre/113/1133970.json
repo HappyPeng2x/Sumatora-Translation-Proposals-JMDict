@@ -1,0 +1,16 @@
+{
+  "seq": 1133970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joyeux",
+      "heureux",
+      "enjoué"
+    ],
+    [
+      "mobile pour bébé",
+      "mobile de berceau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

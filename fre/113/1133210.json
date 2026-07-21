@@ -1,0 +1,13 @@
+{
+  "seq": 1133210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méthode"
+    ],
+    [
+      "méthode (en programmation orientée objet)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

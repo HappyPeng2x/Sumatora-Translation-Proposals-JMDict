@@ -1,0 +1,10 @@
+{
+  "seq": 1136160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méthode de Monte Carlo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

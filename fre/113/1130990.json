@@ -1,0 +1,25 @@
+{
+  "seq": 1130990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mission",
+      "délégation"
+    ],
+    [
+      "mission",
+      "tâche",
+      "commission"
+    ],
+    [
+      "mission (religieuse)"
+    ],
+    [
+      "école missionnaire"
+    ],
+    [
+      "transmission (dans un véhicule)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

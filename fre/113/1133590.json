@@ -1,0 +1,11 @@
+{
+  "seq": 1133590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson de message",
+      "chanson transmettant un message particulier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

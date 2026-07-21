@@ -1,0 +1,11 @@
+{
+  "seq": 1137020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "banque opérant en euros",
+      "banque spécialisée dans les devises étrangères"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

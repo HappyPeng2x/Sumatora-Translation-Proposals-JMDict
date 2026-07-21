@@ -1,0 +1,17 @@
+{
+  "seq": 1134820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mosaïque",
+      "mosaïque (matériau ou art)",
+      "mosaïque (ensemble de fragments)"
+    ],
+    [
+      "masquage en pixels",
+      "masquage par pixels",
+      "pixelisation pour censure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

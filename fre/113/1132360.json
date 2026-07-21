@@ -1,0 +1,11 @@
+{
+  "seq": 1132360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre ayant l'apparence et la mise en page d'un magazine",
+      "livre magazine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

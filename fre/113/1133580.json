@@ -1,0 +1,11 @@
+{
+  "seq": 1133580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "identifiant de message",
+      "ID d'un message"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

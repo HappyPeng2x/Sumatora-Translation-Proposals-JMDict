@@ -1,0 +1,11 @@
+{
+  "seq": 1132100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "viande hachée",
+      "viande broyée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

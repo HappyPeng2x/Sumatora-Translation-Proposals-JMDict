@@ -1,0 +1,11 @@
+{
+  "seq": 1134660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tasse du matin",
+      "tasse de petit-déjeuner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
