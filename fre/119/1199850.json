@@ -1,0 +1,11 @@
+{
+  "seq": 1199850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diagramme de circuit",
+      "schéma électrique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

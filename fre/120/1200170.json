@@ -1,0 +1,12 @@
+{
+  "seq": 1200170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sommeil agréable",
+      "bon sommeil",
+      "dormir bien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1196930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrogant",
+      "prétentieux",
+      "assuré",
+      "d'un air de propriétaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

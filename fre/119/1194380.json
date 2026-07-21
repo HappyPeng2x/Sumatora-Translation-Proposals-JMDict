@@ -1,0 +1,12 @@
+{
+  "seq": 1194380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cause de problèmes",
+      "cause de difficultés",
+      "source de malheur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

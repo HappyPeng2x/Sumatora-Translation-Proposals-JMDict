@@ -1,0 +1,15 @@
+{
+  "seq": 1200620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dague",
+      "stiletto"
+    ],
+    [
+      "confident",
+      "homme de confiance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1201080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réforme et (ou) abolition",
+      "altération ou révocation",
+      "révision",
+      "restructuration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

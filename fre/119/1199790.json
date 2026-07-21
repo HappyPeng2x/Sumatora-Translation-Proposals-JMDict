@@ -1,0 +1,14 @@
+{
+  "seq": 1199790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excursion",
+      "voyage round-trip"
+    ],
+    [
+      "migration saisonnière (de poissons, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

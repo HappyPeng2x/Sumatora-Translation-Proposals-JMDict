@@ -1,0 +1,15 @@
+{
+  "seq": 1200420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chagrin",
+      "bitterness",
+      "frustration",
+      "vexation",
+      "mortification",
+      "regret"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

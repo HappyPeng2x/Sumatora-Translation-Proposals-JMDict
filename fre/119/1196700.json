@@ -1,0 +1,18 @@
+{
+  "seq": 1196700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mon parti",
+      "notre parti"
+    ],
+    [
+      "moi",
+      "me"
+    ],
+    [
+      "toi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

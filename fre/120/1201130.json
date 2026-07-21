@@ -1,0 +1,12 @@
+{
+  "seq": 1201130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nouvelle traduction",
+      "traduction révisée",
+      "retraduction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

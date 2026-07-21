@@ -1,0 +1,11 @@
+{
+  "seq": 1198510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résumé d'une interview",
+      "compte-rendu d'une interview"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

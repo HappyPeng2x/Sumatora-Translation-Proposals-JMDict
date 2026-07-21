@@ -1,0 +1,11 @@
+{
+  "seq": 1196420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excès ou déficit",
+      "trop ou pas assez (souvent dans une phrase négative)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

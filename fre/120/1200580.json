@@ -1,0 +1,12 @@
+{
+  "seq": 1200580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conception",
+      "grossesse",
+      "devenir enceinte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

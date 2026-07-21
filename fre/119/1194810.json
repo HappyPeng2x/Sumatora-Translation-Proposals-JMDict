@@ -1,0 +1,14 @@
+{
+  "seq": 1194810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "beautés de la nature",
+      "thèmes traditionnels de la beauté naturelle dans l'esthétique japonaise"
+    ],
+    [
+      "poursuites artistiques impliquant des thèmes de la nature"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

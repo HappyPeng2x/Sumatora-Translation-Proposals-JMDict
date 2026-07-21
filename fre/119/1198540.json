@@ -1,0 +1,15 @@
+{
+  "seq": 1198540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie funéraire",
+      "service religieux"
+    ],
+    [
+      "cérémonie commémorative dédiée à Nichiren",
+      "rituel du 13e jour du 10e mois dans le bouddhisme de Nichiren"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

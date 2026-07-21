@@ -1,0 +1,15 @@
+{
+  "seq": 1197880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme lettré",
+      "homme raffiné",
+      "connaisseur en arts"
+    ],
+    [
+      "narcisse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1202360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "emoji"
+    ],
+    [
+      "symbole pictural",
+      "pictogramme",
+      "pictographe"
+    ],
+    [
+      "art ASCII"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

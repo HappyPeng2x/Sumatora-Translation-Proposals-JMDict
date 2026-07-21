@@ -1,0 +1,15 @@
+{
+  "seq": 1200570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "repas traditionnel japonais servi en plusieurs plats",
+      "repas japonais traditionnel en plusieurs services"
+    ],
+    [
+      "plats servis lors d'une cérémonie du thé",
+      "mets associés à la cérémonie du thé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

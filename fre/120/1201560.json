@@ -1,0 +1,12 @@
+{
+  "seq": 1201560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malin, rusé, expérimenté",
+      "qui connaît bien les affaires du monde",
+      "sournois, comme un renard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

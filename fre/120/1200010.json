@@ -1,0 +1,12 @@
+{
+  "seq": 1200010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sentiment agréable",
+      "sensation agréable",
+      "plaisir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

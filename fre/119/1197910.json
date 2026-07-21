@@ -1,0 +1,12 @@
+{
+  "seq": 1197910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom de plume",
+      "pseudonyme",
+      "surnom littéraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

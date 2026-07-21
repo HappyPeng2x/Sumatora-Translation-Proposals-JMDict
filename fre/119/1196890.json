@@ -1,0 +1,12 @@
+{
+  "seq": 1196890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chercher ses propres intérêts",
+      "faire des interprétations qui servent ses propres intérêts",
+      "tirer de l'eau pour son propre champ"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

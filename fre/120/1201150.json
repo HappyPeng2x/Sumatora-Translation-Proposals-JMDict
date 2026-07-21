@@ -1,0 +1,11 @@
+{
+  "seq": 1201150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point d'amélioration",
+      "aspect à améliorer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

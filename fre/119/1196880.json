@@ -1,0 +1,13 @@
+{
+  "seq": 1196880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "involontairement",
+      "instinctivement",
+      "sans s'en rendre compte",
+      "inconsciemment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

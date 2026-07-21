@@ -1,0 +1,11 @@
+{
+  "seq": 1197770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sentiment de félicitations",
+      "émotion de joie à l'occasion d'un événement heureux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1200940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "projet de réforme",
+      "proposition de réforme",
+      "amendement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

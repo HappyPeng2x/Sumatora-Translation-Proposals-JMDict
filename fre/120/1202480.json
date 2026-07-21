@@ -1,0 +1,12 @@
+{
+  "seq": 1202480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrir grand",
+      "laisser ouvert",
+      "garder ouvert"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

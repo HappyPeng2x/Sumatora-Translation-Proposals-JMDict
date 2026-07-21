@@ -1,0 +1,12 @@
+{
+  "seq": 1199770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circulaire",
+      "lettre circulaire",
+      "réponse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

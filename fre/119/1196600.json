@@ -1,0 +1,12 @@
+{
+  "seq": 1196600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à l'improviste",
+      "improvisé",
+      "extemporané"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

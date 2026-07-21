@@ -1,0 +1,17 @@
+{
+  "seq": 1197740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "former",
+      "éclore",
+      "commencer à pousser"
+    ],
+    [
+      "apparaître",
+      "commencer à naître",
+      "prendre naissance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

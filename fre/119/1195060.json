@@ -1,0 +1,21 @@
+{
+  "seq": 1195060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bois de rose indien",
+      "roseau de Bornéo",
+      "bois d'ambone"
+    ],
+    [
+      "pommier de Chine",
+      "cherry de Chine",
+      "pommier du Japon"
+    ],
+    [
+      "pomme de Chine",
+      "pommier oblong"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

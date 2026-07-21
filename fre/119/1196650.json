@@ -1,0 +1,11 @@
+{
+  "seq": 1196650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémorisation intensive",
+      "révision rapide avant un examen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1202430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir audacieux",
+      "se montrer intraitable",
+      "prendre l'offensive",
+      "se rebeller"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

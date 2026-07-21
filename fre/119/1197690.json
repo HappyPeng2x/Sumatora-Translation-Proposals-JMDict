@@ -1,0 +1,16 @@
+{
+  "seq": 1197690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se coucher",
+      "rester au lit",
+      "être en convalescence"
+    ],
+    [
+      "un lit",
+      "le lit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

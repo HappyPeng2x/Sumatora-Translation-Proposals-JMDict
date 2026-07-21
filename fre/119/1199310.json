@@ -1,0 +1,17 @@
+{
+  "seq": 1199310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dissociation",
+      "désassociation"
+    ],
+    [
+      "désenchevêtrement",
+      "défaire",
+      "délier",
+      "désunir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

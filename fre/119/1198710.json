@@ -1,0 +1,11 @@
+{
+  "seq": 1198710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuisine servie sur des plateaux individuels lors d'un repas de réception",
+      "repas de banquet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

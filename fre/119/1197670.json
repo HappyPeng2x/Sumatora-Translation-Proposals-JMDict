@@ -1,0 +1,12 @@
+{
+  "seq": 1197670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'endormir",
+      "se coucher",
+      "aller se coucher (en étant malade)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

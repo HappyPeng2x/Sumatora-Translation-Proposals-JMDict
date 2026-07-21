@@ -1,0 +1,20 @@
+{
+  "seq": 1199340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ceinture",
+      "manteau de sumo",
+      "loincloth"
+    ],
+    [
+      "manteau",
+      "cape"
+    ],
+    [
+      "violation collective",
+      "viols en groupe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

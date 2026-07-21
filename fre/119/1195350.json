@@ -1,0 +1,15 @@
+{
+  "seq": 1195350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faux",
+      "copie"
+    ],
+    [
+      "barge",
+      "chaloupe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

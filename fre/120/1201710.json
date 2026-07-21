@@ -1,0 +1,12 @@
+{
+  "seq": 1201710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phoque sans oreilles",
+      "phoque véritable",
+      "phoque (mammifère marin)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

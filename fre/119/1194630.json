@@ -1,0 +1,17 @@
+{
+  "seq": 1194630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spectateur des cerisiers en fleurs",
+      "personne qui vient admirer les fleurs (surtout les cerisiers)"
+    ],
+    [
+      "client fidèle",
+      "cliente fidèle",
+      "cliente régulière",
+      "client régulier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

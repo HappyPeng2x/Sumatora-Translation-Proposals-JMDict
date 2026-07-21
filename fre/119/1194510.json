@@ -1,0 +1,15 @@
+{
+  "seq": 1194510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arbre fruitier",
+      "arbre qui fleurit"
+    ],
+    [
+      "érable rouge japonais",
+      "Acer pycnanthum"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

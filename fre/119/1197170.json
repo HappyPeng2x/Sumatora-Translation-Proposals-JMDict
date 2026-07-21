@@ -1,0 +1,11 @@
+{
+  "seq": 1197170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transition d'une époque à une autre",
+      "changement d'ère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1201160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réforme du calendrier",
+      "adoption d'un nouveau système de calendrier"
+    ],
+    [
+      "nouveau calendrier (pour une nouvelle année)",
+      "nouvelle année"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

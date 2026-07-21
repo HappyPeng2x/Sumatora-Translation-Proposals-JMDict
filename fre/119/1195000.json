@@ -1,0 +1,13 @@
+{
+  "seq": 1195000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plantes à fleurs et arbres"
+    ],
+    [
+      "arbres fruitiers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

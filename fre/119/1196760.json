@@ -1,0 +1,11 @@
+{
+  "seq": 1196760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "insister sur ses propres idées",
+      "affirmer fermement ses propres opinions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

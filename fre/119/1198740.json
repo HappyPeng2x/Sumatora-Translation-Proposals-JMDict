@@ -1,0 +1,11 @@
+{
+  "seq": 1198740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne assistant à un enterrement",
+      "personne présente lors d'une cérémonie funéraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

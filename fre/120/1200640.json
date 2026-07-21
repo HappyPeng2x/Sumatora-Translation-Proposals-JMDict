@@ -1,0 +1,11 @@
+{
+  "seq": 1200640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chauffe-main",
+      "chauffe-pochette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

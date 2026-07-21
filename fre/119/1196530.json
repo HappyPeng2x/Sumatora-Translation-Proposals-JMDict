@@ -1,0 +1,15 @@
+{
+  "seq": 1196530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quartier de Tokyo où se trouvent la plupart des ministères du gouvernement japonais",
+      "district de Tokyo abritant les sièges de nombreux ministères japonais"
+    ],
+    [
+      "ministères du gouvernement japonais",
+      "bureaucratie japonaise (par métonymie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

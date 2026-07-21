@@ -1,0 +1,22 @@
+{
+  "seq": 1196280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traversée",
+      "passage",
+      "travail de traversée"
+    ],
+    [
+      "éphémère",
+      "passager",
+      "momentané"
+    ],
+    [
+      "transition",
+      "mutation",
+      "passage d'un état à un autre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

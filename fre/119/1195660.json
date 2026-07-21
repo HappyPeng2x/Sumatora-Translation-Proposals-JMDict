@@ -1,0 +1,18 @@
+{
+  "seq": 1195660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élégant",
+      "délicat",
+      "svelte",
+      "mince et gracieux"
+    ],
+    [
+      "fragile",
+      "délicat",
+      "frêle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

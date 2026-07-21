@@ -1,0 +1,15 @@
+{
+  "seq": 1198640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu de réunion",
+      "club"
+    ],
+    [
+      "lieu de travail (époque d'Edo)",
+      "bureau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1200770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement de sceau enregistré",
+      "modification du sceau officiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

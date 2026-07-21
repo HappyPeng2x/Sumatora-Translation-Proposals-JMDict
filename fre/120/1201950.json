@@ -1,0 +1,11 @@
+{
+  "seq": 1201950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corbeille à cendres",
+      "seau à cendres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

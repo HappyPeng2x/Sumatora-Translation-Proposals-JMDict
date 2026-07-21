@@ -1,0 +1,15 @@
+{
+  "seq": 1201580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plante marine",
+      "herbe de mer"
+    ],
+    [
+      "algue",
+      "litt. algue de mer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

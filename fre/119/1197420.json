@@ -1,0 +1,15 @@
+{
+  "seq": 1197420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sujet",
+      "motif",
+      "thème"
+    ],
+    [
+      "titre d'une peinture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

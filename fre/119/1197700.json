@@ -1,0 +1,11 @@
+{
+  "seq": 1197700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "endurer des épreuves extrêmes pour atteindre un objectif",
+      "subir des souffrances indicibles dans le but de se venger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

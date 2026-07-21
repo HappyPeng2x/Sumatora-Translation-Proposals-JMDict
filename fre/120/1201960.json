@@ -1,0 +1,19 @@
+{
+  "seq": 1201960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lye"
+    ],
+    [
+      "saveur âpre; saveur alcaline; astringence"
+    ],
+    [
+      "écume (d'un bouillon, d'une soupe, etc.)"
+    ],
+    [
+      "affirmation excessive de soi; individualité forte; idiosyncrasie marquée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

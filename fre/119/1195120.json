@@ -1,0 +1,13 @@
+{
+  "seq": 1195120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tormenter",
+      "torturer",
+      "affliger",
+      "harceler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

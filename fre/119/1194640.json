@@ -1,0 +1,16 @@
+{
+  "seq": 1194640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "motif floral",
+      "ornement",
+      "décoration"
+    ],
+    [
+      "vedette",
+      "étoile (dans un spectacle, un jeu, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

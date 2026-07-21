@@ -1,0 +1,15 @@
+{
+  "seq": 1199910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet fragile",
+      "chose fragile"
+    ],
+    [
+      "objet cassé",
+      "chose brisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1200150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "découdre un problème avec rapidité et habileté",
+      "résoudre un problème de façon agile et experte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

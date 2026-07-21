@@ -1,0 +1,17 @@
+{
+  "seq": 1196080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exagération",
+      "surenchère",
+      "déclaration excessive"
+    ],
+    [
+      "erreur de formulation",
+      "lapsus",
+      "gaffe verbale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

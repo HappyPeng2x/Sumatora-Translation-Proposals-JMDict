@@ -1,0 +1,13 @@
+{
+  "seq": 1197750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spore"
+    ],
+    [
+      "endospore"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

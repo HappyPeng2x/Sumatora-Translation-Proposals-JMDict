@@ -1,0 +1,16 @@
+{
+  "seq": 1197900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mots élégants",
+      "diction raffiné",
+      "expression poétique"
+    ],
+    [
+      "langue poétique classique",
+      "langage classique de la poésie (surtout de la période Heian)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

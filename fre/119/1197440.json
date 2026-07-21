@@ -1,0 +1,11 @@
+{
+  "seq": 1197440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discussions artistiques",
+      "débats sur l'art et la peinture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

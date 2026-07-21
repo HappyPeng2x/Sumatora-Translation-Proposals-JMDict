@@ -1,0 +1,18 @@
+{
+  "seq": 1195690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peuple non Yamato du nord du Japon",
+      "Emishi",
+      "Ezo"
+    ],
+    [
+      "Yezo",
+      "Hokkaido",
+      "Sakhaline",
+      "îles Kuriles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

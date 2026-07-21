@@ -1,0 +1,17 @@
+{
+  "seq": 1196460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surpopulation",
+      "surcharge",
+      "congestion"
+    ],
+    [
+      "surchargé",
+      "encombré",
+      "très chargé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

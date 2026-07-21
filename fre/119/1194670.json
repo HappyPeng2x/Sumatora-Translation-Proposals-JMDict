@@ -1,0 +1,14 @@
+{
+  "seq": 1194670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parfum des fleurs",
+      "odeur des fleurs"
+    ],
+    [
+      "fleurs et encens offerts en offrande bouddhique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1195770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facturation",
+      "tarif",
+      "redevance"
+    ],
+    [
+      "achat de biens virtuels",
+      "transaction micro",
+      "paiement pour contenus premium"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

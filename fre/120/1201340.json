@@ -1,0 +1,12 @@
+{
+  "seq": 1201340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "océan",
+      "mer",
+      "les profondeurs de la mer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

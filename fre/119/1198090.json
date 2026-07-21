@@ -1,0 +1,17 @@
+{
+  "seq": 1198090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décapitation",
+      "acte de décapiter",
+      "exécution par décapitation"
+    ],
+    [
+      "aide",
+      "secours",
+      "assistance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

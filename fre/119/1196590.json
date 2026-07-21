@@ -1,0 +1,22 @@
+{
+  "seq": 1196590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préparation hâtive",
+      "cramponnage",
+      "connaissance improvisée"
+    ],
+    [
+      "marchandises préparées en hâte",
+      "produits faits à la va-vite"
+    ],
+    [
+      "maladroit",
+      "improvisé",
+      "superficiel",
+      "mal conçu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

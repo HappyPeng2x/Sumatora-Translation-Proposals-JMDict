@@ -1,0 +1,21 @@
+{
+  "seq": 1200210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mystère",
+      "curiosité",
+      "étrange",
+      "monstruosité"
+    ],
+    [
+      "fantôme",
+      "monstre",
+      "apparition",
+      "phantôme",
+      "spectre",
+      "goblin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

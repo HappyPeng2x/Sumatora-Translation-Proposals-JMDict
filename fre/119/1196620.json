@@ -1,0 +1,17 @@
+{
+  "seq": 1196620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brusquement",
+      "tout à coup",
+      "soudainement"
+    ],
+    [
+      "très",
+      "absolument",
+      "bien plus que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

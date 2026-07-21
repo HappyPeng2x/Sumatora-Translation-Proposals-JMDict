@@ -1,0 +1,15 @@
+{
+  "seq": 1197550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre d'images",
+      "album d'estampes"
+    ],
+    [
+      "traité sur la peinture",
+      "ouvrage théorique sur l'art de la peinture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

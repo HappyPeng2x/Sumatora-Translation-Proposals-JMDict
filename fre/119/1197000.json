@@ -1,0 +1,23 @@
+{
+  "seq": 1197000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en croquant",
+      "en grattant",
+      "en frottant",
+      "en raclant"
+    ],
+    [
+      "dur et croquant",
+      "croustillant"
+    ],
+    [
+      "très maigre",
+      "émacié",
+      "osseux",
+      "squelettique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

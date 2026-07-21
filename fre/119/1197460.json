@@ -1,0 +1,11 @@
+{
+  "seq": 1197460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "album de dessins",
+      "album de peintures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1200160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "convalescence",
+      "récupération",
+      "phase de guérison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

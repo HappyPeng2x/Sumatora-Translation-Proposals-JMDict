@@ -1,0 +1,13 @@
+{
+  "seq": 1199410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tropiques"
+    ],
+    [
+      "ligne de régression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

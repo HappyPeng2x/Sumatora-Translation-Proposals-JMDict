@@ -1,0 +1,18 @@
+{
+  "seq": 1194730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fleurs et fruits",
+      "blossom et fruits"
+    ],
+    [
+      "nom et réalité"
+    ],
+    [
+      "forme et contenu",
+      "apparence et substance (surtout en poésie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

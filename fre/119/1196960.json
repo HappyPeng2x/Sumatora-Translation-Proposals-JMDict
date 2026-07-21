@@ -1,0 +1,12 @@
+{
+  "seq": 1196960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autoélogie",
+      "éloges sur soi-même",
+      "praise de soi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

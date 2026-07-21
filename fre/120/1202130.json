@@ -1,0 +1,17 @@
+{
+  "seq": 1202130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quartier",
+      "voisinage",
+      "environnement"
+    ],
+    [
+      "communauté",
+      "mouvement",
+      "cercle d'adeptes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1199530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résurrection",
+      "ranimation",
+      "retour à la vie"
+    ],
+    [
+      "régénération",
+      "renouveau"
+    ],
+    [
+      "étudiant de la n-ième année universitaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

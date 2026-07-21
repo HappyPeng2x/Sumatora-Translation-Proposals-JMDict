@@ -1,0 +1,17 @@
+{
+  "seq": 1197200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sujet",
+      "matière",
+      "thème d'une peinture"
+    ],
+    [
+      "matériel",
+      "matériaux",
+      "fournitures d'art"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

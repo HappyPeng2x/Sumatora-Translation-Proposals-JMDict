@@ -1,0 +1,12 @@
+{
+  "seq": 1200550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nostalgie",
+      "rêve d'antan",
+      "souvenir d'époque passée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

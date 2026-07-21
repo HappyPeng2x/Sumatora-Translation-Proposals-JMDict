@@ -1,0 +1,17 @@
+{
+  "seq": 1199940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corruption",
+      "dégradation",
+      "subversion"
+    ],
+    [
+      "effondrement",
+      "effritement",
+      "déclin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1198050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coquille de mollusque",
+      "coquille marine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1198040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'occuper de",
+      "s'inquiéter pour",
+      "se préoccuper de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1201840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phoque à oreilles",
+      "lion de mer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

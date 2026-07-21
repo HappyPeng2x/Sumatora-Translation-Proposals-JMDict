@@ -1,0 +1,11 @@
+{
+  "seq": 1202470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture et fermeture",
+      "action d'ouvrir et de fermer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

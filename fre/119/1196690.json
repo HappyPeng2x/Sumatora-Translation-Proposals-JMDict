@@ -1,0 +1,18 @@
+{
+  "seq": 1196690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moi-même",
+      "soi-même"
+    ],
+    [
+      "je",
+      "moi"
+    ],
+    [
+      "vous (en parlant à quelqu'un de moins important)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

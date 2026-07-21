@@ -1,0 +1,21 @@
+{
+  "seq": 1196350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surechauffe",
+      "surechauffage",
+      "excès de chaleur"
+    ],
+    [
+      "surechauffe (d'un liquide au-delà de son point d'ébullition sans qu'il ne bout)"
+    ],
+    [
+      "excès",
+      "surenchère",
+      "surexcitation",
+      "surechauffe (d'une économie, d'un débat, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1201290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne côtière",
+      "littoral"
+    ],
+    [
+      "chemin de fer côtier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

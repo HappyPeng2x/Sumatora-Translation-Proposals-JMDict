@@ -1,0 +1,15 @@
+{
+  "seq": 1194830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passage élévé menant de la salle de spectacle vers la scène",
+      "passerelle surélevée dans un théâtre de kabuki"
+    ],
+    [
+      "fin d'une carrière honorée",
+      "fin glorieuse ou digne d'une carrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

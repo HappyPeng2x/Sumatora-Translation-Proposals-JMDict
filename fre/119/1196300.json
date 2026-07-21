@@ -1,0 +1,12 @@
+{
+  "seq": 1196300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transitionnel",
+      "provisoire",
+      "éphémère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

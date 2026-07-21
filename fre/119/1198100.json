@@ -1,0 +1,22 @@
+{
+  "seq": 1198100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aide",
+      "assistant",
+      "personne qui assiste"
+    ],
+    [
+      "demoiselle d'honneur",
+      "marié d'honneur",
+      "personne qui accompagne une mariée ou un marié"
+    ],
+    [
+      "second",
+      "assistant",
+      "personne qui assiste un autre dans une tâche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

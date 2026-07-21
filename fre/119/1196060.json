@@ -1,0 +1,17 @@
+{
+  "seq": 1196060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extrême (mesure, idée, etc.)",
+      "radical",
+      "violent (langage)"
+    ],
+    [
+      "pénible (exercice, travail, etc.)",
+      "excessif",
+      "physiquement exigeant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

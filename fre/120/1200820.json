@@ -1,0 +1,16 @@
+{
+  "seq": 1200820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne nouvelle",
+      "paragraphe nouveau"
+    ],
+    [
+      "saut de ligne",
+      "fin de ligne",
+      "alimentation de ligne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

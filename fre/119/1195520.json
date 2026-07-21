@@ -1,0 +1,15 @@
+{
+  "seq": 1195520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paroles fleuries mais vides",
+      "discours prétentieux",
+      "déclarations sans fondement"
+    ],
+    [
+      "le chinois (langue)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

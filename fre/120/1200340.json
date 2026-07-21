@@ -1,0 +1,11 @@
+{
+  "seq": 1200340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "document douteux",
+      "document anonyme contenant des déclarations diffamatoires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

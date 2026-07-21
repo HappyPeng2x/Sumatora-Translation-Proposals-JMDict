@@ -1,0 +1,14 @@
+{
+  "seq": 1199760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circulaire",
+      "lettre circulaire"
+    ],
+    [
+      "palindrome"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

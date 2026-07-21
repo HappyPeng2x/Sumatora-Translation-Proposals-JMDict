@@ -1,0 +1,18 @@
+{
+  "seq": 1199150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le dégivrage",
+      "le dégel",
+      "le décongélation"
+    ],
+    [
+      "la décompression",
+      "l'extraction",
+      "le déballage",
+      "le dézipping"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

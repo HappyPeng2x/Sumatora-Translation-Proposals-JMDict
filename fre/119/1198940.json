@@ -1,0 +1,17 @@
+{
+  "seq": 1198940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'entrelacer",
+      "se dénouer",
+      "se défaire"
+    ],
+    [
+      "se relâcher",
+      "se détendre",
+      "s'adoucir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

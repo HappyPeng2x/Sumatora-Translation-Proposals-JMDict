@@ -1,0 +1,13 @@
+{
+  "seq": 1196660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aveuglement soudain"
+    ],
+    [
+      "personne aveuglée soudainement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1200860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poinçonneur de billets",
+      "machine à poinçonner les billets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

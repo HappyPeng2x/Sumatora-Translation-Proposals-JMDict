@@ -1,0 +1,14 @@
+{
+  "seq": 1198830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compréhension",
+      "compréhension",
+      "maîtrise",
+      "appréciation",
+      "perception"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1196630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bricolé",
+      "fait à la va-vite",
+      "improvisé",
+      "précipité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

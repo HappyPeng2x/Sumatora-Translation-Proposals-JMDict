@@ -1,0 +1,12 @@
+{
+  "seq": 1202230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "massacre",
+      "anéantissement",
+      "tuerie générale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

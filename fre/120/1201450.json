@@ -1,0 +1,15 @@
+{
+  "seq": 1201450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phoque",
+      "phoque à long museau"
+    ],
+    [
+      "phoque éléphant",
+      "phoque éléphant (Mirounga spp.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

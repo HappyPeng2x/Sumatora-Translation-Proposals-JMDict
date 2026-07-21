@@ -1,0 +1,19 @@
+{
+  "seq": 1202500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'ouverture d'un nouvel hôpital, d'une institution, d'un temple, etc.",
+      "ouvrir un nouvel hôpital, une nouvelle institution, un nouveau temple, etc."
+    ],
+    [
+      "l'ouverture d'un hôpital, d'une institution, d'un temple, etc. (pour la journée)",
+      "ouvrir un hôpital, une institution, un temple, etc. (pour la journée)"
+    ],
+    [
+      "l'ouverture d'une session du Parlement impérial",
+      "ouvrir une session du Parlement impérial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

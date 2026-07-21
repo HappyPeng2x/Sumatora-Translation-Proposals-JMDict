@@ -1,0 +1,11 @@
+{
+  "seq": 1200320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voleur mystérieux",
+      "voleur fantôme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

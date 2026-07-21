@@ -1,0 +1,17 @@
+{
+  "seq": 1198690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu de réunion",
+      "sièges publics"
+    ],
+    [
+      "service de table",
+      "plateau de service",
+      "repas en plateau",
+      "banquet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

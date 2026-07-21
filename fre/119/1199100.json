@@ -1,0 +1,13 @@
+{
+  "seq": 1199100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résolution (d'un écran, d'un imprimant, d'un scanner, etc.)"
+    ],
+    [
+      "degré de compréhension ; la manière dont on comprend une personne ou une chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

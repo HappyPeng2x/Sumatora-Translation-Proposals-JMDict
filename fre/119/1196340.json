@@ -1,0 +1,14 @@
+{
+  "seq": 1196340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "il y a quelques jours",
+      "récemment"
+    ],
+    [
+      "un jour passé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

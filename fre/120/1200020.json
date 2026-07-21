@@ -1,0 +1,12 @@
+{
+  "seq": 1200020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accomplissement remarquable",
+      "exploit spectaculaire",
+      "faits remarquables"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
