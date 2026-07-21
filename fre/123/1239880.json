@@ -1,0 +1,15 @@
+{
+  "seq": 1239880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anomalie",
+      "déviation",
+      "chose inadmissible",
+      "chose répugnante",
+      "chose malheureuse",
+      "malheur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

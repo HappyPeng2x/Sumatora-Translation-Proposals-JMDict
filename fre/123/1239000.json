@@ -1,0 +1,16 @@
+{
+  "seq": 1239000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "geler",
+      "congeler"
+    ],
+    [
+      "se concentrer",
+      "s'appliquer à",
+      "méditer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

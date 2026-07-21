@@ -1,0 +1,27 @@
+{
+  "seq": 1241830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pli",
+      "creasing"
+    ],
+    [
+      "ascendance",
+      "origine familiale"
+    ],
+    [
+      "raison",
+      "logique",
+      "fil conducteur",
+      "méthode",
+      "système"
+    ],
+    [
+      "relation",
+      "liaison",
+      "connexion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

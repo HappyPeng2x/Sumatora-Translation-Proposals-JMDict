@@ -1,0 +1,11 @@
+{
+  "seq": 1236380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrêt forcé",
+      "interruption forcée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

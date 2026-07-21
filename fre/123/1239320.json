@@ -1,0 +1,16 @@
+{
+  "seq": 1239320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "karma"
+    ],
+    [
+      "résultat du karma ; destinée ; fatalité"
+    ],
+    [
+      "tempérament irritable ; humeur incontrôlable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

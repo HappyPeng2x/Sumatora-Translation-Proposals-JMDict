@@ -1,0 +1,18 @@
+{
+  "seq": 1236490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intensité",
+      "force",
+      "degré d'intensité"
+    ],
+    [
+      "fort",
+      "puissant",
+      "intense",
+      "extrême"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

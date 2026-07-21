@@ -1,0 +1,16 @@
+{
+  "seq": 1236520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contrainte",
+      "coercion",
+      "pression"
+    ],
+    [
+      "obsession",
+      "compulsion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

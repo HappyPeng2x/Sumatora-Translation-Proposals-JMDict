@@ -1,0 +1,14 @@
+{
+  "seq": 1235870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "seigneur",
+      "maître"
+    ],
+    [
+      "ministre d'État (sous le système ritsuryō ou le système du Grand Conseil de l'époque Meiji)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

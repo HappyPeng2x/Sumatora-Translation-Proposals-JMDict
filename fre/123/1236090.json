@@ -1,0 +1,13 @@
+{
+  "seq": 1236090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "si l'on devait dire",
+      "si l'on était contraint de répondre",
+      "si l'on devait choisir",
+      "si l'on devait se décider"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

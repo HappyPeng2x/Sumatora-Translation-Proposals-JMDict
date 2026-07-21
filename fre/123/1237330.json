@@ -1,0 +1,11 @@
+{
+  "seq": 1237330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "canne du professeur",
+      "stylo-pointeur du professeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

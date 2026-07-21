@@ -1,0 +1,14 @@
+{
+  "seq": 1241920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "critique",
+      "urgent",
+      "essentiel",
+      "important",
+      "vital"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

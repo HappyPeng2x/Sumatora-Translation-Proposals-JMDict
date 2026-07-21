@@ -1,0 +1,17 @@
+{
+  "seq": 1235660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accord",
+      "convention",
+      "entente"
+    ],
+    [
+      "entente",
+      "compréhension",
+      "accord mutuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

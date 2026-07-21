@@ -1,0 +1,16 @@
+{
+  "seq": 1240550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "palanquin décoré de pierres précieuses",
+      "palanquin orné de perles et de pierres précieuses"
+    ],
+    [
+      "mariage lucratif",
+      "mariage qui apporte richesse et prestige",
+      "mariage avec un homme riche et influent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

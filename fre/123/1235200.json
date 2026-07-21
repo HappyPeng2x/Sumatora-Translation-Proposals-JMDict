@@ -1,0 +1,13 @@
+{
+  "seq": 1235200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résonance"
+    ],
+    [
+      "sympathie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

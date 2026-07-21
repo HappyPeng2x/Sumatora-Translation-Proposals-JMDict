@@ -1,0 +1,17 @@
+{
+  "seq": 1237440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médiation",
+      "intermédiaire",
+      "médiateur",
+      "personne qui facilite un accord"
+    ],
+    [
+      "construction d'un pont",
+      "édification d'un pont"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

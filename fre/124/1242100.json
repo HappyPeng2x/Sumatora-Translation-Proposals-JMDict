@@ -1,0 +1,16 @@
+{
+  "seq": 1242100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soigneusement fabriqué",
+      "soigneusement produit",
+      "fait avec soin"
+    ],
+    [
+      "produit de qualité",
+      "article soigneusement conçu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

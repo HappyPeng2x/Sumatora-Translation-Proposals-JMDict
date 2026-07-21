@@ -1,0 +1,11 @@
+{
+  "seq": 1236220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tendance haussière",
+      "ton ferme (d'un marché)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

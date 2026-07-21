@@ -1,0 +1,16 @@
+{
+  "seq": 1238790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se courber en arrière",
+      "se plier en arrière"
+    ],
+    [
+      "être pris de court",
+      "être stupéfait",
+      "être abasourdi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

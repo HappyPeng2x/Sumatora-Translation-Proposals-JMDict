@@ -1,0 +1,11 @@
+{
+  "seq": 1242200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "eaux côtières",
+      "mers adjacentes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1236910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enseigner en détail",
+      "imprégner",
+      "inculquer",
+      "marteler",
+      "donner des leçons répétées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

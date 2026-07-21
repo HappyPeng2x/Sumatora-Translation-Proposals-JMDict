@@ -1,0 +1,12 @@
+{
+  "seq": 1240110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "titre d'une composition musicale",
+      "nom d'une pièce musicale",
+      "titre d'une chanson"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

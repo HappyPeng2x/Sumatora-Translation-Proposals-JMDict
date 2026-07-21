@@ -1,0 +1,15 @@
+{
+  "seq": 1241780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "muscles et os",
+      "corps musculaire",
+      "physique"
+    ],
+    [
+      "cartilage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1237180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "institut de formation",
+      "école de formation"
+    ],
+    [
+      "école de conduite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1242240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Kinki (région autour d'Osaka, Kyoto, Nara)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

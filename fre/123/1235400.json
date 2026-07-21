@@ -1,0 +1,12 @@
+{
+  "seq": 1235400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise chance",
+      "malheur",
+      "infortune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

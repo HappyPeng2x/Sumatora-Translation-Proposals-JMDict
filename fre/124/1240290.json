@@ -1,0 +1,13 @@
+{
+  "seq": 1240290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peine capitale",
+      "peine de mort",
+      "sanction maximale",
+      "punition ultime"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

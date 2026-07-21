@@ -1,0 +1,11 @@
+{
+  "seq": 1238530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuisine régionale",
+      "cuisine locale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

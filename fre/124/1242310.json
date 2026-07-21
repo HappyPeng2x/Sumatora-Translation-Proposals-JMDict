@@ -1,0 +1,11 @@
+{
+  "seq": 1242310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "villages voisins",
+      "districts suburbains"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

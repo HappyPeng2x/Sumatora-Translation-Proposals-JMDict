@@ -1,0 +1,15 @@
+{
+  "seq": 1238750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regarder vers le haut",
+      "lever les yeux"
+    ],
+    [
+      "respecter",
+      "admirer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

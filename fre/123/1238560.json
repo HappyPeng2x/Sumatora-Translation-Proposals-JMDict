@@ -1,0 +1,18 @@
+{
+  "seq": 1238560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reflet dans un miroir",
+      "image reflétée",
+      "image miroir"
+    ],
+    [
+      "inverse (d'un point)"
+    ],
+    [
+      "image miroir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

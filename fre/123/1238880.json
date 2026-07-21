@@ -1,0 +1,12 @@
+{
+  "seq": 1238880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme vous le dites",
+      "comme vous le suggérez",
+      "je suis absolument d'accord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

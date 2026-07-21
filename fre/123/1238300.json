@@ -1,0 +1,14 @@
+{
+  "seq": 1238300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prospérité d'un pays",
+      "pays prospère"
+    ],
+    [
+      "ère de Kōkoku (ère de la Cour du Sud ; 1340.4.28-1346.12.8)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

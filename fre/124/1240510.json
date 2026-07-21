@@ -1,0 +1,12 @@
+{
+  "seq": 1240510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autant que possible",
+      "dans la mesure du possible",
+      "avec le plus grand soin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

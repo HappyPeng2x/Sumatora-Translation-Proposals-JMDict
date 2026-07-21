@@ -1,0 +1,13 @@
+{
+  "seq": 1238290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "showman",
+      "impresario",
+      "promoteur",
+      "producteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

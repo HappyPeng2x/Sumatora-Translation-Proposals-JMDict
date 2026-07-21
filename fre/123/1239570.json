@@ -1,0 +1,20 @@
+{
+  "seq": 1239570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme de cour",
+      "dame d'honneur"
+    ],
+    [
+      "chambre réservée aux dames dans un palais"
+    ],
+    [
+      "chambre de prostituée de basse classe"
+    ],
+    [
+      "prostituée de basse classe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

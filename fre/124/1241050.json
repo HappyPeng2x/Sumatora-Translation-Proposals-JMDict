@@ -1,0 +1,14 @@
+{
+  "seq": 1241050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre son tour de garde",
+      "être de garde à tour de rôle"
+    ],
+    [
+      "être en service à la résidence d'un daimyo à Edo ou à Osaka (époque historique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

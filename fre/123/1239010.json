@@ -1,0 +1,18 @@
+{
+  "seq": 1239010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concentrer",
+      "se concentrer sur",
+      "appliquer soi-même",
+      "s'appliquer"
+    ],
+    [
+      "raffermir",
+      "rendre rigide",
+      "tendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

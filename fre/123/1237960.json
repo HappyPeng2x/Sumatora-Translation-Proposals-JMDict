@@ -1,0 +1,15 @@
+{
+  "seq": 1237960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plaquette de protection pour la poitrine",
+      "armure de poitrine"
+    ],
+    [
+      "bavette",
+      "bande autour du cou"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

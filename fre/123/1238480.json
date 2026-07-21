@@ -1,0 +1,12 @@
+{
+  "seq": 1238480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quand on est chez les Romains, on fait comme les Romains",
+      "suivre les usages locaux",
+      "s'adapter aux coutumes du lieu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1235520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise nouvelle",
+      "nouvelle funeste"
+    ],
+    [
+      "annonce d'un décès",
+      "avis de décès"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

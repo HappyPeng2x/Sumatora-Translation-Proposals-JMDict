@@ -1,0 +1,17 @@
+{
+  "seq": 1240230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marque d'authenticité",
+      "souvenir",
+      "empreinte"
+    ],
+    [
+      "stigma",
+      "réputation",
+      "marque distinctive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

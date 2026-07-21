@@ -1,0 +1,18 @@
+{
+  "seq": 1242540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voisinage",
+      "environnement",
+      "proximité",
+      "zone environnante"
+    ],
+    [
+      "voisinage",
+      "environnement",
+      "voisinage (mathématique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

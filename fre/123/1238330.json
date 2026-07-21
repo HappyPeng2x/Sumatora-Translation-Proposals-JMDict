@@ -1,0 +1,11 @@
+{
+  "seq": 1238330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "répertoire de la solvabilité",
+      "annuaire de la bonne foi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

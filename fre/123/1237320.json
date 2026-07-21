@@ -1,0 +1,14 @@
+{
+  "seq": 1237320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parrain",
+      "tuteur"
+    ],
+    [
+      "père de l'Église"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

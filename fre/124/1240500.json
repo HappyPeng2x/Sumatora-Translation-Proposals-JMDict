@@ -1,0 +1,16 @@
+{
+  "seq": 1240500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le pôle nord",
+      "le nord extrême"
+    ],
+    [
+      "le point culminant",
+      "le seuil de l'effondrement",
+      "le bord de l'effondrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

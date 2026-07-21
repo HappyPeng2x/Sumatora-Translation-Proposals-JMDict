@@ -1,0 +1,15 @@
+{
+  "seq": 1237630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "capriccio"
+    ],
+    [
+      "manie",
+      "excitation folle",
+      "frénésie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1237200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "message",
+      "discours"
+    ],
+    [
+      "bulle",
+      "décret"
+    ],
+    [
+      "manuel",
+      "ouvrage didactique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

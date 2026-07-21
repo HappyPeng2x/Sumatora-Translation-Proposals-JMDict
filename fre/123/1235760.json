@@ -1,0 +1,11 @@
+{
+  "seq": 1235760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Temps universel coordonné",
+      "UTC"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

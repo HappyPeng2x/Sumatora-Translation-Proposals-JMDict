@@ -1,0 +1,23 @@
+{
+  "seq": 1241630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interdiction",
+      "prohibition",
+      "interdit",
+      "interdite",
+      "interdiction",
+      "défense"
+    ],
+    [
+      "interdit",
+      "prohibé",
+      "défendu",
+      "interdit",
+      "interdite",
+      "proscrit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

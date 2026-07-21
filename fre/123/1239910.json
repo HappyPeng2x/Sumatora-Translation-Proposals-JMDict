@@ -1,0 +1,35 @@
+{
+  "seq": 1239910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "villain",
+      "malfaiteur",
+      "scélérat",
+      "voleur",
+      "individu suspect"
+    ],
+    [
+      "personne étrange",
+      "personne idiosyncratique",
+      "personne entêtée"
+    ],
+    [
+      "chose trompeuse",
+      "chose qui cache quelque chose"
+    ],
+    [
+      "expert",
+      "maître",
+      "personne hautement qualifiée"
+    ],
+    [
+      "goblin",
+      "apparition",
+      "monstre",
+      "fantôme",
+      "spectre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

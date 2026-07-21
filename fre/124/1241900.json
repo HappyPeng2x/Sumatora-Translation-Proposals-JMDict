@@ -1,0 +1,15 @@
+{
+  "seq": 1241900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligature serrée",
+      "action de ligaturer serré"
+    ],
+    [
+      "bottage",
+      "pratique du bondage sexuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

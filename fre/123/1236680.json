@@ -1,0 +1,29 @@
+{
+  "seq": 1236680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être désolé",
+      "demander pardon",
+      "se sentir petit"
+    ],
+    [
+      "être reconnaissant",
+      "être obligé",
+      "être gré"
+    ],
+    [
+      "être émerveillé",
+      "être impressionné",
+      "admirer"
+    ],
+    [
+      "être abasourdi",
+      "être confondu",
+      "être stupéfait",
+      "être las",
+      "être battu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

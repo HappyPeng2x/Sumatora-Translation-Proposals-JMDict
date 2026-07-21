@@ -1,0 +1,12 @@
+{
+  "seq": 1240520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logique extrême",
+      "argument extrême",
+      "argument sans réserve"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

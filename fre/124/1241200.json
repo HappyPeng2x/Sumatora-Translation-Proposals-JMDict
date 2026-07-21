@@ -1,0 +1,11 @@
+{
+  "seq": 1241200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "revenu imposable",
+      "revenu gagné par le travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

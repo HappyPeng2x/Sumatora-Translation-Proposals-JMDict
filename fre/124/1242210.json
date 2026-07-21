@@ -1,0 +1,16 @@
+{
+  "seq": 1242210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "publication à venir",
+      "qui sera publié prochainement",
+      "en préparation"
+    ],
+    [
+      "publication récente",
+      "qui a été récemment publiée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

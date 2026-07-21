@@ -1,0 +1,11 @@
+{
+  "seq": 1237010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "matière d'enseignement",
+      "programme scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

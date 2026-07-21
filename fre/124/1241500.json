@@ -1,0 +1,15 @@
+{
+  "seq": 1241500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voiture non-fumeur (de location)",
+      "voiture sans fumée"
+    ],
+    [
+      "wagons non-fumeurs (dans un train)",
+      "carriage non-fumeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

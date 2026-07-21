@@ -1,0 +1,11 @@
+{
+  "seq": 1238400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "montée et chute",
+      "alternance de périodes de prospérité et de déclin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

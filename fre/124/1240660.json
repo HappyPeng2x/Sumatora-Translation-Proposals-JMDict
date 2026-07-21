@@ -1,0 +1,15 @@
+{
+  "seq": 1240660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "billiards",
+      "jeu de boules"
+    ],
+    [
+      "chocs successifs",
+      "collisions successives"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

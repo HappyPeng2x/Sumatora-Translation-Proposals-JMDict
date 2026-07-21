@@ -1,0 +1,14 @@
+{
+  "seq": 1238440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "curieux",
+      "d'après la curiosité",
+      "pour satisfaire sa curiosité",
+      "sensationaliste",
+      "à visée divertissante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

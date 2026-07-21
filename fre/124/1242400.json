@@ -1,0 +1,17 @@
+{
+  "seq": 1242400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "proximité",
+      "près",
+      "adjacence"
+    ],
+    [
+      "approche",
+      "rapprochement",
+      "venant vers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

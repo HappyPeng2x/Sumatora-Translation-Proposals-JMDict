@@ -1,0 +1,11 @@
+{
+  "seq": 1241000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service religieux",
+      "office religieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

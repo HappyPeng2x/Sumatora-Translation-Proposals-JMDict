@@ -1,0 +1,19 @@
+{
+  "seq": 1239670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie",
+      "section"
+    ],
+    [
+      "partie touchée",
+      "zone affectée (du corps)"
+    ],
+    [
+      "parties intimes",
+      "organes génitaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

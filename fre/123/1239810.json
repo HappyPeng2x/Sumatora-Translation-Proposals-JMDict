@@ -1,0 +1,12 @@
+{
+  "seq": 1239810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médiocrité académique",
+      "érudition de bas étage",
+      "savoir-faire insuffisant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

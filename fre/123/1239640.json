@@ -1,0 +1,13 @@
+{
+  "seq": 1239640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guerre locale"
+    ],
+    [
+      "guerre limitée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

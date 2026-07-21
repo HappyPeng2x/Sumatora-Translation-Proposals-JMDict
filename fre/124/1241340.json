@@ -1,0 +1,15 @@
+{
+  "seq": 1241340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tissu broché",
+      "tissu décoré de motifs riches"
+    ],
+    [
+      "habillement élégant",
+      "vêtements de qualité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1238000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrage de défense",
+      "parapet"
+    ],
+    [
+      "forteresse"
+    ],
+    [
+      "parapet"
+    ],
+    [
+      "paroi thoracique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

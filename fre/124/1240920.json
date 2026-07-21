@@ -1,0 +1,11 @@
+{
+  "seq": 1240920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travailler consciencieusement",
+      "se consacrer activement à un travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

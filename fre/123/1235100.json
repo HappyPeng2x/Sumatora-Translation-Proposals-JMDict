@@ -1,0 +1,15 @@
+{
+  "seq": 1235100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vieux ensemble",
+      "vieillir ensemble"
+    ],
+    [
+      "fil de chanvre blanc",
+      "fil de soie blanche (offert en cadeau de fiançailles, symbolisant les cheveux d'un couple âgé)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

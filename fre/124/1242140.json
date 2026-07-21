@@ -1,0 +1,12 @@
+{
+  "seq": 1242140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bientôt",
+      "dans peu de temps",
+      "prochainement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

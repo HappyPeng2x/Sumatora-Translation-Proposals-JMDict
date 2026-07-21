@@ -1,0 +1,11 @@
+{
+  "seq": 1238590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surface de miroir",
+      "surface de lentille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

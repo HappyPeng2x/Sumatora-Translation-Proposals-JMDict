@@ -1,0 +1,14 @@
+{
+  "seq": 1239190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "condensation",
+      "concentration"
+    ],
+    [
+      "condensation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

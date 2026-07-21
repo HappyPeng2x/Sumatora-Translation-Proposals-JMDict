@@ -1,0 +1,27 @@
+{
+  "seq": 1236010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état (mental)",
+      "état d'esprit",
+      "condition émotionnelle"
+    ],
+    [
+      "domaine (d'activité)",
+      "champ (d'activité)"
+    ],
+    [
+      "sort (personnel)",
+      "situation (dans la vie)",
+      "circonstance (personnelle)"
+    ],
+    [
+      "lieu",
+      "région",
+      "zone",
+      "terre (sens originel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

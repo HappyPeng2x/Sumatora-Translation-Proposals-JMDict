@@ -1,0 +1,13 @@
+{
+  "seq": 1238830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordonner",
+      "commander",
+      "dire à quelqu'un de faire quelque chose",
+      "nommer à un poste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

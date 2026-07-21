@@ -1,0 +1,12 @@
+{
+  "seq": 1236360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confinement forcé",
+      "internement",
+      "détention par force légale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

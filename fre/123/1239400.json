@@ -1,0 +1,11 @@
+{
+  "seq": 1239400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "journal professionnel",
+      "journal de secteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

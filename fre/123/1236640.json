@@ -1,0 +1,14 @@
+{
+  "seq": 1236640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trembler",
+      "reculer",
+      "fléchir",
+      "être intimidé",
+      "hésiter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

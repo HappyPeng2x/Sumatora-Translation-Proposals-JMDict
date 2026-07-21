@@ -1,0 +1,19 @@
+{
+  "seq": 1239370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feu des enfers",
+      "flamme des enfers"
+    ],
+    [
+      "feu dévastateur",
+      "grand feu"
+    ],
+    [
+      "feu qui consume un méchant",
+      "flamme purificatrice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

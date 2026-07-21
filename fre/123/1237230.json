@@ -1,0 +1,11 @@
+{
+  "seq": 1237230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnel enseignant",
+      "personnel du corps enseignant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

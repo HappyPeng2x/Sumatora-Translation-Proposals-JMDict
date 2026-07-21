@@ -1,0 +1,16 @@
+{
+  "seq": 1239680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "position dans une partie",
+      "état d'une partie"
+    ],
+    [
+      "situation",
+      "phase",
+      "aspect"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1238820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recevoir un ordre",
+      "être chargé de (une tâche)",
+      "être assigné (un travail)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

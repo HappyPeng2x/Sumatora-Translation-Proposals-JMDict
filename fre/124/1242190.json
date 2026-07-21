@@ -1,0 +1,11 @@
+{
+  "seq": 1242190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "genres apparentés",
+      "espèces associées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

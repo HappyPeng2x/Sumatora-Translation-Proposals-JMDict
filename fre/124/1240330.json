@@ -1,0 +1,14 @@
+{
+  "seq": 1240330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "minimum",
+      "minuscule"
+    ],
+    [
+      "minimum local"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1235500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "année mauvaise",
+      "année de mauvaise récolte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

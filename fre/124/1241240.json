@@ -1,0 +1,17 @@
+{
+  "seq": 1241240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rendre plat",
+      "rendre lisse",
+      "nivelé",
+      "aplatir"
+    ],
+    [
+      "moyenner",
+      "calculer une moyenne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

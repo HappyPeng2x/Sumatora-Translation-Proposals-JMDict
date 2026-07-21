@@ -1,0 +1,11 @@
+{
+  "seq": 1237350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaires scolaires",
+      "affaires religieuses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

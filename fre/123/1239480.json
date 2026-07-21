@@ -1,0 +1,13 @@
+{
+  "seq": 1239480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conditions commerciales"
+    ],
+    [
+      "secteur d'activité; type d'entreprise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

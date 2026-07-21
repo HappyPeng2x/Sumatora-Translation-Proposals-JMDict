@@ -1,0 +1,11 @@
+{
+  "seq": 1241170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classe salariée",
+      "classe ouvrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

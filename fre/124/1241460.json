@@ -1,0 +1,16 @@
+{
+  "seq": 1241460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cordes du cœur",
+      "cordes sensibles",
+      "filaments du cœur"
+    ],
+    [
+      "corde de koto",
+      "corde de l'instrument koto"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

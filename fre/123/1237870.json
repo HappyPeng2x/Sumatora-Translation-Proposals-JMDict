@@ -1,0 +1,16 @@
+{
+  "seq": 1237870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poitrine",
+      "sein"
+    ],
+    [
+      "foie",
+      "solar plexus",
+      "épigastre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

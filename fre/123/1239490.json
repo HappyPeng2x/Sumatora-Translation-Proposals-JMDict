@@ -1,0 +1,15 @@
+{
+  "seq": 1239490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "têtu",
+      "obstination"
+    ],
+    [
+      "avare",
+      "misanthrope"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

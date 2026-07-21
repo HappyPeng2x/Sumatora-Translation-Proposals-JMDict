@@ -1,0 +1,27 @@
+{
+  "seq": 1239040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'agglomérer",
+      "s'écumer",
+      "s'épaissir",
+      "s'opacifier",
+      "s'encrasser",
+      "s'assécher"
+    ],
+    [
+      "être obsédé par",
+      "être fixé sur",
+      "être fanatique de",
+      "être bigot de"
+    ],
+    [
+      "s'assouplir",
+      "s'endurcir",
+      "devenir rigide",
+      "s'immobiliser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

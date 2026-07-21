@@ -1,0 +1,15 @@
+{
+  "seq": 1237220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la profession d'enseignant",
+      "le métier d'enseignant"
+    ],
+    [
+      "l'éducation des laïcs",
+      "l'instruction des non-religieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

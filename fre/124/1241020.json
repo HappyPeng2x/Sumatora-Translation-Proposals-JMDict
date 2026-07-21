@@ -1,0 +1,11 @@
+{
+  "seq": 1241020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme de longue carrière",
+      "personne ayant longtemps exercé un métier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

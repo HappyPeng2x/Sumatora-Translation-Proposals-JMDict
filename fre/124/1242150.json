@@ -1,0 +1,12 @@
+{
+  "seq": 1242150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "proche avenir",
+      "avenir immédiat",
+      "prochain avenir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

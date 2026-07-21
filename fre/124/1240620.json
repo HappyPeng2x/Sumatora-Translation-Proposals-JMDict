@@ -1,0 +1,12 @@
+{
+  "seq": 1240620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caillou",
+      "pierre ronde",
+      "roc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

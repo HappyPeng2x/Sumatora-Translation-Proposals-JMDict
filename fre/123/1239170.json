@@ -1,0 +1,25 @@
+{
+  "seq": 1239170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agglomération",
+      "amas",
+      "regroupement"
+    ],
+    [
+      "cohésion",
+      "liaison",
+      "adhérence"
+    ],
+    [
+      "floculation",
+      "coagulation (de particules colloïdales)"
+    ],
+    [
+      "agglutination",
+      "soudure (dans un contexte biologique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

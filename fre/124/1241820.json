@@ -1,0 +1,13 @@
+{
+  "seq": 1241820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "douleur musculaire",
+      "myalgie",
+      "douleurs dans les muscles",
+      "muscles douloureux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

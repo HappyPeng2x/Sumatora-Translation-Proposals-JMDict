@@ -1,0 +1,11 @@
+{
+  "seq": 1239450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "secteur d'activité",
+      "type d'industrie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

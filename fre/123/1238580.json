@@ -1,0 +1,15 @@
+{
+  "seq": 1238580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "panneau",
+      "panneau de décor"
+    ],
+    [
+      "arrière-plan peint",
+      "panneau décoratif d'une scène de théâtre noh"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

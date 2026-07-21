@@ -1,0 +1,22 @@
+{
+  "seq": 1241330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sac à monnaie avec cordon",
+      "poche monnaie"
+    ],
+    [
+      "poche de tofu frit farcie, utilisée dans l'oden"
+    ],
+    [
+      "sycophante",
+      "flunier",
+      "personne qui suit les autres"
+    ],
+    [
+      "prostituée non autorisée (période d'Edo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

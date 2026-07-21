@@ -1,0 +1,17 @@
+{
+  "seq": 1238920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abondant",
+      "pléthorique",
+      "en abondance"
+    ],
+    [
+      "exagéré",
+      "magniloquent",
+      "grandiloquent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

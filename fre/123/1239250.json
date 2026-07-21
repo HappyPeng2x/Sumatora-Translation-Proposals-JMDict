@@ -1,0 +1,12 @@
+{
+  "seq": 1239250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concentration de l'esprit",
+      "attention intense",
+      "réflexion approfondie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

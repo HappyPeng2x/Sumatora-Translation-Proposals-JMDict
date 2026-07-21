@@ -1,0 +1,13 @@
+{
+  "seq": 1238690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étonnant",
+      "surprenant",
+      "incroyable",
+      "merveilleux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
