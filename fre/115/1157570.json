@@ -1,0 +1,15 @@
+{
+  "seq": 1157570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autre sens",
+      "signification différente"
+    ],
+    [
+      "avis différent",
+      "opinion divergente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

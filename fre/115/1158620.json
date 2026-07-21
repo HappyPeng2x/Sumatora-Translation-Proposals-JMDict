@@ -1,0 +1,12 @@
+{
+  "seq": 1158620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "douleur d'estomac",
+      "mal au ventre",
+      "gastralgie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

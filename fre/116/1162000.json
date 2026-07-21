@@ -1,0 +1,16 @@
+{
+  "seq": 1162000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une scène",
+      "un plan",
+      "un cliché"
+    ],
+    [
+      "une case",
+      "un dessin (dans un manga)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

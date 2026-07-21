@@ -1,0 +1,13 @@
+{
+  "seq": 1163780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir adulte",
+      "atteindre la majorité",
+      "devenir autonome",
+      "être pleinement qualifié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

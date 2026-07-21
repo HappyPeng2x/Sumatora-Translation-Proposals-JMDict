@@ -1,0 +1,11 @@
+{
+  "seq": 1162440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "première veille",
+      "heure du soir (8h-10h)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

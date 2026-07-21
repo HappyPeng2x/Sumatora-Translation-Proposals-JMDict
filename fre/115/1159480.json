@@ -1,0 +1,12 @@
+{
+  "seq": 1159480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recombinaison génétique",
+      "recombinaison d'ADN",
+      "recombinaison de gènes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

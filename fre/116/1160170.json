@@ -1,0 +1,11 @@
+{
+  "seq": 1160170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appareils médicaux",
+      "instruments chirurgicaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

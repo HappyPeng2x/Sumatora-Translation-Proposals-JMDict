@@ -1,0 +1,11 @@
+{
+  "seq": 1159800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monde médical",
+      "profession médicale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1161695,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un terme",
+      "une période"
+    ],
+    [
+      "premier terme",
+      "première période"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

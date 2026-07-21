@@ -1,0 +1,11 @@
+{
+  "seq": 1158980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pénalité pour violation de contrat",
+      "somme d'argent due en cas de non-respect d'un contrat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

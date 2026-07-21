@@ -1,0 +1,13 @@
+{
+  "seq": 1163720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monodrame",
+      "spectacle solo",
+      "performance en solo",
+      "théâtre solo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

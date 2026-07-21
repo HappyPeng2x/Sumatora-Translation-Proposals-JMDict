@@ -1,0 +1,12 @@
+{
+  "seq": 1159780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "université médicale",
+      "école de médecine",
+      "faculté de médecine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

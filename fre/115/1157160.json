@@ -1,0 +1,11 @@
+{
+  "seq": 1157160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne disposée à accepter un rôle",
+      "candidat volontaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

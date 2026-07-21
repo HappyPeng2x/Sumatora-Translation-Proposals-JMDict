@@ -1,0 +1,19 @@
+{
+  "seq": 1157950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "athée",
+      "hérétique",
+      "païen"
+    ],
+    [
+      "non-conformiste",
+      "libre-pensant",
+      "icônonaïste",
+      "rébelles",
+      "hérétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

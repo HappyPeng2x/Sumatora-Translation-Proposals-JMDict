@@ -1,0 +1,13 @@
+{
+  "seq": 1157650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unanimement",
+      "d'un seul voix",
+      "en chœur",
+      "d'accord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

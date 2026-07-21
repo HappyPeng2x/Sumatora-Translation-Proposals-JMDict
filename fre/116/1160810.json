@@ -1,0 +1,13 @@
+{
+  "seq": 1160810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course court",
+      "trajectoire courte",
+      "brève course",
+      "courte distance parcourue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

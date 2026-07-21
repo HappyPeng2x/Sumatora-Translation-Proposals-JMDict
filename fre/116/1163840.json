@@ -1,0 +1,16 @@
+{
+  "seq": 1163840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne importante",
+      "personne à prendre en compte"
+    ],
+    [
+      "une personne",
+      "un personnage",
+      "quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

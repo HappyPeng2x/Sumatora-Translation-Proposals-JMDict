@@ -1,0 +1,17 @@
+{
+  "seq": 1158100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "édition variante (d'un livre)",
+      "version alternative",
+      "manuscrit différent"
+    ],
+    [
+      "livre étrange",
+      "livre rare",
+      "livre unique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1160400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nettoyage d'un puits",
+      "entretien d'un puits"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

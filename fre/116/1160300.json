@@ -1,0 +1,11 @@
+{
+  "seq": 1160300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[expr, proverbe] la grenouille du puits ignore l'océan",
+      "la grenouille du puits ne connaît pas l'océan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

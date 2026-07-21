@@ -1,0 +1,15 @@
+{
+  "seq": 1158110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autre nom",
+      "surnom",
+      "pseudonyme"
+    ],
+    [
+      "synonyme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

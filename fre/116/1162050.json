@@ -1,0 +1,19 @@
+{
+  "seq": 1162050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une armée"
+    ],
+    [
+      "toute l'armée ; toute la force"
+    ],
+    [
+      "l'équipe première ; les joueurs titulaires"
+    ],
+    [
+      "les gens populaires ; les cool kids"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

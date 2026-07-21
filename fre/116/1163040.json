@@ -1,0 +1,11 @@
+{
+  "seq": 1163040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémoire à court terme",
+      "mémoire immédiate"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

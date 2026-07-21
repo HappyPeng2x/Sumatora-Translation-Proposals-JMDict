@@ -1,0 +1,15 @@
+{
+  "seq": 1158330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transfert (du nom dans un autre registre familial)",
+      "mutation (du nom dans un autre registre familial)"
+    ],
+    [
+      "transfert (d'une équipe, d'une entreprise, etc.)",
+      "mutation (d'une équipe, d'une entreprise, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

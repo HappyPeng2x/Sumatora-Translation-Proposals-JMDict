@@ -1,0 +1,14 @@
+{
+  "seq": 1162630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "particulièrement",
+      "surtout",
+      "de manière remarquable",
+      "de façon notable",
+      "très visiblement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

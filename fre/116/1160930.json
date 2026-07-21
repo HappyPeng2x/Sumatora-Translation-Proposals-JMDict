@@ -1,0 +1,16 @@
+{
+  "seq": 1160930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "seulement",
+      "uniquement",
+      "exclusivement"
+    ],
+    [
+      "ensemble",
+      "en commun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

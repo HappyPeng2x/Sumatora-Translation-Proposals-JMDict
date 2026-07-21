@@ -1,0 +1,17 @@
+{
+  "seq": 1159020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sentiment d'inconfort",
+      "impression de ne pas être à sa place",
+      "désagréable sensation"
+    ],
+    [
+      "malaise",
+      "désaise physique",
+      "état de malaise général"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

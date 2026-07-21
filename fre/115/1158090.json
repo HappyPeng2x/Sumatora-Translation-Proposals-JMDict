@@ -1,0 +1,21 @@
+{
+  "seq": 1158090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étranger",
+      "personne étrangère"
+    ],
+    [
+      "étranger",
+      "inconnu",
+      "personne inconnue"
+    ],
+    [
+      "non-juif",
+      "non-juive",
+      "gentil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

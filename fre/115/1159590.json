@@ -1,0 +1,17 @@
+{
+  "seq": 1159590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet laissé par un défunt",
+      "héritage",
+      "souvenir",
+      "relique"
+    ],
+    [
+      "objet perdu",
+      "effet perdu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

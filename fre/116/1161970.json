@@ -1,0 +1,15 @@
+{
+  "seq": 1161970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phrase",
+      "verse",
+      "ligne"
+    ],
+    [
+      "un haïku"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

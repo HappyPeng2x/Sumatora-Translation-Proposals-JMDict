@@ -1,0 +1,25 @@
+{
+  "seq": 1163520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une ligne",
+      "un filet",
+      "un trait",
+      "un rayon (de lumière)",
+      "un fil (de fumée)"
+    ],
+    [
+      "un élément (d'une liste)",
+      "une disposition",
+      "un passage (d'un livre)"
+    ],
+    [
+      "une affaire",
+      "un incident",
+      "un cas",
+      "un événement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

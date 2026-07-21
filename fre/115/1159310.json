@@ -1,0 +1,14 @@
+{
+  "seq": 1159310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "orphelin",
+      "enfant laissé par un défunt"
+    ],
+    [
+      "enfant abandonné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

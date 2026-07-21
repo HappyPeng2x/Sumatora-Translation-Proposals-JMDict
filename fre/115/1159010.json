@@ -1,0 +1,16 @@
+{
+  "seq": 1159010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trouble physique",
+      "dysfonctionnement physique"
+    ],
+    [
+      "incongruité",
+      "incompatibilité",
+      "incohérence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

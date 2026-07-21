@@ -1,0 +1,11 @@
+{
+  "seq": 1163680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnel (affaires, raisons, etc.)",
+      "propre (affaires, raisons, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

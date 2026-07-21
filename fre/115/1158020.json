@@ -1,0 +1,22 @@
+{
+  "seq": 1158020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corps étranger",
+      "substance étrangère",
+      "contamination étrangère",
+      "matériau étranger"
+    ],
+    [
+      "objet étrange",
+      "objet inhabituel"
+    ],
+    [
+      "corps",
+      "cadavre",
+      "restes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

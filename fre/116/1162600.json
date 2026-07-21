@@ -1,0 +1,36 @@
+{
+  "seq": 1162600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'ensemble du groupe",
+      "tous ceux présents",
+      "tous les invités"
+    ],
+    [
+      "la présence",
+      "l'assistance",
+      "le fait d'être présent"
+    ],
+    [
+      "un banquet",
+      "un dîner",
+      "une réception"
+    ],
+    [
+      "une troupe",
+      "une compagnie théâtrale",
+      "un ensemble d'artistes"
+    ],
+    [
+      "une statue",
+      "une figure"
+    ],
+    [
+      "le siège principal",
+      "la place d'honneur",
+      "la tête de la table"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

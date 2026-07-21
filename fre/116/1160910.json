@@ -1,0 +1,16 @@
+{
+  "seq": 1160910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unilatéral",
+      "à un seul œil"
+    ],
+    [
+      "premier",
+      "initial",
+      "d'entrée de jeu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1157240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laisser inachevé",
+      "abandonner incomplet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

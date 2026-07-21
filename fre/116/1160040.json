@@ -1,0 +1,11 @@
+{
+  "seq": 1160040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "directeur médical",
+      "chef médecin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

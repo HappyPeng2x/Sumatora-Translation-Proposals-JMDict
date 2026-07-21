@@ -1,0 +1,12 @@
+{
+  "seq": 1157280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire tout ce qui est possible",
+      "ne rien laisser faire",
+      "agir de toutes ses forces"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

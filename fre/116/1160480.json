@@ -1,0 +1,15 @@
+{
+  "seq": 1160480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rebord",
+      "d'un puits"
+    ],
+    [
+      "motif",
+      "d'armoiries inspiré d'un rebord de puits carré en bois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

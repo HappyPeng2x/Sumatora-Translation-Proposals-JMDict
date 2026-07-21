@@ -1,0 +1,19 @@
+{
+  "seq": 1161910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un jeu",
+      "une partie (de go, shogi, etc.)"
+    ],
+    [
+      "un plateau",
+      "une table de jeu (de go, shogi, etc.)"
+    ],
+    [
+      "un service",
+      "un bureau (d'une station de radiodiffusion, d'une poste, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

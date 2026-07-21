@@ -1,0 +1,27 @@
+{
+  "seq": 1156670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rancune",
+      "méchanceté",
+      "haine"
+    ],
+    [
+      "intention",
+      "dessein"
+    ],
+    [
+      "disposition",
+      "obstination"
+    ],
+    [
+      "raison",
+      "motif"
+    ],
+    [
+      "vengeance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

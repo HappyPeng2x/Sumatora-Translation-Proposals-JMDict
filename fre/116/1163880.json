@@ -1,0 +1,11 @@
+{
+  "seq": 1163880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pour une seule personne",
+      "destiné à une seule personne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

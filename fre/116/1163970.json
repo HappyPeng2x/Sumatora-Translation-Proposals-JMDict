@@ -1,0 +1,18 @@
+{
+  "seq": 1163970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nain",
+      "nain de bois",
+      "elfe",
+      "Tom Thumb",
+      "Jack Sprat"
+    ],
+    [
+      "conte populaire japonais",
+      "histoire traditionnelle japonaise intitulée 'Issun-bōshi'"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

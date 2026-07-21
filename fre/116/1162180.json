@@ -1,0 +1,11 @@
+{
+  "seq": 1162180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opinion éclairée",
+      "jugement fondé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

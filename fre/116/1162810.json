@@ -1,0 +1,15 @@
+{
+  "seq": 1162810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mourir",
+      "donner sa vie"
+    ],
+    [
+      "un out",
+      "une sortie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

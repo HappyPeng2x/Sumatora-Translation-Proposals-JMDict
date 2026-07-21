@@ -1,0 +1,27 @@
+{
+  "seq": 1163140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'effort personnel",
+      "l'action accomplie seul"
+    ],
+    [
+      "une partie (de go, de shogi, etc.)",
+      "un match"
+    ],
+    [
+      "une danse",
+      "une composition musicale"
+    ],
+    [
+      "une compagnie (de soldats)",
+      "un groupe",
+      "une partie"
+    ],
+    [
+      "une main"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1159650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "legs",
+      "testament",
+      "héritage"
+    ],
+    [
+      "oubli",
+      "négligence",
+      "laisser derrière soi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

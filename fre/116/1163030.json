@@ -1,0 +1,19 @@
+{
+  "seq": 1163030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "premier",
+      "initial"
+    ],
+    [
+      "principal",
+      "originel"
+    ],
+    [
+      "linéaire",
+      "du premier ordre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

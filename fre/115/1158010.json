@@ -1,0 +1,11 @@
+{
+  "seq": 1158010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfant né de différentes mères",
+      "enfant issu de mères différentes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1157210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accomplir",
+      "réaliser",
+      "mener à bien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1163100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une perte",
+      "un échec",
+      "une erreur",
+      "une faute"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

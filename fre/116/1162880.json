@@ -1,0 +1,12 @@
+{
+  "seq": 1162880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traiter tout le monde de manière égale",
+      "bienveillance universelle",
+      "fraternité universelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

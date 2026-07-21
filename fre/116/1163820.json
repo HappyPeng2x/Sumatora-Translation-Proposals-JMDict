@@ -1,0 +1,14 @@
+{
+  "seq": 1163820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dominer",
+      "être seul sur scène",
+      "être seul à prendre des décisions",
+      "être en position de force",
+      "être le seul acteur sur scène"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

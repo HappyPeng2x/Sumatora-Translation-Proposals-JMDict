@@ -1,0 +1,15 @@
+{
+  "seq": 1162200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque maison",
+      "toute maison"
+    ],
+    [
+      "maison par maison",
+      "porte par porte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

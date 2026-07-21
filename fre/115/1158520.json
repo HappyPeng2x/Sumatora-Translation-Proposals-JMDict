@@ -1,0 +1,11 @@
+{
+  "seq": 1158520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gastrite",
+      "catarrhe gastrique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

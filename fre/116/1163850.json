@@ -1,0 +1,19 @@
+{
+  "seq": 1163850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre vie par lui-même (d'une rumeur, etc.)"
+    ],
+    [
+      "marcher seul ; faire une promenade seul"
+    ],
+    [
+      "marcher sans aide ; pouvoir marcher sans assistance"
+    ],
+    [
+      "être autonome ; être indépendant ; s'occuper soi-même"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

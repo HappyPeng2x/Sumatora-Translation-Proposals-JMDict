@@ -1,0 +1,15 @@
+{
+  "seq": 1161550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maillon",
+      "partie",
+      "élément"
+    ],
+    [
+      "monocyclique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

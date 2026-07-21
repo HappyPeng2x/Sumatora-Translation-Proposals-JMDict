@@ -1,0 +1,12 @@
+{
+  "seq": 1161640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un seul morceau",
+      "un seul corps",
+      "un seul groupe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

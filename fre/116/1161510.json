@@ -1,0 +1,19 @@
+{
+  "seq": 1161510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un rouleau"
+    ],
+    [
+      "un livre ; un volume"
+    ],
+    [
+      "le premier volume"
+    ],
+    [
+      "rouler une fois ; envelopper une fois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

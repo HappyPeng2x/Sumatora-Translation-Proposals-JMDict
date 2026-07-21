@@ -1,0 +1,19 @@
+{
+  "seq": 1163380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec tout son cœur",
+      "avec toute son énergie",
+      "avec la plus grande détermination",
+      "avec un grand effort",
+      "avec ardeur",
+      "avec passion"
+    ],
+    [
+      "se consacrer entièrement à la défense de son territoire",
+      "se dévouer corps et âme à la défense de son domaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

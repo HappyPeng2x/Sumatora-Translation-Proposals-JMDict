@@ -1,0 +1,14 @@
+{
+  "seq": 1159600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coutume héréditaire",
+      "tradition persistante"
+    ],
+    [
+      "enseignements transmis par les générations précédentes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

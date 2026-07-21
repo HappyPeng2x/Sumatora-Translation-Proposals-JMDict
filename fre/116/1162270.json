@@ -1,0 +1,10 @@
+{
+  "seq": 1162270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne prête à commenter sur tout sujet; critique en herbe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

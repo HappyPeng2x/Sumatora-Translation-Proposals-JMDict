@@ -1,0 +1,16 @@
+{
+  "seq": 1157830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étranger",
+      "personne étrangère",
+      "étranger d'origine européenne"
+    ],
+    [
+      "personne différente",
+      "individu distinct"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

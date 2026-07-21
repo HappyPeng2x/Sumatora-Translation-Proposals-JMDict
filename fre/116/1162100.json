@@ -1,0 +1,12 @@
+{
+  "seq": 1162100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un chiffre",
+      "une colonne",
+      "la colonne des unités"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

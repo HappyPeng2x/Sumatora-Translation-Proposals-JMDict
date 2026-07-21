@@ -1,0 +1,19 @@
+{
+  "seq": 1161380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étage du rez-de-chaussée",
+      "premier étage"
+    ],
+    [
+      "un étage",
+      "un niveau"
+    ],
+    [
+      "un rang",
+      "un niveau hiérarchique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

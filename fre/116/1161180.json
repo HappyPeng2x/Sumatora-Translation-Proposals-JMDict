@@ -1,0 +1,15 @@
+{
+  "seq": 1161180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un pousser",
+      "une poussée"
+    ],
+    [
+      "un effort supplémentaire",
+      "une dernière tentative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

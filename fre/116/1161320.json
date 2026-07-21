@@ -1,0 +1,18 @@
+{
+  "seq": 1161320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un tour",
+      "une course",
+      "un circuit"
+    ],
+    [
+      "une taille de plus ou de moins"
+    ],
+    [
+      "un cycle des douze années du zodiaque chinois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

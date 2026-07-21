@@ -1,0 +1,18 @@
+{
+  "seq": 1161290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un lot de terrain",
+      "un bloc (d'un quartier)",
+      "une zone",
+      "un terrain"
+    ],
+    [
+      "un coup de pinceau",
+      "un trait d'écriture",
+      "un trait de kanji"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

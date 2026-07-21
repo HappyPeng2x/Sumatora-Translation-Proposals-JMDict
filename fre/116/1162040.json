@@ -1,0 +1,18 @@
+{
+  "seq": 1162040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe",
+      "flock",
+      "troupeau",
+      "rassemblement"
+    ],
+    [
+      "étendue",
+      "étendue vaste",
+      "étendue de fleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1156630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expression",
+      "de ses sentiments"
+    ],
+    [
+      "communication",
+      "de son intention"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

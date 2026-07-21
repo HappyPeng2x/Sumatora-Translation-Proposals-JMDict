@@ -1,0 +1,14 @@
+{
+  "seq": 1161020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "premier rang",
+      "première place"
+    ],
+    [
+      "position des unités (d'un nombre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

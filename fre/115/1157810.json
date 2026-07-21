@@ -1,0 +1,18 @@
+{
+  "seq": 1157810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unique",
+      "distinctif",
+      "original",
+      "singulier",
+      "exceptionnel",
+      "particulier"
+    ],
+    [
+      "différente couleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1157640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opinion différente",
+      "vue différente",
+      "avis divergent",
+      "objection"
+    ],
+    [
+      "réprimande",
+      "reproche",
+      "admonestation",
+      "avertissement",
+      "censure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

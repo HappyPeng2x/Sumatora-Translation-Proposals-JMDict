@@ -1,0 +1,26 @@
+{
+  "seq": 1161400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coin",
+      "section",
+      "point",
+      "partie"
+    ],
+    [
+      "un corne"
+    ],
+    [
+      "pilier (d'un groupe, d'un système, etc.)",
+      "membre (d'une organisation, etc.)"
+    ],
+    [
+      "première coin"
+    ],
+    [
+      "baleine à corne (Monodon monoceros)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

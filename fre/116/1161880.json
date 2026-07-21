@@ -1,0 +1,12 @@
+{
+  "seq": 1161880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obtenir deux bénéfices d'une seule action",
+      "atteindre deux objectifs en une seule fois",
+      "faire deux choses à la fois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

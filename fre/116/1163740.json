@@ -1,0 +1,15 @@
+{
+  "seq": 1163740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne première",
+      "forme grammaticale de première personne"
+    ],
+    [
+      "terme de référence en première personne",
+      "terme utilisé pour se référer à soi-même en première personne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

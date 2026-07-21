@@ -1,0 +1,16 @@
+{
+  "seq": 1160800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à la va-comme-je-te-pige",
+      "à tout hasard",
+      "au hasard",
+      "au pif",
+      "au feeling",
+      "par hasard",
+      "par intuition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

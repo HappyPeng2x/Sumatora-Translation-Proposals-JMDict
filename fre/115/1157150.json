@@ -1,0 +1,17 @@
+{
+  "seq": 1157150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pour",
+      "au profit de",
+      "en faveur de",
+      "au nom de"
+    ],
+    [
+      "à cause de",
+      "en raison de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

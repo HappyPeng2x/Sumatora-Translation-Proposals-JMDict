@@ -1,0 +1,15 @@
+{
+  "seq": 1161810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une discussion",
+      "une réunion",
+      "une conférence"
+    ],
+    [
+      "une objection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1161090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avaler d'un seul coup",
+      "une gorgée",
+      "une bouchée"
+    ],
+    [
+      "une goutte",
+      "un petit verre",
+      "un coup de langue"
+    ],
+    [
+      "considérer son adversaire comme un faible",
+      "faire de quelqu'un une proie facile",
+      "ne pas prendre au sérieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

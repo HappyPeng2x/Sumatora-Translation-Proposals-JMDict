@@ -1,0 +1,13 @@
+{
+  "seq": 1163020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expédient",
+      "solution provisoire",
+      "remède de fortune",
+      "mesure d'urgence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

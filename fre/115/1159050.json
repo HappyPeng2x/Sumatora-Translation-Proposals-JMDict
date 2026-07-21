@@ -1,0 +1,11 @@
+{
+  "seq": 1159050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poème posthume",
+      "chanson écrite après la mort de l'auteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

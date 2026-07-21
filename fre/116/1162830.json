@@ -1,0 +1,11 @@
+{
+  "seq": 1162830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mourir pour son pays",
+      "donner sa vie pour la patrie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

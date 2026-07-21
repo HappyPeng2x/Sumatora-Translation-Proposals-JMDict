@@ -1,0 +1,13 @@
+{
+  "seq": 1156810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "implication",
+      "nuance",
+      "nuance de sens",
+      "connotation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

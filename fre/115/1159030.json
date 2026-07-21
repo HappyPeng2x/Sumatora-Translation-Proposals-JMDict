@@ -1,0 +1,19 @@
+{
+  "seq": 1159030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "legs",
+      "reliquat",
+      "donation",
+      "héritage"
+    ],
+    [
+      "précieux",
+      "chéri",
+      "aimé",
+      "précieux (par le défunt)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

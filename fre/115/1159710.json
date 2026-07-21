@@ -1,0 +1,17 @@
+{
+  "seq": 1159710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médecine",
+      "l'art de guérir",
+      "guérison",
+      "cicatrisation"
+    ],
+    [
+      "médecin",
+      "médecin (suffixe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

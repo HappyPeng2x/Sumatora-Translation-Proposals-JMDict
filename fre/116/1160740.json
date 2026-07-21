@@ -1,0 +1,11 @@
+{
+  "seq": 1160740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agriculture maraîchère",
+      "culture de légumes et de fruits"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

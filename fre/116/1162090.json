@@ -1,0 +1,15 @@
+{
+  "seq": 1162090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un coup",
+      "un coup de force",
+      "un coup porté"
+    ],
+    [
+      "l'ascension réussie d'une difficulté en escalade sans avoir préalablement étudié la voie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

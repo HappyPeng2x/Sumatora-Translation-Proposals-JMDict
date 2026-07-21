@@ -1,0 +1,16 @@
+{
+  "seq": 1162750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tâche",
+      "petite tâche",
+      "un peu de travail"
+    ],
+    [
+      "tâche difficile",
+      "travail pénible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

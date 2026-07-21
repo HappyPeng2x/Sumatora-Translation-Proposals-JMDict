@@ -1,0 +1,16 @@
+{
+  "seq": 1157270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disposition héréditaire",
+      "tempérament",
+      "nature"
+    ],
+    [
+      "constitution physique",
+      "corps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

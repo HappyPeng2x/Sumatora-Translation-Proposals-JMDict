@@ -1,0 +1,12 @@
+{
+  "seq": 1157930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme alternative d'un caractère",
+      "caractère variant",
+      "forme variant d'un caractère (surtout un kanji)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

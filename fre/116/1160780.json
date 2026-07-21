@@ -1,0 +1,14 @@
+{
+  "seq": 1160780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rivage",
+      "plage"
+    ],
+    [
+      "aliment enveloppé dans du nori"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1163240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rejet brutal",
+      "refus abrupt",
+      "ignorer avec dédain"
+    ],
+    [
+      "vaincre facilement",
+      "battre sans difficulté"
+    ],
+    [
+      "un coup de pied"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

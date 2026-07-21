@@ -1,0 +1,11 @@
+{
+  "seq": 1162260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque mot et chaque acte",
+      "un mot ou un acte seulement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1162550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un vote par pays",
+      "un vote par nation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

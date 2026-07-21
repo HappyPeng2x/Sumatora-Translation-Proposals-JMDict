@@ -1,0 +1,21 @@
+{
+  "seq": 1163130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un coup",
+      "une seule action (dans le go, le shogi, etc.)"
+    ],
+    [
+      "le seul moyen",
+      "la seule façon"
+    ],
+    [
+      "agir seul",
+      "monopole",
+      "faire seul",
+      "monopoliser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

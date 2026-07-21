@@ -1,0 +1,11 @@
+{
+  "seq": 1158000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coutumes inhabituelles",
+      "coutumes étrangères"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

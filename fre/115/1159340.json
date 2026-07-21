@@ -1,0 +1,16 @@
+{
+  "seq": 1159340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "testament",
+      "lettre de testaments",
+      "testament écrit",
+      "lettre laissée par un mort"
+    ],
+    [
+      "œuvre posthume"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

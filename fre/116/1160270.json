@@ -1,0 +1,11 @@
+{
+  "seq": 1160270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corporation médicale",
+      "organisation médicale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

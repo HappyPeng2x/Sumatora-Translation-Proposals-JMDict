@@ -1,0 +1,15 @@
+{
+  "seq": 1156730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "têtu",
+      "obstiné"
+    ],
+    [
+      "personne têtue",
+      "personne obstinée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

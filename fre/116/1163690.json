@@ -1,0 +1,12 @@
+{
+  "seq": 1163690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avance et recul alternés",
+      "alternance d'avance et de recul",
+      "mouvement oscillant entre progrès et recul"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

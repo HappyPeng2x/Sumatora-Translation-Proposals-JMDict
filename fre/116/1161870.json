@@ -1,0 +1,17 @@
+{
+  "seq": 1161870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque geste",
+      "chaque mouvement",
+      "tous les actes"
+    ],
+    [
+      "un effort minime",
+      "peu de travail",
+      "une petite peine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

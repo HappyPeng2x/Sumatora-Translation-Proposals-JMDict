@@ -1,0 +1,22 @@
+{
+  "seq": 1158670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perdre de la force",
+      "devenir faible",
+      "disparaître (dans le cas de l'énergie, de l'enthousiasme, etc.)"
+    ],
+    [
+      "flétrir",
+      "fléchir",
+      "s'enflammer (dans le cas des plantes)"
+    ],
+    [
+      "se sentir démotivé",
+      "perdre l'intérêt",
+      "être déçu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1159220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "restes calcinés",
+      "cendres"
+    ],
+    [
+      "restes (de morts en guerre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

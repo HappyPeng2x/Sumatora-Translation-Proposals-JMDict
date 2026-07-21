@@ -1,0 +1,14 @@
+{
+  "seq": 1157800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anomalie",
+      "chose anormale",
+      "dérangement",
+      "trouble",
+      "changement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

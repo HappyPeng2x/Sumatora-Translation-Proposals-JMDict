@@ -1,0 +1,19 @@
+{
+  "seq": 1158240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transition",
+      "changement",
+      "passage",
+      "mutation"
+    ],
+    [
+      "transfert",
+      "déplacement",
+      "changement de position",
+      "passe-charge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

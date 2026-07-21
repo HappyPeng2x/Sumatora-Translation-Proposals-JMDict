@@ -1,0 +1,21 @@
+{
+  "seq": 1161040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un sens",
+      "une pensée"
+    ],
+    [
+      "d'un seul cœur",
+      "d'un seul esprit",
+      "avec dévotion"
+    ],
+    [
+      "unique",
+      "exceptionnel",
+      "singulier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

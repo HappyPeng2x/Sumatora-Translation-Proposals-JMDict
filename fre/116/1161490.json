@@ -1,0 +1,12 @@
+{
+  "seq": 1161490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regrouper ensemble",
+      "mettre ensemble",
+      "traiter de manière globale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

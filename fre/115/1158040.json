@@ -1,0 +1,14 @@
+{
+  "seq": 1158040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "événement inhabituel",
+      "phénomène étrange",
+      "changement (pour le pire)",
+      "accident",
+      "catastrophe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1161800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unique en signification",
+      "ayant une seule interprétation possible",
+      "inambigu",
+      "sans ambiguïté"
+    ],
+    [
+      "principal",
+      "principal, le plus important",
+      "essentiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

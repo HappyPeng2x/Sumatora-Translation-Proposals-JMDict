@@ -1,0 +1,17 @@
+{
+  "seq": 1162690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "petite quantité",
+      "morceau",
+      "goutte",
+      "pincée"
+    ],
+    [
+      "victoire facile",
+      "triomphe facile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

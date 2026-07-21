@@ -1,0 +1,12 @@
+{
+  "seq": 1160750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élevage de plants en serre",
+      "culture de jeunes plants",
+      "mise en culture de semis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

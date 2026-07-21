@@ -1,0 +1,16 @@
+{
+  "seq": 1161780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une affaire",
+      "un point",
+      "une question"
+    ],
+    [
+      "l'intimité physique",
+      "les rapports sexuels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1157530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terres étrangères",
+      "pays étrangers",
+      "régions lointaines"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

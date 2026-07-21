@@ -1,0 +1,16 @@
+{
+  "seq": 1158860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "raison",
+      "cause",
+      "motif"
+    ],
+    [
+      "histoire",
+      "origine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

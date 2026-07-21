@@ -1,0 +1,11 @@
+{
+  "seq": 1162580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "colonel (JASDF, JGSDF)",
+      "capitaine (JMSDF)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

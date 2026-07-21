@@ -1,0 +1,15 @@
+{
+  "seq": 1159760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "famille de médecins",
+      "famille de praticiens"
+    ],
+    [
+      "médecin",
+      "praticien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1158260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "portabilité",
+      "upgradabilité",
+      "compatibilité ascendante"
+    ],
+    [
+      "transitoire",
+      "passager",
+      "d'ordre transitionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

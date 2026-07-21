@@ -1,0 +1,11 @@
+{
+  "seq": 1160230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mission médicale",
+      "travail des missionnaires médicaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

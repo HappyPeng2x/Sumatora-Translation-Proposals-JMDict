@@ -1,0 +1,13 @@
+{
+  "seq": 1159100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "œuvre inachevée laissée à la mort"
+    ],
+    [
+      "œuvre accomplie durant une vie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

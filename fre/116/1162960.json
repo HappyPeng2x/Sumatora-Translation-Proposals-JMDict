@@ -1,0 +1,16 @@
+{
+  "seq": 1162960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "montant unique",
+      "somme forfaitaire",
+      "paiement unique"
+    ],
+    [
+      "prime",
+      "bonus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

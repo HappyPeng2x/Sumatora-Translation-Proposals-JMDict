@@ -1,0 +1,16 @@
+{
+  "seq": 1161310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une fois",
+      "une fois seule",
+      "un tour",
+      "un match",
+      "un combat",
+      "une série",
+      "un inning"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

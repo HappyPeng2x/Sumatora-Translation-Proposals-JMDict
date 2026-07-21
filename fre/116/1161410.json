@@ -1,0 +1,12 @@
+{
+  "seq": 1161410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne importante",
+      "personne de valeur",
+      "personne influente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

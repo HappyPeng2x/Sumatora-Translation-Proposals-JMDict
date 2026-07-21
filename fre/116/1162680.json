@@ -1,0 +1,11 @@
+{
+  "seq": 1162680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un exemplaire (d'un livre, d'une revue, etc.)",
+      "un volume"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

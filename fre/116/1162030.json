@@ -1,0 +1,16 @@
+{
+  "seq": 1162030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe",
+      "foule",
+      "troupeau"
+    ],
+    [
+      "étendue",
+      "vaste surface (de fleurs)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

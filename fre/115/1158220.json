@@ -1,0 +1,17 @@
+{
+  "seq": 1158220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changer",
+      "se transformer",
+      "varier"
+    ],
+    [
+      "pâlir",
+      "déclinir",
+      "faiblir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

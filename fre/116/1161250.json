@@ -1,0 +1,15 @@
+{
+  "seq": 1161250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une fleur",
+      "une seule fleur"
+    ],
+    [
+      "le succès",
+      "la prospérité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1163430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire ensemble",
+      "faire communément"
+    ],
+    [
+      "mettre ensemble",
+      "mélanger",
+      "joindre",
+      "regrouper"
+    ],
+    [
+      "mettre sur le même plan",
+      "classer parmi",
+      "confondre"
+    ],
+    [
+      "arranger le mariage de",
+      "faire se marier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

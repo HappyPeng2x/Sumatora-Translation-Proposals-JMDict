@@ -1,0 +1,21 @@
+{
+  "seq": 1162460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brève tempête",
+      "période courte de mauvais temps"
+    ],
+    [
+      "accès de mauvaise humeur",
+      "mauvaise humeur passagère"
+    ],
+    [
+      "problème",
+      "désaccord",
+      "agitation",
+      "trouble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1161460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réprimande vive",
+      "cri",
+      "aboiement"
+    ],
+    [
+      "réprimande utilisée en zen pour atteindre l'éveil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
