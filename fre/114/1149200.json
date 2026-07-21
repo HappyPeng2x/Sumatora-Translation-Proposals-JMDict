@@ -1,0 +1,12 @@
+{
+  "seq": 1149200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "merveille",
+      "chose extraordinaire",
+      "phénomène remarquable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1148670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "émission de télévision d'information divertissante",
+      "émission de télévision de ragots",
+      "émission de télévision de type talk show",
+      "émission de télévision traitant de sujets d'actualité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

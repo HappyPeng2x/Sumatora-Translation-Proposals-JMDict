@@ -1,0 +1,12 @@
+{
+  "seq": 1150980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élève préféré",
+      "élève chéri",
+      "favori d'un professeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

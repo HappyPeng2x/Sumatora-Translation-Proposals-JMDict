@@ -1,0 +1,20 @@
+{
+  "seq": 1153490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme",
+      "exactement comme",
+      "tellement comme",
+      "comme si",
+      "comme si cela était"
+    ],
+    [
+      "être comme",
+      "être pratiquement comme",
+      "comme si c'était",
+      "ressembler à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

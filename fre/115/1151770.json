@@ -1,0 +1,16 @@
+{
+  "seq": 1151770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facteur négatif du marché boursier",
+      "élément défavorable sur le marché des actions"
+    ],
+    [
+      "facteur négatif",
+      "élément nuisible",
+      "élément contraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1151430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chance inattendue",
+      "chance du diable",
+      "chance malheureuse"
+    ],
+    [
+      "mauvaise chance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

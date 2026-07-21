@@ -1,0 +1,13 @@
+{
+  "seq": 1156190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commission",
+      "procuration",
+      "pouvoir d'agir",
+      "autorisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

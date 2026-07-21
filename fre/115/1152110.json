@@ -1,0 +1,12 @@
+{
+  "seq": 1152110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise gouvernance",
+      "mauvaise administration",
+      "gouvernance inappropriée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1150200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joies et peines",
+      "bonheur et tristesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

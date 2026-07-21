@@ -1,0 +1,15 @@
+{
+  "seq": 1150790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grande passion pour les livres",
+      "amour profond des livres"
+    ],
+    [
+      "livre préféré",
+      "ouvrage favori"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

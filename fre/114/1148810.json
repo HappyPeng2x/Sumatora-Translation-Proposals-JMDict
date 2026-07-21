@@ -1,0 +1,14 @@
+{
+  "seq": 1148810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans fil",
+      "non filaire"
+    ],
+    [
+      "microphone sans fil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

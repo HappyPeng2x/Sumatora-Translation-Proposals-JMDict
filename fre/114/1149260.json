@@ -1,0 +1,16 @@
+{
+  "seq": 1149260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un seul homme (spectacle, équipe, etc.)"
+    ],
+    [
+      "tyran ; personne autoritaire"
+    ],
+    [
+      "bus sans conducteur (seulement un conducteur) ; train sans conducteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

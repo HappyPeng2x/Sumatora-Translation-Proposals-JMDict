@@ -1,0 +1,15 @@
+{
+  "seq": 1149990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'incapacité de parler",
+      "une altération de la parole"
+    ],
+    [
+      "muet",
+      "sourd et muet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

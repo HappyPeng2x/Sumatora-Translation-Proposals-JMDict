@@ -1,0 +1,17 @@
+{
+  "seq": 1155690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confiage",
+      "commission",
+      "délegation"
+    ],
+    [
+      "appui",
+      "soutien",
+      "appuyer contre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

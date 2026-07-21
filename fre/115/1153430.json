@@ -1,0 +1,24 @@
+{
+  "seq": 1153430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traitement",
+      "manipulation",
+      "gestion",
+      "traitement (d'une personne)"
+    ],
+    [
+      "manipulation",
+      "utilisation",
+      "opération",
+      "manœuvre"
+    ],
+    [
+      "traiter comme",
+      "traiter en",
+      "considérer comme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

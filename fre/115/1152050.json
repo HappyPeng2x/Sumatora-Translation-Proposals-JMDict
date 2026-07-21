@@ -1,0 +1,17 @@
+{
+  "seq": 1152050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mal de tête dû à l'alcool",
+      "nausée causée par la boisson",
+      "malaise après avoir bu"
+    ],
+    [
+      "fureur alcoolique",
+      "agitation causée par l'alcool",
+      "comportement désordonné sous l'effet de l'alcool"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

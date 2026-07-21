@@ -1,0 +1,16 @@
+{
+  "seq": 1151590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfant malicieux",
+      "gamin",
+      "malingre"
+    ],
+    [
+      "elfe",
+      "imp"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

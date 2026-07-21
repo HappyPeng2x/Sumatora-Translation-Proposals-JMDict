@@ -1,0 +1,15 @@
+{
+  "seq": 1154680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rivalité secrète",
+      "conflit caché"
+    ],
+    [
+      "pantomime silencieuse exécutée à l'obscurité",
+      "mime dans le noir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

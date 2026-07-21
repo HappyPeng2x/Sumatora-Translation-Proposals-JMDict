@@ -1,0 +1,14 @@
+{
+  "seq": 1148870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récipient pour le vin",
+      "seau à vin"
+    ],
+    [
+      "boisson à base de jus de fruit et de vin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

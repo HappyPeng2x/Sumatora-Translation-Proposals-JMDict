@@ -1,0 +1,13 @@
+{
+  "seq": 1150900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affable",
+      "amiable",
+      "sociable",
+      "agréable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

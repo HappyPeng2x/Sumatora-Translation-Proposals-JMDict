@@ -1,0 +1,15 @@
+{
+  "seq": 1156120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "président",
+      "présidente",
+      "présidente de comité",
+      "président de comité",
+      "chancelier",
+      "chancelière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

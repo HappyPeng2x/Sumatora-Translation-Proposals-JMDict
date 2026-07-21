@@ -1,0 +1,16 @@
+{
+  "seq": 1152450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vice",
+      "mauvaise conduite",
+      "mauvaises coutumes"
+    ],
+    [
+      "tempête",
+      "vents violents"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

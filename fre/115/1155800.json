@@ -1,0 +1,12 @@
+{
+  "seq": 1155800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnage célèbre",
+      "personne en position élevée",
+      "grand personnage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

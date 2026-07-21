@@ -1,0 +1,17 @@
+{
+  "seq": 1154260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sécurité",
+      "sécurité nationale"
+    ],
+    [
+      "Traité de sécurité entre les États-Unis et le Japon"
+    ],
+    [
+      "mouvement contre le Traité de sécurité entre les États-Unis et le Japon (1959-60, 1970)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

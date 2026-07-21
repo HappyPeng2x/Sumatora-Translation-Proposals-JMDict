@@ -1,0 +1,16 @@
+{
+  "seq": 1148720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transition de fond (en cinéma ou à la télévision)"
+    ],
+    [
+      "image superposée dans un coin de l'écran (généralement montrant les réactions des invités ou des animateurs au contenu principal)"
+    ],
+    [
+      "chiffon (pour nettoyer)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

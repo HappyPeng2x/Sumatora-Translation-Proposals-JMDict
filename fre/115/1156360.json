@@ -1,0 +1,12 @@
+{
+  "seq": 1156360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imposer par la force",
+      "soumettre par la terreur",
+      "dominer par la peur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

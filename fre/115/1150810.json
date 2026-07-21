@@ -1,0 +1,11 @@
+{
+  "seq": 1150810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson qu'on aime chanter",
+      "chanson préférée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1155370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dandy",
+      "homme élégant et distingué",
+      "homme coquet et vaniteux"
+    ],
+    [
+      "homme chevaleresque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

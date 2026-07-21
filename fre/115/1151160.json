@@ -1,0 +1,12 @@
+{
+  "seq": 1151160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rendez-vous",
+      "rencontre secrète",
+      "rendez-vous amoureux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

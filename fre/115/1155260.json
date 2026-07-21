@@ -1,0 +1,14 @@
+{
+  "seq": 1155260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pèlerinage à Ise",
+      "pèlerinage au sanctuaire d'Ise"
+    ],
+    [
+      "pèlerin d'Ise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

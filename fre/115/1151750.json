@@ -1,0 +1,13 @@
+{
+  "seq": 1151750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruses",
+      "dessein malveillant",
+      "complot",
+      "intrigue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

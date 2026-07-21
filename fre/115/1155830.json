@@ -1,0 +1,11 @@
+{
+  "seq": 1155830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "actes remarquables",
+      "faits exceptionnels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1151850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup mal joué",
+      "mouvement maladroit"
+    ],
+    [
+      "décision maladroite",
+      "mauvaise décision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1153740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abordable",
+      "bon marché",
+      "inexpensive"
+    ],
+    [
+      "superficiel",
+      "faible (en profondeur)",
+      "peu sincère (en politique)"
+    ],
+    [
+      "lien vers un message",
+      "référence à un message"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1151600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malfaiteur",
+      "joueur",
+      "farceur"
+    ],
+    [
+      "personne lascive",
+      "femme légère"
+    ],
+    [
+      "souris",
+      "rat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1153360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe de pression",
+      "organisation qui exerce une pression sur les gouvernements ou les institutions pour influencer des décisions politiques ou économiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

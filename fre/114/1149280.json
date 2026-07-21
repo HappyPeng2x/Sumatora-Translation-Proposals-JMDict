@@ -1,0 +1,11 @@
+{
+  "seq": 1149280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bus sans conducteur",
+      "bus à un seul conducteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

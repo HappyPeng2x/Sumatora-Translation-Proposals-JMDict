@@ -1,0 +1,13 @@
+{
+  "seq": 1155010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "verger d'abricotiers"
+    ],
+    [
+      "médecin (d'après l'histoire de Dong Feng, un médecin chinois qui faisait planter des abricotiers à la place du paiement)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

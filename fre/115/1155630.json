@@ -1,0 +1,11 @@
+{
+  "seq": 1155630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retraite sur demande",
+      "démission spontanée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

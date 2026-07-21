@@ -1,0 +1,15 @@
+{
+  "seq": 1151200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plante médicinale utilisée pour obtenir un teintant rouge",
+      "espèce de rubia utilisée en teinture"
+    ],
+    [
+      "teinte rouge vif",
+      "couleur rouge intense"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

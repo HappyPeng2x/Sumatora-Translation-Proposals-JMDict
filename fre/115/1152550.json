@@ -1,0 +1,17 @@
+{
+  "seq": 1152550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ami indésirable",
+      "mauvais exemple",
+      "mauvais compagnon"
+    ],
+    [
+      "complice",
+      "ami proche",
+      "camarade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

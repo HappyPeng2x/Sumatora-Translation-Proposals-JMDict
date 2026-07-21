@@ -1,0 +1,14 @@
+{
+  "seq": 1154490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "période d'éclipse (dans le cycle de vie d'un virus)",
+      "phase d'éclipse"
+    ],
+    [
+      "âge sombre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1151710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie d'un méchant",
+      "rôle d'un vilain"
+    ],
+    [
+      "mauvais état",
+      "forme défectueuse (dans le shogi ou le othello)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

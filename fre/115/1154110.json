@@ -1,0 +1,19 @@
+{
+  "seq": 1154110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "simple",
+      "facile",
+      "simpliste",
+      "trop simple"
+    ],
+    [
+      "bon marché",
+      "inexpensive",
+      "abordable",
+      "modeste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

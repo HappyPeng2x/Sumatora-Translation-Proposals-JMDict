@@ -1,0 +1,12 @@
+{
+  "seq": 1152090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tumeur maligne",
+      "tumeur cancéreuse",
+      "cancer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

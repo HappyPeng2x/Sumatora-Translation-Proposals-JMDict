@@ -1,0 +1,15 @@
+{
+  "seq": 1149020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Washington, D.C.",
+      "la capitale des États-Unis"
+    ],
+    [
+      "l'État de Washington",
+      "État des États-Unis d'Amérique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

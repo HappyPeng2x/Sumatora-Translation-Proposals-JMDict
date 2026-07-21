@@ -1,0 +1,25 @@
+{
+  "seq": 1152850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "noisetier japonais"
+    ],
+    [
+      "catalpa jaune"
+    ],
+    [
+      "mallotus japonais"
+    ],
+    [
+      "bloc de gravure"
+    ],
+    [
+      "arc de catalpa"
+    ],
+    [
+      "catalpa moyen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

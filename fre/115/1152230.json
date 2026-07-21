@@ -1,0 +1,12 @@
+{
+  "seq": 1152230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langage abusif",
+      "parole grossière",
+      "insulte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

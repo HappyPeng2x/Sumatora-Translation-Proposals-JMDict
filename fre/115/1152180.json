@@ -1,0 +1,14 @@
+{
+  "seq": 1152180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prêtre débauché",
+      "moine corrompu"
+    ],
+    [
+      "moine guerrier féroce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

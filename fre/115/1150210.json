@@ -1,0 +1,13 @@
+{
+  "seq": 1150210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "supplique",
+      "appel",
+      "prière",
+      "requête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

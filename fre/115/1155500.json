@@ -1,0 +1,12 @@
+{
+  "seq": 1155500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre la mesure de",
+      "évaluer",
+      "juger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

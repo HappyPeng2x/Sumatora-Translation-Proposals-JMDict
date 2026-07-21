@@ -1,0 +1,13 @@
+{
+  "seq": 1155350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dandy",
+      "homme élégant",
+      "personne distinguée",
+      "gentilhomme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

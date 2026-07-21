@@ -1,0 +1,12 @@
+{
+  "seq": 1149010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bord de vente",
+      "coin de vente en solde",
+      "vente en chariot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

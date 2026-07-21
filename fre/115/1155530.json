@@ -1,0 +1,13 @@
+{
+  "seq": 1155530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace des phases"
+    ],
+    [
+      "espace topologique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

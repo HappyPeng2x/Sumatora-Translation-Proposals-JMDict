@@ -1,0 +1,19 @@
+{
+  "seq": 1154640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sombre",
+      "gloomy",
+      "obscur",
+      "ténébreux"
+    ],
+    [
+      "désolé",
+      "abattu",
+      "désappointé",
+      "triste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

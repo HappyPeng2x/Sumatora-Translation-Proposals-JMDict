@@ -1,0 +1,17 @@
+{
+  "seq": 1152690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étagère",
+      "classement",
+      "mise de côté"
+    ],
+    [
+      "étranglement",
+      "suffocation",
+      "écrasement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

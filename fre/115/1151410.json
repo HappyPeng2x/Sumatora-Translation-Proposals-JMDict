@@ -1,0 +1,11 @@
+{
+  "seq": 1151410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soumettre des actes mauvais et récolter des conséquences mauvaises",
+      "agir de manière malveillante et subir des résultats néfastes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

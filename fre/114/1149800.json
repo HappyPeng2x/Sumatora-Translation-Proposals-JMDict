@@ -1,0 +1,14 @@
+{
+  "seq": 1149800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous-groupe",
+      "du tableau périodique"
+    ],
+    [
+      "soutribu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

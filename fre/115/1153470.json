@@ -1,0 +1,22 @@
+{
+  "seq": 1153470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attribuer",
+      "allouer",
+      "assigner"
+    ],
+    [
+      "donner",
+      "fournir",
+      "procurer"
+    ],
+    [
+      "fixer",
+      "attacher",
+      "appliquer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

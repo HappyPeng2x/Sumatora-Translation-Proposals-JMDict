@@ -1,0 +1,19 @@
+{
+  "seq": 1149190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "touch unique",
+      "opération à un seul toucher"
+    ],
+    [
+      "touch (du ballon avant qu'il ne sorte du terrain)",
+      "contact (du ballon avant qu'il ne sorte du terrain)"
+    ],
+    [
+      "joue au toucher (au football)",
+      "action au toucher (au football)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

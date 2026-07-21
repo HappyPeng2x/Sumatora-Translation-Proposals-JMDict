@@ -1,0 +1,15 @@
+{
+  "seq": 1149980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "acide arsenieux",
+      "acide arsenique"
+    ],
+    [
+      "trioxyde d'arsenic",
+      "arsenic blanc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

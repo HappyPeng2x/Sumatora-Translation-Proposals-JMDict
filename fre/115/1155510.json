@@ -1,0 +1,19 @@
+{
+  "seq": 1155510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phase",
+      "étape",
+      "stade"
+    ],
+    [
+      "topologie"
+    ],
+    [
+      "registre",
+      "mode de langage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

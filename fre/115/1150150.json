@@ -1,0 +1,12 @@
+{
+  "seq": 1150150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "triste",
+      "douloureux",
+      "mélancolique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

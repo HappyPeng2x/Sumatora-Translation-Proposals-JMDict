@@ -1,0 +1,14 @@
+{
+  "seq": 1154360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "implicitement",
+      "indirectement",
+      "tacitement",
+      "par implication",
+      "obscurement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1153070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mort par écrasement",
+      "décès causé par une pression excessive",
+      "trépas sous l'effet d'une force écrasante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

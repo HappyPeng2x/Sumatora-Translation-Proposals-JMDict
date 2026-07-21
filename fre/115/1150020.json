@@ -1,0 +1,14 @@
+{
+  "seq": 1150020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flatter",
+      "séduire",
+      "faire des courbettes",
+      "s'humilier",
+      "chercher à plaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

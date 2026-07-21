@@ -1,0 +1,12 @@
+{
+  "seq": 1150190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pathos",
+      "mélancolie",
+      "douleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

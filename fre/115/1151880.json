@@ -1,0 +1,13 @@
+{
+  "seq": 1151880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise habitude",
+      "mauvaise coutume",
+      "pratique malveillante",
+      "vice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1154610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "numéro de sécurité personnel",
+      "code PIN",
+      "numéro de passe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

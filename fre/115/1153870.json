@@ -1,0 +1,11 @@
+{
+  "seq": 1153870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hôtel bon marché",
+      "auberge peu coûteuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

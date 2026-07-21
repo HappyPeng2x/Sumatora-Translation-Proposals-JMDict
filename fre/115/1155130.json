@@ -1,0 +1,16 @@
+{
+  "seq": 1155130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "télépathie",
+      "compréhension tacite",
+      "transfert de pensée",
+      "communion d'esprit à esprit"
+    ],
+    [
+      "transmission non verbale en bouddhisme zen des principes centraux du bouddhisme à un disciple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

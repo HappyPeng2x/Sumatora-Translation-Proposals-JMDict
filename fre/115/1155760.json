@@ -1,0 +1,14 @@
+{
+  "seq": 1155760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préférence injuste",
+      "partialité",
+      "faveur excessive",
+      "préjugé",
+      "favoritisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

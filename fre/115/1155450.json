@@ -1,0 +1,11 @@
+{
+  "seq": 1155450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diplôme de grade court",
+      "attestation de grade dans la cour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

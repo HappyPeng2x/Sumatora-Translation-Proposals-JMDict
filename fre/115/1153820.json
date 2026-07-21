@@ -1,0 +1,12 @@
+{
+  "seq": 1153820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accouchement facile",
+      "naissance sans complications",
+      "accouchement sans danger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

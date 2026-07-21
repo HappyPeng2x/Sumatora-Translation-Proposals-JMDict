@@ -1,0 +1,12 @@
+{
+  "seq": 1151360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quartier malfait",
+      "sous-sol de la ville",
+      "monde souterrain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

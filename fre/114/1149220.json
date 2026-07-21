@@ -1,0 +1,12 @@
+{
+  "seq": 1149220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terre des merveilles",
+      "pays des merveilles",
+      "monde merveilleux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

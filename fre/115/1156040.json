@@ -1,0 +1,15 @@
+{
+  "seq": 1156040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "barbare",
+      "sauvage"
+    ],
+    [
+      "étranger",
+      "étranger (dérogatoire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

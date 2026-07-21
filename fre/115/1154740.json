@@ -1,0 +1,11 @@
+{
+  "seq": 1154740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pleurer en silence",
+      "verser des larmes en silence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

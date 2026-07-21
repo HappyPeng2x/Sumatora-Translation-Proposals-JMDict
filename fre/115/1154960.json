@@ -1,0 +1,20 @@
+{
+  "seq": 1154960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement",
+      "mutation",
+      "passage",
+      "basculade",
+      "démarche",
+      "virage"
+    ],
+    [
+      "changement de quartier",
+      "déplacement",
+      "mutation de logement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1150620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charme",
+      "attractivité",
+      "amabilité",
+      "douceur"
+    ],
+    [
+      "courtoisie",
+      "comportement aimable"
+    ],
+    [
+      "divertissement",
+      "amusant",
+      "plaisir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

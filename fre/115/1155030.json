@@ -1,0 +1,16 @@
+{
+  "seq": 1155030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inouï",
+      "inconcevable",
+      "impensable",
+      "inadmissible",
+      "intolérable",
+      "impardonnable",
+      "hors de question"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

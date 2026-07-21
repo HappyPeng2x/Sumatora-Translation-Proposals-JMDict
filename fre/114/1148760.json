@@ -1,0 +1,17 @@
+{
+  "seq": 1148760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fil",
+      "câble",
+      "barre métallique fine"
+    ],
+    [
+      "câble",
+      "cordage",
+      "câble d'acier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

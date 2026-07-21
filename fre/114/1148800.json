@@ -1,0 +1,11 @@
+{
+  "seq": 1148800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "technique de soudure consistant à entourer un fil autour d'un autre pour le fixer",
+      "technique de fixation de fils par enroulement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

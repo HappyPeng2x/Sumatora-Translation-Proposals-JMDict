@@ -1,0 +1,11 @@
+{
+  "seq": 1153120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compressibilité",
+      "rapport de compression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

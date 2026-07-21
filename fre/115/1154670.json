@@ -1,0 +1,16 @@
+{
+  "seq": 1154670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perte de lumière totale sur scène",
+      "extinction soudaine de l'éclairage en théâtre"
+    ],
+    [
+      "détérioration soudaine",
+      "déclin rapide",
+      "tournant vers le pire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

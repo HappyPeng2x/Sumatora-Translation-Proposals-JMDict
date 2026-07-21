@@ -1,0 +1,10 @@
+{
+  "seq": 1148900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liste des vins"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

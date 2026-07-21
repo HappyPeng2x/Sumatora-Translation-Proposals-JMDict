@@ -1,0 +1,18 @@
+{
+  "seq": 1152890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écraser jusqu'à la mort",
+      "serrer jusqu'à la mort",
+      "comprimer jusqu'à la mort"
+    ],
+    [
+      "étouffer (un rire, une colère, etc.)",
+      "souffocer (une voix)",
+      "réprimer (une émotion)",
+      "retenir son souffle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

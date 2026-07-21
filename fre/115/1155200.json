@@ -1,0 +1,12 @@
+{
+  "seq": 1155200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "et au nord de",
+      "et vers le nord de",
+      "au nord et vers le nord de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,62 @@
+{
+  "seq": 1156020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peuples",
+      "anciens",
+      "du",
+      "nord",
+      "du",
+      "Japon",
+      "ayant",
+      "une",
+      "langue",
+      "et",
+      "une",
+      "culture",
+      "distinctes",
+      "(c'est-à-dire",
+      "les",
+      "Ainu)"
+    ],
+    [
+      "provincial",
+      "(c'est-à-dire",
+      "une",
+      "personne",
+      "qui",
+      "vit",
+      "loin",
+      "de",
+      "la",
+      "ville)"
+    ],
+    [
+      "guerrier",
+      "brutal",
+      "non",
+      "affiné",
+      "(surtout",
+      "utilisé",
+      "par",
+      "les",
+      "samouraïs",
+      "de",
+      "Kyoto",
+      "pour",
+      "désigner",
+      "des",
+      "samouraïs",
+      "du",
+      "Japon",
+      "du",
+      "Est)"
+    ],
+    [
+      "étranger",
+      "barbare"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

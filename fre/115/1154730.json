@@ -1,0 +1,12 @@
+{
+  "seq": 1154730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "larmes silencieuses",
+      "larmes discrètes",
+      "larmes muettes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

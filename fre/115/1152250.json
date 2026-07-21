@@ -1,0 +1,16 @@
+{
+  "seq": 1152250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "habile mais maladroit",
+      "habile mais peu raffiné",
+      "habile mais sans élégance"
+    ],
+    [
+      "personne habile mais maladroite",
+      "artiste habile mais sans goût"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

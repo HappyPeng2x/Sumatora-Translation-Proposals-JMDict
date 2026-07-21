@@ -1,0 +1,15 @@
+{
+  "seq": 1153450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accuser",
+      "condamner",
+      "dénoncer",
+      "laminer",
+      "maudire",
+      "insulter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

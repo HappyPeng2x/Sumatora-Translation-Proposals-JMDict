@@ -1,0 +1,11 @@
+{
+  "seq": 1152120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voix mauvaise",
+      "parole malveillante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

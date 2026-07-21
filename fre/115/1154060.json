@@ -1,0 +1,12 @@
+{
+  "seq": 1154060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup sûr",
+      "frappe qui permet à un joueur de passer en sécurité",
+      "frappe réussie dans le baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

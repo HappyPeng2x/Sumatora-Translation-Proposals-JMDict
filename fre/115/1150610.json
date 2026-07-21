@@ -1,0 +1,21 @@
+{
+  "seq": 1150610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amour",
+      "pour",
+      "la",
+      "récitation",
+      "ou",
+      "le",
+      "chant",
+      "de",
+      "poèmes",
+      "ou",
+      "chansons",
+      "préférés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

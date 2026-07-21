@@ -1,0 +1,11 @@
+{
+  "seq": 1151010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre préféré",
+      "livre favori"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

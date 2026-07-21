@@ -1,0 +1,15 @@
+{
+  "seq": 1155050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "après",
+      "ultérieurement"
+    ],
+    [
+      "avant",
+      "précédant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

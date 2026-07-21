@@ -1,0 +1,19 @@
+{
+  "seq": 1156390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inspecteur",
+      "ancien grade administratif du système ritsuryō"
+    ],
+    [
+      "vieillard",
+      "personne âgée"
+    ],
+    [
+      "cendre blanche",
+      "poussière de charbon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

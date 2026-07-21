@@ -1,0 +1,28 @@
+{
+  "seq": 1151240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne malveillante",
+      "individu mauvais",
+      "scélérat",
+      "mauvais garçon"
+    ],
+    [
+      "enfant mal élevé",
+      "enfant turbulent",
+      "petit démon"
+    ],
+    [
+      "choses mal faites",
+      "bêtise",
+      "mésaventure"
+    ],
+    [
+      "excessif",
+      "débridé",
+      "trop indulgent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

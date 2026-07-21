@@ -1,0 +1,24 @@
+{
+  "seq": 1152990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point fort",
+      "meilleur moment",
+      "sommet"
+    ],
+    [
+      "éblouissant",
+      "incroyable",
+      "spectaculaire",
+      "bouleversant"
+    ],
+    [
+      "éblouir",
+      "émerveiller",
+      "impressionner",
+      "submerger (d'émotion)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

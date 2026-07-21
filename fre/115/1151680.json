@@ -1,0 +1,14 @@
+{
+  "seq": 1151680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avoir l'air timide",
+      "montrer de la diffidence",
+      "hésiter",
+      "paraître embarrassé",
+      "sembler coupable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

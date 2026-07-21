@@ -1,0 +1,16 @@
+{
+  "seq": 1154840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poupée de chiffon",
+      "mannequin de jardin"
+    ],
+    [
+      "personnage symbolique",
+      "marionnette",
+      "figurine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

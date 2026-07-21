@@ -1,0 +1,16 @@
+{
+  "seq": 1151920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "zone dangereuse",
+      "chemin périlleux"
+    ],
+    [
+      "quartier malfamé",
+      "maison de tolérance",
+      "brothel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

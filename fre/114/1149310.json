@@ -1,0 +1,27 @@
+{
+  "seq": 1149310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aboyer",
+      "gémir",
+      "aboiement"
+    ],
+    [
+      "pleurer",
+      "gémir",
+      "cri d'enfant"
+    ],
+    [
+      "résonner",
+      "retentir",
+      "faire du bruit"
+    ],
+    [
+      "chien",
+      "caniche",
+      "animal de compagnie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

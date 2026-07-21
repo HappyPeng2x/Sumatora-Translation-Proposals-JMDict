@@ -1,0 +1,15 @@
+{
+  "seq": 1151180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mallow",
+      "plante de la famille des Malvacées"
+    ],
+    [
+      "Asarum caulescens",
+      "espèce de gingembre sauvage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

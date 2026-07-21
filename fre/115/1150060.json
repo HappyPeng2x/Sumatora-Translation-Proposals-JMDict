@@ -1,0 +1,16 @@
+{
+  "seq": 1150060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taverne",
+      "lieu",
+      "où",
+      "l'on",
+      "consomme",
+      "de",
+      "l'opium"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

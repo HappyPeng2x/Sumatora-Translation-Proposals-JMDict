@@ -1,0 +1,11 @@
+{
+  "seq": 1155000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "champignon girolle",
+      "champignon de Cantharellus cibarius"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

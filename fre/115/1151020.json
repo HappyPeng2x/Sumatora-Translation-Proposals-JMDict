@@ -1,0 +1,15 @@
+{
+  "seq": 1151020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chat de compagnie",
+      "chat bien-aimé"
+    ],
+    [
+      "amour des chats",
+      "ailurophilie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

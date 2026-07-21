@@ -1,0 +1,15 @@
+{
+  "seq": 1150040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme peu séduisante",
+      "femme ordinaire",
+      "femme peu attrayante"
+    ],
+    [
+      "masque humoristique représentant le visage d'une femme peu séduisante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

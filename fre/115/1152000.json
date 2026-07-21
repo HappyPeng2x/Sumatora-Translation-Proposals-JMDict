@@ -1,0 +1,11 @@
+{
+  "seq": 1152000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nausée",
+      "envie de vomir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

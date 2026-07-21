@@ -1,0 +1,16 @@
+{
+  "seq": 1149090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "badge",
+      "insigne",
+      "emblème"
+    ],
+    [
+      "étiquette",
+      "autocollant décoratif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

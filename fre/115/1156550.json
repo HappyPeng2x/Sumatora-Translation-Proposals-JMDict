@@ -1,0 +1,15 @@
+{
+  "seq": 1156550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "têtu",
+      "obstiné",
+      "entêté",
+      "inflexible",
+      "borné",
+      "capricieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

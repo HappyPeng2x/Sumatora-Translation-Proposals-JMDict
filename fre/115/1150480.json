@@ -1,0 +1,15 @@
+{
+  "seq": 1150480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aimer",
+      "chérir"
+    ],
+    [
+      "admirer",
+      "apprécier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

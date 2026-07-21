@@ -1,0 +1,14 @@
+{
+  "seq": 1156510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'entendre à merveille avec (quelqu'un)",
+      "avoir une entente parfaite avec (quelqu'un)",
+      "se comprendre mutuellement",
+      "sympathie mutuelle",
+      "compréhension mutuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

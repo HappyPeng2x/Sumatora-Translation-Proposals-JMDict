@@ -1,0 +1,33 @@
+{
+  "seq": 1152660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'acte de saisir",
+      "l'effort de saisir ou d'agripper",
+      "prise",
+      "étreinte"
+    ],
+    [
+      "une poignée",
+      "une quantité prise dans la main"
+    ],
+    [
+      "poignée",
+      "manche",
+      "bouton"
+    ],
+    [
+      "boule de riz",
+      "onigiri"
+    ],
+    [
+      "sushi nigiri",
+      "sushi formé à la main avec une garniture de poisson ou d'autres ingrédients"
+    ],
+    [
+      "dans le jeu de go, la méthode de détermination de qui joue noir en prenant une poignée de pierres blanches et en utilisant une ou deux pierres noires pour deviner si le nombre est impair ou pair"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

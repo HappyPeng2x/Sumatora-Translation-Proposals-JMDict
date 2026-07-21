@@ -1,0 +1,14 @@
+{
+  "seq": 1156500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lâche",
+      "sans courage",
+      "timide",
+      "faible",
+      "dépourvu de cran"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

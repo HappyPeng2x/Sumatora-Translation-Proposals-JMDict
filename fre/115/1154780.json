@@ -1,0 +1,31 @@
+{
+  "seq": 1154780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être inquiet",
+      "s'inquiéter",
+      "être préoccupé",
+      "craindre"
+    ],
+    [
+      "élaborer",
+      "mettre au point",
+      "concevoir",
+      "réfléchir",
+      "méditer"
+    ],
+    [
+      "enquêter",
+      "examiner",
+      "étudier"
+    ],
+    [
+      "caresser",
+      "frotter",
+      "tapoter",
+      "saisir (le pommeau d'une épée)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

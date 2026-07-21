@@ -1,0 +1,19 @@
+{
+  "seq": 1151860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvais goût",
+      "manque de raffinement",
+      "vulgarité",
+      "gaucherie"
+    ],
+    [
+      "nastiness",
+      "comportement répugnant",
+      "perversité",
+      "disposition perverse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

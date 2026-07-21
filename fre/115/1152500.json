@@ -1,0 +1,13 @@
+{
+  "seq": 1152500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise loi"
+    ],
+    [
+      "manière mauvaise, façon mauvaise de faire les choses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

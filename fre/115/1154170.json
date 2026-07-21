@@ -1,0 +1,19 @@
+{
+  "seq": 1154170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soulagement",
+      "réconfort"
+    ],
+    [
+      "reconnaissance d'un droit de propriété foncière",
+      "confirmation d'un droit de possession de terre"
+    ],
+    [
+      "vivre en sécurité derrière des murs",
+      "habiter protégé par des remparts"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

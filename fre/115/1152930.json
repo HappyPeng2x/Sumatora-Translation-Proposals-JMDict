@@ -1,0 +1,16 @@
+{
+  "seq": 1152930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appuyer",
+      "serrer"
+    ],
+    [
+      "opprimer",
+      "dominer",
+      "submerger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

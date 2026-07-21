@@ -1,0 +1,14 @@
+{
+  "seq": 1150710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "patriotisme",
+      "amour de la patrie"
+    ],
+    [
+      "Irlande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

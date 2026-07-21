@@ -1,0 +1,13 @@
+{
+  "seq": 1154800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "formule de respect ajoutée au nom de la personne à qui l'on s'adresse sur une lettre"
+    ],
+    [
+      "sous le bureau (sens originel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

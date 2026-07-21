@@ -1,0 +1,12 @@
+{
+  "seq": 1150590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amour pour sa ville natale",
+      "attachement à son pays natal",
+      "sentiment d'affection envers sa région d'origine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

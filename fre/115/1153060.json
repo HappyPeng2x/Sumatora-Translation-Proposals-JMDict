@@ -1,0 +1,17 @@
+{
+  "seq": 1153060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tuer par écrasement",
+      "écrasement mortel"
+    ],
+    [
+      "écrasement (d'un espoir, d'une liberté, etc.)",
+      "suppression",
+      "étouffement",
+      "assommement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
