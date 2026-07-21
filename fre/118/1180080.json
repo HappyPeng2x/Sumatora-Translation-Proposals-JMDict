@@ -1,0 +1,12 @@
+{
+  "seq": 1180080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "question appliquée",
+      "problème testant la capacité à appliquer des connaissances théoriques",
+      "exercice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1185730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "végétation basse",
+      "herbes sauvages sous un arbre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1179970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retourner les coups",
+      "se défendre",
+      "counter-attaque",
+      "répondre à une attaque",
+      "accepter un défi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

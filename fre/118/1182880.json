@@ -1,0 +1,15 @@
+{
+  "seq": 1182880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arbre de la pivoine",
+      "pivoine arbustive",
+      "moutan"
+    ],
+    [
+      "porc sauvage (viande)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

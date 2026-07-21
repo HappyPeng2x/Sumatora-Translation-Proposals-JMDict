@@ -1,0 +1,14 @@
+{
+  "seq": 1180810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abscisse",
+      "axe horizontal"
+    ],
+    [
+      "rouleau horizontal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1184530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre de la chambre inférieure",
+      "député",
+      "députée",
+      "représentant",
+      "membre du parlement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

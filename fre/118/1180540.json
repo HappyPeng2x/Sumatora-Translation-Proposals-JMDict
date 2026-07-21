@@ -1,0 +1,18 @@
+{
+  "seq": 1180540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salut !",
+      "bonjour !",
+      "hey !",
+      "alors !"
+    ],
+    [
+      "oui monsieur !",
+      "compris !",
+      "d'accord !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

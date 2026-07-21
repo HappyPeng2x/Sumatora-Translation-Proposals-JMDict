@@ -1,0 +1,11 @@
+{
+  "seq": 1183080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indice des prix à la vente au détail",
+      "indice des prix de gros"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

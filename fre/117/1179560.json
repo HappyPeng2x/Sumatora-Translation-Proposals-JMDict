@@ -1,0 +1,19 @@
+{
+  "seq": 1179560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "raffiné",
+      "élégant",
+      "gracieux",
+      "cultivé"
+    ],
+    [
+      "modeste",
+      "réservé",
+      "retranché",
+      "effacé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

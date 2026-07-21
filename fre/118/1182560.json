@@ -1,0 +1,11 @@
+{
+  "seq": 1182560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrier portuaire",
+      "ouvrier de déchargement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

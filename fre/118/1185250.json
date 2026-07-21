@@ -1,0 +1,14 @@
+{
+  "seq": 1185250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladroit",
+      "incompétent",
+      "mauvais",
+      "imparfait",
+      "mal fait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

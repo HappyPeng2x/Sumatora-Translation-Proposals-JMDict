@@ -1,0 +1,12 @@
+{
+  "seq": 1184920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "départ de l'école",
+      "sortie de l'école",
+      "retour à la maison après l'école"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,30 @@
+{
+  "seq": 1182720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chariot",
+      "charrette",
+      "stand",
+      "étal"
+    ],
+    [
+      "charriot de festival",
+      "plateforme de danse",
+      "shrine mobile"
+    ],
+    [
+      "accessoire de scène en forme de bâtiment"
+    ],
+    [
+      "structure",
+      "ossature",
+      "fondation"
+    ],
+    [
+      "maison",
+      "habitation modeste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

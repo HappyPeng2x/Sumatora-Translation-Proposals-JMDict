@@ -1,0 +1,17 @@
+{
+  "seq": 1183980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le chef (d'un cri, d'un toast, d'une chanson, etc.)",
+      "le chef (de quelqu'un)"
+    ],
+    [
+      "chanson et danse folklorique exécutée par un groupe"
+    ],
+    [
+      "chef d'un groupe d'instruments à vent (dans le gagaku)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

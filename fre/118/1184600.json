@@ -1,0 +1,21 @@
+{
+  "seq": 1184600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail subordonné",
+      "service servile",
+      "subordonné",
+      "sous-fifre",
+      "servant",
+      "servante"
+    ],
+    [
+      "acteur jouant un petit rôle (dans le kabuki, etc.)"
+    ],
+    [
+      "partie inférieure (d'une voiture)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

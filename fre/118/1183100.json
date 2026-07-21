@@ -1,0 +1,11 @@
+{
+  "seq": 1183100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devoir un service à quelqu'un",
+      "être redevable à quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

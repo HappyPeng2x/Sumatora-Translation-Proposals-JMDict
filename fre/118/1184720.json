@@ -1,0 +1,11 @@
+{
+  "seq": 1184720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poste subordonné",
+      "poste inférieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

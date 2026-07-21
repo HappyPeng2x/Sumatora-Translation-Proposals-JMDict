@@ -1,0 +1,19 @@
+{
+  "seq": 1180550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vif",
+      "vigoureux",
+      "énergique",
+      "sain",
+      "avide",
+      "riche (en imagination)"
+    ],
+    [
+      "plein de (énergie, appétit, curiosité, etc.)",
+      "débordant de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

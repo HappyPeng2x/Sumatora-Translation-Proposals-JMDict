@@ -1,0 +1,12 @@
+{
+  "seq": 1184080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom de note",
+      "nom de hauteur de son",
+      "notation par lettre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

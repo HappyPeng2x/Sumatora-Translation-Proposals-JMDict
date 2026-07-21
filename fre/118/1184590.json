@@ -1,0 +1,17 @@
+{
+  "seq": 1184590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'éteindre (d'un feu)",
+      "être maîtrisé (d'un feu)"
+    ],
+    [
+      "décliner",
+      "faiblir",
+      "tomber en désuétude",
+      "perdre de l'importance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

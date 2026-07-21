@@ -1,0 +1,18 @@
+{
+  "seq": 1183680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phonème"
+    ],
+    [
+      "son vocal",
+      "ton (qualité)",
+      "timbre"
+    ],
+    [
+      "initiale et finale (dans la structure syllabique chinoise)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

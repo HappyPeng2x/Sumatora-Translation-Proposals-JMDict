@@ -1,0 +1,16 @@
+{
+  "seq": 1185195,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie inférieure",
+      "pied",
+      "direction inférieure"
+    ],
+    [
+      "partie gauche de la scène (du point de vue du public ou de la caméra)",
+      "scène gauche (du point de vue de l'acteur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

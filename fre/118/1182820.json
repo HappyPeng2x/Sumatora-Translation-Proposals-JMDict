@@ -1,0 +1,14 @@
+{
+  "seq": 1182820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hardiment",
+      "sans vergogne",
+      "sans hésitation",
+      "sans retenue",
+      "audacieusement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

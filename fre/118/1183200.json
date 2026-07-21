@@ -1,0 +1,11 @@
+{
+  "seq": 1183200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amour et haine",
+      "affection et animosité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

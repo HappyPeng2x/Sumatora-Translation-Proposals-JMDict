@@ -1,0 +1,15 @@
+{
+  "seq": 1180270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surmonter (une opposition)",
+      "pousser de l'avant",
+      "forcer son passage"
+    ],
+    [
+      "appuyer et couper"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

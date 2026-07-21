@@ -1,0 +1,17 @@
+{
+  "seq": 1184330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "subordonné",
+      "personne de basse extraction",
+      "ouvrier non qualifié"
+    ],
+    [
+      "mineur",
+      "modeste",
+      "humble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

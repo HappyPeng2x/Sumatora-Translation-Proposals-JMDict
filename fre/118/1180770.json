@@ -1,0 +1,16 @@
+{
+  "seq": 1180770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "côté",
+      "flanc"
+    ],
+    [
+      "position de côté",
+      "position d'observateur",
+      "marge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

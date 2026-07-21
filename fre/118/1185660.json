@@ -1,0 +1,12 @@
+{
+  "seq": 1185660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débarquement",
+      "sortie d'un navire",
+      "mise à terre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

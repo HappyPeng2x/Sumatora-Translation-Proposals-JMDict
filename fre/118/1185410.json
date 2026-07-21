@@ -1,0 +1,14 @@
+{
+  "seq": 1185410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déséquiper",
+      "descendre (surtout d'un cheval en signe de respect)"
+    ],
+    [
+      "interdiction d'entrer sur les lieux d'un temple ou d'un sanctuaire à cheval"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

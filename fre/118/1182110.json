@@ -1,0 +1,16 @@
+{
+  "seq": 1182110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfer",
+      "Hadès",
+      "l'underworld"
+    ],
+    [
+      "source souterraine",
+      "source underground"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

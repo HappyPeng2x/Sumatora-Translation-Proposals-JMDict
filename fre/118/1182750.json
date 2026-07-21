@@ -1,0 +1,13 @@
+{
+  "seq": 1182750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hypothèse",
+      "spéculations",
+      "supposition",
+      "conjecture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

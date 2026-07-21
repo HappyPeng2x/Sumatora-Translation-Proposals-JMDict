@@ -1,0 +1,11 @@
+{
+  "seq": 1179850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson de soutien",
+      "chanson des supporters"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

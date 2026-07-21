@@ -1,0 +1,11 @@
+{
+  "seq": 1181120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circulation sur le marché noir",
+      "flux vers le marché noir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

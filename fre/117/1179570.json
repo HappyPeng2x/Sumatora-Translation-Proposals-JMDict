@@ -1,0 +1,18 @@
+{
+  "seq": 1179570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "profond",
+      "profondément",
+      "développé",
+      "riche en contenu"
+    ],
+    [
+      "profond (d'une grotte, etc.)",
+      "intérieur",
+      "intérieur (d'un lieu)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

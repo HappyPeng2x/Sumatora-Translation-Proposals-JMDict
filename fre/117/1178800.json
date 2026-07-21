@@ -1,0 +1,15 @@
+{
+  "seq": 1178800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "eau de mer chaude",
+      "eau salée chaude"
+    ],
+    [
+      "bain de mer chaude",
+      "bain dans l'eau salée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

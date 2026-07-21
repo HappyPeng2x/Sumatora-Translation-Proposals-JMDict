@@ -1,0 +1,12 @@
+{
+  "seq": 1184860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dernier quartier de la lune",
+      "troisième quartier de la lune",
+      "lune décroissante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

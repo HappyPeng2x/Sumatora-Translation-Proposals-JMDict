@@ -1,0 +1,16 @@
+{
+  "seq": 1184910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dirigé vers le bas",
+      "orienté vers le bas"
+    ],
+    [
+      "déclin",
+      "chute",
+      "tendance à la baisse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

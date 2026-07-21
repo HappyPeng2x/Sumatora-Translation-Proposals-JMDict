@@ -1,0 +1,17 @@
+{
+  "seq": 1180310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écraser",
+      "soumettre",
+      "flétrir"
+    ],
+    [
+      "étouffer",
+      "annuler",
+      "réprimer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

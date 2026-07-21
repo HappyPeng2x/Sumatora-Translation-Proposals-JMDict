@@ -1,0 +1,15 @@
+{
+  "seq": 1181570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roi (dans le shogi)",
+      "roi (pièce du jeu de shogi)"
+    ],
+    [
+      "Ōshō (titre professionnel dans le shogi)",
+      "titre de maître du shogi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

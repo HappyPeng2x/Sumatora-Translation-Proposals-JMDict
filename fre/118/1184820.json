@@ -1,0 +1,11 @@
+{
+  "seq": 1184820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen préliminaire",
+      "inspection préliminaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

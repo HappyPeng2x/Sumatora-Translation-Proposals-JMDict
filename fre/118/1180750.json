@@ -1,0 +1,17 @@
+{
+  "seq": 1180750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être en plein essor",
+      "être répandu",
+      "être généralisé"
+    ],
+    [
+      "marcher de côté",
+      "vaciller",
+      "avancer en trébuchant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

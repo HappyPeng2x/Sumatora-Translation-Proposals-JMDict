@@ -1,0 +1,15 @@
+{
+  "seq": 1182260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jaune et blanc",
+      "or et argent"
+    ],
+    [
+      "corruption",
+      "bribery"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

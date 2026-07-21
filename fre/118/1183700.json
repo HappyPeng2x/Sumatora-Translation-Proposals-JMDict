@@ -1,0 +1,14 @@
+{
+  "seq": 1183700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "valeur phonétique"
+    ],
+    [
+      "valeur de la note",
+      "valeur temporelle de la note"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

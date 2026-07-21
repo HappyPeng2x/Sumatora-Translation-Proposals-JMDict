@@ -1,0 +1,11 @@
+{
+  "seq": 1185770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit de vérification des chaussures",
+      "taxe de vérification des chaussures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1184500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le sentiment populaire",
+      "l'opinion publique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1179100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boue",
+      "slime",
+      "débris",
+      "résidus"
+    ],
+    [
+      "situation désespérée",
+      "enfer",
+      "désespoir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

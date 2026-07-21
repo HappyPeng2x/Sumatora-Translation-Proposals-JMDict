@@ -1,0 +1,24 @@
+{
+  "seq": 1185920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "base",
+      "fondement"
+    ],
+    [
+      "disposition",
+      "aptitude",
+      "connaissance élémentaire",
+      "base (dans un domaine)"
+    ],
+    [
+      "couche de base",
+      "première couche"
+    ],
+    [
+      "sauce soja"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

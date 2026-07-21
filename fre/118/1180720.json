@@ -1,0 +1,11 @@
+{
+  "seq": 1180720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se tourner sur le côté",
+      "se placer de manière latérale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

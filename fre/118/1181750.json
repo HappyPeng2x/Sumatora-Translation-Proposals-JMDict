@@ -1,0 +1,16 @@
+{
+  "seq": 1181750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouette commune",
+      "mouette (Larus canus)"
+    ],
+    [
+      "mouette",
+      "mouette (famille Laridae)",
+      "mouette de mer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

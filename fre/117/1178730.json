@@ -1,0 +1,14 @@
+{
+  "seq": 1178730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "griller (du poisson) avec du sel",
+      "cuire (du poisson) en utilisant du sel"
+    ],
+    [
+      "faire bouillir l'eau de mer pour en extraire le sel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

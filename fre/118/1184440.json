@@ -1,0 +1,11 @@
+{
+  "seq": 1184440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "train descendant",
+      "train allant vers la fin de son itinéraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

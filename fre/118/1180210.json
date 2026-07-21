@@ -1,0 +1,19 @@
+{
+  "seq": 1180210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfoncer (dans une boîte, un sac, etc.)",
+      "empaqueter"
+    ],
+    [
+      "pousser (quelqu'un) dans un coin",
+      "mettre en difficulté"
+    ],
+    [
+      "résumer en quelques mots",
+      "exprimer brièvement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1179370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carte maîtresse",
+      "dernière ressource",
+      "atout secret"
+    ],
+    [
+      "compétence secrète",
+      "secret",
+      "mystère"
+    ],
+    [
+      "main gauche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

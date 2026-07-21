@@ -1,0 +1,11 @@
+{
+  "seq": 1179680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le passé",
+      "les événements passés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

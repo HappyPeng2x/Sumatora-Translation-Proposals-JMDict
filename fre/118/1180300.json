@@ -1,0 +1,11 @@
+{
+  "seq": 1180300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forcer un passage",
+      "avancer malgré l'opposition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

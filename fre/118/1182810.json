@@ -1,0 +1,14 @@
+{
+  "seq": 1182810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hardi",
+      "audacieux",
+      "impudent",
+      "sans vergogne",
+      "sans honte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

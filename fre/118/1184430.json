@@ -1,0 +1,14 @@
+{
+  "seq": 1184430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "descendre et se tenir"
+    ],
+    [
+      "atterrir",
+      "descendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

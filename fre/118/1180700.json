@@ -1,0 +1,14 @@
+{
+  "seq": 1180700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grotte",
+      "tunnel"
+    ],
+    [
+      "tombe en tunnel (période Kofun)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

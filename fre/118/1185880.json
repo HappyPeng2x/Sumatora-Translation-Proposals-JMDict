@@ -1,0 +1,11 @@
+{
+  "seq": 1185880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordonner à un subordonné",
+      "donner des ordres à un subordonné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

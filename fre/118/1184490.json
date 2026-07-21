@@ -1,0 +1,17 @@
+{
+  "seq": 1184490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compatibilité ascendante",
+      "compatibilité vers le haut",
+      "compatibilité avec des composants conçus pour des systèmes ou versions ultérieurs"
+    ],
+    [
+      "compatibilité descendante",
+      "compatibilité vers le bas",
+      "compatibilité avec des composants conçus pour des systèmes ou versions antérieurs (utilisation incorrecte)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

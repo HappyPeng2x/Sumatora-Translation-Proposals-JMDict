@@ -1,0 +1,23 @@
+{
+  "seq": 1180120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maintenir en position",
+      "immobiliser",
+      "serrer fort"
+    ],
+    [
+      "empêcher de marquer",
+      "bloquer l'adversaire",
+      "tenir à distance"
+    ],
+    [
+      "réprimer",
+      "maîtriser",
+      "contenir",
+      "limiter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

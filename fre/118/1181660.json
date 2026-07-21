@@ -1,0 +1,25 @@
+{
+  "seq": 1181660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gouvernement juste",
+      "règne légitime",
+      "voie noble",
+      "règne du droit"
+    ],
+    [
+      "méthode facile",
+      "approche simple",
+      "chemin royal",
+      "raccourci"
+    ],
+    [
+      "manière orthodoxe",
+      "façon traditionnelle",
+      "approche classique",
+      "méthode éprouvée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

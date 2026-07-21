@@ -1,0 +1,14 @@
+{
+  "seq": 1180340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pousser en avant",
+      "forcer à entrer",
+      "s'immiscer",
+      "forcer l'entrée",
+      "intriguer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1181580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "château royal",
+      "palais impérial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

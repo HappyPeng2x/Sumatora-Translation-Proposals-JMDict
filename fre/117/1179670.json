@@ -1,0 +1,11 @@
+{
+  "seq": 1179670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voyage en direction de l'extérieur",
+      "vol en direction de l'extérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1183800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musique accompagnée d'un samisen",
+      "performance musicale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1181070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "côté du visage",
+      "flanc du visage"
+    ],
+    [
+      "côté",
+      "flanc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

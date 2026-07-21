@@ -1,0 +1,16 @@
+{
+  "seq": 1180950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chute latérale",
+      "renversement latéral",
+      "tomber sur le côté"
+    ],
+    [
+      "roulé sur soi-même",
+      "tonneau (mouvement)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1180320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écraser",
+      "pousser au sol",
+      "maintenir en bas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

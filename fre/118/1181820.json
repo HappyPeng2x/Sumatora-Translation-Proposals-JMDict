@@ -1,0 +1,17 @@
+{
+  "seq": 1181820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fleur jaune",
+      "plante à fleurs jaunes"
+    ],
+    [
+      "chrysanthème"
+    ],
+    [
+      "fleurs de colza"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

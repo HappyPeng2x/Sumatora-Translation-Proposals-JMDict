@@ -1,0 +1,11 @@
+{
+  "seq": 1185600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous-traitant",
+      "entreprise de sous-traitance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

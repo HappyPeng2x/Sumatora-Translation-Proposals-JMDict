@@ -1,0 +1,18 @@
+{
+  "seq": 1180230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étendre",
+      "développer",
+      "élargir",
+      "propager"
+    ],
+    [
+      "développer davantage",
+      "élaborer en détail",
+      "amplifier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

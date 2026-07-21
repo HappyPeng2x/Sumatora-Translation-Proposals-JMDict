@@ -1,0 +1,13 @@
+{
+  "seq": 1182140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hormone lutéale",
+      "hormone progestative",
+      "gestagène",
+      "progestérone"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

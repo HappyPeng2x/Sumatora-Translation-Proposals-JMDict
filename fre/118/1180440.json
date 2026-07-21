@@ -1,0 +1,19 @@
+{
+  "seq": 1180440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élever",
+      "mettre en place"
+    ],
+    [
+      "nommer",
+      "désigner comme représentant"
+    ],
+    [
+      "pousser",
+      "soulever"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1182650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pénible",
+      "ennuyeux",
+      "agaçant",
+      "fatigant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1180190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avancer sur",
+      "se rapprocher de",
+      "marcher sur",
+      "descendre sur",
+      "se diriger vers",
+      "avancer en masse",
+      "s'emparer de",
+      "inonder",
+      "submerger",
+      "envahir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

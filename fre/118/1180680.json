@@ -1,0 +1,11 @@
+{
+  "seq": 1180680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arguer de manière insistante",
+      "soutenir un point de vue avec persévérance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

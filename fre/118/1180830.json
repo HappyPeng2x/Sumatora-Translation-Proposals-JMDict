@@ -1,0 +1,16 @@
+{
+  "seq": 1180830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obstination",
+      "ténacité excessive",
+      "inflexibilité"
+    ],
+    [
+      "roue latérale (en judo)",
+      "projection latérale (en judo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

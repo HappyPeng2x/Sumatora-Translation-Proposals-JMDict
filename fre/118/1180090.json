@@ -1,0 +1,12 @@
+{
+  "seq": 1180090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adaptabilité",
+      "capacité à appliquer des connaissances dans de nouvelles situations",
+      "compétences pratiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

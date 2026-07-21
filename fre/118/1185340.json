@@ -1,0 +1,14 @@
+{
+  "seq": 1185340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préparatifs",
+      "dispositions préalables",
+      "travail préliminaire",
+      "mise en place",
+      "travail de fond"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

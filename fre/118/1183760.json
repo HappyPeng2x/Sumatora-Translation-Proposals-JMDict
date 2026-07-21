@@ -1,0 +1,12 @@
+{
+  "seq": 1183760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conservatoire de musique",
+      "école de musique",
+      "université de musique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

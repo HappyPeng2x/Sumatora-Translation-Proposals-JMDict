@@ -1,0 +1,10 @@
+{
+  "seq": 1182220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les douze signes du zodiaque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

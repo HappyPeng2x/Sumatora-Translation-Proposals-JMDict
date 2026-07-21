@@ -1,0 +1,19 @@
+{
+  "seq": 1179810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "répondre",
+      "réagir",
+      "satisfaire",
+      "faire face à"
+    ],
+    [
+      "affecter",
+      "pénaliser",
+      "porter atteinte à",
+      "être dur pour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

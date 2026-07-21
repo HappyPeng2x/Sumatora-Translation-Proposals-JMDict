@@ -1,0 +1,12 @@
+{
+  "seq": 1178740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pâte",
+      "préparation alimentaire",
+      "faite à partir de poissons ou de morceaux de poisson fermentés et salés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

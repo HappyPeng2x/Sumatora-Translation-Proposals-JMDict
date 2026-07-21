@@ -1,0 +1,12 @@
+{
+  "seq": 1185030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise idée",
+      "mauvaise stratégie",
+      "plan mal conçu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

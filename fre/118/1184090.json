@@ -1,0 +1,16 @@
+{
+  "seq": 1184090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "translittération"
+    ],
+    [
+      "représentation phonétique d'un mot étranger à l'aide de caractères chinois"
+    ],
+    [
+      "lecture à voix haute (pour les personnes aveugles ou malvoyantes)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

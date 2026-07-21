@@ -1,0 +1,11 @@
+{
+  "seq": 1180760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pluie oblique",
+      "pluie qui tombe en diagonale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1183820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "source sonore",
+      "générateur de son",
+      "générateur de ton"
+    ],
+    [
+      "audio",
+      "fichier audio",
+      "enregistrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1185680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couche inférieure",
+      "stratum inférieur"
+    ],
+    [
+      "classes sociales inférieures",
+      "strates sociales basses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

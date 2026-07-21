@@ -1,0 +1,11 @@
+{
+  "seq": 1184250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rideau de fin d'acte",
+      "rideau de fin de scène"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

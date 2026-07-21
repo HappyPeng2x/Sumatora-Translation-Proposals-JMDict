@@ -1,0 +1,13 @@
+{
+  "seq": 1183870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "correspondance",
+      "nouvelles",
+      "lettre",
+      "nouvelles (d'un tiers)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

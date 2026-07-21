@@ -1,0 +1,18 @@
+{
+  "seq": 1181990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poussière jaune",
+      "poussière asiatique",
+      "poussière transportée par les vents forts provenant du Mongolie, du nord de la Chine et du Kazakhstan"
+    ],
+    [
+      "loess"
+    ],
+    [
+      "désert"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

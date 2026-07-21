@@ -1,0 +1,11 @@
+{
+  "seq": 1183320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir tiède",
+      "prendre une température modérée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

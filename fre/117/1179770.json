@@ -1,0 +1,11 @@
+{
+  "seq": 1179770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aller-retour",
+      "voyage aller-retour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

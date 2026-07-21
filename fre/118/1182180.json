@@ -1,0 +1,20 @@
+{
+  "seq": 1182180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argile de loess",
+      "argile sédimentaire fine"
+    ],
+    [
+      "ocre jaune",
+      "ochre jaune"
+    ],
+    [
+      "enfer",
+      "Hadès",
+      "monde des morts"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

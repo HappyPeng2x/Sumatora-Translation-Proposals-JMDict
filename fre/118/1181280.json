@@ -1,0 +1,12 @@
+{
+  "seq": 1181280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écriture en langue européenne",
+      "texte européen",
+      "caractères romains"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

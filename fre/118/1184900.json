@@ -1,0 +1,16 @@
+{
+  "seq": 1184900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le déplacement du centre vers les provinces"
+    ],
+    [
+      "le retour après avoir prié à un temple ou un sanctuaire"
+    ],
+    [
+      "le mouvement de descente d'un lieu élevé vers un lieu bas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

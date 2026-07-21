@@ -1,0 +1,12 @@
+{
+  "seq": 1180020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "selon ses capacités",
+      "approprié",
+      "raisonnable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

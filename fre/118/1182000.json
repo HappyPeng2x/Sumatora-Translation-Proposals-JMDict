@@ -1,0 +1,11 @@
+{
+  "seq": 1182000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mûrissement et jaunissement",
+      "processus de mûrissement accompagné de jaunissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

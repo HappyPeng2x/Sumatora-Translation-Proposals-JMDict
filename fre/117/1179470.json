@@ -1,0 +1,16 @@
+{
+  "seq": 1179470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie intérieure d'une maison",
+      "intérieur d'une maison"
+    ],
+    [
+      "affaires familiales",
+      "affaires domestiques",
+      "affaires personnelles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1185560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expression courante",
+      "langage quotidien",
+      "parlure ordinaire"
+    ],
+    [
+      "vulgaire",
+      "bas",
+      "indécent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

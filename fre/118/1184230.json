@@ -1,0 +1,15 @@
+{
+  "seq": 1184230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire un subvention",
+      "accorder une subvention"
+    ],
+    [
+      "libérer (un criminel)",
+      "relâcher (un délinquant)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

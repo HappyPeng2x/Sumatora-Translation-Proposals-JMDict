@@ -1,0 +1,29 @@
+{
+  "seq": 1178990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impureté",
+      "déshonneur",
+      "tache",
+      "corruption",
+      "dépravation"
+    ],
+    [
+      "déshonneur",
+      "honte",
+      "tache",
+      "stain",
+      "corruption",
+      "dépravation"
+    ],
+    [
+      "impureté",
+      "tache",
+      "déshonneur",
+      "corruption",
+      "dépravation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

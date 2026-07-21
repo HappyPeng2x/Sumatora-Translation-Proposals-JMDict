@@ -1,0 +1,19 @@
+{
+  "seq": 1181730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le bush-warbler japonais",
+      "le rossignol japonais"
+    ],
+    [
+      "d'un vertâtre",
+      "d'une teinte marron verdâtre"
+    ],
+    [
+      "une belle voix",
+      "une femme à belle voix"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

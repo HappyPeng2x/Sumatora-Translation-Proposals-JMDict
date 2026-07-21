@@ -1,0 +1,14 @@
+{
+  "seq": 1180520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ciseaux à paille",
+      "queue courte"
+    ],
+    [
+      "action de presser et de couper"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

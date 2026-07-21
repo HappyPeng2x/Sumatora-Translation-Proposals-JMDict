@@ -1,0 +1,18 @@
+{
+  "seq": 1184980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'agenouiller en signe de respect",
+      "se prosterner pour montrer du respect"
+    ],
+    [
+      "boîte des musiciens située à gauche de la scène"
+    ],
+    [
+      "siège inférieur",
+      "place basse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

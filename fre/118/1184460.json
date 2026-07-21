@@ -1,0 +1,26 @@
+{
+  "seq": 1184460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chute",
+      "déchargement",
+      "retirer"
+    ],
+    [
+      "végetaux râpés",
+      "fruits râpés",
+      "etc."
+    ],
+    [
+      "râpe"
+    ],
+    [
+      "utilisation d'outils neufs",
+      "nouveaux outils",
+      "nouvelles vêtements",
+      "etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

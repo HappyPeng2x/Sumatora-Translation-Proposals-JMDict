@@ -1,0 +1,29 @@
+{
+  "seq": 1180130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poussée",
+      "action de pousser"
+    ],
+    [
+      "poids",
+      "pression"
+    ],
+    [
+      "autorité",
+      "force",
+      "audace",
+      "persévérance"
+    ],
+    [
+      "forcer",
+      "agir avec force (avant un verbe)"
+    ],
+    [
+      "poussée (jeu de go)",
+      "extension des pierres en poussant celles de l'adversaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

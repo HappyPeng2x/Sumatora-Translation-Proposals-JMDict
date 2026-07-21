@@ -1,0 +1,15 @@
+{
+  "seq": 1178630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chlorination; salification",
+      "chloruration; salification"
+    ],
+    [
+      "chlorure",
+      "chlorure (suffixe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

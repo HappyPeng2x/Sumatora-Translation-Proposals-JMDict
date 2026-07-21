@@ -1,0 +1,17 @@
+{
+  "seq": 1180170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se rendre sans invitation",
+      "irriter par une visite non sollicitée",
+      "s'introduire sans y être invité"
+    ],
+    [
+      "se presser vers",
+      "s'accumuler sur",
+      "converger vers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

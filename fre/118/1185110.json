@@ -1,0 +1,11 @@
+{
+  "seq": 1185110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "officier non commissionné",
+      "petit officier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

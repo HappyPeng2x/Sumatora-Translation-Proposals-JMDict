@@ -1,0 +1,14 @@
+{
+  "seq": 1184610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tomber en dessous de",
+      "être inférieur à",
+      "être moins que",
+      "être juste sous",
+      "ne pas atteindre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

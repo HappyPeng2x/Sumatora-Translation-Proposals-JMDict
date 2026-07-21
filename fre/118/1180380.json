@@ -1,0 +1,13 @@
+{
+  "seq": 1180380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en général",
+      "en gros",
+      "pour la plupart",
+      "presque tous"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

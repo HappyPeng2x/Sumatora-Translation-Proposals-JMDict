@@ -1,0 +1,17 @@
+{
+  "seq": 1180390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pousser en arrière",
+      "repousser",
+      "forcer à reculer"
+    ],
+    [
+      "rendre (qqch.)",
+      "restituer",
+      "renvoyer (qqch.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

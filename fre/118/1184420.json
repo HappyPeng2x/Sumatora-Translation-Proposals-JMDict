@@ -1,0 +1,16 @@
+{
+  "seq": 1184420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "yeux en amande",
+      "yeux obliques vers le bas"
+    ],
+    [
+      "tendance à la baisse",
+      "déclin",
+      "chute progressive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
