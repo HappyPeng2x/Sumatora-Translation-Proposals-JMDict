@@ -1,0 +1,11 @@
+{
+  "seq": 1120460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fille de page",
+      "jeune femme servant dans un palais ou une maison aristocratique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

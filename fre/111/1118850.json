@@ -1,0 +1,14 @@
+{
+  "seq": 1118850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "santé"
+    ],
+    [
+      "maison de tolérance",
+      "salon de massage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1123000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "essence blanche",
+      "essence de type blanc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

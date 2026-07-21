@@ -1,0 +1,17 @@
+{
+  "seq": 1121820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terrain de jeu",
+      "terrain de match"
+    ],
+    [
+      "lieu habituel",
+      "territoire",
+      "domaine",
+      "zone de prédilection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

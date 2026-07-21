@@ -1,0 +1,11 @@
+{
+  "seq": 1121800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "automatisation domestique",
+      "automatisation de la maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1123010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "employé de bureau",
+      "travailleur de bureau",
+      "employé du secteur tertiaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

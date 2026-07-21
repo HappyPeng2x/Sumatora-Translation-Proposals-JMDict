@@ -1,0 +1,13 @@
+{
+  "seq": 1123320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vocal (performance); chansons; chant"
+    ],
+    [
+      "chanteur; chanteuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

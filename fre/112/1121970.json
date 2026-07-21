@@ -1,0 +1,12 @@
+{
+  "seq": 1121970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médecin de famille",
+      "médecin généraliste",
+      "médecin traitant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

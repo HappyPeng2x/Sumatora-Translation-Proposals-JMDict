@@ -1,0 +1,14 @@
+{
+  "seq": 1121710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espoir"
+    ],
+    [
+      "espoir blanc",
+      "personne prometteuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

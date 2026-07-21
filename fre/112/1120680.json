@@ -1,0 +1,13 @@
+{
+  "seq": 1120680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "canoe de dragon (embarcation longue pour la course, utilisée par 22 rameurs)"
+    ],
+    [
+      "course en canoë de dragon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1119500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sauce béchamel",
+      "sauce blanche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1122440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaud",
+      "brûlant"
+    ],
+    [
+      "café"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

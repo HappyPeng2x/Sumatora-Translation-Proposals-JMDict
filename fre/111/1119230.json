@@ -1,0 +1,12 @@
+{
+  "seq": 1119230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "augmentation du salaire de base",
+      "hausse du taux de rémunération de base",
+      "accroissement du traitement de base"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

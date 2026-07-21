@@ -1,0 +1,12 @@
+{
+  "seq": 1121090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aliment petrolier",
+      "aliment dérivé du pétrole",
+      "protéine petrolière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

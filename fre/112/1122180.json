@@ -1,0 +1,22 @@
+{
+  "seq": 1122180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agression",
+      "ravissement",
+      "extorsion"
+    ],
+    [
+      "lever les mains",
+      "montrer les mains",
+      "poser les mains en l'air"
+    ],
+    [
+      "mains en l'air !",
+      "posez vos mains !",
+      "montrez vos mains !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

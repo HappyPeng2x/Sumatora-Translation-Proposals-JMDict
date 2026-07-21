@@ -1,0 +1,10 @@
+{
+  "seq": 1123620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débit en bauds"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1120660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "artiste de rue",
+      "artiste qui dessine sur les trottoirs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

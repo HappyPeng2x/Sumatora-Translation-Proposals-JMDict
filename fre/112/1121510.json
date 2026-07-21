@@ -1,0 +1,17 @@
+{
+  "seq": 1121510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bijou",
+      "collier",
+      "pendentif"
+    ],
+    [
+      "lampe",
+      "éclairage",
+      "ampoule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

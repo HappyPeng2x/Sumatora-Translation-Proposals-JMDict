@@ -1,0 +1,15 @@
+{
+  "seq": 1122050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ménagère",
+      "ménagère de maison"
+    ],
+    [
+      "constructeur de maisons",
+      "bâtisseur de maisons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

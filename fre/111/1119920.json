@@ -1,0 +1,11 @@
+{
+  "seq": 1119920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garde d'enfants non réglementée",
+      "accueil d'enfants non officiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1122270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hôtesse (d'une réception, d'un événement, etc.)"
+    ],
+    [
+      "hôtesse (d'un bar, d'un club, etc.)"
+    ],
+    [
+      "animatrice (d'un programme de télévision ou de radio)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

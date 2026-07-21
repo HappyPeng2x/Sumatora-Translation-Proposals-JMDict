@@ -1,0 +1,28 @@
+{
+  "seq": 1122700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préfixe",
+      "homo-"
+    ],
+    [
+      "nom, abrégé, dérogatoire",
+      "homo",
+      "homosexuel (masculin)"
+    ],
+    [
+      "nom, génétique, abrégé",
+      "homozygote"
+    ],
+    [
+      "adjectif, génétique",
+      "homozygote"
+    ],
+    [
+      "nom, abrégé",
+      "homogénéisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

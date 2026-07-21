@@ -1,0 +1,11 @@
+{
+  "seq": 1121900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tissu fait maison",
+      "tissu grossier fait à la maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

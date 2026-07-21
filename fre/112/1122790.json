@@ -1,0 +1,12 @@
+{
+  "seq": 1122790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Homo movens",
+      "être humain mobile",
+      "personne moderne capable d'évoluer rapidement dans un monde en constante mutation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

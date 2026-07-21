@@ -1,0 +1,11 @@
+{
+  "seq": 1121860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "shopping à domicile",
+      "achats faits à partir de son domicile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

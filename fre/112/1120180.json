@@ -1,0 +1,15 @@
+{
+  "seq": 1120180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langue",
+      "organe de la parole"
+    ],
+    [
+      "langue (d'une chaussure)",
+      "flaque (d'un enveloppe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

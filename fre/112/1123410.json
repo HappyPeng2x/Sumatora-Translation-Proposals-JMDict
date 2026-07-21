@@ -1,0 +1,20 @@
+{
+  "seq": 1123410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frontière",
+      "limite"
+    ],
+    [
+      "bord",
+      "rive",
+      "marge"
+    ],
+    [
+      "rayures horizontales",
+      "bandes horizontales"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

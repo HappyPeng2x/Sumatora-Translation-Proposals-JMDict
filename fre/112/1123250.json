@@ -1,0 +1,11 @@
+{
+  "seq": 1123250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanteur soprano masculin",
+      "jeune soprano masculin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

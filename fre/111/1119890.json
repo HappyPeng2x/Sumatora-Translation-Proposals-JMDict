@@ -1,0 +1,17 @@
+{
+  "seq": 1119890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "visage d'enfant",
+      "visage juvénile"
+    ],
+    [
+      "visage de bébé",
+      "figure de bébé",
+      "visage de bonne personne",
+      "visage de type 'bon garçon'"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

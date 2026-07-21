@@ -1,0 +1,11 @@
+{
+  "seq": 1120290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui réchauffe les bancs",
+      "personne qui s'occupe des bancs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

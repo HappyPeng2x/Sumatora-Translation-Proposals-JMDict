@@ -1,0 +1,16 @@
+{
+  "seq": 1122160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, sports] maintien (faute dans le basket-ball, le football, etc.)"
+    ],
+    [
+      "[n, sports] portée (faute dans le volley-ball)"
+    ],
+    [
+      "[n, aviat] maintien (mouvement)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

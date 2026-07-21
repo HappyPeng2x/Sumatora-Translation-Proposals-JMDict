@@ -1,0 +1,14 @@
+{
+  "seq": 1122910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hormone"
+    ],
+    [
+      "foie gras",
+      "abats (surtout de bœuf ou de porc)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

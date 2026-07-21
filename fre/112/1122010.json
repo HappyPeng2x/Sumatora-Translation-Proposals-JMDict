@@ -1,0 +1,12 @@
+{
+  "seq": 1122010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "banque à distance",
+      "banque en ligne",
+      "banque par correspondance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

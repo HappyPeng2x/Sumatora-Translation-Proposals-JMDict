@@ -1,0 +1,16 @@
+{
+  "seq": 1122990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blanc",
+      "blanche"
+    ],
+    [
+      "correction encre",
+      "correction fluide",
+      "correction liquide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

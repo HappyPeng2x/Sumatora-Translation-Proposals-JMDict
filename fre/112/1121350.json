@@ -1,0 +1,15 @@
+{
+  "seq": 1121350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réforme",
+      "dans le contexte de l'URSS"
+    ],
+    [
+      "mouvement",
+      "de réforme en URSS"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

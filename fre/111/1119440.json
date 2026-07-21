@@ -1,0 +1,10 @@
+{
+  "seq": 1119440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, astron] Vega (étoile de la constellation de Lyre) ; Alpha Lyrae"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

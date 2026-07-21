@@ -1,0 +1,12 @@
+{
+  "seq": 1120630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plan théorique",
+      "plan irréaliste",
+      "théorie d'armoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

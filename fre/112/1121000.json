@@ -1,0 +1,12 @@
+{
+  "seq": 1121000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom d'animal de compagnie",
+      "surnom",
+      "nom affectueux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

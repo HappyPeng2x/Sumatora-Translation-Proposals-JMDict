@@ -1,0 +1,11 @@
+{
+  "seq": 1122600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laboratoire à haute température",
+      "laboratoire de recherche sur les effets de la chaleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

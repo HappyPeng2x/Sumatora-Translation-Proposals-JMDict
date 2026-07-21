@@ -1,0 +1,10 @@
+{
+  "seq": 1122880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "formaldéhyde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

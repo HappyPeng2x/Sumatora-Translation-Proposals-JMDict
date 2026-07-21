@@ -1,0 +1,11 @@
+{
+  "seq": 1121950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "répertoire personnel",
+      "répertoire d'utilisateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

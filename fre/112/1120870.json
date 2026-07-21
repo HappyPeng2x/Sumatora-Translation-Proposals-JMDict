@@ -1,0 +1,11 @@
+{
+  "seq": 1120870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pessimiste",
+      "personne qui pense que le pire arrivera"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

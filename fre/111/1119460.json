@@ -1,0 +1,20 @@
+{
+  "seq": 1119460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vecteur",
+      "agent transmetteur",
+      "porteur"
+    ],
+    [
+      "vecteur",
+      "agent de transmission de maladie"
+    ],
+    [
+      "vecteur",
+      "entité mathématique ou physique ayant une direction et une magnitude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

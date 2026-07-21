@@ -1,0 +1,10 @@
+{
+  "seq": 1120610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui détient un permis de conduire mais n'a pas ou peu d'expérience réelle de la conduite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

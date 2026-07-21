@@ -1,0 +1,12 @@
+{
+  "seq": 1121310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point de danger",
+      "point critique",
+      "point de risque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

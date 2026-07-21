@@ -1,0 +1,11 @@
+{
+  "seq": 1121560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "correspondant par correspondance",
+      "ami par correspondance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1120250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vendeur",
+      "commerçant"
+    ],
+    [
+      "machine à vendre",
+      "distributeur automatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

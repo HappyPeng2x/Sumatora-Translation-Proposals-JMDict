@@ -1,0 +1,21 @@
+{
+  "seq": 1119210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "base",
+      "fondement",
+      "thème",
+      "ingrédient de base"
+    ],
+    [
+      "base militaire",
+      "dépôt"
+    ],
+    [
+      "base (au baseball)",
+      "sacoche de base"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

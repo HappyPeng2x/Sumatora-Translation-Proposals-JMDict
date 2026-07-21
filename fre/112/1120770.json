@@ -1,0 +1,21 @@
+{
+  "seq": 1120770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salaire",
+      "rétribution",
+      "gain"
+    ],
+    [
+      "payer",
+      "être rentable",
+      "rapporter de l'argent"
+    ],
+    [
+      "héroïne",
+      "drogue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

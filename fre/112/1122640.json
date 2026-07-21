@@ -1,0 +1,12 @@
+{
+  "seq": 1122640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "triple saut",
+      "saut en trois temps",
+      "hop, pas et saut"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

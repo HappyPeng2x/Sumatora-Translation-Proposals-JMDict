@@ -1,0 +1,12 @@
+{
+  "seq": 1122280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "auberge",
+      "relais",
+      "gîte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

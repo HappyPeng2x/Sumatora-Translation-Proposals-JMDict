@@ -1,0 +1,12 @@
+{
+  "seq": 1118720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annonciateur",
+      "proclamateur",
+      "annonciation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

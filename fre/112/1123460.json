@@ -1,0 +1,12 @@
+{
+  "seq": 1123460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnes débarquées en bateau",
+      "réfugiés en bateau",
+      "réfugiés vietnamiens arrivés en bateau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1119770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feuillet",
+      "couche mince",
+      "revêtement"
+    ],
+    [
+      "panneau de contreplaqué",
+      "plaques de contreplaqué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

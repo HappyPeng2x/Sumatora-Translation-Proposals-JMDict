@@ -1,0 +1,13 @@
+{
+  "seq": 1122520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, aliment] saucisse (en bâtonnet, dans un pain de mie)"
+    ],
+    [
+      "[n, aliment] saucisse en forme de bâtonnet, enveloppée de maïs et de chapelure, cuisinée dans une friteuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

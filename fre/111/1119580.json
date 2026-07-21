@@ -1,0 +1,11 @@
+{
+  "seq": 1119580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "meilleur habillé",
+      "personne qui s'habille le mieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

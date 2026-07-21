@@ -1,0 +1,18 @@
+{
+  "seq": 1120690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un couple",
+      "un ensemble de deux"
+    ],
+    [
+      "un bateau à deux rames"
+    ],
+    [
+      "une paire (de cartes)",
+      "deux cartes identiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

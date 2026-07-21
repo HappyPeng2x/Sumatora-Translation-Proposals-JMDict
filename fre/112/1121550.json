@@ -1,0 +1,12 @@
+{
+  "seq": 1121550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom d'auteur fictif",
+      "nom d'utilisateur",
+      "pseudo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

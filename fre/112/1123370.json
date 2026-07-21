@@ -1,0 +1,17 @@
+{
+  "seq": 1123370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "virage en forme de charrue",
+      "virage en wedge"
+    ],
+    [
+      "arc"
+    ],
+    [
+      "archet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

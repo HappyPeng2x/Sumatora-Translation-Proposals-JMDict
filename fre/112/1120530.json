@@ -1,0 +1,16 @@
+{
+  "seq": 1120530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pacemaker",
+      "stimulateur cardiaque"
+    ],
+    [
+      "leader",
+      "pionnier",
+      "exemple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

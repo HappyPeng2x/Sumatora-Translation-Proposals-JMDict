@@ -1,0 +1,18 @@
+{
+  "seq": 1123220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arc",
+      "arme"
+    ],
+    [
+      "nœud",
+      "arc"
+    ],
+    [
+      "cravate"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

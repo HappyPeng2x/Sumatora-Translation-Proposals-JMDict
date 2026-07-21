@@ -1,0 +1,12 @@
+{
+  "seq": 1122370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hospitalité",
+      "accueil chaleureux",
+      "hospitalité dans un établissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

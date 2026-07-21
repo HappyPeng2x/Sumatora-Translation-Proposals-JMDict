@@ -1,0 +1,12 @@
+{
+  "seq": 1122530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "actualité brûlante",
+      "nouvelle chaude",
+      "information brûlante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

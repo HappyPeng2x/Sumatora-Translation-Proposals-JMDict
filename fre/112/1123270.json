@@ -1,0 +1,11 @@
+{
+  "seq": 1123270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chasse au garçon",
+      "chasse aux garçons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

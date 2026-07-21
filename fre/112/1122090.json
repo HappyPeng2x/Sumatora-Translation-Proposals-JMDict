@@ -1,0 +1,10 @@
+{
+  "seq": 1122090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course pour devenir champion des circuits (joueur ayant marqué le plus de circuits en une saison)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1120520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pâte (aliment, colle, etc.)",
+      "pâte (matériau collant)"
+    ],
+    [
+      "pâter (verbe)",
+      "pâter (action de pâter)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

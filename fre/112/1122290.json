@@ -1,0 +1,14 @@
+{
+  "seq": 1122290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hôte",
+      "organisateur"
+    ],
+    [
+      "hôte (d'un club pour hommes)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

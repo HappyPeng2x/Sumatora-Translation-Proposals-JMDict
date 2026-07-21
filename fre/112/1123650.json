@@ -1,0 +1,11 @@
+{
+  "seq": 1123650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu de base-ball où le joueur frappe la balle sans la voir",
+      "jeu de base-ball maladroit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

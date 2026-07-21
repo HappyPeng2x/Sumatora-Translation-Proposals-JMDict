@@ -1,0 +1,11 @@
+{
+  "seq": 1123570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "police en gras",
+      "gras (typographie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

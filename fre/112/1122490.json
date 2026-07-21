@@ -1,0 +1,11 @@
+{
+  "seq": 1122490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "zone de jeu stratégique dans un match de baseball",
+      "position défensive clé sur le terrain de baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
