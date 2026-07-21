@@ -1,0 +1,17 @@
+{
+  "seq": 1141480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "redémarrer",
+      "reprendre",
+      "recommencer"
+    ],
+    [
+      "redémarrage",
+      "reboot",
+      "redémarrage du système"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

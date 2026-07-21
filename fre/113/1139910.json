@@ -1,0 +1,16 @@
+{
+  "seq": 1139910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lariat",
+      "corde en boucle utilisée pour attraper des animaux",
+      "nœud coulissant"
+    ],
+    [
+      "lariat",
+      "frappe en forme de corde utilisée en catch"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1142550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "téléski",
+      "remontée mécanique"
+    ],
+    [
+      "palan",
+      "grue (pour le transport de marchandises)"
+    ],
+    [
+      "lever (en patinage, en danse, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

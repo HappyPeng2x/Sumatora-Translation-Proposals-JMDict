@@ -1,0 +1,15 @@
+{
+  "seq": 1139950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classement",
+      "ordre hiérarchique"
+    ],
+    [
+      "liste des meilleurs",
+      "top des sites Web"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

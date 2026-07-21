@@ -1,0 +1,12 @@
+{
+  "seq": 1143080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voiture à distance",
+      "véhicule à distance",
+      "voiture télécommandée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

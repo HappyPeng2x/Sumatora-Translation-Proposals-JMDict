@@ -1,0 +1,12 @@
+{
+  "seq": 1138540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intensité sonore",
+      "bruit",
+      "volume sonore"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

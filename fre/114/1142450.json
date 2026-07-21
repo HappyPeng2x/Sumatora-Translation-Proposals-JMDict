@@ -1,0 +1,21 @@
+{
+  "seq": 1142450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "répéteur",
+      "relais"
+    ],
+    [
+      "cliente régulière",
+      "cliente habituée",
+      "acheteur récurrent",
+      "visiteur fréquent",
+      "cliente fidèle"
+    ],
+    [
+      "personne qui répète une même action (négative)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1141650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réinitialisation",
+      "réinitialiser"
+    ],
+    [
+      "nouveau départ",
+      "début neuf",
+      "renouveau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

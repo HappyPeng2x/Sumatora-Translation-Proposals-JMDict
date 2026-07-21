@@ -1,0 +1,11 @@
+{
+  "seq": 1139770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laboratoire automatisé",
+      "automatisation du laboratoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

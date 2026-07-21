@@ -1,0 +1,25 @@
+{
+  "seq": 1142460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "répétition",
+      "répéter",
+      "reprise"
+    ],
+    [
+      "reprise",
+      "réémission",
+      "répétition (diffusion)"
+    ],
+    [
+      "signe de répétition",
+      "indicatif de répétition"
+    ],
+    [
+      "consommation répétée",
+      "fidélité client"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1140760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "départ",
+      "laisser",
+      "abandonner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

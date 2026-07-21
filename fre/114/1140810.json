@@ -1,0 +1,12 @@
+{
+  "seq": 1140810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lièvre gris",
+      "rhebok",
+      "lièvre du Cap"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

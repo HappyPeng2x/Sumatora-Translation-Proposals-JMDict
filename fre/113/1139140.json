@@ -1,0 +1,16 @@
+{
+  "seq": 1139140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "heureux",
+      "chanceux"
+    ],
+    [
+      "super",
+      "génial",
+      "formidable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

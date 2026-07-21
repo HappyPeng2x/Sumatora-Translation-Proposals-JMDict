@@ -1,0 +1,22 @@
+{
+  "seq": 1143400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lien",
+      "liaison",
+      "raccordement"
+    ],
+    [
+      "lien hypertexte",
+      "hyperlien"
+    ],
+    [
+      "liaison (entre fichiers objets)"
+    ],
+    [
+      "liens (terme golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

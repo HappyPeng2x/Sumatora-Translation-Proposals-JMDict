@@ -1,0 +1,12 @@
+{
+  "seq": 1140310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme de course qui reste sur la piste",
+      "course à l'intérieur du parc",
+      "coup de force à l'intérieur du champ"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

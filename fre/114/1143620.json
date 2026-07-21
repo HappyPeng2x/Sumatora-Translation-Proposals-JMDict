@@ -1,0 +1,15 @@
+{
+  "seq": 1143620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "routeur (appareil de réseau)",
+      "routeur (dispositif de routage)"
+    ],
+    [
+      "routeur (outil de menuiserie)",
+      "outil de routage (menuiserie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

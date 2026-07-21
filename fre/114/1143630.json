@@ -1,0 +1,15 @@
+{
+  "seq": 1143630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "routine",
+      "travail routinier",
+      "tâche habituelle"
+    ],
+    [
+      "routine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

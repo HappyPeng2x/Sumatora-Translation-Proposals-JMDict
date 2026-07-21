@@ -1,0 +1,15 @@
+{
+  "seq": 1142410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mode de vie",
+      "style de vie"
+    ],
+    [
+      "salle de séjour",
+      "salon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1142700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réplication",
+      "copie",
+      "duplication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

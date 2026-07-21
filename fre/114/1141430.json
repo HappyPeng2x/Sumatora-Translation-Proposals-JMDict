@@ -1,0 +1,14 @@
+{
+  "seq": 1141430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fissure",
+      "craquement"
+    ],
+    [
+      "lithographie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

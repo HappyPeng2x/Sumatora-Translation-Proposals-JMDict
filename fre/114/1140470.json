@@ -1,0 +1,10 @@
+{
+  "seq": 1140470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détecteur de fuite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1140460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fuite",
+      "divulgation",
+      "révélation"
+    ],
+    [
+      "fuite",
+      "détachement",
+      "défaut d'étanchéité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

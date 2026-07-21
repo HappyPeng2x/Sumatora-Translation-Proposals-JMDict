@@ -1,0 +1,24 @@
+{
+  "seq": 1143590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négligent",
+      "désinvolte",
+      "laxiste",
+      "paresseux"
+    ],
+    [
+      "ample",
+      "détendu",
+      "large",
+      "serré"
+    ],
+    [
+      "détendu",
+      "nonchalant",
+      "facile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

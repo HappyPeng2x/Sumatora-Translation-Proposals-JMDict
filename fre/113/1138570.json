@@ -1,0 +1,23 @@
+{
+  "seq": 1138570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrondi"
+    ],
+    [
+      "manche",
+      "tour (dans le combat)"
+    ],
+    [
+      "tour (au golf)"
+    ],
+    [
+      "tour (d'une compétition)"
+    ],
+    [
+      "tour (de négociations, notamment commerciales multilatérales)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

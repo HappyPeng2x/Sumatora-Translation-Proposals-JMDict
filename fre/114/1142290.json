@@ -1,0 +1,19 @@
+{
+  "seq": 1142290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement en arrière",
+      "marche arrière"
+    ],
+    [
+      "rebobiner",
+      "reprise en arrière"
+    ],
+    [
+      "vomir",
+      "régurgiter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

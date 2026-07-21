@@ -1,0 +1,11 @@
+{
+  "seq": 1141000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps réel",
+      "temps réel (en informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

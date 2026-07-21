@@ -1,0 +1,10 @@
+{
+  "seq": 1141120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réseau neuronal récurrent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

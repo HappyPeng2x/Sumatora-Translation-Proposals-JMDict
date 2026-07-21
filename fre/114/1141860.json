@@ -1,0 +1,15 @@
+{
+  "seq": 1141860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "riche",
+      "affluent",
+      "aisé"
+    ],
+    [
+      "riche (en saveur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

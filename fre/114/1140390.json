@@ -1,0 +1,11 @@
+{
+  "seq": 1140390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "longueur d'une course",
+      "longueur d'une séquence continue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

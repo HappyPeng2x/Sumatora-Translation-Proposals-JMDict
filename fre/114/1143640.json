@@ -1,0 +1,16 @@
+{
+  "seq": 1143640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "racines",
+      "origine"
+    ],
+    [
+      "origine",
+      "ancêtres",
+      "ascendance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

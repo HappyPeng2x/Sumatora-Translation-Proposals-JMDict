@@ -1,0 +1,15 @@
+{
+  "seq": 1141880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lèvre"
+    ],
+    [
+      "baume à lèvres",
+      "sérum pour lèvres",
+      "stick à lèvres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

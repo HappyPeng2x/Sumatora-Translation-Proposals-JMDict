@@ -1,0 +1,29 @@
+{
+  "seq": 1141730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour",
+      "restauration"
+    ],
+    [
+      "retour",
+      "reprise",
+      "action de renvoyer la balle en tennis"
+    ],
+    [
+      "retour",
+      "touches de retour"
+    ],
+    [
+      "retour",
+      "bénéfice",
+      "gain"
+    ],
+    [
+      "récompense",
+      "rétribution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

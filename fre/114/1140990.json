@@ -1,0 +1,23 @@
+{
+  "seq": 1140990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réel",
+      "réaliste",
+      "vrai"
+    ],
+    [
+      "sérieux",
+      "non moqueur",
+      "sincère"
+    ],
+    [
+      "blog en temps réel"
+    ],
+    [
+      "monde réel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

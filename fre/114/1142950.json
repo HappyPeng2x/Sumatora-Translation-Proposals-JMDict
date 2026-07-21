@@ -1,0 +1,13 @@
+{
+  "seq": 1142950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "limiteur"
+    ],
+    [
+      "limiteur de vitesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

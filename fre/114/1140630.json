@@ -1,0 +1,15 @@
+{
+  "seq": 1140630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "portée",
+      "atteinte"
+    ],
+    [
+      "portée (publicitaire)",
+      "zone de diffusion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

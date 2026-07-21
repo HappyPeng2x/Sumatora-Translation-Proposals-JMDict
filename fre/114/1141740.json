@@ -1,0 +1,13 @@
+{
+  "seq": 1141740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pass de retour"
+    ],
+    [
+      "chemin de retour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

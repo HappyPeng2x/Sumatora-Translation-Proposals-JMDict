@@ -1,0 +1,19 @@
+{
+  "seq": 1143310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paroles",
+      "texte d'une chanson"
+    ],
+    [
+      "lyrisme",
+      "poésie lyrique"
+    ],
+    [
+      "lyrique",
+      "relatif aux paroles ou à la poésie lyrique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

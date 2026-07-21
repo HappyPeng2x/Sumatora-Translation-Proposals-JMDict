@@ -1,0 +1,11 @@
+{
+  "seq": 1141540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courtier en listes",
+      "intermédiaire en matière de listes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

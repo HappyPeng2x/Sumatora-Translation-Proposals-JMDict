@@ -1,0 +1,14 @@
+{
+  "seq": 1138550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salon",
+      "espace de détente"
+    ],
+    [
+      "club de hostesses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

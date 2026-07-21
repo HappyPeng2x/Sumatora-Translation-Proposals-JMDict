@@ -1,0 +1,17 @@
+{
+  "seq": 1142630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rafraîchissement",
+      "se rafraîchir",
+      "rafraîchir l'esprit"
+    ],
+    [
+      "rappel",
+      "rappeler",
+      "raviver (un souvenir)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

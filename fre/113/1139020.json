@@ -1,0 +1,13 @@
+{
+  "seq": 1139020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "motif de balayage"
+    ],
+    [
+      "raster (informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

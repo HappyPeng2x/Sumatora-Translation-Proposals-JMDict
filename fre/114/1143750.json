@@ -1,0 +1,36 @@
+{
+  "seq": 1143750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boucle",
+      "bande",
+      "anneau"
+    ],
+    [
+      "boucle (dans un programme informatique)"
+    ],
+    [
+      "boucle (d'un vidéo, diapositive, etc.)",
+      "répétition (ex. d'une conversation)"
+    ],
+    [
+      "boucle temporelle (dans la fiction)",
+      "boucle temporelle"
+    ],
+    [
+      "boucle (manœuvre aérienne)"
+    ],
+    [
+      "spirale",
+      "boucle en spirale"
+    ],
+    [
+      "antenne en boucle"
+    ],
+    [
+      "saut en boucle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

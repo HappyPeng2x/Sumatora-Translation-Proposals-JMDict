@@ -1,0 +1,16 @@
+{
+  "seq": 1140080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aléatoire",
+      "hasard",
+      "non déterministe"
+    ],
+    [
+      "échantillonnage aléatoire",
+      "sélection aléatoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

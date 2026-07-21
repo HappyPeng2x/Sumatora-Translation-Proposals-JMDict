@@ -1,0 +1,13 @@
+{
+  "seq": 1139820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agneau"
+    ],
+    [
+      "viande d'agneau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

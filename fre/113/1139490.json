@@ -1,0 +1,23 @@
+{
+  "seq": 1139490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grossier",
+      "rugueux"
+    ],
+    [
+      "décontracté",
+      "informel"
+    ],
+    [
+      "le terrain en dehors du green",
+      "le gazon non entretenu"
+    ],
+    [
+      "esquisse",
+      "brouillon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

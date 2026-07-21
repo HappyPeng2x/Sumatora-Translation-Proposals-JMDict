@@ -1,0 +1,14 @@
+{
+  "seq": 1140880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réaction",
+      "réponse"
+    ],
+    [
+      "réaction (physique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

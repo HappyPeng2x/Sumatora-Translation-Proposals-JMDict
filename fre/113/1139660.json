@@ -1,0 +1,12 @@
+{
+  "seq": 1139660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hôtel de passe",
+      "hôtel pour amants",
+      "hôtel de courte durée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1143040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "limousine",
+      "voiture de luxe allongée"
+    ],
+    [
+      "navette",
+      "bus de navette (généralement vers l'aéroport)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

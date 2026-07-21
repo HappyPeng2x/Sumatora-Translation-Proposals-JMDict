@@ -1,0 +1,18 @@
+{
+  "seq": 1140550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abordable",
+      "raisonnable (prix, tarif, etc.)",
+      "à prix raisonnable"
+    ],
+    [
+      "approprié",
+      "sensé",
+      "judicieux",
+      "raisonnable (décision, politique, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

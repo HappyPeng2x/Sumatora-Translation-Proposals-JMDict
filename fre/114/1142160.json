@@ -1,0 +1,11 @@
+{
+  "seq": 1142160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "renommer",
+      "changement de nom"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

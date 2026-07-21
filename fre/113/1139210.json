@@ -1,0 +1,15 @@
+{
+  "seq": 1139210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "engin de déneigement",
+      "véhicule déneigeur"
+    ],
+    [
+      "tracer un chemin à travers la neige profonde",
+      "faire un sentier dans la neige épaisse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

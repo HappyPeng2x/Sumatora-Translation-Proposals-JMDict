@@ -1,0 +1,16 @@
+{
+  "seq": 1142130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "linéaire"
+    ],
+    [
+      "train à moteur linéaire",
+      "train à induction linéaire",
+      "train à lévitation magnétique",
+      "train maglev"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

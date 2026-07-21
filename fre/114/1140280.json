@@ -1,0 +1,11 @@
+{
+  "seq": 1140280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coût d'exploitation",
+      "dépense récurrente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

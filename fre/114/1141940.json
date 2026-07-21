@@ -1,0 +1,12 @@
+{
+  "seq": 1141940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "littératie",
+      "compétence",
+      "capacité à comprendre et à utiliser une information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

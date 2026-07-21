@@ -1,0 +1,11 @@
+{
+  "seq": 1139010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pain sec",
+      "pain de campagne sec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1139550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'amour",
+      "l' amour",
+      "le sentiment d'affection profonde"
+    ],
+    [
+      "zéro (dans le tennis, le badminton, etc.)",
+      "le score de zéro dans un jeu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

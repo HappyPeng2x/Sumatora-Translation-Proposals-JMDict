@@ -1,0 +1,16 @@
+{
+  "seq": 1139300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langue latine"
+    ],
+    [
+      "américain(e) du Sud; latino; latin"
+    ],
+    [
+      "romain(e); relatif(ve) à la littérature, à la culture de l'Antiquité romaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

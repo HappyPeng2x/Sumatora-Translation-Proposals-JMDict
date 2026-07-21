@@ -1,0 +1,11 @@
+{
+  "seq": 1139260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps d'une course en circuit",
+      "temps d'un tour de piste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

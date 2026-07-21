@@ -1,0 +1,15 @@
+{
+  "seq": 1141760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retrait",
+      "retrait de la vie active"
+    ],
+    [
+      "abandon",
+      "retrait d'une course, d'un match, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

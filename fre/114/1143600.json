@@ -1,0 +1,11 @@
+{
+  "seq": 1143600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feuille libre",
+      "feuille détachable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

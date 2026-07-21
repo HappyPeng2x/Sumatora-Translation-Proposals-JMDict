@@ -1,0 +1,11 @@
+{
+  "seq": 1140260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état de bien-être ressenti par un coureur après une longue course",
+      "sensation de bien-être éprouvée par un coureur après une longue course"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

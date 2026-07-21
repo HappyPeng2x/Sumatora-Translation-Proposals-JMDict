@@ -1,0 +1,15 @@
+{
+  "seq": 1140180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rendez-vous amoureux",
+      "date amoureuse"
+    ],
+    [
+      "rencontre entre deux vaisseaux spatiaux",
+      "rendez-vous spatial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

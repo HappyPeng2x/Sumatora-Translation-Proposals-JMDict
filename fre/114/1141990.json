@@ -1,0 +1,12 @@
+{
+  "seq": 1141990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réduction",
+      "action de réduire",
+      "diminution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1139050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dernier",
+      "final"
+    ],
+    [
+      "fin",
+      "conclusion",
+      "dernier (personne)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

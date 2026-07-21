@@ -1,0 +1,17 @@
+{
+  "seq": 1143680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemin",
+      "itinéraire",
+      "voie"
+    ],
+    [
+      "canal",
+      "circuit",
+      "voie (de distribution)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

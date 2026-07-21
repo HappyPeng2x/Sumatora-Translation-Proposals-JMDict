@@ -1,0 +1,22 @@
+{
+  "seq": 1143250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lancement",
+      "publication",
+      "sortie"
+    ],
+    [
+      "libération",
+      "délivrance",
+      "émancipation"
+    ],
+    [
+      "relâchement",
+      "détachement",
+      "relâcher (le bouton d'une souris)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

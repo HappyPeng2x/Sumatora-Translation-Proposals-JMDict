@@ -1,0 +1,17 @@
+{
+  "seq": 1140590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef",
+      "dirigeant",
+      "guide"
+    ],
+    [
+      "marges de texte",
+      "ligne pointillée",
+      "ellipse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

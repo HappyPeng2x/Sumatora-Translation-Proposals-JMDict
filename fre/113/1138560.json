@@ -1,0 +1,12 @@
+{
+  "seq": 1138560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vêtements de détente",
+      "habits de loisir",
+      "tenue de relaxation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

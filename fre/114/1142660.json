@@ -1,0 +1,16 @@
+{
+  "seq": 1142660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "redémarrer",
+      "recharger",
+      "rebooter"
+    ],
+    [
+      "reboot (d'une franchise de film)",
+      "relance (d'une série cinématographique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1139720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étiquette",
+      "marque",
+      "nom"
+    ],
+    [
+      "étiquette (disque)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

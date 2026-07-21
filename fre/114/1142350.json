@@ -1,0 +1,18 @@
+{
+  "seq": 1142350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rebond",
+      "rebondir"
+    ],
+    [
+      "rechute après un régime",
+      "reprise de poids perdu"
+    ],
+    [
+      "retour des symptômes après l'arrêt d'un médicament"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

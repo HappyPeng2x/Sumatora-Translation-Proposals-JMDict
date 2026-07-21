@@ -1,0 +1,15 @@
+{
+  "seq": 1143490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conditionneur (de cheveux)",
+      "rinçage"
+    ],
+    [
+      "action de rincer",
+      "le fait de rincer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

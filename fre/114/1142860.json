@@ -1,0 +1,11 @@
+{
+  "seq": 1142860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prêt à taux variable",
+      "prêt en rotation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

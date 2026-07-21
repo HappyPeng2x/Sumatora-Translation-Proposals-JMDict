@@ -1,0 +1,16 @@
+{
+  "seq": 1139250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "film plastique",
+      "film étanche",
+      "feuille de plastique"
+    ],
+    [
+      "envelopper avec du film plastique",
+      "recouvrir de film étanche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
