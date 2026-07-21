@@ -1,0 +1,11 @@
+{
+  "seq": 1243990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écrire des haïkus",
+      "composer des haïkus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

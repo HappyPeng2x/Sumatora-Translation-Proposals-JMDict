@@ -1,0 +1,11 @@
+{
+  "seq": 1248400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gants en coton",
+      "gants de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

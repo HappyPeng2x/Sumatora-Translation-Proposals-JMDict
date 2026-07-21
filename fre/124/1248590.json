@@ -1,0 +1,13 @@
+{
+  "seq": 1248590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forces militaires",
+      "armée",
+      "troupes",
+      "nombre de soldats"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

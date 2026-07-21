@@ -1,0 +1,14 @@
+{
+  "seq": 1243630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "myna",
+      "oiseau",
+      "myna",
+      "oiseau de colline",
+      "myna religieuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1243260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "précieux",
+      "de valeur",
+      "chéri"
+    ],
+    [
+      "valeur monétaire",
+      "prix"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

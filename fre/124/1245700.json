@@ -1,0 +1,12 @@
+{
+  "seq": 1245700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inédit",
+      "sans précédent",
+      "record-breaker"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

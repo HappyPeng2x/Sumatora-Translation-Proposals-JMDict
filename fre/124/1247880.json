@@ -1,0 +1,14 @@
+{
+  "seq": 1247880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discipline militaire"
+    ],
+    [
+      "règlement militaire",
+      "règles militaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

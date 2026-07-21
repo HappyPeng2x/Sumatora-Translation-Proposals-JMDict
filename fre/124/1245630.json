@@ -1,0 +1,11 @@
+{
+  "seq": 1245630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "praticien du karaté",
+      "karatéka"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

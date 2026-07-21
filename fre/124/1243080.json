@@ -1,0 +1,15 @@
+{
+  "seq": 1243080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prêt à intérêt",
+      "lending de fonds"
+    ],
+    [
+      "prêteur",
+      "prêteur sur gage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

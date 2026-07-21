@@ -1,0 +1,11 @@
+{
+  "seq": 1248800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commandant en chef des forces armées",
+      "commandant militaire supérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

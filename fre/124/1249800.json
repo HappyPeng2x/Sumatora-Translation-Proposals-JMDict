@@ -1,0 +1,12 @@
+{
+  "seq": 1249800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agent pénitentiaire",
+      "gardien de prison",
+      "surveillant pénitentiaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

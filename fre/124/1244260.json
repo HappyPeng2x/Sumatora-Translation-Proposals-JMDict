@@ -1,0 +1,11 @@
+{
+  "seq": 1244260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résidents d'un quartier",
+      "habitants d'un quartier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

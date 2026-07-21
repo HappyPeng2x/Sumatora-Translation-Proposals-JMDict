@@ -1,0 +1,19 @@
+{
+  "seq": 1244040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pauses et coupures (dans une phrase)",
+      "interruptions et silences (dans une phrase)"
+    ],
+    [
+      "ponctuation",
+      "signes de ponctuation"
+    ],
+    [
+      "manière de lire (notamment le kanbun)",
+      "lecture (notamment du kanbun)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

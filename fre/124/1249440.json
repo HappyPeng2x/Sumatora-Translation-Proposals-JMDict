@@ -1,0 +1,16 @@
+{
+  "seq": 1249440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'écrouler",
+      "s'incliner",
+      "descendre en pente"
+    ],
+    [
+      "glisser",
+      "s'écouler (comme la neige)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1243250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "olive parfumé",
+      "osmanthus fragrans var. aurantiacus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

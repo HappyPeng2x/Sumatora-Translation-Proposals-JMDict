@@ -1,0 +1,11 @@
+{
+  "seq": 1245800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mobilisation aérienne",
+      "manœuvre aérienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

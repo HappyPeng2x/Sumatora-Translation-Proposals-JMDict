@@ -1,0 +1,11 @@
+{
+  "seq": 1245490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "régulation de l'air",
+      "conditionnement de l'air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

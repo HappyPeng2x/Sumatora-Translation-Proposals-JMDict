@@ -1,0 +1,11 @@
+{
+  "seq": 1250760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "titre honorifique",
+      "terme d'adresse honorifique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

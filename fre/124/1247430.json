@@ -1,0 +1,10 @@
+{
+  "seq": 1247430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marques de lecture pour la traduction du chinois classique en japonais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

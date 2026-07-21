@@ -1,0 +1,12 @@
+{
+  "seq": 1247760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "science militaire",
+      "stratégie",
+      "tactique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

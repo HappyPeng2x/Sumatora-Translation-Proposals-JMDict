@@ -1,0 +1,12 @@
+{
+  "seq": 1244190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef de quartier",
+      "maire de quartier",
+      "administrateur en chef d'un quartier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

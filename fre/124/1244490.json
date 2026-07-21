@@ -1,0 +1,18 @@
+{
+  "seq": 1244490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bitterness",
+      "souffrance",
+      "douleur",
+      "angoisse",
+      "affliction"
+    ],
+    [
+      "amertume",
+      "astringence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1243360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jamais",
+      "du tout",
+      "en aucun cas",
+      "surtout pas"
+    ],
+    [
+      "le fond le plus profond de la terre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

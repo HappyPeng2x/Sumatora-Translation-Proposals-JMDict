@@ -1,0 +1,16 @@
+{
+  "seq": 1250410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruiné",
+      "détruit",
+      "perdu"
+    ],
+    [
+      "perte totale de face",
+      "humiliation totale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1245010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complétude",
+      "état d'être pleinement équipé"
+    ],
+    [
+      "armure",
+      "ensemble d'armures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

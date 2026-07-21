@@ -1,0 +1,11 @@
+{
+  "seq": 1246800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "outil en forme de lame utilisée pour enfiler des chaussures",
+      "outil pour aider à enfiler des chaussures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

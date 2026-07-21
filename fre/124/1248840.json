@@ -1,0 +1,17 @@
+{
+  "seq": 1248840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gourde en forme de citrouille"
+    ],
+    [
+      "ventouse du juge en sumo"
+    ],
+    [
+      "stratagème",
+      "tactique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

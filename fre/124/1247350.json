@@ -1,0 +1,15 @@
+{
+  "seq": 1247350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aliment fumé",
+      "viande fumée",
+      "poisson fumé"
+    ],
+    [
+      "fumé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

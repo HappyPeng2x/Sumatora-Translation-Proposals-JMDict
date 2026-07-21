@@ -1,0 +1,14 @@
+{
+  "seq": 1242800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "matrice"
+    ],
+    [
+      "moule",
+      "matrice (en métal)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

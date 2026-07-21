@@ -1,0 +1,15 @@
+{
+  "seq": 1244070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conventions à respecter lors de la composition de poésie japonaise",
+      "phraseologie",
+      "diction"
+    ],
+    [
+      "règles de grammaire et de syntaxe lors de la lecture du kanbun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

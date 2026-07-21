@@ -1,0 +1,14 @@
+{
+  "seq": 1243580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "patinoire",
+      "surface de glace"
+    ],
+    [
+      "plat en argent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

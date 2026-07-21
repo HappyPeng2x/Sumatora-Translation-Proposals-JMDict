@@ -1,0 +1,12 @@
+{
+  "seq": 1243810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "neuf générations de parents proches",
+      "neuf générations de descendants proches",
+      "neuf générations de la famille proche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

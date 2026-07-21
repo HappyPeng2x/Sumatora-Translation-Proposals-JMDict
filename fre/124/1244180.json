@@ -1,0 +1,16 @@
+{
+  "seq": 1244180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pause",
+      "ponctuation"
+    ],
+    [
+      "interruption",
+      "arrêt",
+      "milestone"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

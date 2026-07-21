@@ -1,0 +1,15 @@
+{
+  "seq": 1248600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gouvernement militaire",
+      "administration militaire",
+      "junte militaire"
+    ],
+    [
+      "affaires gouvernementales liées à l'armée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

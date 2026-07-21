@@ -1,0 +1,22 @@
+{
+  "seq": 1250150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "engagement",
+      "promesse",
+      "serment"
+    ],
+    [
+      "rapports sexuels",
+      "relations sexuelles",
+      "acte sexuel"
+    ],
+    [
+      "destin",
+      "fatalité",
+      "karma"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

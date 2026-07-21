@@ -1,0 +1,14 @@
+{
+  "seq": 1247480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discours moral",
+      "exhortation",
+      "leçon morale",
+      "exemple instructif",
+      "apologue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

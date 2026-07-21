@@ -1,0 +1,16 @@
+{
+  "seq": 1250250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corps sans âme"
+    ],
+    [
+      "cadre; squelette; ruines; débris; vaisseau fantôme"
+    ],
+    [
+      "simple enveloppe; nom vide; lettre morte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

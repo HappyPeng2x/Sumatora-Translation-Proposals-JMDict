@@ -1,0 +1,11 @@
+{
+  "seq": 1247980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nation en guerre",
+      "nation militariste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1246030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cartouche vide",
+      "munitions vides",
+      "charge vide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

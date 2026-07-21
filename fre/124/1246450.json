@@ -1,0 +1,16 @@
+{
+  "seq": 1246450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bâtonnet",
+      "pièce de bois ou de métal longue et fine",
+      "tige"
+    ],
+    [
+      "proxy",
+      "serveur intermédiaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

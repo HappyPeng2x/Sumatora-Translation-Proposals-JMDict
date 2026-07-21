@@ -1,0 +1,11 @@
+{
+  "seq": 1245910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "troupes aériennes",
+      "parachutistes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

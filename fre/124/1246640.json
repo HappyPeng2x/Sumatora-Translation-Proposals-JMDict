@@ -1,0 +1,13 @@
+{
+  "seq": 1246640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "creuser en profondeur"
+    ],
+    [
+      "creuser dans (un sujet) ; fouiller dans ; explorer ; investiguer ; découvrir la vérité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

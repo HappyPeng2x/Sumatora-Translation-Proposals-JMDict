@@ -1,0 +1,14 @@
+{
+  "seq": 1245410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "post vacant",
+      "vacance"
+    ],
+    [
+      "post honorifique sans fonction réelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

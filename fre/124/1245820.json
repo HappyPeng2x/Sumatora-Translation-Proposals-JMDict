@@ -1,0 +1,12 @@
+{
+  "seq": 1245820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débarquement aérien",
+      "laisser tomber par avion",
+      "dépôt aérien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

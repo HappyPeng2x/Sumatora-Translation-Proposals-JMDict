@@ -1,0 +1,15 @@
+{
+  "seq": 1244760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course rapide",
+      "mouvement soudain vers quelque chose"
+    ],
+    [
+      "dernière minute",
+      "rush de dernière minute"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

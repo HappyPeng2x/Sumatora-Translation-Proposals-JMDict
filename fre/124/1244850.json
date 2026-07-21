@@ -1,0 +1,17 @@
+{
+  "seq": 1244850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "utiliser pleinement",
+      "faire pleinement usage de",
+      "avoir une bonne maîtrise de"
+    ],
+    [
+      "forcer (quelqu'un) à travailler dur",
+      "pousser (quelqu'un) à l'effort",
+      "mettre (quelqu'un) à l'œuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

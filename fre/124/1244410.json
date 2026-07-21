@@ -1,0 +1,15 @@
+{
+  "seq": 1244410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travailler pour payer ses études",
+      "payer ses propres frais de scolarité"
+    ],
+    [
+      "étudier dans des conditions difficiles",
+      "étudier malgré des circonstances économiques difficiles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1246190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poème improvisé",
+      "poème spontané"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

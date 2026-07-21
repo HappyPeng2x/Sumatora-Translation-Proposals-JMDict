@@ -1,0 +1,11 @@
+{
+  "seq": 1244420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudiant qui se finance seul",
+      "étudiant travaillant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

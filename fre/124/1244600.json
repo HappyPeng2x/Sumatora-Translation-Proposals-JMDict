@@ -1,0 +1,11 @@
+{
+  "seq": 1244600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dernier recours",
+      "mesure désespérée prise sous la pression de la nécessité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

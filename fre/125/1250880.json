@@ -1,0 +1,22 @@
+{
+  "seq": 1250880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cadeau",
+      "objet gratuit",
+      "supplément",
+      "bonus"
+    ],
+    [
+      "prix",
+      "lot",
+      "récompense"
+    ],
+    [
+      "cadeau de fête",
+      "souvenir de fête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

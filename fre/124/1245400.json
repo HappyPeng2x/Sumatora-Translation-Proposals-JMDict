@@ -1,0 +1,12 @@
+{
+  "seq": 1245400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retourner à la nature",
+      "revenir à rien",
+      "ne pas aboutir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

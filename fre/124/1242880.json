@@ -1,0 +1,18 @@
+{
+  "seq": 1242880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vajra",
+      "substance indestructible",
+      "diamant",
+      "adamantin"
+    ],
+    [
+      "foudre",
+      "lance du dieu Indra",
+      "symbole bouddhique de la vérité indestructible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

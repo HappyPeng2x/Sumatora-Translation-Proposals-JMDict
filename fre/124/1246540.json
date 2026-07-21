@@ -1,0 +1,23 @@
+{
+  "seq": 1246540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "céder",
+      "se laisser convaincre",
+      "être intimidé",
+      "reculer"
+    ],
+    [
+      "plier (un genou, etc.)"
+    ],
+    [
+      "soumettre",
+      "dominer"
+    ],
+    [
+      "se sentir abattu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1249310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, math] coefficient"
+    ],
+    [
+      "[n, physics, chem] coefficient ; facteur ; constante de proportionnalité ; module"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

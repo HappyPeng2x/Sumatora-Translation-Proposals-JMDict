@@ -1,0 +1,15 @@
+{
+  "seq": 1249480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "beauté",
+      "sirène"
+    ],
+    [
+      "courtisane",
+      "prostituée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

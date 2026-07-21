@@ -1,0 +1,15 @@
+{
+  "seq": 1249350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liaison",
+      "relation",
+      "affiliation"
+    ],
+    [
+      "pendance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

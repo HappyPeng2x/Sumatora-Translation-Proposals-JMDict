@@ -1,0 +1,15 @@
+{
+  "seq": 1246890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écureuil",
+      "mammifère de la famille des Sciuridés"
+    ],
+    [
+      "écureuil japonais",
+      "Sciurus lis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

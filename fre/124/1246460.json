@@ -1,0 +1,11 @@
+{
+  "seq": 1246460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "kushikatsu",
+      "viande et légumes en brochette, frits dans l'huile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

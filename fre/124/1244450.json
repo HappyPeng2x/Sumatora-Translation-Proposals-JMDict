@@ -1,0 +1,13 @@
+{
+  "seq": 1244450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avis franc",
+      "opinion honnête",
+      "exhortation",
+      "conseil franc et direct"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1246340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "iconoclasme",
+      "détruire les images religieuses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

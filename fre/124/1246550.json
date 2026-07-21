@@ -1,0 +1,17 @@
+{
+  "seq": 1246550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se courber en avant",
+      "se pencher",
+      "s'incliner en avant"
+    ],
+    [
+      "s'agenouiller",
+      "se baisser",
+      "s'accroupir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

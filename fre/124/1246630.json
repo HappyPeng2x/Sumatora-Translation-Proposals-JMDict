@@ -1,0 +1,17 @@
+{
+  "seq": 1246630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préoccupation",
+      "souci",
+      "inquiétude"
+    ],
+    [
+      "ennui",
+      "lassitude",
+      "fatigue mentale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1248780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef de corps",
+      "commandant de corps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

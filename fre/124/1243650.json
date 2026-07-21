@@ -1,0 +1,11 @@
+{
+  "seq": 1243650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "table de multiplication",
+      "table des multiplications"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

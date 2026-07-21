@@ -1,0 +1,16 @@
+{
+  "seq": 1244820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courir à travers",
+      "passer en force",
+      "traverser rapidement"
+    ],
+    [
+      "dévorer (quelqu'un) par-derrière",
+      "dépasser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

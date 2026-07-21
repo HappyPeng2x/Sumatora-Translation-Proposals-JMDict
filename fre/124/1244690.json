@@ -1,0 +1,12 @@
+{
+  "seq": 1244690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne ayant vécu des épreuves difficiles",
+      "personne expérimentée, avertie",
+      "personne qui a vu beaucoup de choses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

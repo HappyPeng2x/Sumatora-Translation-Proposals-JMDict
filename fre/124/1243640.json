@@ -1,0 +1,12 @@
+{
+  "seq": 1243640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fraction minime",
+      "goutte dans l'océan",
+      "goutte dans le seau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

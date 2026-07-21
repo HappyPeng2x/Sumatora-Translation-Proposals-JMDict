@@ -1,0 +1,11 @@
+{
+  "seq": 1243060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détectionneur de métaux",
+      "appareil de détection des métaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

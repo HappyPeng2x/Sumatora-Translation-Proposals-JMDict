@@ -1,0 +1,17 @@
+{
+  "seq": 1245960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vaste",
+      "immense",
+      "infini"
+    ],
+    [
+      "vague",
+      "indéfini",
+      "flou"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

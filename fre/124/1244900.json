@@ -1,0 +1,12 @@
+{
+  "seq": 1244900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement",
+      "action de faire avancer",
+      "force motrice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

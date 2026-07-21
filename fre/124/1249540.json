@@ -1,0 +1,15 @@
+{
+  "seq": 1249540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme élégante",
+      "créature séduisante"
+    ],
+    [
+      "courtisane",
+      "prostituée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

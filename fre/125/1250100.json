@@ -1,0 +1,15 @@
+{
+  "seq": 1250100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "papier patron (pour la couture)",
+      "papier de patronnage"
+    ],
+    [
+      "calque",
+      "stencil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

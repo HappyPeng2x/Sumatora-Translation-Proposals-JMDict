@@ -1,0 +1,16 @@
+{
+  "seq": 1244650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail pénible",
+      "corvée",
+      "labeur"
+    ],
+    [
+      "servitude pénale",
+      "emprisonnement avec travaux forcés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

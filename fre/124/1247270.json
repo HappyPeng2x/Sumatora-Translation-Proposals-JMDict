@@ -1,0 +1,18 @@
+{
+  "seq": 1247270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme vertueux",
+      "homme sage",
+      "véritable gentleman"
+    ],
+    [
+      "personne de haut rang"
+    ],
+    [
+      "les quatre messieurs (prunier, chrysanthème, orchidée et bambou)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

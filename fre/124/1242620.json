@@ -1,0 +1,12 @@
+{
+  "seq": 1242620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépenser de l'argent",
+      "employer de l'argent",
+      "utiliser de l'argent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

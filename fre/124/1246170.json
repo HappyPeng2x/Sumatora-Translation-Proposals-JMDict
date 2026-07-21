@@ -1,0 +1,20 @@
+{
+  "seq": 1246170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par hasard",
+      "par chance",
+      "inopinément",
+      "par accident",
+      "aléatoirement"
+    ],
+    [
+      "rarement",
+      "peu souvent",
+      "exceptionnellement",
+      "de temps en temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

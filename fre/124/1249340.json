@@ -1,0 +1,12 @@
+{
+  "seq": 1249340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point de droit litigieux",
+      "question litigieuse",
+      "sujet de débat juridique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

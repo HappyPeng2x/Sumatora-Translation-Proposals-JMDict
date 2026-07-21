@@ -1,0 +1,11 @@
+{
+  "seq": 1250170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marque d'un sceau sur la jointure de deux documents",
+      "tally"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

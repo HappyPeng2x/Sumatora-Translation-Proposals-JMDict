@@ -1,0 +1,22 @@
+{
+  "seq": 1249410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pente",
+      "inclinaison",
+      "penchement"
+    ],
+    [
+      "tendance",
+      "orientation",
+      "disposition",
+      "préférence",
+      "biais"
+    ],
+    [
+      "pente (d'une fonction linéaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

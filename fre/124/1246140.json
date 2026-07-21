@@ -1,0 +1,15 @@
+{
+  "seq": 1246140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "route aérienne",
+      "corridor aérien"
+    ],
+    [
+      "par air",
+      "en avion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

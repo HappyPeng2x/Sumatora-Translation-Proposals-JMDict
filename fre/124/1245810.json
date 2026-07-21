@@ -1,0 +1,15 @@
+{
+  "seq": 1245810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combat aérien",
+      "affrontement aérien"
+    ],
+    [
+      "combat aérien",
+      "bataille aérienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

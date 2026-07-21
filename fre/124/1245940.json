@@ -1,0 +1,14 @@
+{
+  "seq": 1245940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rendre creux",
+      "rendre vide de sens"
+    ],
+    [
+      "désindustrialisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

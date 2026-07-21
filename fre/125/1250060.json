@@ -1,0 +1,11 @@
+{
+  "seq": 1250060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réveil des insectes",
+      "terme solaire (environ le 6 mars, jour auquel on dit que les insectes hibernants sortent du sol)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

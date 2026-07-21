@@ -1,0 +1,11 @@
+{
+  "seq": 1248820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemin militaire",
+      "route militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

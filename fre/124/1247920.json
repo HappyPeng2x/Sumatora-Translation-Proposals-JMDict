@@ -1,0 +1,11 @@
+{
+  "seq": 1247920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaussures militaires",
+      "bottes de combat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

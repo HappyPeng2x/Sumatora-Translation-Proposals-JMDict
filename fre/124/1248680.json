@@ -1,0 +1,16 @@
+{
+  "seq": 1248680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "équipement militaire",
+      "attirail de guerre",
+      "habillement de combat"
+    ],
+    [
+      "uniforme de soldat",
+      "tenue de combat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

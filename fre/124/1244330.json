@@ -1,0 +1,13 @@
+{
+  "seq": 1244330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "danger passé, Dieu oublié",
+      "une fois sur la terre ferme, on ne prie plus",
+      "l'homme se tourne vers Dieu uniquement en temps de difficulté",
+      "il n'y a pas d'athées dans les tranchées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

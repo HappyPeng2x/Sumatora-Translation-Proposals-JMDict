@@ -1,0 +1,15 @@
+{
+  "seq": 1243860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'agenouiller répétitivement",
+      "se prosterner répétitivement"
+    ],
+    [
+      "à votre respectueuse disposition",
+      "respectueusement vôtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1245390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de la tête aux pieds",
+      "sur le vif",
+      "sans réfléchir"
+    ],
+    [
+      "par cœur",
+      "de mémoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

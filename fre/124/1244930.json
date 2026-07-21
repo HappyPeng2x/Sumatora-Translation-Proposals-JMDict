@@ -1,0 +1,16 @@
+{
+  "seq": 1244930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pièce (dans le shogi, le jeu d'échecs, etc.)"
+    ],
+    [
+      "cheval ; poulain (archaïque)"
+    ],
+    [
+      "pont (d'un violon, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

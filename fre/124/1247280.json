@@ -1,0 +1,15 @@
+{
+  "seq": 1247280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le sage s'adapte facilement aux changements de circonstances",
+      "le sage est prompt à reconnaître ses erreurs et à les corriger"
+    ],
+    [
+      "le sage n'hésite pas à changer brusquement son comportement",
+      "changer brusquement son attitude (en usage familier, ironiquement ou comme excuse)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

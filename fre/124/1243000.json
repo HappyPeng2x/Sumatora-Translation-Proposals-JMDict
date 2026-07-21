@@ -1,0 +1,11 @@
+{
+  "seq": 1243000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gold general",
+      "gold general (piece du jeu de shogi)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

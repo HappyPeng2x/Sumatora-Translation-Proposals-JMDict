@@ -1,0 +1,16 @@
+{
+  "seq": 1243590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écran",
+      "support de projection"
+    ],
+    [
+      "cinéma",
+      "monde du cinéma",
+      "industrie du cinéma"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1248530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dieu de la guerre"
+    ],
+    [
+      "héros de guerre (mort au combat)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1246610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flexion et extension",
+      "pli et étirement",
+      "mouvement de flexion et d'extension"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

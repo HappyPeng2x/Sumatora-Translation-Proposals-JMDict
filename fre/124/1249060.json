@@ -1,0 +1,11 @@
+{
+  "seq": 1249060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "militaire",
+      "destiné à l'usage militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

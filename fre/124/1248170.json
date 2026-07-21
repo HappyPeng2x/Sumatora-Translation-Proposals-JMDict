@@ -1,0 +1,11 @@
+{
+  "seq": 1248170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conseiller militaire",
+      "adviser militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

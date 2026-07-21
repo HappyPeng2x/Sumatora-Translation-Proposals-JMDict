@@ -1,0 +1,13 @@
+{
+  "seq": 1248990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit militaire",
+      "état de siège",
+      "tactique",
+      "stratégie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

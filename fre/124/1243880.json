@@ -1,0 +1,19 @@
+{
+  "seq": 1243880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "presque certainement",
+      "probablement",
+      "quasiment sûr",
+      "dans presque tous les cas"
+    ],
+    [
+      "presque la perfection",
+      "presque complet",
+      "quasi achevé",
+      "à 99 %"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

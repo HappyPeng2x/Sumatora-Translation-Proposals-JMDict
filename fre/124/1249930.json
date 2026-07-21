@@ -1,0 +1,16 @@
+{
+  "seq": 1249930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frère aîné (familier, honorifique)"
+    ],
+    [
+      "supérieur hiérarchique"
+    ],
+    [
+      "homme plus âgé que soi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

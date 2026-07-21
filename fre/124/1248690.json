@@ -1,0 +1,11 @@
+{
+  "seq": 1248690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "militaire non combattant",
+      "personne civile employée par l'armée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

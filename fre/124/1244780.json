@@ -1,0 +1,15 @@
+{
+  "seq": 1244780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courir vers",
+      "se précipiter vers"
+    ],
+    [
+      "chercher refuge dans",
+      "prendre refuge dans"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

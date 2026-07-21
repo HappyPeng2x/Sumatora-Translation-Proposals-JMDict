@@ -1,0 +1,15 @@
+{
+  "seq": 1245640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chèque sans provision",
+      "effet de commerce sans valeur"
+    ],
+    [
+      "promesse vide",
+      "engagement sans fondement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

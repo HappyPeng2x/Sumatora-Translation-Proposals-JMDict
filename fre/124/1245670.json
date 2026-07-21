@@ -1,0 +1,12 @@
+{
+  "seq": 1245670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace vide",
+      "case vide",
+      "lacune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

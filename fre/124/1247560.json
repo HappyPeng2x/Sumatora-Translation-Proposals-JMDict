@@ -1,0 +1,19 @@
+{
+  "seq": 1247560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pousser en masse dans un même endroit (des plantes)",
+      "croître en groupe dans un même lieu (des plantes)"
+    ],
+    [
+      "vivre en groupe (des animaux)",
+      "vivre en troupeaux, en colonies, etc. (des animaux)"
+    ],
+    [
+      "tous les êtres vivants",
+      "toute la création animale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

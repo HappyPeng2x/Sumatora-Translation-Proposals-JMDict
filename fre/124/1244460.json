@@ -1,0 +1,17 @@
+{
+  "seq": 1244460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pénitence",
+      "austérité",
+      "mortification",
+      "ascétisme"
+    ],
+    [
+      "travail pénible",
+      "tâche exigeante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

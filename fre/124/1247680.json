@@ -1,0 +1,11 @@
+{
+  "seq": 1247680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médecin militaire",
+      "chirurgien militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

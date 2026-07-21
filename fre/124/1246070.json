@@ -1,0 +1,12 @@
+{
+  "seq": 1246070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espérance vaine",
+      "espoir insensé",
+      "attente sans fondement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

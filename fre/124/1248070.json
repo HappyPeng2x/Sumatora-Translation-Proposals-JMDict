@@ -1,0 +1,15 @@
+{
+  "seq": 1248070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fonds de guerre",
+      "trésor de guerre"
+    ],
+    [
+      "fonds (pour des activités)",
+      "fonds de campagne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

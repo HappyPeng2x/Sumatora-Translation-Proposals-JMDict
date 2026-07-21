@@ -1,0 +1,13 @@
+{
+  "seq": 1247440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture (du kanji) en kun'yomi"
+    ],
+    [
+      "lecture d'un texte chinois (kanbun) en japonais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

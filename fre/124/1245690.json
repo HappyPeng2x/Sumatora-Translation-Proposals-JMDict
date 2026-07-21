@@ -1,0 +1,15 @@
+{
+  "seq": 1245690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "siège vide",
+      "siège non occupé"
+    ],
+    [
+      "vacance",
+      "poste vacant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

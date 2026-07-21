@@ -1,0 +1,12 @@
+{
+  "seq": 1250450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom adjatif",
+      "nom adjectif",
+      "adjectif nominal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

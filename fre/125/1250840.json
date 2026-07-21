@@ -1,0 +1,13 @@
+{
+  "seq": 1250840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "situation",
+      "état des choses",
+      "contexte économique",
+      "perspective"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

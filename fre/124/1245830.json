@@ -1,0 +1,15 @@
+{
+  "seq": 1245830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la lévitation",
+      "flotter dans l'air"
+    ],
+    [
+      "aérien",
+      "relatif à l'air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

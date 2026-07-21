@@ -1,0 +1,14 @@
+{
+  "seq": 1247860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "secret militaire",
+      "matériel militaire classé"
+    ],
+    [
+      "aéronef militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

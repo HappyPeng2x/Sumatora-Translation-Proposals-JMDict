@@ -1,0 +1,11 @@
+{
+  "seq": 1248980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diffusion militaire",
+      "émission militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

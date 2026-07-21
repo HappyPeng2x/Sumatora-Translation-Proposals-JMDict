@@ -1,0 +1,13 @@
+{
+  "seq": 1244660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ménager ses forces",
+      "se creuser la tête",
+      "être inquiet",
+      "s'agiter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

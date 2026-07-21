@@ -1,0 +1,11 @@
+{
+  "seq": 1248490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre militaire",
+      "chronique de guerre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

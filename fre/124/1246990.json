@@ -1,0 +1,24 @@
+{
+  "seq": 1246990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tirer (un fil)",
+      "laisser sortir (ex. une corde)"
+    ],
+    [
+      "partir en groupe",
+      "s'engager en grand nombre",
+      "s'élancer en masse"
+    ],
+    [
+      "envoyer les uns après les autres",
+      "expédier"
+    ],
+    [
+      "lancer (une lance)",
+      "donner un coup (ex. un coup de poing)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1249030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaires militaires",
+      "service militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

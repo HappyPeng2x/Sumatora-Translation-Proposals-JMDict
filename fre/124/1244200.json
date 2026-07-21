@@ -1,0 +1,11 @@
+{
+  "seq": 1244200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indice de ligne et de colonne d'un caractère japonais",
+      "référence d'une case dans une matrice de caractères"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

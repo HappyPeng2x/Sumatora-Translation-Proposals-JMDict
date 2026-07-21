@@ -1,0 +1,15 @@
+{
+  "seq": 1244210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dans un quartier",
+      "dans le quartier"
+    ],
+    [
+      "dans la zone",
+      "dans le district"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

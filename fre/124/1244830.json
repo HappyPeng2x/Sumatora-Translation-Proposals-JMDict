@@ -1,0 +1,19 @@
+{
+  "seq": 1244830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chasser (un lièvre, un renard, etc.) en les faisant sortir de leur cachette",
+      "pousser dehors; battre en retraite"
+    ],
+    [
+      "diriger (du bétail, des moutons, etc.)",
+      "encourager; presser (un cheval)"
+    ],
+    [
+      "pousser (quelqu'un) à faire quelque chose",
+      "inciter; stimuler; impulser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

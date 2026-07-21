@@ -1,0 +1,13 @@
+{
+  "seq": 1246400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sens caché",
+      "symbolisme",
+      "moral (d'une histoire)",
+      "sens allégorique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

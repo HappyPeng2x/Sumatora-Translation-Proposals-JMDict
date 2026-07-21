@@ -1,0 +1,16 @@
+{
+  "seq": 1246050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aspect du ciel (surtout en cas de mauvais temps)",
+      "météo"
+    ],
+    [
+      "cours des événements",
+      "situation",
+      "tendance (souvent avec une nuance négative)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

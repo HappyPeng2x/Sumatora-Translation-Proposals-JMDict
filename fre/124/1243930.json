@@ -1,0 +1,16 @@
+{
+  "seq": 1243930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concurrence",
+      "coïncidence",
+      "simultanéité"
+    ],
+    [
+      "coïncidence de crimes",
+      "découverte simultanée de plusieurs crimes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

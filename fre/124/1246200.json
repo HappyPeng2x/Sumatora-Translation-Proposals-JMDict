@@ -1,0 +1,11 @@
+{
+  "seq": 1246200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pensées aléatoires",
+      "pensées fortuites"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

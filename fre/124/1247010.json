@@ -1,0 +1,19 @@
+{
+  "seq": 1247010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "répétition",
+      "répétition fréquente",
+      "itération",
+      "cycle"
+    ],
+    [
+      "de manière répétée",
+      "constamment",
+      "sans cesse",
+      "insistamment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

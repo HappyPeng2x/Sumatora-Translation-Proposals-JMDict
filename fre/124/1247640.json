@@ -1,0 +1,12 @@
+{
+  "seq": 1247640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rivalité entre plusieurs seigneurs locaux",
+      "concurrents indépendants dans un domaine particulier",
+      "situation où plusieurs individus puissants coexistent sans domination claire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

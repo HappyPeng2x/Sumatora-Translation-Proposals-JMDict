@@ -1,0 +1,11 @@
+{
+  "seq": 1245980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voler dans le ciel",
+      "s'envoler dans le ciel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

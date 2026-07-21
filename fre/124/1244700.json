@@ -1,0 +1,13 @@
+{
+  "seq": 1244700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nature nerveuse",
+      "tempérament anxieux",
+      "tendance à s'inquiéter",
+      "pessimisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1245210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les masses ignorantes",
+      "la populace non instruite",
+      "les gens non éduqués"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

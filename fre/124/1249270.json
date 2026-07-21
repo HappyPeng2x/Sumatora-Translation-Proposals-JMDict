@@ -1,0 +1,14 @@
+{
+  "seq": 1249270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "kasaya",
+      "longue robe monastique bouddhique"
+    ],
+    [
+      "vêtement porté de la même manière qu'un kasaya (c'est-à-dire jeté sur l'épaule)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1246100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terre et air",
+      "forces terrestres et aériennes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

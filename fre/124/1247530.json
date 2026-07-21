@@ -1,0 +1,12 @@
+{
+  "seq": 1247530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rassembler en groupe",
+      "se regrouper en masse",
+      "se rassembler en grand nombre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

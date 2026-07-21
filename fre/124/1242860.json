@@ -1,0 +1,11 @@
+{
+  "seq": 1242860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "champ de minerai d'or",
+      "gisement d'or"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
