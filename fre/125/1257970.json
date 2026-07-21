@@ -1,0 +1,17 @@
+{
+  "seq": 1257970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture",
+      "vérification",
+      "du compteur"
+    ],
+    [
+      "détecteur",
+      "inspection",
+      "des aiguilles (dans les vêtements, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

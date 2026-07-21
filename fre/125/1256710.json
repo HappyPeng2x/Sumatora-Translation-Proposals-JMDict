@@ -1,0 +1,16 @@
+{
+  "seq": 1256710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "occuper en même temps le poste de",
+      "occuper simultanément le poste de",
+      "assumer en parallèle le rôle de"
+    ],
+    [
+      "poste supplémentaire",
+      "fonction secondaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

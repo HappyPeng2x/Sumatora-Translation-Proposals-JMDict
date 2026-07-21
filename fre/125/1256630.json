@@ -1,0 +1,15 @@
+{
+  "seq": 1256630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] exercer un autre poste en parallèle",
+      "[n] occuper simultanément un autre poste"
+    ],
+    [
+      "[n] poste secondaire",
+      "[n] fonction complémentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

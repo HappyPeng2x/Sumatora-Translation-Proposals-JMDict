@@ -1,0 +1,12 @@
+{
+  "seq": 1252100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mettre en œuvre",
+      "appliquer",
+      "mettre en pratique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

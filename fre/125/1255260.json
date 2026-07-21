@@ -1,0 +1,19 @@
+{
+  "seq": 1255260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sacrifice sanguinaire",
+      "offrande sanglante"
+    ],
+    [
+      "bain de sang",
+      "exécution violente"
+    ],
+    [
+      "règle",
+      "période menstruelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

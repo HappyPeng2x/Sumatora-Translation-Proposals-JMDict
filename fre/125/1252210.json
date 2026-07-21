@@ -1,0 +1,18 @@
+{
+  "seq": 1252210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calcul",
+      "comptage"
+    ],
+    [
+      "manipulation de chiffres",
+      "traitement des données chiffrées"
+    ],
+    [
+      "cardinalité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

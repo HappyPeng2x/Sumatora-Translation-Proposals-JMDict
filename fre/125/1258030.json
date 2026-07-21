@@ -1,0 +1,16 @@
+{
+  "seq": 1258030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détecteur",
+      "détectage",
+      "découverte",
+      "détection"
+    ],
+    [
+      "démodulation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

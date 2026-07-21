@@ -1,0 +1,17 @@
+{
+  "seq": 1252870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pratique",
+      "convenant",
+      "simple",
+      "portable"
+    ],
+    [
+      "chemin de fer à voie étroite",
+      "chemin de fer léger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

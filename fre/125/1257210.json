@@ -1,0 +1,11 @@
+{
+  "seq": 1257210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne rigide",
+      "personne obstinée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

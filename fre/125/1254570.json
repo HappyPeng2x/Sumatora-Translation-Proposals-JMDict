@@ -1,0 +1,17 @@
+{
+  "seq": 1254570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu caché",
+      "endroit secret",
+      "coin bien gardé",
+      "petit joyau méconnu"
+    ],
+    [
+      "boîte de pari",
+      "poste de pari"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

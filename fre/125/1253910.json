@@ -1,0 +1,17 @@
+{
+  "seq": 1253910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fragment",
+      "éclat",
+      "brisure"
+    ],
+    [
+      "déclin",
+      "décrue",
+      "pâmoison (de la lune)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

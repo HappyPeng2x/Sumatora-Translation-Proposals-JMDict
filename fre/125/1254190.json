@@ -1,0 +1,24 @@
+{
+  "seq": 1254190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre pour acquis",
+      "supposer",
+      "être convaincu (que)",
+      "se faire une idée (que)"
+    ],
+    [
+      "faire semblant (d'être)",
+      "se donner (l'air de)",
+      "se croire (être)",
+      "feindre (par exemple l'ignorance)"
+    ],
+    [
+      "mettre à exécution (ce que l'on a décidé de faire)",
+      "persister à faire",
+      "prendre une décision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

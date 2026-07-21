@@ -1,0 +1,20 @@
+{
+  "seq": 1254140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décider",
+      "déterminer",
+      "résoudre",
+      "être décidé"
+    ],
+    [
+      "rompre",
+      "débordé",
+      "s'effondrer",
+      "céder",
+      "faire sauter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1251040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arbre phylogénétique",
+      "arbre généalogique",
+      "arbre évolutif",
+      "dendrogramme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

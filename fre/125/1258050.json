@@ -1,0 +1,17 @@
+{
+  "seq": 1258050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen",
+      "inspection",
+      "vérification"
+    ],
+    [
+      "poste de contrôle",
+      "checkpoint",
+      "contrôle (par la police ou les services de sécurité)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

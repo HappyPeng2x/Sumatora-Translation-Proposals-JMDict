@@ -1,0 +1,15 @@
+{
+  "seq": 1256820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "armes",
+      "moyens de défense"
+    ],
+    [
+      "combat au sabre",
+      "duel au sabre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

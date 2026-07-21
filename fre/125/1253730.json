@@ -1,0 +1,21 @@
+{
+  "seq": 1253730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "choc",
+      "collision violente",
+      "heurt",
+      "collision",
+      "impact"
+    ],
+    [
+      "conflit",
+      "affrontement",
+      "débat",
+      "collision d'idées",
+      "confrontation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

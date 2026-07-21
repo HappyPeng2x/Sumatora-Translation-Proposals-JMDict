@@ -1,0 +1,12 @@
+{
+  "seq": 1256870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'art du combat au sabre",
+      "l'escrime",
+      "la maîtrise du sabre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

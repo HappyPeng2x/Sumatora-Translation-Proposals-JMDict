@@ -1,0 +1,11 @@
+{
+  "seq": 1251770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfant adopté",
+      "enfant issu d'une union non mariée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

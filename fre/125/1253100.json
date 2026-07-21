@@ -1,0 +1,20 @@
+{
+  "seq": 1253100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comédien",
+      "humoriste"
+    ],
+    [
+      "artiste",
+      "interprète",
+      "personne qui se produit sur scène"
+    ],
+    [
+      "personne douée",
+      "personne accomplie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

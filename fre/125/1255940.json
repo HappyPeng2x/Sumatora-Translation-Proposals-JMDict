@@ -1,0 +1,20 @@
+{
+  "seq": 1255940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaire",
+      "sujet",
+      "question",
+      "point",
+      "cas"
+    ],
+    [
+      "unité de compte pour les e-mails reçus, les messages texte, les messages vocaux, etc."
+    ],
+    [
+      "unité de compte pour les comptes (sur un site web, un service de messagerie, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1253120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "performance",
+      "numéros",
+      "tour de force",
+      "exploit"
+    ],
+    [
+      "acte audacieux",
+      "geste hardi",
+      "manœuvre audacieuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

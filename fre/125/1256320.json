@@ -1,0 +1,19 @@
+{
+  "seq": 1256320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne déterminée",
+      "personne expérimentée",
+      "personne rusée",
+      "personne malicieuse",
+      "personne intrépide",
+      "femme imposante"
+    ],
+    [
+      "homme fort",
+      "homme courageux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1253220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accueillir",
+      "faire entrer",
+      "introduire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

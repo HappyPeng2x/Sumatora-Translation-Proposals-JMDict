@@ -1,0 +1,21 @@
+{
+  "seq": 1254650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lier",
+      "attacher",
+      "fixer",
+      "joindre",
+      "lier ensemble"
+    ],
+    [
+      "relier",
+      "lier entre eux",
+      "associer",
+      "mettre en relation",
+      "unir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

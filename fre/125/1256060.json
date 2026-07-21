@@ -1,0 +1,12 @@
+{
+  "seq": 1256060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lassitude physique",
+      "fatigue",
+      "sentiment d'épuisement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

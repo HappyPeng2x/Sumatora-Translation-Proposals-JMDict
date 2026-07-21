@@ -1,0 +1,16 @@
+{
+  "seq": 1255340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épanchement de sang",
+      "jaillissement de sang"
+    ],
+    [
+      "chaleur du sang",
+      "ardeur",
+      "enthousiasme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

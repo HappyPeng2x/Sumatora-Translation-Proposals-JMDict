@@ -1,0 +1,15 @@
+{
+  "seq": 1259080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "protection pour l'épaule",
+      "renfort d'épaule",
+      "épaulette"
+    ],
+    [
+      "manteau de lit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

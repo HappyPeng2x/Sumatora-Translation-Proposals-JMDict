@@ -1,0 +1,25 @@
+{
+  "seq": 1251000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système",
+      "lignée",
+      "groupe"
+    ],
+    [
+      "corollaire"
+    ],
+    [
+      "système (séquence de strates géologiques correspondant à une période donnée)"
+    ],
+    [
+      "série (en taxonomie)"
+    ],
+    [
+      "-type",
+      "-ish"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1251150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "études de gestion",
+      "administration d'entreprise (étude de)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

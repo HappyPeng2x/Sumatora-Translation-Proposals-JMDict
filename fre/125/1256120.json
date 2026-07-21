@@ -1,0 +1,11 @@
+{
+  "seq": 1256120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médicament pour le système digestif",
+      "remède qui stimule l'estomac"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1256420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écrivain prolifique",
+      "auteur productif",
+      "scribe efficace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

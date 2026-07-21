@@ -1,0 +1,12 @@
+{
+  "seq": 1256430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marcheur aguerri",
+      "promeneur régulier",
+      "personne qui marche souvent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

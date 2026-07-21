@@ -1,0 +1,18 @@
+{
+  "seq": 1258550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "société de recherche"
+    ],
+    [
+      "classe de révision",
+      "cours de révision"
+    ],
+    [
+      "séminaire",
+      "colloque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

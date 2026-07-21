@@ -1,0 +1,12 @@
+{
+  "seq": 1256210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen médical",
+      "examen de santé",
+      "bilan de santé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

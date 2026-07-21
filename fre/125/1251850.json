@@ -1,0 +1,13 @@
+{
+  "seq": 1251850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mère paspar",
+      "mère par alliance",
+      "mère par mariage",
+      "mère paspar de l'époux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

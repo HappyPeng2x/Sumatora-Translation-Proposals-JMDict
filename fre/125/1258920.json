@@ -1,0 +1,11 @@
+{
+  "seq": 1258920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résident d'une préfecture",
+      "citoyen d'une préfecture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

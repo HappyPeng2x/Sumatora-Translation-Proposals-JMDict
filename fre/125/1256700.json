@@ -1,0 +1,11 @@
+{
+  "seq": 1256700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exercer un second métier",
+      "avoir une deuxième activité professionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

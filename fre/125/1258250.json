@@ -1,0 +1,15 @@
+{
+  "seq": 1258250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remorqueur",
+      "véhicule tracteur"
+    ],
+    [
+      "force motrice",
+      "rôle directeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

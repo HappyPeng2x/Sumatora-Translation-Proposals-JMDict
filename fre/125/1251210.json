@@ -1,0 +1,12 @@
+{
+  "seq": 1251210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le personnel de direction",
+      "la direction",
+      "les cadres supérieurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

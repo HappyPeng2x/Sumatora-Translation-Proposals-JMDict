@@ -1,0 +1,16 @@
+{
+  "seq": 1259040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épaules",
+      "corps"
+    ],
+    [
+      "honneur",
+      "prestige",
+      "dignité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

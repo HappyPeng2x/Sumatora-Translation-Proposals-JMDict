@@ -1,0 +1,15 @@
+{
+  "seq": 1253890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manquer (de faire)",
+      "ne pas réussir (à faire)"
+    ],
+    [
+      "ne pas avoir (souvent dans la négation)",
+      "faire sans (souvent dans la négation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

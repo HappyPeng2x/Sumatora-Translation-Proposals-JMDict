@@ -1,0 +1,11 @@
+{
+  "seq": 1255570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contrat mensuel",
+      "paiement mensuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

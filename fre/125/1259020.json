@@ -1,0 +1,15 @@
+{
+  "seq": 1259020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "porter quelqu'un sur ses épaules",
+      "transporter quelqu'un en le portant sur les épaules"
+    ],
+    [
+      "roue des épaules (judo)",
+      "roue située sur les épaules (technique de judo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

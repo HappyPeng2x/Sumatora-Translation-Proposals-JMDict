@@ -1,0 +1,19 @@
+{
+  "seq": 1250900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agence d'entremetteurs pour le recrutement de domestiques et l'arrangement de mariages (époque d'Edo)",
+      "médiateur",
+      "entremetteur"
+    ],
+    [
+      "flatterie",
+      "flattereur"
+    ],
+    [
+      "ère Keian (1648.2.15-1652.9.18)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1253850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grand homme",
+      "héros",
+      "personne exceptionnelle",
+      "personne distinguée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

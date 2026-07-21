@@ -1,0 +1,11 @@
+{
+  "seq": 1253470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discours sur le théâtre",
+      "conversation sur les pièces de théâtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

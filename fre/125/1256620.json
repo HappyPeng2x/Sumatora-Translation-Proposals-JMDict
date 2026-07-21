@@ -1,0 +1,11 @@
+{
+  "seq": 1256620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudier simultanément deux matières",
+      "étudier en parallèle deux disciplines"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

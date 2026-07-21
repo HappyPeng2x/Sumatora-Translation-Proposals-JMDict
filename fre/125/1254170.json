@@ -1,0 +1,13 @@
+{
+  "seq": 1254170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phrase conventionnelle",
+      "expression usuelle",
+      "cliché",
+      "formule habituelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

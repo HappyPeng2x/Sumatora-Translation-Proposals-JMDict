@@ -1,0 +1,17 @@
+{
+  "seq": 1254640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être lié",
+      "être relié",
+      "être connecté"
+    ],
+    [
+      "aboutir à",
+      "conduire à",
+      "entraîner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

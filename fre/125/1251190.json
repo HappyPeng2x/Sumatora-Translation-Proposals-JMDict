@@ -1,0 +1,11 @@
+{
+  "seq": 1251190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ressource de gestion",
+      "ressources de gestion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

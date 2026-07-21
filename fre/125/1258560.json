@@ -1,0 +1,11 @@
+{
+  "seq": 1258560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recherche et développement",
+      "R&D"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1254510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trou",
+      "cavité"
+    ],
+    [
+      "nids de poule",
+      "trou dans une route"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

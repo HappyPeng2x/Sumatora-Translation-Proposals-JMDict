@@ -1,0 +1,11 @@
+{
+  "seq": 1254820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cadeau de mariage",
+      "présents donnés en l'honneur d'un mariage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

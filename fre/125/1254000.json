@@ -1,0 +1,15 @@
+{
+  "seq": 1254000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élimination",
+      "omission"
+    ],
+    [
+      "désir intense",
+      "concupiscence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

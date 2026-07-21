@@ -1,0 +1,12 @@
+{
+  "seq": 1254580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous-sol",
+      "cave",
+      "trou dans le sol"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

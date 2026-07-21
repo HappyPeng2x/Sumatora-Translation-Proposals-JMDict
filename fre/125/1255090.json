@@ -1,0 +1,14 @@
+{
+  "seq": 1255090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans cœur",
+      "insensible",
+      "inhumain",
+      "impitoyable",
+      "sans compassion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

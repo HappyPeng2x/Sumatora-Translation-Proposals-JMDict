@@ -1,0 +1,11 @@
+{
+  "seq": 1251230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réorganisation de la gestion",
+      "restructuration de la gestion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

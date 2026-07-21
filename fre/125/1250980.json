@@ -1,0 +1,20 @@
+{
+  "seq": 1250980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "butte",
+      "crête de terre entre les rizières"
+    ],
+    [
+      "crête",
+      "butte entre les sillons d'une terrasse"
+    ],
+    [
+      "chemin",
+      "passage entre les rizières",
+      "chemin de terre entre les rizières"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

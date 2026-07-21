@@ -1,0 +1,16 @@
+{
+  "seq": 1257180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ferme (marché)",
+      "bullish"
+    ],
+    [
+      "solide (ventes, économie, etc.)",
+      "stable",
+      "sain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

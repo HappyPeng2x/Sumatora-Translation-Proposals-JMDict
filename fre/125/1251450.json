@@ -1,0 +1,11 @@
+{
+  "seq": 1251450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "économie et société",
+      "aspects économiques de la société"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

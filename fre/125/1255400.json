@@ -1,0 +1,11 @@
+{
+  "seq": 1255400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladie génétique liée au sang, héritée de manière récessive liée au chromosome X",
+      "maladie héréditaire du sang, causée par une carence en facteur de coagulation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

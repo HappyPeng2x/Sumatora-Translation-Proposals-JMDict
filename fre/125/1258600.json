@@ -1,0 +1,11 @@
+{
+  "seq": 1258600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudiant en recherche",
+      "étudiant de troisième cycle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

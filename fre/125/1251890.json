@@ -1,0 +1,42 @@
+{
+  "seq": 1251890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lien",
+      "connexion",
+      "liaison",
+      "contact"
+    ],
+    [
+      "remplacement provisoire",
+      "solution temporaire",
+      "remplisseur"
+    ],
+    [
+      "épaississant",
+      "épaississement",
+      "liaison (cuisine)"
+    ],
+    [
+      "hésitation",
+      "tergiversation",
+      "palinodie"
+    ],
+    [
+      "combinaison",
+      "blouson de travail",
+      "costume de travail"
+    ],
+    [
+      "intervalle",
+      "entracte",
+      "pause"
+    ],
+    [
+      "liaison",
+      "connexion (jeu de go)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

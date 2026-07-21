@@ -1,0 +1,19 @@
+{
+  "seq": 1257020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit",
+      "agitation",
+      "désordre",
+      "tumulte"
+    ],
+    [
+      "bruyant",
+      "agité",
+      "bruyant",
+      "en désordre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

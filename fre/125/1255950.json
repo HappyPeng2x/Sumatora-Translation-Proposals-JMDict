@@ -1,0 +1,13 @@
+{
+  "seq": 1255950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nombre d'incidents",
+      "nombre d'éléments",
+      "nombre de messages",
+      "nombre de comptes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

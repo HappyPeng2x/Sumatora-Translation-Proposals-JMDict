@@ -1,0 +1,18 @@
+{
+  "seq": 1252690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parlant beaucoup",
+      "avare de paroles",
+      "paroles légères",
+      "discours frivole"
+    ],
+    [
+      "remarque spirituelle",
+      "plaisanterie légère",
+      "parole amusante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

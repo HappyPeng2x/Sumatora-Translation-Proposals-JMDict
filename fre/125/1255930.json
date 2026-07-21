@@ -1,0 +1,28 @@
+{
+  "seq": 1255930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "celui-ci",
+      "celle-ci",
+      "cela",
+      "le dit",
+      "la dite",
+      "ludit",
+      "celui-là",
+      "celle-là",
+      "cela",
+      "le dit",
+      "la dite",
+      "ludit"
+    ],
+    [
+      "le commun",
+      "l'habituel",
+      "le courant",
+      "le standard",
+      "le normal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

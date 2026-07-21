@@ -1,0 +1,13 @@
+{
+  "seq": 1254860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concentration",
+      "rassemblement",
+      "mobilisation",
+      "organisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

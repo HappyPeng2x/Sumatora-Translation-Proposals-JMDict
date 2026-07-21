@@ -1,0 +1,13 @@
+{
+  "seq": 1255440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "différence flagrante",
+      "opposition nette",
+      "contraste marqué",
+      "deux choses apparemment similaires mais fondamentalement différentes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1255380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parent proche",
+      "membre de la famille",
+      "chair et sang"
+    ],
+    [
+      "chair et sang",
+      "corps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

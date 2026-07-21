@@ -1,0 +1,14 @@
+{
+  "seq": 1252200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inclure (un coût) dans un calcul total",
+      "attribuer (une somme d'argent)",
+      "enregistrer",
+      "allouer",
+      "compter (un montant) dans un total"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

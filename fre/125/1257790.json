@@ -1,0 +1,12 @@
+{
+  "seq": 1257790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parler sans cesse",
+      "râler sans arrêt",
+      "ne pas cesser de parler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

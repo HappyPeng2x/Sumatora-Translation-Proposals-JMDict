@@ -1,0 +1,11 @@
+{
+  "seq": 1252500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "renforcement de la sécurité",
+      "renforcement des mesures de sécurité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

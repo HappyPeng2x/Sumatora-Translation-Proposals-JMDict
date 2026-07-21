@@ -1,0 +1,11 @@
+{
+  "seq": 1253940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "absence scolaire",
+      "manque de cours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1255750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement de mois",
+      "passage d'un mois à l'autre"
+    ],
+    [
+      "changement mensuel",
+      "remplacement mensuel",
+      "qui change chaque mois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

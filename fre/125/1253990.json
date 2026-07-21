@@ -1,0 +1,15 @@
+{
+  "seq": 1253990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "omission d'un caractère",
+      "caractère omis",
+      "espace vide typographique"
+    ],
+    [
+      "insertion d'espaces vides avant et après les noms de dignitaires (en signe de respect)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

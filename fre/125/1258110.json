@@ -1,0 +1,16 @@
+{
+  "seq": 1258110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "incarnation (du Bouddha ou d'un bodhisattva)",
+      "avatar"
+    ],
+    [
+      "incarnation",
+      "personnification",
+      "embodiment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

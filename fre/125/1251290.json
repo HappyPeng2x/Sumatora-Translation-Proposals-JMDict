@@ -1,0 +1,11 @@
+{
+  "seq": 1251290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expérimenté",
+      "ayant déjà vécu une expérience (avec quelque chose)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

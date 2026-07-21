@@ -1,0 +1,11 @@
+{
+  "seq": 1251580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frais courants",
+      "coûts d'exploitation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1255960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sujet",
+      "titre"
+    ],
+    [
+      "sujet (d'un courriel)",
+      "ligne du sujet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1256500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combiner avec",
+      "servir à la fois en tant que",
+      "occuper un poste supplémentaire",
+      "utiliser en même temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

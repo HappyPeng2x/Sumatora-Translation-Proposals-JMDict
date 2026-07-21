@@ -1,0 +1,12 @@
+{
+  "seq": 1251360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monde économique",
+      "milieu financier",
+      "communauté d'affaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

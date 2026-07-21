@@ -1,0 +1,12 @@
+{
+  "seq": 1256020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne économe",
+      "personne frugale",
+      "ménageur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1255760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'un mois ou plus âgé",
+      "d'âge supérieur à un mois"
+    ],
+    [
+      "numéros anciens d'un magazine mensuel",
+      "numéros arriérés d'une publication mensuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

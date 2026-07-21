@@ -1,0 +1,13 @@
+{
+  "seq": 1251480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conditions économiques",
+      "situation économique",
+      "état financier",
+      "circonstances financières"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,28 @@
+{
+  "seq": 1255320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parent",
+      "frère",
+      "sœur",
+      "oncle",
+      "tante",
+      "cousin",
+      "cousine",
+      "neveu",
+      "nièce",
+      "arrière-grand-parent",
+      "arrière-grand-parent",
+      "arrière-grand-père",
+      "arrière-grand-mère",
+      "arrière-grand-oncle",
+      "arrière-grand-tante",
+      "arrière-grand-cousin",
+      "arrière-grand-cousine",
+      "arrière-neveu",
+      "arrière-nièce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

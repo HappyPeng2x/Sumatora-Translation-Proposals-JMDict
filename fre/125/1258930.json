@@ -1,0 +1,12 @@
+{
+  "seq": 1258930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hall de réunion préfectoral",
+      "centre communautaire",
+      "salle des fêtes municipale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

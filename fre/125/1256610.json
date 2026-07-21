@@ -1,0 +1,15 @@
+{
+  "seq": 1256610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travailler deux fois plus dur",
+      "travailler jour et nuit"
+    ],
+    [
+      "faire simultanément",
+      "faire en même temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

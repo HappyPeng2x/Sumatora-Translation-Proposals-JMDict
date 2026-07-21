@@ -1,0 +1,23 @@
+{
+  "seq": 1251920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne tracée",
+      "trait de règle"
+    ],
+    [
+      "diagramme",
+      "graphique"
+    ],
+    [
+      "pli",
+      "marque"
+    ],
+    [
+      "frontière",
+      "limite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1255460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lune",
+      "pleine lune"
+    ],
+    [
+      "anneau en forme de lune",
+      "cercle inspiré de la lune"
+    ],
+    [
+      "anneau décoratif sur la poitrine d'une étole de moine"
+    ],
+    [
+      "trivet en paille"
+    ],
+    [
+      "patch blanc en forme de croissant sur la poitrine d'un ours noir asiatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1254590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le fait de combler un trou",
+      "action de remplir un trou"
+    ],
+    [
+      "remplacement temporaire",
+      "élément de remplissage",
+      "article de substitution"
+    ],
+    [
+      "compensation",
+      "récupération",
+      "remboursement"
+    ],
+    [
+      "exercice de type 'compléter les blancs'",
+      "test de type 'cloze'"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

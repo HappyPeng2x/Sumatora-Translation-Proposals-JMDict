@@ -1,0 +1,15 @@
+{
+  "seq": 1252800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vêtements légers",
+      "se vêtir légèrement"
+    ],
+    [
+      "équipement léger",
+      "armes légères"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

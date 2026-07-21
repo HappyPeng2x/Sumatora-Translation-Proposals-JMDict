@@ -1,0 +1,11 @@
+{
+  "seq": 1253160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "style de performance",
+      "style d'interprétation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

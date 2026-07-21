@@ -1,0 +1,11 @@
+{
+  "seq": 1252770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séisme mineur",
+      "tremblement de terre léger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

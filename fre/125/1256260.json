@@ -1,0 +1,11 @@
+{
+  "seq": 1256260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise santé",
+      "santé défaillante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

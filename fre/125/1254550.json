@@ -1,0 +1,19 @@
+{
+  "seq": 1254550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hulot",
+      "mustélidé"
+    ],
+    [
+      "hulot d'Europe",
+      "mustélidé"
+    ],
+    [
+      "château anaguma",
+      "ouverture défensive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

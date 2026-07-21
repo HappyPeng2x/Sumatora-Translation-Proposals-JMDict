@@ -1,0 +1,12 @@
+{
+  "seq": 1251590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gouvernance",
+      "administration",
+      "gestion des affaires d'État"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

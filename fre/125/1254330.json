@@ -1,0 +1,12 @@
+{
+  "seq": 1254330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match de championnat",
+      "match des finales",
+      "manche décisive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

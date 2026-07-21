@@ -1,0 +1,13 @@
+{
+  "seq": 1254970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie traditionnelle japonaise de fiançailles impliquant l'échange de cadeaux rituels entre les familles"
+    ],
+    [
+      "cadeaux rituels de fiançailles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

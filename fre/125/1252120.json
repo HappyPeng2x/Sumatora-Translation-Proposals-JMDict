@@ -1,0 +1,11 @@
+{
+  "seq": 1252120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étape de planification",
+      "phase de planification"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

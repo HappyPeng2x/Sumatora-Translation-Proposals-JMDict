@@ -1,0 +1,15 @@
+{
+  "seq": 1252890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "essence diesel",
+      "carburant diesel",
+      "huile de gasoil"
+    ],
+    [
+      "huile légère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

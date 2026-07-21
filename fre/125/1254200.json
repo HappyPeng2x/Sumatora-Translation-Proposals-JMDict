@@ -1,0 +1,18 @@
+{
+  "seq": 1254200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décideur",
+      "personne qui décide"
+    ],
+    [
+      "facteur décisif",
+      "dernière carte",
+      "élément clé",
+      "coup décisif",
+      "preuve concluante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

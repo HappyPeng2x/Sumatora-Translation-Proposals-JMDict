@@ -1,0 +1,24 @@
+{
+  "seq": 1258290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frein",
+      "contenu",
+      "restrainte",
+      "modération",
+      "dissuasion"
+    ],
+    [
+      "contenu",
+      "opération de diversion",
+      "feinte",
+      "démonstration de force"
+    ],
+    [
+      "lancer de pickoff",
+      "action de maintenir un coureur sur la base"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

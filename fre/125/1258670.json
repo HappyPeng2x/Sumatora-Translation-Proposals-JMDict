@@ -1,0 +1,12 @@
+{
+  "seq": 1258670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stagiaire",
+      "apprenti",
+      "stagiaire technique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

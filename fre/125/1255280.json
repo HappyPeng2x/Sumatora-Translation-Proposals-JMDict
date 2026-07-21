@@ -1,0 +1,16 @@
+{
+  "seq": 1255280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "teint",
+      "couleur",
+      "apparence générale de la peau"
+    ],
+    [
+      "rouge sang",
+      "d'un rouge vif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

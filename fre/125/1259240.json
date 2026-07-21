@@ -1,0 +1,19 @@
+{
+  "seq": 1259240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spectacle historique du Japon",
+      "attraction typique de l'époque d'Edo et de Meiji",
+      "exposition itinérante du passé"
+    ],
+    [
+      "spectacle",
+      "exposition",
+      "attraction",
+      "monstration",
+      "freak show"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

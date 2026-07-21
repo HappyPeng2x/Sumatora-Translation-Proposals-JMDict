@@ -1,0 +1,22 @@
+{
+  "seq": 1256100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "têtu",
+      "décidé",
+      "obstiné",
+      "résolu",
+      "dur",
+      "tenace"
+    ],
+    [
+      "sévèrement",
+      "lourdement",
+      "fortement",
+      "beaucoup",
+      "énormément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

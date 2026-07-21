@@ -1,0 +1,13 @@
+{
+  "seq": 1258170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrogant",
+      "dominateur",
+      "autoritaire",
+      "tyrannique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

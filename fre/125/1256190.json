@@ -1,0 +1,11 @@
+{
+  "seq": 1256190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne en bonne santé",
+      "personne saine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

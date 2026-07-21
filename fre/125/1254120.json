@@ -1,0 +1,11 @@
+{
+  "seq": 1254120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manque de politesse",
+      "omission de courtoisie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

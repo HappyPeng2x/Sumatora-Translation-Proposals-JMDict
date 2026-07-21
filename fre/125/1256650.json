@@ -1,0 +1,18 @@
+{
+  "seq": 1256650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "utilisation combinée",
+      "combinaison",
+      "usage double",
+      "double fonction"
+    ],
+    [
+      "occuper deux postes",
+      "tenir deux fonctions",
+      "démarche double"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

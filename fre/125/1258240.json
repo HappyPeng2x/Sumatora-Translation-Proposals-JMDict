@@ -1,0 +1,18 @@
+{
+  "seq": 1258240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traction",
+      "remorquage",
+      "attelage",
+      "traction (physique)"
+    ],
+    [
+      "mouvement",
+      "dynamisme",
+      "croissance (économique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1252260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mesure",
+      "poids",
+      "évaluation quantitative"
+    ],
+    [
+      "métrique",
+      "fonction de distance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

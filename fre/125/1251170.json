@@ -1,0 +1,11 @@
+{
+  "seq": 1251170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "base de gestion",
+      "fondement d'une entreprise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

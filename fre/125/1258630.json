@@ -1,0 +1,12 @@
+{
+  "seq": 1258630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémoire de recherche",
+      "étude",
+      "thèse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
