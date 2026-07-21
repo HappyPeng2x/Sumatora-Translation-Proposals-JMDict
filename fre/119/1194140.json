@@ -1,0 +1,17 @@
+{
+  "seq": 1194140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dans le feu",
+      "dans les flammes"
+    ],
+    [
+      "brûler (quelque chose)",
+      "jeter dans le feu",
+      "mettre au feu",
+      "mettre en flammes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1188700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quelle mois",
+      "quelle mois (interrogatif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

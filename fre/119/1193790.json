@@ -1,0 +1,18 @@
+{
+  "seq": 1193790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feu",
+      "trace de feu",
+      "chaleur du feu"
+    ],
+    [
+      "intensité du feu"
+    ],
+    [
+      "cause d'un feu (allumette, briquet, étincelle, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

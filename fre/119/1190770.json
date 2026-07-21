@@ -1,0 +1,11 @@
+{
+  "seq": 1190770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe abélien",
+      "groupe commutatif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

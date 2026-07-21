@@ -1,0 +1,13 @@
+{
+  "seq": 1191440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "montagne en été"
+    ],
+    [
+      "montagne fréquemment escaladée en été"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

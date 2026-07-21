@@ -1,0 +1,12 @@
+{
+  "seq": 1193960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "durée de combustion",
+      "capacité à brûler longtemps",
+      "qualités de tenue du feu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

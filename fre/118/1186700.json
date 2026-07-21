@@ -1,0 +1,12 @@
+{
+  "seq": 1186700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "découvrir la vraie nature de quelqu'un",
+      "reveler l'essence réelle de quelqu'un",
+      "mettre à nu l'identité secrète de quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

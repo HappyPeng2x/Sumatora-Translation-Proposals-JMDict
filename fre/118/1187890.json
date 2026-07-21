@@ -1,0 +1,11 @@
+{
+  "seq": 1187890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme hypothétique",
+      "forme conditionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

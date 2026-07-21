@@ -1,0 +1,11 @@
+{
+  "seq": 1188110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écriture mixte",
+      "écriture combinant kanji et kana"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

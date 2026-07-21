@@ -1,0 +1,11 @@
+{
+  "seq": 1193230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "style poétique",
+      "règles de la poésie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

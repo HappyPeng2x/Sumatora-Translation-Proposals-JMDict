@@ -1,0 +1,18 @@
+{
+  "seq": 1191130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "propriété",
+      "justesse",
+      "légitimité",
+      "opportunité",
+      "possibilité"
+    ],
+    [
+      "pour et contre",
+      "avis favorables et défavorables"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

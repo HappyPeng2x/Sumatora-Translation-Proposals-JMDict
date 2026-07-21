@@ -1,0 +1,11 @@
+{
+  "seq": 1186500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classes inférieures",
+      "peuple commun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

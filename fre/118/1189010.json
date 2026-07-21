@@ -1,0 +1,17 @@
+{
+  "seq": 1189010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans but",
+      "de manière désordonnée",
+      "de façon erratique"
+    ],
+    [
+      "de quelque manière que ce soit",
+      "d'une certaine façon",
+      "d'une manière indéterminée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

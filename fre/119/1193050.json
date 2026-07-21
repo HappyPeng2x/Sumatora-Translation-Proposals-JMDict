@@ -1,0 +1,17 @@
+{
+  "seq": 1193050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enveloppe",
+      "coque",
+      "périanthe"
+    ],
+    [
+      "écorce",
+      "peau",
+      "zeste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

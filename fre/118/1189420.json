@@ -1,0 +1,12 @@
+{
+  "seq": 1189420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pour quel motif",
+      "pour quelle raison",
+      "pour quel usage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

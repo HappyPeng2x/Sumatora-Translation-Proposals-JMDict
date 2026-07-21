@@ -1,0 +1,15 @@
+{
+  "seq": 1186070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "route non autoroutière",
+      "route non payante",
+      "route locale"
+    ],
+    [
+      "route ombragée par des arbres, une montagne, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

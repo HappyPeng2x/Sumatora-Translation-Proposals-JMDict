@@ -1,0 +1,11 @@
+{
+  "seq": 1190210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commerce de traitement",
+      "commerce de transformation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

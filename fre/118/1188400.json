@@ -1,0 +1,18 @@
+{
+  "seq": 1188400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facile",
+      "insignifiant",
+      "inoffensif",
+      "indifférent",
+      "rien"
+    ],
+    [
+      "nul de ce genre",
+      "pas du tout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

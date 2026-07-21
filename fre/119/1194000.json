@@ -1,0 +1,11 @@
+{
+  "seq": 1194000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lit de feu",
+      "grille de feu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

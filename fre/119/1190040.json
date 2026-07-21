@@ -1,0 +1,13 @@
+{
+  "seq": 1190040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, vs, arch] le couronnement d'un garçon avec un chapeau traditionnel lors d'une cérémonie de passage à l'âge adulte pour la première fois"
+    ],
+    [
+      "[n, arch] personne chargée de couronner le garçon lors d'une cérémonie de passage à l'âge adulte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

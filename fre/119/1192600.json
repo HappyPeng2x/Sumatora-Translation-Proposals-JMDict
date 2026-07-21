@@ -1,0 +1,14 @@
+{
+  "seq": 1192600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "très peu",
+      "très faible",
+      "insuffisant",
+      "modeste",
+      "mince"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

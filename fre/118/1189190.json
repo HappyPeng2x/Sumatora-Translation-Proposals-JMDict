@@ -1,0 +1,13 @@
+{
+  "seq": 1189190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autant de fois que nécessaire",
+      "aussi souvent que nécessaire",
+      "à volonté",
+      "sans limite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1190100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rhéostat",
+      "potentiomètre",
+      "résistor ajustable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

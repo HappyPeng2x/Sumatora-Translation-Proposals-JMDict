@@ -1,0 +1,11 @@
+{
+  "seq": 1186770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "symboles chimiques",
+      "symboles des éléments chimiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

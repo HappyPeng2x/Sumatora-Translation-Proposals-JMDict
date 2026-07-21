@@ -1,0 +1,17 @@
+{
+  "seq": 1187080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison",
+      "ancienne",
+      "où",
+      "les",
+      "dames",
+      "nobles",
+      "se",
+      "maquillaient"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

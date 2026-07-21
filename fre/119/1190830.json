@@ -1,0 +1,19 @@
+{
+  "seq": 1190830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "visualisation",
+      "de données, de résultats, etc."
+    ],
+    [
+      "rendre visible",
+      "quelque chose qui n'était pas visible auparavant"
+    ],
+    [
+      "enregistrement",
+      "d'une interrogatoire de police"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

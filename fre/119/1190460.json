@@ -1,0 +1,14 @@
+{
+  "seq": 1190460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre",
+      "participant",
+      "adhérent",
+      "abonné (téléphone)",
+      "assuré (assurance)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

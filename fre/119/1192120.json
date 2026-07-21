@@ -1,0 +1,11 @@
+{
+  "seq": 1192120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réputation familiale",
+      "honneur de la famille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

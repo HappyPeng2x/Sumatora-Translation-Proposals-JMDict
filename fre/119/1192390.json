@@ -1,0 +1,11 @@
+{
+  "seq": 1192390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lapin domestique",
+      "lapin de compagnie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

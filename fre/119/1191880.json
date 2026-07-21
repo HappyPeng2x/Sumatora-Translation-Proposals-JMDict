@@ -1,0 +1,11 @@
+{
+  "seq": 1191880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin de meubles",
+      "vendeur de meubles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

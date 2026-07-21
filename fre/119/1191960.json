@@ -1,0 +1,15 @@
+{
+  "seq": 1191960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison en location",
+      "logement à louer"
+    ],
+    [
+      "construction d'une maison",
+      "maison construite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

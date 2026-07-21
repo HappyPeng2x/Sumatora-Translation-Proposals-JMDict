@@ -1,0 +1,11 @@
+{
+  "seq": 1193380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le monde de la poésie",
+      "les cercles poétiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

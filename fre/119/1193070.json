@@ -1,0 +1,13 @@
+{
+  "seq": 1193070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épicerie spécialisée dans les fruits",
+      "vendeur de fruits",
+      "fruiterie",
+      "vendeur de fruits et légumes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

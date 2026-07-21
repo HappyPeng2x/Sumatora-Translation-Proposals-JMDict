@@ -1,0 +1,15 @@
+{
+  "seq": 1192060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "métier familial",
+      "affaire familiale"
+    ],
+    [
+      "intendant",
+      "steward"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

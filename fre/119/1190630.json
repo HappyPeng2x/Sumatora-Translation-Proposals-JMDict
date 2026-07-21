@@ -1,0 +1,19 @@
+{
+  "seq": 1190630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épices",
+      "condiments",
+      "assaisonnement"
+    ],
+    [
+      "adjoint (en médecine chinoise)",
+      "ajout d'un adjoint"
+    ],
+    [
+      "viande, poisson, légumes, etc. ajoutés au riz ou aux udon (par exemple pour faire le gomoku meshi)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

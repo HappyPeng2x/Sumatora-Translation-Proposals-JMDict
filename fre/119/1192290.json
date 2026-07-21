@@ -1,0 +1,12 @@
+{
+  "seq": 1192290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négliger sa famille",
+      "ne pas s'intéresser à sa famille",
+      "ne pas se soucier de sa famille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

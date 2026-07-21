@@ -1,0 +1,12 @@
+{
+  "seq": 1192020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maître d'hôtel",
+      "valet de chambre",
+      "serviteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

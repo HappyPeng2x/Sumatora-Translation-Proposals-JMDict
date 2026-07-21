@@ -1,0 +1,17 @@
+{
+  "seq": 1190570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assaisonnement",
+      "saveur",
+      "condiment"
+    ],
+    [
+      "ajout",
+      "inclusion",
+      "prise en compte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

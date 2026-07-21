@@ -1,0 +1,11 @@
+{
+  "seq": 1191800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "héritage intellectuel",
+      "savoir familial transmis de génération en génération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1190200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "produits transformés",
+      "produits finis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

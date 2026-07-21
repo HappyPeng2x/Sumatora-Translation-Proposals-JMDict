@@ -1,0 +1,31 @@
+{
+  "seq": 1189050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nulle part",
+      "pour toujours",
+      "jusqu'aux confins de la terre"
+    ],
+    [
+      "même dans les pires circonstances",
+      "quelles que soient les difficultés",
+      "jusqu'au bout",
+      "jusqu'à l'extrême"
+    ],
+    [
+      "obstinément",
+      "tenacement"
+    ],
+    [
+      "dans tous les aspects",
+      "sur tous les points"
+    ],
+    [
+      "profondément",
+      "en détail",
+      "exhaustivement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

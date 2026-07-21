@@ -1,0 +1,11 @@
+{
+  "seq": 1188650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien de fois",
+      "combien de fois (interrogatif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

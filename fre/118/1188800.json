@@ -1,0 +1,12 @@
+{
+  "seq": 1188800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "depuis quand",
+      "à partir de quand",
+      "depuis combien de temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

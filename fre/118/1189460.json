@@ -1,0 +1,15 @@
+{
+  "seq": 1189460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bois de galle",
+      "bois de galle (Taxus cuspidata var. nana)"
+    ],
+    [
+      "parfum de bois de galle",
+      "encens de bois de galle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

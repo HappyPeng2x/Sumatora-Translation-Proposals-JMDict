@@ -1,0 +1,20 @@
+{
+  "seq": 1192250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toute la famille",
+      "tous les membres de la famille"
+    ],
+    [
+      "partout dans la maison",
+      "à travers la maison"
+    ],
+    [
+      "vassal d'un daimyo",
+      "domaine féodal",
+      "clan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

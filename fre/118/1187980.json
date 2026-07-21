@@ -1,0 +1,11 @@
+{
+  "seq": 1187980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paiement de taxe contesté",
+      "paiement de taxe effectué en protestant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

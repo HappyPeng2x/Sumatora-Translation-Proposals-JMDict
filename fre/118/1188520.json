@@ -1,0 +1,13 @@
+{
+  "seq": 1188520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cela et cela",
+      "cela ou cela",
+      "diverses choses",
+      "une chose ou une autre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1193980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charbons ardents",
+      "braises"
+    ],
+    [
+      "cause",
+      "origine",
+      "déclencheur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

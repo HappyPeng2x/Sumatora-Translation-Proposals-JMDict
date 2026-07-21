@@ -1,0 +1,15 @@
+{
+  "seq": 1193300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recueil de waka",
+      "anthologie de poèmes waka"
+    ],
+    [
+      "livre de chansons",
+      "recueil de chants"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

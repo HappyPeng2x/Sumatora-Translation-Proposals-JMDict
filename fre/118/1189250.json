@@ -1,0 +1,14 @@
+{
+  "seq": 1189250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien d'années",
+      "combien de temps"
+    ],
+    [
+      "quelle année"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

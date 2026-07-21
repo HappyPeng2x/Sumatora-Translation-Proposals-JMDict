@@ -1,0 +1,11 @@
+{
+  "seq": 1189450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre de contes de fées",
+      "livre de contes traditionnels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

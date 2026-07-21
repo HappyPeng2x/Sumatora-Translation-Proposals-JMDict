@@ -1,0 +1,16 @@
+{
+  "seq": 1191840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise familiale",
+      "métier familial"
+    ],
+    [
+      "métier",
+      "profession",
+      "travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

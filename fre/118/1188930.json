@@ -1,0 +1,15 @@
+{
+  "seq": 1188930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à tout moment",
+      "n'importe quand"
+    ],
+    [
+      "quand",
+      "à quel moment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1188340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "qu'est-ce que",
+      "quelle",
+      "que",
+      "qu'"
+    ],
+    [
+      "ce que",
+      "la manière dont",
+      "l'aspect de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

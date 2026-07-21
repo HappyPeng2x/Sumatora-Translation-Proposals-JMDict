@@ -1,0 +1,11 @@
+{
+  "seq": 1194040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intensité du feu",
+      "force des flammes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1189410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne importante",
+      "quelqu'un (souvent utilisé de manière sarcastique)"
+    ],
+    [
+      "absolument",
+      "certainement",
+      "sûrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

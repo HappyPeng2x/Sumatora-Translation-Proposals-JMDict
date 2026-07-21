@@ -1,0 +1,14 @@
+{
+  "seq": 1188600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nimporte lequel",
+      "tous",
+      "chaque",
+      "les deux",
+      "aucun (avec verbe négatif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

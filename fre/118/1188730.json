@@ -1,0 +1,12 @@
+{
+  "seq": 1188730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à quel âge",
+      "quelle est votre âge",
+      "combien d'années avez-vous"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

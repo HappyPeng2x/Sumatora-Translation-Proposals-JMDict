@@ -1,0 +1,11 @@
+{
+  "seq": 1192170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne ayant une famille",
+      "homme de famille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

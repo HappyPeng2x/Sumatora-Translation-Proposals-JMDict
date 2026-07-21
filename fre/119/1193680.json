@@ -1,0 +1,16 @@
+{
+  "seq": 1193680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flamme",
+      "incendie",
+      "feu"
+    ],
+    [
+      "attaque",
+      "agression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

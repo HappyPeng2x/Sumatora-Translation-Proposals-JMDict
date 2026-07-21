@@ -1,0 +1,15 @@
+{
+  "seq": 1189030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partout",
+      "n'importe où"
+    ],
+    [
+      "nulle part",
+      "rien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

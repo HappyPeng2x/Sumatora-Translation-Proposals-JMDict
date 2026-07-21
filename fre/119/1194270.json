@@ -1,0 +1,22 @@
+{
+  "seq": 1194270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu avec le feu",
+      "s'amuser avec le feu"
+    ],
+    [
+      "agir de manière dangereuse",
+      "prendre des risques",
+      "jouer avec le feu (fig.)"
+    ],
+    [
+      "flirter",
+      "faire des avances",
+      "avoir une aventure amoureuse",
+      "jouer avec quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1193080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chance",
+      "bonheur",
+      "prospérité"
+    ],
+    [
+      "rétribution",
+      "fruit de l'action",
+      "karma"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1188170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écriture composée uniquement de kana",
+      "texte écrit uniquement en kana"
+    ],
+    [
+      "lettre rédigée uniquement en kana"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

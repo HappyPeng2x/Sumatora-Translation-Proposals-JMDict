@@ -1,0 +1,11 @@
+{
+  "seq": 1192560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le chemin de la maison",
+      "le chemin du retour à la maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

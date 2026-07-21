@@ -1,0 +1,18 @@
+{
+  "seq": 1188390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "polyvalent",
+      "tous-panseurs",
+      "bricoleur",
+      "homme-ouvrier"
+    ],
+    [
+      "épicerie générale",
+      "magasin général",
+      "comptoir général"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

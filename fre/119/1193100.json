@@ -1,0 +1,12 @@
+{
+  "seq": 1193100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne très chanceuse",
+      "personne qui a de la chance",
+      "favori du hasard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

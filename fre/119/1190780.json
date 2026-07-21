@@ -1,0 +1,16 @@
+{
+  "seq": 1190780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réversible",
+      "capable de revenir à l'état initial"
+    ],
+    [
+      "invertible",
+      "qui peut être inversé",
+      "qui admet une inverse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

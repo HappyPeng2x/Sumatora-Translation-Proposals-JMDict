@@ -1,0 +1,11 @@
+{
+  "seq": 1193560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "makizushi au concombre",
+      "sushi au concombre enroulé dans du nori"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1191110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "verbe de possibilité",
+      "verbe exprimant la possibilité, dérivé de verbes en -u"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

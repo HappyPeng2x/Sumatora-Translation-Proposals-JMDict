@@ -1,0 +1,13 @@
+{
+  "seq": 1192830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accomplir",
+      "réussir à faire",
+      "parvenir à faire",
+      "terminer (après le radical de verbe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

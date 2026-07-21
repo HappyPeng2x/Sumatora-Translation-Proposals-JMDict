@@ -1,0 +1,15 @@
+{
+  "seq": 1189470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temple (surtout grand)",
+      "monastère"
+    ],
+    [
+      "édifice religieux",
+      "bâtiment de temple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

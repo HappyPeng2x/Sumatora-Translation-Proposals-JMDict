@@ -1,0 +1,12 @@
+{
+  "seq": 1192350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ménager",
+      "domestique",
+      "d'usage domestique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

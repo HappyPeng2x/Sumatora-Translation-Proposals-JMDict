@@ -1,0 +1,18 @@
+{
+  "seq": 1186740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changer (en)",
+      "transformer (en)",
+      "devenir",
+      "se transformer en"
+    ],
+    [
+      "influencer",
+      "affecter",
+      "faire changer d'avis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

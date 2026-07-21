@@ -1,0 +1,12 @@
+{
+  "seq": 1192720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "science et technologie",
+      "technologie",
+      "techniques scientifiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

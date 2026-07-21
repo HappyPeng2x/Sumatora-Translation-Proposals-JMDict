@@ -1,0 +1,16 @@
+{
+  "seq": 1188500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quelque chose",
+      "quelque chose de",
+      "un certain"
+    ],
+    [
+      "pour une raison quelconque",
+      "pour quelque raison que ce soit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

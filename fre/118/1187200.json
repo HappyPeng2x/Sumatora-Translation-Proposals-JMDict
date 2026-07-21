@@ -1,0 +1,15 @@
+{
+  "seq": 1187200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "naissance spontanée",
+      "naissance naturelle"
+    ],
+    [
+      "goblin",
+      "monstre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

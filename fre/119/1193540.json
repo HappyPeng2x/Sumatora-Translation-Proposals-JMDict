@@ -1,0 +1,21 @@
+{
+  "seq": 1193540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "créature mythique vivant dans l'eau",
+      "kappa"
+    ],
+    [
+      "excellent nageur",
+      "excellent plongeur"
+    ],
+    [
+      "concombre"
+    ],
+    [
+      "sushi au concombre enveloppé dans du nori"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

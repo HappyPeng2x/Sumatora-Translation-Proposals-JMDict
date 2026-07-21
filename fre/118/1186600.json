@@ -1,0 +1,11 @@
+{
+  "seq": 1186600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rosée tombant des feuilles ou des branches",
+      "rosée qui s'écoule des feuilles ou des branches"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

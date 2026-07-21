@@ -1,0 +1,15 @@
+{
+  "seq": 1193160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne aérienne de transport d'électricité",
+      "câblage aérien"
+    ],
+    [
+      "ligne aérienne (pour trains, tramways, etc.)",
+      "fil aérien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

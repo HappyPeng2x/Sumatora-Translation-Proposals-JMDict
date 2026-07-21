@@ -1,0 +1,12 @@
+{
+  "seq": 1188810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avant même que l'on s'en aperçoive",
+      "sans que l'on s'en rende compte",
+      "inaperçu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

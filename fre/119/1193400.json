@@ -1,0 +1,12 @@
+{
+  "seq": 1193400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monument sur lequel est gravé un waka",
+      "stèle portant un waka",
+      "mémoire funéraire gravé avec un waka"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

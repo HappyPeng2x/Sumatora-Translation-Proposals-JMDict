@@ -1,0 +1,15 @@
+{
+  "seq": 1190720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne doit pas",
+      "ne devrait pas",
+      "ne doit pas (à la fin de la phrase)"
+    ],
+    [
+      "ne peut pas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

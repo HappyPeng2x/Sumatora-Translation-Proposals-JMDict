@@ -1,0 +1,11 @@
+{
+  "seq": 1193800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'extension d'un feu",
+      "la propagation d'un incendie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

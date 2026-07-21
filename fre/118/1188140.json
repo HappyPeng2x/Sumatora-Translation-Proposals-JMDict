@@ -1,0 +1,11 @@
+{
+  "seq": 1188140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écriture en kana",
+      "écrit en kana"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

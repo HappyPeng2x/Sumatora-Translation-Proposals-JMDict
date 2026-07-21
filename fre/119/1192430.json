@@ -1,0 +1,11 @@
+{
+  "seq": 1192430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maître de maison",
+      "administrateur de maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

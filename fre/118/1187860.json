@@ -1,0 +1,15 @@
+{
+  "seq": 1187860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "petit livre relié en papier",
+      "livre broché"
+    ],
+    [
+      "brochure",
+      "tract"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

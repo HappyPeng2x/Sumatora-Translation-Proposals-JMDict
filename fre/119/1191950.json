@@ -1,0 +1,15 @@
+{
+  "seq": 1191950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "biens ménagers",
+      "affaires de maison"
+    ],
+    [
+      "patrimoine familial",
+      "biens de la famille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

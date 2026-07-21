@@ -1,0 +1,11 @@
+{
+  "seq": 1190450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit d'obtenir une ligne téléphonique",
+      "droit de souscription d'une ligne téléphonique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

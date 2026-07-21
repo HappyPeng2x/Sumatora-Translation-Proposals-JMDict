@@ -1,0 +1,11 @@
+{
+  "seq": 1189160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien de points",
+      "quelles sont les notes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

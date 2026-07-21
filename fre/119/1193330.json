@@ -1,0 +1,13 @@
+{
+  "seq": 1193330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poésie waka",
+      "état d'esprit propice à la composition de waka",
+      "compréhension profonde du waka",
+      "sens d'un poème waka"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

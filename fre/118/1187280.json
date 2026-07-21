@@ -1,0 +1,11 @@
+{
+  "seq": 1187280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom, bouddhisme",
+      "chose sans substance, existant uniquement en nom"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

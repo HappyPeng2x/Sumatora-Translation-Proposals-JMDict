@@ -1,0 +1,13 @@
+{
+  "seq": 1193440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu souvent mentionné dans les poèmes waka"
+    ],
+    [
+      "épithètes répétées fréquemment dans la poésie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

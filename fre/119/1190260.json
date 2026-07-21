@@ -1,0 +1,15 @@
+{
+  "seq": 1190260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prière (pour éloigner le malheur, la maladie, etc.)",
+      "incantation",
+      "guérison par la foi"
+    ],
+    [
+      "adhisthana (bénédiction d'un bouddha ou bodhisattva)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

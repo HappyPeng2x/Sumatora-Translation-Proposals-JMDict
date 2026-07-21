@@ -1,0 +1,11 @@
+{
+  "seq": 1187840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signer en tant que témoin",
+      "apposer une signature initiale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

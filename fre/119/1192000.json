@@ -1,0 +1,10 @@
+{
+  "seq": 1192000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poèmes waka recueillis (d'un seul poète)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

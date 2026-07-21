@@ -1,0 +1,11 @@
+{
+  "seq": 1190320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ajout d'eau",
+      "dilution avec de l'eau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

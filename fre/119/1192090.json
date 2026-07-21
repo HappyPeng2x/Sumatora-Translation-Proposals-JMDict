@@ -1,0 +1,12 @@
+{
+  "seq": 1192090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre de la famille",
+      "occupant d'une maison",
+      "membre du ménage (y compris les domestiques)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

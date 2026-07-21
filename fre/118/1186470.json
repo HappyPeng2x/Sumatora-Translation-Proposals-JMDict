@@ -1,0 +1,15 @@
+{
+  "seq": 1186470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démissionner (d'un poste public)",
+      "abdiquer (d'un poste public)"
+    ],
+    [
+      "sortir du pouvoir (d'un parti)",
+      "passer en opposition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

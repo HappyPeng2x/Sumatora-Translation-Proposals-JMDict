@@ -1,0 +1,16 @@
+{
+  "seq": 1186320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abdomen inférieur",
+      "hypogastrium"
+    ],
+    [
+      "génital",
+      "parties génitales",
+      "organes génitaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

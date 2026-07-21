@@ -1,0 +1,14 @@
+{
+  "seq": 1193500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lit. le lit d'une rivière",
+      "le fond d'une rivière"
+    ],
+    [
+      "plateforme surélevée le long d'une rivière, utilisée pour profiter de la fraîcheur en été"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

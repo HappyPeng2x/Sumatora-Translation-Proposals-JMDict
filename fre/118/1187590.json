@@ -1,0 +1,27 @@
+{
+  "seq": 1187590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passager",
+      "éphémère",
+      "transitoire",
+      "fugace",
+      "évanéscence"
+    ],
+    [
+      "mineur",
+      "insignifiant",
+      "négligeable",
+      "modeste"
+    ],
+    [
+      "négligent",
+      "désinvolte",
+      "superficiel",
+      "faible",
+      "maladroit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

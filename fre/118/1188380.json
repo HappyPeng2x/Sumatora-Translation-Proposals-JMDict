@@ -1,0 +1,17 @@
+{
+  "seq": 1188380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n'importe quoi",
+      "tous les genres de choses",
+      "toutes sortes de choses"
+    ],
+    [
+      "à tout prix",
+      "bien sûr",
+      "n'importe comment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

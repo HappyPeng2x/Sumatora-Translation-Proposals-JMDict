@@ -1,0 +1,12 @@
+{
+  "seq": 1191200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résistance variable",
+      "rhéostat",
+      "potentiomètre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

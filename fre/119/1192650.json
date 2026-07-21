@@ -1,0 +1,12 @@
+{
+  "seq": 1192650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "force militaire réduite",
+      "petite armée",
+      "unité de petite taille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

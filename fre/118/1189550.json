@@ -1,0 +1,11 @@
+{
+  "seq": 1189550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rendement par rapport au coût",
+      "efficacité coût-bénéfice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1193990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alcool distillé",
+      "liqueur forte",
+      "spiritueux"
+    ],
+    [
+      "cachaça"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

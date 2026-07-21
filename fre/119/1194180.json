@@ -1,0 +1,21 @@
+{
+  "seq": 1194180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "seau à feu"
+    ],
+    [
+      "chauffage"
+    ],
+    [
+      "allumage",
+      "mise à feu",
+      "amorce"
+    ],
+    [
+      "pasteurisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

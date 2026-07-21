@@ -1,0 +1,10 @@
+{
+  "seq": 1188190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre écrit uniquement en kana"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

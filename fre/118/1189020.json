@@ -1,0 +1,13 @@
+{
+  "seq": 1189020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de manière vague",
+      "d'une certaine façon",
+      "pour une raison inconnue",
+      "d'une manière indéterminée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

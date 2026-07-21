@@ -1,0 +1,17 @@
+{
+  "seq": 1189300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "qu'est-ce que",
+      "quoi",
+      "que chose"
+    ],
+    [
+      "rien",
+      "n'importe quoi",
+      "quoi que ce soit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

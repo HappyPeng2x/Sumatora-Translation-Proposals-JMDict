@@ -1,0 +1,13 @@
+{
+  "seq": 1192810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui a beaucoup de temps libre",
+      "personne de loisirs",
+      "paresseux",
+      "vagabond"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

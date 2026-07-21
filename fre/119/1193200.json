@@ -1,0 +1,15 @@
+{
+  "seq": 1193200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanter à tue-tête",
+      "chanter fort et avec passion"
+    ],
+    [
+      "exprimer pleinement ses émotions dans un poème",
+      "louer en poésie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

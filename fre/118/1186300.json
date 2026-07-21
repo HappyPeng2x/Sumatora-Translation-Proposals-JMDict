@@ -1,0 +1,13 @@
+{
+  "seq": 1186300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abdomen",
+      "ventre",
+      "région abdominale",
+      "hypogastrium"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

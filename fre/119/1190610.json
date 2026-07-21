@@ -1,0 +1,14 @@
+{
+  "seq": 1190610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin participant",
+      "commerçant participant",
+      "magasin membre",
+      "magasin-franchisé",
+      "franchisé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

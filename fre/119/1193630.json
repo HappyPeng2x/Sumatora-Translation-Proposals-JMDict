@@ -1,0 +1,15 @@
+{
+  "seq": 1193630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boule de feu",
+      "boule de flammes"
+    ],
+    [
+      "feu follet",
+      "lanterne de Jack"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

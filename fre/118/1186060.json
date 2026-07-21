@@ -1,0 +1,17 @@
+{
+  "seq": 1186060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail subordonné",
+      "assistant"
+    ],
+    [
+      "travail domestique",
+      "serviteur",
+      "cuisinier",
+      "aide de cuisine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

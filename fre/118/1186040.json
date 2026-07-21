@@ -1,0 +1,11 @@
+{
+  "seq": 1186040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plantes inférieures",
+      "plantes non vasculaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

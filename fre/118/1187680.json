@@ -1,0 +1,15 @@
+{
+  "seq": 1187680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mantisse (d'un logarithme)"
+    ],
+    [
+      "significand",
+      "mantisse",
+      "coefficient"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

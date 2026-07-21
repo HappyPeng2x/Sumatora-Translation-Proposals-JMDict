@@ -1,0 +1,13 @@
+{
+  "seq": 1186910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réaction chimique"
+    ],
+    [
+      "production d'un résultat inattendu par la combinaison de choses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

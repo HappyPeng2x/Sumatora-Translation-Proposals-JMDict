@@ -1,0 +1,12 @@
+{
+  "seq": 1186150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détachement",
+      "fin de service",
+      "sortie de service"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

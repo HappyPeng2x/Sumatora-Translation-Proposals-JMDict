@@ -1,0 +1,15 @@
+{
+  "seq": 1193620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "source de feu",
+      "signe de feu"
+    ],
+    [
+      "chaleur du feu",
+      "chaleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1193190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanter en réponse",
+      "chanter en chœur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

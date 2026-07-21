@@ -1,0 +1,21 @@
+{
+  "seq": 1187500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pardon",
+      "excuse",
+      "circonstance atténuante"
+    ],
+    [
+      "emprunt",
+      "prêt"
+    ],
+    [
+      "caractère phonétique emprunté",
+      "caractère utilisé pour sa prononciation",
+      "loangraphe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

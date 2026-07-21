@@ -1,0 +1,13 @@
+{
+  "seq": 1186080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture préparatoire",
+      "préparation (pour un cours)",
+      "lecture d'un texte (par exemple un scénario)",
+      "répétition (d'une pièce de théâtre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

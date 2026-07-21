@@ -1,0 +1,17 @@
+{
+  "seq": 1187310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "même un instant",
+      "en aucun cas",
+      "pas le moins du monde"
+    ],
+    [
+      "du moins",
+      "en tout cas",
+      "même en quelque sorte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

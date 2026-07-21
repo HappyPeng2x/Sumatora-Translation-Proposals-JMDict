@@ -1,0 +1,12 @@
+{
+  "seq": 1186620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "servante",
+      "femme de chambre",
+      "servante de maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

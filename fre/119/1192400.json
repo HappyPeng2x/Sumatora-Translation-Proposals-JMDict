@@ -1,0 +1,21 @@
+{
+  "seq": 1192400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "héritier",
+      "successeur"
+    ],
+    [
+      "biens familiaux",
+      "héritage",
+      "fortune familiale"
+    ],
+    [
+      "direction d'une famille",
+      "autorité familiale",
+      "chef de famille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

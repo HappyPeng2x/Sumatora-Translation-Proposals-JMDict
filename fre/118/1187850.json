@@ -1,0 +1,11 @@
+{
+  "seq": 1187850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liaison (temporaire) sur papier",
+      "attache provisoire sur papier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

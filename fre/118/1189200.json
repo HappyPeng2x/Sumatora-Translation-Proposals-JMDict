@@ -1,0 +1,13 @@
+{
+  "seq": 1189200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "beaucoup de fois",
+      "fréquemment",
+      "répétitivement",
+      "sans cesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

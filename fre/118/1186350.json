@@ -1,0 +1,11 @@
+{
+  "seq": 1186350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enquête préalable",
+      "recherche préliminaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

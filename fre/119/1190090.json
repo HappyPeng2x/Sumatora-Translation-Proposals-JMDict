@@ -1,0 +1,10 @@
+{
+  "seq": 1190090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les quatre opérations arithmétiques (addition, soustraction, multiplication, division)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

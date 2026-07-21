@@ -1,0 +1,15 @@
+{
+  "seq": 1192450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tradition familiale",
+      "coutume familiale"
+    ],
+    [
+      "vent soufflant du côté de la maison",
+      "brise venue de la demeure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

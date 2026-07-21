@@ -1,0 +1,16 @@
+{
+  "seq": 1187650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sieste",
+      "rêve",
+      "sommeil court"
+    ],
+    [
+      "arrêter pour passer la nuit à une auberge",
+      "faire halte à une auberge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

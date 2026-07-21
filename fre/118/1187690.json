@@ -1,0 +1,13 @@
+{
+  "seq": 1187690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mantisse"
+    ],
+    [
+      "significande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
