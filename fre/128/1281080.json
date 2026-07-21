@@ -1,0 +1,12 @@
+{
+  "seq": 1281080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réfléchir en profondeur",
+      "penser de manière approfondie",
+      "méditer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

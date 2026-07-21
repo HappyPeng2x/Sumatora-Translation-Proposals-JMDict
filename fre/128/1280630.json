@@ -1,0 +1,11 @@
+{
+  "seq": 1280630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dureté et douceur",
+      "ligne dure et ligne modérée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

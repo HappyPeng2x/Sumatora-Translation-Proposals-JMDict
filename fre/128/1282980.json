@@ -1,0 +1,24 @@
+{
+  "seq": 1282980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point",
+      "paragraphe",
+      "article"
+    ],
+    [
+      "argument",
+      "raison"
+    ],
+    [
+      "terme",
+      "élément"
+    ],
+    [
+      "nuque",
+      "arrière de la tête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

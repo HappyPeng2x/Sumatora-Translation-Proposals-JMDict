@@ -1,0 +1,15 @@
+{
+  "seq": 1283270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dignité",
+      "éminent",
+      "de haut rang"
+    ],
+    [
+      "d'ordre élevé (chiffre, bit, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

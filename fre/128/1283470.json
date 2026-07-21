@@ -1,0 +1,15 @@
+{
+  "seq": 1283470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vos opinions",
+      "vos points de vue"
+    ],
+    [
+      "une grande idée",
+      "une excellente idée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

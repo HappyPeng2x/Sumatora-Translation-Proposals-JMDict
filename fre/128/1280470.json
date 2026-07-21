@@ -1,0 +1,11 @@
+{
+  "seq": 1280470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Sa Majesté le prince héritier",
+      "Son Altesse Royale le prince héritier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

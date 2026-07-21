@@ -1,0 +1,11 @@
+{
+  "seq": 1279490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson d'école",
+      "hymne scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

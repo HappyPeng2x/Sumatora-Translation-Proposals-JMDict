@@ -1,0 +1,15 @@
+{
+  "seq": 1283750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imposant",
+      "grand",
+      "majestueux"
+    ],
+    [
+      "lycée et université"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

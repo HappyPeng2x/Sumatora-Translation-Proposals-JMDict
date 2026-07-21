@@ -1,0 +1,17 @@
+{
+  "seq": 1276680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "goût",
+      "sensation sur la langue"
+    ],
+    [
+      "manière",
+      "démarche",
+      "attitude",
+      "manière de parler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1279660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrêt",
+      "obstruction",
+      "blocage"
+    ],
+    [
+      "infarctus",
+      "infarct"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

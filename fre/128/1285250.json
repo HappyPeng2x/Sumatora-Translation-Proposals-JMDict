@@ -1,0 +1,15 @@
+{
+  "seq": 1285250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gestion conjointe",
+      "pool"
+    ],
+    [
+      "gamopétale",
+      "sympétale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

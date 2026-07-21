@@ -1,0 +1,11 @@
+{
+  "seq": 1281350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aerogramme",
+      "lettre aérienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

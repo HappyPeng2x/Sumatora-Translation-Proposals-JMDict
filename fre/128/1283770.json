@@ -1,0 +1,11 @@
+{
+  "seq": 1283770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fermeture à un prix élevé",
+      "fermeture en hausse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

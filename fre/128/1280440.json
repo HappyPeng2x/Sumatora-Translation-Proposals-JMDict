@@ -1,0 +1,12 @@
+{
+  "seq": 1280440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "famille impériale",
+      "noblesse",
+      "membres de la famille impériale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1279800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "structure",
+      "construction",
+      "configuration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

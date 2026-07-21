@@ -1,0 +1,16 @@
+{
+  "seq": 1281900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pèlerinage",
+      "pèlerinage religieux"
+    ],
+    [
+      "randonnée",
+      "voyage à pied",
+      "promenade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

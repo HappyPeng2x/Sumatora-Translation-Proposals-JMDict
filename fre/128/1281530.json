@@ -1,0 +1,12 @@
+{
+  "seq": 1281530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "haricots verts",
+      "haricots de France",
+      "haricots filet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

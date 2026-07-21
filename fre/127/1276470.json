@@ -1,0 +1,16 @@
+{
+  "seq": 1276470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "querelle d'amoureux",
+      "altercation entre amants"
+    ],
+    [
+      "bavardage",
+      "paroles inutiles",
+      "discours futile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

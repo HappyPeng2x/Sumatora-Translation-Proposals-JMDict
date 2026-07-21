@@ -1,0 +1,14 @@
+{
+  "seq": 1280130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à talon haut",
+      "ayant un talon haut"
+    ],
+    [
+      "chaussures ou chaussettes à talon haut"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

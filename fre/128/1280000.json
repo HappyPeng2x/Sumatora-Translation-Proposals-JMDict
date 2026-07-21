@@ -1,0 +1,11 @@
+{
+  "seq": 1280000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entrée du port",
+      "entrée du havre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

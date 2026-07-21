@@ -1,0 +1,15 @@
+{
+  "seq": 1280890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu de traction",
+      "jeu où deux équipes tirent sur une corde"
+    ],
+    [
+      "conducteur d'omnibus",
+      "personne qui tire une voiture de bois ou un rickshaw"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

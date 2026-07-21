@@ -1,0 +1,17 @@
+{
+  "seq": 1278280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruse",
+      "manœuvre",
+      "agencement",
+      "arrangement"
+    ],
+    [
+      "situation financière",
+      "état économique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

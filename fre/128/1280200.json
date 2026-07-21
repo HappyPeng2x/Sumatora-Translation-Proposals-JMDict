@@ -1,0 +1,11 @@
+{
+  "seq": 1280200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guerrier armuré",
+      "soldat portant une armure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

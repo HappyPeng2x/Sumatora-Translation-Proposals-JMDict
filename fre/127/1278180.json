@@ -1,0 +1,11 @@
+{
+  "seq": 1278180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charge de travail",
+      "heure-homme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

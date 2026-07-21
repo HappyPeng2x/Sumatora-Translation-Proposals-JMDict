@@ -1,0 +1,28 @@
+{
+  "seq": 1278350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le public",
+      "les rumeurs circulant parmi le peuple"
+    ],
+    [
+      "rue",
+      "quartier",
+      "district"
+    ],
+    [
+      "lieu",
+      "scène (d'un combat, d'une tragédie)"
+    ],
+    [
+      "séparation",
+      "limite (entre la vie et la mort)"
+    ],
+    [
+      "fourche",
+      "carrefour (sens originel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

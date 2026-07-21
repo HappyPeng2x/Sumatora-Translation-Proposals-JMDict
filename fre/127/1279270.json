@@ -1,0 +1,27 @@
+{
+  "seq": 1279270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conquête",
+      "prise",
+      "assaut",
+      "attaque"
+    ],
+    [
+      "victoire",
+      "défaite (d'un adversaire)"
+    ],
+    [
+      "approche stratégique",
+      "attaque méthodique"
+    ],
+    [
+      "stratégie",
+      "tactique",
+      "guide",
+      "démarche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

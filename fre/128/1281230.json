@@ -1,0 +1,15 @@
+{
+  "seq": 1281230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pansement",
+      "pansement médical"
+    ],
+    [
+      "onguent",
+      "liniment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

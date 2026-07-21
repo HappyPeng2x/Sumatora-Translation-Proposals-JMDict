@@ -1,0 +1,15 @@
+{
+  "seq": 1279810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "construction",
+      "édifice",
+      "édification",
+      "création",
+      "formulation",
+      "architecture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

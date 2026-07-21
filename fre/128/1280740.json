@@ -1,0 +1,12 @@
+{
+  "seq": 1280740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roses des joues",
+      "teint rosé",
+      "rougeur des joues"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

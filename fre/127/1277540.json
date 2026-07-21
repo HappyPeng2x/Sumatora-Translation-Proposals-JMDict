@@ -1,0 +1,17 @@
+{
+  "seq": 1277540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appât",
+      "décroy",
+      "lure"
+    ],
+    [
+      "proie facile",
+      "victime facile",
+      "sot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

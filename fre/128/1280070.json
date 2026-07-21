@@ -1,0 +1,19 @@
+{
+  "seq": 1280070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rat des égouts",
+      "rat commun",
+      "rat de Norvège"
+    ],
+    [
+      "gris foncé"
+    ],
+    [
+      "employé trompeur",
+      "servant infidèle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1281400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échelon",
+      "sillage",
+      "trace laissée par un navire ou un avion"
+    ],
+    [
+      "trajectoire",
+      "chemin suivi par un avion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1281210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fauteuil",
+      "fauteuil avec accoudoirs"
+    ],
+    [
+      "cadre supérieur",
+      "membre du personnel supérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

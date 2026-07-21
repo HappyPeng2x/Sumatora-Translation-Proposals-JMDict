@@ -1,0 +1,16 @@
+{
+  "seq": 1277640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dilettante",
+      "personne ayant des goûts particuliers",
+      "personne ayant des hobbies étranges"
+    ],
+    [
+      "personne de goût raffiné",
+      "connaisseur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

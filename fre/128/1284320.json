@@ -1,0 +1,25 @@
+{
+  "seq": 1284320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vêtement porté entre les saisons",
+      "vêtement de printemps et d'automne"
+    ],
+    [
+      "ensemble",
+      "en même temps"
+    ],
+    [
+      "état",
+      "situation",
+      "condition"
+    ],
+    [
+      "-ish",
+      "dans un certain degré",
+      "un peu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

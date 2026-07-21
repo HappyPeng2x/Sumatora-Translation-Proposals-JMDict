@@ -1,0 +1,15 @@
+{
+  "seq": 1277330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "palais de l'impératrice",
+      "palais de la reine"
+    ],
+    [
+      "impératrice",
+      "reine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1281970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marchand ambulant",
+      "vendeur itinérant",
+      "personne qui vend des marchandises en voyageant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

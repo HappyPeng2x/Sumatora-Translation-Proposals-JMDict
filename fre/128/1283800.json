@@ -1,0 +1,16 @@
+{
+  "seq": 1283800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marée haute",
+      "eau haute"
+    ],
+    [
+      "apogée",
+      "culmination",
+      "point culminant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

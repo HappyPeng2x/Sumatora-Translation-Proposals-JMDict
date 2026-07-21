@@ -1,0 +1,13 @@
+{
+  "seq": 1284390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feuille de papier de taille moyenne (environ 15 x 21 cm, utilisée pour les cahiers)"
+    ],
+    [
+      "impression photographique de taille moyenne (environ 10 x 13 cm)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

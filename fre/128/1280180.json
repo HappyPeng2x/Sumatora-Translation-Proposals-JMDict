@@ -1,0 +1,11 @@
+{
+  "seq": 1280180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voix aiguë",
+      "voix perçante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

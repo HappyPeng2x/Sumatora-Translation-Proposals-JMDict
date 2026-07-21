@@ -1,0 +1,19 @@
+{
+  "seq": 1279120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attaque",
+      "offensive",
+      "assaut"
+    ],
+    [
+      "partenaire dominant (d'une relation homosexuelle)"
+    ],
+    [
+      "barrage de",
+      "flot de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

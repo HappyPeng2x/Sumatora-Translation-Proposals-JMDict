@@ -1,0 +1,14 @@
+{
+  "seq": 1282120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "behaviorisme",
+      "behaviourisme"
+    ],
+    [
+      "activisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

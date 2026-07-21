@@ -1,0 +1,17 @@
+{
+  "seq": 1277300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attitude",
+      "position",
+      "soutien ou opposition"
+    ],
+    [
+      "état des choses",
+      "situation",
+      "développements"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

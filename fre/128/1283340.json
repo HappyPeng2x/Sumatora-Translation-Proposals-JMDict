@@ -1,0 +1,17 @@
+{
+  "seq": 1283340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sensibilité élevée",
+      "très sensible (par exemple, film, récepteur radio)",
+      "vitesse élevée (film)"
+    ],
+    [
+      "discernant",
+      "délicat",
+      "affiné (en matière de goûts)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

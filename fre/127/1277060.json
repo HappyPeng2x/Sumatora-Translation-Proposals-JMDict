@@ -1,0 +1,15 @@
+{
+  "seq": 1277060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être en face l'un de l'autre",
+      "se faire face"
+    ],
+    [
+      "affronter (un problème)",
+      "se confronter à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

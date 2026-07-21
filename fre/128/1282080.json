@@ -1,0 +1,14 @@
+{
+  "seq": 1282080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lanternière en papier",
+      "support en bois recouvert de papier abritant une lampe à huile"
+    ],
+    [
+      "lumière sur le toit d'un taxi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

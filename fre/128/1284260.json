@@ -1,0 +1,11 @@
+{
+  "seq": 1284260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suffixe indiquant le numéro d'une pièce",
+      "suffixe indiquant le numéro d'un appartement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

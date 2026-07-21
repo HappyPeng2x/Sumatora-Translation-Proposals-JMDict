@@ -1,0 +1,11 @@
+{
+  "seq": 1284970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mot composé",
+      "terme composé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

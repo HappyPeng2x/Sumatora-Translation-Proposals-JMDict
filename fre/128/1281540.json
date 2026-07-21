@@ -1,0 +1,15 @@
+{
+  "seq": 1281540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire un bénéfice considérable",
+      "gagner facilement de l'argent"
+    ],
+    [
+      "vol",
+      "voleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

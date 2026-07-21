@@ -1,0 +1,11 @@
+{
+  "seq": 1277170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les trois maisons voisines",
+      "les trois voisins immédiats"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

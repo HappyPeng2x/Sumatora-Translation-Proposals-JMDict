@@ -1,0 +1,16 @@
+{
+  "seq": 1280560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "os"
+    ],
+    [
+      "fermeté",
+      "dos",
+      "détartrage",
+      "résolution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

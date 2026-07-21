@@ -1,0 +1,11 @@
+{
+  "seq": 1278890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "antibactérien",
+      "antimicrobien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

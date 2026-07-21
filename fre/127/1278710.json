@@ -1,0 +1,11 @@
+{
+  "seq": 1278710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dictionnaire Kangxi",
+      "dictionnaire chinois de 1716 qui a popularisé le système des 214 radicaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

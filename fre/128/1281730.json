@@ -1,0 +1,16 @@
+{
+  "seq": 1281730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arriver",
+      "atteindre"
+    ],
+    [
+      "parvenir à une conclusion",
+      "culminer",
+      "aboutir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

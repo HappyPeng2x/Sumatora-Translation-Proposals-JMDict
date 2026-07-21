@@ -1,0 +1,22 @@
+{
+  "seq": 1285090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "union",
+      "combinaison",
+      "fusion",
+      "rapprochement",
+      "incorporation"
+    ],
+    [
+      "conjonction",
+      "union (des gamètes)"
+    ],
+    [
+      "rapport sexuel",
+      "copulation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

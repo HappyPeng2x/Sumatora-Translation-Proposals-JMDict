@@ -1,0 +1,16 @@
+{
+  "seq": 1276640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enseignement oral"
+    ],
+    [
+      "transmission orale d'informations"
+    ],
+    [
+      "tradition orale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

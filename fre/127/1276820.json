@@ -1,0 +1,12 @@
+{
+  "seq": 1276820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladroit dans la parole",
+      "malhabile verbalement",
+      "avoir une parole maladroite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

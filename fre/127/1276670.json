@@ -1,0 +1,19 @@
+{
+  "seq": 1276670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instruction orale",
+      "enseignement oral"
+    ],
+    [
+      "transmission d'informations par la parole",
+      "répétition orale"
+    ],
+    [
+      "tradition orale",
+      "transmission orale d'une histoire ou d'un savoir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

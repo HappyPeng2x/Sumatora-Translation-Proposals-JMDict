@@ -1,0 +1,17 @@
+{
+  "seq": 1279450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pieu",
+      "poteau",
+      "pilon",
+      "piquet"
+    ],
+    [
+      "racine",
+      "bûche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

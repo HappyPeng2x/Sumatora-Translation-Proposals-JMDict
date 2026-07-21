@@ -1,0 +1,11 @@
+{
+  "seq": 1278000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "études d'ingénierie",
+      "cours d'ingénierie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

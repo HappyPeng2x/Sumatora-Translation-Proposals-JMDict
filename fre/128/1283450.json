@@ -1,0 +1,11 @@
+{
+  "seq": 1283450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hypertension",
+      "pression artérielle élevée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

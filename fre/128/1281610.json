@@ -1,0 +1,16 @@
+{
+  "seq": 1281610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vagues déchaînées",
+      "mer orageuse"
+    ],
+    [
+      "difficultés",
+      "adversités",
+      "troubles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

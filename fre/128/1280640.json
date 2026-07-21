@@ -1,0 +1,30 @@
+{
+  "seq": 1280640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "militants",
+      "extrémistes",
+      "partisans radicaux"
+    ],
+    [
+      "homme viril",
+      "gars dur",
+      "homme typique"
+    ],
+    [
+      "actualités sérieuses",
+      "journaliste d'information politique et économique"
+    ],
+    [
+      "type rigide",
+      "personne strait-lacée",
+      "personne peu encline aux relations sentimentales"
+    ],
+    [
+      "spéculateurs optimistes",
+      "acheteurs en masse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

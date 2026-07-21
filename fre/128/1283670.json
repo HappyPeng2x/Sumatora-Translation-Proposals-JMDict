@@ -1,0 +1,15 @@
+{
+  "seq": 1283670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collège technique",
+      "école technique"
+    ],
+    [
+      "écoles supérieures et collèges",
+      "établissements d'enseignement supérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

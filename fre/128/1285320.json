@@ -1,0 +1,11 @@
+{
+  "seq": 1285320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "société en nom collectif",
+      "société à responsabilité illimitée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1276580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ajouter du thé",
+      "ajouter des feuilles de thé fraîches aux feuilles déjà utilisées dans une théière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

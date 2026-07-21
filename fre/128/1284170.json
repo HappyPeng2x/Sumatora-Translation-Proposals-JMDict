@@ -1,0 +1,15 @@
+{
+  "seq": 1284170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "force herculéenne",
+      "puissance surhumaine"
+    ],
+    [
+      "porteur de montagne",
+      "guide des montagnes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

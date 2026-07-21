@@ -1,0 +1,12 @@
+{
+  "seq": 1278540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agence de publicité",
+      "entreprise de publicité",
+      "société de publicité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

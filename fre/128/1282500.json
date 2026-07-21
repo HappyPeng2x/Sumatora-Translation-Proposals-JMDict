@@ -1,0 +1,12 @@
+{
+  "seq": 1282500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "campagne",
+      "paysage rural",
+      "zone périurbaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

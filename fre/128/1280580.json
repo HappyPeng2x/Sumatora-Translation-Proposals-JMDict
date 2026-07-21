@@ -1,0 +1,11 @@
+{
+  "seq": 1280580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tennis (jeu réglementaire avec balle dure)",
+      "tennis (au sens opposé au tennis doux)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

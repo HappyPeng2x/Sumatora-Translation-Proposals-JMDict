@@ -1,0 +1,11 @@
+{
+  "seq": 1279470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médecin d'école",
+      "médecin scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

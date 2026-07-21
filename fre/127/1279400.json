@@ -1,0 +1,11 @@
+{
+  "seq": 1279400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "période de changement de vie",
+      "ménopause"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

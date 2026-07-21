@@ -1,0 +1,11 @@
+{
+  "seq": 1280960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "outils agricoles",
+      "instruments de culture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

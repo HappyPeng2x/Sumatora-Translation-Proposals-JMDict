@@ -1,0 +1,19 @@
+{
+  "seq": 1283210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'exciter",
+      "se troubler",
+      "se mettre en ébullition",
+      "devenir agité"
+    ],
+    [
+      "être fier",
+      "être hautain",
+      "être arrogant",
+      "être orgueilleux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

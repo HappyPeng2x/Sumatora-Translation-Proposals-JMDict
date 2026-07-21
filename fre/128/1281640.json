@@ -1,0 +1,13 @@
+{
+  "seq": 1281640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bois non débarrassé de son écorce",
+      "bois non séché",
+      "bois brut",
+      "bois neuf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

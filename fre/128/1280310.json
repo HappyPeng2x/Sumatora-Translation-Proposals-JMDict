@@ -1,0 +1,18 @@
+{
+  "seq": 1280310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coquille",
+      "carapace",
+      "plastron"
+    ],
+    [
+      "dos"
+    ],
+    [
+      "années d'expérience"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1279920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se comporter en maître",
+      "agir comme un important",
+      "faire le malin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

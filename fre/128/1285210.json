@@ -1,0 +1,11 @@
+{
+  "seq": 1285210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "évaluation commune",
+      "critique conjointe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

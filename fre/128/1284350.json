@@ -1,0 +1,19 @@
+{
+  "seq": 1284350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ami",
+      "compagnon"
+    ],
+    [
+      "dague",
+      "stiletto"
+    ],
+    [
+      "bilan déséquilibré",
+      "résultat désavantageux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

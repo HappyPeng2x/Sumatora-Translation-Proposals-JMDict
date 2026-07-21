@@ -1,0 +1,11 @@
+{
+  "seq": 1280760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "algues rouges",
+      "Rhodophyta"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

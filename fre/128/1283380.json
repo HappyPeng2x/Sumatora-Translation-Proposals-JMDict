@@ -1,0 +1,22 @@
+{
+  "seq": 1283380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "noble",
+      "haut et noble",
+      "exalté"
+    ],
+    [
+      "noble (caractère)",
+      "affiné",
+      "dignifié"
+    ],
+    [
+      "précieux",
+      "cher",
+      "valuable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

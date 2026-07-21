@@ -1,0 +1,14 @@
+{
+  "seq": 1283320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "somme importante",
+      "montant élevé"
+    ],
+    [
+      "valeur élevée (d'un billet de banque, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

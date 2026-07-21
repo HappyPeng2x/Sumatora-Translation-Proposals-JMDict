@@ -1,0 +1,14 @@
+{
+  "seq": 1277620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prospérité économique",
+      "bonnes conditions",
+      "boom économique",
+      "activité commerciale florissante",
+      "marché dynamique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

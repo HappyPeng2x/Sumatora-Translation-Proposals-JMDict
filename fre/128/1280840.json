@@ -1,0 +1,31 @@
+{
+  "seq": 1280840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "technique de teinture",
+      "technique de teinture à l'éponge",
+      "technique de teinture par compression"
+    ],
+    [
+      "n",
+      "ouverture",
+      "diaphragme",
+      "arrêt"
+    ],
+    [
+      "n",
+      "contraction",
+      "serrage",
+      "étouffement"
+    ],
+    [
+      "n",
+      "serrage",
+      "compression",
+      "écrasement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

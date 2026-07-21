@@ -1,0 +1,20 @@
+{
+  "seq": 1276490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "persuader",
+      "inciter",
+      "supplier d'arguments",
+      "solliciter"
+    ],
+    [
+      "faire des avances à",
+      "séduire",
+      "courir après",
+      "flirter avec",
+      "faire un pas vers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

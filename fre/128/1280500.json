@@ -1,0 +1,11 @@
+{
+  "seq": 1280500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la voie impériale bienveillante",
+      "la voie impériale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

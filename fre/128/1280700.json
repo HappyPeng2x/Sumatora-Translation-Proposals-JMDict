@@ -1,0 +1,13 @@
+{
+  "seq": 1280700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flamme rouge"
+    ],
+    [
+      "prominence solaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

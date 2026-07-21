@@ -1,0 +1,17 @@
+{
+  "seq": 1277660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expert",
+      "personne habile",
+      "maître dans un domaine"
+    ],
+    [
+      "bon coup",
+      "mouvement intelligent",
+      "joueureuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

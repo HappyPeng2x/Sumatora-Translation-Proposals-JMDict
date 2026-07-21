@@ -1,0 +1,26 @@
+{
+  "seq": 1279050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réserve",
+      "sauvegarde",
+      "copie de secours"
+    ],
+    [
+      "note",
+      "mémo"
+    ],
+    [
+      "copie",
+      "duplicata",
+      "reçu",
+      "stump (d'un billet, etc.)"
+    ],
+    [
+      "attente du tour",
+      "attente à son tour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

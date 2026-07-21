@@ -1,0 +1,13 @@
+{
+  "seq": 1278190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coût du travail",
+      "rétribution",
+      "salaire",
+      "paiement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

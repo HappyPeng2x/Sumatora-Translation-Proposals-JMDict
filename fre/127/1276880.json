@@ -1,0 +1,17 @@
+{
+  "seq": 1276880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manière de parler",
+      "intimation"
+    ],
+    [
+      "lèvres",
+      "bouche",
+      "nez",
+      "proboscis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

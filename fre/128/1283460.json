@@ -1,0 +1,11 @@
+{
+  "seq": 1283460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hypertension",
+      "maladie caractérisée par une pression sanguine anormalement élevée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1281040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une chose à réfléchir",
+      "une préoccupation",
+      "une inquiétude"
+    ],
+    [
+      "l'acte de réfléchir",
+      "être plongé dans ses pensées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

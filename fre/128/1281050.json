@@ -1,0 +1,14 @@
+{
+  "seq": 1281050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mettre en œuvre",
+      "inventer",
+      "élaborer",
+      "commencer à penser",
+      "avoir une idée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

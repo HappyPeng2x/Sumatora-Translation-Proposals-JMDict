@@ -1,0 +1,11 @@
+{
+  "seq": 1280360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ère impériale",
+      "système de comptage des années à partir du début du règne de l'empereur Jimmu en 660 av. J.-C."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

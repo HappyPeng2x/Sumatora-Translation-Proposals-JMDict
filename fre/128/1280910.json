@@ -1,0 +1,12 @@
+{
+  "seq": 1280910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "application stricte des règles de discipline officielle",
+      "renforcement de la discipline",
+      "élimination de la corruption au sein des fonctionnaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1279570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "preuve",
+      "feuille de preuve",
+      "preuve de composition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

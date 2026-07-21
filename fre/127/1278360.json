@@ -1,0 +1,12 @@
+{
+  "seq": 1278360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rumeur",
+      "bruit",
+      "commérage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

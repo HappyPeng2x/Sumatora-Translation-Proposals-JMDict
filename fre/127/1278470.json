@@ -1,0 +1,16 @@
+{
+  "seq": 1278470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "zone étendue",
+      "vaste région"
+    ],
+    [
+      "vue d'ensemble",
+      "affichage dézoomé",
+      "vue large d'une carte numérique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1276980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médiation",
+      "intermédiaire",
+      "personne qui intervient pour faciliter une entente"
+    ],
+    [
+      "personne influente",
+      "individu doté d'une influence"
+    ],
+    [
+      "éloquence",
+      "personne éloquente"
+    ],
+    [
+      "manière de parler",
+      "style oratoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

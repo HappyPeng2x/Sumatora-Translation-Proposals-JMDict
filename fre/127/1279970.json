@@ -1,0 +1,15 @@
+{
+  "seq": 1279970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "largement ouvert d'esprit",
+      "magnanime"
+    ],
+    [
+      "abondant (dans le cas de l'eau qui coule)",
+      "pléthorique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

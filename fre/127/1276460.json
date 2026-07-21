@@ -1,0 +1,19 @@
+{
+  "seq": 1276460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "début d'une discussion",
+      "remarque introductive",
+      "commencement",
+      "début"
+    ],
+    [
+      "événement marquant le début du dixième mois du calendrier lunaire"
+    ],
+    [
+      "ouverture d'un récipient scellé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

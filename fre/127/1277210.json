@@ -1,0 +1,12 @@
+{
+  "seq": 1277210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amour de l'apprentissage",
+      "désir d'apprendre",
+      "passion pour la connaissance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

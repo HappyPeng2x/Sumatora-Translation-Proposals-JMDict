@@ -1,0 +1,18 @@
+{
+  "seq": 1283900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "votre considération",
+      "votre attention",
+      "votre peine",
+      "votre bonté",
+      "vos bons offices"
+    ],
+    [
+      "dividendes élevés",
+      "taux de rendement élevé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
