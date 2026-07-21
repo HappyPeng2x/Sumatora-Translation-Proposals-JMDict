@@ -1,0 +1,12 @@
+{
+  "seq": 1227770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suspension des traversées",
+      "suspension des navires en mer",
+      "arrêt des voyages maritimes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

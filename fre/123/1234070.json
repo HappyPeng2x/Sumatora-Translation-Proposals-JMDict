@@ -1,0 +1,16 @@
+{
+  "seq": 1234070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concours",
+      "rivalité",
+      "compétition entre artistes"
+    ],
+    [
+      "concurrent",
+      "rivalité entre théâtres présentant la même pièce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

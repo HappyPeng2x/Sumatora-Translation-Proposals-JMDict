@@ -1,0 +1,17 @@
+{
+  "seq": 1230340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remplissage d'essence",
+      "remplir d'essence",
+      "carburer"
+    ],
+    [
+      "lubrification",
+      "huiler",
+      "graisser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

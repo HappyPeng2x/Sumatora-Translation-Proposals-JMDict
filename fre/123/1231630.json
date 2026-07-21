@@ -1,0 +1,12 @@
+{
+  "seq": 1231630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tactique du pas lent",
+      "tactique de la tortue",
+      "marche lente dans le Parlement pour retarder les débats"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

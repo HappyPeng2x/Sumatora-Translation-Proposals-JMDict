@@ -1,0 +1,11 @@
+{
+  "seq": 1229510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "offre d'emploi",
+      "vacance d'emploi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

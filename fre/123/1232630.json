@@ -1,0 +1,12 @@
+{
+  "seq": 1232630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plein de ruses et de tromperies",
+      "match entre personnes aussi rusées l'une que l'autre, chacune utilisant toutes ses ruses",
+      "agir avec ruse en évitant les points forts de l'adversaire pour attaquer ses faiblesses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

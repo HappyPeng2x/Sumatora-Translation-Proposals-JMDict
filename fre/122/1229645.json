@@ -1,0 +1,15 @@
+{
+  "seq": 1229645,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire pleurer quelqu'un",
+      "mettre quelqu'un en larmes"
+    ],
+    [
+      "affliger",
+      "rendre triste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

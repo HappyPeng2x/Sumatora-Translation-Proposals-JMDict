@@ -1,0 +1,11 @@
+{
+  "seq": 1227690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terre inutilisée",
+      "terre laissée en friche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

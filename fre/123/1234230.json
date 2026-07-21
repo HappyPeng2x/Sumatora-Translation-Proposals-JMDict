@@ -1,0 +1,12 @@
+{
+  "seq": 1234230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course de marche",
+      "marche compétitive",
+      "course de marche athlétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1231860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'asseoir droit",
+      "s'asseoir droitement"
+    ],
+    [
+      "adopter une attitude provocatrice",
+      "devenir agressif",
+      "prendre l'offensive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

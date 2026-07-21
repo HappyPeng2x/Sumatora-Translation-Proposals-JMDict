@@ -1,0 +1,12 @@
+{
+  "seq": 1227670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suspension de la publication",
+      "interrompre la publication",
+      "mettre fin à la publication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

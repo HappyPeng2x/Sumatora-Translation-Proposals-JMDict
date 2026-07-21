@@ -1,0 +1,13 @@
+{
+  "seq": 1232400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n, med] rejet (d'organe)"
+    ],
+    [
+      "[n] réaction forte (contre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

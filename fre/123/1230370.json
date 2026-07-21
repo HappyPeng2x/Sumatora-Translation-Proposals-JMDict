@@ -1,0 +1,11 @@
+{
+  "seq": 1230370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jour du paiement",
+      "jour de paie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

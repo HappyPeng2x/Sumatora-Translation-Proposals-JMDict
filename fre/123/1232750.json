@@ -1,0 +1,13 @@
+{
+  "seq": 1232750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec un esprit ouvert et calme",
+      "sans préjugés",
+      "frank",
+      "candide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

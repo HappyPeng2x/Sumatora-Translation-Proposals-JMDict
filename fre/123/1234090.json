@@ -1,0 +1,13 @@
+{
+  "seq": 1234090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concurrent",
+      "participant",
+      "joueur",
+      "athlète"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1231790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rester en arrière",
+      "rester",
+      "travailler en heures supplémentaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

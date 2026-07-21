@@ -1,0 +1,12 @@
+{
+  "seq": 1230410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vêtements usés",
+      "habits déchirés",
+      "vêtements en mauvais état"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

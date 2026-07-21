@@ -1,0 +1,16 @@
+{
+  "seq": 1230640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "théâtre traditionnel japonais (kabuki, noh, etc.)",
+      "drame classique",
+      "pièce de théâtre de l'ancienne école"
+    ],
+    [
+      "drame historique (film)",
+      "film de période"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

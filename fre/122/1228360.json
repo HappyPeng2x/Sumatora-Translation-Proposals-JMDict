@@ -1,0 +1,16 @@
+{
+  "seq": 1228360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adsorption",
+      "adsorption chimique"
+    ],
+    [
+      "adhésion",
+      "attache par succion",
+      "collage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

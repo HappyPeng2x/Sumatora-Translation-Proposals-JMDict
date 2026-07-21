@@ -1,0 +1,11 @@
+{
+  "seq": 1229390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sentence recommandée",
+      "demande de la procureure pour une peine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

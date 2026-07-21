@@ -1,0 +1,11 @@
+{
+  "seq": 1229260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "secours aux pauvres",
+      "aide aux personnes démunies"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

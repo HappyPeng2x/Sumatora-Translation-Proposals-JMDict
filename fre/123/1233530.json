@@ -1,0 +1,13 @@
+{
+  "seq": 1233530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "direction de Kyoto",
+      "région de Kansai",
+      "habitants de Kyoto",
+      "nobles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

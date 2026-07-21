@@ -1,0 +1,15 @@
+{
+  "seq": 1229960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récupération de balles (pendant une séance d'entraînement ; en tennis, baseball, etc.)",
+      "action de récupérer les balles"
+    ],
+    [
+      "jeune joueur chargé de récupérer les balles sur un terrain de tennis",
+      "jeune assistant chargé de ramasser les balles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

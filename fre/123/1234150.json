@@ -1,0 +1,11 @@
+{
+  "seq": 1234150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "relation concurrente",
+      "rapport compétitif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1229570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recherchant la vérité",
+      "qui cherche le chemin",
+      "quêteur de la vérité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

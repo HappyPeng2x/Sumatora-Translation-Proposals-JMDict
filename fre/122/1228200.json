@@ -1,0 +1,12 @@
+{
+  "seq": 1228200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passé l'examen",
+      "réussi à l'examen",
+      "étudiant qui a réussi un examen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1234420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "société coopérative",
+      "association à but mutuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

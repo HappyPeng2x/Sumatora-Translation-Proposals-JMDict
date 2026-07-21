@@ -1,0 +1,11 @@
+{
+  "seq": 1234390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collier de même couleur",
+      "bande de cou de même teinte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

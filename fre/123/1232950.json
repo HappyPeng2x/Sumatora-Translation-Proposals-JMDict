@@ -1,0 +1,16 @@
+{
+  "seq": 1232950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dents d'une scie",
+      "dents de scie",
+      "serrure (forme de dent)"
+    ],
+    [
+      "serrure (d'une feuille)",
+      "denture (d'une feuille)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1228130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inutile",
+      "inutile (dans un contexte donné)"
+    ],
+    [
+      "inatteignable",
+      "inaccessible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

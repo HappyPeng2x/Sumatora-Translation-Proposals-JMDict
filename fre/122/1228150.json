@@ -1,0 +1,15 @@
+{
+  "seq": 1228150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dos courbé"
+    ],
+    [
+      "attitude hésitante",
+      "timidité",
+      "manque de courage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

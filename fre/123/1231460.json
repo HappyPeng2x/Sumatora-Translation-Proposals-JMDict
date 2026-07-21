@@ -1,0 +1,11 @@
+{
+  "seq": 1231460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladie chronique",
+      "maladie tenace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

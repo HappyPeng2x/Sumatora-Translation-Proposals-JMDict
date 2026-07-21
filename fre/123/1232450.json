@@ -1,0 +1,11 @@
+{
+  "seq": 1232450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être basé(e) dans un lieu",
+      "servir de base à un lieu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

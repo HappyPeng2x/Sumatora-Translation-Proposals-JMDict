@@ -1,0 +1,17 @@
+{
+  "seq": 1231920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "établissement",
+      "concession",
+      "zone réservée à des étrangers"
+    ],
+    [
+      "réservation",
+      "territoire réservé",
+      "zone de réserve (comme pour les Indiens Américains)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

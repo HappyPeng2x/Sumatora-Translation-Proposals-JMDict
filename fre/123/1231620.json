@@ -1,0 +1,11 @@
+{
+  "seq": 1231620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peau de vache",
+      "peau de bœuf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

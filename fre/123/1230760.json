@@ -1,0 +1,11 @@
+{
+  "seq": 1230760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme ancienne de caractère",
+      "forme traditionnelle de kanji utilisée au Japon avant 1946"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

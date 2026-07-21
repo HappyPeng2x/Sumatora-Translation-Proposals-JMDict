@@ -1,0 +1,16 @@
+{
+  "seq": 1232010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grand morceau de bois",
+      "grande pièce de bois"
+    ],
+    [
+      "personne très douée",
+      "personne de grande capacité",
+      "personne exceptionnellement talentueuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

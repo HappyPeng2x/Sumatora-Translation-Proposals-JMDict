@@ -1,0 +1,10 @@
+{
+  "seq": 1234380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Évangiles synoptiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

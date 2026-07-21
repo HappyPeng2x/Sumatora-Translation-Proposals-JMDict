@@ -1,0 +1,11 @@
+{
+  "seq": 1234860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recherche collaborative",
+      "recherche conjointe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

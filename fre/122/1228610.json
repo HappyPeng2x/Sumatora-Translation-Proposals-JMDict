@@ -1,0 +1,12 @@
+{
+  "seq": 1228610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'agiter",
+      "devenir impatient",
+      "se presser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

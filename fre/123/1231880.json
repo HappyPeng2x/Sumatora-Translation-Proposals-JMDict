@@ -1,0 +1,11 @@
+{
+  "seq": 1231880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'asseoir en rang",
+      "être aligné en rang"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1232220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grand voleur",
+      "voleur notoire",
+      "voleur en série"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

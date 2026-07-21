@@ -1,0 +1,12 @@
+{
+  "seq": 1227480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excuser",
+      "donner des vacances à",
+      "faire (quelqu'un) se reposer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

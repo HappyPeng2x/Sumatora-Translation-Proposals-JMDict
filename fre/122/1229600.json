@@ -1,0 +1,18 @@
+{
+  "seq": 1229600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tirer (de l'eau, etc.)",
+      "soulever (avec une pompe)",
+      "aspirer",
+      "prélever (par exemple de l'eau)"
+    ],
+    [
+      "s'inspirer (d'idées)",
+      "prendre en compte",
+      "adopter (des idées)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1233990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme courageuse",
+      "femme héroïque",
+      "femme valeureuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1234500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pays communiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

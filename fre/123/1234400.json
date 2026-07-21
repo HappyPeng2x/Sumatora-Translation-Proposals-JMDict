@@ -1,0 +1,12 @@
+{
+  "seq": 1234400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sponsoring conjoint",
+      "organisation conjointe",
+      "co-organisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

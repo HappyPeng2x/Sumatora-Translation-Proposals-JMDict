@@ -1,0 +1,11 @@
+{
+  "seq": 1228190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passer (un examen)",
+      "réussir (un examen)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

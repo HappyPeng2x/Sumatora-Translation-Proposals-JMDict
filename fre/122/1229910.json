@@ -1,0 +1,15 @@
+{
+  "seq": 1229910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu de balle",
+      "jeu où l'on utilise une balle"
+    ],
+    [
+      "billard",
+      "jeu de billard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1229660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pleurer sans s'arrêter",
+      "pleurer sans cesse",
+      "être en larmes sans discontinuer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

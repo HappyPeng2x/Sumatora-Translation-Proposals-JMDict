@@ -1,0 +1,15 @@
+{
+  "seq": 1228280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inspiration",
+      "air inspiré"
+    ],
+    [
+      "intake",
+      "entrée (d'air)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

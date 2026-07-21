@@ -1,0 +1,15 @@
+{
+  "seq": 1228510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme de corde",
+      "arc",
+      "arche"
+    ],
+    [
+      "segment (d'un cercle)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

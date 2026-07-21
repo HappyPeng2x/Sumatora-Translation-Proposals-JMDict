@@ -1,0 +1,18 @@
+{
+  "seq": 1229620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "action de puiser",
+      "action de ramasser (des déjections)",
+      "action de recueillir"
+    ],
+    [
+      "compréhension",
+      "compréhension intuitive",
+      "devinette",
+      "pressentiment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

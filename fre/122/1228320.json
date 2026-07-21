@@ -1,0 +1,15 @@
+{
+  "seq": 1228320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouche à cigarette",
+      "embout de cigarette",
+      "filtre de cigarette"
+    ],
+    [
+      "garniture parfumée (pour un bouillon)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

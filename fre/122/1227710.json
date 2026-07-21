@@ -1,0 +1,12 @@
+{
+  "seq": 1227710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jour férié",
+      "jour de congé",
+      "jour non travaillé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

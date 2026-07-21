@@ -1,0 +1,11 @@
+{
+  "seq": 1231300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le gouvernement féodal ancien",
+      "le shogunat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

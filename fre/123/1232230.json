@@ -1,0 +1,14 @@
+{
+  "seq": 1232230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dirigeant",
+      "magnat"
+    ],
+    [
+      "grand crâne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

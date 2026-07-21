@@ -1,0 +1,12 @@
+{
+  "seq": 1231020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état ancien",
+      "état antérieur",
+      "situation passée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

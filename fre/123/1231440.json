@@ -1,0 +1,12 @@
+{
+  "seq": 1231440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruines historiques",
+      "lieux historiques",
+      "vestiges"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

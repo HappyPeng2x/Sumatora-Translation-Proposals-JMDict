@@ -1,0 +1,11 @@
+{
+  "seq": 1233790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle d'attente pour les employés",
+      "salle d'attente des servants"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

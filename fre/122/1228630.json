@@ -1,0 +1,18 @@
+{
+  "seq": 1228630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hâte",
+      "urgence",
+      "imminence",
+      "pressant"
+    ],
+    [
+      "vite",
+      "en hâte",
+      "promptement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

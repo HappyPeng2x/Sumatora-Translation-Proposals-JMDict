@@ -1,0 +1,16 @@
+{
+  "seq": 1232960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chercher",
+      "ratisser",
+      "chercher quelque chose avec empressement"
+    ],
+    [
+      "pêche",
+      "collecte de coquillages"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

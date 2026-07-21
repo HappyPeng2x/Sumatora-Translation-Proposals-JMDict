@@ -1,0 +1,15 @@
+{
+  "seq": 1229710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pleurer en riant",
+      "rires mêlés de larmes"
+    ],
+    [
+      "larmes et rires",
+      "joie et tristesse alternées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

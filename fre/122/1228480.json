@@ -1,0 +1,11 @@
+{
+  "seq": 1228480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Agence impériale",
+      "Administration impériale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

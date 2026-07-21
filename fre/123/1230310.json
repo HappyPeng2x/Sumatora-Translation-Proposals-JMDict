@@ -1,0 +1,11 @@
+{
+  "seq": 1230310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaudière",
+      "ballon d'eau chaude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

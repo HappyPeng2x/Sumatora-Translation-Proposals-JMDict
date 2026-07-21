@@ -1,0 +1,12 @@
+{
+  "seq": 1230490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "actions anciennes",
+      "actions existantes",
+      "actions précédemment émises"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

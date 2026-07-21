@@ -1,0 +1,16 @@
+{
+  "seq": 1233140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Pisces (constellation)",
+      "les Poissons (constellation)",
+      "les poissons (constellation)"
+    ],
+    [
+      "corps de métier des marchands de poissons",
+      "corps des marchands de poissons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

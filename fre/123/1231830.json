@@ -1,0 +1,14 @@
+{
+  "seq": 1231830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu",
+      "adresse"
+    ],
+    [
+      "lieu de séjour temporaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

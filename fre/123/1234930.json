@@ -1,0 +1,12 @@
+{
+  "seq": 1234930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mode de vie communautaire",
+      "vie en communauté",
+      "cohabitation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

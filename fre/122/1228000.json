@@ -1,0 +1,11 @@
+{
+  "seq": 1228000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jour sans audience",
+      "jour sans audience judiciaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

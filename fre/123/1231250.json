@@ -1,0 +1,12 @@
+{
+  "seq": 1231250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancienne nouvelle",
+      "information datée",
+      "rumeur ancienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

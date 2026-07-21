@@ -1,0 +1,11 @@
+{
+  "seq": 1233970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esprit chevaleresque",
+      "chevalerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

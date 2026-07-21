@@ -1,0 +1,17 @@
+{
+  "seq": 1231680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stérilisation",
+      "castration",
+      "gelding"
+    ],
+    [
+      "affaiblissement",
+      "émasculation",
+      "domination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

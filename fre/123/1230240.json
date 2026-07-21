@@ -1,0 +1,25 @@
+{
+  "seq": 1230240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "servir à table",
+      "prendre en charge le service lors d'un repas"
+    ],
+    [
+      "serveur",
+      "serveuse",
+      "garçon de café",
+      "garçonne de café",
+      "page",
+      "page d'hôtel",
+      "boy de cabine",
+      "boy de service"
+    ],
+    [
+      "employé de bureau",
+      "employée de bureau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

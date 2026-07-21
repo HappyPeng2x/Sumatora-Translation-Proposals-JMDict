@@ -1,0 +1,11 @@
+{
+  "seq": 1234170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vente aux enchères",
+      "vente par adjudication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

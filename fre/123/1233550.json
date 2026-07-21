@@ -1,0 +1,21 @@
+{
+  "seq": 1233550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "offrir",
+      "présenter",
+      "soumettre",
+      "fournir",
+      "mettre à disposition"
+    ],
+    [
+      "servir (des boissons et des repas)"
+    ],
+    [
+      "offrir (aux dieux)",
+      "installer (devant un autel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

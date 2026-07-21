@@ -1,0 +1,11 @@
+{
+  "seq": 1230160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "camarade de classe",
+      "ami de la même classe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

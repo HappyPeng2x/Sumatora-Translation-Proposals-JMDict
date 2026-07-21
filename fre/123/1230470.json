@@ -1,0 +1,16 @@
+{
+  "seq": 1230470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancienne famille",
+      "famille ancienne et établie"
+    ],
+    [
+      "maison natale",
+      "ancienne demeure",
+      "domicile d'enfance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

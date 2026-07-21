@@ -1,0 +1,12 @@
+{
+  "seq": 1229360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courtage",
+      "séduction",
+      "avances amoureuses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1228570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en hâte",
+      "vite",
+      "promptement",
+      "dans la précipitation"
+    ],
+    [
+      "hâte-toi !",
+      "vite !",
+      "dépêche-toi !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

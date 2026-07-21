@@ -1,0 +1,17 @@
+{
+  "seq": 1232790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "torpeur",
+      "détachement mental",
+      "numbness mentale"
+    ],
+    [
+      "effondrement physique",
+      "prostration",
+      "épuisement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

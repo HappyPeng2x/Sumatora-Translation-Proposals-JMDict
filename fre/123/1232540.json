@@ -1,0 +1,11 @@
+{
+  "seq": 1232540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nation entière",
+      "pays tout entier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

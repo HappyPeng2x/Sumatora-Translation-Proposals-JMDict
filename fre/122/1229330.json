@@ -1,0 +1,25 @@
+{
+  "seq": 1229330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vouloir",
+      "désirer"
+    ],
+    [
+      "demander",
+      "exiger"
+    ],
+    [
+      "chercher",
+      "rechercher",
+      "poursuivre",
+      "chasser"
+    ],
+    [
+      "acheter",
+      "acheter (formellement)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

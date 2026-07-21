@@ -1,0 +1,11 @@
+{
+  "seq": 1228060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logement temporaire",
+      "quartier d'habitation provisoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

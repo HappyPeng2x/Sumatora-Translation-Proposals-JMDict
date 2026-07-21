@@ -1,0 +1,16 @@
+{
+  "seq": 1233170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "empreinte en encre d'un poisson",
+      "impression de poisson",
+      "gyotaku"
+    ],
+    [
+      "capture d'écran d'une page web",
+      "archivage d'une page web"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

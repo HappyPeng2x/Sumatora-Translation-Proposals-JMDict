@@ -1,0 +1,11 @@
+{
+  "seq": 1230150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "représentant de classe",
+      "chef de classe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

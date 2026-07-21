@@ -1,0 +1,18 @@
+{
+  "seq": 1233960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pert",
+      "tomboyish",
+      "impudent",
+      "vif",
+      "bruyant"
+    ],
+    [
+      "gallant",
+      "chevaleresque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

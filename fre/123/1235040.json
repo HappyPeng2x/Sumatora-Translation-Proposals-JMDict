@@ -1,0 +1,13 @@
+{
+  "seq": 1235040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corps coopératif",
+      "système coopératif",
+      "collectif",
+      "communauté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

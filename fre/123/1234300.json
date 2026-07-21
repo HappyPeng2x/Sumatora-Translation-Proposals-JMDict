@@ -1,0 +1,11 @@
+{
+  "seq": 1234300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bien commun",
+      "bénéfice collectif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

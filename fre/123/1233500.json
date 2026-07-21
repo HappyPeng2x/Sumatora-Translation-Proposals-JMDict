@@ -1,0 +1,11 @@
+{
+  "seq": 1233500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "région autour de Kyoto",
+      "voisinage de Kyoto"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1231660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mois dernier",
+      "dernier mois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

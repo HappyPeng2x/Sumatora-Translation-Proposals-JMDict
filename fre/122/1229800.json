@@ -1,0 +1,12 @@
+{
+  "seq": 1229800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'effondrer en pleurant",
+      "être submergé par les larmes",
+      "ne plus pouvoir retenir ses larmes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

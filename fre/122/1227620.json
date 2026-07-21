@@ -1,0 +1,11 @@
+{
+  "seq": 1227620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "demande de congé",
+      "requête pour un congé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

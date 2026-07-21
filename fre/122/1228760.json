@@ -1,0 +1,15 @@
+{
+  "seq": 1228760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "montée soudaine",
+      "ascension abrupte"
+    ],
+    [
+      "tendance montante",
+      "sujet à la mode"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1233740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déposition",
+      "témoignage",
+      "affidavite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

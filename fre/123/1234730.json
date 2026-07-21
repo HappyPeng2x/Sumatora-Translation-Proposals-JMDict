@@ -1,0 +1,11 @@
+{
+  "seq": 1234730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point commun",
+      "caractéristique commune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

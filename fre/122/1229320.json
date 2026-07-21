@@ -1,0 +1,18 @@
+{
+  "seq": 1229320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pourrir jusqu'aux fondements",
+      "se réduire en poussière",
+      "décrépir complètement",
+      "tomber en ruine",
+      "rouiller jusqu'à disparaître"
+    ],
+    [
+      "mourir dans l'oubli",
+      "disparaître sans laisser de trace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

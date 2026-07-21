@@ -1,0 +1,16 @@
+{
+  "seq": 1228770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "urgence",
+      "crise",
+      "moment critique"
+    ],
+    [
+      "mouvement urgent",
+      "point crucial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

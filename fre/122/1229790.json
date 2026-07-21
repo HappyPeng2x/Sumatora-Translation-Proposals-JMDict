@@ -1,0 +1,12 @@
+{
+  "seq": 1229790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pleurer sans cesse",
+      "vivre dans la tristesse",
+      "passer ses jours à pleurer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1229230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sauveur",
+      "messie"
+    ],
+    [
+      "Messie",
+      "Jésus-Christ"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

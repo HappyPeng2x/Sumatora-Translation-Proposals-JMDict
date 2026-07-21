@@ -1,0 +1,15 @@
+{
+  "seq": 1230220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "donner",
+      "accorder",
+      "offrir"
+    ],
+    [
+      "faire (suivi du stem -masu d'un verbe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1234320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apparition commune (dans un film, une pièce de théâtre, etc.)",
+      "interprétation commune (dans un concert, etc.)",
+      "agir ensemble",
+      "jouer ensemble (dans un match sportif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

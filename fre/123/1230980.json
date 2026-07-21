@@ -1,0 +1,17 @@
+{
+  "seq": 1230980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancien",
+      "posséder depuis longtemps",
+      "longtemps en possession de"
+    ],
+    [
+      "ancienne possession",
+      "appartenance antérieure",
+      "avoir appartenu à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

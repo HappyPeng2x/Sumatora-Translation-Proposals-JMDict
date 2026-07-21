@@ -1,0 +1,12 @@
+{
+  "seq": 1231290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Fête des Morts",
+      "Fête des Anciens",
+      "Fête des Esprits des Anciens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

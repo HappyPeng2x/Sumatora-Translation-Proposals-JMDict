@@ -1,0 +1,11 @@
+{
+  "seq": 1232260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paquebot de luxe",
+      "paquebot de grand luxe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

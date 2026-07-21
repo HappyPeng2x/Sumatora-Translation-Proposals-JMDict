@@ -1,0 +1,14 @@
+{
+  "seq": 1229490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "force centripète"
+    ],
+    [
+      "force unificatrice",
+      "pouvoir cohésif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

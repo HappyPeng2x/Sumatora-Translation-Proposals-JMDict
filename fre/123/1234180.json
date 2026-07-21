@@ -1,0 +1,12 @@
+{
+  "seq": 1234180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compétitivité",
+      "avantage concurrentiel",
+      "puissance compétitive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

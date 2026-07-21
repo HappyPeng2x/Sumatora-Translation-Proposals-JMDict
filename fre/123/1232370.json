@@ -1,0 +1,11 @@
+{
+  "seq": 1232370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "refus de la nourriture",
+      "refus de manger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

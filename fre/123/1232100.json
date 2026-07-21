@@ -1,0 +1,12 @@
+{
+  "seq": 1232100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pays des géants",
+      "terre des géants",
+      "règne des géants"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

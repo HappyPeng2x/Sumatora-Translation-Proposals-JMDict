@@ -1,0 +1,12 @@
+{
+  "seq": 1234270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gérance conjointe",
+      "gestion commune",
+      "co-gestion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

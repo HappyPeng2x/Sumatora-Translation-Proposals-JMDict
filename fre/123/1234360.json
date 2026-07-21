@@ -1,0 +1,10 @@
+{
+  "seq": 1234360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plan coéducatif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1229640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire pleurer quelqu'un",
+      "toucher quelqu'un jusqu'aux larmes"
+    ],
+    [
+      "laisser pleurer",
+      "permettre à quelqu'un de pleurer"
+    ],
+    [
+      "faire pleurer (en raison d'une douleur ou d'une peine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

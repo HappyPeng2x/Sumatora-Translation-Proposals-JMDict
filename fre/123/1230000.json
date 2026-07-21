@@ -1,0 +1,16 @@
+{
+  "seq": 1230000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sphère",
+      "globe",
+      "orb"
+    ],
+    [
+      "balle",
+      "sphère (mathématiques)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

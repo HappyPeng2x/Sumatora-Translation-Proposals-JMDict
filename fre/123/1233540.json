@@ -1,0 +1,11 @@
+{
+  "seq": 1233540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Kanto",
+      "région du Japon comprenant Tokyo et Chiba"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

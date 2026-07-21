@@ -1,0 +1,11 @@
+{
+  "seq": 1234830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trésor commun",
+      "fonds commun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

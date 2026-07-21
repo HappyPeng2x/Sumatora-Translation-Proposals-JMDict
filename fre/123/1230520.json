@@ -1,0 +1,11 @@
+{
+  "seq": 1230520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancien fonctionnaire",
+      "ancien membre du gouvernement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

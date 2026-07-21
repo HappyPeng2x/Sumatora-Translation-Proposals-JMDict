@@ -1,0 +1,12 @@
+{
+  "seq": 1227840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retraite temporaire",
+      "congé de présence",
+      "suspension temporaire des fonctions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

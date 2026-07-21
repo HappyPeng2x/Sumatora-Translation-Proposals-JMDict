@@ -1,0 +1,22 @@
+{
+  "seq": 1228340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aspirer",
+      "pomper",
+      "soulever",
+      "absorber",
+      "extraire"
+    ],
+    [
+      "siphonner",
+      "exploiter"
+    ],
+    [
+      "adopter",
+      "prendre en compte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

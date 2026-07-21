@@ -1,0 +1,18 @@
+{
+  "seq": 1232780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "image virtuelle",
+      "image non réelle"
+    ],
+    [
+      "image fausse",
+      "apparence trompeuse",
+      "fausse représentation",
+      "prétention",
+      "fausse impression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

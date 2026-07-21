@@ -1,0 +1,12 @@
+{
+  "seq": 1227600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suspension de la représentation",
+      "intermission",
+      "arrêt de la représentation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,27 @@
+{
+  "seq": 1227830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fermeture temporaire",
+      "interruption temporaire",
+      "arrêt provisoire"
+    ],
+    [
+      "absence",
+      "non-participation",
+      "éloignement"
+    ],
+    [
+      "absence",
+      "non-présence",
+      "éloignement"
+    ],
+    [
+      "jour férié",
+      "fermeture",
+      "interruption"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

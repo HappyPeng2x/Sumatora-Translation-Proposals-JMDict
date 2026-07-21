@@ -1,0 +1,14 @@
+{
+  "seq": 1233880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accompagnant",
+      "présence en tant qu'accompagnateur"
+    ],
+    [
+      "offrant intérieur (l'un des 10 moines hautement rangés servant à la salle des offrandes intérieures)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1227510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en prenant des pauses",
+      "en reposant par intermittence"
+    ],
+    [
+      "avec réflexion",
+      "après mûre réflexion",
+      "avec prudence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

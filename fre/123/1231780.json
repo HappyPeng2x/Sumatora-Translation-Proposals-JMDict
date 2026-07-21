@@ -1,0 +1,17 @@
+{
+  "seq": 1231780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail supplémentaire",
+      "heure supplémentaire"
+    ],
+    [
+      "détention",
+      "retard",
+      "séance prolongée",
+      "séance supplémentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

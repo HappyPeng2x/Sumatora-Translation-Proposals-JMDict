@@ -1,0 +1,15 @@
+{
+  "seq": 1232570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lever une main",
+      "montrer les mains (par exemple pour voter)"
+    ],
+    [
+      "salue",
+      "salutation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

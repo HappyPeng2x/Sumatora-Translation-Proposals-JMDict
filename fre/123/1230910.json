@@ -1,0 +1,15 @@
+{
+  "seq": 1230910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancien système",
+      "ancienne ordonnance"
+    ],
+    [
+      "système éducatif antérieur à la Seconde Guerre mondiale",
+      "système scolaire pré-guerre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

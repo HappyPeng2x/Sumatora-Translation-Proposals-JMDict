@@ -1,0 +1,12 @@
+{
+  "seq": 1227540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "auberge de campagne",
+      "maison de thé située en dehors des villes",
+      "établissement de thé servant de lieu de repos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

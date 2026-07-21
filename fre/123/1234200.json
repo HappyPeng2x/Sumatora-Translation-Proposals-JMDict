@@ -1,0 +1,12 @@
+{
+  "seq": 1234200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course de bateau",
+      "course de hydroglisseurs",
+      "jeu de pari sur les courses de bateaux au Japon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

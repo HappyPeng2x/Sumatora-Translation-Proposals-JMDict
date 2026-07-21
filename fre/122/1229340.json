@@ -1,0 +1,16 @@
+{
+  "seq": 1229340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "demande",
+      "requête",
+      "appel",
+      "revendication"
+    ],
+    [
+      "achat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

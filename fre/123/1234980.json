@@ -1,0 +1,10 @@
+{
+  "seq": 1234980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne du parti"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
