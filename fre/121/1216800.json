@@ -1,0 +1,13 @@
+{
+  "seq": 1216800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coiffure traditionnelle de femme mariée avec un chignon ovale sur la tête"
+    ],
+    [
+      "type de coiffure masculine de l'époque d'Edo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

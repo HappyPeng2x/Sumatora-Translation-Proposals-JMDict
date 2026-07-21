@@ -1,0 +1,13 @@
+{
+  "seq": 1216860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rires étouffés",
+      "sourire contenu",
+      "gloussement étouffé",
+      "ricanement contenu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

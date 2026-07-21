@@ -1,0 +1,15 @@
+{
+  "seq": 1219380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tache de beauté",
+      "endroit aux beaux paysages"
+    ],
+    [
+      "victoire inattendue",
+      "victoire par une tactique inusitée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1215370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lenteur",
+      "paresse",
+      "lenteur dans l'action"
+    ],
+    [
+      "manque de fermeté",
+      "détachement",
+      "négligence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

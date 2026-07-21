@@ -1,0 +1,15 @@
+{
+  "seq": 1215600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adultère",
+      "infidélité"
+    ],
+    [
+      "amant",
+      "maîtresse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

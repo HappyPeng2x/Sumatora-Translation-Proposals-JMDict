@@ -1,0 +1,10 @@
+{
+  "seq": 1213030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fête organisée pour accueillir des nouveaux employés et dire au revoir aux employés partant en retraite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

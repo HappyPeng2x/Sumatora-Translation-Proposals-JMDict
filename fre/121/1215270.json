@@ -1,0 +1,17 @@
+{
+  "seq": 1215270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne de mélange racial",
+      "hybride",
+      "métis"
+    ],
+    [
+      "hybride",
+      "croisement",
+      "métis (en biologie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

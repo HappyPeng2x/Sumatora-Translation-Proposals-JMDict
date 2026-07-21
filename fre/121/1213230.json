@@ -1,0 +1,10 @@
+{
+  "seq": 1213230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture d'un texte chinois classique en japonais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

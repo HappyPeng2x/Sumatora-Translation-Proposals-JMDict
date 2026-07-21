@@ -1,0 +1,12 @@
+{
+  "seq": 1212810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autrement dit",
+      "c'est-à-dire",
+      "en d'autres termes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1213200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conversion des kanji"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

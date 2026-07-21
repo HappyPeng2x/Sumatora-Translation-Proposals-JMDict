@@ -1,0 +1,25 @@
+{
+  "seq": 1218950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réceptacle",
+      "contenant",
+      "vessel"
+    ],
+    [
+      "ustensile",
+      "outil",
+      "meuble"
+    ],
+    [
+      "biens meubles"
+    ],
+    [
+      "calibre",
+      "talent",
+      "capacité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

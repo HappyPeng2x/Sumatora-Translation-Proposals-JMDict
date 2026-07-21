@@ -1,0 +1,17 @@
+{
+  "seq": 1215430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "largeur",
+      "fronton",
+      "étendue (d'un bâtiment, d'un terrain, etc.)"
+    ],
+    [
+      "étendue",
+      "portée",
+      "gamme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

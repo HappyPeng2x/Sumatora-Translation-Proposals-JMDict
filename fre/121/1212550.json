@@ -1,0 +1,15 @@
+{
+  "seq": 1212550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sensibilité",
+      "capacité à détecter une faible quantité de rayonnement ou de signal"
+    ],
+    [
+      "sensibilité",
+      "capacité d'une pellicule photographique à capter la lumière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

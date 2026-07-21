@@ -1,0 +1,28 @@
+{
+  "seq": 1216210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "palais",
+      "manoir",
+      "château"
+    ],
+    [
+      "noblesse",
+      "seigneur",
+      "maître",
+      "personnage distingué"
+    ],
+    [
+      "cabine",
+      "espace couvert sur un bateau"
+    ],
+    [
+      "grand bateau de plaisance"
+    ],
+    [
+      "résidence temporaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

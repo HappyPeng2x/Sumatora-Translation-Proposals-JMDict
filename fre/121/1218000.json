@@ -1,0 +1,18 @@
+{
+  "seq": 1218000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désir",
+      "souhait",
+      "demande",
+      "requête"
+    ],
+    [
+      "intention d'une demande",
+      "objet d'une requête",
+      "contenu d'une prière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

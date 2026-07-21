@@ -1,0 +1,12 @@
+{
+  "seq": 1218550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crise",
+      "danger grave",
+      "dépression sérieuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

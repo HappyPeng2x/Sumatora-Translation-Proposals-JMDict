@@ -1,0 +1,11 @@
+{
+  "seq": 1215250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intervenant",
+      "situé entre deux choses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

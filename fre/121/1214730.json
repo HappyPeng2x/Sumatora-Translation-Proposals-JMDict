@@ -1,0 +1,13 @@
+{
+  "seq": 1214730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navires de guerre et autres vaisseaux"
+    ],
+    [
+      "navires militaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

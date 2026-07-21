@@ -1,0 +1,19 @@
+{
+  "seq": 1214230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gestionnaire",
+      "administrateur",
+      "propriétaire",
+      "gardien",
+      "surveillant",
+      "superviseur",
+      "conservateur"
+    ],
+    [
+      "racine (utilisateur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

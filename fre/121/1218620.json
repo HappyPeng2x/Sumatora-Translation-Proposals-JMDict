@@ -1,0 +1,15 @@
+{
+  "seq": 1218620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne dangereuse",
+      "risque pour la sécurité"
+    ],
+    [
+      "personne instable",
+      "individu imprévisible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

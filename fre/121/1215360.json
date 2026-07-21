@@ -1,0 +1,12 @@
+{
+  "seq": 1215360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "immédiatement",
+      "sans délai",
+      "sur-le-champ"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

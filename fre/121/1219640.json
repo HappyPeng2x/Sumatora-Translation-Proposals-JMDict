@@ -1,0 +1,12 @@
+{
+  "seq": 1219640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'approcher",
+      "se blottir",
+      "se peloter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

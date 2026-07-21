@@ -1,0 +1,18 @@
+{
+  "seq": 1217090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu",
+      "agir en jouant",
+      "s'amuser"
+    ],
+    [
+      "traiter avec légèreté",
+      "faire un jouet de",
+      "faire semblant",
+      "trifouiller"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

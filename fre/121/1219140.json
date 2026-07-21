@@ -1,0 +1,20 @@
+{
+  "seq": 1219140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "base",
+      "fondement",
+      "support"
+    ],
+    [
+      "base",
+      "base (algèbre linéaire)"
+    ],
+    [
+      "base",
+      "base (topologie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1215850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne concernée",
+      "personnes impliquées",
+      "les concernés",
+      "le personnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

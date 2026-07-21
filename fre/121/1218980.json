@@ -1,0 +1,25 @@
+{
+  "seq": 1218980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apparence",
+      "physique",
+      "d'une femme",
+      "traits du visage"
+    ],
+    [
+      "capacité",
+      "talent",
+      "aptitude",
+      "qualité"
+    ],
+    [
+      "estime",
+      "publique",
+      "dignité",
+      "honneur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

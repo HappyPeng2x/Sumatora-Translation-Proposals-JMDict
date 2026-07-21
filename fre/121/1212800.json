@@ -1,0 +1,12 @@
+{
+  "seq": 1212800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réalisation (de biens en argent)",
+      "conversion (en argent)",
+      "liquidation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

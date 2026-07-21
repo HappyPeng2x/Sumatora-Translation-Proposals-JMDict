@@ -1,0 +1,16 @@
+{
+  "seq": 1216620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruine totale",
+      "effondrement",
+      "débâcle"
+    ],
+    [
+      "perte totale (de quelque chose, par exemple la face)",
+      "perdre complètement (quelque chose)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

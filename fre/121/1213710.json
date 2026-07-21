@@ -1,0 +1,16 @@
+{
+  "seq": 1213710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "supervision",
+      "édition",
+      "direction générale"
+    ],
+    [
+      "directeur",
+      "superviseur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

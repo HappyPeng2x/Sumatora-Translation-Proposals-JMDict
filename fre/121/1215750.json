@@ -1,0 +1,15 @@
+{
+  "seq": 1215750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conversation à voix basse",
+      "discours en douceur"
+    ],
+    [
+      "bavardage inutile",
+      "parler sans but"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1217220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ignorer",
+      "ne pas prendre en compte",
+      "être indifférent à",
+      "ne pas remarquer",
+      "ne pas considérer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

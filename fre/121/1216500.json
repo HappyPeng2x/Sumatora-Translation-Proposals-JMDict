@@ -1,0 +1,11 @@
+{
+  "seq": 1216500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roast complet",
+      "viande entière rôtie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

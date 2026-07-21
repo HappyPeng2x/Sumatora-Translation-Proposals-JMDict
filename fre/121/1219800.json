@@ -1,0 +1,12 @@
+{
+  "seq": 1219800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "donateur",
+      "donneur",
+      "contribuant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

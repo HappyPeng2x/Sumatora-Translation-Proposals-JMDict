@@ -1,0 +1,11 @@
+{
+  "seq": 1216030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conseiller principal de l'empereur",
+      "conseiller impérial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

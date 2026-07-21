@@ -1,0 +1,11 @@
+{
+  "seq": 1218600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "considérer comme dangereux",
+      "identifier comme une menace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1217780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rencontrer",
+      "se faire face à quelqu'un"
+    ],
+    [
+      "jouer ensemble",
+      "apparaître ensemble dans un film ou une pièce de théâtre"
+    ],
+    [
+      "s'opposer",
+      "être en confrontation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

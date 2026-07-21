@@ -1,0 +1,12 @@
+{
+  "seq": 1216090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "produit lié",
+      "produit associé",
+      "produit connexe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

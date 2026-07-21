@@ -1,0 +1,11 @@
+{
+  "seq": 1218030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui prie dans un temple",
+      "personne qui fait des prières dans un temple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

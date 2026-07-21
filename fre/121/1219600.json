@@ -1,0 +1,11 @@
+{
+  "seq": 1219600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "permettre à (quelqu'un ou quelque chose) de s'approcher",
+      "laisser approcher (souvent dans le négatif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

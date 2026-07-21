@@ -1,0 +1,15 @@
+{
+  "seq": 1217250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point principal",
+      "objet principal",
+      "but principal",
+      "noyau",
+      "essence",
+      "substance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1219610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réunion",
+      "rassemblement"
+    ],
+    [
+      "assemblée villageoise"
+    ],
+    [
+      "approche de deux lutteurs",
+      "affrontement de deux sumos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

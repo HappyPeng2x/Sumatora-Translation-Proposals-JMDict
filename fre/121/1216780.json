@@ -1,0 +1,15 @@
+{
+  "seq": 1216780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se retrouver nu",
+      "être dénudé"
+    ],
+    [
+      "perdre tout ce que l'on possède",
+      "être ruiné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

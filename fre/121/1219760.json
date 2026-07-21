@@ -1,0 +1,11 @@
+{
+  "seq": 1219760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parasite",
+      "organisme qui vit en s'appuyant sur un autre organisme pour sa survie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

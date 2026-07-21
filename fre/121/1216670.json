@@ -1,0 +1,20 @@
+{
+  "seq": 1216670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avaler tout cru",
+      "avaler sans mâcher"
+    ],
+    [
+      "croire aveuglément",
+      "accepter sans comprendre",
+      "mémoriser sans comprendre"
+    ],
+    [
+      "accepter sans conditions",
+      "accepter tel quel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

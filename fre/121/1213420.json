@@ -1,0 +1,13 @@
+{
+  "seq": 1213420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépendance excessive",
+      "manque d'autonomie",
+      "comportement attentionnel",
+      "attitude de supposée bienveillance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

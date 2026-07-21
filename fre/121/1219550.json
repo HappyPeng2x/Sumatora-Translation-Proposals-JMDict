@@ -1,0 +1,17 @@
+{
+  "seq": 1219550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phase finale d'une partie",
+      "jeu de fin de partie (en particulier au go)",
+      "mouvements de fin de partie qui étendent son territoire ou réduisent celui de l'adversaire"
+    ],
+    [
+      "rassemblement",
+      "recueillement",
+      "convergence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

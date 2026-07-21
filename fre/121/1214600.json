@@ -1,0 +1,12 @@
+{
+  "seq": 1214600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pinceau et encre",
+      "écriture",
+      "dessin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

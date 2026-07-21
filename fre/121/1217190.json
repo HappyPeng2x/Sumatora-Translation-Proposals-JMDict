@@ -1,0 +1,22 @@
+{
+  "seq": 1217190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclat",
+      "lueur",
+      "brillant",
+      "étincelle",
+      "scintillement"
+    ],
+    [
+      "vue",
+      "aperçu",
+      "intuition",
+      "pénétration",
+      "acuité",
+      "discernement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

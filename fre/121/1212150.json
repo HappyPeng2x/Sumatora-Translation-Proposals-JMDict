@@ -1,0 +1,12 @@
+{
+  "seq": 1212150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "route principale",
+      "route arterielle",
+      "voie principale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

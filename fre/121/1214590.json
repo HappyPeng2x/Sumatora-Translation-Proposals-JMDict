@@ -1,0 +1,11 @@
+{
+  "seq": 1214590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Secrétaire général du cabinet",
+      "Secrétaire du cabinet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

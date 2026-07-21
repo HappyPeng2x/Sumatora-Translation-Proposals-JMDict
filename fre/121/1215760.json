@@ -1,0 +1,12 @@
+{
+  "seq": 1215760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "revenir au sujet principal",
+      "reprendre le fil de la discussion",
+      "mettre de côté les digressions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

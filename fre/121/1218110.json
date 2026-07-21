@@ -1,0 +1,14 @@
+{
+  "seq": 1218110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "projet",
+      "entreprise",
+      "entreprise audacieuse",
+      "complot",
+      "manœuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

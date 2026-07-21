@@ -1,0 +1,12 @@
+{
+  "seq": 1213010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adieu chaleureux",
+      "envoi solennel",
+      "dernière salutation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

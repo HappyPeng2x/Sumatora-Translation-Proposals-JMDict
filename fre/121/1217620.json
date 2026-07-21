@@ -1,0 +1,20 @@
+{
+  "seq": 1217620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "motif en zigzag",
+      "formation en zigzag"
+    ],
+    [
+      "marche descendante d'un quai"
+    ],
+    [
+      "chemin couvert par des surplombs pour se protéger de la neige"
+    ],
+    [
+      "grande scie utilisée par les bûcherons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

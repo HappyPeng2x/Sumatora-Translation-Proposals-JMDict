@@ -1,0 +1,17 @@
+{
+  "seq": 1219430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fantastique",
+      "bizarre",
+      "incroyable",
+      "inimaginable"
+    ],
+    [
+      "tumbo",
+      "Welwitschia mirabilis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1215110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "présence",
+      "dignité"
+    ],
+    [
+      "corpulence",
+      "obésité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

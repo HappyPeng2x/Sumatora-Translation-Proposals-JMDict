@@ -1,0 +1,12 @@
+{
+  "seq": 1216640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plafond voûté",
+      "plafond en dôme",
+      "plafond circulaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

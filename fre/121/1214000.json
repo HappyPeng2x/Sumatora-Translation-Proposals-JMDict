@@ -1,0 +1,11 @@
+{
+  "seq": 1214000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fabricant de panneaux de signalisation",
+      "artisan qui fabrique des enseignes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

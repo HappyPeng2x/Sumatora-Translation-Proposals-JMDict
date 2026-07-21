@@ -1,0 +1,11 @@
+{
+  "seq": 1212620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "émotion profonde",
+      "être rempli d'émotion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

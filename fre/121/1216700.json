@@ -1,0 +1,17 @@
+{
+  "seq": 1216700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tête rasée",
+      "crâne rasé"
+    ],
+    [
+      "désert, sans végétation",
+      "dépouillé de ses feuilles",
+      "chauve",
+      "dénudé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

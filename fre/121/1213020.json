@@ -1,0 +1,12 @@
+{
+  "seq": 1213020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "party de départ",
+      "réception de départ",
+      "soirée d'adieu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

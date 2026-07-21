@@ -1,0 +1,13 @@
+{
+  "seq": 1217530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la formation de vol des oies",
+      "le vol en ligne des oies",
+      "aligner les épaules comme des oies en vol",
+      "marcher en file indienne comme des oies en vol"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

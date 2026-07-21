@@ -1,0 +1,13 @@
+{
+  "seq": 1218650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "matériel dangereux",
+      "marchandises dangereuses",
+      "explosifs",
+      "matières inflammables"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

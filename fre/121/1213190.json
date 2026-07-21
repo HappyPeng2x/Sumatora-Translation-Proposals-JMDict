@@ -1,0 +1,12 @@
+{
+  "seq": 1213190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sphère culturelle des caractères chinois",
+      "sinosphère",
+      "régions où les caractères chinois sont ou ont été historiquement utilisés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

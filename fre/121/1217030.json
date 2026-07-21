@@ -1,0 +1,11 @@
+{
+  "seq": 1217030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médicament à rincer la bouche",
+      "solution buvable pour désinfecter la bouche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

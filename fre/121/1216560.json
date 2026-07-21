@@ -1,0 +1,23 @@
+{
+  "seq": 1216560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tronc d'arbre",
+      "bûche"
+    ],
+    [
+      "dace",
+      "Tribolodon hakonensis"
+    ],
+    [
+      "sujet d'expérience",
+      "souffrant d'expériences humaines"
+    ],
+    [
+      "religieuse prostituée",
+      "moniale prostituée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

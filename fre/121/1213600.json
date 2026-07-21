@@ -1,0 +1,16 @@
+{
+  "seq": 1213600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ambroisie",
+      "douceur",
+      "délice"
+    ],
+    [
+      "mel",
+      "fruits du melon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

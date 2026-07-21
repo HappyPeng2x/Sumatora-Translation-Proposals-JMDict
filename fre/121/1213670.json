@@ -1,0 +1,11 @@
+{
+  "seq": 1213670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médecin légiste",
+      "coroner médical"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

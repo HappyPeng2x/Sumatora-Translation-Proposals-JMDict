@@ -1,0 +1,11 @@
+{
+  "seq": 1217340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roche de fond",
+      "roche sous-jacente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

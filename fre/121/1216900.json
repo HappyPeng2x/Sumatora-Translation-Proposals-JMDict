@@ -1,0 +1,15 @@
+{
+  "seq": 1216900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "implication",
+      "connotation"
+    ],
+    [
+      "implication matérielle",
+      "conditionnelle matérielle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

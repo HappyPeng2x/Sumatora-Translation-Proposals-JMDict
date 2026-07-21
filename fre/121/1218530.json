@@ -1,0 +1,12 @@
+{
+  "seq": 1218530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaire de vie ou de mort",
+      "situation critique",
+      "crise menaçant la survie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

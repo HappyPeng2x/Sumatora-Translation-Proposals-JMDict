@@ -1,0 +1,14 @@
+{
+  "seq": 1215170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre en compte",
+      "avoir en tête",
+      "considérer",
+      "apprendre de",
+      "prendre comme leçon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

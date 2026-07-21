@@ -1,0 +1,12 @@
+{
+  "seq": 1218390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agir avec peur",
+      "paraître inquiet",
+      "reculer devant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

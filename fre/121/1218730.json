@@ -1,0 +1,18 @@
+{
+  "seq": 1218730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se sentir satisfait",
+      "être content",
+      "être fier",
+      "se pavaner",
+      "se réjouir"
+    ],
+    [
+      "montrer de la joie (dans sa voix ou son expression)",
+      "gémir de plaisir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

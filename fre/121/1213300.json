@@ -1,0 +1,11 @@
+{
+  "seq": 1213300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaire environnementale",
+      "programme environnemental"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1216230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnel",
+      "du personnel",
+      "du bâtiment public"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

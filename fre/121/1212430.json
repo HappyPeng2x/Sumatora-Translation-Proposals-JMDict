@@ -1,0 +1,11 @@
+{
+  "seq": 1212430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exprimer des émotions",
+      "faire des expressions faciales"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

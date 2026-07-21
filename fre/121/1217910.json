@@ -1,0 +1,11 @@
+{
+  "seq": 1217910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retirer une demande",
+      "abandonner une requête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

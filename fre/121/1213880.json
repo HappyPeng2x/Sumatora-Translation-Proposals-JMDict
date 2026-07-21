@@ -1,0 +1,11 @@
+{
+  "seq": 1213880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "école de soins infirmiers",
+      "institut de formation pour infirmières"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

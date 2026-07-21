@@ -1,0 +1,13 @@
+{
+  "seq": 1219270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fondamentalement",
+      "essentiellement",
+      "au fond",
+      "en substance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

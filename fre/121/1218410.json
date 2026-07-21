@@ -1,0 +1,14 @@
+{
+  "seq": 1218410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "craindre",
+      "douter",
+      "avoir des doutes",
+      "être inquiet",
+      "être anxieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

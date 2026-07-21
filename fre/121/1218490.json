@@ -1,0 +1,11 @@
+{
+  "seq": 1218490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remplaçant en cas de besoin",
+      "joueur de remplacement en situation critique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

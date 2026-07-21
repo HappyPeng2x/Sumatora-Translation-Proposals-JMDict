@@ -1,0 +1,12 @@
+{
+  "seq": 1219790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle de spectacle",
+      "théâtre de variétés",
+      "music-hall"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

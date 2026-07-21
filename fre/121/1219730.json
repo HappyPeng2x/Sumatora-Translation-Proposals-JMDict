@@ -1,0 +1,17 @@
+{
+  "seq": 1219730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hébergement",
+      "pension",
+      "logement et repas"
+    ],
+    [
+      "résidence universitaire",
+      "dormitoire",
+      "foyer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

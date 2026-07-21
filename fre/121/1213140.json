@@ -1,0 +1,12 @@
+{
+  "seq": 1213140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture han",
+      "lecture on basée sur le chinois de la dynastie Tang",
+      "lecture de kanji issue de la dynastie Tang"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

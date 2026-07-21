@@ -1,0 +1,11 @@
+{
+  "seq": 1219000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ton fondamental",
+      "note fondamentale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

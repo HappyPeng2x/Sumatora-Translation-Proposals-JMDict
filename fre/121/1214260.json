@@ -1,0 +1,19 @@
+{
+  "seq": 1214260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "administrateur",
+      "concierge",
+      "superviseur",
+      "gardien",
+      "responsable",
+      "directeur"
+    ],
+    [
+      "tuteur",
+      "exécutant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

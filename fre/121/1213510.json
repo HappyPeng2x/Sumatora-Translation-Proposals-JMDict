@@ -1,0 +1,20 @@
+{
+  "seq": 1213510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saveur douce",
+      "douceur",
+      "mildesse"
+    ],
+    [
+      "flatterie",
+      "mièvrerie"
+    ],
+    [
+      "bêtise",
+      "stupidité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

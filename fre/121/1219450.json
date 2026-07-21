@@ -1,0 +1,17 @@
+{
+  "seq": 1219450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "digne de louanges",
+      "méritant l'éloges",
+      "élogiable"
+    ],
+    [
+      "étrange",
+      "bizarre",
+      "singulier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

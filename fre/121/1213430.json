@@ -1,0 +1,12 @@
+{
+  "seq": 1213430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfant gâté",
+      "enfant capricieux",
+      "petit prince/Princesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

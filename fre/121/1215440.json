@@ -1,0 +1,23 @@
+{
+  "seq": 1215440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pause",
+      "intervalle"
+    ],
+    [
+      "distance",
+      "portée",
+      "étendue"
+    ],
+    [
+      "moment propice",
+      "occasion convenable"
+    ],
+    [
+      "distance entre les adversaires (en kendo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

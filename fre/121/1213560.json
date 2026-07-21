@@ -1,0 +1,11 @@
+{
+  "seq": 1213560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui préfère les choses sucrées aux boissons alcoolisées",
+      "personne ayant un faible pour le sucré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

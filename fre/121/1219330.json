@@ -1,0 +1,15 @@
+{
+  "seq": 1219330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anomalie",
+      "déformation"
+    ],
+    [
+      "forme étrange",
+      "forme inhabituelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

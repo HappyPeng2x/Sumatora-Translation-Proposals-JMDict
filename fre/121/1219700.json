@@ -1,0 +1,15 @@
+{
+  "seq": 1219700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "escale en port",
+      "appel à un port"
+    ],
+    [
+      "escale en aéroport",
+      "arrêt intermédiaire à un aéroport"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

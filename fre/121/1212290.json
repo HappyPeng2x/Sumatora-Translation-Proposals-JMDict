@@ -1,0 +1,24 @@
+{
+  "seq": 1212290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réactivité",
+      "sensibilité",
+      "sympathie",
+      "réceptivité"
+    ],
+    [
+      "réponse divine",
+      "réaction divine"
+    ],
+    [
+      "inspiration divine"
+    ],
+    [
+      "induction",
+      "inductance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

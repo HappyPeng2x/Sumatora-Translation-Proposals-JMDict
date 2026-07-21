@@ -1,0 +1,11 @@
+{
+  "seq": 1217760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grimacer",
+      "froncer les sourcils"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
