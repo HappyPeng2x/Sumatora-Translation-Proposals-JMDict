@@ -1,0 +1,11 @@
+{
+  "seq": 1205210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapport de grandissement",
+      "puissance de grossissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

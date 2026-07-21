@@ -1,0 +1,13 @@
+{
+  "seq": 1203140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "muscle adducteur"
+    ],
+    [
+      "muscle adducteur d'un bivalve (ex. moule, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1208680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "descente",
+      "glissement",
+      "descente en ski"
+    ],
+    [
+      "descente en pente raide",
+      "course en descente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

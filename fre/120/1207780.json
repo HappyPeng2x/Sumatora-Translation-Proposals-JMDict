@@ -1,0 +1,14 @@
+{
+  "seq": 1207780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bûche fendue",
+      "bois fendu"
+    ],
+    [
+      "mélangeur (pour un cocktail alcoolisé)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

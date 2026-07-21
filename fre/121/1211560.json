@@ -1,0 +1,17 @@
+{
+  "seq": 1211560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être bien équipé",
+      "être bien équipé (d'armes, de matériel, etc.)",
+      "être complet (en équipement)"
+    ],
+    [
+      "complet",
+      "total",
+      "entier (en mathématiques)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

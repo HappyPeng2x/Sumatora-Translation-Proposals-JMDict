@@ -1,0 +1,15 @@
+{
+  "seq": 1207120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom scientifique",
+      "nom binomial",
+      "nom latin"
+    ],
+    [
+      "réputation académique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

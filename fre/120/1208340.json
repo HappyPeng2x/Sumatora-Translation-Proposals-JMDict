@@ -1,0 +1,16 @@
+{
+  "seq": 1208340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stimulation",
+      "régénération",
+      "renouveau",
+      "réanimation"
+    ],
+    [
+      "activation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

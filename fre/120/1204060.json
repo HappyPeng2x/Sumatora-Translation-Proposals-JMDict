@@ -1,0 +1,12 @@
+{
+  "seq": 1204060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "externe",
+      "extérieur",
+      "attaché à l'extérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

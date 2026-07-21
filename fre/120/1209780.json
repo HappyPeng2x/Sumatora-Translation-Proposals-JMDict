@@ -1,0 +1,20 @@
+{
+  "seq": 1209780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le ciel et la terre",
+      "l'univers"
+    ],
+    [
+      "les trigrammes Qian et Kun (du I Ching)"
+    ],
+    [
+      "le yin et le yang"
+    ],
+    [
+      "le nord-ouest et le sud-ouest"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

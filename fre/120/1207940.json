@@ -1,0 +1,18 @@
+{
+  "seq": 1207940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plutôt",
+      "assez",
+      "relativement"
+    ],
+    [
+      "taux",
+      "rapport",
+      "proportion",
+      "pourcentage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

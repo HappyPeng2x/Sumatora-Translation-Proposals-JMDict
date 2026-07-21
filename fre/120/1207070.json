@@ -1,0 +1,11 @@
+{
+  "seq": 1207070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "institution d'enseignement supérieur",
+      "centre académique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

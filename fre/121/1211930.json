@@ -1,0 +1,12 @@
+{
+  "seq": 1211930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détendre",
+      "alléger",
+      "assoupir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

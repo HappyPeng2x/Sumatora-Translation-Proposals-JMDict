@@ -1,0 +1,12 @@
+{
+  "seq": 1207410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "thème",
+      "motif",
+      "sujet mélodique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

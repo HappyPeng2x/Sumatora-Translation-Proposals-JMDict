@@ -1,0 +1,10 @@
+{
+  "seq": 1202930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extraction de la racine carrée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

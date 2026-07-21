@@ -1,0 +1,12 @@
+{
+  "seq": 1206850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pour l'étude",
+      "d'étude",
+      "pédagogique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

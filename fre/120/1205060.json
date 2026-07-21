@@ -1,0 +1,13 @@
+{
+  "seq": 1205060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque ministère"
+    ],
+    [
+      "chaque province (en Chine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1203490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail en dehors du bureau",
+      "travail hors des locaux",
+      "service en dehors du siège"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

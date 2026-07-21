@@ -1,0 +1,12 @@
+{
+  "seq": 1204220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "usage externe",
+      "application externe",
+      "utilisation externe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

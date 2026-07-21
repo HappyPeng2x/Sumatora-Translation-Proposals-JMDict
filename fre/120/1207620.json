@@ -1,0 +1,19 @@
+{
+  "seq": 1207620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négocier",
+      "discuter",
+      "parler de quelque chose avec quelqu'un",
+      "tâtonner",
+      "battre en flanc"
+    ],
+    [
+      "jeter l'un sur l'autre",
+      "arroser mutuellement",
+      "verser l'un sur l'autre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

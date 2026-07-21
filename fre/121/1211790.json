@@ -1,0 +1,15 @@
+{
+  "seq": 1211790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "journal officiel",
+      "gazette officielle",
+      "bulletin gouvernemental"
+    ],
+    [
+      "télégramme officiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

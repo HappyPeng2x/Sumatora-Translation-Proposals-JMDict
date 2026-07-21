@@ -1,0 +1,11 @@
+{
+  "seq": 1206090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne éclairée",
+      "personne illuminée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

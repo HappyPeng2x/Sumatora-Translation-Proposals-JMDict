@@ -1,0 +1,13 @@
+{
+  "seq": 1204710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne concernée",
+      "personne concernée par une affaire",
+      "partie",
+      "litigant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

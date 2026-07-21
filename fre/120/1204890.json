@@ -1,0 +1,14 @@
+{
+  "seq": 1204890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque gare"
+    ],
+    [
+      "train local",
+      "train s'arrêtant à chaque gare"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

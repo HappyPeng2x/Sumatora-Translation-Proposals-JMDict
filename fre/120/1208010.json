@@ -1,0 +1,20 @@
+{
+  "seq": 1208010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fragment",
+      "pièce brisée"
+    ],
+    [
+      "en dessous",
+      "au-dessous de",
+      "en deçà de"
+    ],
+    [
+      "téléchargement et distribution illégale de logiciels commerciaux",
+      "warez"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

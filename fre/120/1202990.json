@@ -1,0 +1,10 @@
+{
+  "seq": 1202990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extraction de la racine cubique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

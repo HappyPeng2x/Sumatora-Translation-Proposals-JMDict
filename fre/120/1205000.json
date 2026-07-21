@@ -1,0 +1,11 @@
+{
+  "seq": 1205000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque journal",
+      "tous les journaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,33 @@
+{
+  "seq": 1207570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "début",
+      "mise en marche",
+      "mise en œuvre",
+      "engagement (d'un verrou)"
+    ],
+    [
+      "dépenses",
+      "coûts",
+      "frais"
+    ],
+    [
+      "attaque (surtout en échecs, une approche de coin)",
+      "manœuvre d'attaque"
+    ],
+    [
+      "barbe (d'une canne à peche)"
+    ],
+    [
+      "charge",
+      "responsabilité",
+      "agent",
+      "employé",
+      "fonctionnaire",
+      "clerc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

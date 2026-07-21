@@ -1,0 +1,17 @@
+{
+  "seq": 1209610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débris",
+      "ruines",
+      "amas de gravats"
+    ],
+    [
+      "ordures",
+      "déchets",
+      "rubbish"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

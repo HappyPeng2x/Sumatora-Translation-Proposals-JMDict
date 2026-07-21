@@ -1,0 +1,19 @@
+{
+  "seq": 1204550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "certainement",
+      "vraiment",
+      "véritablement",
+      "en effet"
+    ],
+    [
+      "peut-être",
+      "probablement",
+      "sans doute",
+      "peut-être bien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

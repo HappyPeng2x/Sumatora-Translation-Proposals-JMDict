@@ -1,0 +1,17 @@
+{
+  "seq": 1208770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[n] kudzu (Pueraria montana); Japanese arrowroot",
+      "kudzu (Pueraria montana)",
+      "arrowroot japonais"
+    ],
+    [
+      "[n] Chinese moonseed (Sinomenium acutum)",
+      "grain de lune chinois",
+      "Sinomenium acutum"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

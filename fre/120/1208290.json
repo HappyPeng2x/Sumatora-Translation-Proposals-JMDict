@@ -1,0 +1,17 @@
+{
+  "seq": 1208290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "film d'action",
+      "film d'aventure",
+      "drame d'action"
+    ],
+    [
+      "scène tumultueuse",
+      "scène de combat",
+      "scène de lutte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

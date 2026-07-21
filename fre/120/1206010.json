@@ -1,0 +1,10 @@
+{
+  "seq": 1206010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fonction de densité de probabilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

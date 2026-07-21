@@ -1,0 +1,25 @@
+{
+  "seq": 1204170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "champ de jeu extérieur",
+      "zone extérieure du terrain de baseball"
+    ],
+    [
+      "joueur de champ extérieur",
+      "joueur qui occupe la position d'extérieur en baseball"
+    ],
+    [
+      "gradins du champ extérieur",
+      "partie des gradins située dans le champ extérieur d'un stade de baseball"
+    ],
+    [
+      "témoin",
+      "personne extérieure à une situation",
+      "spectateur",
+      "personne qui assiste sans participer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

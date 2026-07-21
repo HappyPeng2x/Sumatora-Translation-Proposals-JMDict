@@ -1,0 +1,11 @@
+{
+  "seq": 1203160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poison des coquillages",
+      "toxine des mollusques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1209210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mâcher soigneusement",
+      "mordre (par exemple les lèvres)"
+    ],
+    [
+      "réfléchir à quelque chose",
+      "méditer sur quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

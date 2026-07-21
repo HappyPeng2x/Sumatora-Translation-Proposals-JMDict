@@ -1,0 +1,10 @@
+{
+  "seq": 1205960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "modèle stochastique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

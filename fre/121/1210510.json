@@ -1,0 +1,17 @@
+{
+  "seq": 1210510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "froid",
+      "temps froid",
+      "froidure"
+    ],
+    [
+      "agar",
+      "gélatine végétale",
+      "agar-agar"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1208420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir actif",
+      "augmentation de l'activité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

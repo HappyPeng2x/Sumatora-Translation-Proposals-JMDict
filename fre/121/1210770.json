@@ -1,0 +1,12 @@
+{
+  "seq": 1210770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caissier",
+      "comptable",
+      "trésorier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

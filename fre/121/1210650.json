@@ -1,0 +1,11 @@
+{
+  "seq": 1210650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enquête et décision",
+      "déliberation et jugement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

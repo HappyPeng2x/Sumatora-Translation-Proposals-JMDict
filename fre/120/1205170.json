@@ -1,0 +1,13 @@
+{
+  "seq": 1205170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discussion détaillée",
+      "exposition détaillée",
+      "exposé détaillé",
+      "analyse point par point"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

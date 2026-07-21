@@ -1,0 +1,12 @@
+{
+  "seq": 1208220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attacher",
+      "lier",
+      "fixer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

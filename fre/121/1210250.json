@@ -1,0 +1,16 @@
+{
+  "seq": 1210250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système",
+      "indiquant",
+      "les rangs",
+      "courtisans",
+      "par",
+      "les couleurs",
+      "des couvre-chefs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

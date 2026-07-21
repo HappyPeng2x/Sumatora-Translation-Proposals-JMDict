@@ -1,0 +1,15 @@
+{
+  "seq": 1211600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blocage total",
+      "arrêt complet",
+      "fermeture totale"
+    ],
+    [
+      "shutout (baseball)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

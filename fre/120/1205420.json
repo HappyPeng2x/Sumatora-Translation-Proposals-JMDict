@@ -1,0 +1,17 @@
+{
+  "seq": 1205420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marqué",
+      "remarquable",
+      "notable",
+      "apparent"
+    ],
+    [
+      "beaucoup plus bon",
+      "exceptionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

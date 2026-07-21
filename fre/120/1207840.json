@@ -1,0 +1,15 @@
+{
+  "seq": 1207840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être divisible par",
+      "pouvoir être divisé sans reste"
+    ],
+    [
+      "être satisfait",
+      "être convaincu (souvent utilisé à la négative)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

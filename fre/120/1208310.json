@@ -1,0 +1,15 @@
+{
+  "seq": 1208310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme imprimée",
+      "écriture imprimée"
+    ],
+    [
+      "police de caractères",
+      "type de police"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1209180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étouffer",
+      "suffoquer",
+      "réprimer (un sourire, un bâillement, etc.)"
+    ],
+    [
+      "mordre à mort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1204230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médicament à appliquer à l'extérieur",
+      "remède externe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1204030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séjourner ailleurs",
+      "passer la nuit ailleurs",
+      "dormir chez quelqu'un d'autre",
+      "rester chez soi la nuit (par exemple après l'hôpital)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

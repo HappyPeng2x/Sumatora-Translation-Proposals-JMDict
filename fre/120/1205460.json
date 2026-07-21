@@ -1,0 +1,15 @@
+{
+  "seq": 1205460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stockage",
+      "abri pour équipement et machines"
+    ],
+    [
+      "enregistrement dans la mémoire d'un ordinateur",
+      "sauvegarde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

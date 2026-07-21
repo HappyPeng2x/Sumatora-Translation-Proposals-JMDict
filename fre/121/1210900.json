@@ -1,0 +1,13 @@
+{
+  "seq": 1210900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recommandation",
+      "conseil",
+      "suggestion",
+      "encouragement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1206380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tous les deux mois",
+      "tous les mois alternés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

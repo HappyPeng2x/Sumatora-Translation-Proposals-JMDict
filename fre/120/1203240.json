@@ -1,0 +1,11 @@
+{
+  "seq": 1203240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapport",
+      "d'une infraction commise par un fonctionnaire adressé à l'empereur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

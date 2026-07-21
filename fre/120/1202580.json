@@ -1,0 +1,17 @@
+{
+  "seq": 1202580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture",
+      "début",
+      "début d'activité"
+    ],
+    [
+      "inauguration",
+      "ouverture officielle",
+      "mise en service"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

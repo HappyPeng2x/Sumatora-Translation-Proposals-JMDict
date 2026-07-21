@@ -1,0 +1,11 @@
+{
+  "seq": 1206980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diplômé d'un collège",
+      "diplômé d'un lycée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

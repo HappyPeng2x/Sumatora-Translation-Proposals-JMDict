@@ -1,0 +1,15 @@
+{
+  "seq": 1208120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuisine",
+      "cuisine (spécialement japonaise)"
+    ],
+    [
+      "restaurant",
+      "restaurant (japonais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1207390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "victoire facile",
+      "dénouement sans difficulté",
+      "avantage écrasant"
+    ],
+    [
+      "chose très facile",
+      "tâche simple",
+      "affaire de quelques minutes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

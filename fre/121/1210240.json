@@ -1,0 +1,11 @@
+{
+  "seq": 1210240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se mettre en colère",
+      "devenir obstiné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

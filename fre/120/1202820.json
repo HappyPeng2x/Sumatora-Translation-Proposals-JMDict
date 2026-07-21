@@ -1,0 +1,12 @@
+{
+  "seq": 1202820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fondateur",
+      "initiateur",
+      "pionnier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

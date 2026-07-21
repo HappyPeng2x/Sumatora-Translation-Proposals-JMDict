@@ -1,0 +1,11 @@
+{
+  "seq": 1211060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre de collecte pour le temple",
+      "registre de collecte religieuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

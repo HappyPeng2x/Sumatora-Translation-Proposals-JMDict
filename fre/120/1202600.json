@@ -1,0 +1,12 @@
+{
+  "seq": 1202600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "début d'activité professionnelle",
+      "commencement d'une entreprise",
+      "ouverture d'un cabinet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

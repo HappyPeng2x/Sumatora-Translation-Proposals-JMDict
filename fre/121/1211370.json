@@ -1,0 +1,19 @@
+{
+  "seq": 1211370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "habile",
+      "compétent",
+      "expérimenté",
+      "accompli"
+    ],
+    [
+      "satisfaction totale",
+      "être rassasié",
+      "avoir son content",
+      "prendre pleinement plaisir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

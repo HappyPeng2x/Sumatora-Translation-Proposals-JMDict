@@ -1,0 +1,15 @@
+{
+  "seq": 1203070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nombre d'escaliers",
+      "nombre d'étages"
+    ],
+    [
+      "rang",
+      "ordre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1208730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glisser",
+      "glissement",
+      "patinage",
+      "ski"
+    ],
+    [
+      "taxi",
+      "décollage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1208380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "revue spécialisée",
+      "bulletin d'information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

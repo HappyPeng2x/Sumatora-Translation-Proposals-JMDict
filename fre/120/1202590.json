@@ -1,0 +1,25 @@
+{
+  "seq": 1202590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éveil spirituel",
+      "révélation",
+      "ouverture des yeux à la vérité"
+    ],
+    [
+      "atteindre son apogée",
+      "parvenir au sommet (d'un artiste, etc.)"
+    ],
+    [
+      "récupérer la vue",
+      "guérir de la cécité",
+      "ouvrir les yeux"
+    ],
+    [
+      "cérémonie de consécration d'une statue ou d'un tableau",
+      "complétion des yeux d'une image religieuse lors de sa consécration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

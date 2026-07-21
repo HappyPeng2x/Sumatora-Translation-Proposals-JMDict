@@ -1,0 +1,11 @@
+{
+  "seq": 1209100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interdiction",
+      "de couper de l'herbe ou des arbres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

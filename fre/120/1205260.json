@@ -1,0 +1,13 @@
+{
+  "seq": 1205260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agitation",
+      "mouvement violent",
+      "remuer",
+      "battre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

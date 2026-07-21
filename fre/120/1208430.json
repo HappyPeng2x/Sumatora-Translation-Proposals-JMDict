@@ -1,0 +1,15 @@
+{
+  "seq": 1208430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme",
+      "type"
+    ],
+    [
+      "impression à la presse",
+      "typographie à caractères mobiles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

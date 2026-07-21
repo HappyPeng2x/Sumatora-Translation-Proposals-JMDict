@@ -1,0 +1,16 @@
+{
+  "seq": 1211760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les sens",
+      "les capacités sensorielles"
+    ],
+    [
+      "la sensualité",
+      "la luxure",
+      "la débauche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

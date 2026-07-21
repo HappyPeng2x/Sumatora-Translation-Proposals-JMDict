@@ -1,0 +1,13 @@
+{
+  "seq": 1211890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mandarin (variété chinoise parlée par les classes officielles durant la dynastie Qing)"
+    ],
+    [
+      "mandarin (variété du chinois parlée dans le nord et le sud-ouest de la Chine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

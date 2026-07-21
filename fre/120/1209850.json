@@ -1,0 +1,12 @@
+{
+  "seq": 1209850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ménage dans la pauvreté",
+      "famille pauvre",
+      "maison en difficulté financière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1211170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rouler",
+      "lever",
+      "soulever"
+    ],
+    [
+      "prendre",
+      "dépouiller",
+      "priver"
+    ],
+    [
+      "souffler",
+      "lever (de la poussière)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

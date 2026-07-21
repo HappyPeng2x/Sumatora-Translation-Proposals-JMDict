@@ -1,0 +1,20 @@
+{
+  "seq": 1204410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en général",
+      "globalement",
+      "en gros",
+      "pour l'essentiel",
+      "surtout",
+      "dans l'ensemble"
+    ],
+    [
+      "idée principale",
+      "point principal",
+      "essentiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

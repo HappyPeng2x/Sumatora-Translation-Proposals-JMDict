@@ -1,0 +1,15 @@
+{
+  "seq": 1207870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bambou fendu",
+      "lame de bambou",
+      "fente de bambou"
+    ],
+    [
+      "bâton de bambou bruyant utilisé par les veilleurs de nuit (époque d'Edo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

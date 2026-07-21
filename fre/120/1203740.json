@@ -1,0 +1,19 @@
+{
+  "seq": 1203740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractère externe",
+      "caractère défini par l'utilisateur",
+      "caractère non inclus dans l'ensemble de caractères JIS"
+    ],
+    [
+      "kanji non inclus dans la liste jōyō ou jinmeiyō"
+    ],
+    [
+      "lettre étrangère",
+      "écriture étrangère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

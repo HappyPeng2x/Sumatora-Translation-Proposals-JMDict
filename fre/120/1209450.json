@@ -1,0 +1,15 @@
+{
+  "seq": 1209450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récolter entièrement (une culture)",
+      "couper complètement (par exemple des mauvaises herbes)"
+    ],
+    [
+      "tailler (les cheveux) en pointe à l'arrière de la tête",
+      "couper les cheveux de manière à ce qu'ils s'arrondissent progressivement à l'arrière de la tête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

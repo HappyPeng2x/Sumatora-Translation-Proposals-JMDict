@@ -1,0 +1,20 @@
+{
+  "seq": 1209150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'engager (comme des engrenages)",
+      "s'articuler",
+      "se rencontrer (comme des dents)",
+      "occulder"
+    ],
+    [
+      "se mordre mutuellement"
+    ],
+    [
+      "être d'accord",
+      "s'entendre (souvent dans le négatif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1205930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapport confirmé",
+      "données vérifiées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

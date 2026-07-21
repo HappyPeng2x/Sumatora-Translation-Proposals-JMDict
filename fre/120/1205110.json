@@ -1,0 +1,11 @@
+{
+  "seq": 1205110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque magasin",
+      "chaque boutique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

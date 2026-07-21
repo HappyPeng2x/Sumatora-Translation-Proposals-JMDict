@@ -1,0 +1,17 @@
+{
+  "seq": 1206490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "innovant",
+      "qui apporte une innovation",
+      "qui introduit quelque chose de nouveau"
+    ],
+    [
+      "libéral",
+      "réformiste",
+      "progressiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

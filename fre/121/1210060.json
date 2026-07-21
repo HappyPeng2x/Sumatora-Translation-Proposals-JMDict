@@ -1,0 +1,12 @@
+{
+  "seq": 1210060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "œufs en poudre",
+      "œufs déshydratés",
+      "œufs séchés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

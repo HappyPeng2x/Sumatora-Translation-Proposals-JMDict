@@ -1,0 +1,17 @@
+{
+  "seq": 1207300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réserve",
+      "chambre de costume",
+      "arrière-scène"
+    ],
+    [
+      "arrière-plan",
+      "intérieur",
+      "affaires internes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

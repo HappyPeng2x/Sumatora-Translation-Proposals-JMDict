@@ -1,0 +1,14 @@
+{
+  "seq": 1209700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fruit sec (en botanique, comme les noix, les légumineuses, les follicules)",
+      "fruit sec (botanique)"
+    ],
+    [
+      "fruit sec (aliment)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

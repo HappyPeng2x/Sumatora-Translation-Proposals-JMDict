@@ -1,0 +1,11 @@
+{
+  "seq": 1207280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musicien de bande",
+      "membre d'une bande musicale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

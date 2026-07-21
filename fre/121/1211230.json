@@ -1,0 +1,15 @@
+{
+  "seq": 1211230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "début (d'un livre, d'une revue, etc.)",
+      "page de couverture"
+    ],
+    [
+      "début (d'une affaire, d'un sujet)",
+      "commencement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

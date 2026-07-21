@@ -1,0 +1,11 @@
+{
+  "seq": 1207740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coupon de réduction",
+      "billet de réduction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1207670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chapeau conique (style asiatique)",
+      "chapeau de coolie"
+    ],
+    [
+      "objet en forme de chapeau conique ou d'ombrelle",
+      "abri (d'une lampe)",
+      "chapeau d'un champignon",
+      "pileus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

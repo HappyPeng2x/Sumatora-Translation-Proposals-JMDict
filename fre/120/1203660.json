@@ -1,0 +1,11 @@
+{
+  "seq": 1203660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enregistrement des étrangers",
+      "registre des étrangers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

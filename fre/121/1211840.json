@@ -1,0 +1,11 @@
+{
+  "seq": 1211840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "usage officiel",
+      "affaires gouvernementales"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

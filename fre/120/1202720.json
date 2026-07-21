@@ -1,0 +1,12 @@
+{
+  "seq": 1202720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie d'ouverture",
+      "cérémonie de lancement",
+      "rituel d'ouverture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1203780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circonférence",
+      "périmètre"
+    ],
+    [
+      "périphérie",
+      "bords",
+      "extérieurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

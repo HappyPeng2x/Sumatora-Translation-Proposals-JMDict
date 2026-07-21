@@ -1,0 +1,12 @@
+{
+  "seq": 1211710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service public",
+      "poste gouvernemental",
+      "fonction publique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

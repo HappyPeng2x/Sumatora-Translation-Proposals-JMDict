@@ -1,0 +1,13 @@
+{
+  "seq": 1202730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en cours",
+      "en session",
+      "en train de se dérouler",
+      "ouvert"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

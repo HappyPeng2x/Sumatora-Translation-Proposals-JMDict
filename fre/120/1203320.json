@@ -1,0 +1,11 @@
+{
+  "seq": 1203320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pression extérieure",
+      "pression extérieure exercée par des forces étrangères"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

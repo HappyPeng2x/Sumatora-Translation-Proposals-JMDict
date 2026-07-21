@@ -1,0 +1,11 @@
+{
+  "seq": 1203120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monnaie en coquilles",
+      "monnaie de coquillages"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

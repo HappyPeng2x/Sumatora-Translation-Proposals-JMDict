@@ -1,0 +1,19 @@
+{
+  "seq": 1203420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circonférence",
+      "périmètre"
+    ],
+    [
+      "travail en dehors du bureau",
+      "travail hors site"
+    ],
+    [
+      "voies extérieures",
+      "tracés extérieurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1210400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dommage causé par le froid",
+      "dégât dû au gel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

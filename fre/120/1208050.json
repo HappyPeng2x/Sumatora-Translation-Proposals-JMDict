@@ -1,0 +1,18 @@
+{
+  "seq": 1208050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "omettre (reluctamment)",
+      "laisser de côté",
+      "omettre (avec réticence)"
+    ],
+    [
+      "abandonner (reluctamment)",
+      "se séparer de",
+      "partager",
+      "épargner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

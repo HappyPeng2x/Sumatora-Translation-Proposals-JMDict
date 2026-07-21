@@ -1,0 +1,14 @@
+{
+  "seq": 1206420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mur de séparation",
+      "cloison",
+      "paroi",
+      "séptum",
+      "diaphragme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

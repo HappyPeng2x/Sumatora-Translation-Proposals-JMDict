@@ -1,0 +1,16 @@
+{
+  "seq": 1204190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tribune des terrasses",
+      "tribune extérieure"
+    ],
+    [
+      "spectateur",
+      "témoin",
+      "personne extérieure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

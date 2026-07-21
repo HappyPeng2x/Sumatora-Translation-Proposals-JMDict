@@ -1,0 +1,14 @@
+{
+  "seq": 1203430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "angle extérieur",
+      "angle externe"
+    ],
+    [
+      "coin extérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

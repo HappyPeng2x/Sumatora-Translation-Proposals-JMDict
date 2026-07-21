@@ -1,0 +1,22 @@
+{
+  "seq": 1210700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commerce",
+      "licencié",
+      "entre",
+      "le",
+      "Japon",
+      "et",
+      "la",
+      "dynastie",
+      "Ming",
+      "pendant",
+      "la",
+      "période",
+      "Muromachi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

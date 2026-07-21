@@ -1,0 +1,17 @@
+{
+  "seq": 1202550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fleurissage",
+      "éclosion",
+      "blossom"
+    ],
+    [
+      "développement",
+      "prospérité",
+      "maturité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

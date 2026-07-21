@@ -1,0 +1,19 @@
+{
+  "seq": 1202640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture",
+      "ouverture (d'appareil photographique)"
+    ],
+    [
+      "ouvrir la bouche",
+      "commencer à parler"
+    ],
+    [
+      "ouvert",
+      "large"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

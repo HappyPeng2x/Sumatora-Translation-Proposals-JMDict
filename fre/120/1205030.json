@@ -1,0 +1,11 @@
+{
+  "seq": 1205030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toutes les entreprises",
+      "chaque entreprise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

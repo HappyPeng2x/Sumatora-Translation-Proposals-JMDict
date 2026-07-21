@@ -1,0 +1,16 @@
+{
+  "seq": 1203980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Apocryphes",
+      "Textes apocryphes"
+    ],
+    [
+      "Textes non bouddhiques",
+      "Ouvrages non bouddhiques",
+      "Écrits confucéens non bouddhiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

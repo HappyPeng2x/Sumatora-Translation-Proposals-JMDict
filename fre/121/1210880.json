@@ -1,0 +1,11 @@
+{
+  "seq": 1210880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "considérer les précédents",
+      "se baser sur des exemples anciens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

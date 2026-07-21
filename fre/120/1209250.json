@@ -1,0 +1,16 @@
+{
+  "seq": 1209250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "canard",
+      "oiseau aquatique"
+    ],
+    [
+      "proie facile",
+      "sot",
+      "cible facile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

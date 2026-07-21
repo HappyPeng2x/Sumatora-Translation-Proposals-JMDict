@@ -1,0 +1,16 @@
+{
+  "seq": 1203030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étage inférieur",
+      "sous-sol",
+      "partie du bâtiment située en dessous"
+    ],
+    [
+      "bas des escaliers",
+      "pied des escaliers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

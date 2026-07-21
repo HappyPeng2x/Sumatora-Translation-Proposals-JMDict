@@ -1,0 +1,15 @@
+{
+  "seq": 1209170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mâcher",
+      "craquer (comme des noix)"
+    ],
+    [
+      "simplifier",
+      "expliquer de manière claire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1207700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sculpin",
+      "poissons de la famille des Cottidae, notamment les barbots et les sculpins"
+    ],
+    [
+      "sculpin fluvial japonais",
+      "espèce de sculpin (Cottus pollux) vivant en eau douce au Japon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

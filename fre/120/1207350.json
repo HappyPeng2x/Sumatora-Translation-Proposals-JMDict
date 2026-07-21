@@ -1,0 +1,11 @@
+{
+  "seq": 1207350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instrumentaliste",
+      "musicien qui joue un instrument de musique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

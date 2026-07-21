@@ -1,0 +1,15 @@
+{
+  "seq": 1209360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup de faux",
+      "coupe",
+      "taille",
+      "récolte",
+      "taillage",
+      "élagage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

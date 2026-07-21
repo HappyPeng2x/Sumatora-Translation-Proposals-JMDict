@@ -1,0 +1,17 @@
+{
+  "seq": 1202770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "divulgation",
+      "révélation",
+      "dévoilement",
+      "mise en lumière"
+    ],
+    [
+      "découverte (juridique)",
+      "production (juridique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

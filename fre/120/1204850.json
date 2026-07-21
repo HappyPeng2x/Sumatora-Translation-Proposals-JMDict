@@ -1,0 +1,12 @@
+{
+  "seq": 1204850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "révolutionnaire",
+      "marquant un tournant dans l'histoire",
+      "d'une grande importance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

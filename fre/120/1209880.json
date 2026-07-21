@@ -1,0 +1,12 @@
+{
+  "seq": 1209880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sec",
+      "sécheresse",
+      "sec (pleurésie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

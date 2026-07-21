@@ -1,0 +1,11 @@
+{
+  "seq": 1206960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moine savant en formation",
+      "moine étudiant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1204210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étranger",
+      "personne extérieure à un groupe privilégié"
+    ],
+    [
+      "daimyo extérieur",
+      "seigneur féodal non appartenant à la famille Tokugawa"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

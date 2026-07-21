@@ -1,0 +1,13 @@
+{
+  "seq": 1211540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "finir (une course)",
+      "parcourir l'ensemble de la distance",
+      "atteindre la fin",
+      "poursuivre jusqu'au bout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

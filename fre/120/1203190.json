@@ -1,0 +1,11 @@
+{
+  "seq": 1203190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson de victoire",
+      "chant de victoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

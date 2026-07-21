@@ -1,0 +1,12 @@
+{
+  "seq": 1203710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "emprunt étranger",
+      "dette étrangère",
+      "obligation étrangère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

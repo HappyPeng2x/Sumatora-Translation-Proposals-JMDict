@@ -1,0 +1,18 @@
+{
+  "seq": 1209660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assécher",
+      "former une croûte",
+      "perdre son épaisseur"
+    ],
+    [
+      "être empoisonné par le laque"
+    ],
+    [
+      "maigrir (archaïque)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

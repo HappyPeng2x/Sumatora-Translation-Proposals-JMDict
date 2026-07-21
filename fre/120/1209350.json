@@ -1,0 +1,16 @@
+{
+  "seq": 1209350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "riz en purée",
+      "riz cuit dans l'eau",
+      "gruau de riz",
+      "congee"
+    ],
+    [
+      "petit-déjeuner (dans les temples zen)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1205970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "processus stochastique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

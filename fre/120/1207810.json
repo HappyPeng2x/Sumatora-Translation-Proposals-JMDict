@@ -1,0 +1,14 @@
+{
+  "seq": 1207810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attribuer",
+      "distribuer",
+      "répartir",
+      "allouer",
+      "proratiser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

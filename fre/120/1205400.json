@@ -1,0 +1,19 @@
+{
+  "seq": 1205400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme",
+      "règles sociales"
+    ],
+    [
+      "statut social",
+      "prestige social"
+    ],
+    [
+      "amendements",
+      "règlements d'application (du ritsuryō)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1205530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ménage nucléaire",
+      "famille nucléaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1209160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "serrer les dents",
+      "mordre les lèvres"
+    ],
+    [
+      "engager (des engrenages)",
+      "faire fonctionner (des engrenages)"
+    ],
+    [
+      "mettre en combat (des chiens)",
+      "opposer (des adversaires)"
+    ],
+    [
+      "harmoniser (un débat)",
+      "rapprocher (des points de vue)",
+      "mettre en accord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

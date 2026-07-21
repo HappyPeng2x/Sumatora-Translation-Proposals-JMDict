@@ -1,0 +1,14 @@
+{
+  "seq": 1209070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saule pourpre"
+    ],
+    [
+      "faiblesse",
+      "constitution fragile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

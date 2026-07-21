@@ -1,0 +1,26 @@
+{
+  "seq": 1204020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tirthika",
+      "enseignement non bouddhique",
+      "non bouddhiste"
+    ],
+    [
+      "hétérodoxie",
+      "hérésie",
+      "hérétique"
+    ],
+    [
+      "démon",
+      "dévil",
+      "sauvage",
+      "misérable"
+    ],
+    [
+      "espèce de poisson non visé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

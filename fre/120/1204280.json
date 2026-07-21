@@ -1,0 +1,13 @@
+{
+  "seq": 1204280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gâteau de riz sucré"
+    ],
+    [
+      "remède traditionnel de l'époque d'Edo utilisé comme expectorant et pour rafraîchir l'haleine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

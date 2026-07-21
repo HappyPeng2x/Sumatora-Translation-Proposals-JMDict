@@ -1,0 +1,14 @@
+{
+  "seq": 1202680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'ouverture d'un port",
+      "le début des opérations d'un port"
+    ],
+    [
+      "l'ouverture d'un port aux navires étrangers ou au commerce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1203210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "armée victorieuse revenue du champ de bataille",
+      "armée triomphante rentrant d'une campagne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

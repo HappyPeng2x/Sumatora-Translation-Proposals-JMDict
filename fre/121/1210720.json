@@ -1,0 +1,11 @@
+{
+  "seq": 1210720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen minutieux",
+      "enquête approfondie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

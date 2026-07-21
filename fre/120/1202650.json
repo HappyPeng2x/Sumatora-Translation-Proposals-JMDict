@@ -1,0 +1,12 @@
+{
+  "seq": 1202650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dès le début",
+      "d'abord",
+      "en premier lieu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

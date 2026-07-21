@@ -1,0 +1,14 @@
+{
+  "seq": 1202790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture (des portes d'un lieu)",
+      "début (d'une activité, d'une réunion, etc.)"
+    ],
+    [
+      "inauguration (d'un bâtiment, d'une installation, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

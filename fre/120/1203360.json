@@ -1,0 +1,12 @@
+{
+  "seq": 1203360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cause externe",
+      "origine externe",
+      "cause exogène"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

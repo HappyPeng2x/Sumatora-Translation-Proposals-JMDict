@@ -1,0 +1,13 @@
+{
+  "seq": 1209140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entaille cutanée causée par un vide formé par un tourbillon"
+    ],
+    [
+      "créature mythique semblable à un renard, montant sur des tourbillons et infligeant des blessures aiguës mais sans douleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

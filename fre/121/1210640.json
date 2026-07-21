@@ -1,0 +1,12 @@
+{
+  "seq": 1210640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soupçonner",
+      "être méfiant envers",
+      "douter de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

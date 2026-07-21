@@ -1,0 +1,11 @@
+{
+  "seq": 1206770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fonds d'études",
+      "dépenses scolaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1204240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étranger",
+      "importé"
+    ],
+    [
+      "ambulatoire",
+      "soins ambulatoires",
+      "clinique ambulatoire",
+      "service ambulatoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1208330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "activité",
+      "activité chimique"
+    ],
+    [
+      "actif",
+      "actif (chimie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

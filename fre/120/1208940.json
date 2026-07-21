@@ -1,0 +1,15 @@
+{
+  "seq": 1208940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre de l'importance",
+      "devenir populaire"
+    ],
+    [
+      "augmenter en valeur (actions)",
+      "monter en bourse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1209200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mordre jusqu'à l'os",
+      "dévorer",
+      "mâcher jusqu'à la fin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

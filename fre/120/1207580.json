@@ -1,0 +1,17 @@
+{
+  "seq": 1207580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avoir un lien avec",
+      "être concerné par",
+      "être en relation avec"
+    ],
+    [
+      "s'impliquer dans",
+      "se retrouver impliqué dans",
+      "être entraîné dans"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

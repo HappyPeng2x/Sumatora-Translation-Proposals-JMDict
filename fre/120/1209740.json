@@ -1,0 +1,11 @@
+{
+  "seq": 1209740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marge d'eau",
+      "hauteur libre d'un navire au-dessus de la surface de l'eau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

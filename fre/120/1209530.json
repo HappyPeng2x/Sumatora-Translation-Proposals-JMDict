@@ -1,0 +1,12 @@
+{
+  "seq": 1209530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fraîchement coupé",
+      "nouveau-moussé",
+      "récemment tondu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

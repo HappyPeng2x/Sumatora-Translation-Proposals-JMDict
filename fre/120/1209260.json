@@ -1,0 +1,11 @@
+{
+  "seq": 1209260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "platypus",
+      "ornithorynque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1207090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudiant du premier cycle",
+      "étudiant en licence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
