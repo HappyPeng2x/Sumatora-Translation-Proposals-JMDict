@@ -1,0 +1,19 @@
+{
+  "seq": 1224300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coquille de tortue",
+      "tortoiseshell"
+    ],
+    [
+      "motif en coquille de tortue",
+      "motif hexagonal",
+      "motif en nid d'abeille"
+    ],
+    [
+      "parenthèse en coquille de tortue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

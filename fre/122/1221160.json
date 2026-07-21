@@ -1,0 +1,18 @@
+{
+  "seq": 1221160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "subtilités",
+      "délicatesses",
+      "points fins",
+      "mécanismes internes",
+      "secrets"
+    ],
+    [
+      "subtil",
+      "sensible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

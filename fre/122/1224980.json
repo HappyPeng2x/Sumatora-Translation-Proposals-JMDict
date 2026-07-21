@@ -1,0 +1,12 @@
+{
+  "seq": 1224980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson humoristique",
+      "chanson comique",
+      "limerick"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

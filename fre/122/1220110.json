@@ -1,0 +1,13 @@
+{
+  "seq": 1220110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anniversaire de la mort d'une personne, jour sur lequel des cérémonies bouddhiques commémoratives sont célébrées"
+    ],
+    [
+      "49e jour après la mort d'une personne, jour sur lequel des rituels bouddhiques sont célébrés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

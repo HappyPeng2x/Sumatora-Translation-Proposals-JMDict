@@ -1,0 +1,12 @@
+{
+  "seq": 1223270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe de journalistes",
+      "corps de presse",
+      "organisation de presse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

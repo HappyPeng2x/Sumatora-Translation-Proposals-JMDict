@@ -1,0 +1,11 @@
+{
+  "seq": 1226060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit de vote",
+      "droit de suffrage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

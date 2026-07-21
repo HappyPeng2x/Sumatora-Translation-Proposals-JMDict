@@ -1,0 +1,13 @@
+{
+  "seq": 1225600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paranoïa",
+      "soupçon excessif",
+      "être paranoïaque",
+      "voir des fantômes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

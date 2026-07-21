@@ -1,0 +1,11 @@
+{
+  "seq": 1221200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sécurité",
+      "de données, de mot de passe, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

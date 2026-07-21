@@ -1,0 +1,21 @@
+{
+  "seq": 1220080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "deuil",
+      "abstinence"
+    ],
+    [
+      "tabou"
+    ],
+    [
+      "purification religieuse"
+    ],
+    [
+      "pur",
+      "saint"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

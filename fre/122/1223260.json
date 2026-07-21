@@ -1,0 +1,11 @@
+{
+  "seq": 1223260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conférence de presse",
+      "conférence de presse de journaliste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

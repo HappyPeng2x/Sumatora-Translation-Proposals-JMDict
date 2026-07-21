@@ -1,0 +1,11 @@
+{
+  "seq": 1223310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système de numération",
+      "système de représentation des nombres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

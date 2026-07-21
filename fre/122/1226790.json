@@ -1,0 +1,16 @@
+{
+  "seq": 1226790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "introduire un sol étranger sur son propre terrain (pour améliorer la qualité du sol)",
+      "sol étranger apporté pour être mélangé avec le sol local"
+    ],
+    [
+      "destination lointaine",
+      "terre étrangère",
+      "pays lointain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

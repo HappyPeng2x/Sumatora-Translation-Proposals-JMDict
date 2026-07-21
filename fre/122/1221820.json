@@ -1,0 +1,12 @@
+{
+  "seq": 1221820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "offenser",
+      "prendre offense",
+      "se sentir offensé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

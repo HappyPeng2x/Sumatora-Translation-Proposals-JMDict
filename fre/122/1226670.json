@@ -1,0 +1,17 @@
+{
+  "seq": 1226670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "touting",
+      "solliciter",
+      "attirer par la persuasion"
+    ],
+    [
+      "touteur",
+      "vendeur ambulant",
+      "prostitueur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

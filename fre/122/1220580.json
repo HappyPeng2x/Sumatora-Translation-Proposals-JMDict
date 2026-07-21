@@ -1,0 +1,19 @@
+{
+  "seq": 1220580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "valeur attendue",
+      "espérance mathématique"
+    ],
+    [
+      "attentes",
+      "attentes (en général)"
+    ],
+    [
+      "valeur d'attente (en mécanique quantique)",
+      "espérance (en physique quantique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

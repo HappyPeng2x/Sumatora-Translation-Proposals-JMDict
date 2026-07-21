@@ -1,0 +1,19 @@
+{
+  "seq": 1221440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour",
+      "rentrée"
+    ],
+    [
+      "conclusion",
+      "résultat"
+    ],
+    [
+      "réduction",
+      "diminution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1223510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "votre entreprise"
+    ],
+    [
+      "votre sanctuaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

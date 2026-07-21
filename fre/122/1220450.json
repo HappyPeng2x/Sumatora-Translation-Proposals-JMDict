@@ -1,0 +1,12 @@
+{
+  "seq": 1220450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "existant",
+      "déjà existant",
+      "déjà en place"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

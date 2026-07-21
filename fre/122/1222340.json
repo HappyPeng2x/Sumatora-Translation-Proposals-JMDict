@@ -1,0 +1,16 @@
+{
+  "seq": 1222340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "humeur",
+      "état d'esprit"
+    ],
+    [
+      "apparence",
+      "mine",
+      "physionomie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

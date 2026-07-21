@@ -1,0 +1,17 @@
+{
+  "seq": 1221640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être intelligent",
+      "être avisé",
+      "avoir du goût"
+    ],
+    [
+      "être attentif",
+      "être tactique",
+      "être sensible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

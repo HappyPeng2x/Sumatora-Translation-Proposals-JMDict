@@ -1,0 +1,16 @@
+{
+  "seq": 1225440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "duperie",
+      "tromperie",
+      "escroquerie"
+    ],
+    [
+      "duperie militaire",
+      "tromperie militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

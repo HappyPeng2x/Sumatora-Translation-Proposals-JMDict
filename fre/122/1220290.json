@@ -1,0 +1,16 @@
+{
+  "seq": 1220290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lever un drapeau",
+      "élever un étendard"
+    ],
+    [
+      "lancer un groupe",
+      "créer une entreprise",
+      "lancer un nouveau parti"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

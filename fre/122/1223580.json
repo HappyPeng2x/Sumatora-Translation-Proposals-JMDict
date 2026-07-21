@@ -1,0 +1,13 @@
+{
+  "seq": 1223580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vous (employé par les hommes dans les lettres à des pairs ou supérieurs masculins)"
+    ],
+    [
+      "votre résidence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

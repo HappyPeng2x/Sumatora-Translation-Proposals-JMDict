@@ -1,0 +1,14 @@
+{
+  "seq": 1220960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "équipement",
+      "matériel"
+    ],
+    [
+      "matériaux utilisés pour la fabrication de machines"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

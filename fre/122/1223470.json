@@ -1,0 +1,12 @@
+{
+  "seq": 1223470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "votre volonté",
+      "vos souhaits",
+      "votre demande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

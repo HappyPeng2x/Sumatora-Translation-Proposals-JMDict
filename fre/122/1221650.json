@@ -1,0 +1,13 @@
+{
+  "seq": 1221650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être agacé",
+      "être irrité",
+      "être excité",
+      "être inquiet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

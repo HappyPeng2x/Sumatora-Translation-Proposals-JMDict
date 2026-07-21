@@ -1,0 +1,16 @@
+{
+  "seq": 1227050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ressentiment éprouvé par quelqu'un envers quelqu'un d'autre envers qui l'on nourrit du ressentiment"
+    ],
+    [
+      "ressentiment envers quelqu'un qui a été aimable ; penser du mal de quelqu'un qui voulait être bienveillant ; ressentiment causé par une malentente"
+    ],
+    [
+      "ressentiment injustifié ; rancune déraisonnable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1226090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "palais des députés",
+      "édifice du parlement",
+      "hémicycle",
+      "salle des délibérations"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1224610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pseudocyesis",
+      "grossesse fausse",
+      "grossesse spurius",
+      "pseudo-grossesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1221580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être satisfait",
+      "trouver le calme",
+      "se sentir bien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

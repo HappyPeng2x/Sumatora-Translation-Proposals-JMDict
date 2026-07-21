@@ -1,0 +1,12 @@
+{
+  "seq": 1225050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écrits diserts",
+      "écrits ampoulés",
+      "écrits étendus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

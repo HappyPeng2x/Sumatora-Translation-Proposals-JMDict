@@ -1,0 +1,12 @@
+{
+  "seq": 1223030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rompre les règles",
+      "violer les règles",
+      "enfreindre les règles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

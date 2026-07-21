@@ -1,0 +1,12 @@
+{
+  "seq": 1224670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom faux",
+      "nom d'emprunt",
+      "pseudonyme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

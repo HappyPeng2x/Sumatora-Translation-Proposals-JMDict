@@ -1,0 +1,12 @@
+{
+  "seq": 1226350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stammering",
+      "stuttering",
+      "dysphémie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

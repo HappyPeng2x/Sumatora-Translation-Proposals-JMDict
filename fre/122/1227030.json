@@ -1,0 +1,22 @@
+{
+  "seq": 1227030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement en arrière",
+      "marche arrière",
+      "retrecissement",
+      "détour",
+      "mouvement inverse",
+      "marche arrière",
+      "retour en arrière"
+    ],
+    [
+      "mouvement rétrograde",
+      "mouvement en sens inverse",
+      "mouvement contraire à l'orbite normale",
+      "mouvement rétrograde (astronomie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

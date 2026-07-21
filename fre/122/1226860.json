@@ -1,0 +1,19 @@
+{
+  "seq": 1226860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chose équipée de jambes",
+      "objet doté de jambes"
+    ],
+    [
+      "semelle de la chaussure",
+      "partie inférieure du pied"
+    ],
+    [
+      "manière de marcher",
+      "style de marche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

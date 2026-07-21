@@ -1,0 +1,20 @@
+{
+  "seq": 1224690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie"
+    ],
+    [
+      "affaire",
+      "question",
+      "cas"
+    ],
+    [
+      "concernant",
+      "quant à",
+      "au sujet de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

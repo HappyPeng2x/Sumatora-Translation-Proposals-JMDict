@@ -1,0 +1,18 @@
+{
+  "seq": 1219990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quelque peu",
+      "un peu",
+      "quelques",
+      "une certaine quantité"
+    ],
+    [
+      "un peu",
+      "en partie",
+      "dans une certaine mesure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

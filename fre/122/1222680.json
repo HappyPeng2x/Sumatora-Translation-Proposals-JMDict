@@ -1,0 +1,12 @@
+{
+  "seq": 1222680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courant d'air",
+      "courant atmosphérique",
+      "écoulement d'air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

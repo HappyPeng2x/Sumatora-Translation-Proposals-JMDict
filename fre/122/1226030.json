@@ -1,0 +1,17 @@
+{
+  "seq": 1226030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parlement",
+      "congrès",
+      "diète"
+    ],
+    [
+      "chambre",
+      "assemblée",
+      "salle (dans un contexte parlementaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

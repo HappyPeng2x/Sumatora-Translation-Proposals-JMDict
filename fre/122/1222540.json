@@ -1,0 +1,15 @@
+{
+  "seq": 1222540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élégance",
+      "raffinement",
+      "dignité"
+    ],
+    [
+      "arôme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

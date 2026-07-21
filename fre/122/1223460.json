@@ -1,0 +1,13 @@
+{
+  "seq": 1223460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémorisation (d'un poème, etc.) et récitation"
+    ],
+    [
+      "récitation par cœur (sans compréhension)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

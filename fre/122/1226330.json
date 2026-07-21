@@ -1,0 +1,15 @@
+{
+  "seq": 1226330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balbutiation",
+      "stutter"
+    ],
+    [
+      "balbutiant",
+      "stutterer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

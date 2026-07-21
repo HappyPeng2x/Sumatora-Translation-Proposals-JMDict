@@ -1,0 +1,11 @@
+{
+  "seq": 1222070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pour apaiser l'esprit",
+      "pour rassurer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

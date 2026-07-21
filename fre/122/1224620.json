@@ -1,0 +1,15 @@
+{
+  "seq": 1224620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bois gravé contrefait",
+      "impression provenant d'un bois gravé contrefait"
+    ],
+    [
+      "édition piratée",
+      "édition bootleg"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

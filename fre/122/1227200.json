@@ -1,0 +1,15 @@
+{
+  "seq": 1227200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poussée inverse",
+      "retropropulsion"
+    ],
+    [
+      "dérangement mental soudain",
+      "trouble mental subit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1222370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fervent",
+      "enthousiasme",
+      "énergie",
+      "ardeur",
+      "vigueur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

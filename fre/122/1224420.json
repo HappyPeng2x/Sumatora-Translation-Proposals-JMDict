@@ -1,0 +1,12 @@
+{
+  "seq": 1224420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pseudo-science",
+      "science erronée",
+      "science déviée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

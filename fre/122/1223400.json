@@ -1,0 +1,11 @@
+{
+  "seq": 1223400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "notation musicale",
+      "écriture d'une partition musicale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

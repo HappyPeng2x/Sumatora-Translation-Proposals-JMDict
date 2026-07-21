@@ -1,0 +1,19 @@
+{
+  "seq": 1225400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ornement de garde-fou",
+      "bouton de garde-fou de pont"
+    ],
+    [
+      "fleur d'oignon de Galles",
+      "fleur de poireau"
+    ],
+    [
+      "hosta",
+      "lilas de plantain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

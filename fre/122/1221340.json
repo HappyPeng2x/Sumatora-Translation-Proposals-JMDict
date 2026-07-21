@@ -1,0 +1,13 @@
+{
+  "seq": 1221340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfant retourné au Japon après avoir vécu à l'étranger",
+      "enfant de retour",
+      "enfant de retour au Japon",
+      "personne ayant vécu à l'étranger pendant une partie de son enfance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

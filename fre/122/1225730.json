@@ -1,0 +1,13 @@
+{
+  "seq": 1225730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "donation",
+      "argent collecté pour aider les personnes en difficulté",
+      "contribution financière",
+      "aide financière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

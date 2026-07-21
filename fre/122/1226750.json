@@ -1,0 +1,12 @@
+{
+  "seq": 1226750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "industrie du service",
+      "secteur des services",
+      "secteur de l'hébergement et de la restauration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

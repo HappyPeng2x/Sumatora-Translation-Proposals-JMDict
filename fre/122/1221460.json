@@ -1,0 +1,11 @@
+{
+  "seq": 1221460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retourner à son poste",
+      "reprendre ses fonctions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1222560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à l'attention de",
+      "c/o (utilisé dans les adresses après le nom d'une entreprise, organisation, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

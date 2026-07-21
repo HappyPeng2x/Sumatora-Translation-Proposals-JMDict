@@ -1,0 +1,11 @@
+{
+  "seq": 1222500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tracte respiratoire",
+      "voie aérienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

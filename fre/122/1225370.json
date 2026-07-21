@@ -1,0 +1,11 @@
+{
+  "seq": 1225370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "onomatope",
+      "mot formé par onomatopée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1225410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tromper et égarer",
+      "faire dévier de la bonne voie",
+      "abuser de la crédulité de quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

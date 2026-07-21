@@ -1,0 +1,15 @@
+{
+  "seq": 1226900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaussettes montantes",
+      "jambières"
+    ],
+    [
+      "bandeau autour de la cheville",
+      "bande de tissu autour de la jambe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

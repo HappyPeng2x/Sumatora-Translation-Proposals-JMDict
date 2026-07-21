@@ -1,0 +1,12 @@
+{
+  "seq": 1224500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prétendre un faux nom",
+      "adopter un faux nom",
+      "se faire passer pour quelqu'un d'autre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

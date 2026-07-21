@@ -1,0 +1,12 @@
+{
+  "seq": 1223430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signature",
+      "acte de signer son nom",
+      "inscription (d'un titre de créance)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

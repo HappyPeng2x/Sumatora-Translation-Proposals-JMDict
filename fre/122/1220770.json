@@ -1,0 +1,17 @@
+{
+  "seq": 1220770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "occasion",
+      "chance",
+      "moment propice"
+    ],
+    [
+      "tendance",
+      "mouvement",
+      "direction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

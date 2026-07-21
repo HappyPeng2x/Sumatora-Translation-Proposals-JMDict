@@ -1,0 +1,16 @@
+{
+  "seq": 1221060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manœuvre",
+      "action de manœuvrer"
+    ],
+    [
+      "mobile",
+      "agile",
+      "rapide à réagir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

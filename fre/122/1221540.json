@@ -1,0 +1,16 @@
+{
+  "seq": 1221540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avoir l'impression",
+      "avoir le sentiment",
+      "avoir une intuition"
+    ],
+    [
+      "avoir envie de",
+      "se sentir envie de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

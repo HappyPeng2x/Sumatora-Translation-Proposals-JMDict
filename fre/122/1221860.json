@@ -1,0 +1,15 @@
+{
+  "seq": 1221860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(être) en garde",
+      "(se tenir) en position d'attention"
+    ],
+    [
+      "(être) en position d'attention",
+      "attitude de garde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

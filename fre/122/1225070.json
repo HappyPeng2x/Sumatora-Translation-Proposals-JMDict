@@ -1,0 +1,14 @@
+{
+  "seq": 1225070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commentaires humoristiques",
+      "remarques sarcastiques",
+      "cartoon",
+      "caricature",
+      "satire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1224450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "œuvre apocryphe",
+      "faux",
+      "œuvre forgée",
+      "article spurious"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

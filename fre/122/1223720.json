@@ -1,0 +1,17 @@
+{
+  "seq": 1223720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être dû à",
+      "résulter de",
+      "provenir de",
+      "découler de"
+    ],
+    [
+      "cause",
+      "origine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

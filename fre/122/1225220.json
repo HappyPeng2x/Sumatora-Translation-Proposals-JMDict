@@ -1,0 +1,17 @@
+{
+  "seq": 1225220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "habileté technique",
+      "maîtrise technique",
+      "dextérité technique"
+    ],
+    [
+      "capacités technologiques",
+      "prowess technologique",
+      "compétences technologiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,27 @@
+{
+  "seq": 1222230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agréable",
+      "confortable",
+      "plaisant"
+    ],
+    [
+      "heureux",
+      "content",
+      "en bonne forme"
+    ],
+    [
+      "fluide",
+      "sans problème",
+      "fonctionnant bien"
+    ],
+    [
+      "aimable",
+      "franc",
+      "disposé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

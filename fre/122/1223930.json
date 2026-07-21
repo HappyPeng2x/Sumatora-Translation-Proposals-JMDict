@@ -1,0 +1,15 @@
+{
+  "seq": 1223930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ondulation",
+      "mouvement ondulatoire"
+    ],
+    [
+      "les hauts et les bas",
+      "alternance de moments difficiles et de moments faciles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

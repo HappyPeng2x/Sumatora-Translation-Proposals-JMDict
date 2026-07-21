@@ -1,0 +1,15 @@
+{
+  "seq": 1224640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "supporteurs fictifs",
+      "supporters d'apparat"
+    ],
+    [
+      "soldats fictifs",
+      "soldats d'apparat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

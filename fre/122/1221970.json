@@ -1,0 +1,14 @@
+{
+  "seq": 1221970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vaporiseur",
+      "appareil de vaporisation"
+    ],
+    [
+      "carburateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1225570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractère dont la forme est douteuse",
+      "signe dont l'écriture est incertaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

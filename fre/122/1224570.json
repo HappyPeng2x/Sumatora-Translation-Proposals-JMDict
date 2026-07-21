@@ -1,0 +1,13 @@
+{
+  "seq": 1224570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hypocrite",
+      "dissembleur",
+      "loup-garou déguisé en mouton",
+      "renard vêtu en agneau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1220740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abandonner les personnes âgées dans les montagnes ou ailleurs",
+      "pratique historique ou légendaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

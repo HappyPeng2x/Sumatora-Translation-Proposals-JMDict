@@ -1,0 +1,15 @@
+{
+  "seq": 1226280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balle",
+      "boule"
+    ],
+    [
+      "jeu de kemari",
+      "forme de football pratiqué par les courtisans en ancienne Japan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

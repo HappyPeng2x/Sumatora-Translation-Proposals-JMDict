@@ -1,0 +1,25 @@
+{
+  "seq": 1221690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préoccuper",
+      "tracasser",
+      "inquiéter",
+      "s'inquiéter pour",
+      "être soucieux de"
+    ],
+    [
+      "attirer l'attention",
+      "être curieux de",
+      "s'intéresser à",
+      "se demander"
+    ],
+    [
+      "avoir envie de",
+      "être enclin à",
+      "se résoudre à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

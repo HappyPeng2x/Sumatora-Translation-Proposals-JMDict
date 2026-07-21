@@ -1,0 +1,14 @@
+{
+  "seq": 1225200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "technique",
+      "technologique"
+    ],
+    [
+      "pratique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

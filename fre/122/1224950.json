@@ -1,0 +1,12 @@
+{
+  "seq": 1224950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "histoire amusante",
+      "conte drôle",
+      "récit humoristique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

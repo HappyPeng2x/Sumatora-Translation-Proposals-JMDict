@@ -1,0 +1,16 @@
+{
+  "seq": 1225980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fourmilion",
+      "larve de fourmilion",
+      "doodlebug"
+    ],
+    [
+      "trappe à fourmis",
+      "piège de fourmilion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

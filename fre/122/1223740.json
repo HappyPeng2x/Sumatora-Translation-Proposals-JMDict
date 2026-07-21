@@ -1,0 +1,16 @@
+{
+  "seq": 1223740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mode de vie quotidien"
+    ],
+    [
+      "état de santé; bien-être"
+    ],
+    [
+      "mouvements de lever et de s'asseoir; mouvements physiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

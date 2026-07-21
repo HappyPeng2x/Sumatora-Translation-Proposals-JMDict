@@ -1,0 +1,11 @@
+{
+  "seq": 1223070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "valeur de contrôle",
+      "valeur minimale requise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

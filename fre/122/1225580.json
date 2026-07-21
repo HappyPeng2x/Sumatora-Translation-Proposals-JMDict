@@ -1,0 +1,11 @@
+{
+  "seq": 1225580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mot douteux",
+      "terme suspect"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

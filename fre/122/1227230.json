@@ -1,0 +1,16 @@
+{
+  "seq": 1227230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réimportation",
+      "réimport",
+      "importation inverse"
+    ],
+    [
+      "import inverse (culturel, etc.)",
+      "importation inverse (dans le domaine culturel, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

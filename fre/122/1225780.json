@@ -1,0 +1,10 @@
+{
+  "seq": 1225780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture d'un kanji par son sens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

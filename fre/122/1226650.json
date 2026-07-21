@@ -1,0 +1,12 @@
+{
+  "seq": 1226650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre invité",
+      "membre associé",
+      "membre honoraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

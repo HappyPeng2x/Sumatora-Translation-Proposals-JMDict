@@ -1,0 +1,11 @@
+{
+  "seq": 1225000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dessin humoristique",
+      "image esquissée avec humour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

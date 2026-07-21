@@ -1,0 +1,12 @@
+{
+  "seq": 1224380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jurer faux",
+      "jurer de fausse manière",
+      "faire un serment mensonger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

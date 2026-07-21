@@ -1,0 +1,15 @@
+{
+  "seq": 1221320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conséquence",
+      "résultat",
+      "conclusion"
+    ],
+    [
+      "apodose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

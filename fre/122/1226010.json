@@ -1,0 +1,14 @@
+{
+  "seq": 1226010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "projet de loi",
+      "mesure législative"
+    ],
+    [
+      "point à l'ordre du jour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

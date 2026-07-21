@@ -1,0 +1,16 @@
+{
+  "seq": 1222160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perdre son courage",
+      "se sentir mal à l'aise",
+      "être timide",
+      "hésiter",
+      "être nerveux",
+      "être diffident",
+      "être intimidé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

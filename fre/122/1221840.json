@@ -1,0 +1,11 @@
+{
+  "seq": 1221840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laisser tomber sa garde",
+      "ne plus être sur ses gardes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

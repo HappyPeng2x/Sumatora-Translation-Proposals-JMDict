@@ -1,0 +1,18 @@
+{
+  "seq": 1226560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reprendre",
+      "blâmer",
+      "critiquer",
+      "reprocher",
+      "harceler de reproches"
+    ],
+    [
+      "interroger avec insistance",
+      "questionner pour trouver des fautes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

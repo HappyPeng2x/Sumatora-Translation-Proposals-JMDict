@@ -1,0 +1,13 @@
+{
+  "seq": 1222450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à bout de souffle",
+      "sur le point de mourir",
+      "respirant faiblement",
+      "plus mort que vivant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

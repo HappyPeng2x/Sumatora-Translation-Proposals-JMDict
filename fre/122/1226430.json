@@ -1,0 +1,16 @@
+{
+  "seq": 1226430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la consommation du thé",
+      "l'acte de boire du thé"
+    ],
+    [
+      "un lieu de vente de boissons chaudes",
+      "un salon de thé",
+      "un café"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

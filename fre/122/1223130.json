@@ -1,0 +1,23 @@
+{
+  "seq": 1223130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compte rendu",
+      "chronique",
+      "annales",
+      "histoire",
+      "registre"
+    ],
+    [
+      "remarque",
+      "note",
+      "ainsi que"
+    ],
+    [
+      "Kojiki",
+      "Chroniques anciennes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

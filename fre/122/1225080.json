@@ -1,0 +1,11 @@
+{
+  "seq": 1225080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écriture humoristique",
+      "écrit humoristique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

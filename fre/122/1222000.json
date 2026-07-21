@@ -1,0 +1,11 @@
+{
+  "seq": 1222000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "divination",
+      "basée sur le cycle chinois des douze années"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

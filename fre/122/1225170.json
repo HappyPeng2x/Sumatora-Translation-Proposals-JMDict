@@ -1,0 +1,13 @@
+{
+  "seq": 1225170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ingénieur",
+      "spécialiste technique",
+      "technicien",
+      "artisan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

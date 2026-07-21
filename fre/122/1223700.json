@@ -1,0 +1,13 @@
+{
+  "seq": 1223700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agir",
+      "prendre des mesures",
+      "se lever",
+      "se réveiller"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

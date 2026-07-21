@@ -1,0 +1,14 @@
+{
+  "seq": 1221550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se sentir mal à l'aise",
+      "se sentir gêné",
+      "se sentir honteux",
+      "se sentir inférieur",
+      "se sentir timide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

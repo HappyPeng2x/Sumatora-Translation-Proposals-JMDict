@@ -1,0 +1,14 @@
+{
+  "seq": 1227060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calcul en sens inverse",
+      "comptage en arrière"
+    ],
+    [
+      "opération inverse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

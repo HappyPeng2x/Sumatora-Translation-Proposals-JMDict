@@ -1,0 +1,12 @@
+{
+  "seq": 1221000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mécanisme",
+      "dispositif",
+      "appareil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

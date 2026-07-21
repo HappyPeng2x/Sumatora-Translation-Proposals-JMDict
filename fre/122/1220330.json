@@ -1,0 +1,14 @@
+{
+  "seq": 1220330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à peine",
+      "à la limite",
+      "juste à temps",
+      "à l'instant",
+      "au dernier moment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

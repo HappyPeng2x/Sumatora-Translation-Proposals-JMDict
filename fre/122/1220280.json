@@ -1,0 +1,18 @@
+{
+  "seq": 1220280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef",
+      "dirigeant",
+      "maître"
+    ],
+    [
+      "partie supérieure d'un drapeau"
+    ],
+    [
+      "poteau en bambou décoré d'un drapeau vertical et d'une élaborée décoration, utilisé lors des festivals annuels de fertilité et de gratitude à Okinawa"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

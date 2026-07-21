@@ -1,0 +1,12 @@
+{
+  "seq": 1223750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise",
+      "lancement d'une entreprise",
+      "démarrage d'une activité commerciale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

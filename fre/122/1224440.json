@@ -1,0 +1,12 @@
+{
+  "seq": 1224440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mensonge",
+      "faux",
+      "erreur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

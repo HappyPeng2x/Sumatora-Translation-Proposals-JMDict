@@ -1,0 +1,19 @@
+{
+  "seq": 1221670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affectation",
+      "prétention",
+      "posturisme"
+    ],
+    [
+      "faire semblant de",
+      "se comporter en",
+      "faire comme si",
+      "prendre l'air de",
+      "feindre d'être"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

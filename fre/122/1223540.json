@@ -1,0 +1,12 @@
+{
+  "seq": 1223540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "noble",
+      "personne de haut rang",
+      "personne distinguée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

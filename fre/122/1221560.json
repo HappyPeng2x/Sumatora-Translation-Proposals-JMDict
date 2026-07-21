@@ -1,0 +1,12 @@
+{
+  "seq": 1221560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir fou",
+      "perdre la raison",
+      "être en folie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1222990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brouillon d'une norme",
+      "projet de norme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1226530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'approcher",
+      "se rapprocher"
+    ],
+    [
+      "presser",
+      "harceler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

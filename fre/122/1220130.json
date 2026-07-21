@@ -1,0 +1,19 @@
+{
+  "seq": 1220130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réserve",
+      "modestie",
+      "hésitation",
+      "retenue"
+    ],
+    [
+      "abomination",
+      "répugnance",
+      "dégoût",
+      "aversion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

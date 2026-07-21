@@ -1,0 +1,18 @@
+{
+  "seq": 1221420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appartenance",
+      "attribution",
+      "imputation",
+      "juridiction"
+    ],
+    [
+      "reprise",
+      "retour",
+      "restauration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
