@@ -1,0 +1,13 @@
+{
+  "seq": 1170590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre (une photo ou une vidéo) en secret",
+      "prendre une photo surprise",
+      "enregistrer en secret",
+      "filmer sans que quelqu'un s'en aperçoive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

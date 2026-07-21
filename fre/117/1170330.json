@@ -1,0 +1,19 @@
+{
+  "seq": 1170330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruseux",
+      "sournois",
+      "trompeur",
+      "cachottier",
+      "trahisonneux"
+    ],
+    [
+      "sinistre",
+      "menaçant",
+      "inquiétant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

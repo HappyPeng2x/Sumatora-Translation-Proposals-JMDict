@@ -1,0 +1,15 @@
+{
+  "seq": 1166630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "standard unique",
+      "base unique"
+    ],
+    [
+      "émission à thème unique",
+      "spectacle monothématique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

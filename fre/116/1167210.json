@@ -1,0 +1,11 @@
+{
+  "seq": 1167210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avantages et inconvénients",
+      "bénéfices et pertes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

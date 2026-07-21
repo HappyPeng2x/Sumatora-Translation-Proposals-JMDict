@@ -1,0 +1,13 @@
+{
+  "seq": 1167300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unique enfant",
+      "enfant chéri",
+      "fils unique",
+      "fille unique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

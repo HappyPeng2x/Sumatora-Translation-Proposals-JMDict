@@ -1,0 +1,12 @@
+{
+  "seq": 1164870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mérites et défauts",
+      "avantages et inconvénients",
+      "points forts et points faibles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

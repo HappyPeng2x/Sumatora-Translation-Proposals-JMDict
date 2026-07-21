@@ -1,0 +1,17 @@
+{
+  "seq": 1167720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "promptement",
+      "sans délai",
+      "immédiatement"
+    ],
+    [
+      "avant les autres",
+      "en premier",
+      "d'abord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

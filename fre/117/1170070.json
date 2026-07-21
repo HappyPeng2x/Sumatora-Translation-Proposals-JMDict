@@ -1,0 +1,16 @@
+{
+  "seq": 1170070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme déshonnête",
+      "femme de mœurs légères"
+    ],
+    [
+      "prostituée",
+      "putain",
+      "harlotte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

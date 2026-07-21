@@ -1,0 +1,16 @@
+{
+  "seq": 1166000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui agit en premier",
+      "celui qui commence"
+    ],
+    [
+      "première place",
+      "position dominante",
+      "personne en tête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

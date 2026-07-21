@@ -1,0 +1,23 @@
+{
+  "seq": 1166260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une bouffée",
+      "une cigarette",
+      "une tasse de thé"
+    ],
+    [
+      "une pause",
+      "une pause courte"
+    ],
+    [
+      "une dose"
+    ],
+    [
+      "un moment de répit",
+      "une accalmie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1166380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pauvre",
+      "sans le sou",
+      "sans un sou",
+      "dans la misère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

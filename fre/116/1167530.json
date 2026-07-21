@@ -1,0 +1,12 @@
+{
+  "seq": 1167530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un effort rapide",
+      "un travail accompli en un seul élan",
+      "une action rapide et énergique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

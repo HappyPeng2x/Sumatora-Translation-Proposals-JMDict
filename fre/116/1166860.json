@@ -1,0 +1,16 @@
+{
+  "seq": 1166860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une vie",
+      "la vie",
+      "une existence"
+    ],
+    [
+      "un ordre",
+      "une commande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

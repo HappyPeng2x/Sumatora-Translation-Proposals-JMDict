@@ -1,0 +1,19 @@
+{
+  "seq": 1167730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fuir",
+      "évasion",
+      "fuite",
+      "s'enfuir"
+    ],
+    [
+      "s'égarer",
+      "sortir de la piste",
+      "déviation",
+      "dérapage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

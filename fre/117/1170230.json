@@ -1,0 +1,20 @@
+{
+  "seq": 1170230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négatif",
+      "pôle négatif"
+    ],
+    [
+      "yin",
+      "pôle yin"
+    ],
+    [
+      "endroit caché",
+      "partie invisible",
+      "lieu privé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

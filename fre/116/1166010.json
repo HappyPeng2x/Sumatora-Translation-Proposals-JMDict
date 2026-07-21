@@ -1,0 +1,15 @@
+{
+  "seq": 1166010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "premier cavalier en charge",
+      "premier à monter en charge"
+    ],
+    [
+      "premier à arriver",
+      "celui qui arrive en premier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

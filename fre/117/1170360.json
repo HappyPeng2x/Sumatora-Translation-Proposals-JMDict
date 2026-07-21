@@ -1,0 +1,19 @@
+{
+  "seq": 1170360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malveillant",
+      "sournois",
+      "cruel",
+      "déloyal",
+      "trahisonneux",
+      "dissimulé"
+    ],
+    [
+      "humide et sombre",
+      "sombre et humide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

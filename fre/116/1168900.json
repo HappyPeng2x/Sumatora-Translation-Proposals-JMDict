@@ -1,0 +1,11 @@
+{
+  "seq": 1168900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tirer la détente",
+      "action de tirer en actionnant la détente d'une arme à feu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

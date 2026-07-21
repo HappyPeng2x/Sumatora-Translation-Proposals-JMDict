@@ -1,0 +1,12 @@
+{
+  "seq": 1168270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imprimerie",
+      "atelier de reproduction",
+      "bureau de mise en page"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

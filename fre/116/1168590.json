@@ -1,0 +1,15 @@
+{
+  "seq": 1168590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gorge",
+      "œsophage"
+    ],
+    [
+      "passage vital",
+      "position stratégique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

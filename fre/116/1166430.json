@@ -1,0 +1,20 @@
+{
+  "seq": 1166430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "morceau",
+      "fragment",
+      "petite quantité",
+      "éclat",
+      "brisure"
+    ],
+    [
+      "la moindre quantité",
+      "le plus petit morceau",
+      "une trace",
+      "un soupçon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

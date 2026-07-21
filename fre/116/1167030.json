@@ -1,0 +1,11 @@
+{
+  "seq": 1167030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruiné en un seul jour",
+      "personne réduite à la mendicité en une nuit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

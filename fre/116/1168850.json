@@ -1,0 +1,22 @@
+{
+  "seq": 1168850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entourer",
+      "attirer vers soi",
+      "traîner"
+    ],
+    [
+      "emmener",
+      "montrer",
+      "faire visiter"
+    ],
+    [
+      "diriger",
+      "guider",
+      "ordonner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

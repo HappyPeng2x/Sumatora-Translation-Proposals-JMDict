@@ -1,0 +1,16 @@
+{
+  "seq": 1167740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agilité",
+      "vitesse",
+      "cheval rapide"
+    ],
+    [
+      "talent exceptionnel",
+      "personne très douée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

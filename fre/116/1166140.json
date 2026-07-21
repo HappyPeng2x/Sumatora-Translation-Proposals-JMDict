@@ -1,0 +1,13 @@
+{
+  "seq": 1166140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service à la carte"
+    ],
+    [
+      "plat unique mangé seul, sans accompagnement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

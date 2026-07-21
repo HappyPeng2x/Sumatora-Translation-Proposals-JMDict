@@ -1,0 +1,16 @@
+{
+  "seq": 1167480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu de hasard consistant à parier sur le fait qu'un dé donnera un 'un' ou un 'six' ; jeu de dés"
+    ],
+    [
+      "jeu de hasard"
+    ],
+    [
+      "risque ; pari ; entreprise hasardeuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

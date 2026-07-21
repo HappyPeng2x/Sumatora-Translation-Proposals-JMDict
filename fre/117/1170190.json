@@ -1,0 +1,16 @@
+{
+  "seq": 1170190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudiant du second cycle",
+      "étudiant en master",
+      "étudiant de troisième cycle"
+    ],
+    [
+      "apprenti professionnel du go",
+      "insei (apprenti du go)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

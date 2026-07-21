@@ -1,0 +1,16 @@
+{
+  "seq": 1168950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attirer",
+      "tirer vers soi",
+      "ramener"
+    ],
+    [
+      "séduire",
+      "gagner à sa cause"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

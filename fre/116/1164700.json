@@ -1,0 +1,12 @@
+{
+  "seq": 1164700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "verbe en -ru",
+      "verbe à racine voyelle",
+      "verbe du type 2"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

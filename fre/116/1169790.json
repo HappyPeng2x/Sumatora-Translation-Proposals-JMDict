@@ -1,0 +1,27 @@
+{
+  "seq": 1169790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "goût",
+      "saveur",
+      "arôme"
+    ],
+    [
+      "buveur",
+      "amateur d’alcool"
+    ],
+    [
+      "endroit où les lèvres touchent le bord d’un verre"
+    ],
+    [
+      "forme de la bouche lors de la dégustation"
+    ],
+    [
+      "robinet",
+      "tuyau",
+      "pomme de douche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

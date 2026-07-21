@@ -1,0 +1,16 @@
+{
+  "seq": 1169130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séparer",
+      "détacher",
+      "diviser"
+    ],
+    [
+      "tirer",
+      "lier (un jeu)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1168820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se retirer",
+      "s'éloigner",
+      "détacher"
+    ],
+    [
+      "reculer",
+      "abdiquer",
+      "renoncer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

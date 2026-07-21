@@ -1,0 +1,12 @@
+{
+  "seq": 1164730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "connaissance superficielle",
+      "savoir insuffisant",
+      "compréhension incomplète"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

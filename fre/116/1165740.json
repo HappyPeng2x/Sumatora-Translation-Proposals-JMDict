@@ -1,0 +1,14 @@
+{
+  "seq": 1165740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frapper (quelqu'un) une fois",
+      "donner (quelqu'un) un coup de poing"
+    ],
+    [
+      "intimider (quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

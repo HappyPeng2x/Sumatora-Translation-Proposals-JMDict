@@ -1,0 +1,14 @@
+{
+  "seq": 1166830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sieste",
+      "sommeil court"
+    ],
+    [
+      "premier sommeil des vers à soie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

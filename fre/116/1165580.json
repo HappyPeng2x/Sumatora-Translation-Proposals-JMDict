@@ -1,0 +1,23 @@
+{
+  "seq": 1165580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudiant de première année",
+      "élève de première année"
+    ],
+    [
+      "débutant",
+      "novice",
+      "nouveau venu",
+      "personne qui occupe un poste depuis moins d'un an"
+    ],
+    [
+      "annuel"
+    ],
+    [
+      "plante annuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

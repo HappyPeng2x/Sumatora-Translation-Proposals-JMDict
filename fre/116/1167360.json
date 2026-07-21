@@ -1,0 +1,15 @@
+{
+  "seq": 1167360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unicycle",
+      "monocycle"
+    ],
+    [
+      "chariot à roue",
+      "charrette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

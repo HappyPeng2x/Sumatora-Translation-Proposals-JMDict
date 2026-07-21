@@ -1,0 +1,15 @@
+{
+  "seq": 1168720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facteur",
+      "élément"
+    ],
+    [
+      "facteur",
+      "diviseur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

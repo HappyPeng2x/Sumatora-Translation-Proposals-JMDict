@@ -1,0 +1,12 @@
+{
+  "seq": 1167010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "répondre question par question",
+      "dialogue question-réponse",
+      "interrogatoire par questions successives"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

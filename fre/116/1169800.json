@@ -1,0 +1,12 @@
+{
+  "seq": 1169800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ivrogne",
+      "buveur invétéré",
+      "homme qui boit beaucoup"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

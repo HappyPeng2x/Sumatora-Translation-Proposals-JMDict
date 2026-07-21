@@ -1,0 +1,11 @@
+{
+  "seq": 1165520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parcours d'un jour",
+      "distance parcourue en un jour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

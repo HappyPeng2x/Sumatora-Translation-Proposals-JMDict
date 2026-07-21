@@ -1,0 +1,15 @@
+{
+  "seq": 1166330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une phrase",
+      "un énoncé"
+    ],
+    [
+      "un court passage écrit",
+      "un morceau d'écrit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

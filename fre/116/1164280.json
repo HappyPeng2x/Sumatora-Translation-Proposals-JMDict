@@ -1,0 +1,20 @@
+{
+  "seq": 1164280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une ligne",
+      "une seule ligne"
+    ],
+    [
+      "limite",
+      "frontière",
+      "distinction"
+    ],
+    [
+      "avant-garde",
+      "ligne de front"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

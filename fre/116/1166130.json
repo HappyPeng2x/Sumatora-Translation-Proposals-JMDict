@@ -1,0 +1,21 @@
+{
+  "seq": 1166130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet",
+      "chose",
+      "élément"
+    ],
+    [
+      "plat",
+      "cours (de restaurant)"
+    ],
+    [
+      "meilleur objet",
+      "meilleure chose",
+      "meilleur élément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

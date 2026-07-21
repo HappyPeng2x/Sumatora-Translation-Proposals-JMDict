@@ -1,0 +1,20 @@
+{
+  "seq": 1168920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tirer (une flèche) jusqu'au maximum",
+      "tirer (un arc) jusqu'à la limite"
+    ],
+    [
+      "serrer fort",
+      "tirer fort",
+      "serrer dans les bras"
+    ],
+    [
+      "faire effort (de la voix)",
+      "serrer la voix"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

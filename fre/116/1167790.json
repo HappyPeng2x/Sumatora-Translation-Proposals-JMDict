@@ -1,0 +1,19 @@
+{
+  "seq": 1167790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "œuvre perdue",
+      "texte perdu"
+    ],
+    [
+      "fragment d'œuvre",
+      "œuvre partiellement perdue",
+      "texte survivant par citations"
+    ],
+    [
+      "œuvre de qualité supérieure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

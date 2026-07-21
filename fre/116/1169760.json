@@ -1,0 +1,11 @@
+{
+  "seq": 1169760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passer la tasse en rond",
+      "faire passer la tasse à tour de rôle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1170160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extérieur du congrès",
+      "non parlementaire"
+    ],
+    [
+      "non hospitalier",
+      "extérieur de l'hôpital"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

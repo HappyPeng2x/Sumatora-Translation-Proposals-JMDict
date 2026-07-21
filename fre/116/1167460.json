@@ -1,0 +1,16 @@
+{
+  "seq": 1167460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit",
+      "directement"
+    ],
+    [
+      "voyage",
+      "chemin",
+      "route droite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1169400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attirer vers soi",
+      "ramener",
+      "retraiter"
+    ],
+    [
+      "retirer",
+      "rappeler (des mots)",
+      "rétracter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1164390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un souffle"
+    ],
+    [
+      "la durée d'un souffle"
+    ],
+    [
+      "une pause",
+      "une pause respiratoire",
+      "un moment de repos"
+    ],
+    [
+      "d'un seul coup",
+      "sans s'arrêter"
+    ],
+    [
+      "un peu d'effort",
+      "un petit effort supplémentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

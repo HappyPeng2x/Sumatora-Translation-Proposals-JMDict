@@ -1,0 +1,11 @@
+{
+  "seq": 1166080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esquisse en une seule trajectoire",
+      "dessin unicursal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

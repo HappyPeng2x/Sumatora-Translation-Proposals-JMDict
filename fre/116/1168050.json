@@ -1,0 +1,29 @@
+{
+  "seq": 1168050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tampon",
+      "sceau",
+      "chop"
+    ],
+    [
+      "empreinte de sceau",
+      "sceau",
+      "scellure",
+      "tampon",
+      "marque",
+      "impression"
+    ],
+    [
+      "mudra (geste symbolique de la main en bouddhisme)"
+    ],
+    [
+      "signe de la main des ninjas"
+    ],
+    [
+      "Inde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

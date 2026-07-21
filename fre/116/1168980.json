@@ -1,0 +1,16 @@
+{
+  "seq": 1168980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traîneau",
+      "traîne de robe",
+      "traîne"
+    ],
+    [
+      "femme oisive",
+      "femme qui ne travaille pas et ne pense qu'aux modes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

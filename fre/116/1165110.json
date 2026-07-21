@@ -1,0 +1,17 @@
+{
+  "seq": 1165110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "persévérance",
+      "dévotion",
+      "concentration",
+      "attachement exclusif à une idée"
+    ],
+    [
+      "toujours parier sur la même chose",
+      "insister invariablement sur un seul point"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

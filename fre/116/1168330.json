@@ -1,0 +1,17 @@
+{
+  "seq": 1168330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'impression (de texte ou de symboles); la frappe",
+      "l'impression typographique; la frappe au clavier"
+    ],
+    [
+      "caractère imprimé; caractère frappé"
+    ],
+    [
+      "caractère gravé sur un cachet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

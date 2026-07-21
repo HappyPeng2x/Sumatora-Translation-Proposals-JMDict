@@ -1,0 +1,12 @@
+{
+  "seq": 1170340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calomnie",
+      "ragots malveillants",
+      "parler de quelqu'un en son absence avec méchanceté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1164830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tension et relâchement",
+      "alternance de tension et de relâchement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

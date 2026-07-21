@@ -1,0 +1,15 @@
+{
+  "seq": 1165460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peu à peu",
+      "jour après jour"
+    ],
+    [
+      "chaque jour",
+      "tous les jours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

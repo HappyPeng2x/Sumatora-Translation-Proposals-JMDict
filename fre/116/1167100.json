@@ -1,0 +1,16 @@
+{
+  "seq": 1167100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "subitement",
+      "instantanément",
+      "d'un seul coup"
+    ],
+    [
+      "un bond",
+      "un saut"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1169080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "embauche chez une autre entreprise ; recrutement ; chasseur de têtes"
+    ],
+    [
+      "changement rapide de costume (enlevant le costume extérieur) ; dans le kabuki"
+    ],
+    [
+      "traction (fil, tuyau, plaque métallique)"
+    ],
+    [
+      "extraction ; tirage ; retrait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1165850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne ordinaire",
+      "membre du public",
+      "non-célébrité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1164760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "premier rang",
+      "premier arrivé"
+    ],
+    [
+      "un vêtement",
+      "un article de vêtement"
+    ],
+    [
+      "mettre (des vêtements formels)",
+      "porter"
+    ],
+    [
+      "un coup",
+      "une mise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

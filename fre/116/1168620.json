@@ -1,0 +1,12 @@
+{
+  "seq": 1168620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre non élu",
+      "non-élu",
+      "non-éligible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

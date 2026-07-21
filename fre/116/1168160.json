@@ -1,0 +1,15 @@
+{
+  "seq": 1168160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gravure d'un sceau",
+      "acte de graver un sceau"
+    ],
+    [
+      "inscriptions (de mots, symboles, etc.)",
+      "gravure (de mots, symboles, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

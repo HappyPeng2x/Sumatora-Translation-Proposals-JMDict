@@ -1,0 +1,17 @@
+{
+  "seq": 1166660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "persévérer dans une seule méthode",
+      "ne pas dévier d'une seule idée",
+      "se consacrer entièrement à quelque chose",
+      "ne se concentrer que sur un seul point"
+    ],
+    [
+      "le seul talent de quelqu'un",
+      "la seule spécialité de quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1165180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lame",
+      "arme blanche"
+    ],
+    [
+      "coup unique",
+      "frappe unique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

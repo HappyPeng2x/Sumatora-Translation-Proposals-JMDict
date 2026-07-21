@@ -1,0 +1,33 @@
+{
+  "seq": 1166800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clan",
+      "groupe",
+      "bande",
+      "conspirateurs",
+      "équipage"
+    ],
+    [
+      "participation",
+      "implication",
+      "involvement"
+    ],
+    [
+      "un goût",
+      "une saveur",
+      "un charme"
+    ],
+    [
+      "un ingrédient",
+      "une composante"
+    ],
+    [
+      "universalité",
+      "omniprésence",
+      "pérennité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

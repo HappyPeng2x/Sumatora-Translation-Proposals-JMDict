@@ -1,0 +1,17 @@
+{
+  "seq": 1167060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dernière minute",
+      "cramponnage",
+      "révision de dernière minute"
+    ],
+    [
+      "conserveur",
+      "préparation en une nuit",
+      "fermentation en une nuit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

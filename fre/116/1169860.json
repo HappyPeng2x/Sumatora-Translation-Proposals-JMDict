@@ -1,0 +1,11 @@
+{
+  "seq": 1169860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médicament à prendre par voie orale",
+      "remède interne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

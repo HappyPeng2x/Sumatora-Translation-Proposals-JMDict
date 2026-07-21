@@ -1,0 +1,31 @@
+{
+  "seq": 1166600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un objet long et cylindrique",
+      "un film, un épisode de télévision",
+      "un but, une mise au but",
+      "une communication téléphonique"
+    ],
+    [
+      "une version"
+    ],
+    [
+      "un livre",
+      "un certain livre"
+    ],
+    [
+      "un point",
+      "un coup"
+    ],
+    [
+      "une geisha"
+    ],
+    [
+      "un dévouement exclusif à ...",
+      "une concentration totale sur ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

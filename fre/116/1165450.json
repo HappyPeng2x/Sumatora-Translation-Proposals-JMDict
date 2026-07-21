@@ -1,0 +1,16 @@
+{
+  "seq": 1165450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avantage modeste",
+      "supériorité légère",
+      "avantage mineur"
+    ],
+    [
+      "être légèrement plus âgé",
+      "avoir quelques années de plus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

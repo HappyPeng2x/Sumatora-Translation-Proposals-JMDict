@@ -1,0 +1,30 @@
+{
+  "seq": 1165730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un coup de feu",
+      "une décharge",
+      "une explosion"
+    ],
+    [
+      "un coup",
+      "un coup de poing"
+    ],
+    [
+      "un circuit homérun"
+    ],
+    [
+      "une tentative",
+      "un essai"
+    ],
+    [
+      "une victoire sur la première manche après avoir appelé rīchi"
+    ],
+    [
+      "ippatsu (abréviation de karuta)",
+      "prendre une carte qui est lue immédiatement après l'avoir envoyée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1169050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attirer",
+      "tirer vers soi",
+      "entraîner dans"
+    ],
+    [
+      "attirer à l'intérieur",
+      "laisser entrer par ruse"
+    ],
+    [
+      "séduire",
+      "gagner à sa cause",
+      "corrompre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

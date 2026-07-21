@@ -1,0 +1,17 @@
+{
+  "seq": 1164290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclair",
+      "étincelle",
+      "lueur"
+    ],
+    [
+      "frappe rapide",
+      "coup décisif",
+      "mouvement subit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

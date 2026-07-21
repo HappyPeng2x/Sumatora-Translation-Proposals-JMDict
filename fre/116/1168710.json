@@ -1,0 +1,13 @@
+{
+  "seq": 1168710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans cœur",
+      "cruel",
+      "cause et effet",
+      "résultat d'actions antérieures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

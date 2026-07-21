@@ -1,0 +1,17 @@
+{
+  "seq": 1166740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vedette",
+      "première danseuse",
+      "star du cinéma"
+    ],
+    [
+      "meilleur élément",
+      "meilleur atout",
+      "domaine d'expertise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1169290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "heure de fermeture",
+      "heure d'arrêt",
+      "fin des horaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

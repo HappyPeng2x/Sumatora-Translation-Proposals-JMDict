@@ -1,0 +1,17 @@
+{
+  "seq": 1169200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soutenir",
+      "encourager",
+      "donner de l'élan"
+    ],
+    [
+      "mettre en valeur",
+      "rendre plus attrayant",
+      "se distinguer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

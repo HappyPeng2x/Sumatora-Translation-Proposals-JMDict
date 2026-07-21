@@ -1,0 +1,10 @@
+{
+  "seq": 1165000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mesure pour des objets longs et étroits (ex. fusils, pioches, houes, rames, bâtonnets d'encre, bougies, abacques, couteaux de cuisine, ciseaux, shamisen, violons) ; mesure pour palanquins, rickshaws et véhicules similaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

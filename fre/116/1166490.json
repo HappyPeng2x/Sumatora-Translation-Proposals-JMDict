@@ -1,0 +1,17 @@
+{
+  "seq": 1166490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "information",
+      "notification",
+      "message",
+      "faire part de quelque chose"
+    ],
+    [
+      "premier rapport",
+      "première déclaration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

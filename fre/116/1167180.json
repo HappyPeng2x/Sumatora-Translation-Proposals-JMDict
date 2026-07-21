@@ -1,0 +1,19 @@
+{
+  "seq": 1167180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regard",
+      "vue",
+      "aperçu",
+      "observation rapide"
+    ],
+    [
+      "résumé",
+      "liste",
+      "tableau",
+      "catalogue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

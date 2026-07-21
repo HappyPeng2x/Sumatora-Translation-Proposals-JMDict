@@ -1,0 +1,14 @@
+{
+  "seq": 1169650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dernières paroles prononcées à un mort",
+      "requiem"
+    ],
+    [
+      "conversion de personnes au bouddhisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

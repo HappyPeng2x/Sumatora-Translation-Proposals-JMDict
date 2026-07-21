@@ -1,0 +1,16 @@
+{
+  "seq": 1169240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fosse",
+      "cicatrice"
+    ],
+    [
+      "tétanos",
+      "tremblement",
+      "crampes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

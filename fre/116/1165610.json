@@ -1,0 +1,19 @@
+{
+  "seq": 1165610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détermination",
+      "résolution ferme"
+    ],
+    [
+      "instantané",
+      "moment infiniment court"
+    ],
+    [
+      "répétition",
+      "récitation d'une prière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1164900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une copie (d'un document)",
+      "une lettre"
+    ],
+    [
+      "le trafic unidirectionnel"
+    ],
+    [
+      "une suite pure",
+      "main gagnante composée de neuf tuiles consécutives de la même couleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

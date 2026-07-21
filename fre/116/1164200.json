@@ -1,0 +1,11 @@
+{
+  "seq": 1164200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ensemble complet des textes bouddhiques",
+      "corpus complet des écritures bouddhiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

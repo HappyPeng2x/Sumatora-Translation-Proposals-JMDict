@@ -1,0 +1,12 @@
+{
+  "seq": 1169920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "habitude de boire",
+      "problème lié à la consommation d'alcool",
+      "intempérance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

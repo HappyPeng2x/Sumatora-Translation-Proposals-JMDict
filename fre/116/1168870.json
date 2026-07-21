@@ -1,0 +1,17 @@
+{
+  "seq": 1168870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attirer vers soi",
+      "tirer vers soi",
+      "rapprocher"
+    ],
+    [
+      "attirer",
+      "séduire",
+      "entamer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1164430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un saut",
+      "un bond",
+      "un bond en un seul mouvement",
+      "un pas",
+      "un saut en un seul geste"
+    ],
+    [
+      "le fait de sauter (avec les deux pieds ensemble)",
+      "le saut (avec les deux pieds ensemble)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

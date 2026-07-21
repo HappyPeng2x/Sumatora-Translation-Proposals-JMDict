@@ -1,0 +1,12 @@
+{
+  "seq": 1169230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rester à l'intérieur",
+      "se cloîtrer",
+      "s'enfermer chez soi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

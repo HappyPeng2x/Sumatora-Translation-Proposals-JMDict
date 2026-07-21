@@ -1,0 +1,17 @@
+{
+  "seq": 1167710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échappement",
+      "fuite",
+      "détachement"
+    ],
+    [
+      "supériorité",
+      "excellence",
+      "prééminence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

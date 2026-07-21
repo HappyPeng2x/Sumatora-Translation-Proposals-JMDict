@@ -1,0 +1,12 @@
+{
+  "seq": 1166030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le plus nombreux",
+      "le plus fréquent",
+      "le plus abondant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

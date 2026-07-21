@@ -1,0 +1,13 @@
+{
+  "seq": 1164630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaire importante",
+      "question de grande importance",
+      "incident majeur",
+      "urgence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

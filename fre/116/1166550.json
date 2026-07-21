@@ -1,0 +1,16 @@
+{
+  "seq": 1166550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trafic unidirectionnel",
+      "route à sens unique"
+    ],
+    [
+      "unilatéral",
+      "à sens unique (comme la communication)",
+      "déséquilibré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

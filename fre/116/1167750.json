@@ -1,0 +1,17 @@
+{
+  "seq": 1167750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déviation",
+      "départ",
+      "écart"
+    ],
+    [
+      "omission",
+      "oubli",
+      "négligence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

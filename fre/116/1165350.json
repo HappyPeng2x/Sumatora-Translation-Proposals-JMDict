@@ -1,0 +1,19 @@
+{
+  "seq": 1165350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un édifice",
+      "un bâtiment",
+      "une salle",
+      "un temple",
+      "un sanctuaire"
+    ],
+    [
+      "le même local",
+      "le même lieu",
+      "le même bâtiment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

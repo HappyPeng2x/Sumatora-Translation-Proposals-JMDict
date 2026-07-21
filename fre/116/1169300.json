@@ -1,0 +1,11 @@
+{
+  "seq": 1169300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prix de sortie",
+      "prix final"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

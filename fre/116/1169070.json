@@ -1,0 +1,11 @@
+{
+  "seq": 1169070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "force de décollement",
+      "force nécessaire pour retirer un conducteur d'un substrat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

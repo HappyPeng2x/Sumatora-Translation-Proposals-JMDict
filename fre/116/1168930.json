@@ -1,0 +1,17 @@
+{
+  "seq": 1168930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rétribuer",
+      "être rentable",
+      "apporter un profit"
+    ],
+    [
+      "se tirer mutuellement",
+      "s'attirer mutuellement",
+      "s'opposer mutuellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

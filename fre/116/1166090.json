@@ -1,0 +1,13 @@
+{
+  "seq": 1166090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "[expr, proverbe] il est bon d'avoir une fille d'abord, puis un garçon"
+    ],
+    [
+      "[expr, coll.] une fille et deux garçons sont idéaux (usage récent)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

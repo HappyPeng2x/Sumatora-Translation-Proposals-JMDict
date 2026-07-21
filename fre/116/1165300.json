@@ -1,0 +1,11 @@
+{
+  "seq": 1165300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soldat de première classe",
+      "soldat classé premier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

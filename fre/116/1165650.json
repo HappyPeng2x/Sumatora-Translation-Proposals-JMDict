@@ -1,0 +1,17 @@
+{
+  "seq": 1165650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une école",
+      "une secte",
+      "une dénomination"
+    ],
+    [
+      "une faction",
+      "un groupe",
+      "une partie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

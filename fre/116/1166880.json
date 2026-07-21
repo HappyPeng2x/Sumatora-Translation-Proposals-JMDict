@@ -1,0 +1,12 @@
+{
+  "seq": 1166880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vue unilatérale",
+      "vision partielle",
+      "interprétation partielle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

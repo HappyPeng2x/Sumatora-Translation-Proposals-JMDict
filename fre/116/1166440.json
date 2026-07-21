@@ -1,0 +1,14 @@
+{
+  "seq": 1166440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dévotion totale",
+      "engagement sans réserve",
+      "soutien inébranlable",
+      "fixation exclusive",
+      "préoccupation rigide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

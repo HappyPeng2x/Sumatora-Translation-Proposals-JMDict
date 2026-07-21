@@ -1,0 +1,31 @@
+{
+  "seq": 1165090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point",
+      "tache",
+      "petit point"
+    ],
+    [
+      "un point",
+      "un détail",
+      "un élément"
+    ],
+    [
+      "un point (dans un jeu, un examen, etc.)",
+      "une marque"
+    ],
+    [
+      "un élément",
+      "un article",
+      "une pièce"
+    ],
+    [
+      "le moindre peu",
+      "une trace",
+      "un soupçon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

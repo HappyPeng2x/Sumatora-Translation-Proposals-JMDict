@@ -1,0 +1,19 @@
+{
+  "seq": 1167450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "série",
+      "chaîne",
+      "séquence"
+    ],
+    [
+      "deux reams (c'est-à-dire 1000 feuilles de papier)"
+    ],
+    [
+      "verset",
+      "stanza"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

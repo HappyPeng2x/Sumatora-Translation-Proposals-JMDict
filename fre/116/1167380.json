@@ -1,0 +1,11 @@
+{
+  "seq": 1167380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur de première base",
+      "joueur qui occupe la première base au baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

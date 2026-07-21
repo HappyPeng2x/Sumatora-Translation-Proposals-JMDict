@@ -1,0 +1,19 @@
+{
+  "seq": 1168640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cause",
+      "facteur"
+    ],
+    [
+      "cause directe",
+      "facteur immédiat"
+    ],
+    [
+      "base d'un argument",
+      "fondement d'une démonstration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

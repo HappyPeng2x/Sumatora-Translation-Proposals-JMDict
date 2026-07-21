@@ -1,0 +1,12 @@
+{
+  "seq": 1170450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hypocrite",
+      "double joueur",
+      "personne deux-visage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

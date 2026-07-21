@@ -1,0 +1,21 @@
+{
+  "seq": 1167020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "famille",
+      "clan",
+      "parenté"
+    ],
+    [
+      "secte",
+      "école",
+      "adeptes",
+      "disciples"
+    ],
+    [
+      "groupe de stables de sumo liés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

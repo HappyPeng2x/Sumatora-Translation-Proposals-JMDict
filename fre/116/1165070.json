@@ -1,0 +1,17 @@
+{
+  "seq": 1165070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un tour",
+      "un mouvement de rotation"
+    ],
+    [
+      "changement complet",
+      "renversement",
+      "détour",
+      "transformation soudaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

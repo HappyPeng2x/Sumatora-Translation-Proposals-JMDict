@@ -1,0 +1,13 @@
+{
+  "seq": 1166580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surprendre quelqu'un",
+      "prendre quelqu'un de court",
+      "déstabiliser",
+      "faire paniquer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
