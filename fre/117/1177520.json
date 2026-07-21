@@ -1,0 +1,16 @@
+{
+  "seq": 1177520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distant",
+      "peu lié",
+      "étranger",
+      "au-delà des moyens"
+    ],
+    [
+      "peu susceptible de mener à un mariage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

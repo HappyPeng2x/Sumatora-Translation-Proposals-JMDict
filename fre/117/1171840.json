@@ -1,0 +1,17 @@
+{
+  "seq": 1171840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ailes et plumes",
+      "ailes (d'un oiseau)"
+    ],
+    [
+      "aide",
+      "assistance",
+      "secours",
+      "main-d'œuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

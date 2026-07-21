@@ -1,0 +1,16 @@
+{
+  "seq": 1176830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "popularisation",
+      "simplification",
+      "explication en langage simple"
+    ],
+    [
+      "adaptation de l'histoire pour la lecture populaire",
+      "écriture de romans historiques (surtout chinois)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

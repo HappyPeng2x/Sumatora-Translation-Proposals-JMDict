@@ -1,0 +1,19 @@
+{
+  "seq": 1171290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bras droit"
+    ],
+    [
+      "personne de confiance",
+      "main-d'œuvre",
+      "collègue de confiance"
+    ],
+    [
+      "lanceur droit",
+      "pitcher droit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

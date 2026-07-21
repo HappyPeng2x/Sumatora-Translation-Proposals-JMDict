@@ -1,0 +1,16 @@
+{
+  "seq": 1176630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couvrir",
+      "masquer",
+      "cacher",
+      "dissimuler"
+    ],
+    [
+      "occultation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

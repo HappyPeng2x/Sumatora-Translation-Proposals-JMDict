@@ -1,0 +1,15 @@
+{
+  "seq": 1175790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "base en yens",
+      "base monétaire en yens"
+    ],
+    [
+      "dénominé en yens",
+      "basé sur le yen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

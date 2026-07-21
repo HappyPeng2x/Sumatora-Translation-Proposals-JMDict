@@ -1,0 +1,12 @@
+{
+  "seq": 1175990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conférence de table ronde",
+      "réunion de table ronde",
+      "table ronde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

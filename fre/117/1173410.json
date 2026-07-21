@@ -1,0 +1,24 @@
+{
+  "seq": 1173410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "activité",
+      "action",
+      "exécution"
+    ],
+    [
+      "métier",
+      "travail",
+      "affaire"
+    ],
+    [
+      "rapports sexuels",
+      "relation sexuelle"
+    ],
+    [
+      "préparatifs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

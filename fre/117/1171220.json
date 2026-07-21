@@ -1,0 +1,14 @@
+{
+  "seq": 1171220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre de droite (d'une équation, d'une expression, etc.)",
+      "membre droit (d'une équation, d'une expression, etc.)"
+    ],
+    [
+      "côté droit (dans le go, le shogi, le jeu d'échecs, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

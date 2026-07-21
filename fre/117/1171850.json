@@ -1,0 +1,18 @@
+{
+  "seq": 1171850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circuitueux",
+      "indirect",
+      "tournant en rond",
+      "impraticable",
+      "inutile"
+    ],
+    [
+      "ignorant",
+      "ne connaissant pas le monde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

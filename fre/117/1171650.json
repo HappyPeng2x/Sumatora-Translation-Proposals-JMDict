@@ -1,0 +1,19 @@
+{
+  "seq": 1171650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrogant",
+      "impertinent",
+      "audacieux",
+      "insolent"
+    ],
+    [
+      "ridicule",
+      "absurde",
+      "dérisoire",
+      "hilarant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

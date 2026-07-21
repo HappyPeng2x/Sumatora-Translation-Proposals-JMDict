@@ -1,0 +1,22 @@
+{
+  "seq": 1178620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salty"
+    ],
+    [
+      "calculateur; avare"
+    ],
+    [
+      "sourcilleux; grimaceur; fronçant les sourcils"
+    ],
+    [
+      "râpeux; âpre"
+    ],
+    [
+      "inférieur; médiocre; ennuyeux; terne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

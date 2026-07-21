@@ -1,0 +1,12 @@
+{
+  "seq": 1173770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "critique de film",
+      "avis sur un film",
+      "analyse de film"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

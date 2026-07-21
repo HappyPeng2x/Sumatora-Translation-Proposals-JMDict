@@ -1,0 +1,11 @@
+{
+  "seq": 1177400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mettre un bâillon à quelqu'un",
+      "gager quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

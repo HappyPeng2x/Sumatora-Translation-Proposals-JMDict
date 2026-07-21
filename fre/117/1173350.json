@@ -1,0 +1,17 @@
+{
+  "seq": 1173350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "proie",
+      "victime",
+      "but"
+    ],
+    [
+      "victime",
+      "cible",
+      "objet d'une tromperie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

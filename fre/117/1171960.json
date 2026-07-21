@@ -1,0 +1,16 @@
+{
+  "seq": 1171960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaussures imperméables",
+      "bottines en caoutchouc",
+      "bottes de pluie",
+      "bottes de Wellington",
+      "bottes en caoutchouc",
+      "surchaussures",
+      "galoches"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

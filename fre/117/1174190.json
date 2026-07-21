@@ -1,0 +1,16 @@
+{
+  "seq": 1174190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éternité",
+      "perpétuité",
+      "immortalité",
+      "pérennité"
+    ],
+    [
+      "titulaire à vie (dans le shogi, le go, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

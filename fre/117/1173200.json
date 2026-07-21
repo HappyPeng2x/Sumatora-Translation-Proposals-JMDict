@@ -1,0 +1,17 @@
+{
+  "seq": 1173200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "porteur de palanquin malveillant (ère Edo)",
+      "homme de main dur (ère Edo)"
+    ],
+    [
+      "vaurien",
+      "soudard",
+      "escroc",
+      "exploiteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

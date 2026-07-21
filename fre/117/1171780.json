@@ -1,0 +1,13 @@
+{
+  "seq": 1171780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mettre",
+      "un manteau",
+      "une robe",
+      "etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

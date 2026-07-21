@@ -1,0 +1,17 @@
+{
+  "seq": 1176080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "souple",
+      "gracieux",
+      "élégant"
+    ],
+    [
+      "polyvalent",
+      "adaptable",
+      "versatile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

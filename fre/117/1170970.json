@@ -1,0 +1,11 @@
+{
+  "seq": 1170970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mots qui riment",
+      "mots consonnants"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

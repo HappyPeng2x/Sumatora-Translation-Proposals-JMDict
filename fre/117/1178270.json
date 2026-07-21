@@ -1,0 +1,21 @@
+{
+  "seq": 1178270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'éloigner",
+      "rester en arrière",
+      "s'estomper",
+      "s'atténuer",
+      "disparaître"
+    ],
+    [
+      "s'éloigner de",
+      "se désintéresser de",
+      "se détourner de",
+      "devenir moins fréquent",
+      "s'éloigner (d'une personne, d'une activité)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

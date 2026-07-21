@@ -1,0 +1,12 @@
+{
+  "seq": 1170780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vie recluse",
+      "retraite solitaire",
+      "mode de vie retiré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

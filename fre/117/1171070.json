@@ -1,0 +1,12 @@
+{
+  "seq": 1171070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rotation dans le sens des aiguilles d'une montre",
+      "rotation en sens horaire",
+      "rotation à droite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

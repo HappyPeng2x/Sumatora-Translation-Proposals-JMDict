@@ -1,0 +1,14 @@
+{
+  "seq": 1175020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liquidity",
+      "fluidité"
+    ],
+    [
+      "humoral"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

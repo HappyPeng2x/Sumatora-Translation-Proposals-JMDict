@@ -1,0 +1,13 @@
+{
+  "seq": 1177280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pipe (à tabac) avec une tige terminée par une extrémité métallique ; kiseru"
+    ],
+    [
+      "tricher sur le prix du billet de train en achetant des billets couvrant uniquement les premières et dernières parties du trajet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

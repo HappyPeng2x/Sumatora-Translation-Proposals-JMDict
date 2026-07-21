@@ -1,0 +1,15 @@
+{
+  "seq": 1170870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garde",
+      "cimetière"
+    ],
+    [
+      "ouvrier",
+      "crématorium"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

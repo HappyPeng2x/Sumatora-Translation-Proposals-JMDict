@@ -1,0 +1,17 @@
+{
+  "seq": 1177120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "incendie",
+      "déstruction par le feu",
+      "prendre feu"
+    ],
+    [
+      "polémique en ligne",
+      "tempête de critiques sur Internet",
+      "être la cible d'une vague de critiques en ligne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

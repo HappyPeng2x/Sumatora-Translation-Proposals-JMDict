@@ -1,0 +1,11 @@
+{
+  "seq": 1172680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malheureusement",
+      "malchanceusement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

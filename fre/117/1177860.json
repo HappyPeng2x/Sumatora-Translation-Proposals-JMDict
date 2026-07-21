@@ -1,0 +1,12 @@
+{
+  "seq": 1177860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cause lointaine",
+      "cause sous-jacente",
+      "cause indirecte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

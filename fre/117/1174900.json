@@ -1,0 +1,15 @@
+{
+  "seq": 1174900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec ardeur",
+      "avec empressement",
+      "avec zèle",
+      "avec dévotion",
+      "avec diligence",
+      "assidûment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

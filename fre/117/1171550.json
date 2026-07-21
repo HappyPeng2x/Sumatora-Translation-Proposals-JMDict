@@ -1,0 +1,11 @@
+{
+  "seq": 1171550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "papier sombre et rugueux",
+      "papier brun foncé de mauvaise qualité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

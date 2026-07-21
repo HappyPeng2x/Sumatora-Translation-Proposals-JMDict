@@ -1,0 +1,19 @@
+{
+  "seq": 1177240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fumée",
+      "brouillard de fumée"
+    ],
+    [
+      "feu de signal",
+      "feu d'artifice en l'air"
+    ],
+    [
+      "feu d'artifice",
+      "spectacle pyrotechnique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

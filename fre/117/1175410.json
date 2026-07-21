@@ -1,0 +1,14 @@
+{
+  "seq": 1175410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "champignon enoki",
+      "champignon velouté",
+      "champignon de l'hiver",
+      "enokitake",
+      "enokidake"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1171890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négligent",
+      "inattentif",
+      "imprudent",
+      "stupide",
+      "insouciant",
+      "inconsidéré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

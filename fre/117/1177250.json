@@ -1,0 +1,15 @@
+{
+  "seq": 1177250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fumée et brume",
+      "brume enveloppante"
+    ],
+    [
+      "vue naturelle",
+      "paysage de montagnes et de vallées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

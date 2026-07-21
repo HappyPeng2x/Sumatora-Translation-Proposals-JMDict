@@ -1,0 +1,22 @@
+{
+  "seq": 1172230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeter un coup d'œil",
+      "regarder discrètement",
+      "observer furtivement"
+    ],
+    [
+      "attendre son moment",
+      "attendre l'occasion propice"
+    ],
+    [
+      "deviner",
+      "supposer",
+      "infréquer",
+      "pressentir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

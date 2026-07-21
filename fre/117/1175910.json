@@ -1,0 +1,15 @@
+{
+  "seq": 1175910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un cercle",
+      "un groupe serré"
+    ],
+    [
+      "formation circulaire",
+      "formation circulaire (militaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

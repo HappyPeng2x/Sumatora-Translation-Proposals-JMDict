@@ -1,0 +1,14 @@
+{
+  "seq": 1171860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détour",
+      "contournement"
+    ],
+    [
+      "mouvement de flanc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

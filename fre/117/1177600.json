@@ -1,0 +1,11 @@
+{
+  "seq": 1177600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parents, frères et sœurs",
+      "membres de la famille proche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

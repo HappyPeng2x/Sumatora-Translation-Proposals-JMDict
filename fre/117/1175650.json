@@ -1,0 +1,11 @@
+{
+  "seq": 1175650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement circulaire",
+      "mouvement en cercle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1174180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résident permanent",
+      "étranger titulaire d'un visa de résidence permanente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

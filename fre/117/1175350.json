@@ -1,0 +1,16 @@
+{
+  "seq": 1175350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passer l'hiver",
+      "hiberner",
+      "voir l'année passer",
+      "célébrer le Nouvel An"
+    ],
+    [
+      "jouer plus de 12 manches dans un jeu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1175630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taux de change du yen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

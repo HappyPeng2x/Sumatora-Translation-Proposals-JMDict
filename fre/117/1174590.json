@@ -1,0 +1,11 @@
+{
+  "seq": 1174590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractère alphanumérique",
+      "caractère alphabétique et numérique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1177020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démonstration",
+      "de",
+      "arts",
+      "martiaux"
+    ],
+    [
+      "entraînement",
+      "aux",
+      "arts",
+      "martiaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1171920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grenouille arboricole",
+      "grenouille du Japon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1173220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prêtre itinérant",
+      "moine errant",
+      "mendiant"
+    ],
+    [
+      "nuages et eau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

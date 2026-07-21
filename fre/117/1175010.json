@@ -1,0 +1,11 @@
+{
+  "seq": 1175010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état liquide",
+      "état de matière liquide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

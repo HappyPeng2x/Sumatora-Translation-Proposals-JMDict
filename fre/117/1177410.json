@@ -1,0 +1,13 @@
+{
+  "seq": 1177410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "même un singe peut tomber d'un arbre",
+      "personne n'est infaillible",
+      "l'orgueil précède la chute",
+      "même Homère fait parfois des erreurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

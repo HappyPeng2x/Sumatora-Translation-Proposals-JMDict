@@ -1,0 +1,11 @@
+{
+  "seq": 1174440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "version anglaise",
+      "édition en anglais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

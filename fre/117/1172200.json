@@ -1,0 +1,13 @@
+{
+  "seq": 1172200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pêche au cormoran"
+    ],
+    [
+      "pêcheur de cormorans"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1178020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entourant à distance",
+      "environnant à distance",
+      "situé à distance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

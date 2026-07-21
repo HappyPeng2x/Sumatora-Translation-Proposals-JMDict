@@ -1,0 +1,19 @@
+{
+  "seq": 1171820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "panneau",
+      "vitrail",
+      "moulure"
+    ],
+    [
+      "situation",
+      "embarras",
+      "dilemme",
+      "problème",
+      "mésaventure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

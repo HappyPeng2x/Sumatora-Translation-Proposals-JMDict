@@ -1,0 +1,13 @@
+{
+  "seq": 1176540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prolonger la vie",
+      "maintenir en vie",
+      "extension de la vie",
+      "soins de soutien à la vie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

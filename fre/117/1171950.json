@@ -1,0 +1,12 @@
+{
+  "seq": 1171950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ciel menaçant",
+      "ciel chargé de pluie",
+      "ciel avant la pluie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

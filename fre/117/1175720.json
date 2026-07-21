@@ -1,0 +1,11 @@
+{
+  "seq": 1175720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compas",
+      "instrument de dessin utilisé pour tracer des cercles ou des arcs de cercle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

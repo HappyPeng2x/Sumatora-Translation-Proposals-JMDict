@@ -1,0 +1,11 @@
+{
+  "seq": 1171350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nourriture consommée dans l'espace",
+      "alimentation spatiale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

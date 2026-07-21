@@ -1,0 +1,15 @@
+{
+  "seq": 1170830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "patience",
+      "endurance"
+    ],
+    [
+      "ninja opérationnel",
+      "ninja infiltré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

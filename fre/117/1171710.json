@@ -1,0 +1,17 @@
+{
+  "seq": 1171710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit des ailes",
+      "battement d'ailes",
+      "bourdonnement d'insectes",
+      "bourdonnement d'abeilles"
+    ],
+    [
+      "sifflement d'une flèche en vol",
+      "bruit aigu d'une flèche qui vole"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

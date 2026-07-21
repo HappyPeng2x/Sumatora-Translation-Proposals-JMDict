@@ -1,0 +1,14 @@
+{
+  "seq": 1176800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enka",
+      "chanson populaire traditionnelle japonaise"
+    ],
+    [
+      "troubadour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1172510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "donburi au poisson anguille",
+      "bowl de riz avec du poisson anguille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

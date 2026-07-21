@@ -1,0 +1,17 @@
+{
+  "seq": 1177360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "oiseau petit",
+      "petit oiseau",
+      "oiseau de petite taille"
+    ],
+    [
+      "personne étroite d'esprit",
+      "personne peu charismatique",
+      "individu peu développé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

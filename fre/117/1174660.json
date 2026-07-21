@@ -1,0 +1,15 @@
+{
+  "seq": 1174660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "renommée",
+      "gloire",
+      "réputation"
+    ],
+    [
+      "nom anglais (d'une plante, d'un animal, d'une organisation, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

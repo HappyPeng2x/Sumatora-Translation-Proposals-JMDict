@@ -1,0 +1,15 @@
+{
+  "seq": 1178370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hurler à distance",
+      "hurlement lointain"
+    ],
+    [
+      "dire des méchancetés sur quelqu'un en son absence",
+      "raconter des ragots derrière le dos de quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

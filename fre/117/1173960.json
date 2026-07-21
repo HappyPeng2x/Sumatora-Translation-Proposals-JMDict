@@ -1,0 +1,12 @@
+{
+  "seq": 1173960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "promotion",
+      "avancement",
+      "promotion professionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

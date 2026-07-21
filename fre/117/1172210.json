@@ -1,0 +1,14 @@
+{
+  "seq": 1172210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avaler sans mâcher"
+    ],
+    [
+      "accepter sans questionner",
+      "croire sans vérifier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

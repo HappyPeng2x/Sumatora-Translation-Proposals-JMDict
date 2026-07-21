@@ -1,0 +1,16 @@
+{
+  "seq": 1171790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "influence",
+      "pouvoir",
+      "autorité"
+    ],
+    [
+      "battement d'ailes",
+      "agitation des ailes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

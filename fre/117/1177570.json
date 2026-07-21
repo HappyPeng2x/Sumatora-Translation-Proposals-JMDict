@@ -1,0 +1,11 @@
+{
+  "seq": 1177570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "emploi de mots liés pour enrichir l'expression",
+      "utilisation de mots sémantiquement associés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1174630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "littérature anglaise",
+      "littérature en anglais"
+    ],
+    [
+      "littérature britannique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1170890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "secret",
+      "clandestin",
+      "caché",
+      "furtif"
+    ],
+    [
+      "espion",
+      "agent secret"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

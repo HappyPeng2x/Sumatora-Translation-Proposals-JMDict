@@ -1,0 +1,18 @@
+{
+  "seq": 1178390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vue à distance",
+      "regard lointain"
+    ],
+    [
+      "vision à longue distance",
+      "bonne acuité visuelle à distance"
+    ],
+    [
+      "hypermétropie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

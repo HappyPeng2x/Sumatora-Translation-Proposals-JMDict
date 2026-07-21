@@ -1,0 +1,17 @@
+{
+  "seq": 1177550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mariage",
+      "lien marital",
+      "nœud d'amour"
+    ],
+    [
+      "liaison spirituelle",
+      "attache spirituelle",
+      "destinée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

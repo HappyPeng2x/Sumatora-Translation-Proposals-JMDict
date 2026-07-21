@@ -1,0 +1,17 @@
+{
+  "seq": 1173160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "météo",
+      "aspect du ciel"
+    ],
+    [
+      "situation",
+      "évolution des événements",
+      "signes",
+      "tendance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

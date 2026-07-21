@@ -1,0 +1,11 @@
+{
+  "seq": 1175740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "orbite circulaire",
+      "trajectoire circulaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

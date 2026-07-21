@@ -1,0 +1,14 @@
+{
+  "seq": 1175830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tapis en paille circulaire"
+    ],
+    [
+      "s'asseoir en cercle",
+      "siéger en cercle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1174850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aria"
+    ],
+    [
+      "chant",
+      "récitation",
+      "psalmode"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

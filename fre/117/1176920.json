@@ -1,0 +1,16 @@
+{
+  "seq": 1176920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "présentateur",
+      "oratrice"
+    ],
+    [
+      "interprète",
+      "participant",
+      "acteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

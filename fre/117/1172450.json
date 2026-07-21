@@ -1,0 +1,12 @@
+{
+  "seq": 1172450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractère mal écrit",
+      "kanji écrit avec les mauvaises traits",
+      "kanji utilisé de manière incorrecte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

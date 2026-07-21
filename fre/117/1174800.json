@@ -1,0 +1,11 @@
+{
+  "seq": 1174800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "normes d'hygiène",
+      "normes sanitaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

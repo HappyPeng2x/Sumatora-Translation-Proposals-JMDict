@@ -1,0 +1,11 @@
+{
+  "seq": 1178180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "centrifugation",
+      "séparation centrifuge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

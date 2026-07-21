@@ -1,0 +1,18 @@
+{
+  "seq": 1175070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dieu de la peste",
+      "dieu qui propage les maladies infectieuses"
+    ],
+    [
+      "jinx",
+      "malédiction",
+      "personne odieuse",
+      "plague",
+      "ange de la mort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

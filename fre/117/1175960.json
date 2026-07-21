@@ -1,0 +1,15 @@
+{
+  "seq": 1175960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cone",
+      "cône (géométrique)"
+    ],
+    [
+      "cône (cellulaire)",
+      "cone (cellule)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1174700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esprit des morts",
+      "âme d'un soldat tombé au combat"
+    ],
+    [
+      "personne de talent exceptionnel",
+      "génie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

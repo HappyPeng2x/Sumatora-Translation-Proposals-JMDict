@@ -1,0 +1,17 @@
+{
+  "seq": 1175590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rond",
+      "cercle",
+      "circular"
+    ],
+    [
+      "serein",
+      "détendu",
+      "en paix"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

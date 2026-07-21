@@ -1,0 +1,12 @@
+{
+  "seq": 1175500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lassitude de la vie",
+      "détachement du monde",
+      "pessimisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

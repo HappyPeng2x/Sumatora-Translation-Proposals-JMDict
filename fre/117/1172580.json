@@ -1,0 +1,14 @@
+{
+  "seq": 1172580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "identiques",
+      "pareils",
+      "exactement semblables",
+      "totalement identiques",
+      "copie conforme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

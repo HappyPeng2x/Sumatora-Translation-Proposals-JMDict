@@ -1,0 +1,12 @@
+{
+  "seq": 1177930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détour",
+      "chemin détourné",
+      "itinéraire indirect"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

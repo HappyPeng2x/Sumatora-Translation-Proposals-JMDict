@@ -1,0 +1,11 @@
+{
+  "seq": 1172800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise de transport",
+      "entreprise de livraison rapide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

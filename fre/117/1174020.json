@@ -1,0 +1,11 @@
+{
+  "seq": 1174020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diététicien",
+      "nutritionniste certifié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

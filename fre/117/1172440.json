@@ -1,0 +1,12 @@
+{
+  "seq": 1172440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mentir",
+      "dire un mensonge",
+      "faire un faux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

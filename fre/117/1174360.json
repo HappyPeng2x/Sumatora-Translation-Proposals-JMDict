@@ -1,0 +1,15 @@
+{
+  "seq": 1174360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "croissances et déclin de la lune",
+      "phase de la lune"
+    ],
+    [
+      "montées et baissées de la fortune",
+      "altération du sort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

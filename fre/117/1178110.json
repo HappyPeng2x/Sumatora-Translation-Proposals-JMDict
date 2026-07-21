@@ -1,0 +1,15 @@
+{
+  "seq": 1178110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pays lointain",
+      "terre éloignée",
+      "pays distant"
+    ],
+    [
+      "province éloignée de la capitale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

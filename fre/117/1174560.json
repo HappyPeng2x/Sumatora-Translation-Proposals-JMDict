@@ -1,0 +1,11 @@
+{
+  "seq": 1174560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre anglais",
+      "ouvrage écrit en anglais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

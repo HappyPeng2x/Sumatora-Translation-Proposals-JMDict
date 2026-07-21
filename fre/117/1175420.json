@@ -1,0 +1,19 @@
+{
+  "seq": 1175420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avoir horreur de",
+      "être réticent à",
+      "détester",
+      "haïr",
+      "éviter",
+      "être las de"
+    ],
+    [
+      "prendre soin de",
+      "s'occuper de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

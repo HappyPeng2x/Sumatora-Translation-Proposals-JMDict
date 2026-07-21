@@ -1,0 +1,11 @@
+{
+  "seq": 1171800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poissons de mer, comme le loup de mer",
+      "groupers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

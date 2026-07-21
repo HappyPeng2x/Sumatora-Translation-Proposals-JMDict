@@ -1,0 +1,11 @@
+{
+  "seq": 1175520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vision pessimiste de la vie",
+      "pessimisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

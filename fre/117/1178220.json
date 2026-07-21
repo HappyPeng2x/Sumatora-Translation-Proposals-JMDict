@@ -1,0 +1,12 @@
+{
+  "seq": 1178220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parent éloigné",
+      "proche éloigné",
+      "parent lointain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

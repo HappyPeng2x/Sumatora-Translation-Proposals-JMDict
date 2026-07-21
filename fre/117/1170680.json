@@ -1,0 +1,18 @@
+{
+  "seq": 1170680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couverture",
+      "masque",
+      "fausse apparence"
+    ],
+    [
+      "Dendropanax trifidus"
+    ],
+    [
+      "manteau de paille qui rend invisible (sens originel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1172000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adversité qui renforce les fondations",
+      "après une tempête vient le calme",
+      "ce qui ne vous tue pas vous rend plus fort",
+      "le sol se solidifie après la pluie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

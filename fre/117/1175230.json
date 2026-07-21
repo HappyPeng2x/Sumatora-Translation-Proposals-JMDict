@@ -1,0 +1,11 @@
+{
+  "seq": 1175230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "employé des chemins de fer",
+      "porteur (dans une gare)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

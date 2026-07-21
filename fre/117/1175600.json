@@ -1,0 +1,17 @@
+{
+  "seq": 1175600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrondi",
+      "circular",
+      "sphérique"
+    ],
+    [
+      "doux",
+      "mild",
+      "velouté (d'un goût, d'une voix, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1172250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taureau",
+      "signe du zodiaque chinois"
+    ],
+    [
+      "heure du taureau",
+      "heure de 2h du matin"
+    ],
+    [
+      "nord-est",
+      "direction nord-nord-est"
+    ],
+    [
+      "douzième mois du calendrier lunaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

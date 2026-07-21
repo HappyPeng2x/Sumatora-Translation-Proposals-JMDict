@@ -1,0 +1,15 @@
+{
+  "seq": 1177580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parent",
+      "oncle",
+      "tante",
+      "cousin",
+      "cousine",
+      "proche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

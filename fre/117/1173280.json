@@ -1,0 +1,11 @@
+{
+  "seq": 1173280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "degré de nuageux",
+      "couverture nuageuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

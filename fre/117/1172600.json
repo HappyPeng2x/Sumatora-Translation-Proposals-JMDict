@@ -1,0 +1,11 @@
+{
+  "seq": 1172600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme on le dit",
+      "selon les rumeurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

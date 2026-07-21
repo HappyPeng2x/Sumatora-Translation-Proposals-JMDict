@@ -1,0 +1,16 @@
+{
+  "seq": 1173110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disparaître derrière les nuages",
+      "s'évanouir derrière les nuages"
+    ],
+    [
+      "disparaître soudainement",
+      "prendre la fuite",
+      "se cacher brusquement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

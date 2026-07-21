@@ -1,0 +1,17 @@
+{
+  "seq": 1172330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tourbillonner",
+      "former un tourbillon",
+      "s'agiter en spirale"
+    ],
+    [
+      "tourner en rond",
+      "se déchaîner",
+      "s'agiter violemment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

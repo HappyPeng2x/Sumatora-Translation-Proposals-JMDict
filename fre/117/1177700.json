@@ -1,0 +1,17 @@
+{
+  "seq": 1177700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "briller",
+      "avoir un éclat",
+      "être brillant"
+    ],
+    [
+      "être séduisante",
+      "paraître sexy",
+      "avoir un air suggestif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1177780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frosted",
+      "maté"
+    ],
+    [
+      "désillusion",
+      "déception"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

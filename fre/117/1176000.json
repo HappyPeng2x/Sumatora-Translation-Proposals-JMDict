@@ -1,0 +1,11 @@
+{
+  "seq": 1176000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balle ronde",
+      "projectile sphérique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

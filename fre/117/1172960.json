@@ -1,0 +1,15 @@
+{
+  "seq": 1172960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nerve moteur"
+    ],
+    [
+      "réflexes",
+      "aptitude athlétique",
+      "coordination motrice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
