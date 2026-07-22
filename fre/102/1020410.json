@@ -1,0 +1,13 @@
+{
+  "seq": 1020410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "antenne"
+    ],
+    [
+      "moyen ou dispositif utilisé pour recueillir des informations ou des opinions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1022380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu subtil",
+      "stratégie habile",
+      "baseball intelligent",
+      "baseball scientifique"
+    ],
+    [
+      "planification stratégique lors d'un match de baseball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

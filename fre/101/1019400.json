@@ -1,0 +1,15 @@
+{
+  "seq": 1019400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alto",
+      "alt"
+    ],
+    [
+      "instrument à alto",
+      "instrument alto"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

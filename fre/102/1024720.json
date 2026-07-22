@@ -4,6 +4,10 @@
   "glosses": [
     [
       "impérial"
+    ],
+    [
+      "moustache en forme de nœud",
+      "moustache en forme de nœud de ruban"
     ]
   ],
   "model": "qwen3:14b"

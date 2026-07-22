@@ -1,0 +1,14 @@
+{
+  "seq": 1011860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'obscurcir",
+      "se brouiller"
+    ],
+    [
+      "être flou (photo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

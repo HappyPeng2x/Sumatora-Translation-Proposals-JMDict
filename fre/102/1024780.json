@@ -4,6 +4,11 @@
   "glosses": [
     [
       "impossible"
+    ],
+    [
+      "impossible",
+      "inexécutable",
+      "inatteignable"
     ]
   ],
   "model": "qwen3:14b"

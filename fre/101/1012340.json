@@ -8,6 +8,13 @@
       "s'irriter",
       "se mettre en colère",
       "se mettre en rogne"
+    ],
+    [
+      "s'agiter",
+      "se mettre en colère",
+      "se révolter",
+      "s'indigner",
+      "s'émouvoir"
     ]
   ],
   "model": "qwen3:14b"

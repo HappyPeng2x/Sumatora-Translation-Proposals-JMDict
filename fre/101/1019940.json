@@ -1,0 +1,16 @@
+{
+  "seq": 1019940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enquète"
+    ],
+    [
+      "formulaire"
+    ],
+    [
+      "enquête d'opinion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

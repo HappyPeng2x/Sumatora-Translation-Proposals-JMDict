@@ -6,6 +6,9 @@
       "à la mode",
       "au goût du jour",
       "en vogue"
+    ],
+    [
+      "pâtisserie avec de la glace"
     ]
   ],
   "model": "qwen3:14b"

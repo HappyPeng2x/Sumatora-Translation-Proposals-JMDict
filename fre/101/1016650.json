@@ -1,0 +1,13 @@
+{
+  "seq": 1016650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mise à jour",
+      "action de mettre à jour",
+      "mise à jour d'un logiciel",
+      "mise à jour d'un système informatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

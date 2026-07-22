@@ -1,0 +1,40 @@
+{
+  "seq": 1016610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vers le haut"
+    ],
+    [
+      "uploader",
+      "publication en ligne"
+    ],
+    [
+      "planche",
+      "vue rapprochée"
+    ],
+    [
+      "tournage terminé",
+      "fin du tournage"
+    ],
+    [
+      "chignon relevé",
+      "coiffure relevée"
+    ],
+    [
+      "avance",
+      "lead",
+      "avoir l'avantage"
+    ],
+    [
+      "chauffe",
+      "échauffement"
+    ],
+    [
+      "fin",
+      "achèvement",
+      "être terminé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

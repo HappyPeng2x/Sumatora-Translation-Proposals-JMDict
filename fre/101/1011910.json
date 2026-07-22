@@ -1,0 +1,20 @@
+{
+  "seq": 1011910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "chiffon usé",
+      "rag",
+      "vieux tissu"
+    ],
+    [
+      "n",
+      "chose inutile",
+      "débris",
+      "fragment",
+      "amas de tissu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

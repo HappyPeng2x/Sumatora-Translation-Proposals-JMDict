@@ -5,6 +5,9 @@
     [
       "souligné",
       "trait de soulignement"
+    ],
+    [
+      "souligné; trait de soulignement"
     ]
   ],
   "model": "qwen3:14b"

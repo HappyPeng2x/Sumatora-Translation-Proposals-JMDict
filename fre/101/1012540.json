@@ -1,0 +1,11 @@
+{
+  "seq": 1012540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dans ce cas",
+      "si c'est le cas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

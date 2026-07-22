@@ -1,0 +1,16 @@
+{
+  "seq": 1019900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "angle"
+    ],
+    [
+      "barre d'angle; Jean-Auguste-Dominique Ingres (peintre français; 1780-1867)"
+    ],
+    [
+      "position de la caméra; point de vue; angle de vision; angle d'incidence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

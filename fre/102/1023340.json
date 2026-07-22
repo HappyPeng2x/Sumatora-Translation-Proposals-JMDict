@@ -1,0 +1,18 @@
+{
+  "seq": 1023340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chèque de voyage",
+      "traveller chèque ?"
+    ],
+    [
+      "faux",
+      "bogus",
+      "charlatan",
+      "contrefait",
+      "faux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

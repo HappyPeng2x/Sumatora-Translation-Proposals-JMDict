@@ -4,6 +4,9 @@
   "glosses": [
     [
       "asparagus"
+    ],
+    [
+      "asperge"
     ]
   ],
   "model": "qwen3:14b"

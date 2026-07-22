@@ -4,6 +4,14 @@
   "glosses": [
     [
       "information"
+    ],
+    [
+      "bureau d'information",
+      "service d'information"
+    ],
+    [
+      "réception",
+      "accueil"
     ]
   ],
   "model": "qwen3:14b"

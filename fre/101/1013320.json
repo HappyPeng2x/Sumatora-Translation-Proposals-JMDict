@@ -1,0 +1,18 @@
+{
+  "seq": 1013320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agité",
+      "remuant",
+      "tremblant",
+      "crispé"
+    ],
+    [
+      "joyeux",
+      "gai",
+      "merry"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

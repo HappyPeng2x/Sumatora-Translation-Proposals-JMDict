@@ -1,0 +1,13 @@
+{
+  "seq": 1019620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aluminium"
+    ],
+    [
+      "alliage de cuivre contenant 10 % d'aluminium et 90 % de cuivre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

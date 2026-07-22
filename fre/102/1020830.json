@@ -5,6 +5,9 @@
     [
       "soin facile",
       "entretien facile"
+    ],
+    [
+      "facile à entretenir"
     ]
   ],
   "model": "qwen3:14b"

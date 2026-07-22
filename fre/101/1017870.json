@@ -1,0 +1,44 @@
+{
+  "seq": 1017870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appel"
+    ],
+    [
+      "attirance",
+      "charme",
+      "séduction"
+    ],
+    [
+      "faire appel au juge"
+    ],
+    [
+      "mettre en avant",
+      "montrer",
+      "vanter",
+      "promouvoir"
+    ],
+    [
+      "(allemand) faire appel",
+      "s'adresser à quelqu'un ou quelque chose",
+      "réclamer",
+      "contester une décision"
+    ],
+    [
+      "(allemand) appel",
+      "appel",
+      "métalamage"
+    ],
+    [
+      "(allemand) appel",
+      "attirance",
+      "attraction"
+    ],
+    [
+      "(allemand) appel",
+      "attirance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

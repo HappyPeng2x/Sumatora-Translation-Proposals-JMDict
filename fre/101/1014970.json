@@ -6,6 +6,15 @@
       "compte",
       "entrée",
       "registre"
+    ],
+    [
+      "compte (financier)"
+    ],
+    [
+      "client régulier; compte client"
+    ],
+    [
+      "compte de courriel"
     ]
   ],
   "model": "qwen3:14b"

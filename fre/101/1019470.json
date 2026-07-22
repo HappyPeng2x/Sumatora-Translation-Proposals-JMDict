@@ -1,0 +1,19 @@
+{
+  "seq": 1019470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alpaca"
+    ],
+    [
+      "laine d'alpaca"
+    ],
+    [
+      "tissu en alpaca"
+    ],
+    [
+      "soie d'alpaca"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

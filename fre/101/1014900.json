@@ -11,6 +11,9 @@
       "prise électrique",
       "bouchon de prise",
       "embranchement"
+    ],
+    [
+      "prise de courant"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,10 @@
     [
       "académicien",
       "membre d'une académie scientifique ou littéraire"
+    ],
+    [
+      "savant",
+      "scientifique"
     ]
   ],
   "model": "qwen3:14b"

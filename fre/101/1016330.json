@@ -10,6 +10,9 @@
     [
       "assemblage (linguistique)",
       "construction (linguistique)"
+    ],
+    [
+      "ensemble (technique)"
     ]
   ],
   "model": "qwen3:14b"

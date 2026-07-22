@@ -1,0 +1,16 @@
+{
+  "seq": 1012390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "morose",
+      "offensé",
+      "sombre"
+    ],
+    [
+      "personne réservée",
+      "personne peu loquace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

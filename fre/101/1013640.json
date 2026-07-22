@@ -4,6 +4,18 @@
   "glosses": [
     [
       "art"
+    ],
+    [
+      "artisanat; savoir-faire artistique"
+    ],
+    [
+      "chose artificielle; œuvre humaine"
+    ],
+    [
+      "papier pour impression artistique"
+    ],
+    [
+      "publicité; propagande"
     ]
   ],
   "model": "qwen3:14b"

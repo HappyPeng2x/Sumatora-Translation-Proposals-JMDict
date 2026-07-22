@@ -1,0 +1,22 @@
+{
+  "seq": 1013140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "envoyer"
+    ],
+    [
+      "confier (par exemple de l'argent)",
+      "transmettre"
+    ],
+    [
+      "laisser venir qn",
+      "faire venir qn"
+    ],
+    [
+      "communiquer",
+      "dire; transmettre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

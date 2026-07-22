@@ -1,0 +1,18 @@
+{
+  "seq": 1012100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être confus",
+      "être troublé"
+    ],
+    [
+      "traîner",
+      "errer",
+      "errer en tous sens",
+      "rôder",
+      "errer sans but"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

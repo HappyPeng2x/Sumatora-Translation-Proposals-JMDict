@@ -1,0 +1,13 @@
+{
+  "seq": 1012550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allô"
+    ],
+    [
+      "excusez-moi ! (quand on appelle quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

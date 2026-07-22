@@ -1,0 +1,10 @@
+{
+  "seq": 1016500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éducation des adultes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

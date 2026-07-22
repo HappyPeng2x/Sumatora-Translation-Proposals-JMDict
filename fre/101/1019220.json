@@ -4,6 +4,9 @@
   "glosses": [
     [
       "alkalinité"
+    ],
+    [
+      "alcalin"
     ]
   ],
   "model": "qwen3:14b"

@@ -6,6 +6,15 @@
       "contour",
       "ligne générale",
       "esquisse"
+    ],
+    [
+      "contour",
+      "ligne générale",
+      "esquisse"
+    ],
+    [
+      "ligne de côté",
+      "ligne latérale du terrain de tennis"
     ]
   ],
   "model": "qwen3:14b"

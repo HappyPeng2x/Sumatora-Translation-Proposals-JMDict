@@ -9,6 +9,18 @@
     ],
     [
       "argument (d'une fonction)"
+    ],
+    [
+      "discussion",
+      "débat",
+      "échange d'idées",
+      "controverse"
+    ],
+    [
+      "querelle",
+      "désaccord",
+      "conflit verbal",
+      "dispute"
     ]
   ],
   "model": "qwen3:14b"

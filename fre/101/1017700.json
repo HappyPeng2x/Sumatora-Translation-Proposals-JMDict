@@ -4,6 +4,11 @@
   "glosses": [
     [
       "anorexie"
+    ],
+    [
+      "anorexie mentale",
+      "anorexie nerveuse",
+      "anorexie"
     ]
   ],
   "model": "qwen3:14b"

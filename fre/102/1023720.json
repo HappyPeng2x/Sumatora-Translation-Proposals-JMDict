@@ -1,0 +1,15 @@
+{
+  "seq": 1023720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indépendant",
+      "indépendante"
+    ],
+    [
+      "label indépendant",
+      "producteur indépendant non lié à des géants du marché"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

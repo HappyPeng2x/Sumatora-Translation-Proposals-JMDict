@@ -1,0 +1,14 @@
+{
+  "seq": 1016220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "athlétisme",
+      "sports"
+    ],
+    [
+      "légèreté athlétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

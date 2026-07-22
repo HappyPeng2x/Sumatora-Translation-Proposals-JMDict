@@ -11,6 +11,18 @@
       "poids",
       "insistance",
       "priorité"
+    ],
+    [
+      "importance",
+      "signification"
+    ],
+    [
+      "poids"
+    ],
+    [
+      "importance",
+      "poids",
+      "signification"
     ]
   ],
   "model": "qwen3:14b"

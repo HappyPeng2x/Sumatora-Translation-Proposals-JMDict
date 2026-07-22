@@ -1,0 +1,12 @@
+{
+  "seq": 1015720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affectation",
+      "attribution",
+      "assignation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

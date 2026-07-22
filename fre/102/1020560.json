@@ -1,0 +1,14 @@
+{
+  "seq": 1020560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déséquilibre",
+      "débalance"
+    ],
+    [
+      "(néerlandais) inégal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

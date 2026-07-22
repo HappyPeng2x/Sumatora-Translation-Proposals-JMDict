@@ -4,6 +4,11 @@
   "glosses": [
     [
       "intelligentsia"
+    ],
+    [
+      "intellectuel",
+      "développé intellectuellement",
+      "ouvrier intellectuel"
     ]
   ],
   "model": "qwen3:14b"

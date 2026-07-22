@@ -4,6 +4,12 @@
   "glosses": [
     [
       "agitation"
+    ],
+    [
+      "agitation",
+      "action",
+      "soulèvement",
+      "incitation"
     ]
   ],
   "model": "qwen3:14b"

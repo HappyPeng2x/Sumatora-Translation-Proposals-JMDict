@@ -18,6 +18,9 @@
       "j'espère que",
       "je prie que",
       "que... (après le forme -masu d'un verbe)"
+    ],
+    [
+      "exprimer un souhait; espérer"
     ]
   ],
   "model": "qwen3:14b"

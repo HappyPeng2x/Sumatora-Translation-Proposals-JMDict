@@ -9,6 +9,11 @@
       "faible",
       "décrépit",
       "infirm"
+    ],
+    [
+      "vacillant",
+      "instable",
+      "incertain dans ses mouvements"
     ]
   ],
   "model": "qwen3:14b"

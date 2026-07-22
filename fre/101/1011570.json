@@ -1,0 +1,12 @@
+{
+  "seq": 1011570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "escroc",
+      "imposteur",
+      "voleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

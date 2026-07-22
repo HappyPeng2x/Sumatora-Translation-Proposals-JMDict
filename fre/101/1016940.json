@@ -4,6 +4,12 @@
   "glosses": [
     [
       "atrium"
+    ],
+    [
+      "vestibule",
+      "antichambre",
+      "avant-chambre",
+      "avant-hall"
     ]
   ],
   "model": "qwen3:14b"

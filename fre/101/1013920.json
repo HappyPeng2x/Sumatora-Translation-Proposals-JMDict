@@ -1,0 +1,15 @@
+{
+  "seq": 1013920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "icône",
+      "symbole"
+    ],
+    [
+      "icône",
+      "tableau sacré de l'Église orthodoxe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

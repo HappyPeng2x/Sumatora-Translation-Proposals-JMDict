@@ -1,0 +1,24 @@
+{
+  "seq": 1011540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avoir très faim",
+      "baisser la tête"
+    ],
+    [
+      "se prosterner répétitivement",
+      "s'incliner de manière servile",
+      "être obéissant et servile"
+    ],
+    [
+      "se creuser",
+      "se plisser",
+      "s'enfoncer"
+    ],
+    [
+      "affamé à mort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

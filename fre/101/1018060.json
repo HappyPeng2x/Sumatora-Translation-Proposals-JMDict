@@ -1,0 +1,13 @@
+{
+  "seq": 1018060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dubbing",
+      "post-synchronisation",
+      "enregistrement de voix après tournage",
+      "remplacement de dialogue automatisé (ADR)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

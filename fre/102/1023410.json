@@ -1,0 +1,14 @@
+{
+  "seq": 1023410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intellectuel",
+      "intelligent"
+    ],
+    [
+      "intelligentsia"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

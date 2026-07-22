@@ -4,6 +4,14 @@
   "glosses": [
     [
       "intelligence"
+    ],
+    [
+      "renseignements",
+      "informations"
+    ],
+    [
+      "service de renseignement",
+      "service de sécurité"
     ]
   ],
   "model": "qwen3:14b"

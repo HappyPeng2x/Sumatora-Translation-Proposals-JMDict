@@ -8,6 +8,26 @@
       "oh mon dieu !",
       "mon dieu !",
       "je suis soulagé(e) !"
+    ],
+    [
+      "Ah !",
+      "Oh !",
+      "Mon dieu !",
+      "Je suis soulagé(e) !"
+    ],
+    [
+      "Ah !",
+      "Oh !",
+      "Mon dieu !",
+      "Je suis étonné(e) !",
+      "Je suis irrité(e) !"
+    ],
+    [
+      "Allez !",
+      "Vas-y !",
+      "En avant !",
+      "Et",
+      "Parmi"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,11 @@
     [
       "annonceur",
       "annonceuse"
+    ],
+    [
+      "anarchiste",
+      "annonceur",
+      "journaliste"
     ]
   ],
   "model": "qwen3:14b"

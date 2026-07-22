@@ -1,0 +1,10 @@
+{
+  "seq": 1021030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui approuve systématiquement les idées des autres, sans jamais contester ou exprimer un avis contraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

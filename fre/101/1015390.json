@@ -6,6 +6,11 @@
       "actif",
       "dynamique",
       "en activité"
+    ],
+    [
+      "activiste",
+      "actif",
+      "dynamique"
     ]
   ],
   "model": "qwen3:14b"

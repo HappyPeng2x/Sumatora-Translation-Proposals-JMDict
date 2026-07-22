@@ -1,0 +1,33 @@
+{
+  "seq": 1012050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vous pourriez dire"
+    ],
+    [
+      "assez bien",
+      "assez passablement",
+      "modérément",
+      "raisonnablement",
+      "plutôt",
+      "un peu"
+    ],
+    [
+      "bien ...",
+      "je pense que ...",
+      "il semble que ...",
+      "on pourrait dire que ...",
+      "hum, je suppose que ..."
+    ],
+    [
+      "oh !",
+      "oh mon dieu !",
+      "oh, mon Dieu !",
+      "wow !",
+      "quelle chance !",
+      "bon sang !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

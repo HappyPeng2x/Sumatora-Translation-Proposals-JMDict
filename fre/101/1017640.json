@@ -4,6 +4,9 @@
   "glosses": [
     [
       "anecdote"
+    ],
+    [
+      "anecdote politique"
     ]
   ],
   "model": "qwen3:14b"

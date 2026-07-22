@@ -1,0 +1,13 @@
+{
+  "seq": 1013750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soirée"
+    ],
+    [
+      "soirée de lecture; réunion du soir; soirée de réception; soirée d'agrément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

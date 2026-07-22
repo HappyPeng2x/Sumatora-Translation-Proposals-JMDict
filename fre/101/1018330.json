@@ -4,6 +4,9 @@
   "glosses": [
     [
       "moyenne"
+    ],
+    [
+      "moyenne des coups"
     ]
   ],
   "model": "qwen3:14b"

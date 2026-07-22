@@ -1,0 +1,15 @@
+{
+  "seq": 1011680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "modéré",
+      "modérée",
+      "modéré(e)"
+    ],
+    [
+      "position sociale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,42 @@
+{
+  "seq": 1013290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "satisfaisant",
+      "décent",
+      "bon",
+      "approprié",
+      "digne"
+    ],
+    [
+      "insatisfaction",
+      "inadéquation",
+      "incohérence",
+      "irrationnalité",
+      "inadaptation"
+    ],
+    [
+      "nivellement",
+      "platitude"
+    ],
+    [
+      "équilibre",
+      "sérénité"
+    ],
+    [
+      "paisible",
+      "pacifique"
+    ],
+    [
+      "insuffisant",
+      "inadéquat",
+      "non conforme",
+      "terre",
+      "continental",
+      "ordinaire",
+      "banal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1021750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "image"
+    ],
+    [
+      "image",
+      "fichier image"
+    ],
+    [
+      "représentation",
+      "image",
+      "impression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

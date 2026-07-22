@@ -1,0 +1,14 @@
+{
+  "seq": 1023820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "introduction",
+      "préambule"
+    ],
+    [
+      "remarque préliminaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

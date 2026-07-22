@@ -1,0 +1,11 @@
+{
+  "seq": 1011560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arnaque",
+      "escroquerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

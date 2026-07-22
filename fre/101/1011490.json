@@ -1,0 +1,27 @@
+{
+  "seq": 1011490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collant",
+      "gluant",
+      "mouillé",
+      "visqueux"
+    ],
+    [
+      "être huileux"
+    ],
+    [
+      "collant",
+      "mouillé"
+    ],
+    [
+      "huileux"
+    ],
+    [
+      "plein à ras bord",
+      "rempli jusqu'au bord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

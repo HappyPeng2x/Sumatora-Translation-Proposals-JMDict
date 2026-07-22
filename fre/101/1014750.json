@@ -1,0 +1,18 @@
+{
+  "seq": 1014750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne extérieure",
+      "personne qui n'appartient pas à un groupe"
+    ],
+    [
+      "personne extérieure",
+      "organisation non reconnue"
+    ],
+    [
+      "entreprise non membre d'un cartel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

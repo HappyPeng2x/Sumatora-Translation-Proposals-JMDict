@@ -6,6 +6,12 @@
       "rentable",
       "aisé",
       "facile"
+    ],
+    [
+      "usé",
+      "abîmé",
+      "défraîchi",
+      "ébréché"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,38 @@
+{
+  "seq": 1014680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extérieur"
+    ],
+    [
+      "sortie",
+      "départ",
+      "issue"
+    ],
+    [
+      "extérieur",
+      "extérieur",
+      "extérieur"
+    ],
+    [
+      "sortie",
+      "sortie ici"
+    ],
+    [
+      "neuf trous",
+      "première partie du parcours"
+    ],
+    [
+      "inacceptable",
+      "inadmissible",
+      "terminé",
+      "éliminé"
+    ],
+    [
+      "heure de départ",
+      "heure de check-out"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

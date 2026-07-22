@@ -18,6 +18,18 @@
     [
       "vague de foule",
       "vague mexicaine"
+    ],
+    [
+      "ondulation des cheveux",
+      "vague capillaire"
+    ],
+    [
+      "vague",
+      "ondulation",
+      "mouvement ondulatoire"
+    ],
+    [
+      "format d'audio"
     ]
   ],
   "model": "qwen3:14b"

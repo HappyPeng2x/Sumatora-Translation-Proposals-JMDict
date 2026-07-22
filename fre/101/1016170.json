@@ -6,6 +6,9 @@
       "rapport des dimensions",
       "proportion des côtés",
       "rapport largeur/hauteur"
+    ],
+    [
+      "format d'image; rapport des dimensions de l'image"
     ]
   ],
   "model": "qwen3:14b"

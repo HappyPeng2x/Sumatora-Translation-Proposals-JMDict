@@ -12,6 +12,18 @@
       "traîner en chemin",
       "traîner, perdre son temps",
       "dilapider le temps"
+    ],
+    [
+      "désordonné",
+      "paresseux",
+      "inactif",
+      "traîner",
+      "perdre son temps"
+    ],
+    [
+      "désordonné",
+      "mal coiffé",
+      "désaliéné"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1012790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arriver"
+    ],
+    [
+      "arriver à ce point",
+      "atteindre cette situation",
+      "se trouver là où l'on est",
+      "avoir fait quelque chose pendant un certain temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

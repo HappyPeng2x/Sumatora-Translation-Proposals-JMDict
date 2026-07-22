@@ -6,6 +6,11 @@
       "agressif",
       "belliqueux",
       "agressif (en termes de comportement)"
+    ],
+    [
+      "dynamique",
+      "actif",
+      "entreprise"
     ]
   ],
   "model": "qwen3:14b"

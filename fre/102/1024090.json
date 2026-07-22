@@ -1,0 +1,12 @@
+{
+  "seq": 1024090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lutte à l'intérieur du ring",
+      "lutte à courte distance",
+      "combat rapproché"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

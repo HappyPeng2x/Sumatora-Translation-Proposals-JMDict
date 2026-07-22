@@ -1,0 +1,14 @@
+{
+  "seq": 1020480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désfaire",
+      "annuler",
+      "retirer",
+      "défaire",
+      "déshabiller"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

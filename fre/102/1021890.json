@@ -5,6 +5,13 @@
     [
       "marque d'oreille",
       "ornement porté à l'oreille"
+    ],
+    [
+      "affecter",
+      "allouer",
+      "attribuer",
+      "destiner",
+      "réserver"
     ]
   ],
   "model": "qwen3:14b"

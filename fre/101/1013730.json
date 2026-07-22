@@ -4,6 +4,10 @@
   "glosses": [
     [
       "arbitre"
+    ],
+    [
+      "influencer",
+      "personne qui fixe les tendances"
     ]
   ],
   "model": "qwen3:14b"

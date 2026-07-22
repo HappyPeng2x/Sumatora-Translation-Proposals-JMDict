@@ -1,0 +1,17 @@
+{
+  "seq": 1018310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couple"
+    ],
+    [
+      "adj",
+      "successifs",
+      "doublés",
+      "en tandem",
+      "en duo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,11 @@
     [
       "web",
       "World Wide Web"
+    ],
+    [
+      "renfort",
+      "ailette",
+      "traverse"
     ]
   ],
   "model": "qwen3:14b"

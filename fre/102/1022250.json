@@ -4,6 +4,9 @@
   "glosses": [
     [
       "Angleterre"
+    ],
+    [
+      "Royaume-Uni"
     ]
   ],
   "model": "qwen3:14b"

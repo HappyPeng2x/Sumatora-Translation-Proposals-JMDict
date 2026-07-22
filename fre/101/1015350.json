@@ -5,6 +5,9 @@
     [
       "actualité",
       "réalité"
+    ],
+    [
+      "diffusion télévisée en direct"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,9 @@
     [
       "argyle",
       "n"
+    ],
+    [
+      "motif argyle (motif tricoté composé de losanges orientés en diagonale sur fond uni; d'après le clan écossais Campbell of Argyle; abbr.)"
     ]
   ],
   "model": "qwen3:14b"

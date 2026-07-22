@@ -4,6 +4,14 @@
   "glosses": [
     [
       "injection"
+    ],
+    [
+      "injection",
+      "introduction de porteurs de charge"
+    ],
+    [
+      "déploiement",
+      "mise en orbite d'un satellite"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1020960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "même",
+      "égal"
+    ],
+    [
+      "même rythme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

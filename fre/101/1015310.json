@@ -1,0 +1,22 @@
+{
+  "seq": 1015310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accent"
+    ],
+    [
+      "intonation; inflexion; cadence"
+    ],
+    [
+      "accent (par exemple, américain, britannique)"
+    ],
+    [
+      "accent (dans un design); mise en valeur; emphase"
+    ],
+    [
+      "accent (sur une note)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

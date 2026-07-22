@@ -4,6 +4,10 @@
   "glosses": [
     [
       "adagio"
+    ],
+    [
+      "lent",
+      "calme (comme indication de jeu)"
     ]
   ],
   "model": "qwen3:14b"

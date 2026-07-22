@@ -7,6 +7,12 @@
     ],
     [
       "coup de circuit"
+    ],
+    [
+      "arc de cercle"
+    ],
+    [
+      "coup de circuit en baseball"
     ]
   ],
   "model": "qwen3:14b"

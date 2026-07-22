@@ -1,0 +1,24 @@
+{
+  "seq": 1014850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résultat",
+      "produire",
+      "sortir"
+    ],
+    [
+      "produire",
+      "exécuter"
+    ],
+    [
+      "production",
+      "rendement"
+    ],
+    [
+      "sortie",
+      "exportation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

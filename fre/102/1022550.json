@@ -1,0 +1,17 @@
+{
+  "seq": 1022550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instantané"
+    ],
+    [
+      "instant",
+      "prêt à l'emploi"
+    ],
+    [
+      "café instantané"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1014340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "idole"
+    ],
+    [
+      "icône",
+      "idole",
+      "célébrité",
+      "personne très admirée"
+    ],
+    [
+      "idole (objet d'adoration)",
+      "image"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

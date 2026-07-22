@@ -16,6 +16,16 @@
       "devenir un peu ivre",
       "être légèrement saoul",
       "être enivrée"
+    ],
+    [
+      "ivre",
+      "désinhibé",
+      "légèrement saoul"
+    ],
+    [
+      "fragile",
+      "près de se décomposer",
+      "prone à se désagréger"
     ]
   ],
   "model": "qwen3:14b"

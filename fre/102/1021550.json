@@ -6,6 +6,9 @@
       "initiateur",
       "démarrage",
       "début"
+    ],
+    [
+      "programme d'initialisation"
     ]
   ],
   "model": "qwen3:14b"

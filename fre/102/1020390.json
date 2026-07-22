@@ -1,0 +1,28 @@
+{
+  "seq": 1020390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "antique"
+    ],
+    [
+      "police script; police font"
+    ],
+    [
+      "ancienneté; antiquité"
+    ],
+    [
+      "antiquité; objet d'antiquité"
+    ],
+    [
+      "police script; police font"
+    ],
+    [
+      "antiquité; objet d'antiquité"
+    ],
+    [
+      "police script; police font"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

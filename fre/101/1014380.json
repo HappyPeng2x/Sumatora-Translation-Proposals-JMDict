@@ -1,0 +1,11 @@
+{
+  "seq": 1014380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps de veille",
+      "période d'inactivité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

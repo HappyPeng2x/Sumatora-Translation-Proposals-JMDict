@@ -1,0 +1,25 @@
+{
+  "seq": 1011580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fluent",
+      "maîtrise"
+    ],
+    [
+      "sans cesse",
+      "de façon fluide",
+      "de manière volubile"
+    ],
+    [
+      "l'un après l'autre",
+      "en feuilletant les pages"
+    ],
+    [
+      "fin",
+      "fragile",
+      "faible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

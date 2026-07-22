@@ -1,0 +1,17 @@
+{
+  "seq": 1012630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accueil",
+      "hospitalité"
+    ],
+    [
+      "collation légère",
+      "réception festive",
+      "réjouissance avec nourriture et boisson",
+      "trait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1019200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Arcadie",
+      "région idyllique"
+    ],
+    [
+      "terre heureuse",
+      "lieu idyllique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

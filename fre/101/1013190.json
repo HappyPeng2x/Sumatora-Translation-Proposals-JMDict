@@ -1,0 +1,32 @@
+{
+  "seq": 1013190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à partir",
+      "plus"
+    ],
+    [
+      "plutôt que",
+      "au lieu de",
+      "au-dessus de",
+      "au-dessus"
+    ],
+    [
+      "de",
+      "sorti de",
+      "depuis",
+      "sur",
+      "après"
+    ],
+    [
+      "sauf",
+      "mais",
+      "autre que"
+    ],
+    [
+      "plus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

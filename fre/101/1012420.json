@@ -1,0 +1,13 @@
+{
+  "seq": 1012420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "encombrant",
+      "étouffant",
+      "humide",
+      "suffocant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1019420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boulot",
+      "job",
+      "mi temps"
+    ],
+    [
+      "travailleur à temps partiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

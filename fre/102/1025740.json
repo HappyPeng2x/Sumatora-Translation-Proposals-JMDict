@@ -6,6 +6,9 @@
       "chemin",
       "route",
       "voie"
+    ],
+    [
+      "unité de poids anciennement utilisée en Hollande; équivalente à 2 ou 3 centenaire; ou à 40 schepel"
     ]
   ],
   "model": "qwen3:14b"

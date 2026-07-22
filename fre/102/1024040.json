@@ -1,0 +1,16 @@
+{
+  "seq": 1024040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impulsion"
+    ],
+    [
+      "impulsion; poussée"
+    ],
+    [
+      "coup de tension; coup de courant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

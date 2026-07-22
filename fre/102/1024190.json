@@ -1,0 +1,13 @@
+{
+  "seq": 1024190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "information"
+    ],
+    [
+      "réception; point d'information; bureau d'information; stand d'information; point de contact"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

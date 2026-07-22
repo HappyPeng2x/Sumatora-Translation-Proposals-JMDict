@@ -10,6 +10,16 @@
     ],
     [
       "neuf (sorti de l'université), récent (couple marié)"
+    ],
+    [
+      "chaleur étouffante",
+      "nouveau sorti du four",
+      "neuf; tout frais"
+    ],
+    [
+      "doux au toucher",
+      "épais",
+      "rond; potelé"
     ]
   ],
   "model": "qwen3:14b"

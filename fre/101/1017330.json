@@ -1,0 +1,13 @@
+{
+  "seq": 1017330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "présentateur"
+    ],
+    [
+      "personne chargée de réaliser des reportages sur place pour des émissions de variétés dans une chaîne télévisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

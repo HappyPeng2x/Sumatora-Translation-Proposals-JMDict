@@ -1,0 +1,10 @@
+{
+  "seq": 1026000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "météo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

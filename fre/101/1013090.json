@@ -1,0 +1,45 @@
+{
+  "seq": 1013090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lâche",
+      "lent",
+      "détendu"
+    ],
+    [
+      "détendu",
+      "large",
+      "flasque"
+    ],
+    [
+      "mince",
+      "doux",
+      "flexible"
+    ],
+    [
+      "abondant",
+      "luxuriant"
+    ],
+    [
+      "étendu",
+      "vaste",
+      "étendu"
+    ],
+    [
+      "mollassant",
+      "flasque"
+    ],
+    [
+      "aqua",
+      "eau",
+      "liquide"
+    ],
+    [
+      "calme",
+      "paisible",
+      "serein"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

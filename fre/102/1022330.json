@@ -6,6 +6,11 @@
       "intéressé",
       "personne informée",
       "personne au courant"
+    ],
+    [
+      "manipulation boursière",
+      "transaction boursière avec information privilegiée",
+      "négociation d'actions avec connaissance anticipée"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1012570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "timidement",
+      "hésitant(e)ment",
+      "agité(e)ment",
+      "inquiet(e)ment",
+      "tressaillant(e)ment",
+      "tremblant(e)ment",
+      "maladroit(e)ment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

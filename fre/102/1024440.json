@@ -1,0 +1,17 @@
+{
+  "seq": 1024440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inflation"
+    ],
+    [
+      "orgueil",
+      "arrogance"
+    ],
+    [
+      "univers inflationnaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,27 @@
+{
+  "seq": 1012480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déja"
+    ],
+    [
+      "bientôt",
+      "dans un court délai",
+      "prochainement"
+    ],
+    [
+      "encore",
+      "davantage",
+      "une autre fois",
+      "l'autre"
+    ],
+    [
+      "mon dieu",
+      "mais enfin",
+      "allons donc",
+      "vraiment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

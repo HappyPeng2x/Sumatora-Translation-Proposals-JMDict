@@ -1,0 +1,19 @@
+{
+  "seq": 1012490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se débatre",
+      "se démener ?"
+    ],
+    [
+      "agir frénétiquement",
+      "faire des efforts désespérés"
+    ],
+    [
+      "agiter les bras et les jambes de manière frénétique",
+      "se débattre violemment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1020380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en-tout-cas",
+      "surface de court de tennis ou de piste en argile et en briques broyées"
+    ],
+    [
+      "gravier résistant à toutes les conditions météorologiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

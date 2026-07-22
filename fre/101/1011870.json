@@ -10,6 +10,9 @@
     [
       "gratter (une démangeaison)",
       "grincer (les dents)"
+    ],
+    [
+      "détruisant"
     ]
   ],
   "model": "qwen3:14b"

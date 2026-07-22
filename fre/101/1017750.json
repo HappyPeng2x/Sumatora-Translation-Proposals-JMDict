@@ -6,6 +6,15 @@
       "ouverture",
       "trou",
       "bouchure"
+    ],
+    [
+      "ouverture dans une image; partie visible d'un tableau ou d'une scène"
+    ],
+    [
+      "diaphragme (d'une caméra ou d'un objectif)"
+    ],
+    [
+      "partie visible d'une image; d'un tableau ou d'une scène"
     ]
   ],
   "model": "qwen3:14b"

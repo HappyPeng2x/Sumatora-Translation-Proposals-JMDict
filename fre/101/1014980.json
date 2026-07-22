@@ -4,6 +4,11 @@
   "glosses": [
     [
       "acacia"
+    ],
+    [
+      "acacia blanche",
+      "robinie faux-acacia",
+      "acacia faux-acacia"
     ]
   ],
   "model": "qwen3:14b"

@@ -6,6 +6,11 @@
       "affaire",
       "incident",
       "histoire"
+    ],
+    [
+      "liaison amoureuse",
+      "relation sentimentale",
+      "histoire d'amour"
     ]
   ],
   "model": "qwen3:14b"

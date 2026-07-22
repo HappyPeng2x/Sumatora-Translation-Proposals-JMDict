@@ -4,6 +4,9 @@
   "glosses": [
     [
       "prêt d'impact"
+    ],
+    [
+      "obligation monétaire d'une banque étrangère"
     ]
   ],
   "model": "qwen3:14b"

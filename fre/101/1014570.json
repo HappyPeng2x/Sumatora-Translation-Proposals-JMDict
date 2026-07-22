@@ -1,0 +1,13 @@
+{
+  "seq": 1014570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ironie"
+    ],
+    [
+      "ironie socratique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

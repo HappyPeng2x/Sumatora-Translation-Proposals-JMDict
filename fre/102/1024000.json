@@ -1,0 +1,10 @@
+{
+  "seq": 1024000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déséquilibre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

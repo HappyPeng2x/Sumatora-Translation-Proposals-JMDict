@@ -4,6 +4,9 @@
   "glosses": [
     [
       "intercom"
+    ],
+    [
+      "système d'interphone"
     ]
   ],
   "model": "qwen3:14b"

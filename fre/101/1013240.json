@@ -1,0 +1,17 @@
+{
+  "seq": 1013240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "il semble que"
+    ],
+    [
+      "ressemblant à ... ; typique de ... ; convenable pour ... ; digne de ... ; propre à ...",
+      "d'aspect ... ; semblable à ... ; caractéristique de ... ; adapté à ... ; digne du nom de ..."
+    ],
+    [
+      "forme flexionnelle euphémistique qui indique un fait accompli"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1013220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanceler",
+      "tituber",
+      "vaciller"
+    ],
+    [
+      "hésiter",
+      "être indécis"
+    ],
+    [
+      "avoir une aventure (avec)",
+      "tomber amoureux (de quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

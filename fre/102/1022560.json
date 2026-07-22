@@ -1,0 +1,11 @@
+{
+  "seq": 1022560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aliments préparés en quelques minutes",
+      "aliments instantanés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

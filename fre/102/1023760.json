@@ -1,0 +1,19 @@
+{
+  "seq": 1023760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "index"
+    ],
+    [
+      "aiguille d'une montre; indicateur"
+    ],
+    [
+      "indice (relatif à la religion ou à la culture)"
+    ],
+    [
+      "INDECS (système de classification des documents)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

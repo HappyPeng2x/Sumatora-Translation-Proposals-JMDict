@@ -1,0 +1,13 @@
+{
+  "seq": 1012710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complètement",
+      "totalement",
+      "entièrement",
+      "corps à corps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

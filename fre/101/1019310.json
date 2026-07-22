@@ -1,0 +1,10 @@
+{
+  "seq": 1019310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méthode de calcul ou de résolution de problème suivant une séquence d'opérations définies"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

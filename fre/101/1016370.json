@@ -1,0 +1,14 @@
+{
+  "seq": 1016370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "association"
+    ],
+    [
+      "organisation",
+      "union"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

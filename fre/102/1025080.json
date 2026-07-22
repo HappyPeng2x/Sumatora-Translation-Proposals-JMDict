@@ -1,0 +1,13 @@
+{
+  "seq": 1025080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hebdomadaire"
+    ],
+    [
+      "hebdomadaire (journal)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

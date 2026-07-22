@@ -1,0 +1,11 @@
+{
+  "seq": 1025550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flânerie commerciale",
+      "regarder les vitrines sans acheter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

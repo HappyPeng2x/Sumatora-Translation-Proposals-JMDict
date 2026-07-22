@@ -4,6 +4,9 @@
   "glosses": [
     [
       "almanach"
+    ],
+    [
+      "ouvrage annuel contenant des informations variées"
     ]
   ],
   "model": "qwen3:14b"

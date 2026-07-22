@@ -1,0 +1,17 @@
+{
+  "seq": 1024980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "émancipation des femmes",
+      "mouvement pour l'égalité des sexes"
+    ],
+    [
+      "mouvement de libération des femmes (en néerlandais: vrouwenemancipatiebeweging)",
+      "féminisme",
+      "Dolle Mina",
+      "Rooie Vrouwen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,12 @@
   "glosses": [
     [
       "adaptateur"
+    ],
+    [
+      "adaptateur photo"
+    ],
+    [
+      "adaptateur; modificateur"
     ]
   ],
   "model": "qwen3:14b"

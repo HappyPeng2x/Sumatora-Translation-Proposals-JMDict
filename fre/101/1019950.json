@@ -7,6 +7,9 @@
       "nouvelle tentative",
       "répétition",
       "demande répétée"
+    ],
+    [
+      "nom propre"
     ]
   ],
   "model": "qwen3:14b"

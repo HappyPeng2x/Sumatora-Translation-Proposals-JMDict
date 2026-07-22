@@ -1,0 +1,19 @@
+{
+  "seq": 1014460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "look",
+      "style"
+    ],
+    [
+      "vêtements",
+      "habillement",
+      "tenue",
+      "apparence",
+      "apparat",
+      "apparence extérieure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

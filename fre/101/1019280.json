@@ -1,0 +1,17 @@
+{
+  "seq": 1019280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alcool"
+    ],
+    [
+      "boisson alcoolisée",
+      "alcool"
+    ],
+    [
+      "solution hydroalcoolique pour désinfecter les mains"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1016630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "montées et descentes",
+      "alternance de montées et de descentes"
+    ],
+    [
+      "mouvements de haut en bas",
+      "oscillations",
+      "fluctuations",
+      "montée et descente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

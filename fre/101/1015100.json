@@ -1,0 +1,10 @@
+{
+  "seq": 1015100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "acoustique (instrument, musique, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

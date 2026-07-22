@@ -1,0 +1,104 @@
+{
+  "seq": 1012980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire"
+    ],
+    [
+      "envoyer",
+      "expédier",
+      "dispatcher"
+    ],
+    [
+      "mettre",
+      "déplacer",
+      "tourner (la tête, le regard, etc.)"
+    ],
+    [
+      "donner (surtout à quelqu'un de statut égal ou inférieur)",
+      "laisser avoir",
+      "présenter",
+      "accorder",
+      "conférer"
+    ],
+    [
+      "faire accélérer (un véhicule)"
+    ],
+    [
+      "exploiter (un commerce)",
+      "tenir",
+      "être engagé dans",
+      "pratiquer (le droit, la médecine, etc.)",
+      "exercer"
+    ],
+    [
+      "avoir (de la nourriture, à boire, etc.)",
+      "manger",
+      "boire",
+      "fumer"
+    ],
+    [
+      "tenir (une représentation)",
+      "donner (une prestation)",
+      "montrer"
+    ],
+    [
+      "apaiser (l'esprit)"
+    ],
+    [
+      "blesser",
+      "blesser",
+      "tuer"
+    ],
+    [
+      "avoir des rapports sexuels",
+      "faire l'amour",
+      "coucher"
+    ],
+    [
+      "vivre",
+      "s'en sortir",
+      "se débrouiller"
+    ],
+    [
+      "faire ... complètement"
+    ],
+    [
+      "faire ... largement",
+      "faire ... sur une grande distance"
+    ],
+    [
+      "faire ... pour (quelqu'un de statut égal ou inférieur)",
+      "faire ... à"
+    ],
+    [
+      "faire des efforts pour ..."
+    ],
+    [
+      "souffrir d'une maladie",
+      "subir (une condition médicale)",
+      "être atteint de"
+    ],
+    [
+      "faire",
+      "avoir des rapports sexuels",
+      "faire l'amour"
+    ],
+    [
+      "faire",
+      "accomplir"
+    ],
+    [
+      "faire valoir sur une grande distance"
+    ],
+    [
+      "exprimer la fin d'une action",
+      "souvent accompagné d'une négation"
+    ],
+    [
+      "exprimer qu'une action est accomplie pour autrui"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

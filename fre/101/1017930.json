@@ -9,6 +9,9 @@
       "socialisation",
       "sortie",
       "rencontre sociale"
+    ],
+    [
+      "visite d'une autre boîte par une hôtesse avec un client après la fermeture du lieu; aphthe (petite ulcère sur la muqueuse buccale)"
     ]
   ],
   "model": "qwen3:14b"

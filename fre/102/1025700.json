@@ -1,0 +1,22 @@
+{
+  "seq": 1025700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "renonciation",
+      "abandon",
+      "délégation",
+      "exemption"
+    ],
+    [
+      "Ernst Heinrich Weber (anatomiste et physiologiste allemand; 1795-1878)"
+    ],
+    [
+      "Max Weber (économiste et sociologue allemand; 1864-1920)"
+    ],
+    [
+      "Alfred Weber (économiste et sociologue allemand; 1868-1958)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

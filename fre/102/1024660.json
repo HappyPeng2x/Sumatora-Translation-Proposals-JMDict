@@ -1,0 +1,17 @@
+{
+  "seq": 1024660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inventaire",
+      "stock",
+      "marchandise",
+      "liste"
+    ],
+    [
+      "liste d'inventaire",
+      "liste de stock"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

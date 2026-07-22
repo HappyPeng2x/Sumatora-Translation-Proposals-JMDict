@@ -21,6 +21,21 @@
       "avec un rugissement",
       "avec un souffle",
       "en flambant"
+    ],
+    [
+      "faire des bruits de toot",
+      "émettre un son de toot",
+      "produire un son de toot"
+    ],
+    [
+      "flamber",
+      "briller brièvement",
+      "étinceler"
+    ],
+    [
+      "dormir d'un sommeil lourd",
+      "être dans un état de somnolence",
+      "être paresseux"
     ]
   ],
   "model": "qwen3:14b"

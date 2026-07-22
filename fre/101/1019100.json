@@ -4,6 +4,10 @@
   "glosses": [
     [
       "aria"
+    ],
+    [
+      "air",
+      "mélodie"
     ]
   ],
   "model": "qwen3:14b"

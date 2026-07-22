@@ -6,6 +6,9 @@
       "intellectuel",
       "érudite",
       "savant"
+    ],
+    [
+      "intellectuel"
     ]
   ],
   "model": "qwen3:14b"

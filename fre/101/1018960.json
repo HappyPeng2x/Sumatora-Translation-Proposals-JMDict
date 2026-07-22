@@ -1,0 +1,19 @@
+{
+  "seq": 1018960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alarme"
+    ],
+    [
+      "son d'alarme; système d'alarme"
+    ],
+    [
+      "réveil; horloge de réveil"
+    ],
+    [
+      "son de réveil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

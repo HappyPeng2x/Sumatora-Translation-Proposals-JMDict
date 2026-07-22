@@ -1,0 +1,11 @@
+{
+  "seq": 1024120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfer",
+      "purgatoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

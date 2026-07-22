@@ -6,6 +6,9 @@
       "décor de fenêtre",
       "ornement de fenêtre",
       "aménagement de fenêtre"
+    ],
+    [
+      "trucage comptable; embellissement des comptes; mise en beauté des comptes; falsification comptable; mise en scène comptable"
     ]
   ],
   "model": "qwen3:14b"

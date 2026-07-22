@@ -1,0 +1,17 @@
+{
+  "seq": 1020540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ambre",
+      "ombre"
+    ],
+    [
+      "invar"
+    ],
+    [
+      "ombre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

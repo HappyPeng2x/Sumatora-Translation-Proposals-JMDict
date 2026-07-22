@@ -1,0 +1,17 @@
+{
+  "seq": 1015220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accessoire",
+      "bijou"
+    ],
+    [
+      "accessoire (audio, voiture, appareil photo, etc.)"
+    ],
+    [
+      "périphérie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

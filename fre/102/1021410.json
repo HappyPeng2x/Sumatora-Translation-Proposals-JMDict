@@ -1,0 +1,10 @@
+{
+  "seq": 1021410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'initiateur d'un fil de discussion en ligne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1017200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "admission"
+    ],
+    [
+      "le prix d'entrée au théâtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

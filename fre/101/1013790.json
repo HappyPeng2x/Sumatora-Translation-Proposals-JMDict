@@ -7,6 +7,15 @@
     ],
     [
       "modération rétroactive minimale automatisée"
+    ],
+    [
+      "bras (d'un instrument de mesure)"
+    ],
+    [
+      "signal d'alarme (d'un signal ferroviaire)"
+    ],
+    [
+      "bras; manche (de vêtement)"
     ]
   ],
   "model": "qwen3:14b"

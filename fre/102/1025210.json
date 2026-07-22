@@ -4,6 +4,17 @@
   "glosses": [
     [
       "hiver"
+    ],
+    [
+      "saisonnier",
+      "d'hiver"
+    ],
+    [
+      "relatif à l'hiver"
+    ],
+    [
+      "saisonnier",
+      "d'hiver"
     ]
   ],
   "model": "qwen3:14b"

@@ -9,6 +9,9 @@
     [
       "avance",
       "paiement anticipé"
+    ],
+    [
+      "avance; prêt"
     ]
   ],
   "model": "qwen3:14b"

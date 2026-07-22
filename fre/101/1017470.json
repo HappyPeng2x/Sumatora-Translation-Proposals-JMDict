@@ -1,0 +1,19 @@
+{
+  "seq": 1017470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "analyste"
+    ],
+    [
+      "expert; spécialiste"
+    ],
+    [
+      "psychanalyste"
+    ],
+    [
+      "analyste; analyste en valeurs mobilières"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

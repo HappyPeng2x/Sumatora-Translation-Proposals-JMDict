@@ -1,0 +1,21 @@
+{
+  "seq": 1013050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lentement",
+      "tranquillement"
+    ],
+    [
+      "aisément",
+      "suffisamment",
+      "amplement",
+      "avec du temps à revendre"
+    ],
+    [
+      "bien",
+      "confortablement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

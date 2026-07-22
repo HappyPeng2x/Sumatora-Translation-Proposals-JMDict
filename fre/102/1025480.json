@@ -17,6 +17,9 @@
     [
       "bord déséquilibré",
       "bord asymétrique dans le jeu d'Othello"
+    ],
+    [
+      "joueur de vitesse dans le football ou le rugby"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,26 @@
+{
+  "seq": 1012330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nausée",
+      "poussée de colère"
+    ],
+    [
+      "être en colère",
+      "être offensé",
+      "être dégoûté"
+    ],
+    [
+      "mal à l'aise",
+      "malade",
+      "troublé"
+    ],
+    [
+      "agaçant",
+      "irritant",
+      "coléreux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

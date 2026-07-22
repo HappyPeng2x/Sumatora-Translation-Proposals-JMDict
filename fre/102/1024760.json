@@ -5,6 +5,13 @@
     [
       "important",
       "adj."
+    ],
+    [
+      "important",
+      "signifiant",
+      "décisif",
+      "essentiel",
+      "déterminant"
     ]
   ],
   "model": "qwen3:14b"

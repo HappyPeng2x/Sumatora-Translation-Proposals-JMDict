@@ -1,0 +1,20 @@
+{
+  "seq": 1012760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "yakuza"
+    ],
+    [
+      "escroc",
+      "gangster",
+      "truand"
+    ],
+    [
+      "inutile",
+      "incompétent",
+      "sans valeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

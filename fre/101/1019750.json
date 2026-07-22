@@ -13,6 +13,28 @@
       "disposition",
       "préparation (d'un événement)",
       "agencement"
+    ],
+    [
+      "arrangement",
+      "mise en scène"
+    ],
+    [
+      "ordonner",
+      "disposer",
+      "composer",
+      "rassembler",
+      "organiser"
+    ],
+    [
+      "régler",
+      "préparer",
+      "organiser",
+      "mettre en place",
+      "préparer"
+    ],
+    [
+      "arranger",
+      "réarranger"
     ]
   ],
   "model": "qwen3:14b"

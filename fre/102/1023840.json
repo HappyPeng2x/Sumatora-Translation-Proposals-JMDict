@@ -4,6 +4,10 @@
   "glosses": [
     [
       "Inde"
+    ],
+    [
+      "Inde du Sud",
+      "sous-continent indien"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,12 @@
+{
+  "seq": 1012230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tromper",
+      "duper",
+      "arnaquer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

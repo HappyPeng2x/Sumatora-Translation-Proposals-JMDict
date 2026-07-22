@@ -1,0 +1,30 @@
+{
+  "seq": 1012940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échange"
+    ],
+    [
+      "échange de paroles",
+      "discussion",
+      "altercation verbale"
+    ],
+    [
+      "dispute",
+      "échange de paroles"
+    ],
+    [
+      "correspondance",
+      "échange de lettres"
+    ],
+    [
+      "partage de boissons",
+      "mutuelle offre de boissons"
+    ],
+    [
+      "échange de boissons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

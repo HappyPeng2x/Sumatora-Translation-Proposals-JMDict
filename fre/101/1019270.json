@@ -1,0 +1,15 @@
+{
+  "seq": 1019270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recoin",
+      "alcôve"
+    ],
+    [
+      "gazébo",
+      "abri de jardin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

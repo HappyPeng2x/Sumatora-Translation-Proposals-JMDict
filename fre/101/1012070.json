@@ -1,0 +1,18 @@
+{
+  "seq": 1012070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme-ci comme-ça"
+    ],
+    [
+      "maintenant, voyons",
+      "voilà, voyons"
+    ],
+    [
+      "mon Dieu, oh mon Dieu !",
+      "ma parole, ô mon Dieu !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

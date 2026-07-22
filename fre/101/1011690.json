@@ -11,6 +11,14 @@
       "chaleureusement",
       "aimablement",
       "d'une manière réconfortante"
+    ],
+    [
+      "réconfortant",
+      "touchant"
+    ],
+    [
+      "indistinct",
+      "vague"
     ]
   ],
   "model": "qwen3:14b"

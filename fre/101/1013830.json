@@ -1,0 +1,15 @@
+{
+  "seq": 1013830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "noyau",
+      "arbre à noyau",
+      "Prunus dulcis"
+    ],
+    [
+      "amande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

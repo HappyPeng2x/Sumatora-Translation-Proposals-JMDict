@@ -4,6 +4,10 @@
   "glosses": [
     [
       "éther"
+    ],
+    [
+      "Éther",
+      "ETH (unité monétaire virtuelle de la plateforme décentralisée Ethereum)"
     ]
   ],
   "model": "qwen3:14b"

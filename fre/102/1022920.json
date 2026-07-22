@@ -1,0 +1,16 @@
+{
+  "seq": 1022920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intervalle"
+    ],
+    [
+      "pause entre deux actes"
+    ],
+    [
+      "intervalle (distance entre deux sons)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

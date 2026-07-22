@@ -4,6 +4,9 @@
   "glosses": [
     [
       "innovation"
+    ],
+    [
+      "innovation économique"
     ]
   ],
   "model": "qwen3:14b"

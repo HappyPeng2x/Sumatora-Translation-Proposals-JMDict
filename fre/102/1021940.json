@@ -1,0 +1,13 @@
+{
+  "seq": 1021940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "illustration",
+      "dessin",
+      "esquisse",
+      "figure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

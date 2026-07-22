@@ -4,6 +4,10 @@
   "glosses": [
     [
       "aquamarine"
+    ],
+    [
+      "bleu aquamarine",
+      "vert de mer"
     ]
   ],
   "model": "qwen3:14b"

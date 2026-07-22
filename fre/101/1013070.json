@@ -1,0 +1,24 @@
+{
+  "seq": 1013070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aisance ?"
+    ],
+    [
+      "liberté",
+      "loisir",
+      "sérénité intérieure",
+      "espace financier",
+      "latitude",
+      "possibilité de manœuvre",
+      "liberté de mouvement",
+      "bras"
+    ],
+    [
+      "ressources libres en matière d'espace; de temps; d'énergie ou d'argent",
+      "latitude pour expérimenter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

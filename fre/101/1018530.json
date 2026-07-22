@@ -5,6 +5,10 @@
     [
       "amateur",
       "non professionnel"
+    ],
+    [
+      "dilettante",
+      "passionné (d'un sujet)"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1021580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manche (au baseball)"
+    ],
+    [
+      "(au cricket) innings; partie"
+    ],
+    [
+      "(au cricket) unité de mesure pour les innings"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

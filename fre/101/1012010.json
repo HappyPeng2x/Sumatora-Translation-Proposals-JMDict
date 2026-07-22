@@ -21,6 +21,11 @@
       "en gouttes",
       "de manière légère",
       "en tombant légèrement"
+    ],
+    [
+      "ici et là",
+      "dispersé",
+      "disséminé"
     ]
   ],
   "model": "qwen3:14b"

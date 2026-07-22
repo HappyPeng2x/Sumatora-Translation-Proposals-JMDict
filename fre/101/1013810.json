@@ -5,6 +5,9 @@
     [
       "bracelet",
       "bague"
+    ],
+    [
+      "bracelet"
     ]
   ],
   "model": "qwen3:14b"

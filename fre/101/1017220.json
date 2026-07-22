@@ -5,6 +5,9 @@
     [
       "administrateur",
       "administratrice"
+    ],
+    [
+      "gouvernance"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,12 @@
+{
+  "seq": 1022630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "versement",
+      "paiement",
+      "partie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

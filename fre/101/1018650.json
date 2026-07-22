@@ -6,6 +6,12 @@
       "amour",
       "affection",
       "attachement"
+    ],
+    [
+      "aventure amoureuse",
+      "liaison",
+      "relation sentimentale",
+      "petite histoire d'amour"
     ]
   ],
   "model": "qwen3:14b"

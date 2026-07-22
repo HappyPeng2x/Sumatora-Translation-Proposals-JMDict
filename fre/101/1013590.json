@@ -7,6 +7,15 @@
       "nouvel article",
       "article de journal",
       "article de magazine"
+    ],
+    [
+      "paragraphe"
+    ],
+    [
+      "objet; élément; chose"
+    ],
+    [
+      "déterminant; mot déterminant"
     ]
   ],
   "model": "qwen3:14b"

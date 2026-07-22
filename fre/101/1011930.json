@@ -1,0 +1,16 @@
+{
+  "seq": 1011930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit de coups sur quelqu'un",
+      "chaleur à travers le corps"
+    ],
+    [
+      "de manière répétée",
+      "sans cesse",
+      "constamment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

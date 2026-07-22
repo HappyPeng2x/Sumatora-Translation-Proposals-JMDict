@@ -1,0 +1,19 @@
+{
+  "seq": 1022490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indicateur"
+    ],
+    [
+      "indicateur"
+    ],
+    [
+      "clignotant",
+      "tableau de bord",
+      "dispositif d'indication",
+      "tableau d'affichage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

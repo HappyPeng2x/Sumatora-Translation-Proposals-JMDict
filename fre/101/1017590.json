@@ -7,6 +7,9 @@
       "film d'animation",
       "dessin animé",
       "anime"
+    ],
+    [
+      "animation"
     ]
   ],
   "model": "qwen3:14b"

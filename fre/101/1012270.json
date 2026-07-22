@@ -1,0 +1,14 @@
+{
+  "seq": 1012270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complètement",
+      "parfaitement",
+      "avec succès",
+      "de manière habile",
+      "de façon élégante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

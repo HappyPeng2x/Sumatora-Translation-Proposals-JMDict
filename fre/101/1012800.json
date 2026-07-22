@@ -1,0 +1,35 @@
+{
+  "seq": 1012800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfin",
+      "finalement"
+    ],
+    [
+      "à peine",
+      "à grand-peine",
+      "avec difficulté",
+      "avec peine"
+    ],
+    [
+      "avec beaucoup de peine",
+      "avec difficulté",
+      "avec effort",
+      "avec grande peine"
+    ],
+    [
+      "beaucoup",
+      "une grande quantité",
+      "une quantité considérable",
+      "une quantité importante"
+    ],
+    [
+      "bien plus que",
+      "bien loin de",
+      "bien plus que",
+      "beaucoup plus que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

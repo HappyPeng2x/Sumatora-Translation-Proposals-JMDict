@@ -8,6 +8,9 @@
     ],
     [
       "service après-vente"
+    ],
+    [
+      "service client"
     ]
   ],
   "model": "qwen3:14b"

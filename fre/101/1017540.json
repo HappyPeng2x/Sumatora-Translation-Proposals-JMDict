@@ -1,0 +1,15 @@
+{
+  "seq": 1017540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traitement thermique",
+      "recuit"
+    ],
+    [
+      "guérison",
+      "cicatrisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

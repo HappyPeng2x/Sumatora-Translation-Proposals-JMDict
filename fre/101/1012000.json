@@ -1,0 +1,10 @@
+{
+  "seq": 1012000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doux, moelleux, gras, épais, rempli, pleinement rempli"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

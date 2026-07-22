@@ -5,6 +5,10 @@
     [
       "inverseur",
       "convertisseur de courant continu en courant alternatif"
+    ],
+    [
+      "inverseur",
+      "convertisseur de courant continu en courant alternatif"
     ]
   ],
   "model": "qwen3:14b"

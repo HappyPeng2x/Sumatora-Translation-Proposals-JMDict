@@ -1,0 +1,22 @@
+{
+  "seq": 1016420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accessoire",
+      "complément",
+      "pièce détachable"
+    ],
+    [
+      "annexe",
+      "pièce jointe",
+      "document complémentaire"
+    ],
+    [
+      "liaison",
+      "attachement",
+      "relation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

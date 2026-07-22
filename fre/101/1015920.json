@@ -1,0 +1,10 @@
+{
+  "seq": 1015920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "code américain normalisé pour l'échange d'information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "indérieur",
       "intérieur (d'un bâtiment)"
+    ],
+    [
+      "salle de sport couverte"
     ]
   ],
   "model": "qwen3:14b"

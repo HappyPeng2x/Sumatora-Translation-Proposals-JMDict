@@ -1,0 +1,10 @@
+{
+  "seq": 1024460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un hedge contre l'inflation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

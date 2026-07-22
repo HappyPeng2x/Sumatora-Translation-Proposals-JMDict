@@ -1,0 +1,17 @@
+{
+  "seq": 1012110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confus"
+    ],
+    [
+      "traîner des pieds",
+      "tâter le terrain",
+      "avancer lentement",
+      "hésiter",
+      "tergiverser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

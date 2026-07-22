@@ -1,0 +1,40 @@
+{
+  "seq": 1012810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aussi",
+      "en fin de compte",
+      "finalement",
+      "malgré tout"
+    ],
+    [
+      "en fin de compte",
+      "après tout",
+      "finalement",
+      "comme on pouvait s'y attendre",
+      "en tout cas"
+    ],
+    [
+      "aussi",
+      "de même",
+      "pareillement",
+      "pas plus que",
+      "non plus"
+    ],
+    [
+      "toujours",
+      "comme avant",
+      "encore",
+      "malgré cela"
+    ],
+    [
+      "toujours",
+      "malgré tout",
+      "néanmoins",
+      "pourtant",
+      "quand même"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

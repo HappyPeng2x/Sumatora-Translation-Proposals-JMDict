@@ -13,6 +13,18 @@
     ],
     [
       "attaque (musique)"
+    ],
+    [
+      "assaut (dans les sports de montagne)"
+    ],
+    [
+      "ascension (d'une montagne)"
+    ],
+    [
+      "action entreprise contre un problème"
+    ],
+    [
+      "début (d'une composition musicale)"
     ]
   ],
   "model": "qwen3:14b"

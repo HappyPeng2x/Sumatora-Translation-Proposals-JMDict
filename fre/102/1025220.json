@@ -7,6 +7,12 @@
     ],
     [
       "vitrine"
+    ],
+    [
+      "étalage"
+    ],
+    [
+      "fenêtre"
     ]
   ],
   "model": "qwen3:14b"

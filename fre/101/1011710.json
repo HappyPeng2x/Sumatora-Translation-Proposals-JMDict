@@ -1,0 +1,17 @@
+{
+  "seq": 1011710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regarde!"
+    ],
+    [
+      "regarde!",
+      "voilà!"
+    ],
+    [
+      "regarde! (pour attirer l'attention de l'interlocuteur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

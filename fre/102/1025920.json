@@ -1,0 +1,10 @@
+{
+  "seq": 1025920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entraînement avec poids libres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

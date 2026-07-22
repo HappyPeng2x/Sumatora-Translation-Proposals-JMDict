@@ -1,0 +1,13 @@
+{
+  "seq": 1024150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "informel"
+    ],
+    [
+      "familier; sans fioritures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

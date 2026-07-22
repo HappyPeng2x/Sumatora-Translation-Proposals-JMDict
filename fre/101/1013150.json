@@ -1,0 +1,12 @@
+{
+  "seq": 1013150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "même si",
+      "même si l'on",
+      "même si on"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

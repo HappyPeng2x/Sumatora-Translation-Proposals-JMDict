@@ -1,0 +1,15 @@
+{
+  "seq": 1018580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alliage",
+      "mélange",
+      "composé"
+    ],
+    [
+      "mélange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

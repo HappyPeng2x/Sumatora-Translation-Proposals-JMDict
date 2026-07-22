@@ -4,6 +4,9 @@
   "glosses": [
     [
       "attraction"
+    ],
+    [
+      "attraction; divertissement"
     ]
   ],
   "model": "qwen3:14b"

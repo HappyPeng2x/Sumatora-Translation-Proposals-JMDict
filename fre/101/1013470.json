@@ -4,6 +4,11 @@
   "glosses": [
     [
       "arcade (rue)"
+    ],
+    [
+      "passage commercial",
+      "rue commerciale",
+      "avenue commerciale"
     ]
   ],
   "model": "qwen3:14b"

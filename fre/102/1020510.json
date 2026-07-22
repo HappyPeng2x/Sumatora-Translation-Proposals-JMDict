@@ -1,0 +1,21 @@
+{
+  "seq": 1020510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ennui",
+      "lassitude",
+      "détachement",
+      "paresse"
+    ],
+    [
+      "ennui"
+    ],
+    [
+      "ennui",
+      "manque d'enthousiasme",
+      "indifférence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

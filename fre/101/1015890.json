@@ -1,0 +1,16 @@
+{
+  "seq": 1015890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retraite",
+      "base secrète",
+      "abri"
+    ],
+    [
+      "cache",
+      "refuge secret"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

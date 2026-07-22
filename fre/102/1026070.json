@@ -1,0 +1,25 @@
+{
+  "seq": 1026070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taille"
+    ],
+    [
+      "ouest"
+    ],
+    [
+      "gâchis"
+    ],
+    [
+      "gaspillage"
+    ],
+    [
+      "déchet"
+    ],
+    [
+      "balon de déchet; lancer de déchet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

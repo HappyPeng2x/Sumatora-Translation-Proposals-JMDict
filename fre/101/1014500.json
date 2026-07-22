@@ -1,0 +1,16 @@
+{
+  "seq": 1014500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ivoire"
+    ],
+    [
+      "blanc d'ivoire"
+    ],
+    [
+      "papier épais d'ivoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

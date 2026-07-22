@@ -1,0 +1,18 @@
+{
+  "seq": 1013420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "architecture"
+    ],
+    [
+      "structure",
+      "concept de structure",
+      "construction"
+    ],
+    [
+      "architecture informatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1022130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intérieur (d'une ligne de jeu)"
+    ],
+    [
+      "intérieur; interne"
+    ],
+    [
+      "entrée; point d'entrée"
+    ],
+    [
+      "neuf arrière (dans le golf)"
+    ],
+    [
+      "voie intérieure (sur piste de course)"
+    ],
+    [
+      "heure d'enregistrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

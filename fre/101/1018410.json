@@ -4,6 +4,11 @@
   "glosses": [
     [
       "avocat"
+    ],
+    [
+      "avocatier",
+      "avocatier d'Amérique",
+      "avocatier du Mexique"
     ]
   ],
   "model": "qwen3:14b"

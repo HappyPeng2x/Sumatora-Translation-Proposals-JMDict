@@ -1,0 +1,12 @@
+{
+  "seq": 1021790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dégradation de l'image",
+      "abaissement de l'image",
+      "atteinte à l'image"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

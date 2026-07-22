@@ -1,0 +1,16 @@
+{
+  "seq": 1011960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "eau qui coule"
+    ],
+    [
+      "lourd et mouillé (neige, argile, etc.)"
+    ],
+    [
+      "lentement (mouvement)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

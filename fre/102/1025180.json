@@ -1,0 +1,12 @@
+{
+  "seq": 1025180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signal de direction",
+      "clignotant",
+      "indicateur de direction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

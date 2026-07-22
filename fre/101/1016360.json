@@ -1,0 +1,19 @@
+{
+  "seq": 1016360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assemblage"
+    ],
+    [
+      "monter"
+    ],
+    [
+      "monter; assembler"
+    ],
+    [
+      "assemblage; montage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

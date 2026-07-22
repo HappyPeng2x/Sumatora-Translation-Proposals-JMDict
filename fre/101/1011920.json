@@ -1,0 +1,33 @@
+{
+  "seq": 1011920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étourdi",
+      "évanouissement",
+      "distrait",
+      "flou",
+      "terne"
+    ],
+    [
+      "absentmindedly",
+      "vacantement",
+      "distraitement",
+      "d'une manière désordonnée"
+    ],
+    [
+      "sans but",
+      "d'une manière indéterminée",
+      "d'une façon vague"
+    ],
+    [
+      "absentmindedness"
+    ],
+    [
+      "personne distrait",
+      "imbécile",
+      "dilettante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

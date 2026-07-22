@@ -1,0 +1,29 @@
+{
+  "seq": 1011940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "époustouflé",
+      "avec force",
+      "bâillement",
+      "de façon distraite",
+      "doucement et paresseusement"
+    ],
+    [
+      "bouche grande ouverte",
+      "gapeur",
+      "ébahi"
+    ],
+    [
+      "avec un coup",
+      "avec un bruit sourd"
+    ],
+    [
+      "détaché",
+      "absent",
+      "désorienté",
+      "perdu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

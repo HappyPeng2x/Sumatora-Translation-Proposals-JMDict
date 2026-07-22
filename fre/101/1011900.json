@@ -1,0 +1,28 @@
+{
+  "seq": 1011900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "effondrement",
+      "progressivement",
+      "usé"
+    ],
+    [
+      "effrité",
+      "séché et friable"
+    ],
+    [
+      "qui tombe en gouttes ou en morceaux",
+      "qui se disperse"
+    ],
+    [
+      "épuisé",
+      "fatigué"
+    ],
+    [
+      "successivement",
+      "les uns après les autres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

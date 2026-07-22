@@ -1,0 +1,25 @@
+{
+  "seq": 1013300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être agité",
+      "être bruyant"
+    ],
+    [
+      "sans cesse",
+      "sans fin",
+      "sans arrêt",
+      "en continu",
+      "en permanence"
+    ],
+    [
+      "fort",
+      "haut",
+      "bruyamment",
+      "avec fracas",
+      "en hurlant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1025010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laine"
+    ],
+    [
+      "tissu en laine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
