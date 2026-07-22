@@ -1,0 +1,15 @@
+{
+  "seq": 1188630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lequel (emphatique)"
+    ],
+    [
+      "alors",
+      "maintenant",
+      "bon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

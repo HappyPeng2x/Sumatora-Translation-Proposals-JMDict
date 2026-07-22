@@ -7,6 +7,21 @@
       "changeable",
       "convertible",
       "controllable"
+    ],
+    [
+      "changeable",
+      "modifiable",
+      "convertible"
+    ],
+    [
+      "capacité à changer",
+      "aptitude à se transformer",
+      "flexibilité"
+    ],
+    [
+      "aptitude à être échangé",
+      "possibilité d'échange",
+      "facilité de remplacement"
     ]
   ],
   "model": "qwen3:14b"

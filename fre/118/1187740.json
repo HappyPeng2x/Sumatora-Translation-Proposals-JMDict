@@ -1,0 +1,21 @@
+{
+  "seq": 1187740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imaginaire",
+      "hypothétique",
+      "virtuel",
+      "potential",
+      "supposition"
+    ],
+    [
+      "virtualité",
+      "fiction",
+      "hypothèse",
+      "imagination",
+      "présomption"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

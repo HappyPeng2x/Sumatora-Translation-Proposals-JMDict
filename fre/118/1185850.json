@@ -9,6 +9,13 @@
     [
       "avion à ailes flottantes",
       "avion flottant"
+    ],
+    [
+      "mettre un signe indiquant un caractère manquant",
+      "placer un signe indiquant un caractère manquant"
+    ],
+    [
+      "maison d'habitation avec une surface commerciale au rez-de-chaussée"
     ]
   ],
   "model": "qwen3:14b"

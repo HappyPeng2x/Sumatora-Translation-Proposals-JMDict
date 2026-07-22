@@ -10,6 +10,10 @@
       "position subordonnée",
       "bas de l'échelle",
       "obscurité"
+    ],
+    [
+      "petit homme",
+      "gens de la classe inférieure"
     ]
   ],
   "model": "qwen3:14b"

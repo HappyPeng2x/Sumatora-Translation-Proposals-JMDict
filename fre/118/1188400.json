@@ -12,6 +12,12 @@
     [
       "nul de ce genre",
       "pas du tout"
+    ],
+    [
+      "rien de particulier",
+      "pas du tout",
+      "nullement",
+      "pas en moindre mesure"
     ]
   ],
   "model": "qwen3:14b"

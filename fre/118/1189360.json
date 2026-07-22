@@ -1,0 +1,33 @@
+{
+  "seq": 1189360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lequel",
+      "quelle direction",
+      "lequel",
+      "qui",
+      "quelle direction",
+      "lequel"
+    ],
+    [
+      "quel",
+      "lequel",
+      "quelle",
+      "qui",
+      "laquelle"
+    ],
+    [
+      "qui"
+    ],
+    [
+      "où"
+    ],
+    [
+      "lequel",
+      "quelle",
+      "lequel; parmi deux alternatives"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

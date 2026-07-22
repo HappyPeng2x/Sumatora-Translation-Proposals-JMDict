@@ -7,6 +7,18 @@
       "infirmière",
       "assistant",
       "animateur"
+    ],
+    [
+      "personne qui s'occupe de quelqu'un en lui apportant des soins"
+    ],
+    [
+      "service rendu; attention portée à quelqu'un"
+    ],
+    [
+      "personne qui accompagne ou qui s'occupe de quelqu'un de manière attentive"
+    ],
+    [
+      "artiste de spectacle; animateur"
     ]
   ],
   "model": "qwen3:14b"

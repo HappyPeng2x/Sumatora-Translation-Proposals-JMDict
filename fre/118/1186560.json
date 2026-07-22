@@ -1,0 +1,19 @@
+{
+  "seq": 1186560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aval (rivière)",
+      "couche basse",
+      "niveau inférieur",
+      "partie \"basse\" d'une rivière (proche de l'embouchure)"
+    ],
+    [
+      "classes inférieures"
+    ],
+    [
+      "classes inférieures; castes inférieures; état inférieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

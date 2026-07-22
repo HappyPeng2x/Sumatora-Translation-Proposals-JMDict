@@ -1,0 +1,18 @@
+{
+  "seq": 1188330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dans tous les cas",
+      "de toute façon",
+      "quoi qu'il en soit"
+    ],
+    [
+      "de toute façon",
+      "après tout",
+      "puisque",
+      "vu que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

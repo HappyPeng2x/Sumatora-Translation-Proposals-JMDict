@@ -1,0 +1,14 @@
+{
+  "seq": 1189000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quelque part"
+    ],
+    [
+      "en certains aspects",
+      "de certaines manières"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

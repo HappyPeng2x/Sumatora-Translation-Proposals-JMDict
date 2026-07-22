@@ -5,6 +5,9 @@
     [
       "regard descendu",
       "regard méprisant"
+    ],
+    [
+      "regarder de bas en haut (quelqu'un)"
     ]
   ],
   "model": "qwen3:14b"

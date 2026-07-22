@@ -1,0 +1,12 @@
+{
+  "seq": 1187510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "libération sous caution",
+      "libération conditionnelle",
+      "sortie sous parole"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

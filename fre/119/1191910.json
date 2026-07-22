@@ -1,0 +1,15 @@
+{
+  "seq": 1191910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "économie familiale",
+      "finances familiales"
+    ],
+    [
+      "gestion de la maison",
+      "économie domestique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

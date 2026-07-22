@@ -5,6 +5,9 @@
     [
       "magasin de meubles",
       "vendeur de meubles"
+    ],
+    [
+      "marchand de meubles"
     ]
   ],
   "model": "qwen3:14b"

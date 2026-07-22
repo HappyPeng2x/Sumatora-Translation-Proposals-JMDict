@@ -1,0 +1,15 @@
+{
+  "seq": 1190020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agression",
+      "violence",
+      "atteinte"
+    ],
+    [
+      "attaque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

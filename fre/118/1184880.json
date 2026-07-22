@@ -1,0 +1,18 @@
+{
+  "seq": 1184880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sobre",
+      "tempéré"
+    ],
+    [
+      "personne qui n'aime pas ou ne supporte pas l'alcool",
+      "personne qui n'aime pas ou ne supporte pas l'alcool"
+    ],
+    [
+      "rang le plus bas attribué aux maisons dans le système administratif du Ritsuryō"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

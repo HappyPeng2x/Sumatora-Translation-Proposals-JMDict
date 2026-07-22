@@ -5,6 +5,9 @@
     [
       "quel numéro",
       "quelle numérotation"
+    ],
+    [
+      "quelle taille"
     ]
   ],
   "model": "qwen3:14b"

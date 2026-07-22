@@ -1,0 +1,21 @@
+{
+  "seq": 1189130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allez-y",
+      "je vous prie",
+      "s'il vous plait"
+    ],
+    [
+      "bien sûr; certainement; allez-y; n'hésitez pas; vous êtes le bienvenu; s'il vous plaît (prenez)"
+    ],
+    [
+      "voici; ici est"
+    ],
+    [
+      "donner; offrir; présenter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1187750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémoire virtuelle",
+      "stockage virtuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

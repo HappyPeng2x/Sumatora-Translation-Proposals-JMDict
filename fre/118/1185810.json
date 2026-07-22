@@ -5,6 +5,9 @@
     [
       "porter des getas",
       "mettre des getas"
+    ],
+    [
+      "ne pas enlever les getas"
     ]
   ],
   "model": "qwen3:14b"

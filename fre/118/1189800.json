@@ -1,0 +1,11 @@
+{
+  "seq": 1189800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bon vin",
+      "sake sucré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

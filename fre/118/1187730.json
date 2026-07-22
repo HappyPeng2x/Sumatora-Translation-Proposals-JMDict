@@ -4,6 +4,9 @@
   "glosses": [
     [
       "falsetto"
+    ],
+    [
+      "voix feinte"
     ]
   ],
   "model": "qwen3:14b"

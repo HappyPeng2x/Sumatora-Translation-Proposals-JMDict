@@ -1,0 +1,13 @@
+{
+  "seq": 1188100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "utilisation du syllabaire (kana)"
+    ],
+    [
+      "utilisation des kana"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

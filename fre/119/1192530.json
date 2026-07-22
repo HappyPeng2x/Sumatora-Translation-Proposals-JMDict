@@ -1,0 +1,23 @@
+{
+  "seq": 1192530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laquais",
+      "serviteur",
+      "vassal"
+    ],
+    [
+      "serviteur dévoué",
+      "partisan fidèle",
+      "suiveur"
+    ],
+    [
+      "hommage rendu par un enfant à une personne extérieure; comme à un père"
+    ],
+    [
+      "personne qui apprend les manières et les traditions au sein d'une famille de la cour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1190350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assistance",
+      "soutien",
+      "renfort"
+    ],
+    [
+      "renfort",
+      "secours",
+      "aide",
+      "troupes de renfort",
+      "venir en aide",
+      "porter secours",
+      "intervenir",
+      "s'occuper de quelqu'un",
+      "aider"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

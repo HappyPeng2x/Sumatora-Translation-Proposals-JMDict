@@ -1,0 +1,27 @@
+{
+  "seq": 1185190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coté gauche (d'une scène de théatre)",
+      "partie basse",
+      "position humble"
+    ],
+    [
+      "prise sous l'aisselle du ceinturon de l'adversaire",
+      "sumo"
+    ],
+    [
+      "comportement humiliant",
+      "sumō-jargon"
+    ],
+    [
+      "joueur de shōgi de rang inférieur",
+      "sumō-jargon"
+    ],
+    [
+      "humble; soumis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

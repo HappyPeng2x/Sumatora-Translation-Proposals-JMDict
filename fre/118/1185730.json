@@ -5,6 +5,15 @@
     [
       "végétation basse",
       "herbes sauvages sous un arbre"
+    ],
+    [
+      "plante basse",
+      "végétation de sous-bois"
+    ],
+    [
+      "personne discrète",
+      "personne insignifiante",
+      "personne sans importance"
     ]
   ],
   "model": "qwen3:14b"

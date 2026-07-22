@@ -1,0 +1,26 @@
+{
+  "seq": 1186710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changer en mal",
+      "prendre une autre forme pour se déguiser",
+      "se transformer"
+    ],
+    [
+      "se déguiser",
+      "se faire passer pour quelqu'un d'autre"
+    ],
+    [
+      "se transformer",
+      "changer de forme",
+      "se métamorphoser"
+    ],
+    [
+      "se transformer radicalement",
+      "s'améliorer de façon spectaculaire",
+      "faire un virage complet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1186610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "valet",
+      "serviteur",
+      "domestique"
+    ],
+    [
+      "pommel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

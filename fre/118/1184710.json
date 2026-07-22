@@ -1,0 +1,16 @@
+{
+  "seq": 1184710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inférieur",
+      "de bas grade",
+      "de classe inférieure",
+      "subalterne"
+    ],
+    [
+      "classe inférieure d'une école"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

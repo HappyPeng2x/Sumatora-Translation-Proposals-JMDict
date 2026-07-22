@@ -9,6 +9,29 @@
     [
       "goblin",
       "monstre"
+    ],
+    [
+      "apparition",
+      "fantôme",
+      "esprit"
+    ],
+    [
+      "réincarnation",
+      "naissance par métamorphose"
+    ],
+    [
+      "naissance directe par métamorphose",
+      "naissance immédiate par transformation"
+    ],
+    [
+      "réincarnation",
+      "renaissance",
+      "réapparition"
+    ],
+    [
+      "fantôme",
+      "esprit",
+      "apparition surnaturelle"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,9 @@
     [
       "lettre de la maison",
       "lettre familiale"
+    ],
+    [
+      "collection de livres d'origine locale"
     ]
   ],
   "model": "qwen3:14b"

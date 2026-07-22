@@ -1,0 +1,14 @@
+{
+  "seq": 1192820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perte de temps"
+    ],
+    [
+      "gaspi de temps",
+      "perte de temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

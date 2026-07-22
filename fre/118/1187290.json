@@ -1,0 +1,33 @@
+{
+  "seq": 1187290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "informel",
+      "intermédiaire",
+      "non-officiel",
+      "par intérim",
+      "prévisionnel",
+      "temporaire"
+    ],
+    [
+      "fictif; supposé; pseudonyme"
+    ],
+    [
+      "hypothétique; théorique"
+    ],
+    [
+      "supposé; prétendu; inventé; faux (en néerlandais)"
+    ],
+    [
+      "provisoire; temporaire"
+    ],
+    [
+      "fausseté; inauthenticité"
+    ],
+    [
+      "supposition; hypothèse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

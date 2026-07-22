@@ -1,0 +1,13 @@
+{
+  "seq": 1188210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "certificat temporaire"
+    ],
+    [
+      "diplôme provisoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

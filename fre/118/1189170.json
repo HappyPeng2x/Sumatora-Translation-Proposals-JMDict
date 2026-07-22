@@ -1,0 +1,13 @@
+{
+  "seq": 1189170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien de fois ?"
+    ],
+    [
+      "combien de degrés (température, angle, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

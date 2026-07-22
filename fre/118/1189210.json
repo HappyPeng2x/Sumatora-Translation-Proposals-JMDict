@@ -6,6 +6,14 @@
       "qui",
       "qu'est-ce que",
       "qui donc"
+    ],
+    [
+      "quel",
+      "quelque",
+      "lequel",
+      "laquelle",
+      "quels",
+      "quelles"
     ]
   ],
   "model": "qwen3:14b"

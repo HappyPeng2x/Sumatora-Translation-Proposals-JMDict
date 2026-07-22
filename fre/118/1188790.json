@@ -1,0 +1,27 @@
+{
+  "seq": 1188790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un jour",
+      "un moment ou un autre",
+      "tôt ou tard",
+      "l'autre jour",
+      "en temps voulu"
+    ],
+    [
+      "autrefois",
+      "jadis",
+      "il y a un moment"
+    ],
+    [
+      "il y a longtemps",
+      "autrefois",
+      "jadis"
+    ],
+    [
+      "avant même que vous ne vous en rendiez compte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

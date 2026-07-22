@@ -1,0 +1,14 @@
+{
+  "seq": 1185060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail de pioche",
+      "sous-traitance"
+    ],
+    [
+      "travail d'un sous-traitant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

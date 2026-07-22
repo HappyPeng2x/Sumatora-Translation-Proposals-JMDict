@@ -14,6 +14,14 @@
       "vassal d'un daimyo",
       "domaine féodal",
       "clan"
+    ],
+    [
+      "toute la maison",
+      "l'ensemble des habitants de la maison"
+    ],
+    [
+      "tous les vassaux d'un clan",
+      "les vassaux d'un seigneur féodal"
     ]
   ],
   "model": "qwen3:14b"

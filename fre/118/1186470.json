@@ -9,6 +9,14 @@
     [
       "sortir du pouvoir (d'un parti)",
       "passer en opposition"
+    ],
+    [
+      "démission de fonction publique",
+      "abandon de poste public"
+    ],
+    [
+      "quitter le gouvernement",
+      "passer à l'opposition"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,35 @@
+{
+  "seq": 1192860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'extrémité",
+      "la fin",
+      "la limite",
+      "le résultat"
+    ],
+    [
+      "résultat",
+      "issue",
+      "conséquence"
+    ],
+    [
+      "premier jour de deuil",
+      "fin",
+      "résultat final",
+      "conclusion"
+    ],
+    [
+      "fin du deuil"
+    ],
+    [
+      "extrémité extérieure",
+      "fin"
+    ],
+    [
+      "état d'une personne ou d'une famille après un certain temps",
+      "état délabré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

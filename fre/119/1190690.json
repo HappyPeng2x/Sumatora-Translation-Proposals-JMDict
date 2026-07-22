@@ -1,0 +1,12 @@
+{
+  "seq": 1190690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vieillissement",
+      "vieillir",
+      "âge avancé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

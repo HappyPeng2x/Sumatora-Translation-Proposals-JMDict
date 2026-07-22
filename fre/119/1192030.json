@@ -1,0 +1,19 @@
+{
+  "seq": 1192030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quitter la maison",
+      "se sauver de la maison"
+    ],
+    [
+      "sortie",
+      "promenade"
+    ],
+    [
+      "devenir moine bouddhiste",
+      "entrer dans le sacerdoce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

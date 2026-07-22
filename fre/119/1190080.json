@@ -1,0 +1,51 @@
+{
+  "seq": 1190080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état de santé",
+      "addition et soustraction",
+      "ajustement",
+      "influence du temps",
+      "prendre en compte"
+    ],
+    [
+      "état de santé"
+    ],
+    [
+      "ajustement",
+      "modération",
+      "régulation"
+    ],
+    [
+      "addition et soustraction"
+    ],
+    [
+      "légère indication de ...",
+      "légère état de ..."
+    ],
+    [
+      "juste pour ..."
+    ],
+    [
+      "état de santé",
+      "condition physique"
+    ],
+    [
+      "mesure",
+      "rapport"
+    ],
+    [
+      "réglementation",
+      "paramétrage"
+    ],
+    [
+      "influence",
+      "effet"
+    ],
+    [
+      "épice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "permis temporaire",
       "permis provisoire"
+    ],
+    [
+      "permis de conduire provisoire"
     ]
   ],
   "model": "qwen3:14b"

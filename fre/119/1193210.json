@@ -4,6 +4,10 @@
   "glosses": [
     [
       "auteur de tanka"
+    ],
+    [
+      "poésie",
+      "écriture poétique"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,36 @@
+{
+  "seq": 1188410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de toute façon",
+      "quoi !",
+      "quoi qu'..."
+    ],
+    [
+      "qu'est-ce que",
+      "quelle est la raison pour laquelle",
+      "comment",
+      "quand",
+      "pourquoi"
+    ],
+    [
+      "surprenant",
+      "à mon grand étonnement",
+      "incroyablement",
+      "pourquoi, ..."
+    ],
+    [
+      "oh mon dieu",
+      "incroyable",
+      "wow"
+    ],
+    [
+      "bien",
+      "alors",
+      "donc",
+      "voilà"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

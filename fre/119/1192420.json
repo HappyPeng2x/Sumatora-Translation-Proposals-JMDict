@@ -1,0 +1,25 @@
+{
+  "seq": 1192420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ma femme"
+    ],
+    [
+      "intérieur de la maison ; famille"
+    ],
+    [
+      "intérieur de la maison"
+    ],
+    [
+      "à l'intérieur de la maison"
+    ],
+    [
+      "intérieur de la maison"
+    ],
+    [
+      "membre de la famille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1188000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladie simulée"
+    ],
+    [
+      "maladie feinte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1192570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ministre",
+      "principal vassal"
+    ],
+    [
+      "intendant (d'une famille de marchands)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

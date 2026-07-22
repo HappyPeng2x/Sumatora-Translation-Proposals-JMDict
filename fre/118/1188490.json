@@ -1,0 +1,23 @@
+{
+  "seq": 1188490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rien (avec les verbes négatifs) ",
+      "aucun"
+    ],
+    [
+      "et tout le reste (avec un nom plus « mo »)",
+      "tout"
+    ],
+    [
+      "pas du tout",
+      "nullement",
+      "surtout pas",
+      "en aucun cas",
+      "pas spécialement",
+      "pas à ce point"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "force militaire réduite",
       "force numériquement inférieure"
+    ],
+    [
+      "armée peu nombreuse"
     ]
   ],
   "model": "qwen3:14b"

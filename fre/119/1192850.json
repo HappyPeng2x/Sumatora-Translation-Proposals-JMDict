@@ -1,0 +1,27 @@
+{
+  "seq": 1192850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accomplir",
+      "réaliser"
+    ],
+    [
+      "accomplir entièrement",
+      "faire complètement"
+    ],
+    [
+      "tuer",
+      "entreprendre un pèlerinage de gratitude"
+    ],
+    [
+      "achever",
+      "tuer"
+    ],
+    [
+      "achever entièrement",
+      "ajouter après le ren'yōkei d'un dōshi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

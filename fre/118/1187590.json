@@ -21,6 +21,16 @@
       "superficiel",
       "faible",
       "maladroit"
+    ],
+    [
+      "éphémère",
+      "passager",
+      "temporaire"
+    ],
+    [
+      "négligence",
+      "manque de soin",
+      "désinvolture"
     ]
   ],
   "model": "qwen3:14b"

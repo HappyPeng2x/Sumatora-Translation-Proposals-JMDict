@@ -1,0 +1,14 @@
+{
+  "seq": 1192150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "famille",
+      "membre de la famille"
+    ],
+    [
+      "membres d'une famille vivant sous le même toit et dirigés par le chef de famille (selon le droit familial et successoral jusqu'en 1947)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

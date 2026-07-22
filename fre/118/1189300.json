@@ -11,6 +11,9 @@
       "rien",
       "n'importe quoi",
       "quoi que ce soit"
+    ],
+    [
+      "rien"
     ]
   ],
   "model": "qwen3:14b"

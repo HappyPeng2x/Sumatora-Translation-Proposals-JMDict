@@ -1,0 +1,14 @@
+{
+  "seq": 1191510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saison estivale",
+      "été"
+    ],
+    [
+      "lieu de villégiature estivale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

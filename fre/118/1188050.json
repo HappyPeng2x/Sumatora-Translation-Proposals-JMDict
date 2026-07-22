@@ -1,0 +1,14 @@
+{
+  "seq": 1188050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couture provisoire",
+      "faufiler"
+    ],
+    [
+      "couture provisoire pour l'essayage; couture temporaire avant la couture définitive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

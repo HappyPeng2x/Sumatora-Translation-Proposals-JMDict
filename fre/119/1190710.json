@@ -1,0 +1,22 @@
+{
+  "seq": 1190710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "acceptable",
+      "correct"
+    ],
+    [
+      "approbation",
+      "vote en faveur",
+      "oui"
+    ],
+    [
+      "pass",
+      "note moyenne",
+      "note C",
+      "note D"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

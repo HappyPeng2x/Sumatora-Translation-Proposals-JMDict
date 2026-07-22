@@ -4,6 +4,9 @@
   "glosses": [
     [
       "sous-traitant"
+    ],
+    [
+      "métier d'un sous-traitant"
     ]
   ],
   "model": "qwen3:14b"

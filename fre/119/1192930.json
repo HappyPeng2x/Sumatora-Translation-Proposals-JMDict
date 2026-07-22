@@ -4,6 +4,10 @@
   "glosses": [
     [
       "fruits et légumes"
+    ],
+    [
+      "fruits d'été",
+      "légumes de plein air"
     ]
   ],
   "model": "qwen3:14b"

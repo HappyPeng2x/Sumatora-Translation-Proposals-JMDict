@@ -1,0 +1,14 @@
+{
+  "seq": 1185640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soulignement"
+    ],
+    [
+      "soulignette",
+      "trait horizontal sous un mot pour le mettre en évidence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

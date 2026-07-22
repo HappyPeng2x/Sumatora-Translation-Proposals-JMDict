@@ -11,6 +11,24 @@
       "ajout",
       "inclusion",
       "prise en compte"
+    ],
+    [
+      "assaisonner"
+    ],
+    [
+      "ajouter"
+    ],
+    [
+      "assaisonner"
+    ],
+    [
+      "teinter"
+    ],
+    [
+      "allumer"
+    ],
+    [
+      "ajouter"
     ]
   ],
   "model": "qwen3:14b"

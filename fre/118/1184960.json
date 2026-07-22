@@ -7,6 +7,15 @@
     ],
     [
       "quitter pour les provinces (forme archaïque et verbale)"
+    ],
+    [
+      "petite province (en termes de superficie et de population; selon le système ritsuryō)"
+    ],
+    [
+      "retourner dans sa province natale depuis la capitale"
+    ],
+    [
+      "se rendre dans la province administrative qui lui est assignée (en tant que gouverneur de la province)"
     ]
   ],
   "model": "qwen3:14b"

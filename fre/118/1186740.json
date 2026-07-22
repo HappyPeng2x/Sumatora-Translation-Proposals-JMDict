@@ -12,6 +12,15 @@
       "influencer",
       "affecter",
       "faire changer d'avis"
+    ],
+    [
+      "changer",
+      "transformer",
+      "modifier"
+    ],
+    [
+      "influencer",
+      "manipuler"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,28 @@
+{
+  "seq": 1189980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "augmenter",
+      "rejoindre",
+      "s'ajouter à"
+    ],
+    [
+      "s'ajouter à",
+      "participer à",
+      "rejoindre un groupe"
+    ],
+    [
+      "augmenter",
+      "prendre de l'ampleur",
+      "accélérer",
+      "gagner en influence"
+    ],
+    [
+      "être appliqué",
+      "être exercé",
+      "être porté sur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

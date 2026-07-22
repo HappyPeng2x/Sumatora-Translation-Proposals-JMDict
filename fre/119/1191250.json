@@ -11,6 +11,19 @@
       "pitié",
       "désolant",
       "pathétique"
+    ],
+    [
+      "reizant",
+      "séduisant",
+      "agréable",
+      "souhaitable"
+    ],
+    [
+      "pitoyable",
+      "désespérant",
+      "miserable",
+      "douloureux",
+      "désolant"
     ]
   ],
   "model": "qwen3:14b"

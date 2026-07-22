@@ -7,6 +7,9 @@
     ],
     [
       "[n, arch] personne chargée de couronner le garçon lors d'une cérémonie de passage à l'âge adulte"
+    ],
+    [
+      "la couronne"
     ]
   ],
   "model": "qwen3:14b"

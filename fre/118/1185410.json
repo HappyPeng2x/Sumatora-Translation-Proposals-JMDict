@@ -8,6 +8,13 @@
     ],
     [
       "interdiction d'entrer sur les lieux d'un temple ou d'un sanctuaire à cheval"
+    ],
+    [
+      "descendre d'un cheval",
+      "mettre un cheval au repos"
+    ],
+    [
+      "sortir d'un véhicule"
     ]
   ],
   "model": "qwen3:14b"

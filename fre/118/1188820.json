@@ -7,6 +7,11 @@
       "un jour ou l'autre",
       "autrefois",
       "une fois"
+    ],
+    [
+      "récemment",
+      "il y a peu de temps",
+      "dernièrement"
     ]
   ],
   "model": "qwen3:14b"

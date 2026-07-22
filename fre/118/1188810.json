@@ -6,6 +6,25 @@
       "avant même que l'on s'en aperçoive",
       "sans que l'on s'en rende compte",
       "inaperçu"
+    ],
+    [
+      "un jour",
+      "finalement",
+      "tôt ou tard"
+    ],
+    [
+      "à un certain moment",
+      "peut-être un jour"
+    ],
+    [
+      "jamais",
+      "nunca",
+      "jamais plus"
+    ],
+    [
+      "trop pressé",
+      "précipité",
+      "trop hâtif"
     ]
   ],
   "model": "qwen3:14b"

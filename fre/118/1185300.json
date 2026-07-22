@@ -1,0 +1,17 @@
+{
+  "seq": 1185300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "auberge",
+      "maison de location",
+      "logement"
+    ],
+    [
+      "chambre louée",
+      "chambre d'étudiant",
+      "kot (Belgique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

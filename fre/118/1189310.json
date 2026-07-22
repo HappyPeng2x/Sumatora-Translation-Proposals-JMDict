@@ -1,0 +1,26 @@
+{
+  "seq": 1189310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de toute façon",
+      "s'il vous plait (appuie une requête)"
+    ],
+    [
+      "quand même",
+      "tout de même",
+      "peu importe"
+    ],
+    [
+      "de toute façon",
+      "en tout cas",
+      "après tout"
+    ],
+    [
+      "en tout cas",
+      "quand même",
+      "tout de même"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1190030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assaillant"
+    ],
+    [
+      "agresseur",
+      "agressif"
+    ],
+    [
+      "meurtrier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

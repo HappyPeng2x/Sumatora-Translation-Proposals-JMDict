@@ -1,0 +1,27 @@
+{
+  "seq": 1192910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être terminé",
+      "disparaître",
+      "s'épuiser",
+      "se finir"
+    ],
+    [
+      "mourir",
+      "périmer",
+      "disparaître"
+    ],
+    [
+      "faire entièrement",
+      "faire complètement"
+    ],
+    [
+      "achever",
+      "terminer",
+      "mettre fin à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

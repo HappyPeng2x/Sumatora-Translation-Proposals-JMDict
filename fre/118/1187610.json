@@ -1,0 +1,11 @@
+{
+  "seq": 1187610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom provisoire",
+      "nom temporaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

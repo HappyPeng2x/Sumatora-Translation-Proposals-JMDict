@@ -1,0 +1,15 @@
+{
+  "seq": 1188760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quand"
+    ],
+    [
+      "temps ordinaires",
+      "époques normales",
+      "périodes habituelles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1191940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef d'une école (de musique, de danse) ; famille principale d'une école"
+    ],
+    [
+      "famille de la femme mariée; branche principale d'une famille"
+    ],
+    [
+      "famille principale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

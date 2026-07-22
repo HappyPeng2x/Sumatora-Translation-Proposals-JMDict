@@ -1,0 +1,18 @@
+{
+  "seq": 1191610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marchandise d'été(?)",
+      "vêtements d'été"
+    ],
+    [
+      "articles de saison estivale",
+      "produits d'été"
+    ],
+    [
+      "marchandises d'été"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

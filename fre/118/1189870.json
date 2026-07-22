@@ -5,6 +5,14 @@
     [
       "goût délicieux",
       "saveur délicieuse"
+    ],
+    [
+      "délicatesse",
+      "rareté"
+    ],
+    [
+      "élégance",
+      "bon goût"
     ]
   ],
   "model": "qwen3:14b"

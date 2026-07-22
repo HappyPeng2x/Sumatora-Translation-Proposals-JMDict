@@ -1,0 +1,44 @@
+{
+  "seq": 1191730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison"
+    ],
+    [
+      "famille",
+      "ménage"
+    ],
+    [
+      "lignage",
+      "nom de famille"
+    ],
+    [
+      "femme au foyer",
+      "épouse"
+    ],
+    [
+      "héritage familial"
+    ],
+    [
+      "situation familiale"
+    ],
+    [
+      "situation financière d'une famille"
+    ],
+    [
+      "réputation d'une famille",
+      "célébrité familiale"
+    ],
+    [
+      "vie privée au sein de la famille"
+    ],
+    [
+      "boîte à appareils"
+    ],
+    [
+      "boîte pour appareil à thé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

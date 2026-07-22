@@ -1,0 +1,14 @@
+{
+  "seq": 1192700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "science"
+    ],
+    [
+      "réfléchir de manière scientifique",
+      "penser en termes scientifiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

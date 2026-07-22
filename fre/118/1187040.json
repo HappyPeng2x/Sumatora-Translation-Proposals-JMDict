@@ -5,6 +5,9 @@
     [
       "argent destiné aux soins de beauté d'une femme",
       "dépense pour les cosmétiques"
+    ],
+    [
+      "frais de maquillage"
     ]
   ],
   "model": "qwen3:14b"

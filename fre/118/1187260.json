@@ -1,0 +1,14 @@
+{
+  "seq": 1187260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suppuration",
+      "infection",
+      "purulence",
+      "pyose",
+      "gangrène"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1191830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pays natal",
+      "ville natale",
+      "patrie",
+      "terre natale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

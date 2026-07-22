@@ -1,0 +1,20 @@
+{
+  "seq": 1188450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "qu'est-ce que",
+      "quelle merveille",
+      "quelle beauté"
+    ],
+    [
+      "rien de particulier",
+      "rien d'exceptionnel"
+    ],
+    [
+      "de quel nom",
+      "de quelle origine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1192660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peu disert",
+      "silencieux",
+      "taciturne",
+      "timide"
+    ],
+    [
+      "discrétion",
+      "silence",
+      "réserve",
+      "mutisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

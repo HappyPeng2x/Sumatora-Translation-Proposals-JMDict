@@ -1,0 +1,26 @@
+{
+  "seq": 1185970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "investigation préliminaire",
+      "préparation"
+    ],
+    [
+      "révision anticipée",
+      "étude préalable",
+      "préparation des leçons"
+    ],
+    [
+      "examiner à l'avance",
+      "étudier à l'avance",
+      "préparer en amont"
+    ],
+    [
+      "préparer",
+      "faire des préparatifs",
+      "organiser à l'avance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

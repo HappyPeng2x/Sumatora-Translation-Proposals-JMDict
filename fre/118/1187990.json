@@ -4,6 +4,12 @@
   "glosses": [
     [
       "ancrage d'urgence"
+    ],
+    [
+      "hébergement provisoire"
+    ],
+    [
+      "petit somme"
     ]
   ],
   "model": "qwen3:14b"

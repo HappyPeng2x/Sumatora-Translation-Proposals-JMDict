@@ -10,6 +10,16 @@
     ],
     [
       "le mouvement de descente d'un lieu élevé vers un lieu bas"
+    ],
+    [
+      "descendre",
+      "aller vers le bas"
+    ],
+    [
+      "voyage depuis la capitale vers les provinces"
+    ],
+    [
+      "retour après une visite à un sanctuaire ou un temple"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,32 @@
+{
+  "seq": 1186110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déscente",
+      "débarquement",
+      "descendre (d'un cheval)"
+    ],
+    [
+      "lieu de culte où l'on doit descendre de cheval (abréviation)"
+    ],
+    [
+      "cheval maladroit",
+      "cheval de mauvaise qualité"
+    ],
+    [
+      "descendre de son cheval en signe d'hommage à une personne importante"
+    ],
+    [
+      "point obligatoire d'arrêt pour les cavaliers"
+    ],
+    [
+      "cheval maladroit",
+      "cheval de mauvaise qualité",
+      "bête de somme",
+      "cheval malade",
+      "cheval défaillant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

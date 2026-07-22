@@ -1,0 +1,24 @@
+{
+  "seq": 1188270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quelque chose"
+    ],
+    [
+      "de quelque manière que ce soit",
+      "pour une raison quelconque"
+    ],
+    [
+      "qu'est-ce que tu veux dire ?",
+      "qu'est-ce que tu essaies de dire ?"
+    ],
+    [
+      "quelque chose",
+      "quelque chose de ce genre",
+      "diverses choses",
+      "une quantité indéterminée de choses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1191980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail à la maison",
+      "travail domestique"
+    ],
+    [
+      "affaires familiales",
+      "questions domestiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

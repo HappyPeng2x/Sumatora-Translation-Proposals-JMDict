@@ -1,0 +1,12 @@
+{
+  "seq": 1187550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parole temporaire",
+      "liberté conditionnelle",
+      "sortie provisoire de prison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

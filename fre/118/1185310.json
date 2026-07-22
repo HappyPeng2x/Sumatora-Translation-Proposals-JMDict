@@ -1,0 +1,11 @@
+{
+  "seq": 1185310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "locataire",
+      "personne qui loue une chambre ou un logement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

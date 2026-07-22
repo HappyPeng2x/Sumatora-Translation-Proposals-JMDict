@@ -1,0 +1,14 @@
+{
+  "seq": 1187600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abri",
+      "bâtiment provisoire",
+      "cabane",
+      "kiosque",
+      "tente de camping"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

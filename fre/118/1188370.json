@@ -1,0 +1,18 @@
+{
+  "seq": 1188370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme...!",
+      "quel...!"
+    ],
+    [
+      "qu'est-ce que",
+      "qu'est-ce que ça"
+    ],
+    [
+      "aussi loin que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1189370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "qui?"
+    ],
+    [
+      "qui",
+      "quelle direction",
+      "quel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

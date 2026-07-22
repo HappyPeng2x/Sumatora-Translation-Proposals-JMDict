@@ -1,0 +1,12 @@
+{
+  "seq": 1188310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne sachant pas ce qui se passe",
+      "ne comprenant pas la situation",
+      "ne connaissant pas les détails"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

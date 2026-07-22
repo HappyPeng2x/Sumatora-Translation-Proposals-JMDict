@@ -1,0 +1,12 @@
+{
+  "seq": 1188590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dans un autre temps",
+      "un jour",
+      "bientôt"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

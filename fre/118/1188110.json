@@ -5,6 +5,9 @@
     [
       "écriture mixte",
       "écriture combinant kanji et kana"
+    ],
+    [
+      "texte en écriture mixte combinant kana et kanji"
     ]
   ],
   "model": "qwen3:14b"

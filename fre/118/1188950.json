@@ -1,0 +1,13 @@
+{
+  "seq": 1188950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien de temps"
+    ],
+    [
+      "quelques heures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

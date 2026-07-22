@@ -1,0 +1,24 @@
+{
+  "seq": 1188690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(aff) complètement",
+      "(nég) rien, pas le moindre"
+    ],
+    [
+      "nullement",
+      "pas du tout",
+      "pas le moins du monde"
+    ],
+    [
+      "énorme",
+      "terrible",
+      "incroyable",
+      "hors du commun",
+      "quelle horreur !",
+      "quelle déception !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

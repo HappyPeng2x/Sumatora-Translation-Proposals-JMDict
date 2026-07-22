@@ -1,0 +1,19 @@
+{
+  "seq": 1188890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à chaque fois",
+      "(nég) jamais",
+      "habituellement",
+      "toujours"
+    ],
+    [
+      "jamais"
+    ],
+    [
+      "ordinaire; habituel; régulier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

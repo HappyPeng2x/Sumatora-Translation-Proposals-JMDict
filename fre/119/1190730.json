@@ -1,0 +1,27 @@
+{
+  "seq": 1190730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être affectueux avec",
+      "aimer",
+      "gâter"
+    ],
+    [
+      "favoriser",
+      "être partial envers"
+    ],
+    [
+      "caresser",
+      "pamper",
+      "flatter"
+    ],
+    [
+      "être dur avec",
+      "maltraiter",
+      "torturer",
+      "dresser sévèrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

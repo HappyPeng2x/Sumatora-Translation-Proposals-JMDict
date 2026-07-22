@@ -1,0 +1,24 @@
+{
+  "seq": 1191990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "propriétaire (logement)"
+    ],
+    [
+      "propriétaire de la maison",
+      "maître de maison",
+      "chef de famille"
+    ],
+    [
+      "propriétaire d'une maison",
+      "maître des lieux",
+      "tête de famille"
+    ],
+    [
+      "loueur",
+      "propriétaire immobilier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

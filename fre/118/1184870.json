@@ -7,6 +7,12 @@
     ],
     [
       "infimum"
+    ],
+    [
+      "borne inférieure"
+    ],
+    [
+      "limite inférieure d'intégration"
     ]
   ],
   "model": "qwen3:14b"

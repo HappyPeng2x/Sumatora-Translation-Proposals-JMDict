@@ -4,6 +4,9 @@
   "glosses": [
     [
       "solubilité"
+    ],
+    [
+      "fusibilité"
     ]
   ],
   "model": "qwen3:14b"

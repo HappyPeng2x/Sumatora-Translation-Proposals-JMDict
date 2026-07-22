@@ -7,6 +7,12 @@
       "réussir à faire",
       "parvenir à faire",
       "terminer (après le radical de verbe)"
+    ],
+    [
+      "réussir à faire",
+      "parvenir à faire",
+      "accomplir avec succès",
+      "réaliser avec élégance"
     ]
   ],
   "model": "qwen3:14b"

@@ -8,6 +8,13 @@
       "mauvais",
       "imparfait",
       "mal fait"
+    ],
+    [
+      "maladroit",
+      "incompétent",
+      "mauvais",
+      "imparfait",
+      "mal fait"
     ]
   ],
   "model": "qwen3:14b"

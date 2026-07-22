@@ -1,0 +1,15 @@
+{
+  "seq": 1189140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "je vous prie",
+      "s'il vous plait"
+    ],
+    [
+      "par tous les moyens",
+      "sans faillir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

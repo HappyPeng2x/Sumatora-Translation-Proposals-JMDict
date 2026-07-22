@@ -1,0 +1,20 @@
+{
+  "seq": 1189060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "article (d'un document juridique, etc.)",
+      "alinéa",
+      "section"
+    ],
+    [
+      "quelle rue"
+    ],
+    [
+      "comment (pouvoir faire ...) ? ",
+      "il est impossible de ...",
+      "il n'y a aucun moyen de ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

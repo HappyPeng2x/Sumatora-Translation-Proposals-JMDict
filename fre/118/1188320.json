@@ -1,0 +1,14 @@
+{
+  "seq": 1188320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à tout prix",
+      "coûte que coûte"
+    ],
+    [
+      "quoi qu'on en dise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

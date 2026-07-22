@@ -1,0 +1,11 @@
+{
+  "seq": 1192320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tuteur particulier",
+      "professeur particulier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

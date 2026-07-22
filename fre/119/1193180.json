@@ -1,0 +1,20 @@
+{
+  "seq": 1193180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson",
+      "poème"
+    ],
+    [
+      "poème classique japonais (surtout le tanka)"
+    ],
+    [
+      "poésie moderne"
+    ],
+    [
+      "chanson populaire; chanson légère; poésie moderne; poème"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

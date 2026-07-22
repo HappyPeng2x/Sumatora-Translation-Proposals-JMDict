@@ -1,0 +1,16 @@
+{
+  "seq": 1187210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fossile",
+      "fossilisation",
+      "pétrification"
+    ],
+    [
+      "pétrification",
+      "fossilisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

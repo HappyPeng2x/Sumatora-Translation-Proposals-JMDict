@@ -1,0 +1,27 @@
+{
+  "seq": 1185370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brouillon"
+    ],
+    [
+      "esquisse",
+      "croquis",
+      "dénombrement sommaire"
+    ],
+    [
+      "concept",
+      "brouillon",
+      "version brute",
+      "première rédaction",
+      "version non définitive"
+    ],
+    [
+      "esquisse",
+      "croquis",
+      "dénombrement sommaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

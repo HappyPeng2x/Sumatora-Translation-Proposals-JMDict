@@ -1,0 +1,14 @@
+{
+  "seq": 1191780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bâtiment",
+      "maison"
+    ],
+    [
+      "immeuble (selon la loi sur les impôts locaux)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

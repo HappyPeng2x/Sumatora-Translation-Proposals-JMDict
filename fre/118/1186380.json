@@ -6,6 +6,12 @@
       "région inférieure",
       "partie inférieure",
       "zone située en dessous"
+    ],
+    [
+      "vers le bas",
+      "en bas",
+      "vers le dessous",
+      "en direction du bas"
     ]
   ],
   "model": "qwen3:14b"

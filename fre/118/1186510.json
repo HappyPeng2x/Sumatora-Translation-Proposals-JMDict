@@ -1,0 +1,17 @@
+{
+  "seq": 1186510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dévaluation",
+      "chute",
+      "baisse",
+      "déclin"
+    ],
+    [
+      "se détériorer",
+      "se dégrader"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

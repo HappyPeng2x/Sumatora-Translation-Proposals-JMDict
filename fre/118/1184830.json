@@ -1,0 +1,31 @@
+{
+  "seq": 1184830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inspection préliminaire"
+    ],
+    [
+      "lecture de préparation"
+    ],
+    [
+      "panneau de revêtement extérieur; clapboard; planche de revêtement"
+    ],
+    [
+      "inspection préliminaire; visite d'avance"
+    ],
+    [
+      "examen préliminaire; préparation"
+    ],
+    [
+      "revêtement en bois extérieur d'un mur; panneaux de bois"
+    ],
+    [
+      "préparation d'une leçon"
+    ],
+    [
+      "revêtement extérieur en bois; panneaux de bois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

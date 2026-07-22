@@ -1,0 +1,16 @@
+{
+  "seq": 1191750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "famille",
+      "maison"
+    ],
+    [
+      "famille",
+      "génération",
+      "maison ancestrale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

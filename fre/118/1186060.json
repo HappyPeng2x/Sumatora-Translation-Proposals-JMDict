@@ -11,6 +11,12 @@
       "serviteur",
       "cuisinier",
       "aide de cuisine"
+    ],
+    [
+      "domestique",
+      "serviteur",
+      "cuisinier",
+      "cuisinière"
     ]
   ],
   "model": "qwen3:14b"

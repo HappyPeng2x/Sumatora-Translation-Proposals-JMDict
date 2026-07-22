@@ -1,0 +1,15 @@
+{
+  "seq": 1189100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien de personnes",
+      "un certain nombre de personnes"
+    ],
+    [
+      "quelques personnes",
+      "personne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

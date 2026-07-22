@@ -1,0 +1,23 @@
+{
+  "seq": 1185510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écoulement des eaux",
+      "égout",
+      "caniveau",
+      "gouttière(?)"
+    ],
+    [
+      "eaux usées",
+      "eau noire"
+    ],
+    [
+      "canal d'évacuation des eaux (d'inspiration néerlandaise)",
+      "canalisation",
+      "canal",
+      "tranchée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

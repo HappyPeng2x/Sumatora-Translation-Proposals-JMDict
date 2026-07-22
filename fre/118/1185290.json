@@ -1,0 +1,32 @@
+{
+  "seq": 1185290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "logis",
+      "pension"
+    ],
+    [
+      "auberge",
+      "maison de ville",
+      "logement"
+    ],
+    [
+      "auberge de bas standing",
+      "pension de bas rang",
+      "maison de ville modeste"
+    ],
+    [
+      "chambre louée",
+      "chambre d'étudiant",
+      "kot",
+      "logement temporaire"
+    ],
+    [
+      "logement en location",
+      "séjour temporaire",
+      "déménagement provisoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

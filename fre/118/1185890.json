@@ -5,6 +5,10 @@
     [
       "extrémité inférieure",
       "bord inférieur"
+    ],
+    [
+      "borne inférieure d'intégration",
+      "limite inférieure (mathématiques)"
     ]
   ],
   "model": "qwen3:14b"

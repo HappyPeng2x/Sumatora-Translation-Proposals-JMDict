@@ -1,0 +1,17 @@
+{
+  "seq": 1186590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méprisable",
+      "bas",
+      "vulgaire",
+      "déshonnête",
+      "détestable"
+    ],
+    [
+      "degré de bassesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

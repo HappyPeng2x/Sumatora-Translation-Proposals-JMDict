@@ -1,0 +1,35 @@
+{
+  "seq": 1192680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "département",
+      "section"
+    ],
+    [
+      "cours d'étude; spécialisation; branche d'étude"
+    ],
+    [
+      "famille (en biologie)"
+    ],
+    [
+      "article; point (en néerlandais)"
+    ],
+    [
+      "famille (en néerlandais; biologie)"
+    ],
+    [
+      "élément; point d'une accusation; partie d'une condamnation (en néerlandais; droit)"
+    ],
+    [
+      "matière d'examen pour les fonctionnaires; contenu d'un examen (en néerlandais; Chine)"
+    ],
+    [
+      "dossier judiciaire; antécédents criminels; condamnation antérieure (en néerlandais; commerce)"
+    ],
+    [
+      "trou; cavité; fosse; subdivision; type; fait punissable; erreur; faute; (théâtre) l'interprétation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

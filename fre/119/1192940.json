@@ -1,0 +1,16 @@
+{
+  "seq": 1192940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "baie",
+      "fruits",
+      "noix"
+    ],
+    [
+      "fruits",
+      "profit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

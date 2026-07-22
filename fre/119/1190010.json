@@ -1,0 +1,11 @@
+{
+  "seq": 1190010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chauffage",
+      "chaleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

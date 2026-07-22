@@ -1,0 +1,25 @@
+{
+  "seq": 1186240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accorder",
+      "délivrer"
+    ],
+    [
+      "accorder",
+      "autoriser"
+    ],
+    [
+      "délivrance",
+      "émission",
+      "dépôt"
+    ],
+    [
+      "accord",
+      "autorisation",
+      "attribution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

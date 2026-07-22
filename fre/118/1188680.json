@@ -1,0 +1,17 @@
+{
+  "seq": 1188680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "innocemment",
+      "non intentionnellement",
+      "par inadvertance"
+    ],
+    [
+      "sans intention",
+      "par hasard",
+      "involontairement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

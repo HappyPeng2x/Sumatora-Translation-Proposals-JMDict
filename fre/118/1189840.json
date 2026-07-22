@@ -1,0 +1,13 @@
+{
+  "seq": 1189840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jour propice",
+      "jour heureux",
+      "jour favorable",
+      "beau jour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

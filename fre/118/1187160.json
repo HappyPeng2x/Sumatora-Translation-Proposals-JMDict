@@ -1,0 +1,23 @@
+{
+  "seq": 1187160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transformation",
+      "changement",
+      "mutation"
+    ],
+    [
+      "synthèse chimique"
+    ],
+    [
+      "synthèse chimique"
+    ],
+    [
+      "transformation",
+      "mutation",
+      "changement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1185940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "shitamachi",
+      "ville basse"
+    ],
+    [
+      "quartier de Shitamachi (zone basse de l'est de Tokyo près de la baie de Tokyo, incl. Asakusa, Shitaya, Kanda, Fukugawa, Honjo, Nihonbashi, Kyobashi et ses environs)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

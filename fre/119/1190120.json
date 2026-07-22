@@ -1,0 +1,17 @@
+{
+  "seq": 1190120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "processus de fabrication",
+      "traitement"
+    ],
+    [
+      "traitement",
+      "élaboration",
+      "fabrication",
+      "refinement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

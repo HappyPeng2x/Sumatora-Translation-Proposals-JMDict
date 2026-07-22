@@ -1,0 +1,17 @@
+{
+  "seq": 1193170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "support",
+      "cadre",
+      "appui"
+    ],
+    [
+      "structure de soutien",
+      "charpente",
+      "cadre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

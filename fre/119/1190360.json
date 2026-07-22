@@ -1,0 +1,16 @@
+{
+  "seq": 1190360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "augmentation",
+      "accroissement",
+      "ajout",
+      "majoration"
+    ],
+    [
+      "augmentation du salaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

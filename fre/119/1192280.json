@@ -1,0 +1,17 @@
+{
+  "seq": 1192280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(sa) famille",
+      "(sa) maison"
+    ],
+    [
+      "domicile",
+      "foyer",
+      "logement",
+      "maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1187920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temple provisoire",
+      "sanctuaire temporaire",
+      "lieu d'adoration provisoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

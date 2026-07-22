@@ -1,0 +1,13 @@
+{
+  "seq": 1186170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "souiller",
+      "rendre vulgaire",
+      "assombrir",
+      "dégrader"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

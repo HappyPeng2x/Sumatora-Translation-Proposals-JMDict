@@ -1,0 +1,14 @@
+{
+  "seq": 1189290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plusieurs centaines",
+      "quelques centaines"
+    ],
+    [
+      "combien de centaines"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

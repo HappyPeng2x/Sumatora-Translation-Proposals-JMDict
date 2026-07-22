@@ -1,0 +1,11 @@
+{
+  "seq": 1189520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contrôle des prix",
+      "régulation des prix"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

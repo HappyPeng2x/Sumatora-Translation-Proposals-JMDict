@@ -1,0 +1,11 @@
+{
+  "seq": 1189440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pantomime",
+      "jeu de marionnettes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

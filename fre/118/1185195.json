@@ -10,6 +10,12 @@
     [
       "partie gauche de la scène (du point de vue du public ou de la caméra)",
       "scène gauche (du point de vue de l'acteur)"
+    ],
+    [
+      "partie gauche de la scène (du point de vue du public)"
+    ],
+    [
+      "corde droite d'un filet à poissons"
     ]
   ],
   "model": "qwen3:14b"

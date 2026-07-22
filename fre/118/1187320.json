@@ -1,0 +1,14 @@
+{
+  "seq": 1187320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "demeure temporaire",
+      "ce monde transitoire"
+    ],
+    [
+      "existence éphémère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

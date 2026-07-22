@@ -1,0 +1,11 @@
+{
+  "seq": 1190240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calculateur",
+      "machine à additionner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

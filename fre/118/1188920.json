@@ -5,6 +5,10 @@
     [
       "quand",
       "quand (insistant)"
+    ],
+    [
+      "habituellement",
+      "normalement"
     ]
   ],
   "model": "qwen3:14b"

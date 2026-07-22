@@ -5,6 +5,9 @@
     [
       "officier non commissionné",
       "petit officier"
+    ],
+    [
+      "matelot"
     ]
   ],
   "model": "qwen3:14b"

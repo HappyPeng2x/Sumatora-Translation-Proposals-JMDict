@@ -1,0 +1,36 @@
+{
+  "seq": 1189960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "additionner à",
+      "ajouter",
+      "augmenter",
+      "rajouter"
+    ],
+    [
+      "augmenter",
+      "accélérer",
+      "prendre (vitesse)"
+    ],
+    [
+      "inclure",
+      "compter parmi",
+      "permettre de participer"
+    ],
+    [
+      "infliger",
+      "causer",
+      "donner (douleur, dommage)"
+    ],
+    [
+      "laisser participer",
+      "laisser prendre part"
+    ],
+    [
+      "infliger (une insulte)",
+      "porter (une blessure)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

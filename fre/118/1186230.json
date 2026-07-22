@@ -1,0 +1,28 @@
+{
+  "seq": 1186230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grossièreté",
+      "indécence",
+      "obscénité",
+      "vulgarité"
+    ],
+    [
+      "vulgarité",
+      "grossièreté",
+      "manque de raffinement"
+    ],
+    [
+      "grossièreté",
+      "vulgarité",
+      "manque de noblesse"
+    ],
+    [
+      "médiocrité",
+      "qualité inférieure",
+      "défaut de qualité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

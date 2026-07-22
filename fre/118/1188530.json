@@ -1,0 +1,19 @@
+{
+  "seq": 1188530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le mieux",
+      "le plus",
+      "le plus important"
+    ],
+    [
+      "supérieur",
+      "meilleur",
+      "excellent",
+      "merveilleux",
+      "le plus important"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

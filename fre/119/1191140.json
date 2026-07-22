@@ -5,6 +5,9 @@
     [
       "divisible",
       "séparable"
+    ],
+    [
+      "séparable"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,30 @@
+{
+  "seq": 1193130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aérien",
+      "fictionnel",
+      "imaginaire"
+    ],
+    [
+      "aérien",
+      "surnuméraire"
+    ],
+    [
+      "imaginaire",
+      "fictif",
+      "hypothétique",
+      "inventé",
+      "spéculatif"
+    ],
+    [
+      "imaginaire",
+      "inventé",
+      "fantastique",
+      "illusoire",
+      "herschimmgelijk"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
