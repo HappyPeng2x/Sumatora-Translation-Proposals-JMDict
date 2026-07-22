@@ -1,0 +1,20 @@
+{
+  "seq": 1206640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doyen",
+      "directeur de faculté"
+    ],
+    [
+      "décanaat"
+    ],
+    [
+      "décane de l'école"
+    ],
+    [
+      "décane"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

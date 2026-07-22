@@ -1,0 +1,22 @@
+{
+  "seq": 1206350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séparation",
+      "barrière",
+      "division"
+    ],
+    [
+      "discrimination",
+      "préférence",
+      "différence de traitement"
+    ],
+    [
+      "distance",
+      "reserve",
+      "éloignement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

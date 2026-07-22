@@ -1,0 +1,12 @@
+{
+  "seq": 1209110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "col de ciseau",
+      "col recourbé",
+      "col en bec de canard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

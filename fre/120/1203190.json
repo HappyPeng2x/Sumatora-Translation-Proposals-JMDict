@@ -5,6 +5,9 @@
     [
       "chanson de victoire",
       "chant de victoire"
+    ],
+    [
+      "cri de victoire"
     ]
   ],
   "model": "qwen3:14b"

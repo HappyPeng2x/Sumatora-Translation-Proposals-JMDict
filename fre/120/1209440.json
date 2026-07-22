@@ -1,0 +1,11 @@
+{
+  "seq": 1209440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mâcheur",
+      "moissonneur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

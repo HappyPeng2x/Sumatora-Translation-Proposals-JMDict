@@ -1,0 +1,15 @@
+{
+  "seq": 1204540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couvercle"
+    ],
+    [
+      "opercule",
+      "cloison",
+      "voile de la bouche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

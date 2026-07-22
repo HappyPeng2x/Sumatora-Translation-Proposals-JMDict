@@ -6,6 +6,9 @@
       "dès le début",
       "d'abord",
       "en premier lieu"
+    ],
+    [
+      "au début d'un discours"
     ]
   ],
   "model": "qwen3:14b"

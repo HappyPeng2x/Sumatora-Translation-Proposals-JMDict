@@ -6,6 +6,9 @@
       "être inondé",
       "être submergé",
       "être sous l'eau"
+    ],
+    [
+      "inondation du conteneur de sécurité du réacteur en cas de perte de fluide de refroidissement; être inondé; être sous l'eau"
     ]
   ],
   "model": "qwen3:14b"

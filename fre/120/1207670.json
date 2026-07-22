@@ -11,6 +11,11 @@
       "abri (d'une lampe)",
       "chapeau d'un champignon",
       "pileus"
+    ],
+    [
+      "parapluie",
+      "chapeau d'un champignon",
+      "nom japonais d'une variété de champignon"
     ]
   ],
   "model": "qwen3:14b"

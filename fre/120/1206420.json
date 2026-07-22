@@ -8,6 +8,15 @@
       "paroi",
       "séptum",
       "diaphragme"
+    ],
+    [
+      "cloison de séparation"
+    ],
+    [
+      "longueur de la charpente"
+    ],
+    [
+      "mur frontal"
     ]
   ],
   "model": "qwen3:14b"

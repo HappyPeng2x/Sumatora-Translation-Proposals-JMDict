@@ -1,0 +1,16 @@
+{
+  "seq": 1203640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langue étrangère"
+    ],
+    [
+      "étranger",
+      "langue",
+      "étranger",
+      "mot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

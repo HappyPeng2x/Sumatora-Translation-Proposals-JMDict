@@ -1,0 +1,25 @@
+{
+  "seq": 1206100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "angle"
+    ],
+    [
+      "fou (du jeu d'échec japonais le shogi)"
+    ],
+    [
+      "fou (du jeu de shogi)"
+    ],
+    [
+      "tierce (dans l'échelle pentatonique japonaise et chinoise)"
+    ],
+    [
+      "constellation chinoise 'corne' (l'une des 28 mansions)"
+    ],
+    [
+      "jiao (unité monétaire chinoise ; dixième d'un yuan)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

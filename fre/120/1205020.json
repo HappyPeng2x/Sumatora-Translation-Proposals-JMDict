@@ -1,0 +1,11 @@
+{
+  "seq": 1205020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque pièce",
+      "chaque chambre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

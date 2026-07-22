@@ -4,6 +4,13 @@
   "glosses": [
     [
       "fondation d'un temple (sur une colline)"
+    ],
+    [
+      "fondateur d'un temple ou d'une secte",
+      "initiateur"
+    ],
+    [
+      "créateur; fondateur; pionnier; instigateur; auteur; originaire; premier"
     ]
   ],
   "model": "qwen3:14b"

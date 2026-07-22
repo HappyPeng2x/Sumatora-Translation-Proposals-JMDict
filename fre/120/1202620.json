@@ -1,0 +1,14 @@
+{
+  "seq": 1202620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture (d'une station de radiodiffusion, d'un bureau de poste, d'un service public, etc.) ; établissement",
+      "établissement (d'une station de radiodiffusion, d'un bureau de poste, etc.)"
+    ],
+    [
+      "ouvrir (une poste; une station de radiodiffusion); être ouvert (une poste; une station de radiodiffusion); s'ouvrir (une poste; une station de radiodiffusion); fondation (d'une station de radiodiffusion); ouverture (d'un nouveau bureau de poste); création (d'une station de radiodiffusion)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

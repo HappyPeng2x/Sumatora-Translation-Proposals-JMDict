@@ -1,0 +1,17 @@
+{
+  "seq": 1208890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bouleau",
+      "bouleau blanc du Japon"
+    ],
+    [
+      "bouleau",
+      "bouleau à grandes feuilles",
+      "bouleau",
+      "arbre du bouleau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

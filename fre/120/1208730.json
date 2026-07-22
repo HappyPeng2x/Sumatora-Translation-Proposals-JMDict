@@ -11,6 +11,14 @@
     [
       "taxi",
       "décollage"
+    ],
+    [
+      "glisser en vol",
+      "atterrir en vol"
+    ],
+    [
+      "rouler",
+      "faire rouler"
     ]
   ],
   "model": "qwen3:14b"

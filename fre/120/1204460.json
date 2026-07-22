@@ -1,0 +1,12 @@
+{
+  "seq": 1204460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chiffre approximatif",
+      "ordre de grandeur",
+      "nombre rond"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

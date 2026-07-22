@@ -5,6 +5,11 @@
     [
       "être pointu",
       "avoir des angles aigus"
+    ],
+    [
+      "aiguiser",
+      "affiner",
+      "rendre vif"
     ]
   ],
   "model": "qwen3:14b"

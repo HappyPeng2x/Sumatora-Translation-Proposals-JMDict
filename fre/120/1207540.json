@@ -1,0 +1,21 @@
+{
+  "seq": 1207540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pair",
+      "parité",
+      "valeur nominale"
+    ],
+    [
+      "valeur nominale"
+    ],
+    [
+      "cadre (d'une image); apparence extérieure"
+    ],
+    [
+      "apparence; apparence extérieure; apparence trompeuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

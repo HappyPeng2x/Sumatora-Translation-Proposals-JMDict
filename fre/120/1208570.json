@@ -1,0 +1,16 @@
+{
+  "seq": 1208570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glisser",
+      "faire glisser",
+      "laisser glisser"
+    ],
+    [
+      "se tromper dans le discours",
+      "faire une faute de parole"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

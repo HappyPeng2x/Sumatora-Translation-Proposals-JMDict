@@ -1,0 +1,19 @@
+{
+  "seq": 1210340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lintel",
+      "barre transversale",
+      "porte à barre transversale",
+      "porte couverte"
+    ],
+    [
+      "barre transversale d'une porte"
+    ],
+    [
+      "porte avec barre transversale (abréviation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

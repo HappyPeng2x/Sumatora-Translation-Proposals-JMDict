@@ -1,0 +1,16 @@
+{
+  "seq": 1203010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "création",
+      "origine",
+      "commencement du monde"
+    ],
+    [
+      "fondation",
+      "début"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,11 @@
       "cabane en chaume",
       "hutte modeste",
       "ma modeste cabane"
+    ],
+    [
+      "modeste demeure",
+      "hutte modeste",
+      "ma modeste demeure"
     ]
   ],
   "model": "qwen3:14b"

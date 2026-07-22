@@ -1,0 +1,23 @@
+{
+  "seq": 1203250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à l'extérieur",
+      "extérieur"
+    ],
+    [
+      "l'air libre"
+    ],
+    [
+      "un autre lieu, un endroit différent, hors du groupe (famille, entreprise, etc.)"
+    ],
+    [
+      "un autre lieu"
+    ],
+    [
+      "le monde extérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

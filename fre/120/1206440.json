@@ -1,0 +1,32 @@
+{
+  "seq": 1206440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "isolement",
+      "séquestration"
+    ],
+    [
+      "quarantaine",
+      "isolement"
+    ],
+    [
+      "internement"
+    ],
+    [
+      "perte de la capacité de reproduction entre individus (station importante dans l'apparition d'espèces animales et végétales)"
+    ],
+    [
+      "ségrégation"
+    ],
+    [
+      "isoler",
+      "séparer",
+      "mettre en quarantaine"
+    ],
+    [
+      "internir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

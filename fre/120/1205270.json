@@ -1,0 +1,34 @@
+{
+  "seq": 1205270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractère",
+      "nature",
+      "statut"
+    ],
+    [
+      "mode",
+      "manière",
+      "style"
+    ],
+    [
+      "règle",
+      "réglementation",
+      "loi"
+    ],
+    [
+      "cas (grammaire)"
+    ],
+    [
+      "figure (logique, forme de syllogisme)"
+    ],
+    [
+      "figure"
+    ],
+    [
+      "ordonnance spéciale (dans le système Ritsuryō)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

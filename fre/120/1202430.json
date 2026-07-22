@@ -7,6 +7,19 @@
       "se montrer intraitable",
       "prendre l'offensive",
       "se rebeller"
+    ],
+    [
+      "prendre au sérieux",
+      "prendre la situation au sérieux"
+    ],
+    [
+      "changer de posture",
+      "modifier sa position assise"
+    ],
+    [
+      "se retrouver ailleurs",
+      "changer de lieu pour un événement",
+      "se déplacer vers un autre endroit"
     ]
   ],
   "model": "qwen3:14b"

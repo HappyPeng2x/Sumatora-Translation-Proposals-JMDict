@@ -1,0 +1,24 @@
+{
+  "seq": 1206060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réveiller",
+      "se réveiller"
+    ],
+    [
+      "rappeler à quelqu'un la réalité",
+      "faire revenir à la raison"
+    ],
+    [
+      "désaltérer",
+      "reprendre ses esprits"
+    ],
+    [
+      "assombrir",
+      "gâcher",
+      "mettre un frein"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

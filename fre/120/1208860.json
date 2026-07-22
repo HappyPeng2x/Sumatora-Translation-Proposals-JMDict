@@ -1,0 +1,15 @@
+{
+  "seq": 1208860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conserves de thon séché en tranches",
+      "paillettes de thon séché"
+    ],
+    [
+      "paillettes de thon séché",
+      "copeaux de thon séché"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

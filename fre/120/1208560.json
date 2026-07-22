@@ -1,0 +1,29 @@
+{
+  "seq": 1208560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lisse",
+      "poli",
+      "uni"
+    ],
+    [
+      "fluide",
+      "sans heurt",
+      "sans difficulté"
+    ],
+    [
+      "continûment dérivable"
+    ],
+    [
+      "fluidité du mouvement ou de l'avancement"
+    ],
+    [
+      "absence de friction"
+    ],
+    [
+      "lissé; surface sans irrégularité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

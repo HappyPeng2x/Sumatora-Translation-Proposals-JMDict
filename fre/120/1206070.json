@@ -1,0 +1,24 @@
+{
+  "seq": 1206070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se réveiller"
+    ],
+    [
+      "reprendre conscience",
+      "cesser d'être ivre",
+      "revenir à soi"
+    ],
+    [
+      "reprendre ses esprits",
+      "se défaire d'une illusion",
+      "être désillusionné"
+    ],
+    [
+      "se calmer",
+      "devenir apaisé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

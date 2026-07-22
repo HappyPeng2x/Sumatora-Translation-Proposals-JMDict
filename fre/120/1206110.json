@@ -1,0 +1,25 @@
+{
+  "seq": 1206110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coin"
+    ],
+    [
+      "bord, rebord"
+    ],
+    [
+      "bords tranchants",
+      "brusquerie",
+      "dureté",
+      "aigreur"
+    ],
+    [
+      "partie épaisse d'une lame de sabre"
+    ],
+    [
+      "point de vue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

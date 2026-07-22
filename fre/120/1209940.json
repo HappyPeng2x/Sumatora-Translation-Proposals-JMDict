@@ -1,0 +1,14 @@
+{
+  "seq": 1209940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sécheuse",
+      "séchoir"
+    ],
+    [
+      "sécheuse à vêtements"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

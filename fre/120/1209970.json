@@ -1,0 +1,14 @@
+{
+  "seq": 1209970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agent de dessiccation",
+      "séchant"
+    ],
+    [
+      "agent de séchage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

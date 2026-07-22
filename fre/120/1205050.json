@@ -5,6 +5,11 @@
     [
       "chaque lieu",
       "divers endroits"
+    ],
+    [
+      "en divers endroits",
+      "ici et là",
+      "partout"
     ]
   ],
   "model": "qwen3:14b"

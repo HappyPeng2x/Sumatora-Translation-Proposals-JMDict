@@ -1,0 +1,18 @@
+{
+  "seq": 1202920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "briser le sceau",
+      "lettre non cachetée",
+      "ouvrir une lettre"
+    ],
+    [
+      "déballage (d'un produit)"
+    ],
+    [
+      "courrier non scellé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

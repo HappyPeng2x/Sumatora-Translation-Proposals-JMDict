@@ -1,0 +1,25 @@
+{
+  "seq": 1203300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bord",
+      "bout",
+      "extrémité",
+      "périphérie"
+    ],
+    [
+      "échec"
+    ],
+    [
+      "extrémité la plus éloignée d'une rue; périphérie urbaine; banlieue; quartier périphérique"
+    ],
+    [
+      "mauvaise récolte; récolte insuffisante"
+    ],
+    [
+      "déception; déçue; insatisfaction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1208780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conflit",
+      "complication",
+      "problème",
+      "désaccord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

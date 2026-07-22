@@ -1,0 +1,15 @@
+{
+  "seq": 1205820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discord",
+      "antagonisme"
+    ],
+    [
+      "persévérance",
+      "obstination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

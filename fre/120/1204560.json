@@ -1,0 +1,12 @@
+{
+  "seq": 1204560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "probabilité",
+      "chance",
+      "possibilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

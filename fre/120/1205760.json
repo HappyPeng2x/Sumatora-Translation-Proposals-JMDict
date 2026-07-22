@@ -1,0 +1,25 @@
+{
+  "seq": 1205760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "butin",
+      "gibier",
+      "proie"
+    ],
+    [
+      "butin",
+      "trophée",
+      "butin de guerre",
+      "butin de pillage"
+    ],
+    [
+      "gain de jeu",
+      "butin de guerre",
+      "butin de pillage",
+      "prix",
+      "trophée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

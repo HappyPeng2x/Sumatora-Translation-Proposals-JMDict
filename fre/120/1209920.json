@@ -1,0 +1,24 @@
+{
+  "seq": 1209920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aridité",
+      "dessèchement",
+      "sécheresse"
+    ],
+    [
+      "insipidité"
+    ],
+    [
+      "ennui; absence de goût"
+    ],
+    [
+      "sécher"
+    ],
+    [
+      "assécher; devenir sec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

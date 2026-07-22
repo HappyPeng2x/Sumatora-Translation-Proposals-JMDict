@@ -1,0 +1,12 @@
+{
+  "seq": 1202980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture de porte",
+      "action de ouvrir une porte",
+      "porte ouverte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

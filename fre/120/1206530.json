@@ -1,0 +1,31 @@
+{
+  "seq": 1206530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étudier en profondeur, à fond"
+    ],
+    [
+      "recevoir des cours",
+      "suivre des leçons"
+    ],
+    [
+      "étudier",
+      "rechercher",
+      "pratiquer la science"
+    ],
+    [
+      "acquérir des expériences",
+      "gagner en savoir et en sagesse"
+    ],
+    [
+      "imiter",
+      "copier"
+    ],
+    [
+      "s'habituer",
+      "se faire à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

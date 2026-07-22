@@ -1,0 +1,41 @@
+{
+  "seq": 1209240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mâcher",
+      "mastiquer",
+      "mordiller",
+      "mordre",
+      "ronger"
+    ],
+    [
+      "mâcher",
+      "mastiquer",
+      "ronger"
+    ],
+    [
+      "balbutier",
+      "stagner",
+      "tâtonner avec ses mots"
+    ],
+    [
+      "heurter violemment",
+      "se briser sur"
+    ],
+    [
+      "s'engager",
+      "s'adapter",
+      "s'ajuster"
+    ],
+    [
+      "être impliqué dans",
+      "être concerné par"
+    ],
+    [
+      "convaincre",
+      "persuader"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

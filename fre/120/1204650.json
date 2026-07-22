@@ -1,0 +1,17 @@
+{
+  "seq": 1204650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grande route"
+    ],
+    [
+      "chemin (vers le succès)",
+      "voie (vers l'accomplissement)"
+    ],
+    [
+      "sous-district (en Chine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

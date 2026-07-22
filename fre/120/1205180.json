@@ -1,0 +1,13 @@
+{
+  "seq": 1205180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diffusion"
+    ],
+    [
+      "diffusion (de la lumière, d'un gaz)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

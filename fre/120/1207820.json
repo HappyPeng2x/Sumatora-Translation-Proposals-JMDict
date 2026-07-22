@@ -1,0 +1,15 @@
+{
+  "seq": 1207820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trancher (une question)"
+    ],
+    [
+      "diviser exactement",
+      "diviser sans reste",
+      "diviser uniformément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

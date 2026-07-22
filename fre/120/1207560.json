@@ -1,0 +1,37 @@
+{
+  "seq": 1207560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "menton"
+    ],
+    [
+      "barbe (d'une canne à peche)"
+    ],
+    [
+      "(néerlandais) bec; mâchoire; partie de la mâchoire; outil de mastication"
+    ],
+    [
+      "(néerlandais) partie de la canne à peche qui sert à retenir le poisson"
+    ],
+    [
+      "(néerlandais) repas; nourriture; alimentation"
+    ],
+    [
+      "(néerlandais) argent pour la nourriture"
+    ],
+    [
+      "(néerlandais) gain alimentaire; gain de subsistance"
+    ],
+    [
+      "(néerlandais) prix des logements"
+    ],
+    [
+      "(néerlandais) babillage; conversation inutile; bavardage"
+    ],
+    [
+      "(néerlandais) démon de la mer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

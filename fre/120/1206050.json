@@ -1,0 +1,41 @@
+{
+  "seq": 1206050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apprendre",
+      "mémoriser",
+      "se rappeler",
+      "se souvenir",
+      "sentir (douleur)"
+    ],
+    [
+      "apprendre",
+      "acquérir",
+      "maîtriser"
+    ],
+    [
+      "ressentir",
+      "ressentir (une émotion)"
+    ],
+    [
+      "penser",
+      "considérer"
+    ],
+    [
+      "paraître à quelqu'un"
+    ],
+    [
+      "prendre conscience de",
+      "comprendre"
+    ],
+    [
+      "se rappeler",
+      "se souvenir"
+    ],
+    [
+      "ressembler à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

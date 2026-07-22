@@ -1,0 +1,14 @@
+{
+  "seq": 1206600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devoir scolaire",
+      "leçon"
+    ],
+    [
+      "les (emprunt au néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

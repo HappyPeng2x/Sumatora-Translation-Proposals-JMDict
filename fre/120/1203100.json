@@ -1,0 +1,23 @@
+{
+  "seq": 1203100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coquillage",
+      "coquille"
+    ],
+    [
+      "coquille de mollusque; coquille d'animal marin"
+    ],
+    [
+      "cornet de coquille; corne de mollusque"
+    ],
+    [
+      "jeu de coquilles; jeu de perles des aristocrates de l'époque Heian"
+    ],
+    [
+      "vagin; orifice vaginal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

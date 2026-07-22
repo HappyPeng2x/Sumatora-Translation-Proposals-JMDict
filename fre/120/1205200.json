@@ -1,0 +1,25 @@
+{
+  "seq": 1205200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accroissement",
+      "expansion",
+      "extension"
+    ],
+    [
+      "agrandissement",
+      "magnification",
+      "grossissement"
+    ],
+    [
+      "escalade",
+      "extension",
+      "développement"
+    ],
+    [
+      "agrandissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

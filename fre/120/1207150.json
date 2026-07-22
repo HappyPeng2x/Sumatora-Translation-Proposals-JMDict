@@ -1,0 +1,19 @@
+{
+  "seq": 1207150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "camarade d'école",
+      "condisciple"
+    ],
+    [
+      "camarade de classe",
+      "condisciple"
+    ],
+    [
+      "collègue de métier",
+      "collègue professionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

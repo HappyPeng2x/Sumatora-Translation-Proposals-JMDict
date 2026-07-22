@@ -1,0 +1,12 @@
+{
+  "seq": 1209550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élagage",
+      "coupage",
+      "débroussaillement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

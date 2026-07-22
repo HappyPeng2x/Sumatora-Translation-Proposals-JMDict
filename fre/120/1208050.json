@@ -12,6 +12,18 @@
       "se séparer de",
       "partager",
       "épargner"
+    ],
+    [
+      "renoncer (avec réticence)"
+    ],
+    [
+      "omettre (avec réticence)"
+    ],
+    [
+      "donner (avec réticence)"
+    ],
+    [
+      "séparer (dans le contexte de la culture de la soie)"
     ]
   ],
   "model": "qwen3:14b"

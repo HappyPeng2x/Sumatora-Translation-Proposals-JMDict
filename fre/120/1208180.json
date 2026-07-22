@@ -1,0 +1,27 @@
+{
+  "seq": 1208180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclaicissements !",
+      "déclaration"
+    ],
+    [
+      "proclamer",
+      "déclarer publiquement",
+      "annoncer clairement"
+    ],
+    [
+      "crier après quelqu'un",
+      "jurer violemment",
+      "maudire à haute voix"
+    ],
+    [
+      "exposer clairement",
+      "expliquer en détail",
+      "proclamer officiellement",
+      "clarifier une situation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

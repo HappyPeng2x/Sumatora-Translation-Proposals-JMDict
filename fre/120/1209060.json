@@ -5,6 +5,14 @@
     [
       "kamaboko",
       "pâte de poisson cuite et assaisonnée, généralement en forme de demi-cylindre sur une bande de bois, coupée en tranches pour être mise dans des soupes, etc."
+    ],
+    [
+      "anneau semi-cylindrique en or sans pierres",
+      "anneau semi-cylindrique en or sans pierres"
+    ],
+    [
+      "inflorescence du rohrkolben",
+      "inflorescence du rohrkolben"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1209220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chercher à mordre",
+      "grogner"
+    ],
+    [
+      "sauter au cou de quelqu'un; s'emporter contre quelqu'un; réagir violemment à quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

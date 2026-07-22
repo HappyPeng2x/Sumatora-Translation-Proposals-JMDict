@@ -5,6 +5,9 @@
     [
       "œuvre musicale",
       "composition musicale"
+    ],
+    [
+      "musique instrumentale uniquement dans le répertoire du gagaku"
     ]
   ],
   "model": "qwen3:14b"

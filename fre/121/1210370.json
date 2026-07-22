@@ -5,6 +5,9 @@
     [
       "être sensible au froid",
       "personne sensible au froid"
+    ],
+    [
+      "être frileux"
     ]
   ],
   "model": "qwen3:14b"

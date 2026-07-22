@@ -1,0 +1,14 @@
+{
+  "seq": 1210590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intuition",
+      "sixième sens"
+    ],
+    [
+      "examen approfondi et réflexion; enquête sur un crime"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

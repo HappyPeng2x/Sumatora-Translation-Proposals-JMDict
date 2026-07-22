@@ -1,0 +1,13 @@
+{
+  "seq": 1205680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "armes nucléaires"
+    ],
+    [
+      "armes atomiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

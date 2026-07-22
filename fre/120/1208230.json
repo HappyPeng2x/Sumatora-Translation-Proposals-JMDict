@@ -1,0 +1,33 @@
+{
+  "seq": 1208230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attacher",
+      "pendre (quelqu'un)",
+      "suspendre"
+    ],
+    [
+      "se pendre",
+      "se suspendre"
+    ],
+    [
+      "résumer",
+      "rassembler",
+      "consolider"
+    ],
+    [
+      "estimer",
+      "prévoir"
+    ],
+    [
+      "teindre à la tie-dye"
+    ],
+    [
+      "retenir",
+      "arrêter",
+      "freiner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

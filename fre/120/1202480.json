@@ -6,6 +6,12 @@
       "ouvrir grand",
       "laisser ouvert",
       "garder ouvert"
+    ],
+    [
+      "ouvrir avec élan",
+      "jouer cartes sur table",
+      "dévoiler",
+      "montrer ses cartes"
     ]
   ],
   "model": "qwen3:14b"

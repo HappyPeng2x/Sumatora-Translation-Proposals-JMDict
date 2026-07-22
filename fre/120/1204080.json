@@ -6,6 +6,13 @@
       "réputation",
       "respectabilité",
       "honneur"
+    ],
+    [
+      "réputation; opinion des autres",
+      "renommée"
+    ],
+    [
+      "célébrité; notoriété"
     ]
   ],
   "model": "qwen3:14b"

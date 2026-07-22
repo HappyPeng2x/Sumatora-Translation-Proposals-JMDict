@@ -1,0 +1,12 @@
+{
+  "seq": 1206720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arts et sciences",
+      "lettres et sciences",
+      "arts libéraux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

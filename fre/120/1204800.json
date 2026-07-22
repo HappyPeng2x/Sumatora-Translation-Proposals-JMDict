@@ -1,0 +1,19 @@
+{
+  "seq": 1204800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clôture",
+      "haie",
+      "mur"
+    ],
+    [
+      "frontière",
+      "limite"
+    ],
+    [
+      "base d'un grillage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

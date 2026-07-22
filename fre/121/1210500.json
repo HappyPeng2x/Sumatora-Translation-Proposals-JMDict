@@ -1,0 +1,14 @@
+{
+  "seq": 1210500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plein hiver",
+      "saison froide"
+    ],
+    [
+      "période de 30 jours commençant le 15e jour après l'entrée de l'hiver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

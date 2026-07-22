@@ -1,0 +1,13 @@
+{
+  "seq": 1204130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaires étrangères"
+    ],
+    [
+      "service extérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

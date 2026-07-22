@@ -1,0 +1,16 @@
+{
+  "seq": 1204100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mur extérieur"
+    ],
+    [
+      "mur de défense d'une forteresse"
+    ],
+    [
+      "exine; paroi extérieure; façade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

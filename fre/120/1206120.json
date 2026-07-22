@@ -1,0 +1,22 @@
+{
+  "seq": 1206120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corne"
+    ],
+    [
+      "antenne",
+      "appendice",
+      "tentacule"
+    ],
+    [
+      "projeton en forme de corne",
+      "bosse"
+    ],
+    [
+      "blason familial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,27 @@
+{
+  "seq": 1205920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assurance",
+      "guarantie",
+      "maintien"
+    ],
+    [
+      "belayage",
+      "blocage",
+      "sécurisation"
+    ],
+    [
+      "arrestation (d'un suspect)"
+    ],
+    [
+      "secours (à une victime)",
+      "maintenance",
+      "assurance",
+      "sécurité",
+      "garantie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

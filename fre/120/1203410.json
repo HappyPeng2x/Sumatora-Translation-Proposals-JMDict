@@ -1,0 +1,14 @@
+{
+  "seq": 1203410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "biens importés",
+      "monnaie étrangère"
+    ],
+    [
+      "biens étrangers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

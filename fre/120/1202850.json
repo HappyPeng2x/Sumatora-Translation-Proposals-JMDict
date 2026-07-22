@@ -1,0 +1,20 @@
+{
+  "seq": 1202850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture",
+      "ouvrir",
+      "entrer en vigueur",
+      "prendre effet",
+      "devenir actif"
+    ],
+    [
+      "réouverture",
+      "reprise",
+      "recommencement",
+      "reprise de service"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

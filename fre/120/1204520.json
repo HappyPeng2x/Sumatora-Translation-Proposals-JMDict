@@ -1,0 +1,15 @@
+{
+  "seq": 1204520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les grandes lignes"
+    ],
+    [
+      "aperçu",
+      "synthèse",
+      "résumé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

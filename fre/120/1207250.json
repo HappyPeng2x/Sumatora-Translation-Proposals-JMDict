@@ -1,0 +1,16 @@
+{
+  "seq": 1207250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plaisir"
+    ],
+    [
+      "attente",
+      "anticipation",
+      "attente impatiente",
+      "chose à laquelle on s'attend avec impatience"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

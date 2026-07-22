@@ -6,6 +6,10 @@
       "vêtement extérieur",
       "habillement de surface",
       "manteau"
+    ],
+    [
+      "manteau",
+      "veste de costume"
     ]
   ],
   "model": "qwen3:14b"

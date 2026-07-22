@@ -1,0 +1,11 @@
+{
+  "seq": 1203200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour triomphant",
+      "retour victorieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

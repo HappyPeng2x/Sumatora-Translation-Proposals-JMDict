@@ -1,0 +1,16 @@
+{
+  "seq": 1204580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coin de la rue"
+    ],
+    [
+      "rue"
+    ],
+    [
+      "bord de la rue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

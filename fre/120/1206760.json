@@ -1,0 +1,17 @@
+{
+  "seq": 1206760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diplômé de l'université",
+      "licencié"
+    ],
+    [
+      "bachelor's degree"
+    ],
+    [
+      "fonctionnaire chargé de la lecture des classiques confucéens au bureau du prince héritier (selon le système Ritsuryō); (néerlandais) académicien; personne ayant suivi une formation académique ou universitaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

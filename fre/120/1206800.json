@@ -1,0 +1,15 @@
+{
+  "seq": 1206800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "érudit",
+      "savant"
+    ],
+    [
+      "personne instruite",
+      "personne cultivée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

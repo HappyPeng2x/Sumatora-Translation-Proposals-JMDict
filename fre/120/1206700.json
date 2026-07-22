@@ -1,0 +1,16 @@
+{
+  "seq": 1206700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "études",
+      "travail scolaire",
+      "devoirs"
+    ],
+    [
+      "performance scolaire",
+      "travail scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1204980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque pays"
+    ],
+    [
+      "divers pays",
+      "plusieurs nations"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

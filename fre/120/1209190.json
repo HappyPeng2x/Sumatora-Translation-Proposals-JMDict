@@ -5,6 +5,11 @@
     [
       "mâcher",
       "digérer"
+    ],
+    [
+      "comprendre",
+      "digérer",
+      "pleinement comprendre"
     ]
   ],
   "model": "qwen3:14b"

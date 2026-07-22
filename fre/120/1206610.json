@@ -1,0 +1,19 @@
+{
+  "seq": 1206610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "société savante",
+      "société scientifique"
+    ],
+    [
+      "congrès scientifique",
+      "réunion scientifique",
+      "assemblée académique"
+    ],
+    [
+      "mot utilisé pour désigner des associations savantes ou des conférences académiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

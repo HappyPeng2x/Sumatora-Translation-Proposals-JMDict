@@ -1,0 +1,14 @@
+{
+  "seq": 1210450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "village pauvre",
+      "village perdu"
+    ],
+    [
+      "dorp dépeuplé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

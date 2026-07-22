@@ -1,0 +1,13 @@
+{
+  "seq": 1202740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excavation",
+      "dénivellement",
+      "déblai",
+      "travail de terrassement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

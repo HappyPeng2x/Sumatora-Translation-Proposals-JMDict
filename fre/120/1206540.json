@@ -1,0 +1,17 @@
+{
+  "seq": 1206540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diplôme universitaire",
+      "titre universitaire"
+    ],
+    [
+      "titre universitaire obtenu après un programme d'études supérieures",
+      "grade universitaire",
+      "diplôme de doctorat",
+      "diplôme de maîtrise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

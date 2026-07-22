@@ -1,0 +1,31 @@
+{
+  "seq": 1203260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ailleurs",
+      "le reste !"
+    ],
+    [
+      "autre",
+      "différent",
+      "reste",
+      "etc."
+    ],
+    [
+      "au-delà",
+      "hors de"
+    ],
+    [
+      "sauf",
+      "mis à part",
+      "excepté"
+    ],
+    [
+      "en plus de",
+      "ainsi que",
+      "outre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

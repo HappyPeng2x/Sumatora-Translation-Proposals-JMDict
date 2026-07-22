@@ -1,0 +1,30 @@
+{
+  "seq": 1202950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrir",
+      "ouvrir en grand"
+    ],
+    [
+      "ouverture",
+      "accès public",
+      "dénouement"
+    ],
+    [
+      "ouvrir",
+      "dénouer",
+      "dévoiler"
+    ],
+    [
+      "laisser ouvert",
+      "laisser en l'air"
+    ],
+    [
+      "rendre public",
+      "publier",
+      "rendre accessible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

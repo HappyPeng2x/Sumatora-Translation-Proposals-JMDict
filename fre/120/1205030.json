@@ -5,6 +5,16 @@
     [
       "toutes les entreprises",
       "chaque entreprise"
+    ],
+    [
+      "chaque sanctuaire",
+      "chaque temple shintoïste"
+    ],
+    [
+      "chaque entreprise",
+      "chaque organisation",
+      "chaque association",
+      "chaque société"
     ]
   ],
   "model": "qwen3:14b"

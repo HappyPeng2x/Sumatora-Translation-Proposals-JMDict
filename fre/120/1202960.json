@@ -1,0 +1,15 @@
+{
+  "seq": 1202960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lever de rideau"
+    ],
+    [
+      "début",
+      "commencement",
+      "ouverture (d'un événement)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

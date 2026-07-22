@@ -6,6 +6,9 @@
       "travail en dehors du bureau",
       "travail hors des locaux",
       "service en dehors du siège"
+    ],
+    [
+      "travail de porte à porte"
     ]
   ],
   "model": "qwen3:14b"

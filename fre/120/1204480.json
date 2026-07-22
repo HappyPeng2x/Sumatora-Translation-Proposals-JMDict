@@ -1,0 +1,17 @@
+{
+  "seq": 1204480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concept",
+      "idée générale",
+      "notion"
+    ],
+    [
+      "concept",
+      "idée",
+      "notion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1204370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise influence",
+      "poison",
+      "dommage",
+      "mal",
+      "toxine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

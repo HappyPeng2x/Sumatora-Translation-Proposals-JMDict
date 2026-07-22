@@ -1,0 +1,52 @@
+{
+  "seq": 1208020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être écrasé",
+      "être déchiré",
+      "se briser",
+      "se casser",
+      "se cliver",
+      "se fendre",
+      "se fissurer"
+    ],
+    [
+      "séparer",
+      "fendre",
+      "fissurer",
+      "se déchirer"
+    ],
+    [
+      "être divisé",
+      "se diviser",
+      "se scinder",
+      "se séparer"
+    ],
+    [
+      "apparaître",
+      "se révéler",
+      "devenir clair",
+      "être découvert"
+    ],
+    [
+      "se déformer",
+      "être coupé",
+      "être tronqué",
+      "se dégrader"
+    ],
+    [
+      "être divisible",
+      "se diviser",
+      "être partageable",
+      "se partager"
+    ],
+    [
+      "tomber en dessous",
+      "être inférieur au minimum",
+      "ne pas atteindre le seuil",
+      "être en dessous de la limite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

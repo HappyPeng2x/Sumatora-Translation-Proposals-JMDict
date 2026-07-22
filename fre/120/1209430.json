@@ -1,0 +1,17 @@
+{
+  "seq": 1209430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faucher",
+      "moissonner"
+    ],
+    [
+      "éliminer",
+      "enlever",
+      "couper et jeter",
+      "tailler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

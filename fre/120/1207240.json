@@ -1,0 +1,22 @@
+{
+  "seq": 1207240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agréable",
+      "heureux",
+      "joyeux",
+      "agréable",
+      "heureux",
+      "joyeux",
+      "amusant"
+    ],
+    [
+      "satisfait"
+    ],
+    [
+      "riche; aisé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

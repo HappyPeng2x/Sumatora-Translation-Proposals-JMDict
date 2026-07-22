@@ -6,6 +6,9 @@
       "goûter",
       "distinguer",
       "comprendre"
+    ],
+    [
+      "comprendre pleinement quelque chose après l'avoir soigneusement réfléchi"
     ]
   ],
   "model": "qwen3:14b"

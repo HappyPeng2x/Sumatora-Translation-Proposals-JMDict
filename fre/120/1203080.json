@@ -1,0 +1,22 @@
+{
+  "seq": 1203080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classe sociale",
+      "couche sociale",
+      "hiérarchie",
+      "niveau social"
+    ],
+    [
+      "couche",
+      "niveau"
+    ],
+    [
+      "hiérarchie",
+      "rang",
+      "classe sociale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

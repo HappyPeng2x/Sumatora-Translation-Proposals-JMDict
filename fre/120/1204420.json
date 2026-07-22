@@ -1,0 +1,15 @@
+{
+  "seq": 1204420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "généralisation",
+      "résumé"
+    ],
+    [
+      "généralisation",
+      "abstraction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

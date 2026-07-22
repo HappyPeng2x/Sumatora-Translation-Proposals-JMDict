@@ -5,6 +5,9 @@
     [
       "jambes fléchies en dedans",
       "assis avec les talons écartés"
+    ],
+    [
+      "assis avec les orteils dirigés vers l'extérieur"
     ]
   ],
   "model": "qwen3:14b"

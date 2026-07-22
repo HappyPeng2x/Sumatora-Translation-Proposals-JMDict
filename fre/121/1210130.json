@@ -5,6 +5,9 @@
     [
       "peau sèche",
       "peau de cuir séchée"
+    ],
+    [
+      "peau sèche"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,46 @@
+{
+  "seq": 1202460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se civiliser",
+      "se développer",
+      "se moderniser"
+    ],
+    [
+      "s'améliorer",
+      "devenir meilleur"
+    ],
+    [
+      "se développer",
+      "se moderniser",
+      "avancer",
+      "prendre de l'expansion"
+    ],
+    [
+      "être raisonnable",
+      "être compréhensif",
+      "être éclairé"
+    ],
+    [
+      "être ouvert (à la circulation)",
+      "être mis en service"
+    ],
+    [
+      "devenir peuplé",
+      "devenir dense",
+      "devenir animé"
+    ],
+    [
+      "être ouvert au public"
+    ],
+    [
+      "florir"
+    ],
+    [
+      "devenir ensoleillé",
+      "devenir joyeux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

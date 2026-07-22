@@ -1,0 +1,10 @@
+{
+  "seq": 1203840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "information provenant de l'extérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

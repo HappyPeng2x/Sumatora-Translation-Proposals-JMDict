@@ -1,0 +1,17 @@
+{
+  "seq": 1206780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "érudition",
+      "connaissances",
+      "savoir",
+      "science"
+    ],
+    [
+      "savoir-faire scientifique",
+      "vision scientifique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

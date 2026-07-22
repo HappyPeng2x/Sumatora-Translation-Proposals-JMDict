@@ -1,0 +1,12 @@
+{
+  "seq": 1206830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apprenant",
+      "étudiant",
+      "érudit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

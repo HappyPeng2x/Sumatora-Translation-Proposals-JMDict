@@ -1,0 +1,25 @@
+{
+  "seq": 1203310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être déconnecté",
+      "être sorti",
+      "ne plus être en place"
+    ],
+    [
+      "manquer la cible",
+      "se tromper (d'une estimation, d'une supposition)",
+      "ne rien trouver (dans un tirage au sort)"
+    ],
+    [
+      "être retiré",
+      "être exclu"
+    ],
+    [
+      "être contraire à",
+      "aller à l'encontre de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1209320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cabane de paille",
+      "hutte",
+      "ma modeste cabane"
+    ],
+    [
+      "ma modeste maison",
+      "ma pauvre cabane"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

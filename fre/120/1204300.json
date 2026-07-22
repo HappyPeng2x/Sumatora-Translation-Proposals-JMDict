@@ -1,0 +1,15 @@
+{
+  "seq": 1204300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toux"
+    ],
+    [
+      "éternuer",
+      "tousser",
+      "haleter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

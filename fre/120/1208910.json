@@ -1,0 +1,16 @@
+{
+  "seq": 1208910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cartable",
+      "panier",
+      "sac",
+      "sacoche"
+    ],
+    [
+      "sac à dos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

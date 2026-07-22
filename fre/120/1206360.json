@@ -1,0 +1,25 @@
+{
+  "seq": 1206360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être séparé",
+      "exclure",
+      "séparer"
+    ],
+    [
+      "interposer",
+      "mettre entre deux choses"
+    ],
+    [
+      "aliéner",
+      "éloigner affectivement"
+    ],
+    [
+      "détacher",
+      "séparer",
+      "éloigner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

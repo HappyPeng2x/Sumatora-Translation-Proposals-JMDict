@@ -1,0 +1,17 @@
+{
+  "seq": 1205790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affirmation",
+      "confirmation"
+    ],
+    [
+      "engagement",
+      "confirmation",
+      "assurance",
+      "déclaration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

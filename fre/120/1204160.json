@@ -1,0 +1,21 @@
+{
+  "seq": 1204160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apparence extérieure",
+      "de surface",
+      "exterieur"
+    ],
+    [
+      "apparence extérieure",
+      "aspect extérieur"
+    ],
+    [
+      "manière de se comporter",
+      "démarche",
+      "attitude extérieure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1203040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caste",
+      "classe (sociale)",
+      "grade",
+      "rang"
+    ],
+    [
+      "grade",
+      "rang"
+    ],
+    [
+      "classe sociale (dans la théorie marxiste)"
+    ],
+    [
+      "stratum social"
+    ],
+    [
+      "classe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,38 @@
+{
+  "seq": 1206040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expérience",
+      "mémoire"
+    ],
+    [
+      "mémorisation",
+      "souvenir",
+      "mémoire"
+    ],
+    [
+      "faveur",
+      "bonté",
+      "générosité"
+    ],
+    [
+      "confiance en soi",
+      "assurance",
+      "sécurité"
+    ],
+    [
+      "respect",
+      "estime",
+      "honneur",
+      "confiance"
+    ],
+    [
+      "mémoire",
+      "note",
+      "annotation",
+      "acte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

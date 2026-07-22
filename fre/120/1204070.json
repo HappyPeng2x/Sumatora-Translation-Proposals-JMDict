@@ -1,0 +1,14 @@
+{
+  "seq": 1204070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "externe",
+      "l'extérieur"
+    ],
+    [
+      "extérieur (d'un groupe, d'une entreprise, etc.) ; le monde extérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1207270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre plaisir à",
+      "se divertir"
+    ],
+    [
+      "attendre avec impatience"
+    ],
+    [
+      "s'attendre à quelque chose; espérer quelque chose"
+    ],
+    [
+      "se reposer; se ressaisir"
+    ],
+    [
+      "devenir riche; acquérir une prospérité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "ennemi étranger",
       "envahisseur extérieur"
+    ],
+    [
+      "pays étranger hostile"
     ]
   ],
   "model": "qwen3:14b"

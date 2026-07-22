@@ -1,0 +1,12 @@
+{
+  "seq": 1205300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maxime",
+      "aphorisme",
+      "proverbe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

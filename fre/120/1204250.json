@@ -1,0 +1,10 @@
+{
+  "seq": 1204250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "patients externes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

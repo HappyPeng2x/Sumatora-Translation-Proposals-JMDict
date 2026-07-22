@@ -1,0 +1,15 @@
+{
+  "seq": 1205490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exceptionnel"
+    ],
+    [
+      "particulièrement",
+      "surtout",
+      "exceptionnellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

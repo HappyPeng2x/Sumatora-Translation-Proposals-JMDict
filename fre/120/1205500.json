@@ -1,0 +1,10 @@
+{
+  "seq": 1205500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déclinaison des cas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

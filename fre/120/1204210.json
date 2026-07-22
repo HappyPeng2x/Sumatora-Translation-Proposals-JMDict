@@ -9,6 +9,9 @@
     [
       "daimyo extérieur",
       "seigneur féodal non appartenant à la famille Tokugawa"
+    ],
+    [
+      "personne extérieure; non intégré à un groupe ou un cercle social particulier"
     ]
   ],
   "model": "qwen3:14b"

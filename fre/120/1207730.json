@@ -1,0 +1,33 @@
+{
+  "seq": 1207730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brouiller",
+      "déchirer",
+      "découper",
+      "disposer (temps)",
+      "diviser",
+      "fendre",
+      "lacérer",
+      "rompre"
+    ],
+    [
+      "découper",
+      "détacher",
+      "ouvrir (le ventre)"
+    ],
+    [
+      "séparer (violemment)",
+      "divorcer (fig.)"
+    ],
+    [
+      "économiser",
+      "réserver (du temps, de l'argent)"
+    ],
+    [
+      "avoir un tatouage dans le coin de l'œil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

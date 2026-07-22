@@ -1,0 +1,14 @@
+{
+  "seq": 1206430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partition",
+      "diaphragme"
+    ],
+    [
+      "(néerlandais) diafragma; paroi poreuse (en électrolyse)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

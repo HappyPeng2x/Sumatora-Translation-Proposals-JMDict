@@ -1,0 +1,11 @@
+{
+  "seq": 1204000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bain de plein air",
+      "bain extérieur dans un hôtel, un onsen, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

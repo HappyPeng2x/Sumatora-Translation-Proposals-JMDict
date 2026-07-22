@@ -1,0 +1,142 @@
+{
+  "seq": 1207610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accrocher",
+      "asseoir",
+      "construire",
+      "mettre (sa vie) en jeu",
+      "offrir (un prix)",
+      "allumer (interrupteur)",
+      "arroser",
+      "commencer à",
+      "construire",
+      "couvrir",
+      "jouer (disque)",
+      "multiplier",
+      "pendre",
+      "pendre (à qqch.)(?)",
+      "peser",
+      "porter (habit)",
+      "revêtir",
+      "verser (eau)"
+    ],
+    [
+      "s'asseoir"
+    ],
+    [
+      "passer (un coup de fil)",
+      "téléphoner",
+      "accrocher",
+      "construire",
+      "asseoir",
+      "offrir (un prix)",
+      "mettre (sa vie) en jeu"
+    ],
+    [
+      "appeler"
+    ],
+    [
+      "consacrer",
+      "employer",
+      "utiliser"
+    ],
+    [
+      "verser",
+      "répandre",
+      "asperger",
+      "jeter"
+    ],
+    [
+      "mettre en marche",
+      "allumer",
+      "régler",
+      "mettre en route"
+    ],
+    [
+      "nuisir à",
+      "embêter",
+      "charger",
+      "imposer"
+    ],
+    [
+      "multiplier"
+    ],
+    [
+      "verrouiller",
+      "sécuriser"
+    ],
+    [
+      "s'asseoir",
+      "poser",
+      "reposer",
+      "soutenir"
+    ],
+    [
+      "lier",
+      "attacher",
+      "enchaîner"
+    ],
+    [
+      "parier",
+      "risquer",
+      "miser",
+      "jeu"
+    ],
+    [
+      "appliquer",
+      "faire prendre effet"
+    ],
+    [
+      "organiser",
+      "tenir",
+      "montrer"
+    ],
+    [
+      "éprouver",
+      "ressentir"
+    ],
+    [
+      "débattre",
+      "discuter",
+      "exposer"
+    ],
+    [
+      "augmenter",
+      "accroître"
+    ],
+    [
+      "attraper",
+      "capturer",
+      "prendre dans un piège"
+    ],
+    [
+      "placer sur",
+      "mettre en haut de"
+    ],
+    [
+      "ériger",
+      "construire"
+    ],
+    [
+      "appliquer",
+      "souscrire"
+    ],
+    [
+      "jouer sur les mots",
+      "faire un jeu de mots",
+      "pivoter sur un mot"
+    ],
+    [
+      "commencer à",
+      "être en train de"
+    ],
+    [
+      "adresser à",
+      "diriger vers",
+      "faire à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

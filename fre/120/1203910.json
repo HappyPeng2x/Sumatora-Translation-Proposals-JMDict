@@ -1,0 +1,19 @@
+{
+  "seq": 1203910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne téléphonique extérieure; cercle extérieur"
+    ],
+    [
+      "ligne extérieure"
+    ],
+    [
+      "appel téléphonique sortant"
+    ],
+    [
+      "ligne officielle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

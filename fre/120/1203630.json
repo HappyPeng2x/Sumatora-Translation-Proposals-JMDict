@@ -1,0 +1,13 @@
+{
+  "seq": 1203630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "foreign exchange"
+    ],
+    [
+      "commerce monétaire avec l'étranger; commerce de changes; commerce des devises; commerce des monnaies étrangères"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

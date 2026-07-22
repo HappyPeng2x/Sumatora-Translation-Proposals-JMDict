@@ -1,0 +1,15 @@
+{
+  "seq": 1204380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "falaise"
+    ],
+    [
+      "précipice",
+      "bord de la falaise",
+      "limite d'une situation dangereuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

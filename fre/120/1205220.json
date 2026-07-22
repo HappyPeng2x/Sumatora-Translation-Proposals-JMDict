@@ -1,0 +1,17 @@
+{
+  "seq": 1205220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élargissement",
+      "augmentation",
+      "croissance",
+      "expansion",
+      "extension"
+    ],
+    [
+      "évasion; fuite; débandade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

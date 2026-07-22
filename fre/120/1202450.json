@@ -1,0 +1,51 @@
+{
+  "seq": 1202450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrir",
+      "vider",
+      " vider"
+    ],
+    [
+      "ouvrir (un commerce, etc.)"
+    ],
+    [
+      "vider; retirer; libérer de l'espace; faire de la place"
+    ],
+    [
+      "sortir; débarrasser; vider"
+    ],
+    [
+      "être absent (de chez soi); partir (temporairement)"
+    ],
+    [
+      "faire jour; commencer à claire"
+    ],
+    [
+      "prendre fin (d'une période, d'une saison)"
+    ],
+    [
+      "commencer (le Nouvel An)"
+    ],
+    [
+      "laisser libre (un créneau dans un emploi du temps); faire de la place (pour)"
+    ],
+    [
+      "perforer; ouvrir (un trou)"
+    ],
+    [
+      "garder du temps libre; faire de la place (pour)"
+    ],
+    [
+      "s'absenter (de chez soi); être absent (temporairement)"
+    ],
+    [
+      "devenir clair; faire jour; commencer le matin"
+    ],
+    [
+      "commencer; entamer (une nouvelle année; un jour)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

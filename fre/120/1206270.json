@@ -1,0 +1,13 @@
+{
+  "seq": 1206270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coucou (l'oiseau)"
+    ],
+    [
+      "petit coucou"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

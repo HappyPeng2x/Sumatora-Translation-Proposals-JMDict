@@ -1,0 +1,15 @@
+{
+  "seq": 1203970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extérieur",
+      "extérieur à"
+    ],
+    [
+      "physique",
+      "corporel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

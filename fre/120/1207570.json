@@ -27,6 +27,26 @@
       "employé",
       "fonctionnaire",
       "clerc"
+    ],
+    [
+      "poteau",
+      "planté aux quatre coins d'un champ pour le kemari japonais"
+    ],
+    [
+      "structure",
+      "organisation"
+    ],
+    [
+      "aide",
+      "soutien"
+    ],
+    [
+      "personne",
+      "qui soutient"
+    ],
+    [
+      "apparence",
+      "aspect"
     ]
   ],
   "model": "qwen3:14b"

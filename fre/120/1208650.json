@@ -1,0 +1,17 @@
+{
+  "seq": 1208650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glissement",
+      "plané",
+      "vol glissant"
+    ],
+    [
+      "zweefvliegen",
+      "planer",
+      "vol plané"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1206340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'écarter",
+      "s'éloigner de"
+    ],
+    [
+      "s'éloigner de",
+      "se désunir",
+      "se distancer"
+    ],
+    [
+      "s'étranger",
+      "être étranger",
+      "être séparé"
+    ],
+    [
+      "être bloqué",
+      "être enrayé",
+      "être empêché"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

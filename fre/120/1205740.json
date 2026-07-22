@@ -1,0 +1,38 @@
+{
+  "seq": 1205740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balle (de grain)",
+      "coque",
+      "coquille",
+      "cosse"
+    ],
+    [
+      "épiderme",
+      "peau",
+      "enveloppe"
+    ],
+    [
+      "débris",
+      "reste",
+      "déchet"
+    ],
+    [
+      "carapace",
+      "coquille",
+      "enveloppe"
+    ],
+    [
+      "débris de tofu",
+      "résidu de tofu",
+      "déchet de tofu"
+    ],
+    [
+      "enveloppe mortelle",
+      "corps",
+      "cadavre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

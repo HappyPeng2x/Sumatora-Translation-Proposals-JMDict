@@ -1,0 +1,20 @@
+{
+  "seq": 1203020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "-étage (compteur)",
+      "niveaux"
+    ],
+    [
+      "escalier"
+    ],
+    [
+      "étage (en stratigraphie chronologique)"
+    ],
+    [
+      "compteur d'étages dans un immeuble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

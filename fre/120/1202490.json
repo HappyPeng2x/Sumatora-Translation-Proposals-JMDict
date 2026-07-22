@@ -8,6 +8,11 @@
       "laisser ouvert",
       "garder ouvert",
       "jeter ouvert"
+    ],
+    [
+      "déchirer",
+      "ouvrir entièrement",
+      "dénicher"
     ]
   ],
   "model": "qwen3:14b"

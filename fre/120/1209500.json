@@ -1,0 +1,10 @@
+{
+  "seq": 1209500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvriers agricoles qui récoltent les cultures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

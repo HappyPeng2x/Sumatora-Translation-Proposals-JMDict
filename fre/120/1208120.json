@@ -9,6 +9,9 @@
     [
       "restaurant",
       "restaurant (japonais)"
+    ],
+    [
+      "restaurant japonais"
     ]
   ],
   "model": "qwen3:14b"

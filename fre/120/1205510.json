@@ -1,0 +1,40 @@
+{
+  "seq": 1205510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "noyau",
+      "nucleus"
+    ],
+    [
+      "noyau",
+      "centre",
+      "essence"
+    ],
+    [
+      "armes nucléaires"
+    ],
+    [
+      "noyau (d'un atome)"
+    ],
+    [
+      "noyau (d'une cellule)"
+    ],
+    [
+      "noyau de condensation"
+    ],
+    [
+      "noyau (d'une planète)"
+    ],
+    [
+      "anneau (d'une molécule cyclique)"
+    ],
+    [
+      "noyau (d'un opérateur mathématique)"
+    ],
+    [
+      "noyau (d'une perle cultivée)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

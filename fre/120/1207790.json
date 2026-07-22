@@ -1,0 +1,16 @@
+{
+  "seq": 1207790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calculer",
+      "déduire"
+    ],
+    [
+      "déduire",
+      "infréquer",
+      "conclure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

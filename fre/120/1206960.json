@@ -5,6 +5,9 @@
     [
       "moine savant en formation",
       "moine étudiant"
+    ],
+    [
+      "moine en formation"
     ]
   ],
   "model": "qwen3:14b"

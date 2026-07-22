@@ -1,0 +1,15 @@
+{
+  "seq": 1206190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "angle"
+    ],
+    [
+      "point de vue",
+      "perspective",
+      "position"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1205440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combat corps à corps",
+      "rixe"
+    ],
+    [
+      "luttant",
+      "se battre",
+      "se mesurer à",
+      "s'efforcer de résoudre",
+      "se confronter à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

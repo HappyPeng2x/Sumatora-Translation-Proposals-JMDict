@@ -1,0 +1,14 @@
+{
+  "seq": 1207210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "montagne",
+      "pic"
+    ],
+    [
+      "sommet de montagne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

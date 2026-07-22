@@ -4,6 +4,10 @@
   "glosses": [
     [
       "fusion nucléaire"
+    ],
+    [
+      "fusion des noyaux",
+      "fusion des cellules germinales lors de la reproduction sexuée"
     ]
   ],
   "model": "qwen3:14b"

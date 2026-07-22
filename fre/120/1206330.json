@@ -1,0 +1,23 @@
+{
+  "seq": 1206330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distance",
+      "différence",
+      "écart",
+      "désaccord",
+      "abîme",
+      "chasm",
+      "éloignement"
+    ],
+    [
+      "désaffection",
+      "disparité",
+      "discordance",
+      "désaccord",
+      "différence notable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

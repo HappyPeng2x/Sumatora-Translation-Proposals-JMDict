@@ -1,0 +1,42 @@
+{
+  "seq": 1203270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "délier",
+      "enlever",
+      "se délier"
+    ],
+    [
+      "éliminer",
+      "retirer",
+      "exclure",
+      "expulser"
+    ],
+    [
+      "quitter",
+      "s'éloigner de",
+      "sortir de",
+      "s'en aller"
+    ],
+    [
+      "esquiver",
+      "détourner",
+      "éviter",
+      "contourner"
+    ],
+    [
+      "manquer",
+      "rater",
+      "ne pas toucher",
+      "ne pas atteindre"
+    ],
+    [
+      "se tromper",
+      "mal juger",
+      "ne pas viser juste",
+      "faire une erreur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

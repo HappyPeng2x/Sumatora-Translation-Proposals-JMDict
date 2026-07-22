@@ -1,0 +1,12 @@
+{
+  "seq": 1208170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ovation",
+      "applaudissement",
+      "acclamation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

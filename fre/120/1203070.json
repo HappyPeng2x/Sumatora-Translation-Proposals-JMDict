@@ -9,6 +9,9 @@
     [
       "rang",
       "ordre"
+    ],
+    [
+      "ordre d'une fonction différentielle"
     ]
   ],
   "model": "qwen3:14b"

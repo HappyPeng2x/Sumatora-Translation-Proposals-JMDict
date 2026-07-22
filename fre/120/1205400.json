@@ -13,6 +13,29 @@
     [
       "amendements",
       "règlements d'application (du ritsuryō)"
+    ],
+    [
+      "amendements",
+      "règlements d'application"
+    ],
+    [
+      "amendements",
+      "règlements d'application"
+    ],
+    [
+      "classe sociale",
+      "statut",
+      "prestige",
+      "dignité"
+    ],
+    [
+      "règles sociales",
+      "code de conduite",
+      "conventions",
+      "étiquette",
+      "protocole",
+      "formalités",
+      "cérémonie"
     ]
   ],
   "model": "qwen3:14b"

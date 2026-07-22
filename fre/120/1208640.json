@@ -1,0 +1,41 @@
+{
+  "seq": 1208640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déraper",
+      "glisser",
+      "patiner"
+    ],
+    [
+      "glisser",
+      "dérapage",
+      "patiner"
+    ],
+    [
+      "être glissant",
+      "être luisant"
+    ],
+    [
+      "échouer",
+      "ne pas réussir",
+      "ne pas passer"
+    ],
+    [
+      "perdre (un poste)",
+      "être dégradé",
+      "être rétrogradé"
+    ],
+    [
+      "faire un fiasco",
+      "ne pas réussir",
+      "tomber à plat"
+    ],
+    [
+      "glisser",
+      "se déplacer en douceur",
+      "slalomer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1207710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lagon",
+      "lagune"
+    ],
+    [
+      "baie",
+      "crique"
+    ],
+    [
+      "plage marée",
+      "terre marécageuse",
+      "terre de marée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

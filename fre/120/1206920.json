@@ -1,0 +1,11 @@
+{
+  "seq": 1206920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carte d'étudiant",
+      "pièce d'identité étudiant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -10,6 +10,9 @@
       "périphérie",
       "bords",
       "extérieurs"
+    ],
+    [
+      "voie extérieure"
     ]
   ],
   "model": "qwen3:14b"

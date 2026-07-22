@@ -1,0 +1,16 @@
+{
+  "seq": 1203850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étranger"
+    ],
+    [
+      "personne extérieure"
+    ],
+    [
+      "personne considérée comme un ennemi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

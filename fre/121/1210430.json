@@ -1,0 +1,13 @@
+{
+  "seq": 1210430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps froid"
+    ],
+    [
+      "temps froid et sec en hiver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

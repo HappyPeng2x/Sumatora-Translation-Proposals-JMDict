@@ -1,0 +1,14 @@
+{
+  "seq": 1208360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "action",
+      "activité"
+    ],
+    [
+      "film en mouvement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

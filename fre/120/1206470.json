@@ -1,0 +1,27 @@
+{
+  "seq": 1206470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "innovation",
+      "réforme",
+      "rénovation"
+    ],
+    [
+      "innovation",
+      "réforme",
+      "renovation"
+    ],
+    [
+      "réformer",
+      "transformer",
+      "moderniser"
+    ],
+    [
+      "renouveler",
+      "innover",
+      "rénover"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

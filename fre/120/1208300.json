@@ -1,0 +1,15 @@
+{
+  "seq": 1208300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractères d'imprimerie"
+    ],
+    [
+      "mot imprimé",
+      "matériel imprimé",
+      "impression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

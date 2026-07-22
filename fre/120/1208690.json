@@ -1,0 +1,16 @@
+{
+  "seq": 1208690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poulie",
+      "bloc",
+      "palan"
+    ],
+    [
+      "trochlée",
+      "roue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

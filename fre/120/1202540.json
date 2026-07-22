@@ -1,0 +1,15 @@
+{
+  "seq": 1202540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "civilisation",
+      "éclairage intellectuel"
+    ],
+    [
+      "à la mode",
+      "occidental"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

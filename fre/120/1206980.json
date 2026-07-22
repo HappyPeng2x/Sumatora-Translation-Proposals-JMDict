@@ -5,6 +5,13 @@
     [
       "diplômé d'un collège",
       "diplômé d'un lycée"
+    ],
+    [
+      "diplômé",
+      "universitaire",
+      "gradué",
+      "académicien",
+      "universitaire (Belgique)"
     ]
   ],
   "model": "qwen3:14b"

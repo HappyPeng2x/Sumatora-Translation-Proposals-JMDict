@@ -1,0 +1,11 @@
+{
+  "seq": 1204880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaque individu",
+      "chaque personne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

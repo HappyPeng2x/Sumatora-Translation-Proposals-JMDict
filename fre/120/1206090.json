@@ -5,6 +5,10 @@
     [
       "personne éclairée",
       "personne illuminée"
+    ],
+    [
+      "philosophe",
+      "étudiant"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,36 @@
+{
+  "seq": 1205900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affirmation",
+      "confirmation",
+      "vérification"
+    ],
+    [
+      "attester",
+      "certifier",
+      "vérifier",
+      "authentifier"
+    ],
+    [
+      "vérification",
+      "confirmation",
+      "validité",
+      "constatation",
+      "assurance",
+      "définition"
+    ],
+    [
+      "accord",
+      "confirmation",
+      "approbation"
+    ],
+    [
+      "attestation",
+      "certification",
+      "authentification"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1204720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "profondeur",
+      "étendue (des connaissances)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

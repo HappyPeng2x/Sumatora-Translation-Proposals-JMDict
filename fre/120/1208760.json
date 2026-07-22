@@ -1,0 +1,11 @@
+{
+  "seq": 1208760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glissement",
+      "vers le bas (d'une pente, d'une montagne)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

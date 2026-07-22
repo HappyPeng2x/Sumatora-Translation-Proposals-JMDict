@@ -1,0 +1,18 @@
+{
+  "seq": 1206870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sciences"
+    ],
+    [
+      "savoir",
+      "connaissance"
+    ],
+    [
+      "science",
+      "technologie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

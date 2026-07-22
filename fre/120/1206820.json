@@ -1,0 +1,26 @@
+{
+  "seq": 1206820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étude",
+      "études"
+    ],
+    [
+      "apprentissage",
+      "étude",
+      "acquisition de connaissances"
+    ],
+    [
+      "apprentissage",
+      "étude",
+      "acquisition de connaissances"
+    ],
+    [
+      "apprentissage",
+      "étude",
+      "acquisition de connaissances"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

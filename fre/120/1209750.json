@@ -4,6 +4,9 @@
   "glosses": [
     [
       "séchage et durcissement"
+    ],
+    [
+      "séchage par dessiccation"
     ]
   ],
   "model": "qwen3:14b"

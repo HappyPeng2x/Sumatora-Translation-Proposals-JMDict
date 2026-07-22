@@ -1,0 +1,10 @@
+{
+  "seq": 1208440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commentateur de films muets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

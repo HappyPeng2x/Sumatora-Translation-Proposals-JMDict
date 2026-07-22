@@ -1,0 +1,27 @@
+{
+  "seq": 1205480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classement",
+      "notation",
+      "échelle de classification",
+      "catégorisation"
+    ],
+    [
+      "notation",
+      "évaluation"
+    ],
+    [
+      "classification",
+      "répartition en classes",
+      "catégorisation",
+      "rang"
+    ],
+    [
+      "notation",
+      "échelle de notation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

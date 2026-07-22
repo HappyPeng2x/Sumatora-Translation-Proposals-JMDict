@@ -13,6 +13,18 @@
     [
       "voies extérieures",
       "tracés extérieurs"
+    ],
+    [
+      "travail en dehors du bureau"
+    ],
+    [
+      "emprunter la voie extérieure d'une ligne circulaire"
+    ],
+    [
+      "voie extérieure; voie de périphérie"
+    ],
+    [
+      "train circulant sur la voie extérieure"
     ]
   ],
   "model": "qwen3:14b"

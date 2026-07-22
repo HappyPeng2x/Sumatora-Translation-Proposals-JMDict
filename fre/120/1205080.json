@@ -1,0 +1,15 @@
+{
+  "seq": 1205080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chacun(e)"
+    ],
+    [
+      "tout le monde",
+      "tous",
+      "toutes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

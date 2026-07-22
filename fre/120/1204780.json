@@ -1,0 +1,16 @@
+{
+  "seq": 1204780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clôture",
+      "haie",
+      "mur"
+    ],
+    [
+      "barrière",
+      "mur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

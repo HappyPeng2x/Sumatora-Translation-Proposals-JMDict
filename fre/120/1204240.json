@@ -11,6 +11,21 @@
       "soins ambulatoires",
       "clinique ambulatoire",
       "service ambulatoire"
+    ],
+    [
+      "soins ambulatoires"
+    ],
+    [
+      "ambulance"
+    ],
+    [
+      "venir d'un pays étranger"
+    ],
+    [
+      "étranger; exotique; étranger; importé"
+    ],
+    [
+      "ambulatoire; non stationnaire"
     ]
   ],
   "model": "qwen3:14b"

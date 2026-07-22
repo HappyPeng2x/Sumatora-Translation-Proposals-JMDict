@@ -1,0 +1,18 @@
+{
+  "seq": 1210440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "froid et chaleur (contrasté)"
+    ],
+    [
+      "température",
+      "chaleur",
+      "froid"
+    ],
+    [
+      "mi-hiver; mi-été"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

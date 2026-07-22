@@ -1,0 +1,13 @@
+{
+  "seq": 1205130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "divers",
+      "diverses",
+      "tous",
+      "toutes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

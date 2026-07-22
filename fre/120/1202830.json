@@ -1,0 +1,35 @@
+{
+  "seq": 1202830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conquête (d'un terrain vierge)",
+      "défrichement",
+      "exploitation"
+    ],
+    [
+      "pionnérisme",
+      "ouverture de nouveaux marchés",
+      "initiative novatrice",
+      "exploration de nouveaux domaines"
+    ],
+    [
+      "exploiter",
+      "tirer parti de",
+      "profiter de"
+    ],
+    [
+      "défrichement",
+      "débroussaillage",
+      "colonisation",
+      "peuplement",
+      "exploitation de terres"
+    ],
+    [
+      "ouverture de nouveaux marchés",
+      "découverte de nouveaux domaines",
+      "développement de nouveaux secteurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

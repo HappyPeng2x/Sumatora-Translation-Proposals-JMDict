@@ -6,6 +6,10 @@
       "cracker",
       "biscuit dur",
       "hardtack"
+    ],
+    [
+      "pain de campagne sec",
+      "pain de mer sec"
     ]
   ],
   "model": "qwen3:14b"

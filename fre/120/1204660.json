@@ -1,0 +1,14 @@
+{
+  "seq": 1204660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avenue",
+      "rue"
+    ],
+    [
+      "large rue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1205770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "certainement",
+      "vraiment",
+      "sans aucun doute"
+    ],
+    [
+      "sûr",
+      "sûrement"
+    ],
+    [
+      "vraiment",
+      "oui",
+      "d'accord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

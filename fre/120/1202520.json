@@ -1,0 +1,10 @@
+{
+  "seq": 1202520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture d'un parc (parc d'attractions, jardin botanique, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

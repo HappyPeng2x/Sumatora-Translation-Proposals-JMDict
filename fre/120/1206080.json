@@ -1,0 +1,29 @@
+{
+  "seq": 1206080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décision",
+      "préparation",
+      "résignation",
+      "résolution"
+    ],
+    [
+      "détermination",
+      "résolution"
+    ],
+    [
+      "résignation",
+      "acceptation de son destin"
+    ],
+    [
+      "apprentissage"
+    ],
+    [
+      "abandon",
+      "résignation",
+      "renoncement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

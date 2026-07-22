@@ -1,0 +1,26 @@
+{
+  "seq": 1205880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décision",
+      "définition (math)",
+      "stipulation"
+    ],
+    [
+      "décider",
+      "définir",
+      "fixer",
+      "établir",
+      "déterminer",
+      "conclure",
+      "convenir",
+      "accord",
+      "définition",
+      "détermination",
+      "conclusion",
+      "accord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

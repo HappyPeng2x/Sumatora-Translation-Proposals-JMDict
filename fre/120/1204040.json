@@ -1,0 +1,27 @@
+{
+  "seq": 1204040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peau",
+      "enveloppe extérieure",
+      "coquille",
+      "écorce",
+      "pellicule"
+    ],
+    [
+      "peau",
+      "coquille",
+      "enveloppe",
+      "écorce",
+      "cruste"
+    ],
+    [
+      "cortex",
+      "integument",
+      "tunica",
+      "cuticule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

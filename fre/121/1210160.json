@@ -1,0 +1,16 @@
+{
+  "seq": 1210160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épicerie",
+      "commerçant en produits secs"
+    ],
+    [
+      "droguiste",
+      "pharmaciens",
+      "herboristerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

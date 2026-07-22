@@ -5,6 +5,9 @@
     [
       "principe scientifique",
       "principe théorique"
+    ],
+    [
+      "principe scientifique"
     ]
   ],
   "model": "qwen3:14b"

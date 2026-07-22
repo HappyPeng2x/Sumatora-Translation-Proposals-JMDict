@@ -13,6 +13,11 @@
       "jeter l'un sur l'autre",
       "arroser mutuellement",
       "verser l'un sur l'autre"
+    ],
+    [
+      "se mesurer à",
+      "se confronter à",
+      "ne pas se laisser impressionner par"
     ]
   ],
   "model": "qwen3:14b"

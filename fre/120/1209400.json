@@ -1,0 +1,19 @@
+{
+  "seq": 1209400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élaguer",
+      "couper",
+      "tailler",
+      "tondre"
+    ],
+    [
+      "récolter (une récolte) et la stocker ; faire la récolte"
+    ],
+    [
+      "pruner (un manuscrit) ; couper court"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

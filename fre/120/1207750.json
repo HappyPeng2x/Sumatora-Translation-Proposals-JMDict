@@ -1,0 +1,17 @@
+{
+  "seq": 1207750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire un rabais"
+    ],
+    [
+      "mettre en doute",
+      "ne pas prendre au sérieux"
+    ],
+    [
+      "ne pas prendre au pied de la lettre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

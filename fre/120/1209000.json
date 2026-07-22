@@ -1,0 +1,10 @@
+{
+  "seq": 1209000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bourse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

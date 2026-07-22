@@ -1,0 +1,16 @@
+{
+  "seq": 1206590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sujet d'étude"
+    ],
+    [
+      "département (d'une université)"
+    ],
+    [
+      "théorie (en opposition à la pratique); mot utilisé pour désigner des matières d'étude ou des groupes de disciplines"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

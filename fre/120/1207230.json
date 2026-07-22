@@ -1,0 +1,54 @@
+{
+  "seq": 1207230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aise",
+      "confort"
+    ],
+    [
+      "facile",
+      "simple",
+      "aisé",
+      "sans difficulté",
+      "sans effort"
+    ],
+    [
+      "aisé",
+      "dans une situation économique confortable"
+    ],
+    [
+      "poterie raku"
+    ],
+    [
+      "sukha",
+      "bonheur",
+      "bien-être"
+    ],
+    [
+      "confortable",
+      "agréable",
+      "plaisant",
+      "sans contrainte"
+    ],
+    [
+      "facile",
+      "simple",
+      "aisé",
+      "doux",
+      "confortable"
+    ],
+    [
+      "confortable",
+      "aisé",
+      "simple",
+      "facile",
+      "sans effort"
+    ],
+    [
+      "facile",
+      "simple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

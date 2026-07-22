@@ -1,0 +1,15 @@
+{
+  "seq": 1206390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "isolement",
+      "séparation",
+      "éloignement",
+      "reclusion",
+      "inaccessibilité",
+      "séquestration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

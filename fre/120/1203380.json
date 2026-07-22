@@ -1,0 +1,13 @@
+{
+  "seq": 1203380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chirurgie"
+    ],
+    [
+      "département de chirurgie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

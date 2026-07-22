@@ -1,0 +1,11 @@
+{
+  "seq": 1207380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musicien",
+      "membre d'une fanfare"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

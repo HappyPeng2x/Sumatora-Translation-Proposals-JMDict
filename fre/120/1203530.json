@@ -1,0 +1,16 @@
+{
+  "seq": 1203530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "langue étrangère"
+    ],
+    [
+      "université des langues étrangères"
+    ],
+    [
+      "institut des langues étrangères (abréviation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

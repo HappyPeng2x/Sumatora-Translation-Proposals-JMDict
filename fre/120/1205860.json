@@ -1,0 +1,15 @@
+{
+  "seq": 1205860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "preuve concluante",
+      "preuve certaine",
+      "confirmation"
+    ],
+    [
+      "confirmation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

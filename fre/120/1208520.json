@@ -1,0 +1,16 @@
+{
+  "seq": 1208520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être assoiffé",
+      "avoir soif"
+    ],
+    [
+      "désirer ardemment",
+      "avoir un grand besoin de",
+      "être en manque de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

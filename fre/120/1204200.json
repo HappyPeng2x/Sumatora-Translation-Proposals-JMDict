@@ -1,0 +1,19 @@
+{
+  "seq": 1204200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voyage à l'étranger"
+    ],
+    [
+      "étudier à l'étranger"
+    ],
+    [
+      "voyage à l'étranger; excursion"
+    ],
+    [
+      "étude à l'étranger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

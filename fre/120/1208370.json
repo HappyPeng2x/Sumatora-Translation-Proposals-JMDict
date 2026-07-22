@@ -4,6 +4,9 @@
   "glosses": [
     [
       "activiste"
+    ],
+    [
+      "militant"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,13 @@
+{
+  "seq": 1205940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "engagement ferme",
+      "promesse ferme",
+      "engagement définitif",
+      "promesse définitive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

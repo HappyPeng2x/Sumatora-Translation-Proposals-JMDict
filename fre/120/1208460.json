@@ -1,0 +1,20 @@
+{
+  "seq": 1208460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conjugaison",
+      "utilisation"
+    ],
+    [
+      "conjugaison; inflexion grammaticale"
+    ],
+    [
+      "utilisation; application; emploi; valorisation; exploitation"
+    ],
+    [
+      "déclinaison; conjugaison (grammaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

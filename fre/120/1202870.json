@@ -1,0 +1,19 @@
+{
+  "seq": 1202870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture d'un magasin (inauguration)"
+    ],
+    [
+      "ouverture d'un commerce pour la journée"
+    ],
+    [
+      "ouverture d'un magasin (en allemand : Geschäftseröffnung; en néerlandais : opening van een winkel; winkelopening)"
+    ],
+    [
+      "ouverture d'un commerce (en allemand : Geschäftsöffnung; en néerlandais : opening van een nieuwe winkel; oprichting van een zaak)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

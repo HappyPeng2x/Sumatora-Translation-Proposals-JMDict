@@ -20,6 +20,21 @@
     ],
     [
       "espèce de poisson non visé"
+    ],
+    [
+      "démon",
+      "satanas",
+      "agent du mal"
+    ],
+    [
+      "monstre",
+      "villain",
+      "scélérat"
+    ],
+    [
+      "poisson non visé",
+      "poisson parasite",
+      "poisson indésirable"
     ]
   ],
   "model": "qwen3:14b"

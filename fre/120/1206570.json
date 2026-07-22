@@ -1,0 +1,15 @@
+{
+  "seq": 1206570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "école",
+      "établissement d'enseignement",
+      "campus"
+    ],
+    [
+      "établissement scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

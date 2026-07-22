@@ -1,0 +1,68 @@
+{
+  "seq": 1202440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrir",
+      "s'ouvrir"
+    ],
+    [
+      "s'épanouir",
+      "s'ouvrir",
+      "se déployer"
+    ],
+    [
+      "ouvrir (un commerce, par exemple le matin)"
+    ],
+    [
+      "être large (un écart, etc.)",
+      "s'élargir"
+    ],
+    [
+      "organiser (une réunion, une fête, etc.)",
+      "donner",
+      "ouvrir"
+    ],
+    [
+      "fonder (une nation, une dynastie, une secte, etc.)",
+      "ouvrir (un nouveau commerce)",
+      "mettre en place",
+      "établir",
+      "commencer"
+    ],
+    [
+      "ouvrir (des ports, des frontières, etc.)"
+    ],
+    [
+      "ouvrir (un compte)"
+    ],
+    [
+      "ouvrir (un nouveau terrain, un chemin, etc.)",
+      "déblayer",
+      "développer"
+    ],
+    [
+      "ouvrir (un fichier, etc.)"
+    ],
+    [
+      "extraire (une racine)",
+      "réduire (une équation)"
+    ],
+    [
+      "découper (un poisson)"
+    ],
+    [
+      "changer (un kanji en hiragana)"
+    ],
+    [
+      "s'élargir (par exemple une jupe)"
+    ],
+    [
+      "se relâcher (en prenant une mauvaise posture)"
+    ],
+    [
+      "s'étendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1204290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frontière",
+      "limite"
+    ],
+    [
+      "position extérieure"
+    ],
+    [
+      "hors d'un cadre prédéfini"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

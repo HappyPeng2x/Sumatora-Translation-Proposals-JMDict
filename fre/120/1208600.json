@@ -1,0 +1,18 @@
+{
+  "seq": 1208600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glisser dans",
+      "se faufiler dans"
+    ],
+    [
+      "atteindre par glissement"
+    ],
+    [
+      "atteindre à peine à temps",
+      "atteindre de justesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

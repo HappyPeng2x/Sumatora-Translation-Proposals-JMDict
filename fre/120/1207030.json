@@ -1,0 +1,18 @@
+{
+  "seq": 1207030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "niveaux d'étude",
+      "nombre d'année scolaire"
+    ],
+    [
+      "année scolaire",
+      "classe scolaire"
+    ],
+    [
+      "mot de mesure pour les années scolaires; années d'études; classes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

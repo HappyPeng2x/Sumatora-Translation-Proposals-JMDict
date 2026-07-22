@@ -1,0 +1,36 @@
+{
+  "seq": 1208920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "action (bourse)",
+      "souche (d'arbre)",
+      "titre"
+    ],
+    [
+      "butée"
+    ],
+    [
+      "racine (d'une plante); plante avec ses racines ou tige attachées"
+    ],
+    [
+      "souche (bactérie, etc.)"
+    ],
+    [
+      "société (anonyme); entreprise; société à responsabilité limitée; SARL"
+    ],
+    [
+      "bienveillance (d'une entreprise); privilège (lié à un rôle)"
+    ],
+    [
+      "réputation; prestige; popularité"
+    ],
+    [
+      "un point fort"
+    ],
+    [
+      "(allemand) souche de bactéries; de cultures cellulaires; etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}
