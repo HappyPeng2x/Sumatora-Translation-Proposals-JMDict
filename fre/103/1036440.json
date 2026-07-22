@@ -4,6 +4,9 @@
   "glosses": [
     [
       "carnaval"
+    ],
+    [
+      "fête populaire"
     ]
   ],
   "model": "qwen3:14b"

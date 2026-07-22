@@ -4,6 +4,9 @@
   "glosses": [
     [
       "opaque"
+    ],
+    [
+      "peinture de retouche"
     ]
   ],
   "model": "qwen3:14b"

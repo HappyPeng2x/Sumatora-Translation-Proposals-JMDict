@@ -10,6 +10,12 @@
       "dépassement (d'une piste d'atterrissage)",
       "dépasser (une piste d'atterrissage)",
       "débordement"
+    ],
+    [
+      "dépasser (une limite)"
+    ],
+    [
+      "s'arrêter après avoir dépassé la fin de la piste d'atterrissage"
     ]
   ],
   "model": "qwen3:14b"

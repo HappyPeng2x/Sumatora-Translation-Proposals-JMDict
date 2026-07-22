@@ -1,0 +1,23 @@
+{
+  "seq": 1040680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clé",
+      "clef"
+    ],
+    [
+      "clé"
+    ],
+    [
+      "ton"
+    ],
+    [
+      "indice"
+    ],
+    [
+      "essentiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1036600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carbone"
+    ],
+    [
+      "papier de charbon"
+    ],
+    [
+      "matériau en fibre de carbone"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

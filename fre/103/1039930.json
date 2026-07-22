@@ -6,6 +6,10 @@
       "guidepost",
       "repère",
       "signe de direction"
+    ],
+    [
+      "orientation économique",
+      "objectif politique économique"
     ]
   ],
   "model": "qwen3:14b"

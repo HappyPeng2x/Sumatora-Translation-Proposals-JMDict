@@ -12,6 +12,12 @@
       "clôture",
       "enclos",
       "délimitation"
+    ],
+    [
+      "boîtier",
+      "enveloppe",
+      "emballage",
+      "structure de protection"
     ]
   ],
   "model": "qwen3:14b"

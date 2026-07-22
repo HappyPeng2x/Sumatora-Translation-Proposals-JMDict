@@ -5,7 +5,9 @@
     [
       "travailleur étranger"
     ],
-    []
+    [
+      "travailleur saisonnier"
+    ]
   ],
   "model": "qwen3:14b"
 }

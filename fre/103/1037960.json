@@ -1,0 +1,37 @@
+{
+  "seq": 1037960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couverture"
+    ],
+    [
+      "version de couverture",
+      "version d'une chanson"
+    ],
+    [
+      "couverture",
+      "reportage",
+      "recouvrement"
+    ],
+    [
+      "compenser",
+      "rattraper",
+      "parer à"
+    ],
+    [
+      "couverture"
+    ],
+    [
+      "couverture"
+    ],
+    [
+      "assurance",
+      "garantie"
+    ],
+    [
+      "titre de couverture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

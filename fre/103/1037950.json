@@ -7,6 +7,16 @@
     ],
     [
       "canon (du clergé)"
+    ],
+    [
+      "œuvre",
+      "œuvre classique",
+      "œuvre reconnue"
+    ],
+    [
+      "arme",
+      "arme lourde",
+      "canon d'artillerie"
     ]
   ],
   "model": "qwen3:14b"

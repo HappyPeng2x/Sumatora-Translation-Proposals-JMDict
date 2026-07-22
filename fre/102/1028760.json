@@ -5,6 +5,9 @@
     [
       "décollage et atterrissage courts",
       "décollage et atterrissage à courte portée"
+    ],
+    [
+      "avion à courte portée"
     ]
   ],
   "model": "qwen3:14b"

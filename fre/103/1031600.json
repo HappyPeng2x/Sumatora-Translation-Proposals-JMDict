@@ -1,0 +1,24 @@
+{
+  "seq": 1031600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "OK"
+    ],
+    [
+      "acceptable",
+      "d'accord",
+      "pas nécessaire",
+      "inutile"
+    ],
+    [
+      "d'accord",
+      "bon",
+      "valable",
+      "accepté",
+      "approuvé",
+      "entendu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

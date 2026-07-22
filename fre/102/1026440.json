@@ -1,0 +1,11 @@
+{
+  "seq": 1026440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "descente aquatique",
+      "chute d'eau (attraction de parc d'attractions)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1041400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roue continue",
+      "chapeau de roue"
+    ],
+    [
+      "train à roue continue",
+      "Caterpillar (nom de la firme américaine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

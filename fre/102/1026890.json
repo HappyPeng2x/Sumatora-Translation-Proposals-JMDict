@@ -1,0 +1,22 @@
+{
+  "seq": 1026890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "loup"
+    ],
+    [
+      "Kaspar Friedrich Wolff (naturaliste allemand; 1733-1794)"
+    ],
+    [
+      "Hugo Wolf (compositeur autrichien; 1860-1903)"
+    ],
+    [
+      "Friedrich Wolf (écrivain allemand; 1888-1953)"
+    ],
+    [
+      "Christa Wolf (écrivaine allemande; 1929-2011); Thomas Wolfe (écrivain américain; 1900-1938); Virginia Woolf (écrivaine anglaise; 1882-1941)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

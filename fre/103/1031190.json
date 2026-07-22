@@ -7,6 +7,12 @@
     ],
     [
       "entropie (théorie de l'information)"
+    ],
+    [
+      "entropie"
+    ],
+    [
+      "contenu d'information moyen"
     ]
   ],
   "model": "qwen3:14b"

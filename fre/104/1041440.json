@@ -1,0 +1,13 @@
+{
+  "seq": 1041440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guichet automatique",
+      "distributeur automatique de billets",
+      "ATM",
+      "teller automatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

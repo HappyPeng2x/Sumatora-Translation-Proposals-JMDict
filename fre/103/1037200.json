@@ -1,0 +1,15 @@
+{
+  "seq": 1037200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "casual",
+      "informel"
+    ],
+    [
+      "détendu",
+      "décontracté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

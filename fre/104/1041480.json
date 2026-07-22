@@ -1,0 +1,14 @@
+{
+  "seq": 1041480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans espèces",
+      "non monétaire"
+    ],
+    [
+      "sans argent comptant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

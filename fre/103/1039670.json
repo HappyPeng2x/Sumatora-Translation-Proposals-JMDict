@@ -6,6 +6,16 @@
       "ceinture",
       "bande",
       "lanière"
+    ],
+    [
+      "bande de jarretière",
+      "bande de soutien pour les bas"
+    ],
+    [
+      "tranche de bowling"
+    ],
+    [
+      "balle de bowling"
     ]
   ],
   "model": "qwen3:14b"

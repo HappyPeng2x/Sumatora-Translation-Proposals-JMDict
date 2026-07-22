@@ -9,6 +9,9 @@
     [
       "peignoir",
       "robe de chambre"
+    ],
+    [
+      "vêtement de nuit"
     ]
   ],
   "model": "qwen3:14b"

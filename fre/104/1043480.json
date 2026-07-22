@@ -5,6 +5,9 @@
     [
       "quiz mania",
       "n"
+    ],
+    [
+      "fan de l'émission de quiz"
     ]
   ],
   "model": "qwen3:14b"

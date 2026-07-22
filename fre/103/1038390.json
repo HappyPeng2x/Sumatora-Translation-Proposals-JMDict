@@ -1,0 +1,14 @@
+{
+  "seq": 1038390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "photographe"
+    ],
+    [
+      "opérateur de caméra",
+      "cinématographiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

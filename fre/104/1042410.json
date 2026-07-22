@@ -4,6 +4,21 @@
   "glosses": [
     [
       "curie (unité de radioactivité)"
+    ],
+    [
+      "Marie Curie (chimiste et physicienne polonaise; 1867-1934)"
+    ],
+    [
+      "Irène Joliot-Curie (physicienne française; 1897-1956); Ci (unité ancienne d'activité radiologique; remplacée par le becquerel)"
+    ],
+    [
+      "Pierre Curie (physicien français; 1859-1906)"
+    ],
+    [
+      "Marie Curie (chimiste et physicienne polonaise; 1867-1934)"
+    ],
+    [
+      "Irène Joliot-Curie (physicienne française; 1897-1956); Curie (abréviation); Ci (unité ancienne d'activité radiologique; remplacée par le becquerel)"
     ]
   ],
   "model": "qwen3:14b"

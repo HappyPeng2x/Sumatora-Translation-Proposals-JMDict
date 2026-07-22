@@ -6,6 +6,11 @@
       "autorité",
       "instance autorisée",
       "entité reconnue"
+    ],
+    [
+      "autorité légale",
+      "pouvoir légitime",
+      "juridiction"
     ]
   ],
   "model": "qwen3:14b"

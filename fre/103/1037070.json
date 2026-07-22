@@ -1,0 +1,21 @@
+{
+  "seq": 1037070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cocktail"
+    ],
+    [
+      "mélange",
+      "mélange de fruits de mer"
+    ],
+    [
+      "mélange",
+      "mélange",
+      "produit de mélange",
+      "mélangeur",
+      "mélange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

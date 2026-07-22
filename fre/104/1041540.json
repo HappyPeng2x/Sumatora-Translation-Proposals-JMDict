@@ -1,0 +1,15 @@
+{
+  "seq": 1041540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vendeur agressif",
+      "pratique de vente peu scrupuleuse"
+    ],
+    [
+      "vendeur importun",
+      "vendeur ambulant intrusif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

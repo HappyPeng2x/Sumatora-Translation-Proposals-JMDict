@@ -1,0 +1,24 @@
+{
+  "seq": 1041840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "capture",
+      "sauvegarde",
+      "instantané",
+      "d'un écran"
+    ],
+    [
+      "enregistrement",
+      "des mouvements",
+      "des yeux",
+      "d'un sujet"
+    ],
+    [
+      "enregistrement",
+      "des mouvements",
+      "d'un sujet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

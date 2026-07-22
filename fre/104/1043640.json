@@ -1,0 +1,29 @@
+{
+  "seq": 1043640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quartier",
+      "quart",
+      "quartier de ville",
+      "quartier de bateau",
+      "quartier de l'armée",
+      "quartier de l'industrie",
+      "quartier de commerce",
+      "quartier de résidence",
+      "quartier de la ville",
+      "quartier de la cité",
+      "quartier de la communauté",
+      "quartier de la population",
+      "quartier de la ville moderne",
+      "quartier de la ville ancienne",
+      "quartier de la ville historique",
+      "quartier de la ville contemporaine",
+      "quartier de la ville future",
+      "quartier de la ville virtuelle",
+      "quartier de la ville numérique",
+      "quartier de la ville connectée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

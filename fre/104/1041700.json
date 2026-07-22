@@ -4,6 +4,9 @@
   "glosses": [
     [
       "cabaret"
+    ],
+    [
+      "restaurant de cabaret"
     ]
   ],
   "model": "qwen3:14b"

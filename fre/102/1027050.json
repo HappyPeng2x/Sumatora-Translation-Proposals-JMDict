@@ -1,0 +1,12 @@
+{
+  "seq": 1027050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cri de encouragement",
+      "acclamation",
+      "ovation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

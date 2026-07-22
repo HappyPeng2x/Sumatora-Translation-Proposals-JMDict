@@ -11,6 +11,16 @@
       "match de démonstration",
       "match d'exhibition",
       "jeu de démonstration"
+    ],
+    [
+      "exposition",
+      "exposition",
+      "exposition"
+    ],
+    [
+      "match amical",
+      "jeu amical",
+      "affrontement amical"
     ]
   ],
   "model": "qwen3:14b"

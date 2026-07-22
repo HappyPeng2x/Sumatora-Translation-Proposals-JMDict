@@ -1,0 +1,15 @@
+{
+  "seq": 1036800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "cerf-volant"
+    ],
+    [
+      "n",
+      "plane (aéronef)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

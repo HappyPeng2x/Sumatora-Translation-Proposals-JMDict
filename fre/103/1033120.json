@@ -1,0 +1,13 @@
+{
+  "seq": 1033120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemise à col ouvert"
+    ],
+    [
+      "chemise hollandaise à bouton supérieur desserré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

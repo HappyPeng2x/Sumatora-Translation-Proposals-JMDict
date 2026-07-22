@@ -6,6 +6,14 @@
       "guidance",
       "orientation",
       "conseil"
+    ],
+    [
+      "conduite",
+      "direction"
+    ],
+    [
+      "conseil",
+      "orientation"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "crise"
+    ],
+    [
+      "crise économique"
     ]
   ],
   "model": "qwen3:14b"

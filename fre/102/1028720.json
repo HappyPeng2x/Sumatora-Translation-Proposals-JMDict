@@ -9,7 +9,10 @@
     [
       "salon de beauté"
     ],
-    []
+    [
+      "esthétique",
+      "salon de beauté"
+    ]
   ],
   "model": "qwen3:14b"
 }

@@ -9,6 +9,12 @@
     [
       "cuisine d'un navire ou d'un avion",
       "cuisine sur un vaisseau"
+    ],
+    [
+      "navire de guerre à rames"
+    ],
+    [
+      "cuisine d'un navire"
     ]
   ],
   "model": "qwen3:14b"

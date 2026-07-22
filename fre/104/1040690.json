@@ -1,0 +1,11 @@
+{
+  "seq": 1040690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conseiller principal",
+      "conseiller clé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

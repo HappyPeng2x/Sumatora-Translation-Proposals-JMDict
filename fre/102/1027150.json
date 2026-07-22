@@ -9,6 +9,16 @@
     [
       "arme à air comprimé",
       "pistolet à air comprimé"
+    ],
+    [
+      "marteau à air comprimé",
+      "pistolet à air comprimé"
+    ],
+    [
+      "pistolet à air comprimé",
+      "pulvérisateur à air comprimé",
+      "arme à air comprimé",
+      "arme à air comprimé (militaire)"
     ]
   ],
   "model": "qwen3:14b"

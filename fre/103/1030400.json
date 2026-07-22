@@ -1,0 +1,12 @@
+{
+  "seq": 1030400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se dresser",
+      "se raidir",
+      "se lever"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

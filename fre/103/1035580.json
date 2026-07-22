@@ -4,6 +4,11 @@
   "glosses": [
     [
       "Orient"
+    ],
+    [
+      "Orient (est)",
+      "Moyen-Orient",
+      "Asie de l'est"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "olympiade"
+    ],
+    [
+      "jeux olympiques"
     ]
   ],
   "model": "qwen3:14b"

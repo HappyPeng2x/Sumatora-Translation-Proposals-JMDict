@@ -1,0 +1,16 @@
+{
+  "seq": 1036040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déploiement",
+      "alignement",
+      "séquence"
+    ],
+    [
+      "disposition",
+      "accumulation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

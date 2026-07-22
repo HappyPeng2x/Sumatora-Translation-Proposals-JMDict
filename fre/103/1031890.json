@@ -6,6 +6,11 @@
       "ordinaire",
       "moyen",
       "commun"
+    ],
+    [
+      "ordinaire",
+      "commun",
+      "habituel"
     ]
   ],
   "model": "qwen3:14b"

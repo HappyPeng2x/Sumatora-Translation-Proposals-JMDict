@@ -4,6 +4,9 @@
   "glosses": [
     [
       "ethno"
+    ],
+    [
+      "musique du monde"
     ]
   ],
   "model": "qwen3:14b"

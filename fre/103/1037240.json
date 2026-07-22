@@ -1,0 +1,17 @@
+{
+  "seq": 1037240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cascade",
+      "chute d'eau"
+    ],
+    [
+      "disposition successive d'appareils; suite d'opérations"
+    ],
+    [
+      "cascade; chute d'eau en marches"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

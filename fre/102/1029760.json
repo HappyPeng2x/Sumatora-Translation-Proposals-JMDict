@@ -1,0 +1,22 @@
+{
+  "seq": 1029760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tablier"
+    ],
+    [
+      "piste d'avion"
+    ],
+    [
+      "piste de scène"
+    ],
+    [
+      "voortoneel"
+    ],
+    [
+      "plaque de vidange (de lavabo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

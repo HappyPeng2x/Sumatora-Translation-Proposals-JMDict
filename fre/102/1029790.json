@@ -5,7 +5,9 @@
     [
       "épée (escrime)"
     ],
-    []
+    [
+      "épée (arme)"
+    ]
   ],
   "model": "qwen3:14b"
 }

@@ -1,0 +1,13 @@
+{
+  "seq": 1042050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annulation"
+    ],
+    [
+      "annulation (d'une personne, par exemple pour un commentaire inflammatoire) ; culture de l'annulation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

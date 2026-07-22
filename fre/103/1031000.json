@@ -1,0 +1,17 @@
+{
+  "seq": 1031000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrêt du moteur",
+      "détartrage du moteur"
+    ],
+    [
+      "arrêter",
+      "maintenir",
+      "étouffer",
+      "détartrer le moteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

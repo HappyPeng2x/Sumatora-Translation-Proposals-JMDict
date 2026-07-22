@@ -7,6 +7,21 @@
     ],
     [
       "éditeur"
+    ],
+    [
+      "éditeur"
+    ],
+    [
+      "éditeur; rédacteur; auteur"
+    ],
+    [
+      "journaliste de presse; journaliste du quotidien; homme de presse"
+    ],
+    [
+      "éditeur de montage; chef de montage"
+    ],
+    [
+      "éditeur de texte; logiciel de traitement de texte"
     ]
   ],
   "model": "qwen3:14b"

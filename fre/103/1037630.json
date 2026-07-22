@@ -39,6 +39,43 @@
     [
       "découpage",
       "partie d'un jeu de cartes"
+    ],
+    [
+      "coup",
+      "découpage",
+      "image filmique"
+    ],
+    [
+      "omission",
+      "raccourcissement",
+      "barrage",
+      "suppression"
+    ],
+    [
+      "réduction",
+      "diminution",
+      "restriction",
+      "décroissance",
+      "rabotage",
+      "réduction de coûts",
+      "taille",
+      "austérité"
+    ],
+    [
+      "incision",
+      "découpe en bois"
+    ],
+    [
+      "unité de mesure pour les coupes",
+      "unité de mesure pour les morceaux"
+    ],
+    [
+      "unité de mesure pour les coupes filmiques",
+      "unité de mesure pour les images filmiques"
+    ],
+    [
+      "unité de mesure pour de petites illustrations",
+      "unité de mesure pour les éléments d'insertion"
     ]
   ],
   "model": "qwen3:14b"

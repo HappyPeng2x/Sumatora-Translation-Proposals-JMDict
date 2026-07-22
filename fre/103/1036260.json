@@ -1,0 +1,15 @@
+{
+  "seq": 1036260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "curseur",
+      "souris"
+    ],
+    [
+      "curseur",
+      "clignotant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

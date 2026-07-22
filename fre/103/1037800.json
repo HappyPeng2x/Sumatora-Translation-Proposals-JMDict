@@ -5,7 +5,11 @@
     [
       "cathédrale"
     ],
-    []
+    [
+      "cathédrale",
+      "église cathédrale",
+      "grand édifice religieux"
+    ]
   ],
   "model": "qwen3:14b"
 }

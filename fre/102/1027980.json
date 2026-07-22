@@ -10,6 +10,10 @@
     ],
     [
       "extase (drogue) ; MDMA"
+    ],
+    [
+      "extase",
+      "drogue"
     ]
   ],
   "model": "qwen3:14b"

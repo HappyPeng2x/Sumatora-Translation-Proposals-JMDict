@@ -4,6 +4,9 @@
   "glosses": [
     [
       "Electone (marque d'orgues électriques produites par Yamaha)"
+    ],
+    [
+      "orgue électrique"
     ]
   ],
   "model": "qwen3:14b"

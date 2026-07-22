@@ -5,7 +5,9 @@
     [
       "canoe"
     ],
-    []
+    [
+      "canoe (sport)"
+    ]
   ],
   "model": "qwen3:14b"
 }

@@ -10,6 +10,14 @@
     ],
     [
       "roi (pièce d'échecs)"
+    ],
+    [
+      "Martin Luther King",
+      "écrivain; pasteur baptiste et militant des droits civiques américain; 1929-1968"
+    ],
+    [
+      "Stephen King",
+      "écrivain américain; 1947-"
     ]
   ],
   "model": "qwen3:14b"

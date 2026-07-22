@@ -1,0 +1,24 @@
+{
+  "seq": 1037670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bol",
+      "coupe",
+      "tasse"
+    ],
+    [
+      "récompense",
+      "trophée"
+    ],
+    [
+      "mesure",
+      "récipient de mesure"
+    ],
+    [
+      "sac de soutien-gorge",
+      "cône de soutien-gorge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

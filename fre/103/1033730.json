@@ -1,0 +1,13 @@
+{
+  "seq": 1033730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toute la nuit"
+    ],
+    [
+      "ouverture continue pendant la nuit; fonctionnement ininterrompu pendant la nuit (par exemple d'un cinéma ou d'un restaurant)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

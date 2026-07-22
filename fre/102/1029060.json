@@ -1,0 +1,11 @@
+{
+  "seq": 1029060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balle de bord",
+      "en tennis de table"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "guidebook",
       "guide touristique",
       "manuel de voyage"
+    ],
+    [
+      "manuel d'utilisation"
     ]
   ],
   "model": "qwen3:14b"

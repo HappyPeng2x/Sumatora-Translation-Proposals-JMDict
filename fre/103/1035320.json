@@ -5,6 +5,24 @@
     [
       "opérateur",
       "personne qui opère, qui exerce une fonction technique ou professionnelle"
+    ],
+    [
+      "ouvrier",
+      "travailleur",
+      "ouvrier d'atelier"
+    ],
+    [
+      "opérateur téléphonique",
+      "personne qui effectue des opérations de communication téléphonique"
+    ],
+    [
+      "ouvrier",
+      "travailleur",
+      "ouvrier d'atelier"
+    ],
+    [
+      "opérateur",
+      "personne qui exerce une fonction technique ou professionnelle"
     ]
   ],
   "model": "qwen3:14b"

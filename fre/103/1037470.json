@@ -6,6 +6,12 @@
       "catholique",
       "l'Église catholique",
       "le catholicisme"
+    ],
+    [
+      "l'Église catholique"
+    ],
+    [
+      "catholique"
     ]
   ],
   "model": "qwen3:14b"

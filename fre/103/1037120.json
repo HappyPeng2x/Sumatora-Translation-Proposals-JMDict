@@ -10,6 +10,11 @@
       "charogne",
       "cadavre",
       "corps d'un animal mort"
+    ],
+    [
+      "charpente",
+      "ossature",
+      "squelette (d'un bâtiment)"
     ]
   ],
   "model": "qwen3:14b"

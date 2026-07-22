@@ -1,0 +1,20 @@
+{
+  "seq": 1040820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "note de fond",
+      "note principale"
+    ],
+    [
+      "point central",
+      "idée fondamentale",
+      "thème dominant"
+    ],
+    [
+      "discours programmatique",
+      "discours de principe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -11,6 +11,11 @@
       "ouverture",
       "manque de secret",
       "ouverture à l'examen"
+    ],
+    [
+      "transparence",
+      "clarté",
+      "lucidité"
     ]
   ],
   "model": "qwen3:14b"

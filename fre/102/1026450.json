@@ -6,6 +6,9 @@
       "étanche",
       "hermétique",
       "imperméable"
+    ],
+    [
+      "étanche"
     ]
   ],
   "model": "qwen3:14b"

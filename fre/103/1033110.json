@@ -4,6 +4,9 @@
   "glosses": [
     [
       "système ouvert"
+    ],
+    [
+      "système ouvert (comparatif)"
     ]
   ],
   "model": "qwen3:14b"

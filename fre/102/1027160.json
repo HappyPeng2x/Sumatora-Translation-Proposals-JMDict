@@ -4,6 +4,9 @@
   "glosses": [
     [
       "cushion d'air"
+    ],
+    [
+      "amortisseur à air"
     ]
   ],
   "model": "qwen3:14b"

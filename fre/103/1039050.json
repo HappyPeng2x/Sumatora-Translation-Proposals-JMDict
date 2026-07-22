@@ -1,0 +1,22 @@
+{
+  "seq": 1039050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "culte",
+      "secte"
+    ],
+    [
+      "culte"
+    ],
+    [
+      "adoration excessive",
+      "folie"
+    ],
+    [
+      "pièce de monnaie",
+      "monnaie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

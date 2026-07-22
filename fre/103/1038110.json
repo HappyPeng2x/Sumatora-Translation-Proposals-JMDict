@@ -1,0 +1,11 @@
+{
+  "seq": 1038110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "café sur le trottoir",
+      "café en terrasse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

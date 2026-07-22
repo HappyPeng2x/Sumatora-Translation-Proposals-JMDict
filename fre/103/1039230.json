@@ -6,6 +6,14 @@
       "courant",
       "actuel",
       "en vigueur"
+    ],
+    [
+      "courant",
+      "tendance"
+    ],
+    [
+      "courant",
+      "flux"
     ]
   ],
   "model": "qwen3:14b"

@@ -8,6 +8,18 @@
     [
       "faux pas",
       "erreur de jeu"
+    ],
+    [
+      "erreur"
+    ],
+    [
+      "se tromper; faire une erreur; se méprendre"
+    ],
+    [
+      "s'égarer; dévier"
+    ],
+    [
+      "commettre une faute; jouer de manière incorrecte"
     ]
   ],
   "model": "qwen3:14b"

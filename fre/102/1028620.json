@@ -4,6 +4,10 @@
   "glosses": [
     [
       "Eskimo"
+    ],
+    [
+      "chien d'Eskimo",
+      "chien de pool"
     ]
   ],
   "model": "qwen3:14b"

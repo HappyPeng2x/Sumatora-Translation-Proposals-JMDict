@@ -5,6 +5,13 @@
     [
       "clavier",
       "piano"
+    ],
+    [
+      "clavier",
+      "du piano"
+    ],
+    [
+      "panneau de touches"
     ]
   ],
   "model": "qwen3:14b"

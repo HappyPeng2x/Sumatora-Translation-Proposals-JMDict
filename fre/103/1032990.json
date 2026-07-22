@@ -1,0 +1,18 @@
+{
+  "seq": 1032990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture"
+    ],
+    [
+      "ouvert, franc, accessible, généreux",
+      "ouvert, franc, accessible, bienveillant"
+    ],
+    [
+      "ouvert (voiture, col, tournoi, etc.)",
+      "dégagé (voiture, col, tournoi, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

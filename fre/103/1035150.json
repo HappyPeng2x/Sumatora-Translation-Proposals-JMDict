@@ -4,6 +4,10 @@
   "glosses": [
     [
       "opération"
+    ],
+    [
+      "opération",
+      "transaction"
     ]
   ],
   "model": "qwen3:14b"

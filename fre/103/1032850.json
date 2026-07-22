@@ -6,6 +6,9 @@
       "surcharge",
       "excédent",
       "surmenage"
+    ],
+    [
+      "Opération Overlord"
     ]
   ],
   "model": "qwen3:14b"

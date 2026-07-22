@@ -5,6 +5,9 @@
     [
       "orientation",
       "n"
+    ],
+    [
+      "course de orientation"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,19 @@
+{
+  "seq": 1041760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cabinet ; boîtier (d'équipement)"
+    ],
+    [
+      "boîtier (d'une radio ou d'une télévision)"
+    ],
+    [
+      "buffet de verre; vitrine"
+    ],
+    [
+      "cabinet (gouvernemental)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

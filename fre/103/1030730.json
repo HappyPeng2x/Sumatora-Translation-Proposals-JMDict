@@ -17,6 +17,9 @@
     [
       "astéroïde Eros",
       "corps céleste nommé Eros"
+    ],
+    [
+      "satellite d'observation des ressources terrestres EROS"
     ]
   ],
   "model": "qwen3:14b"

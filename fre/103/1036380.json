@@ -1,0 +1,19 @@
+{
+  "seq": 1036380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cartridge"
+    ],
+    [
+      "cartouche (militaire); chargeur"
+    ],
+    [
+      "cartridge (d'encre); bille (d'encre)"
+    ],
+    [
+      "support (pour bande magnétique); boîtier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

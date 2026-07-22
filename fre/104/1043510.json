@@ -5,6 +5,9 @@
     [
       "danse rapide",
       "danse de vitesse"
+    ],
+    [
+      "danse rapide; variante du foxtrot"
     ]
   ],
   "model": "qwen3:14b"

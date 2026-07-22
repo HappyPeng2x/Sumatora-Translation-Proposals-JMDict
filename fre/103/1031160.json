@@ -1,0 +1,15 @@
+{
+  "seq": 1031160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entrée",
+      "accès"
+    ],
+    [
+      "arrivée",
+      "intervention"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

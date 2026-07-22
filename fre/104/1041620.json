@@ -7,6 +7,12 @@
     ],
     [
       "bouchon"
+    ],
+    [
+      "maître",
+      "leader",
+      "capitaine",
+      "commandant"
     ]
   ],
   "model": "qwen3:14b"

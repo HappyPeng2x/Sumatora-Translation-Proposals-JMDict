@@ -1,0 +1,12 @@
+{
+  "seq": 1039110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caramelle en forme de miel",
+      "caramelle mousseuse",
+      "candy mousseux fait avec du sucre brun chauffé et du bicarbonate de soude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "octet"
+    ],
+    [
+      "octette"
     ]
   ],
   "model": "qwen3:14b"

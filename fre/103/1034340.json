@@ -4,6 +4,9 @@
   "glosses": [
     [
       "autruche"
+    ],
+    [
+      "cuir de struthio"
     ]
   ],
   "model": "qwen3:14b"

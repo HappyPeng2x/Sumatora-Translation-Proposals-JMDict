@@ -5,6 +5,14 @@
     [
       "mouvement rapide",
       "dans le baseball, mouvement de glissement"
+    ],
+    [
+      "vitesse rapide",
+      "mode rapide"
+    ],
+    [
+      "mouvement rapide",
+      "mouvement agile"
     ]
   ],
   "model": "qwen3:14b"

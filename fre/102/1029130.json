@@ -5,6 +5,15 @@
     [
       "essentiel",
       "indispensable"
+    ],
+    [
+      "essentiel",
+      "fondamental",
+      "décisif"
+    ],
+    [
+      "éthéré",
+      "volatil"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,25 @@
+{
+  "seq": 1029430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "énergie"
+    ],
+    [
+      "énergie",
+      "force",
+      "puissance",
+      "endurance",
+      "vigueur"
+    ],
+    [
+      "source d'énergie",
+      "ressource énergétique"
+    ],
+    [
+      "énergie alimentaire",
+      "calories"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

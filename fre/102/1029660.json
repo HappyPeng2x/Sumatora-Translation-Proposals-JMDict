@@ -4,6 +4,10 @@
   "glosses": [
     [
       "épilogue"
+    ],
+    [
+      "épilogue musical",
+      "finale musical"
     ]
   ],
   "model": "qwen3:14b"

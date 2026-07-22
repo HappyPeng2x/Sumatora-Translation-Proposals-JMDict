@@ -1,0 +1,22 @@
+{
+  "seq": 1029310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étranger",
+      "étranger",
+      "étranger"
+    ],
+    [
+      "étranger",
+      "étranger",
+      "étranger"
+    ],
+    [
+      "inconnu",
+      "inconnu",
+      "inconnu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

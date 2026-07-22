@@ -1,0 +1,17 @@
+{
+  "seq": 1043290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coupon",
+      "bon"
+    ],
+    [
+      "titre de créance"
+    ],
+    [
+      "bon d'achat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

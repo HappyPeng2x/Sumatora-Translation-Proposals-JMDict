@@ -4,6 +4,10 @@
   "glosses": [
     [
       "quartz"
+    ],
+    [
+      "abréviation",
+      "horloge à quartz"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1032320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "propriétaire",
+      "d'une entreprise"
+    ],
+    [
+      "propriétaire d'un navire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

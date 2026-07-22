@@ -1,0 +1,17 @@
+{
+  "seq": 1041970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "porter",
+      "transport"
+    ],
+    [
+      "porteur de bagages"
+    ],
+    [
+      "nom propre (personne)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

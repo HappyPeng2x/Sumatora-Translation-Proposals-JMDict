@@ -1,0 +1,23 @@
+{
+  "seq": 1042080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "candy",
+      "bonbon",
+      "sucrerie"
+    ],
+    [
+      "Kandy (ville en Sri Lanka)"
+    ],
+    [
+      "sucrerie",
+      "gâterie"
+    ],
+    [
+      "glace à la baguette",
+      "bâton de glace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

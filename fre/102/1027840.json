@@ -1,0 +1,18 @@
+{
+  "seq": 1027840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exposition",
+      "expo"
+    ],
+    [
+      "foire commerciale",
+      "foire sectorielle"
+    ],
+    [
+      "exposition mondiale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

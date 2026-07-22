@@ -6,6 +6,11 @@
       "en avant",
       "vers l'avant",
       "dans la direction de l'avant"
+    ],
+    [
+      "avancer",
+      "progresser",
+      "se rapprocher"
     ]
   ],
   "model": "qwen3:14b"

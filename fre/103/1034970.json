@@ -1,0 +1,16 @@
+{
+  "seq": 1034970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feuille mince de papier (pour envelopper des médicaments en poudre, des bonbons, etc.)"
+    ],
+    [
+      "feuille mince de papier; ouwelcapsule; ijzerkoek"
+    ],
+    [
+      "figure de style; expression énigmatique; énoncé ambigu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

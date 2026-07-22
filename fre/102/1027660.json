@@ -6,6 +6,11 @@
       "étranger",
       "non terrestre",
       "non humain"
+    ],
+    [
+      "étranger",
+      "non terrestre",
+      "créature extraterrestre"
     ]
   ],
   "model": "qwen3:14b"

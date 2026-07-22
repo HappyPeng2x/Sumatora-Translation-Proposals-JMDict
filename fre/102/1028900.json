@@ -10,6 +10,11 @@
       "esprit",
       "verve",
       "sagacité"
+    ],
+    [
+      "esprit",
+      "essence",
+      "programme européen de recherche et de développement en matière d'informatique"
     ]
   ],
   "model": "qwen3:14b"

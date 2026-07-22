@@ -1,0 +1,15 @@
+{
+  "seq": 1043940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "activité de grimper",
+      "escalade"
+    ],
+    [
+      "l'escalade sur les rochers",
+      "l'escalade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

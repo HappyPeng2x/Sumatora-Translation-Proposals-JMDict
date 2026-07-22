@@ -6,6 +6,18 @@
       "objet",
       "chose",
       "élément"
+    ],
+    [
+      "objet; chose; élément"
+    ],
+    [
+      "objet; chose"
+    ],
+    [
+      "objet (philosophie)"
+    ],
+    [
+      "objet; composant d'un système"
     ]
   ],
   "model": "qwen3:14b"

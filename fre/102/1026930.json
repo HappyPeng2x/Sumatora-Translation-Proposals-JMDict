@@ -5,6 +5,9 @@
     [
       "agence",
       "organisation"
+    ],
+    [
+      "agence de publicité"
     ]
   ],
   "model": "qwen3:14b"

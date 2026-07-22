@@ -1,0 +1,10 @@
+{
+  "seq": 1031390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état où les enfants d'une famille ont quitté le domicile parental, laissant les parents seuls dans la maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

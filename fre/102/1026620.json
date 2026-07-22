@@ -1,0 +1,15 @@
+{
+  "seq": 1026620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "bouchon d'essuyage"
+    ],
+    [
+      "n",
+      "essuie-glace (d'une voiture)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

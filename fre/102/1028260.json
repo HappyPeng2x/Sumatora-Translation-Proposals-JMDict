@@ -6,6 +6,11 @@
       "exécutif",
       "dirigeant",
       "cadre supérieur"
+    ],
+    [
+      "gouvernance",
+      "administration",
+      "exécutif"
     ]
   ],
   "model": "qwen3:14b"

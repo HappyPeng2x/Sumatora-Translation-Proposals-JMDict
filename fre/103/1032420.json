@@ -6,6 +6,12 @@
       "ensemble complet",
       "costume de travail",
       "pantalon de travail"
+    ],
+    [
+      "pantalon de jardinage"
+    ],
+    [
+      "costume de bébé"
     ]
   ],
   "model": "qwen3:14b"

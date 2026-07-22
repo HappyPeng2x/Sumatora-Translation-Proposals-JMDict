@@ -1,0 +1,13 @@
+{
+  "seq": 1027750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extrait",
+      "essence",
+      "concentré",
+      "bouillon concentré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

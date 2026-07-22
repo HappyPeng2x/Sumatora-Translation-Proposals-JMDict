@@ -1,0 +1,15 @@
+{
+  "seq": 1026280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "wafer",
+      "galette"
+    ],
+    [
+      "ouwel",
+      "papier à manger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

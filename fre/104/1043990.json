@@ -1,0 +1,15 @@
+{
+  "seq": 1043990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "klaxon",
+      "corne d'auto"
+    ],
+    [
+      "tocsin",
+      "klaxon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1042560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alphabet cyrillique",
+      "lettre cyrillique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,12 @@
       "pivot",
       "pièce centrale",
       "élément essentiel"
+    ],
+    [
+      "base",
+      "idée principale",
+      "fonction clé",
+      "position clé"
     ]
   ],
   "model": "qwen3:14b"

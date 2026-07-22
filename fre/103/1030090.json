@@ -1,0 +1,14 @@
+{
+  "seq": 1030090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "elite",
+      "élite"
+    ],
+    [
+      "police de caractères d'une machine à écrire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

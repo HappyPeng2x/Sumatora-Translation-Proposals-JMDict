@@ -4,6 +4,9 @@
   "glosses": [
     [
       "orchestre"
+    ],
+    [
+      "musique d'orchestre"
     ]
   ],
   "model": "qwen3:14b"

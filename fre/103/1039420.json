@@ -1,0 +1,18 @@
+{
+  "seq": 1039420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cant",
+      "n"
+    ],
+    [
+      "kut",
+      "vulg."
+    ],
+    [
+      "Dutch"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

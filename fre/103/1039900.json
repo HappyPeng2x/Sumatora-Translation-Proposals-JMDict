@@ -1,0 +1,19 @@
+{
+  "seq": 1039900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guide"
+    ],
+    [
+      "guidebook"
+    ],
+    [
+      "anneau de guidage (sur une canne à pêche)"
+    ],
+    [
+      "anneau de guidage (pêche)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

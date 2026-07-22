@@ -4,6 +4,9 @@
   "glosses": [
     [
       "gamma"
+    ],
+    [
+      "unité de mesure égale à un millionième de gramme"
     ]
   ],
   "model": "qwen3:14b"

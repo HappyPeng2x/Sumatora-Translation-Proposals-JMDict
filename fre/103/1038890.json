@@ -7,6 +7,9 @@
       "hypochlorite de calcium",
       "poussière de chaux chlorationnée",
       "poudre blanchissante"
+    ],
+    [
+      "chlorocalcaire"
     ]
   ],
   "model": "qwen3:14b"

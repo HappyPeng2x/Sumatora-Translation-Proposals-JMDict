@@ -1,0 +1,12 @@
+{
+  "seq": 1028630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un chevalier",
+      "un gentilhomme",
+      "un homme de qualité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,30 @@
+{
+  "seq": 1033900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pétrole",
+      "huile moteur",
+      "kérosène"
+    ],
+    [
+      "huile",
+      "lubrifiant",
+      "graisse"
+    ],
+    [
+      "huile (cuisine)"
+    ],
+    [
+      "huile (massage)",
+      "onguent"
+    ],
+    [
+      "kérosène"
+    ],
+    [
+      "huile moteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

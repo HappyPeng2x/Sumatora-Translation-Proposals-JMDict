@@ -5,6 +5,10 @@
     [
       "cuisinier",
       "personne qui cuisine"
+    ],
+    [
+      "nom propre",
+      "Thomas Cook (fondateur de l'ancien bureau de voyage; 1808-1892); Edward Coke (juriste anglais; 1552-1634)"
     ]
   ],
   "model": "qwen3:14b"

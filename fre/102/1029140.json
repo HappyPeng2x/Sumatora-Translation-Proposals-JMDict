@@ -5,6 +5,10 @@
     [
       "essence",
       "extrait"
+    ],
+    [
+      "extrait",
+      "distillat"
     ]
   ],
   "model": "qwen3:14b"

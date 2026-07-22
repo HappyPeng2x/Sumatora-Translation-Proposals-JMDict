@@ -1,0 +1,14 @@
+{
+  "seq": 1036940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contre-attaque",
+      "attaque de contre-attaque"
+    ],
+    [
+      "contre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

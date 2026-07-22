@@ -1,0 +1,16 @@
+{
+  "seq": 1042800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "giga-"
+    ],
+    [
+      "gigabyte; GB"
+    ],
+    [
+      "trafic de données (notamment sur téléphone mobile)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1030250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phénomène climatique caractérisé par une élévation anormale de la température de surface de l'océan Pacifique équatorial, généralement observé tous les quelques années et ayant des effets climatiques importants à l'échelle mondiale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

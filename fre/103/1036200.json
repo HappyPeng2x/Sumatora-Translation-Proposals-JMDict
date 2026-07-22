@@ -5,6 +5,15 @@
     [
       "marchandise",
       "chargement"
+    ],
+    [
+      "aéronef de transport",
+      "avion de transport"
+    ],
+    [
+      "navire de transport",
+      "bateau de transport",
+      "vaisseau de transport"
     ]
   ],
   "model": "qwen3:14b"

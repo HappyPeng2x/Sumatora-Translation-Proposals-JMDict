@@ -1,0 +1,18 @@
+{
+  "seq": 1029050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bordure",
+      "rive",
+      "arête"
+    ],
+    [
+      "fer du patin"
+    ],
+    [
+      "partie inférieure du skilat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

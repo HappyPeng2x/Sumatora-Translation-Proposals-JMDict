@@ -1,0 +1,15 @@
+{
+  "seq": 1042960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abandon",
+      "renoncer",
+      "se rendre"
+    ],
+    [
+      "rien ne peut être fait !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

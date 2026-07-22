@@ -16,6 +16,34 @@
       "à la mode",
       "élégant",
       "stylish"
+    ],
+    [
+      "froid",
+      "doux",
+      "lumineux"
+    ],
+    [
+      "calme",
+      "gelassé"
+    ],
+    [
+      "élégant",
+      "tendance",
+      "séries télévisées (souvent treize épisodes)"
+    ],
+    [
+      "froid"
+    ],
+    [
+      "calme",
+      "doux",
+      "serein"
+    ],
+    [
+      "froid",
+      "détaché",
+      "impersonnel",
+      "glacial"
     ]
   ],
   "model": "qwen3:14b"

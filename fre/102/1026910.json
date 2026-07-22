@@ -4,6 +4,10 @@
   "glosses": [
     [
       "acre"
+    ],
+    [
+      "nom propre",
+      "personne du nom d'Eaker"
     ]
   ],
   "model": "qwen3:14b"

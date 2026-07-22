@@ -1,0 +1,40 @@
+{
+  "seq": 1040060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gaz"
+    ],
+    [
+      "état de la matière",
+      "état gazeux"
+    ],
+    [
+      "gaz toxique",
+      "gaz de poison"
+    ],
+    [
+      "brouillard dense",
+      "brouillard épais"
+    ],
+    [
+      "four à gaz",
+      "plaque de cuisson à gaz"
+    ],
+    [
+      "essence",
+      "carburant",
+      "pétrole"
+    ],
+    [
+      "gaz intestinal",
+      "vent",
+      "fumet"
+    ],
+    [
+      "fil de tissu gaufré",
+      "tissu gaufré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

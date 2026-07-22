@@ -5,6 +5,9 @@
     [
       "boîte à musique",
       "boîte musicale"
+    ],
+    [
+      "clochard"
     ]
   ],
   "model": "qwen3:14b"

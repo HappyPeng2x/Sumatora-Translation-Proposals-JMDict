@@ -1,0 +1,11 @@
+{
+  "seq": 1038000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson couverte",
+      "chanson reprise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

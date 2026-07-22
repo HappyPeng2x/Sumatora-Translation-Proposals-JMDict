@@ -1,0 +1,14 @@
+{
+  "seq": 1032610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "overhand",
+      "overarm"
+    ],
+    [
+      "lancer en l'air (dans le sens du lancer de javelot)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

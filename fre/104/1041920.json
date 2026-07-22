@@ -1,0 +1,25 @@
+{
+  "seq": 1041920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractère",
+      "personnalité",
+      "disposition"
+    ],
+    [
+      "personnage",
+      "personnage fictif"
+    ],
+    [
+      "caractère",
+      "personnalité"
+    ],
+    [
+      "caractère",
+      "lettre",
+      "signe typographique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1042650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "kilomètre"
+    ],
+    [
+      "kilomètre",
+      "km"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

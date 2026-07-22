@@ -1,0 +1,21 @@
+{
+  "seq": 1037620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup de ciseaux",
+      "découpage",
+      "coup de lame"
+    ],
+    [
+      "couper la balle"
+    ],
+    [
+      "frapper un appui dans la glace ou la neige"
+    ],
+    [
+      "couper; découpage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

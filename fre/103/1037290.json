@@ -1,0 +1,11 @@
+{
+  "seq": 1037290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui personnalise quelque chose",
+      "personne qui adapte quelque chose à ses besoins spécifiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,11 @@
       "chevauchement",
       "superposition",
       "recouvrement"
+    ],
+    [
+      "chevauchement",
+      "superposition",
+      "recouvrement dans un contexte sportif (football)"
     ]
   ],
   "model": "qwen3:14b"

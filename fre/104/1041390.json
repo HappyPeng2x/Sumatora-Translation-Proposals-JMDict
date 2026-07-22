@@ -4,6 +4,9 @@
   "glosses": [
     [
       "casserole"
+    ],
+    [
+      "plat cuisiné en une seule pièce"
     ]
   ],
   "model": "qwen3:14b"

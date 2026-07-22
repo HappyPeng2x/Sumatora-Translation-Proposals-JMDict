@@ -1,0 +1,16 @@
+{
+  "seq": 1034610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "offre",
+      "proposition",
+      "offrir"
+    ],
+    [
+      "faire une proposition",
+      "suggérer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

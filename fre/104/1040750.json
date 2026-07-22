@@ -1,0 +1,12 @@
+{
+  "seq": 1040750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "station de base",
+      "station centrale",
+      "station principale d'une chaîne de diffusion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1040570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit assourdissant"
+    ],
+    [
+      "palpitant",
+      "douloureux",
+      "qui pulse",
+      "qui martèle"
+    ],
+    [
+      "intensément",
+      "avec force",
+      "à fond",
+      "activement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

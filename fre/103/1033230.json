@@ -1,0 +1,17 @@
+{
+  "seq": 1033230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison ouverte",
+      "démonstration de maison"
+    ],
+    [
+      "jour de la porte ouverte"
+    ],
+    [
+      "maison modèle (par exemple pour des maisons préfabriquées)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

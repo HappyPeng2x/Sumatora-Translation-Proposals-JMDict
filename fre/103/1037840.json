@@ -1,0 +1,16 @@
+{
+  "seq": 1037840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "catholique"
+    ],
+    [
+      "Église catholique"
+    ],
+    [
+      "Catholique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1035260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opération"
+    ],
+    [
+      "action"
+    ],
+    [
+      "opération; manœuvre; action militaire"
+    ],
+    [
+      "manœuvre; conduite; mise en mouvement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

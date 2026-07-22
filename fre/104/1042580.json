@@ -5,6 +5,11 @@
     [
       "n",
       "technique de couture consistant à coudre des morceaux de tissu ensemble pour former un motif décoratif ou une couverture"
+    ],
+    [
+      "technique de couture consistant à coudre des morceaux de tissu ensemble pour former un motif décoratif ou une couverture",
+      "couverture en tissu cousu en motifs décoratifs",
+      "tissu cousu en motifs décoratifs"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,15 @@
+{
+  "seq": 1026920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "âge",
+      "période",
+      "ère"
+    ],
+    [
+      "période"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

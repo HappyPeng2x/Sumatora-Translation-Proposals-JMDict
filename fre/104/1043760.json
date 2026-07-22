@@ -1,0 +1,13 @@
+{
+  "seq": 1043760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "biscuit"
+    ],
+    [
+      "cookie; cookie de navigateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

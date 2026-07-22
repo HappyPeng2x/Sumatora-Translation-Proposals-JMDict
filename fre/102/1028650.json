@@ -1,0 +1,15 @@
+{
+  "seq": 1028650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "escorte",
+      "accompagnateur"
+    ],
+    [
+      "accompagnateur",
+      "compagnon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

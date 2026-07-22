@@ -1,0 +1,18 @@
+{
+  "seq": 1039940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne directrice",
+      "orientation",
+      "règle de conduite"
+    ],
+    [
+      "directives concernant la coopération défensive entre le Japon et les États-Unis"
+    ],
+    [
+      "ligne d'assistance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

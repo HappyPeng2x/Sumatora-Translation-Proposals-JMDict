@@ -1,0 +1,16 @@
+{
+  "seq": 1028020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extension"
+    ],
+    [
+      "abréviation"
+    ],
+    [
+      "extension capillaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

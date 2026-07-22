@@ -1,0 +1,10 @@
+{
+  "seq": 1026790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diacritique utilisé dans plusieurs langues, notamment l'allemand, pour modifier la prononciation d'une voyelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

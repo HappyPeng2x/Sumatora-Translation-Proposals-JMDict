@@ -1,0 +1,14 @@
+{
+  "seq": 1029070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'effet de décalage latéral d'une lame de patin de glace",
+      "le déplacement latéral d'une lame de patin de glace"
+    ],
+    [
+      "l'arête d'un métal; la partie tranchante d'une lame métallique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

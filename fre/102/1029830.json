@@ -6,6 +6,11 @@
       "époque",
       "période",
       "ère"
+    ],
+    [
+      "moment tournant",
+      "milestone",
+      "époque"
     ]
   ],
   "model": "qwen3:14b"

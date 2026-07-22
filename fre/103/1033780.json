@@ -9,6 +9,11 @@
     [
       "carte la plus forte",
       "carte sauvage"
+    ],
+    [
+      "tous-puissant",
+      "infaillible",
+      "incompétent (en contexte ironique)"
     ]
   ],
   "model": "qwen3:14b"

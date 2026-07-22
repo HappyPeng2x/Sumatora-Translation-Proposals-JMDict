@@ -6,6 +6,9 @@
       "mot-clé",
       "terme-clé",
       "expression-clé"
+    ],
+    [
+      "mot d'ordre; devise publicitaire"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,10 @@
   "glosses": [
     [
       "empire"
+    ],
+    [
+      "domination impériale",
+      "règne impérial"
     ]
   ],
   "model": "qwen3:14b"

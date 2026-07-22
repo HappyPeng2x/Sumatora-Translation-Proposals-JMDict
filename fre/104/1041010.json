@@ -1,0 +1,19 @@
+{
+  "seq": 1041010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "kiosque"
+    ],
+    [
+      "petit kiosque de vente"
+    ],
+    [
+      "kiosque de gare"
+    ],
+    [
+      "kiosque de vente de journaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

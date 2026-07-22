@@ -5,6 +5,9 @@
     [
       "carte-cadeau",
       "coupon-cadeau"
+    ],
+    [
+      "carte accompagnant un cadeau"
     ]
   ],
   "model": "qwen3:14b"

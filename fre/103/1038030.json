@@ -1,0 +1,14 @@
+{
+  "seq": 1038030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couverture",
+      "portée"
+    ],
+    [
+      "reportage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

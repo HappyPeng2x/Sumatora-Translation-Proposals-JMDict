@@ -4,6 +4,11 @@
   "glosses": [
     [
       "monnaie"
+    ],
+    [
+      "répandue",
+      "usage",
+      "fréquence d'utilisation (d'un terme; d'une langue; etc.)"
     ]
   ],
   "model": "qwen3:14b"

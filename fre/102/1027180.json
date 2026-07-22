@@ -1,0 +1,17 @@
+{
+  "seq": 1027180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "air conditionné",
+      "climatiseur"
+    ],
+    [
+      "appareil de climatisation",
+      "système de climatisation",
+      "régulateur de climat",
+      "ventilateur d'air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

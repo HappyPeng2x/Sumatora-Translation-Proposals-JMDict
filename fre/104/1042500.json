@@ -1,0 +1,14 @@
+{
+  "seq": 1042500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Christianisme",
+      "chrétien"
+    ],
+    [
+      "chrétien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

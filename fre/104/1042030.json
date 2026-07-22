@@ -5,6 +5,10 @@
     [
       "chanson festive",
       "chanson de Noël"
+    ],
+    [
+      "nom propre",
+      "personne portant le nom de Carroll en français"
     ]
   ],
   "model": "qwen3:14b"

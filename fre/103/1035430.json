@@ -1,0 +1,15 @@
+{
+  "seq": 1035430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrage collectif",
+      "recueil de textes divers"
+    ],
+    [
+      "film épisodique",
+      "film omnibus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

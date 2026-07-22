@@ -1,0 +1,13 @@
+{
+  "seq": 1029100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "essai"
+    ],
+    [
+      "œuvre en trois volumes (I et II en 1580; III en 1588) de Michel de Montaigne (1533-1592)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

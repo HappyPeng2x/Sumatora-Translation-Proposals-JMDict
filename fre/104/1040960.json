@@ -1,0 +1,19 @@
+{
+  "seq": 1040960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie la plus basse d'un bateau, qui le maintient à flot"
+    ],
+    [
+      "(Dutch) kir"
+    ],
+    [
+      "(Dutch) kheer"
+    ],
+    [
+      "(Dutch) Kiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

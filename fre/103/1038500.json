@@ -1,0 +1,28 @@
+{
+  "seq": 1038500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couleur"
+    ],
+    [
+      "couleur, caractère, traits, ambiance"
+    ],
+    [
+      "teinture (des cheveux); colorer"
+    ],
+    [
+      "caractéristiques propres; ambiance"
+    ],
+    [
+      "col de chemise"
+    ],
+    [
+      "arum blanc"
+    ],
+    [
+      "Paul (chimiste suisse; 1889-1971)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

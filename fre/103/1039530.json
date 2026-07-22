@@ -9,6 +9,9 @@
     [
       "groupe d'amis",
       "compagnie (d'amis)"
+    ],
+    [
+      "union"
     ]
   ],
   "model": "qwen3:14b"

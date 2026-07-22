@@ -4,6 +4,10 @@
   "glosses": [
     [
       "SOS (signal de détresse)"
+    ],
+    [
+      "appel de détresse",
+      "message d'urgence"
     ]
   ],
   "model": "qwen3:14b"

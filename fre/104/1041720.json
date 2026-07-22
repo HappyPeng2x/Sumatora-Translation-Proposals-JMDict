@@ -5,6 +5,11 @@
     [
       "capacité",
       "capacité (d'un contenant)"
+    ],
+    [
+      "capacité",
+      "contenu",
+      "espace disponible"
     ]
   ],
   "model": "qwen3:14b"
