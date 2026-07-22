@@ -6,6 +6,9 @@
       "céréales d'avoine",
       "avoine en poudre",
       "céréales de blé d'avoine"
+    ],
+    [
+      "céréales d'avoine; bouillie d'avoine"
     ]
   ],
   "model": "qwen3:14b"

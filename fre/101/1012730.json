@@ -1,0 +1,24 @@
+{
+  "seq": 1012730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avant longtemps"
+    ],
+    [
+      "presque",
+      "à peu près"
+    ],
+    [
+      "enfin",
+      "finalement",
+      "en fin de compte"
+    ],
+    [
+      "finalement",
+      "en fin de compte",
+      "dans le fond"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

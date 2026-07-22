@@ -5,6 +5,9 @@
     [
       "isme",
       "suffixe indiquant une doctrine ou un système"
+    ],
+    [
+      "isme"
     ]
   ],
   "model": "qwen3:14b"

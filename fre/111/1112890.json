@@ -4,6 +4,9 @@
   "glosses": [
     [
       "disque souple"
+    ],
+    [
+      "disquette"
     ]
   ],
   "model": "qwen3:14b"

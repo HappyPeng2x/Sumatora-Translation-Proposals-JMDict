@@ -5,8 +5,14 @@
     [
       "son d'un claquement de mains"
     ],
-    [],
-    []
+    [
+      "en claquant des mains",
+      "en battant des mains"
+    ],
+    [
+      "sans cesse",
+      "constamment"
+    ]
   ],
   "model": "qwen3:14b"
 }

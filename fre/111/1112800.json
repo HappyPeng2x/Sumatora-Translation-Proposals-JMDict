@@ -6,6 +6,14 @@
       "manager de salle",
       "chef de salle",
       "responsable de salle"
+    ],
+    [
+      "chef de réception",
+      "responsable de réception"
+    ],
+    [
+      "directeur de réception",
+      "chef de réception"
     ]
   ],
   "model": "qwen3:14b"

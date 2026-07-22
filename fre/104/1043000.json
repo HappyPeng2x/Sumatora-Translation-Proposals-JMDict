@@ -7,6 +7,11 @@
       "astuce",
       "ruse",
       "truc"
+    ],
+    [
+      "astuce",
+      "ruse",
+      "manœuvre"
     ]
   ],
   "model": "qwen3:14b"

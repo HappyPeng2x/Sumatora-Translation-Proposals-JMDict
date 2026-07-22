@@ -4,6 +4,14 @@
   "glosses": [
     [
       "kip (monnaie du Laos)"
+    ],
+    [
+      "tenue",
+      "attitude",
+      "comportement"
+    ],
+    [
+      "système de nœuds utilisé par les Incas pour enregistrer des informations"
     ]
   ],
   "model": "qwen3:14b"

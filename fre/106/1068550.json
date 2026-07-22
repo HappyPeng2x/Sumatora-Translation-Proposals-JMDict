@@ -1,0 +1,18 @@
+{
+  "seq": 1068550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écran"
+    ],
+    [
+      "étoffe blanche utilisée pour projeter des films",
+      "tissu blanc utilisé pour la projection de films"
+    ],
+    [
+      "monde du cinéma",
+      "cinéma; univers du cinéma"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

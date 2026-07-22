@@ -7,6 +7,9 @@
       "camarade",
       "compagnon",
       "collègue"
+    ],
+    [
+      "ami"
     ]
   ],
   "model": "qwen3:14b"

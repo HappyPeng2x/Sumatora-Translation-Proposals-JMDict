@@ -1,0 +1,15 @@
+{
+  "seq": 1070230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "steward",
+      "personne chargée de la gestion ou du service dans un navire, un avion ou un train"
+    ],
+    [
+      "steward",
+      "membre d'équipage d'un navire chargé des tâches domestiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,14 @@
       "combinaison",
       "mélange",
       "assemblage"
+    ],
+    [
+      "collaboration",
+      "entente"
+    ],
+    [
+      "ensemble",
+      "pantalon de chemise"
     ]
   ],
   "model": "qwen3:14b"

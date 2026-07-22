@@ -1,0 +1,21 @@
+{
+  "seq": 1086530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mécanisme",
+      "dispositif",
+      "élément déclencheur"
+    ],
+    [
+      "cause",
+      "élément déclenchant"
+    ],
+    [
+      "cause",
+      "motif",
+      "raison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1113100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cabine",
+      "boîte",
+      "kiosque"
+    ],
+    [
+      "cellule",
+      "cabine téléphonique",
+      "cabine d'essai",
+      "cabine acoustique"
+    ],
+    [
+      "William Booth",
+      "fondateur de l'Armée du Salut"
+    ],
+    [
+      "Charles Booth",
+      "industriel et sociologue britannique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,12 @@
     [
       "navire de course rapide",
       "navire de course"
+    ],
+    [
+      "machine à couper les cheveux"
+    ],
+    [
+      "navire à voiles rapide"
     ]
   ],
   "model": "qwen3:14b"

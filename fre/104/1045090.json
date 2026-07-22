@@ -1,0 +1,21 @@
+{
+  "seq": 1045090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "équipe",
+      "membres d'une équipe",
+      "groupe de personnes travaillant ensemble"
+    ],
+    [
+      "groupe de personnes costumées chantant et dansant; surtout pendant le carnaval"
+    ],
+    [
+      "nom propre; origine hollandaise"
+    ],
+    [
+      "nom propre; origine hollandaise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

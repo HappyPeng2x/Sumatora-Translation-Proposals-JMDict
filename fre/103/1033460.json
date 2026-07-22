@@ -6,6 +6,16 @@
       "tous-en-un",
       "tous-ensemble",
       "tous-à-la-fois"
+    ],
+    [
+      "ensemble corporel",
+      "corps unique"
+    ],
+    [
+      "ordinateur tout-en-un",
+      "ordinateur tout en un",
+      "PC tout-en-un",
+      "PC AiO"
     ]
   ],
   "model": "qwen3:14b"

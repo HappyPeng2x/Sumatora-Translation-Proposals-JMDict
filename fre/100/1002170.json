@@ -1,0 +1,18 @@
+{
+  "seq": 1002170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fille"
+    ],
+    [
+      "jeune fille"
+    ],
+    [
+      "mademoiselle",
+      "madame",
+      "demoiselle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

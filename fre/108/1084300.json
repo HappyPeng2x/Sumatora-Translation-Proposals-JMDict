@@ -1,0 +1,13 @@
+{
+  "seq": 1084300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin de spécialités alimentaires"
+    ],
+    [
+      "magasin de produits de luxe alimentaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

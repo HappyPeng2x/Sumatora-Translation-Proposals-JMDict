@@ -1,0 +1,19 @@
+{
+  "seq": 1021640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "veille (surtout la veille de Noël) ; la nuit précédant un événement"
+    ],
+    [
+      "(allemand) (surtout) Sainte-Vêpres; Ève"
+    ],
+    [
+      "(néerlandais) Ève"
+    ],
+    [
+      "(néerlandais) Ib"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1005200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soudainement"
+    ],
+    [
+      "brusquement",
+      "soudainement"
+    ],
+    [
+      "simple",
+      "simplet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

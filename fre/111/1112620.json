@@ -10,6 +10,9 @@
     [
       "période",
       "quantité économique"
+    ],
+    [
+      "mouvement"
     ]
   ],
   "model": "qwen3:14b"

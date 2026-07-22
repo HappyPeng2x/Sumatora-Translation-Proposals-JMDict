@@ -1,0 +1,15 @@
+{
+  "seq": 1112440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flexible",
+      "adaptable"
+    ],
+    [
+      "mobile",
+      "souple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

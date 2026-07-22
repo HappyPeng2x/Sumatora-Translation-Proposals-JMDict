@@ -10,6 +10,13 @@
     [
       "avion de transport de grande capacité",
       "avion jumbo"
+    ],
+    [
+      "machine de tirage photo en différentes tailles",
+      "appareil de tirage photo multifonctionnel"
+    ],
+    [
+      "avion jumbo (abréviation)"
     ]
   ],
   "model": "qwen3:14b"

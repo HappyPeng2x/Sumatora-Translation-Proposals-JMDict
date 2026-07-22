@@ -1,0 +1,16 @@
+{
+  "seq": 1078280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chopper",
+      "couteau à pain"
+    ],
+    [
+      "couteau à pain",
+      "hachoir",
+      "pulvérisateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

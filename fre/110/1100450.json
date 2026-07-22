@@ -9,6 +9,13 @@
     [
       "stationnement",
       "parking"
+    ],
+    [
+      "position de stationnement",
+      "dans une voiture"
+    ],
+    [
+      "zone de loisirs"
     ]
   ],
   "model": "qwen3:14b"

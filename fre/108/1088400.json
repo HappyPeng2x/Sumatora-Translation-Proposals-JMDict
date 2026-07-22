@@ -7,6 +7,12 @@
     ],
     [
       "nom de domaine"
+    ],
+    [
+      "secteur"
+    ],
+    [
+      "nom de domaine"
     ]
   ],
   "model": "qwen3:14b"

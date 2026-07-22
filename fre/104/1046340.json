@@ -1,0 +1,19 @@
+{
+  "seq": 1046340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terrain de sport"
+    ],
+    [
+      "terrain de sport",
+      "champ de jeu",
+      "stade de baseball",
+      "stade de football"
+    ],
+    [
+      "stade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

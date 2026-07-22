@@ -1,0 +1,20 @@
+{
+  "seq": 1049270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coopérative",
+      "co-opérative"
+    ],
+    [
+      "immeuble",
+      "personne morale",
+      "société"
+    ],
+    [
+      "copier",
+      "imiter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1113630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navigation sur Internet, consultation de documents ou de sites web sans objectif précis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

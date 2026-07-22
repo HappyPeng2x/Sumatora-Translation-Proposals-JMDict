@@ -1,0 +1,17 @@
+{
+  "seq": 1021730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imitation",
+      "faux",
+      "contrefaçon",
+      "trompe-l'œil"
+    ],
+    [
+      "reproduction",
+      "copie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1113000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie avant",
+      "avant",
+      "front",
+      "extrémité avant",
+      "extrémité frontale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

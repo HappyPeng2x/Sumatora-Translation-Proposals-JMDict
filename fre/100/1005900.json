@@ -1,0 +1,121 @@
+{
+  "seq": 1005900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bien",
+      "bon"
+    ],
+    [
+      "alors",
+      "d'accord",
+      "bien",
+      "maintenant",
+      "alors",
+      "ainsi",
+      "donc",
+      "en ce cas",
+      "puisque",
+      "vu que"
+    ],
+    [
+      "jour",
+      "bonjour",
+      "salut",
+      "au revoir",
+      "adieu",
+      "à bientôt",
+      "à la prochaine",
+      "à très bientôt",
+      "salutations"
+    ],
+    [
+      "alors",
+      "donc",
+      "maintenant",
+      "ainsi",
+      "en ce cas",
+      "puisque",
+      "vu que"
+    ],
+    [
+      "alors",
+      "d'accord",
+      "bien",
+      "maintenant",
+      "alors",
+      "ainsi",
+      "donc",
+      "en ce cas",
+      "puisque",
+      "vu que"
+    ],
+    [
+      "dans",
+      "à",
+      "en"
+    ],
+    [
+      "quant à",
+      "en ce qui concerne",
+      "par rapport à",
+      "au sujet de",
+      "concernant"
+    ],
+    [
+      "selon",
+      "d'après",
+      "suivant"
+    ],
+    [
+      "avec",
+      "pour",
+      "en ce qui concerne"
+    ],
+    [
+      "je crois",
+      "je pense que",
+      "je suppose que"
+    ],
+    [
+      "négation informelle",
+      "non"
+    ],
+    [
+      "jour",
+      "bonjour",
+      "salut",
+      "au revoir",
+      "adieu",
+      "à bientôt",
+      "à la prochaine",
+      "à très bientôt",
+      "salutations"
+    ],
+    [
+      "particule conditionnelle"
+    ],
+    [
+      "particule d'accentuation (temps; instrument)"
+    ],
+    [
+      "particule conditionnelle"
+    ],
+    [
+      "morphème flexionnel prédicatif"
+    ],
+    [
+      "morphème flexionnel exprimant une qualité"
+    ],
+    [
+      "morphème flexionnel interrogatif"
+    ],
+    [
+      "morphème flexionnel exprimant de l'ironie"
+    ],
+    [
+      "morphème flexionnel honorifique léger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

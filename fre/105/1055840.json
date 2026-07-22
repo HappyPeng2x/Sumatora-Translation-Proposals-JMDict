@@ -6,6 +6,14 @@
       "côté",
       "flanc",
       "rue (dans un immeuble)"
+    ],
+    [
+      "équipe",
+      "groupe"
+    ],
+    [
+      "sous-",
+      "second-"
     ]
   ],
   "model": "qwen3:14b"

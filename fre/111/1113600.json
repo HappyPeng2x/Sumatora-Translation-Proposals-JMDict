@@ -1,0 +1,10 @@
+{
+  "seq": 1113600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "test aveugle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

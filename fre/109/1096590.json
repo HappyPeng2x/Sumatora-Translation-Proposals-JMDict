@@ -1,0 +1,14 @@
+{
+  "seq": 1096590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chasseur",
+      "chasseuse"
+    ],
+    [
+      "Hunter (nom propre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

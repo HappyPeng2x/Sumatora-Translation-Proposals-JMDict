@@ -4,6 +4,9 @@
   "glosses": [
     [
       "bouillon"
+    ],
+    [
+      "bouillon (propre au néerlandais)"
     ]
   ],
   "model": "qwen3:14b"

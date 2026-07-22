@@ -5,6 +5,9 @@
     [
       "décollage et atterrissage verticaux",
       "VTOL"
+    ],
+    [
+      "aéronef capable de décoller et d'atterrir verticalement"
     ]
   ],
   "model": "qwen3:14b"

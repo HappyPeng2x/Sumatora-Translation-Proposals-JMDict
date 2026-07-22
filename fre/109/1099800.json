@@ -4,6 +4,13 @@
   "glosses": [
     [
       "baryton"
+    ],
+    [
+      "chanteur de baryton",
+      "chanteur de baryton"
+    ],
+    [
+      "saxophone baryton"
     ]
   ],
   "model": "qwen3:14b"

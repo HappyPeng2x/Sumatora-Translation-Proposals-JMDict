@@ -9,6 +9,14 @@
     [
       "souffrant, en souffrance",
       "dans la douleur, en détresse"
+    ],
+    [
+      "suffoquer",
+      "étouffer"
+    ],
+    [
+      "être en difficulté",
+      "être dans le pétrin"
     ]
   ],
   "model": "qwen3:14b"

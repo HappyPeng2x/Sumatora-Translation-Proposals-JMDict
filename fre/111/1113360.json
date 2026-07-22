@@ -10,6 +10,10 @@
     [
       "tuer (avec force)",
       "mettre à mort (de manière emphatique)"
+    ],
+    [
+      "séduire",
+      "flirter"
     ]
   ],
   "model": "qwen3:14b"

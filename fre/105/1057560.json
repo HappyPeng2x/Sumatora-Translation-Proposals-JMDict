@@ -1,0 +1,14 @@
+{
+  "seq": 1057560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "supplément"
+    ],
+    [
+      "ajout",
+      "complément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

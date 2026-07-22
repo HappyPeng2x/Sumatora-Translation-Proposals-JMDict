@@ -1,0 +1,13 @@
+{
+  "seq": 1111020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fusion"
+    ],
+    [
+      "mélange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

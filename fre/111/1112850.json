@@ -1,0 +1,13 @@
+{
+  "seq": 1112850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hasard",
+      "chance",
+      "coup de chance",
+      "fluke"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

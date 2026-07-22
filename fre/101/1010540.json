@@ -1,0 +1,13 @@
+{
+  "seq": 1010540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dévoué",
+      "ferme",
+      "résolu",
+      "déterminé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

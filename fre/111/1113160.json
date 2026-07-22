@@ -1,0 +1,20 @@
+{
+  "seq": 1113160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boom",
+      "engouement"
+    ],
+    [
+      "[n] (économique) boom"
+    ],
+    [
+      "[n] (d'un bateau) vague, déferlement"
+    ],
+    [
+      "[n] (microphone) trépied, support"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

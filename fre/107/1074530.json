@@ -4,6 +4,19 @@
   "glosses": [
     [
       "segment"
+    ],
+    [
+      "marché",
+      "secteur"
+    ],
+    [
+      "fréquence",
+      "bande"
+    ],
+    [
+      "segment",
+      "partie",
+      "épisode"
     ]
   ],
   "model": "qwen3:14b"

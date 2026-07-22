@@ -21,6 +21,16 @@
     [
       "race bovine",
       "race de vaches Jersey"
+    ],
+    [
+      "tricot",
+      "maillot",
+      "chemise de sport",
+      "pull",
+      "veste courte"
+    ],
+    [
+      "race de vaches"
     ]
   ],
   "model": "qwen3:14b"

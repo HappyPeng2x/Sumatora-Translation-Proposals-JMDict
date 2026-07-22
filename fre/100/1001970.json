@@ -1,0 +1,22 @@
+{
+  "seq": 1001970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clôture",
+      "fin"
+    ],
+    [
+      "c'est fini",
+      "ça suffit",
+      "c'est tout"
+    ],
+    [
+      "liquidation",
+      "traitement",
+      "saisie",
+      "règlement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

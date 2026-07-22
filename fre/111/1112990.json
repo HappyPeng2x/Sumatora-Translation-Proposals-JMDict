@@ -1,0 +1,22 @@
+{
+  "seq": 1112990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "façade",
+      "front (météo)",
+      "ligne de front",
+      "réception (hôtel)"
+    ],
+    [
+      "réception (dans un hôtel) ; comptoir de réception"
+    ],
+    [
+      "bureau de direction ; gestion de l'équipe"
+    ],
+    [
+      "(néerlandais) bureau de direction; (en matière de baseball) administration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

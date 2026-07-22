@@ -7,6 +7,15 @@
       "tremblant",
       "effrayé",
       "écœuré"
+    ],
+    [
+      "effrayant",
+      "terrifiant"
+    ],
+    [
+      "émouvant",
+      "touchant",
+      "émotionnel"
     ]
   ],
   "model": "qwen3:14b"

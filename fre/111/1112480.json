@@ -11,6 +11,15 @@
     [
       "crème pour café (non laitière)",
       "agent blanchissant pour le café"
+    ],
+    [
+      "fraîcheur",
+      "nouvellement fait",
+      "non décomposé"
+    ],
+    [
+      "degré de fraîcheur",
+      "niveau de fraîcheur"
     ]
   ],
   "model": "qwen3:14b"

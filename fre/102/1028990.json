@@ -1,0 +1,18 @@
+{
+  "seq": 1028990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étiquette",
+      "manière",
+      "usage"
+    ],
+    [
+      "étiquette d'une bouteille de vin"
+    ],
+    [
+      "étiquette d'une bouteille de vin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

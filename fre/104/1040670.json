@@ -1,0 +1,10 @@
+{
+  "seq": 1040670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "colonne ou rangée des kana syllabaires correspondant au son 'ga' dans le système de lecture 'ga' (ga-gyo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

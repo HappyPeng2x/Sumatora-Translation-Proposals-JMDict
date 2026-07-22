@@ -1,0 +1,16 @@
+{
+  "seq": 1104350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "phare"
+    ],
+    [
+      "(néerlandais) bateau-feu; tour de guet; phare"
+    ],
+    [
+      "(néerlandais) émetteur de balisage; balise radio"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

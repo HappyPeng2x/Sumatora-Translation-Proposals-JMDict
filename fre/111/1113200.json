@@ -9,6 +9,20 @@
     [
       "jeu de boules",
       "jeu de boules (sport)"
+    ],
+    [
+      "mois",
+      "huitième mois de l'ancien calendrier juif"
+    ],
+    [
+      "mathématicien",
+      "logicien",
+      "philosophe",
+      "inventeur de l'algèbre booléenne"
+    ],
+    [
+      "ville",
+      "commune"
     ]
   ],
   "model": "qwen3:14b"

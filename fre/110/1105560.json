@@ -1,0 +1,11 @@
+{
+  "seq": 1105560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enregistreur de bande vidéo",
+      "enregistreur VCR"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
