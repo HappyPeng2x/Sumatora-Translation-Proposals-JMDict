@@ -1,0 +1,13 @@
+{
+  "seq": 1052550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "continuité"
+    ],
+    [
+      "scénario; script (d'un film ou d'un programme)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -8,6 +8,9 @@
     ],
     [
       "berger"
+    ],
+    [
+      "nom propre"
     ]
   ],
   "model": "qwen3:14b"

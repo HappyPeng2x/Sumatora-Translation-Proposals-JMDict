@@ -1,0 +1,15 @@
+{
+  "seq": 1055090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surfing",
+      "surfboarder"
+    ],
+    [
+      "musique de surf",
+      "son de surf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

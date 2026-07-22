@@ -1,0 +1,12 @@
+{
+  "seq": 1045080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "serrer (un poing)",
+      "serrer (une prise)",
+      "gagner (une compétition par une petite marge)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

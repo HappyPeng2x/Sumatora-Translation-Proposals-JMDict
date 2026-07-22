@@ -4,6 +4,9 @@
   "glosses": [
     [
       "cruiser (navire de guerre ou croisière)"
+    ],
+    [
+      "croiseur (navire de guerre)"
     ]
   ],
   "model": "qwen3:14b"

@@ -8,6 +8,9 @@
     ],
     [
       "forceps artériel chirurgical, forceps de Kocher"
+    ],
+    [
+      "pince artériel de Kocher"
     ]
   ],
   "model": "qwen3:14b"

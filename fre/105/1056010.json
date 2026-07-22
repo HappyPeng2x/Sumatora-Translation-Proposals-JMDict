@@ -4,6 +4,9 @@
   "glosses": [
     [
       "lobe latéral"
+    ],
+    [
+      "lobe secondaire"
     ]
   ],
   "model": "qwen3:14b"

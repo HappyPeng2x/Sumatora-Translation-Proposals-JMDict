@@ -1,0 +1,13 @@
+{
+  "seq": 1061020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sévère",
+      "strict",
+      "exigeant",
+      "difficile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

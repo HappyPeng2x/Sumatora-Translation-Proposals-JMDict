@@ -1,0 +1,15 @@
+{
+  "seq": 1059020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pomelo",
+      "shaddock"
+    ],
+    [
+      "Saponaria officinalis",
+      "Seifenkraut commun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

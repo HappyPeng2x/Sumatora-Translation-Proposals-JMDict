@@ -1,0 +1,12 @@
+{
+  "seq": 1049900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "casier automatique à monnaie",
+      "casier à pièces",
+      "casier de stationnement automatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

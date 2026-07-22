@@ -1,0 +1,23 @@
+{
+  "seq": 1050490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liaison",
+      "connexion",
+      "relation"
+    ],
+    [
+      "itinéraire d'importation de stupéfiants",
+      "liaison",
+      "relation",
+      "lien"
+    ],
+    [
+      "circuit de stupéfiants",
+      "correspondant",
+      "contact"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

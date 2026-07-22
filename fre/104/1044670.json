@@ -11,6 +11,9 @@
       "créatrice",
       "auteur de contenus",
       "développeur"
+    ],
+    [
+      "créateur publicitaire"
     ]
   ],
   "model": "qwen3:14b"

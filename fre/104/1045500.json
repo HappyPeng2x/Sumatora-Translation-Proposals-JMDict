@@ -1,0 +1,13 @@
+{
+  "seq": 1045500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fermeture",
+      "fermer",
+      "fermer (se)",
+      "fermer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

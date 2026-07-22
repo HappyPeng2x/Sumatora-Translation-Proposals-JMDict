@@ -1,0 +1,10 @@
+{
+  "seq": 1061110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "code de caractères Shift JIS (système de codage pour les caractères JIS X 0208)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

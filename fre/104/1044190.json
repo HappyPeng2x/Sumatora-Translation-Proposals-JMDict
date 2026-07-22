@@ -5,6 +5,9 @@
     [
       "[n] fissure",
       "[n] craquement"
+    ],
+    [
+      "désactivation de mesures de sécurité"
     ]
   ],
   "model": "qwen3:14b"

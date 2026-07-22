@@ -14,6 +14,9 @@
       "détour",
       "absence scolaire",
       "fuir les responsabilités"
+    ],
+    [
+      "absence injustifiée; absence scolaire; absence due à la maladie; absence non autorisée"
     ]
   ],
   "model": "qwen3:14b"

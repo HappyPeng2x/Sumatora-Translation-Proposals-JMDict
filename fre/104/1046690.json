@@ -1,0 +1,15 @@
+{
+  "seq": 1046690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "graphisme",
+      "graphiques"
+    ],
+    [
+      "gravure artistique",
+      "art de la gravure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

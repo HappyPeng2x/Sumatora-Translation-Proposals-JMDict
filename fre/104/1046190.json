@@ -6,6 +6,15 @@
       "bon",
       "excellent",
       "de qualité"
+    ],
+    [
+      "excellent",
+      "hervorragent"
+    ],
+    [
+      "bon",
+      "en place",
+      "jouable"
     ]
   ],
   "model": "qwen3:14b"

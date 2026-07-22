@@ -7,6 +7,12 @@
       "dément",
       "insensé",
       "hystérique"
+    ],
+    [
+      "fou",
+      "dément",
+      "insensé",
+      "hystérique"
     ]
   ],
   "model": "qwen3:14b"

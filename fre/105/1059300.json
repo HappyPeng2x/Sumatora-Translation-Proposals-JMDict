@@ -1,0 +1,19 @@
+{
+  "seq": 1059300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saison (sport)"
+    ],
+    [
+      "saison (division de l'année)"
+    ],
+    [
+      "saison (d'une série télévisée, etc.)"
+    ],
+    [
+      "période propice à faire quelque chose (ex. saison de ski, saison des examens d'entrée)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

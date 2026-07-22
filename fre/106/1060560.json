@@ -1,0 +1,10 @@
+{
+  "seq": 1060560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dictionnaire des synonymes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

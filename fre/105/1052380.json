@@ -1,0 +1,15 @@
+{
+  "seq": 1052380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "console"
+    ],
+    [
+      "meuble de radiodiffusion",
+      "meuble de télévision",
+      "meuble de gramophone"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

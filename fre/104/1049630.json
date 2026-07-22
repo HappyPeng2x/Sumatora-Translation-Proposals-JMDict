@@ -10,6 +10,11 @@
     ],
     [
       "boule (de signalisation routière)"
+    ],
+    [
+      "maïs",
+      "orge du Turc",
+      "blé turc"
     ]
   ],
   "model": "qwen3:14b"

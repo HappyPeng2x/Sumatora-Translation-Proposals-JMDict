@@ -1,0 +1,16 @@
+{
+  "seq": 1052000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conservateur",
+      "conservatrice"
+    ],
+    [
+      "conservateur",
+      "réservé",
+      "prudent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

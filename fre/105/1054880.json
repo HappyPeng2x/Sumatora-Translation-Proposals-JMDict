@@ -4,6 +4,9 @@
   "glosses": [
     [
       "sardine"
+    ],
+    [
+      "sardine en conserve"
     ]
   ],
   "model": "qwen3:14b"

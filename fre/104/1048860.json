@@ -13,6 +13,16 @@
     [
       "frein",
       "frein de roue"
+    ],
+    [
+      "soucoupe",
+      "sous-plat"
+    ],
+    [
+      "tablet"
+    ],
+    [
+      "couvre-verre"
     ]
   ],
   "model": "qwen3:14b"

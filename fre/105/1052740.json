@@ -11,6 +11,11 @@
       "sketch comique",
       "pièce de théâtre courte",
       "numéro de variété"
+    ],
+    [
+      "parodiste",
+      "sketch",
+      "Auguste Comte (philosophe français; 1798-1857)"
     ]
   ],
   "model": "qwen3:14b"

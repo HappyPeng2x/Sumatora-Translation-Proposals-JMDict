@@ -1,0 +1,23 @@
+{
+  "seq": 1047480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gris"
+    ],
+    [
+      "grisonnant"
+    ],
+    [
+      "neutre"
+    ],
+    [
+      "Thomas Gray"
+    ],
+    [
+      "Louis Harold Gray",
+      "gray (unité de dose d'irradiation ionisante; symbole : Gy)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

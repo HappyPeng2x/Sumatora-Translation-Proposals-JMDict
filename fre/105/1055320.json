@@ -4,6 +4,10 @@
   "glosses": [
     [
       "thermomètre"
+    ],
+    [
+      "juge de valeur",
+      "critère"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,14 @@
   "glosses": [
     [
       "condominium"
+    ],
+    [
+      "immeuble de copropriété",
+      "immeuble comprenant des appartements en copropriété"
+    ],
+    [
+      "hôtel d'appartements",
+      "hôtel composé d'appartements"
     ]
   ],
   "model": "qwen3:14b"

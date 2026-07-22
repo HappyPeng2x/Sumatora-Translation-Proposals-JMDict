@@ -1,0 +1,12 @@
+{
+  "seq": 1048350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entrer dans le paddock",
+      "paddock",
+      "course de chevaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

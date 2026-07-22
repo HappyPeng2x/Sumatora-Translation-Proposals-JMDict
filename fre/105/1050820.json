@@ -1,0 +1,10 @@
+{
+  "seq": 1050820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "module de commandes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

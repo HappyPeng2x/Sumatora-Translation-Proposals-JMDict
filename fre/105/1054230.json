@@ -1,0 +1,24 @@
+{
+  "seq": 1054230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "but"
+    ],
+    [
+      "ligne d'arrivée",
+      "ligne de finition",
+      "poteau de victoire"
+    ],
+    [
+      "atteindre la ligne d'arrivée",
+      "terminer une course"
+    ],
+    [
+      "but",
+      "objectif",
+      "but (sportif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

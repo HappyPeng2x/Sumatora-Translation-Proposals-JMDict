@@ -9,6 +9,18 @@
     [
       "sans serif (police de caractères)",
       "gothique (typographie)"
+    ],
+    [
+      "gotique"
+    ],
+    [
+      "police sans serif (ex. Helvetica ou Arial)"
+    ],
+    [
+      "gotique"
+    ],
+    [
+      "police sans serif"
     ]
   ],
   "model": "qwen3:14b"

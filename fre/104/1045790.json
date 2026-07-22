@@ -1,0 +1,10 @@
+{
+  "seq": 1045790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un type de puzzle composé de cases et de mots à remplir selon des indices"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

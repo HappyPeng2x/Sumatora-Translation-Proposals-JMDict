@@ -1,0 +1,14 @@
+{
+  "seq": 1049000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "court de tennis",
+      "manteau"
+    ],
+    [
+      "revêtement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

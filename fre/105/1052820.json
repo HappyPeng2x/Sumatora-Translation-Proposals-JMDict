@@ -1,0 +1,19 @@
+{
+  "seq": 1052820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contrôleur",
+      "commandeur",
+      "gestionnaire"
+    ],
+    [
+      "manette de jeu",
+      "appareil de contrôle de jeu"
+    ],
+    [
+      "contrôleur (comptabilité)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

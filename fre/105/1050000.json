@@ -1,0 +1,11 @@
+{
+  "seq": 1050000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coquetterie",
+      "frivolité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1047860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gâteau",
+      "patisserie"
+    ],
+    [
+      "gâteau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

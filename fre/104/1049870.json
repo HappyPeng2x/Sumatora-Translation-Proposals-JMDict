@@ -1,0 +1,14 @@
+{
+  "seq": 1049870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pièce"
+    ],
+    [
+      "jeton",
+      "bille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

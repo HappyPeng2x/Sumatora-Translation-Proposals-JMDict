@@ -1,0 +1,12 @@
+{
+  "seq": 1060120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ignorer",
+      "ostraciser",
+      "ne pas tenir compte de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

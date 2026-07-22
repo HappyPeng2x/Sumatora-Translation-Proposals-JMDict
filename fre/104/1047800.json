@@ -1,0 +1,16 @@
+{
+  "seq": 1047800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désorienté",
+      "fatigué",
+      "abattu"
+    ],
+    [
+      "en difficulté",
+      "affaibli"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

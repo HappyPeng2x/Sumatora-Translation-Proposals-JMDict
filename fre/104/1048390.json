@@ -4,6 +4,9 @@
   "glosses": [
     [
       "joueur de jeux vidéo"
+    ],
+    [
+      "éditeur de jeux vidéo"
     ]
   ],
   "model": "qwen3:14b"

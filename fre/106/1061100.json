@@ -13,6 +13,26 @@
     [
       "boîte de vitesses",
       "changement de vitesse"
+    ],
+    [
+      "changement d'ordre ou d'attitude",
+      "modification de posture ou d'orientation"
+    ],
+    [
+      "changement de position de défense",
+      "période de travail; shift"
+    ],
+    [
+      "action de changer de vitesse",
+      "changement de vitesse; passage d'une vitesse à une autre"
+    ],
+    [
+      "touche de bascule",
+      "touche de majuscule"
+    ],
+    [
+      "vêtement suspendu; vêtement accroché",
+      "réponse en nouvelle couleur sur un pont"
     ]
   ],
   "model": "qwen3:14b"

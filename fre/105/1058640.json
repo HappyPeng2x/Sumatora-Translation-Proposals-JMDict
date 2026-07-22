@@ -1,0 +1,11 @@
+{
+  "seq": 1058640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gibier d'entraînement en sac de sable",
+      "sac de sable pour frapper"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

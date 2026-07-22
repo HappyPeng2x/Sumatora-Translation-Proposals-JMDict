@@ -7,6 +7,10 @@
     ],
     [
       "contrôleur logique programmable; automate programmable industriel"
+    ],
+    [
+      "contrôleur programmable par microprocesseur",
+      "système de contrôle programmable"
     ]
   ],
   "model": "qwen3:14b"

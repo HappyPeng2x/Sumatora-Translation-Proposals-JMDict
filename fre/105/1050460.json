@@ -4,6 +4,10 @@
   "glosses": [
     [
       "connectionniste"
+    ],
+    [
+      "adjectif",
+      "relatif à la connexion ou à la liaison"
     ]
   ],
   "model": "qwen3:14b"

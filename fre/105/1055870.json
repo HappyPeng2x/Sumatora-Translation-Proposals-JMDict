@@ -4,6 +4,12 @@
   "glosses": [
     [
       "sidecar"
+    ],
+    [
+      "moto avec side-car"
+    ],
+    [
+      "cocktail sidecar"
     ]
   ],
   "model": "qwen3:14b"

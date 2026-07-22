@@ -6,6 +6,9 @@
       "commun",
       "ordinaire",
       "banal"
+    ],
+    [
+      "général"
     ]
   ],
   "model": "qwen3:14b"

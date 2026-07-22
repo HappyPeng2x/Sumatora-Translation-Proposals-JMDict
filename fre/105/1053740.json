@@ -6,6 +6,23 @@
       "conformité",
       "respect",
       "obéissance"
+    ],
+    [
+      "conformité",
+      "respect",
+      "obéissance"
+    ],
+    [
+      "obéissance",
+      "respect des règles"
+    ],
+    [
+      "conformité",
+      "respect des normes"
+    ],
+    [
+      "conformité",
+      "respect des exigences"
     ]
   ],
   "model": "qwen3:14b"

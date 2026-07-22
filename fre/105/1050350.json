@@ -1,0 +1,13 @@
+{
+  "seq": 1050350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cabine de pilotage"
+    ],
+    [
+      "cabine de pilotage d'un avion ou d'une voiture de course"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

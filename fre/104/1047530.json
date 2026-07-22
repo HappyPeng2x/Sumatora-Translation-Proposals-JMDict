@@ -6,6 +6,9 @@
       "niveau",
       "degré",
       "catégorie"
+    ],
+    [
+      "terme de mesure pour les rangs; classes"
     ]
   ],
   "model": "qwen3:14b"

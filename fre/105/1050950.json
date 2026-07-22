@@ -1,0 +1,18 @@
+{
+  "seq": 1050950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commune"
+    ],
+    [
+      "municipalité",
+      "ville-État républicain médiéval"
+    ],
+    [
+      "commune populaire (en Chine)",
+      "la Commune de Paris"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

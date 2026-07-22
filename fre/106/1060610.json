@@ -6,6 +6,11 @@
       "chic",
       "élégant",
       "à la mode"
+    ],
+    [
+      "élégant",
+      "de bon goût",
+      "soigné"
     ]
   ],
   "model": "qwen3:14b"

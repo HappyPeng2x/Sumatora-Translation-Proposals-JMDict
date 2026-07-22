@@ -5,6 +5,9 @@
     [
       "produit qui nourrit et hydrate les cheveux ou la peau",
       "produit de soin pour les cheveux ou la peau"
+    ],
+    [
+      "dispositif d'ajustement"
     ]
   ],
   "model": "qwen3:14b"

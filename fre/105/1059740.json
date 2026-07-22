@@ -5,6 +5,11 @@
     [
       "théâtre",
       "théâtre (lieu de spectacle)"
+    ],
+    [
+      "salle de cinéma",
+      "cinéma",
+      "bioscope"
     ]
   ],
   "model": "qwen3:14b"

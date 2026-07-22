@@ -6,6 +6,9 @@
       "scientifique",
       "chercheur",
       "spécialiste"
+    ],
+    [
+      "scientifique des sciences naturelles"
     ]
   ],
   "model": "qwen3:14b"

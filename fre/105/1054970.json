@@ -20,6 +20,12 @@
       "joueur",
       "serviteur",
       "personne qui sert"
+    ],
+    [
+      "ustensile de salade"
+    ],
+    [
+      "ordinateur qui gère un stockage central auquel plusieurs ordinateurs connectés peuvent accéder; Umberto Saba (poète italien; 1883-1957)"
     ]
   ],
   "model": "qwen3:14b"

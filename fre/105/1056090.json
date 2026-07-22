@@ -4,6 +4,15 @@
   "glosses": [
     [
       "siphon"
+    ],
+    [
+      "siphon à levier"
+    ],
+    [
+      "type de machine à café à siphon"
+    ],
+    [
+      "limonade dans une bouteille à siphon"
     ]
   ],
   "model": "qwen3:14b"

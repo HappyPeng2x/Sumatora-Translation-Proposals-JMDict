@@ -1,0 +1,20 @@
+{
+  "seq": 1059060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "colonne",
+      "du tableau des kana",
+      "correspondant aux kana za, ji, zu, ze, zo"
+    ],
+    [
+      "catégorie",
+      "des verbes ichidan dont la forme originale se termine par 'jiru' ou 'zuru'"
+    ],
+    [
+      "catégorie",
+      "des verbes classiques dont la forme originale se termine par 'zu'"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,10 @@
   "glosses": [
     [
       "seau de pêche"
+    ],
+    [
+      "gant de boxe",
+      "gant de saisie (technique)"
     ]
   ],
   "model": "qwen3:14b"

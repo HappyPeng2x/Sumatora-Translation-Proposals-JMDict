@@ -1,0 +1,15 @@
+{
+  "seq": 1045640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crossover",
+      "n"
+    ],
+    [
+      "viaduc",
+      "n"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

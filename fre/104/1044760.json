@@ -4,6 +4,12 @@
   "glosses": [
     [
       "crystal"
+    ],
+    [
+      "verre à cristal"
+    ],
+    [
+      "cristal"
     ]
   ],
   "model": "qwen3:14b"

@@ -7,6 +7,11 @@
       "remarque",
       "observation",
       "note"
+    ],
+    [
+      "remarque",
+      "note",
+      "observation"
     ]
   ],
   "model": "qwen3:14b"

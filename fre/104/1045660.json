@@ -1,0 +1,13 @@
+{
+  "seq": 1045660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cross-country (course de fond, ski de fond, etc.)"
+    ],
+    [
+      "ski de fond"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,10 @@
   "glosses": [
     [
       "selle"
+    ],
+    [
+      "selle de monture",
+      "selle"
     ]
   ],
   "model": "qwen3:14b"

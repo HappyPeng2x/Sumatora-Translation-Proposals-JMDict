@@ -4,6 +4,10 @@
   "glosses": [
     [
       "ville"
+    ],
+    [
+      "la City",
+      "ancienne ville intra-muros de Londres"
     ]
   ],
   "model": "qwen3:14b"

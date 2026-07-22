@@ -1,0 +1,20 @@
+{
+  "seq": 1055020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "zone de service",
+      "aire de repos sur une autoroute",
+      "aire de pause"
+    ],
+    [
+      "zone de repos sur une autoroute",
+      "zone de service sur une route à péage"
+    ],
+    [
+      "zone de service dans un jeu de volley-ball",
+      "zone de service sur un terrain de volley-ball"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

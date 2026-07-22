@@ -1,0 +1,24 @@
+{
+  "seq": 1044430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nettoyeur",
+      "personne qui nettoie",
+      "moyen de nettoyage"
+    ],
+    [
+      "aspirateur",
+      "produit de nettoyage"
+    ],
+    [
+      "nettoyeur de disques",
+      "appareil pour nettoyer les disques"
+    ],
+    [
+      "nettoyant pour vitres",
+      "produit pour nettoyer les vitres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

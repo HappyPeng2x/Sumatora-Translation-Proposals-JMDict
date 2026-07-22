@@ -6,6 +6,15 @@
       "parrain",
       "tuteur",
       "protecteur"
+    ],
+    [
+      "chef de la mafia"
+    ],
+    [
+      "parrain de la mafia; oncle de la mafia; tuteur de la mafia"
+    ],
+    [
+      "chef de la mafia"
     ]
   ],
   "model": "qwen3:14b"

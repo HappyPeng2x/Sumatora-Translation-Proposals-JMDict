@@ -1,0 +1,10 @@
+{
+  "seq": 1059600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poisson marin ressemblant à un cheval, avec un corps en forme de S et une queue en spirale, vivant dans les récifs coralliens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1044310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "club"
+    ],
+    [
+      "équipe sportive",
+      "équipe"
+    ],
+    [
+      "club de golf"
+    ],
+    [
+      "trèfle (symbole de carte à jouer)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1059180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sequentiel",
+      "successif",
+      "ordonné dans le temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "glycine"
+    ],
+    [
+      "acide aminé"
     ]
   ],
   "model": "qwen3:14b"

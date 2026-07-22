@@ -4,6 +4,10 @@
   "glosses": [
     [
       "Gloire"
+    ],
+    [
+      "Gloire liturgique",
+      "Chant de louange dans le service divin"
     ]
   ],
   "model": "qwen3:14b"

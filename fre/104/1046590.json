@@ -7,6 +7,12 @@
       "photogravure",
       "rotogravure",
       "image en gravure"
+    ],
+    [
+      "partie imprimée en couleurs dans des revues (surtout aux extrémités des revues japonaises)"
+    ],
+    [
+      "titre en gravure; frontispice obtenu par photogravure"
     ]
   ],
   "model": "qwen3:14b"

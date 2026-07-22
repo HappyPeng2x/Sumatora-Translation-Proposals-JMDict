@@ -1,0 +1,23 @@
+{
+  "seq": 1044640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débarras",
+      "libération",
+      "espace libre"
+    ],
+    [
+      "permission de sortie d'un port"
+    ],
+    [
+      "marge de manœuvre",
+      "jeu mécanique"
+    ],
+    [
+      "permission d'atterrissage",
+      "permission de décollage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

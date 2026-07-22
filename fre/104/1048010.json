@@ -1,0 +1,14 @@
+{
+  "seq": 1048010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tramway à câble",
+      "funiculaire"
+    ],
+    [
+      "tramway à câble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

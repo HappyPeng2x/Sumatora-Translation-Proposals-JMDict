@@ -5,6 +5,10 @@
     [
       "doré",
       "or"
+    ],
+    [
+      "doré",
+      "d'or"
     ]
   ],
   "model": "qwen3:14b"

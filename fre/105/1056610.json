@@ -1,0 +1,17 @@
+{
+  "seq": 1056610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suspendre",
+      "brace"
+    ],
+    [
+      "ceinture d'un manteau de voyage"
+    ],
+    [
+      "retenu de bas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

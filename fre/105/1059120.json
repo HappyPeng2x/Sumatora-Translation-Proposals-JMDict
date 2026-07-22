@@ -1,0 +1,22 @@
+{
+  "seq": 1059120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séquence"
+    ],
+    [
+      "succession (de cartes à jouer)"
+    ],
+    [
+      "séquence; suite (informatique)"
+    ],
+    [
+      "séquence de film"
+    ],
+    [
+      "succession (de cartes à jouer)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

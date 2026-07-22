@@ -6,6 +6,15 @@
       "lunettes de protection",
       "masque à gaz",
       "lunettes de plongée"
+    ],
+    [
+      "lunette de plongée"
+    ],
+    [
+      "lunette de ski"
+    ],
+    [
+      "casque de moto"
     ]
   ],
   "model": "qwen3:14b"

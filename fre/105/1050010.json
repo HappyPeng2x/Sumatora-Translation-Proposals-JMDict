@@ -1,0 +1,17 @@
+{
+  "seq": 1050010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boisson au cacao",
+      "pulpe de cacao"
+    ],
+    [
+      "boisson au chocolat",
+      "lait au chocolat",
+      "chocolat en poudre",
+      "chocolat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

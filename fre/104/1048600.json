@@ -4,6 +4,12 @@
   "glosses": [
     [
       "ghetto"
+    ],
+    [
+      "quartier juif"
+    ],
+    [
+      "quartier noir"
     ]
   ],
   "model": "qwen3:14b"

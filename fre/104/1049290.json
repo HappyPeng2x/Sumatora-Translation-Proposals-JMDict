@@ -6,6 +6,9 @@
       "immeuble",
       "bâtiment d'appartements",
       "copropriété"
+    ],
+    [
+      "immeuble de logements"
     ]
   ],
   "model": "qwen3:14b"

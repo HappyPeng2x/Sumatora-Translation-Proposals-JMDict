@@ -30,6 +30,46 @@
       "le passage (d'un niveau)",
       "la finition (d'un jeu)",
       "le franchissement (d'un niveau)"
+    ],
+    [
+      "débarrasser",
+      "vider",
+      "nettoyer"
+    ],
+    [
+      "clair",
+      "net",
+      "précis"
+    ],
+    [
+      "surmonter",
+      "franchir",
+      "passer par-dessus"
+    ],
+    [
+      "clarifier",
+      "dissiper",
+      "éclaircir"
+    ],
+    [
+      "dévier",
+      "écarter",
+      "repousser"
+    ],
+    [
+      "clarté",
+      "clairière",
+      "éclaircissement"
+    ],
+    [
+      "surmontement",
+      "dépassement",
+      "accomplissement"
+    ],
+    [
+      "défense",
+      "repoussoir",
+      "écartement"
     ]
   ],
   "model": "qwen3:14b"

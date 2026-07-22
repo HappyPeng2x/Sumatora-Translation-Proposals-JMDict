@@ -1,0 +1,16 @@
+{
+  "seq": 1057580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sécher la classe",
+      "sécher un cours"
+    ],
+    [
+      "faire grève",
+      "déroger",
+      "ne pas travailler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

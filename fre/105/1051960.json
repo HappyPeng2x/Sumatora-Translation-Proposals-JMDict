@@ -4,6 +4,9 @@
   "glosses": [
     [
       "Congo"
+    ],
+    [
+      "République du Congo"
     ]
   ],
   "model": "qwen3:14b"

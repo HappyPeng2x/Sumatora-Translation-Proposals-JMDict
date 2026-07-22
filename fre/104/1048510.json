@@ -7,6 +7,9 @@
       "avantage",
       "bénéfice",
       "profit"
+    ],
+    [
+      "avantage spatial"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,10 @@
+{
+  "seq": 1045350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "titres de crédit (d'un film, d'une émission de télévision, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

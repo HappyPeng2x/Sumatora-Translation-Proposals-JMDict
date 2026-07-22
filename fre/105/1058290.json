@@ -11,6 +11,15 @@
       "Sanctuaire (faction de la Ligue constitutionnelle démocratique du Japon)",
       "faction Akamatsu",
       "groupe Akamatsu"
+    ],
+    [
+      "zone protégée de la nature"
+    ],
+    [
+      "refuge; lieu de sécurité"
+    ],
+    [
+      "zone libre; sanctuaire"
     ]
   ],
   "model": "qwen3:14b"

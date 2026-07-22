@@ -1,0 +1,17 @@
+{
+  "seq": 1054820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circulation",
+      "mouvement",
+      "distribution"
+    ],
+    [
+      "diffusion",
+      "répétition",
+      "propagation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

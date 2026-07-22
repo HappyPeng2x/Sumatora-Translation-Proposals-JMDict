@@ -4,6 +4,11 @@
   "glosses": [
     [
       "grand"
+    ],
+    [
+      "grand",
+      "de grande taille",
+      "au format grand"
     ]
   ],
   "model": "qwen3:14b"

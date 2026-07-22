@@ -4,6 +4,9 @@
   "glosses": [
     [
       "corset"
+    ],
+    [
+      "gypse"
     ]
   ],
   "model": "qwen3:14b"

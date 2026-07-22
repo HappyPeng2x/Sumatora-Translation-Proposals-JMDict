@@ -7,6 +7,9 @@
     ],
     [
       "atelier"
+    ],
+    [
+      "séminaire"
     ]
   ],
   "model": "qwen3:14b"

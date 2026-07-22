@@ -1,0 +1,16 @@
+{
+  "seq": 1057440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous-marin"
+    ],
+    [
+      "lancer en douce"
+    ],
+    [
+      "lanceur de lancers en douce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1050380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coton"
+    ],
+    [
+      "coton tige",
+      "coton-tige"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

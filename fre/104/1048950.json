@@ -1,0 +1,16 @@
+{
+  "seq": 1048950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coordination"
+    ],
+    [
+      "combinaison de vêtements différents"
+    ],
+    [
+      "agencement de meubles différents"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

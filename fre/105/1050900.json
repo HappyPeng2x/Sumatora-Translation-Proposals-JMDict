@@ -6,6 +6,14 @@
       "commission",
       "commission de récompense",
       "commission de rétribution"
+    ],
+    [
+      "argent de rémission",
+      "cadeau de rémission"
+    ],
+    [
+      "commission",
+      "groupe"
     ]
   ],
   "model": "qwen3:14b"

@@ -10,6 +10,9 @@
     [
       "cosmos de jardin",
       "aster mexicain"
+    ],
+    [
+      "nom de satellite soviétique Kosmos"
     ]
   ],
   "model": "qwen3:14b"

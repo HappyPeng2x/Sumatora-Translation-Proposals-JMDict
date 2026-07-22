@@ -6,6 +6,9 @@
       "frappe nette",
       "coup propre",
       "frappe sans erreur"
+    ],
+    [
+      "performance remarquable"
     ]
   ],
   "model": "qwen3:14b"

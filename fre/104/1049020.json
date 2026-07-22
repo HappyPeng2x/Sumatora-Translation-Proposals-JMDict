@@ -6,6 +6,11 @@
       "nom",
       "nom de la corde",
       "nom du symbole de la corde"
+    ],
+    [
+      "nom d'un accord",
+      "nom d'un prototype",
+      "dénomination d'un développement"
     ]
   ],
   "model": "qwen3:14b"

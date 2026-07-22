@@ -10,6 +10,9 @@
     [
       "étiquette",
       "autocollant"
+    ],
+    [
+      "peau de phoque"
     ]
   ],
   "model": "qwen3:14b"

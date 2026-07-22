@@ -4,6 +4,9 @@
   "glosses": [
     [
       "méthode des cas"
+    ],
+    [
+      "méthode pédagogique basée sur l'étude de cas"
     ]
   ],
   "model": "qwen3:14b"

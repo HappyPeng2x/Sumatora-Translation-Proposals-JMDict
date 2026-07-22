@@ -1,0 +1,14 @@
+{
+  "seq": 1056350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gaucher",
+      "personne gauchère"
+    ],
+    [
+      "personne gauchère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

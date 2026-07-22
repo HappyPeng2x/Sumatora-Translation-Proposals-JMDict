@@ -14,6 +14,12 @@
     [
       "élément logique",
       "porte logique"
+    ],
+    [
+      "ouverture dans un mur ou une barrière; souvent dans un lieu historique ou religieux"
+    ],
+    [
+      "porte; en particulier une porte de sécurité ou une porte de passage dans un système de contrôle"
     ]
   ],
   "model": "qwen3:14b"

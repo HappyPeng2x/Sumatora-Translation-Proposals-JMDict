@@ -1,0 +1,16 @@
+{
+  "seq": 1053800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complexe"
+    ],
+    [
+      "ensemble de bâtiments ou d'installations liés entre eux"
+    ],
+    [
+      "ensemble de constructions et d'installations (architect.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

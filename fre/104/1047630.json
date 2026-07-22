@@ -4,6 +4,16 @@
   "glosses": [
     [
       "grégorien (calendrier)"
+    ],
+    [
+      "pape",
+      "Grégoire",
+      "VII"
+    ],
+    [
+      "pape",
+      "Grégoire",
+      "XIII"
     ]
   ],
   "model": "qwen3:14b"

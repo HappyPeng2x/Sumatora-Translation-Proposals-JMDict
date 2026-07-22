@@ -5,6 +5,9 @@
     [
       "invité",
       "personne qui assiste à un événement sans y participer activement"
+    ],
+    [
+      "membre invité"
     ]
   ],
   "model": "qwen3:14b"

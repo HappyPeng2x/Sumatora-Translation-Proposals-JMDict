@@ -1,0 +1,18 @@
+{
+  "seq": 1044200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fissure",
+      "défaut",
+      "craquement"
+    ],
+    [
+      "cocaïne"
+    ],
+    [
+      "craque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

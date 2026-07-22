@@ -5,6 +5,10 @@
     [
       "viande froide",
       "charcuterie froide"
+    ],
+    [
+      "plat de viande froide mélangée",
+      "viande froide variée"
     ]
   ],
   "model": "qwen3:14b"

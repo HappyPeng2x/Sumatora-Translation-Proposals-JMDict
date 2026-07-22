@@ -6,6 +6,10 @@
       "abri",
       "refuge",
       "cache"
+    ],
+    [
+      "refuge",
+      "abri"
     ]
   ],
   "model": "qwen3:14b"

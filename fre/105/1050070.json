@@ -4,6 +4,13 @@
   "glosses": [
     [
       "costume"
+    ],
+    [
+      "costume de scène",
+      "costume de théâtre"
+    ],
+    [
+      "costumage"
     ]
   ],
   "model": "qwen3:14b"

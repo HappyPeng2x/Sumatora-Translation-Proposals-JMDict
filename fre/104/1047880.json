@@ -1,0 +1,19 @@
+{
+  "seq": 1047880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boite",
+      "cas",
+      "ciasse"
+    ],
+    [
+      "cas",
+      "situation"
+    ],
+    [
+      "cas (grammaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

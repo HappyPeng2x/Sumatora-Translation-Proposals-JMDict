@@ -1,0 +1,15 @@
+{
+  "seq": 1060660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navire",
+      "bateau"
+    ],
+    [
+      "plante médicinale",
+      "plante médicinale utilisée en pharmacie traditionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,29 @@
+{
+  "seq": 1044480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crème"
+    ],
+    [
+      "glace"
+    ],
+    [
+      "crème pour les mains",
+      "crème pour le visage"
+    ],
+    [
+      "larme",
+      "larme de foie"
+    ],
+    [
+      "graissage pour chaussures"
+    ],
+    [
+      "teinte crème",
+      "teinte jaune pâle",
+      "blanc jaunâtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

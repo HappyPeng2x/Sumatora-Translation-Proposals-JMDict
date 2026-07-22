@@ -6,6 +6,11 @@
       "conductor",
       "dirigeant",
       "chef d'orchestre"
+    ],
+    [
+      "guide de voyage",
+      "guide touristique",
+      "accompagnateur de voyage"
     ]
   ],
   "model": "qwen3:14b"

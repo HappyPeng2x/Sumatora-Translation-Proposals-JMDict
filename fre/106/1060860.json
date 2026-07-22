@@ -6,6 +6,9 @@
       "vieux",
       "âgé",
       "mâture"
+    ],
+    [
+      "vieux; âgé; senior (personne âgée)"
     ]
   ],
   "model": "qwen3:14b"

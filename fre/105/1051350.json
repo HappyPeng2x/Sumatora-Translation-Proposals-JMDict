@@ -1,0 +1,23 @@
+{
+  "seq": 1051350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "colonne",
+      "article encadré dans un journal"
+    ],
+    [
+      "colonne",
+      "ligne"
+    ],
+    [
+      "chronique",
+      "article de fond"
+    ],
+    [
+      "colonne",
+      "ligne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

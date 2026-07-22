@@ -1,0 +1,17 @@
+{
+  "seq": 1055520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cycle"
+    ],
+    [
+      "fréquence"
+    ],
+    [
+      "vélo",
+      "véhicule à deux roues"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

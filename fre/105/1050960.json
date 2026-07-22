@@ -1,0 +1,13 @@
+{
+  "seq": 1050960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "communautarisme"
+    ],
+    [
+      "accent mis sur l'autonomie locale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

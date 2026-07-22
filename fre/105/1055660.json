@@ -5,6 +5,9 @@
     [
       "[n] psychopathe",
       "[n] personne instable ou bizarre"
+    ],
+    [
+      "fou mental"
     ]
   ],
   "model": "qwen3:14b"

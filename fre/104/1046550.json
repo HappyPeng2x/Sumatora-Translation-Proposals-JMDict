@@ -6,7 +6,11 @@
       "merci",
       "remerciement"
     ],
-    []
+    [
+      "nom féminin",
+      "nom propre",
+      "nom d'une marque de vêtements"
+    ]
   ],
   "model": "qwen3:14b"
 }

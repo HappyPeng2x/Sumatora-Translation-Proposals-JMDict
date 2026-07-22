@@ -1,0 +1,13 @@
+{
+  "seq": 1048400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu"
+    ],
+    [
+      "mesure pour les jeux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

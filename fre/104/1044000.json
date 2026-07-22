@@ -1,0 +1,14 @@
+{
+  "seq": 1044000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classique",
+      "classique"
+    ],
+    [
+      "(néerlandais) classique; antique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

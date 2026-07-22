@@ -5,6 +5,10 @@
     [
       "concours",
       "compétition"
+    ],
+    [
+      "concours public",
+      "appel d'offres"
     ]
   ],
   "model": "qwen3:14b"

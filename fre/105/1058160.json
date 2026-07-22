@@ -6,6 +6,28 @@
       "salon",
       "saloon",
       "salle de réception"
+    ],
+    [
+      "réunion",
+      "assemblée"
+    ],
+    [
+      "bar",
+      "salle de détente"
+    ],
+    [
+      "coiffeur",
+      "salon de beauté"
+    ],
+    [
+      "exposition annuelle d'œuvres d'art"
+    ],
+    [
+      "saron",
+      "instrument de musique indonésien"
+    ],
+    [
+      "tissu porté autour du corps"
     ]
   ],
   "model": "qwen3:14b"

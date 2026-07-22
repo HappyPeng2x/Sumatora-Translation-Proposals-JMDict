@@ -1,0 +1,13 @@
+{
+  "seq": 1047760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boîte à gants"
+    ],
+    [
+      "boîte à gants étanche et transparente; dans laquelle des gants fixes sont insérés et qui permet de manipuler des substances radioactives ou toxiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

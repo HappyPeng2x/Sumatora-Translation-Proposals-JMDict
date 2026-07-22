@@ -1,0 +1,20 @@
+{
+  "seq": 1049110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coin"
+    ],
+    [
+      "segment",
+      "émission",
+      "chronique"
+    ],
+    [
+      "zone",
+      "service",
+      "section"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

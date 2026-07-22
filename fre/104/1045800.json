@@ -1,0 +1,10 @@
+{
+  "seq": 1045800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un casse-tête en forme de grille où il faut remplir des cases avec des lettres pour former des mots selon des indices donnés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

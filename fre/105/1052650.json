@@ -1,0 +1,17 @@
+{
+  "seq": 1052650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contenu",
+      "contenants"
+    ],
+    [
+      "table des matières"
+    ],
+    [
+      "sommaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

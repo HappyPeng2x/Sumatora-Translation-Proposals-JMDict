@@ -4,6 +4,11 @@
   "glosses": [
     [
       "crêpe"
+    ],
+    [
+      "crêpe fine",
+      "gaufre mince",
+      "crêpe de type allemand ou néerlandais"
     ]
   ],
   "model": "qwen3:14b"

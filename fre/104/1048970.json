@@ -21,6 +21,25 @@
     [
       "ensemble de pièces conçues pour être utilisées ensemble",
       "ensemble de meubles coordonnés"
+    ],
+    [
+      "mettre d'accord",
+      "synchroniser"
+    ],
+    [
+      "associer",
+      "combiner",
+      "allier",
+      "harmoniser (des vêtements)"
+    ],
+    [
+      "synchroniser",
+      "coordonner"
+    ],
+    [
+      "associer",
+      "combiner",
+      "harmoniser (des vêtements)"
     ]
   ],
   "model": "qwen3:14b"

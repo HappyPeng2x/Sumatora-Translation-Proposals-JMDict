@@ -4,6 +4,25 @@
   "glosses": [
     [
       "liège"
+    ],
+    [
+      "bouchon de bouteille",
+      "bouchon de vin",
+      "bouchon",
+      "bouchon (gén.)",
+      "bouchonnet (gén.)"
+    ],
+    [
+      "cork (mat.)",
+      "chêne-liège (gén.)",
+      "cork (arch.)"
+    ],
+    [
+      "bouchon de bouteille",
+      "bouchon de vin",
+      "bouchon",
+      "bouchon (gén.)",
+      "bouchonnet (gén.)"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,13 @@
+{
+  "seq": 1045120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navigation"
+    ],
+    [
+      "longue voyage en voiture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

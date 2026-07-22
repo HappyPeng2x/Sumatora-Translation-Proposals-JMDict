@@ -1,0 +1,14 @@
+{
+  "seq": 1059040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crayfish",
+      "crawfish"
+    ],
+    [
+      "crabe d'eau douce américain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

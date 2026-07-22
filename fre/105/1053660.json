@@ -1,0 +1,15 @@
+{
+  "seq": 1053660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pâtisserie",
+      "confiserie"
+    ],
+    [
+      "confiserie",
+      "pâtisserie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1051000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui travaille dans un centre d'appel téléphonique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

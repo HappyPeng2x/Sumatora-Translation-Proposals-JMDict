@@ -9,6 +9,10 @@
     [
       "site internet",
       "site web"
+    ],
+    [
+      "site web",
+      "site internet"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,10 @@
+{
+  "seq": 1046510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liste des substances généralement reconnues comme sûres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,10 @@
   "glosses": [
     [
       "compote"
+    ],
+    [
+      "assiette à compote",
+      "assiette sur pied"
     ]
   ],
   "model": "qwen3:14b"

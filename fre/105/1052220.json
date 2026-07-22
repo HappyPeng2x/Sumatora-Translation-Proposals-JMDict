@@ -1,0 +1,14 @@
+{
+  "seq": 1052220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "constructeur",
+      "ingénieur"
+    ],
+    [
+      "méthode de construction (en programmation orientée objet)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

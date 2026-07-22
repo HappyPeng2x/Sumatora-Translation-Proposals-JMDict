@@ -1,0 +1,15 @@
+{
+  "seq": 1049310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise",
+      "organisation"
+    ],
+    [
+      "société",
+      "entité juridique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

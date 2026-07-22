@@ -5,6 +5,13 @@
     [
       "croix",
       "signe de croix"
+    ],
+    [
+      "croix",
+      "signe de croix"
+    ],
+    [
+      "blason familial comportant une croix"
     ]
   ],
   "model": "qwen3:14b"

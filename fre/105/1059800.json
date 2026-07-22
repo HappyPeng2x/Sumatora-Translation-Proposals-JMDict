@@ -10,6 +10,24 @@
     [
       "boisson au lait",
       "milkshake"
+    ],
+    [
+      "boisson sans alcool mélangée"
+    ],
+    [
+      "secouer"
+    ],
+    [
+      "mélanger"
+    ],
+    [
+      "secouer"
+    ],
+    [
+      "mélanger"
+    ],
+    [
+      "boisson sans alcool mélangée"
     ]
   ],
   "model": "qwen3:14b"

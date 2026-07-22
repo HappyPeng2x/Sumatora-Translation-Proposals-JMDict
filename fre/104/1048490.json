@@ -6,6 +6,9 @@
       "hôte dans un bar pour hommes homosexuels",
       "homme efféminé qui parle et s'habille comme une femme",
       "jeune homme homosexuel"
+    ],
+    [
+      "homosexuel"
     ]
   ],
   "model": "qwen3:14b"

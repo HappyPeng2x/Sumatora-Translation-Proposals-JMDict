@@ -5,7 +5,10 @@
     [
       "édition clandestine"
     ],
-    []
+    [
+      "terre de Samizdat",
+      "terre de Samizdat (mouvement littéraire dissident)"
+    ]
   ],
   "model": "qwen3:14b"
 }

@@ -1,0 +1,13 @@
+{
+  "seq": 1053580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "informatique"
+    ],
+    [
+      "traitement électronique des données"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

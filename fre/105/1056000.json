@@ -1,0 +1,10 @@
+{
+  "seq": 1056000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecteur complémentaire dans un cours de langue étrangère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

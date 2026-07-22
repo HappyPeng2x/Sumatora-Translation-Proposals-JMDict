@@ -1,0 +1,21 @@
+{
+  "seq": 1044520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "net",
+      "propre",
+      "sans tache"
+    ],
+    [
+      "habile",
+      "impeccable"
+    ],
+    [
+      "moralement irréprochable",
+      "propre",
+      "fraîchement lavé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

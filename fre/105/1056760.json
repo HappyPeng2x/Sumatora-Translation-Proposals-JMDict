@@ -5,6 +5,9 @@
     [
       "ceinture",
       "cadre de fenêtre coulissante (surtout en métal)"
+    ],
+    [
+      "ceinture (en particulier en cuir)"
     ]
   ],
   "model": "qwen3:14b"

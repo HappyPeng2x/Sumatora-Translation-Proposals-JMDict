@@ -9,6 +9,9 @@
     [
       "Saturne (planète)",
       "Saturne (planète du système solaire)"
+    ],
+    [
+      "Saturne (fusée)"
     ]
   ],
   "model": "qwen3:14b"

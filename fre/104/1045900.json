@@ -4,6 +4,9 @@
   "glosses": [
     [
       "chronographe"
+    ],
+    [
+      "chronomètre"
     ]
   ],
   "model": "qwen3:14b"

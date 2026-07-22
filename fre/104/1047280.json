@@ -1,0 +1,13 @@
+{
+  "seq": 1047280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regroupement"
+    ],
+    [
+      "regroupement de coups portés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

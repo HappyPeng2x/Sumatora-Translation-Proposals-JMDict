@@ -5,6 +5,11 @@
     [
       "visière solaire",
       "protection solaire pour les yeux"
+    ],
+    [
+      "protection solaire pour le visage",
+      "écrans solaires",
+      "pare-soleil"
     ]
   ],
   "model": "qwen3:14b"

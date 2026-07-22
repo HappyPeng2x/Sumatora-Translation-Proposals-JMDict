@@ -6,6 +6,19 @@
       "mesure",
       "étalon",
       "calibre"
+    ],
+    [
+      "largeur de voie",
+      "instrument de mesure; mètre"
+    ],
+    [
+      "numéro de maille (dans les tissus tricotés)"
+    ],
+    [
+      "calibre"
+    ],
+    [
+      "étalonnage"
     ]
   ],
   "model": "qwen3:14b"

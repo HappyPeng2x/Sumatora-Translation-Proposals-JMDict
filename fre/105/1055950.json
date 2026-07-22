@@ -4,6 +4,9 @@
   "glosses": [
     [
       "table de côté"
+    ],
+    [
+      "panneau d'affichage sur un train (avec des informations sur la destination)"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,31 @@
+{
+  "seq": 1048830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course"
+    ],
+    [
+      "programme d'études"
+    ],
+    [
+      "piste (dans une course, natation, etc.)"
+    ],
+    [
+      "chemin; itinéraire; politique; démarche"
+    ],
+    [
+      "plat (dans un repas à plusieurs plats)"
+    ],
+    [
+      "repas complet; repas à plusieurs plats"
+    ],
+    [
+      "option; service proposé; cours"
+    ],
+    [
+      "trajectoire d'une balle en lancer (baseball)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

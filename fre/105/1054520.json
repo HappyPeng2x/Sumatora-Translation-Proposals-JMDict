@@ -6,6 +6,11 @@
       "bruit sourd",
       "coup sourd",
       "claquement sec"
+    ],
+    [
+      "bruit sourd",
+      "coup sourd",
+      "claquement sec"
     ]
   ],
   "model": "qwen3:14b"

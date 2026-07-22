@@ -4,6 +4,14 @@
   "glosses": [
     [
       "cage"
+    ],
+    [
+      "ascenseur",
+      "cabine d'ascenseur",
+      "John Cage (compositeur et pianiste américain; 1912-1992)"
+    ],
+    [
+      "bascule (minéralogie)"
     ]
   ],
   "model": "qwen3:14b"

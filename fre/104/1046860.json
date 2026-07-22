@@ -5,6 +5,9 @@
     [
       "spectacle ostentatoire",
       "performance theatrale"
+    ],
+    [
+      "manipulation"
     ]
   ],
   "model": "qwen3:14b"

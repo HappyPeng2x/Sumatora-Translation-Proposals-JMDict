@@ -1,0 +1,14 @@
+{
+  "seq": 1055040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "serveuse",
+      "hôtesse de restaurant"
+    ],
+    [
+      "prostituée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

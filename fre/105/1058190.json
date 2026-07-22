@@ -9,6 +9,9 @@
     [
       "goût acide",
       "saveur acide"
+    ],
+    [
+      "acide"
     ]
   ],
   "model": "qwen3:14b"

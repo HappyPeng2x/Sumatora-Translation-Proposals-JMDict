@@ -1,0 +1,15 @@
+{
+  "seq": 1052710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "condensateur",
+      "condenseur"
+    ],
+    [
+      "condenseur",
+      "évaporateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

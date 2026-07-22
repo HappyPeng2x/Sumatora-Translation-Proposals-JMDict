@@ -1,0 +1,13 @@
+{
+  "seq": 1060600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "situation"
+    ],
+    [
+      "conjoncture critique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

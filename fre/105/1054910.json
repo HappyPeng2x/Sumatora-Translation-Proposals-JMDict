@@ -4,6 +4,10 @@
   "glosses": [
     [
       "surcharge"
+    ],
+    [
+      "taxe sur le carburant",
+      "supplément au carburant kérozène"
     ]
   ],
   "model": "qwen3:14b"

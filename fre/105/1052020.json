@@ -1,0 +1,13 @@
+{
+  "seq": 1052020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concis"
+    ],
+    [
+      "dictionnaire de poche Concise (édité par Sanseidō)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,36 @@
+{
+  "seq": 1046950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vert"
+    ],
+    [
+      "écologique",
+      "énergies renouvelables",
+      "véhicule écologique"
+    ],
+    [
+      "terre",
+      "espace vert",
+      "pelouse"
+    ],
+    [
+      "green (golf)",
+      "aire de green",
+      "zone de putting"
+    ],
+    [
+      "(allemand) Thomas Hill Green (philosophe néo-hégélien américain; 1836-1882)",
+      "(néerlandais) vert",
+      "écologique",
+      "sécurité environnementale",
+      "écologie"
+    ],
+    [
+      "(allemand) Julien Green (écrivain américain d'expression française; 1900-1998)",
+      "(anglais) Graham Greene (écrivain anglais; 1904-1991)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

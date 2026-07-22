@@ -1,0 +1,19 @@
+{
+  "seq": 1044070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classe"
+    ],
+    [
+      "cours",
+      "heure de cours"
+    ],
+    [
+      "classe",
+      "catégorie",
+      "type"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
