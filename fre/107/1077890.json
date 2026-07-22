@@ -1,0 +1,15 @@
+{
+  "seq": 1077890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cloche",
+      "sonnette"
+    ],
+    [
+      "cloche de porte",
+      "sonnette de porte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,10 @@
   "glosses": [
     [
       "textile"
+    ],
+    [
+      "abréviation",
+      "design textile"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,41 @@
+{
+  "seq": 1076980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(mettre) à terre",
+      "down"
+    ],
+    [
+      "faire tomber (un adversaire) en boxe",
+      "être mis à terre en boxe"
+    ],
+    [
+      "être hors de combat (par maladie, fatigue, etc.)",
+      "être abattu (par l'alcool)",
+      "être en état de choc"
+    ],
+    [
+      "tomber en panne (d'un système informatique, serveur, etc.)",
+      "crasher"
+    ],
+    [
+      "le nombre de buts encaissés",
+      "le nombre d'outs"
+    ],
+    [
+      "être en déficit (de points, de matchs, etc.)",
+      "être en arrière"
+    ],
+    [
+      "le down en football américain"
+    ],
+    [
+      "les plumes (d'un duvet)"
+    ],
+    [
+      "veste de survie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

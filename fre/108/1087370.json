@@ -5,6 +5,9 @@
     [
       "filet de pêche",
       "filet de traîne"
+    ],
+    [
+      "pêcher avec un filet posé sur le fond"
     ]
   ],
   "model": "qwen3:14b"

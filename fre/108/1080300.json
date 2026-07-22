@@ -1,0 +1,16 @@
+{
+  "seq": 1080300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "télégraphe"
+    ],
+    [
+      "télégramme; télégraphie"
+    ],
+    [
+      "télégramme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

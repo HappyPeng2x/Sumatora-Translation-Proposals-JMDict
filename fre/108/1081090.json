@@ -1,0 +1,15 @@
+{
+  "seq": 1081090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "modèle",
+      "plan",
+      "schéma"
+    ],
+    [
+      "modèle (d'après le néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

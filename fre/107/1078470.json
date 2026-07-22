@@ -4,6 +4,9 @@
   "glosses": [
     [
       "thon (surtout en conserve)"
+    ],
+    [
+      "thon en boîte"
     ]
   ],
   "model": "qwen3:14b"

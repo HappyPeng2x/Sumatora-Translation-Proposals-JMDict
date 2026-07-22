@@ -1,0 +1,17 @@
+{
+  "seq": 1082460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "directeur",
+      "directrice"
+    ],
+    [
+      "chef d'orchestre"
+    ],
+    [
+      "directeur de programmation de la radio"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

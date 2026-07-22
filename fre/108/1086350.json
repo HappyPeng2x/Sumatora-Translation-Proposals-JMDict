@@ -4,6 +4,9 @@
   "glosses": [
     [
       "transmission (d'un véhicule motorisé)"
+    ],
+    [
+      "boîte de vitesses"
     ]
   ],
   "model": "qwen3:14b"

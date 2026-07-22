@@ -1,0 +1,10 @@
+{
+  "seq": 1088040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un genre de musique populaire dans les années 1950, caractérisé par des harmonies vocales et des textes simples"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

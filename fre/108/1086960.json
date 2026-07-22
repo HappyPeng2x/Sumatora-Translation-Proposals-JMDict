@@ -4,6 +4,9 @@
   "glosses": [
     [
       "traceur"
+    ],
+    [
+      "traceur de cartes (d'après un cliché aérien)"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,9 @@
     [
       "télégraphe télétypé",
       "échange télétypé"
+    ],
+    [
+      "message telex"
     ]
   ],
   "model": "qwen3:14b"

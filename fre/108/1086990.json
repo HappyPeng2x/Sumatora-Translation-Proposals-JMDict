@@ -14,6 +14,24 @@
     ],
     [
       "trace (d'une matrice)"
+    ],
+    [
+      "marque de pointe"
+    ],
+    [
+      "chemin marqué; sentier"
+    ],
+    [
+      "dessiner; concevoir"
+    ],
+    [
+      "trace laissée par un objet en mouvement"
+    ],
+    [
+      "perforer; faire des points de suture"
+    ],
+    [
+      "suivre; poursuivre"
     ]
   ],
   "model": "qwen3:14b"

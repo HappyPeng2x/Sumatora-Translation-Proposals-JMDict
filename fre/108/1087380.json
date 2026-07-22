@@ -13,6 +13,9 @@
       "l'or",
       "et",
       "l'argent"
+    ],
+    [
+      "ville légendaire de la Grèce antique"
     ]
   ],
   "model": "qwen3:14b"

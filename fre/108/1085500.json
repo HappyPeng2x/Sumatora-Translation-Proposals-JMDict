@@ -11,6 +11,15 @@
     ],
     [
       "essai (au rugby)"
+    ],
+    [
+      "tenter quelque chose",
+      "faire une tentative",
+      "essayer quelque chose"
+    ],
+    [
+      "faire un essai (au rugby)",
+      "réaliser une tentative (au rugby)"
     ]
   ],
   "model": "qwen3:14b"

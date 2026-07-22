@@ -1,0 +1,34 @@
+{
+  "seq": 1076900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cadran (composer)"
+    ],
+    [
+      "cadran",
+      "échelle"
+    ],
+    [
+      "roue de calibrage (d'un radio)"
+    ],
+    [
+      "appeler",
+      "choisir"
+    ],
+    [
+      "disque de sélection (d'un téléphone); disque numérique"
+    ],
+    [
+      "cadran",
+      "échelle"
+    ],
+    [
+      "roue de calibrage (d'un radio)"
+    ],
+    [
+      "appeler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

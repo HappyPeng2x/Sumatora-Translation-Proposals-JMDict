@@ -6,6 +6,15 @@
       "essai",
       "test",
       "démo"
+    ],
+    [
+      "essai",
+      "test",
+      "démo"
+    ],
+    [
+      "essai",
+      "test"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,15 @@
   "glosses": [
     [
       "dépôt"
+    ],
+    [
+      "stockage intermédiaire"
+    ],
+    [
+      "dépôt (par exemple d'un entrepôt)"
+    ],
+    [
+      "dépôt; stockage intermédiaire (lors d'une expédition ou en montagne)"
     ]
   ],
   "model": "qwen3:14b"

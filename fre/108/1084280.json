@@ -1,0 +1,14 @@
+{
+  "seq": 1084280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "délicatesse",
+      "tact",
+      "sensibilité",
+      "considération",
+      "prévenance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

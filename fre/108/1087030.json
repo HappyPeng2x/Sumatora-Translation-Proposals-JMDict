@@ -1,0 +1,15 @@
+{
+  "seq": 1087030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commerce",
+      "échange",
+      "transaction"
+    ],
+    [
+      "(du néerlandais) transfert"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

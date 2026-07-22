@@ -1,0 +1,13 @@
+{
+  "seq": 1078090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tutorial"
+    ],
+    [
+      "cours magistral"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

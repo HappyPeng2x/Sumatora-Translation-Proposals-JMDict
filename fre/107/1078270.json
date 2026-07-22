@@ -1,0 +1,14 @@
+{
+  "seq": 1078270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chocolat"
+    ],
+    [
+      "chocolat en poudre",
+      "lait au chocolat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

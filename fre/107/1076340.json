@@ -18,6 +18,18 @@
     [
       "contact électrique",
       "branchement électrique"
+    ],
+    [
+      "danse de salon"
+    ],
+    [
+      "frapper; tapoter"
+    ],
+    [
+      "petit coup; claque"
+    ],
+    [
+      "effleurer; toucher légèrement"
     ]
   ],
   "model": "qwen3:14b"

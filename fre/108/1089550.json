@@ -8,6 +8,9 @@
     [
       "jour férié",
       "jour de congé"
+    ],
+    [
+      "Hakata-Hafenfest (abréviation)"
     ]
   ],
   "model": "qwen3:14b"

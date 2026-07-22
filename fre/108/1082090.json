@@ -6,6 +6,9 @@
       "détail",
       "particularité",
       "élément spécifique"
+    ],
+    [
+      "dessin détaillé"
     ]
   ],
   "model": "qwen3:14b"

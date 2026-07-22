@@ -1,0 +1,14 @@
+{
+  "seq": 1083380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "situation où un système est bloqué et ne peut pas continuer à fonctionner",
+      "impasse"
+    ],
+    [
+      "récif caché"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

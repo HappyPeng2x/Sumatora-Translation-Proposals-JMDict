@@ -7,6 +7,10 @@
     ],
     [
       "package à double ligne, DIP"
+    ],
+    [
+      "appui en flexion",
+      "appui sur le barre"
     ]
   ],
   "model": "qwen3:14b"

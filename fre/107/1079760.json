@@ -1,0 +1,22 @@
+{
+  "seq": 1079760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épreuve",
+      "essai",
+      "examen",
+      "test"
+    ],
+    [
+      "essai",
+      "épreuve",
+      "vérification"
+    ],
+    [
+      "répétition",
+      "répétition générale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

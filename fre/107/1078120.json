@@ -1,0 +1,14 @@
+{
+  "seq": 1078120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ajustage",
+      "réglage"
+    ],
+    [
+      "adaptation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

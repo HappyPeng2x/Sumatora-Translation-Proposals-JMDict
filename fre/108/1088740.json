@@ -1,0 +1,15 @@
+{
+  "seq": 1088740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dragon",
+      "mythique"
+    ],
+    [
+      "jeu de voile",
+      "chasse au draak"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

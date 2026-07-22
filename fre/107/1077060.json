@@ -6,6 +6,27 @@
       "course rapide",
       "foulée rapide",
       "bond"
+    ],
+    [
+      "ligne de mise en évidence"
+    ],
+    [
+      "accent diacritique; signe d'accentuation; marque d'accentuation"
+    ],
+    [
+      "trait de suspension; tiret; trait d'union"
+    ],
+    [
+      "tiret long; tiret de suspension; tiret em; tiret en"
+    ],
+    [
+      "trait; marque; signe; apostrophe (souvent utilisée comme remplacement de l'apostrophe)"
+    ],
+    [
+      "marquer d'un trait; porter un trait"
+    ],
+    [
+      "faire une offensive; charger; attaquer; foncer"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1087630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tunnel"
+    ],
+    [
+      "tunneler (à travers une barrière de potentiel)"
+    ],
+    [
+      "laisser une balle basse passer entre ses jambes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

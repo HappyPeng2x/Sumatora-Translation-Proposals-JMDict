@@ -1,0 +1,12 @@
+{
+  "seq": 1088030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "auto-entretien",
+      "bricolage",
+      "faire soi-même"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

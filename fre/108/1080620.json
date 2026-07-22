@@ -1,0 +1,12 @@
+{
+  "seq": 1080620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vidéophone",
+      "téléphone vidéo",
+      "appel vidéo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "système d'exploitation disque",
       "système d'exploitation DOS"
+    ],
+    [
+      "système d'exploitation disque compatible IBM"
     ]
   ],
   "model": "qwen3:14b"

@@ -6,6 +6,14 @@
       "drifter",
       "nomade",
       "personne qui se déplace sans cesse d'un endroit à un autre"
+    ],
+    [
+      "vagabond",
+      "errant",
+      "personne sans but qui voyage"
+    ],
+    [
+      "navire à vapeur pour la pêche au treuil"
     ]
   ],
   "model": "qwen3:14b"

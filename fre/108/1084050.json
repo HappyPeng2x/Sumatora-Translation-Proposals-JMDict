@@ -4,6 +4,9 @@
   "glosses": [
     [
       "démographique"
+    ],
+    [
+      "profil démographique"
     ]
   ],
   "model": "qwen3:14b"

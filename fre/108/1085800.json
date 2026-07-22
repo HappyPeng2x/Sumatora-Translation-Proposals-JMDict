@@ -1,0 +1,15 @@
+{
+  "seq": 1085800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déchet",
+      "ordure"
+    ],
+    [
+      "bavardage inutile",
+      "parler sans importance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1076470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tour"
+    ],
+    [
+      "enveloppe d'un tour",
+      "enveloppe d'un tour"
+    ],
+    [
+      "tour de contrôle",
+      "tour de contrôle",
+      "tour de contrôle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

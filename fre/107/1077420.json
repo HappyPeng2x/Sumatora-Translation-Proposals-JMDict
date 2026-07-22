@@ -1,0 +1,25 @@
+{
+  "seq": 1077420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaîne"
+    ],
+    [
+      "chaîne (de magasins, d'hôtels, etc.)"
+    ],
+    [
+      "chaîne (de neige)"
+    ],
+    [
+      "chaîne (de magasins); chaîne hôtelière"
+    ],
+    [
+      "chaîne de mesure"
+    ],
+    [
+      "chaîne (unité de longueur britannique et américaine; 20; 11 m)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

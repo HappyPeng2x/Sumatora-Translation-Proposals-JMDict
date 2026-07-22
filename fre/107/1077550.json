@@ -1,0 +1,39 @@
+{
+  "seq": 1077550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tissu à carreaux",
+      "plaid",
+      "à carreaux",
+      "à damier"
+    ],
+    [
+      "vérifier",
+      "surveiller",
+      "examiner",
+      "scruter",
+      "inspecter"
+    ],
+    [
+      "chèque",
+      "note (de restaurant)"
+    ],
+    [
+      "échec au roi (aux échecs)"
+    ],
+    [
+      "chèque (billet à ordre)"
+    ],
+    [
+      "addition (dans un restaurant)"
+    ],
+    [
+      "échec (aux échecs)"
+    ],
+    [
+      "contrôle (en néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

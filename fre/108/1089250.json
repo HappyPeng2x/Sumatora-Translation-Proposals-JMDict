@@ -6,6 +6,9 @@
       "drap",
       "étoffe",
       "tissu"
+    ],
+    [
+      "tissu opaque"
     ]
   ],
   "model": "qwen3:14b"

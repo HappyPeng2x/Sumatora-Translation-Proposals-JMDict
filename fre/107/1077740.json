@@ -1,0 +1,18 @@
+{
+  "seq": 1077740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pourboire"
+    ],
+    [
+      "puce électronique"
+    ],
+    [
+      "extrémité",
+      "bout",
+      "pointe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

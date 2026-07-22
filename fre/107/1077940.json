@@ -5,6 +5,15 @@
     [
       "chat",
       "communication en temps réel sur Internet"
+    ],
+    [
+      "chat"
+    ],
+    [
+      "qat"
+    ],
+    [
+      "kyat"
     ]
   ],
   "model": "qwen3:14b"

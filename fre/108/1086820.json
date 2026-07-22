@@ -4,6 +4,9 @@
   "glosses": [
     [
       "truffe"
+    ],
+    [
+      "truffe de chocolat"
     ]
   ],
   "model": "qwen3:14b"

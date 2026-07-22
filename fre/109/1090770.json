@@ -4,6 +4,10 @@
   "glosses": [
     [
       "narration"
+    ],
+    [
+      "récit",
+      "narration"
     ]
   ],
   "model": "qwen3:14b"

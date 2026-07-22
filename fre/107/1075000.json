@@ -1,0 +1,19 @@
+{
+  "seq": 1075000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bon goût (musique, art, tact,etc...)",
+      "sens"
+    ],
+    [
+      "bon sens",
+      "jugement sain"
+    ],
+    [
+      "goût",
+      "esthétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

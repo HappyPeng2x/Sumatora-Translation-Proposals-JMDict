@@ -4,6 +4,9 @@
   "glosses": [
     [
       "aiguille"
+    ],
+    [
+      "aiguille de roche"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,14 @@
   "glosses": [
     [
       "tread (de pneu)"
+    ],
+    [
+      "largeur de la roue",
+      "distance entre les deux flancs d'une roue"
+    ],
+    [
+      "surface de contact d'une roue",
+      "partie de la roue qui touche le sol"
     ]
   ],
   "model": "qwen3:14b"

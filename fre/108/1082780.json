@@ -1,0 +1,12 @@
+{
+  "seq": 1082780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décodage",
+      "décodeur",
+      "décoder"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

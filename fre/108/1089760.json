@@ -1,0 +1,21 @@
+{
+  "seq": 1089760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chevalier",
+      "cavalier"
+    ],
+    [
+      "cheval",
+      "chevalier"
+    ],
+    [
+      "cheval (dans le jeu d'échecs)"
+    ],
+    [
+      "nuit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

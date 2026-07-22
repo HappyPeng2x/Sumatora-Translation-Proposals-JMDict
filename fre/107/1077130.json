@@ -1,0 +1,17 @@
+{
+  "seq": 1077130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poupée gonflable",
+      "mannequin",
+      "faux"
+    ],
+    [
+      "élément de remplacement",
+      "joker",
+      "témoin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

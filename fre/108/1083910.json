@@ -1,0 +1,14 @@
+{
+  "seq": 1083910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(fausse) rumeur (lit. dema(gogy))"
+    ],
+    [
+      "fausse nouvelle",
+      "fausse information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

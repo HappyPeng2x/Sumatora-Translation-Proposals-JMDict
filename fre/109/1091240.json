@@ -1,0 +1,15 @@
+{
+  "seq": 1091240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pinces à découpes",
+      "ciseaux à fil",
+      "pinces diagonales"
+    ],
+    [
+      "corsage (abréviation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

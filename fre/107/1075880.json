@@ -10,6 +10,9 @@
     [
       "jupe moulante",
       "jupe droite"
+    ],
+    [
+      "jupe ajustée"
     ]
   ],
   "model": "qwen3:14b"

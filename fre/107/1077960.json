@@ -1,0 +1,18 @@
+{
+  "seq": 1077960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaîne (de télévision)",
+      "chaîne (de télévision)"
+    ],
+    [
+      "canal de transmission",
+      "terme utilisé en communication"
+    ],
+    [
+      "canal de radio; canal de télévision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

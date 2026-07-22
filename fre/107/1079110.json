@@ -1,0 +1,16 @@
+{
+  "seq": 1079110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "papier toilette",
+      "papier de soin",
+      "papier mou"
+    ],
+    [
+      "papier de soie",
+      "papier mouillé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

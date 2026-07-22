@@ -1,0 +1,21 @@
+{
+  "seq": 1085920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ennuis (parfois utilisé comme verbe)",
+      "troubles"
+    ],
+    [
+      "panne (d'un moteur, d'une machine, d'un ordinateur, etc.)",
+      "défaillance",
+      "défectuosité"
+    ],
+    [
+      "condition",
+      "trouble (médical)",
+      "problème"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

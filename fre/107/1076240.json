@@ -18,6 +18,11 @@
       "collaboration",
       "travail d'équipe",
       "coopération"
+    ],
+    [
+      "équipe de lutte",
+      "lutte en équipe",
+      "match de lutte par équipe"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,19 @@
+{
+  "seq": 1076720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dialogue"
+    ],
+    [
+      "dialogue"
+    ],
+    [
+      "conversation"
+    ],
+    [
+      "boîte de dialogue (d'un programme informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

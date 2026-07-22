@@ -1,0 +1,17 @@
+{
+  "seq": 1087100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entraînement"
+    ],
+    [
+      "exercice physique",
+      "séance d'entraînement",
+      "entraînement musculaire",
+      "entraînement en force",
+      "entraînement avec poids"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

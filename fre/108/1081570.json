@@ -4,6 +4,9 @@
   "glosses": [
     [
       "diesel"
+    ],
+    [
+      "Rudolf Diesel; ingénieur allemand; 1858-1913"
     ]
   ],
   "model": "qwen3:14b"

@@ -19,6 +19,14 @@
     ],
     [
       "charge (rugby) ; foncer sur"
+    ],
+    [
+      "facturer",
+      "invoquer"
+    ],
+    [
+      "attaquer",
+      "assauter"
     ]
   ],
   "model": "qwen3:14b"

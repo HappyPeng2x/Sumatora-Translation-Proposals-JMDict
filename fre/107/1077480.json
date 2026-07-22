@@ -1,0 +1,10 @@
+{
+  "seq": 1077480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu de stratégie joué sur un échiquier avec des pièces représentant des rois, des reines, des rooks, des cavaliers, des fous et des pions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

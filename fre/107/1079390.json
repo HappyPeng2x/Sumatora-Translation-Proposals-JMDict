@@ -6,6 +6,10 @@
       "technique",
       "spécialisé",
       "professionnel"
+    ],
+    [
+      "spécialisé",
+      "académique"
     ]
   ],
   "model": "qwen3:14b"

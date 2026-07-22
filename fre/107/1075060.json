@@ -1,0 +1,18 @@
+{
+  "seq": 1075060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "centi-",
+      "centimètre"
+    ],
+    [
+      "centi-",
+      "centième"
+    ],
+    [
+      "sentimental"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

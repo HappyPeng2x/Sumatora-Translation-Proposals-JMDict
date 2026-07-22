@@ -1,0 +1,18 @@
+{
+  "seq": 1077690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prickling",
+      "stinging",
+      "tingling"
+    ],
+    [
+      "douloureux; piquant"
+    ],
+    [
+      "tourmenté par la conscience"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -15,6 +15,9 @@
       "saveur",
       "flair",
       "caractère"
+    ],
+    [
+      "taxe de snack"
     ]
   ],
   "model": "qwen3:14b"

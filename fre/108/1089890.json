@@ -1,0 +1,14 @@
+{
+  "seq": 1089890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "canif",
+      "couteau"
+    ],
+    [
+      "couteau de table"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

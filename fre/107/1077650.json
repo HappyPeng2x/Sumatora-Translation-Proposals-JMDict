@@ -1,0 +1,27 @@
+{
+  "seq": 1077650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échange",
+      "change (habits)",
+      "changement"
+    ],
+    [
+      "échange",
+      "mutual exchange",
+      "échange mutuel"
+    ],
+    [
+      "changement de camps",
+      "passage de l'autre côté du terrain",
+      "changement de côté du terrain"
+    ],
+    [
+      "changement de côté",
+      "passage à l'autre extrémité",
+      "changement d'extrémité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

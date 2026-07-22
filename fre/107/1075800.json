@@ -1,0 +1,19 @@
+{
+  "seq": 1075800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terme"
+    ],
+    [
+      "moment; terme"
+    ],
+    [
+      "terme; mot technique"
+    ],
+    [
+      "conditions; termes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

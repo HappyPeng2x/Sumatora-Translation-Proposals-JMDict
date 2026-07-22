@@ -9,6 +9,11 @@
     [
       "le Diable",
       "Satan"
+    ],
+    [
+      "l'Éternel",
+      "le Diable",
+      "Satan"
     ]
   ],
   "model": "qwen3:14b"

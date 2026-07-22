@@ -1,0 +1,14 @@
+{
+  "seq": 1081120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rythme",
+      "tempo"
+    ],
+    [
+      "tempo (musique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

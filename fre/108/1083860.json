@@ -4,6 +4,9 @@
   "glosses": [
     [
       "développeur"
+    ],
+    [
+      "bain de développement"
     ]
   ],
   "model": "qwen3:14b"

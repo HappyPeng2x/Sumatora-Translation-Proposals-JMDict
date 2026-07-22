@@ -1,0 +1,32 @@
+{
+  "seq": 1076850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plongeon",
+      "plongée"
+    ],
+    [
+      "saut en tête"
+    ],
+    [
+      "chute en piqué"
+    ],
+    [
+      "plongeon artistique et trampoline; plongeon en eau; plongée"
+    ],
+    [
+      "plongée; immersion"
+    ],
+    [
+      "saut en tête"
+    ],
+    [
+      "chute en piqué"
+    ],
+    [
+      "plongeon artistique et trampoline; plongeon en eau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

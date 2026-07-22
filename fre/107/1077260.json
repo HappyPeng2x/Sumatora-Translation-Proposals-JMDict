@@ -5,6 +5,9 @@
     [
       "salle de danse",
       "salle de bal"
+    ],
+    [
+      "lieu de danse"
     ]
   ],
   "model": "qwen3:14b"

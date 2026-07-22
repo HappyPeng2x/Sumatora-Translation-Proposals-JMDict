@@ -10,6 +10,18 @@
     [
       "veste à queue",
       "queue d'habit"
+    ],
+    [
+      "queue (d'un avion ou d'une voiture)",
+      "partie arrière (d'un avion ou d'une voiture)"
+    ],
+    [
+      "queue (d'un bœuf; en cuisine)",
+      "queue (d'un bœuf; en cuisine)"
+    ],
+    [
+      "taël (monnaie)",
+      "taël (monnaie)"
     ]
   ],
   "model": "qwen3:14b"

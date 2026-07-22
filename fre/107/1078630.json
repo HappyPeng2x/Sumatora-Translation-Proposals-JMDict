@@ -1,0 +1,21 @@
+{
+  "seq": 1078630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "table"
+    ],
+    [
+      "tableau",
+      "tablette",
+      "plaquette"
+    ],
+    [
+      "tableau",
+      "liste",
+      "calendrier",
+      "plan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

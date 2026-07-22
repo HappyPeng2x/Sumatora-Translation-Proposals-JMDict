@@ -1,0 +1,28 @@
+{
+  "seq": 1075040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "centre"
+    ],
+    [
+      "joueur de champ central (au baseball)",
+      "baseb",
+      "n"
+    ],
+    [
+      "joueur de champ central (au baseball)",
+      "baseb",
+      "n"
+    ],
+    [
+      "le centre",
+      "n"
+    ],
+    [
+      "le milieu (dans un contexte comme le milieu de terrain; etc.)",
+      "n"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1077790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charter",
+      "contrat",
+      "engagement",
+      "accord"
+    ],
+    [
+      "société en commandite par actions (Charter)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

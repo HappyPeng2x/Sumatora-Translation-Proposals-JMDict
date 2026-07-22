@@ -1,0 +1,10 @@
+{
+  "seq": 1079320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "début d'un texte ; STX"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1083890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépôt"
+    ],
+    [
+      "solde; dépôt bancaire"
+    ],
+    [
+      "caution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

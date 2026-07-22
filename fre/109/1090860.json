@@ -1,0 +1,19 @@
+{
+  "seq": 1090860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "numéro"
+    ],
+    [
+      "plaque d'immatriculation"
+    ],
+    [
+      "numéro; morceau de musique"
+    ],
+    [
+      "plaque d'immatriculation; numéro d'immatriculation; plaque de numéro"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

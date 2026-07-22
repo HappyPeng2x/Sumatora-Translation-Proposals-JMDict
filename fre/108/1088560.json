@@ -16,6 +16,15 @@
     [
       "pilote (logiciel)",
       "pilote (matériel)"
+    ],
+    [
+      "conducteur",
+      "automobiliste",
+      "personne qui conduit un véhicule"
+    ],
+    [
+      "agent de propulsion",
+      "élément qui provoque un mouvement ou une action"
     ]
   ],
   "model": "qwen3:14b"

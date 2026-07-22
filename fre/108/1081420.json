@@ -5,6 +5,9 @@
     [
       "datte",
       "date"
+    ],
+    [
+      "dattes"
     ]
   ],
   "model": "qwen3:14b"

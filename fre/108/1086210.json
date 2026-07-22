@@ -1,0 +1,16 @@
+{
+  "seq": 1086210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transit"
+    ],
+    [
+      "transit (satellite de navigation américain)"
+    ],
+    [
+      "passage; passage en transit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

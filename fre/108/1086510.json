@@ -4,6 +4,12 @@
   "glosses": [
     [
       "trio"
+    ],
+    [
+      "trio (musique)"
+    ],
+    [
+      "triplet; groupe de trois"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1088880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "le fait de battre des tambours",
+      "le jeu de tambour"
+    ],
+    [
+      "n",
+      "le fait de taper sur la poitrine avec les mains; comme un gorille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

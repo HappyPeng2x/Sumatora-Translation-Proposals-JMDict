@@ -1,0 +1,17 @@
+{
+  "seq": 1076890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diamant"
+    ],
+    [
+      "stade en forme de losange",
+      "zone centrale d'un terrain de baseball"
+    ],
+    [
+      "pique (symbole de jeu de cartes)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

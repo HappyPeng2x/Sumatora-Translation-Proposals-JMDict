@@ -6,6 +6,10 @@
       "dangereux",
       "périlleux",
       "difficile à maîtriser"
+    ],
+    [
+      "cunning",
+      "sournois"
     ]
   ],
   "model": "qwen3:14b"

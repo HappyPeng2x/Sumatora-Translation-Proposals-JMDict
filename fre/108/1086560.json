@@ -4,6 +4,9 @@
   "glosses": [
     [
       "tricot"
+    ],
+    [
+      "tissu tricoté"
     ]
   ],
   "model": "qwen3:14b"

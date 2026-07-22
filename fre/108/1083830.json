@@ -6,6 +6,13 @@
       "débris",
       "ruines",
       "amas de débris"
+    ],
+    [
+      "débris de neige et de rochers (issus d'une avalanche)",
+      "débris de neige et de rochers (provenant d'une avalanche)"
+    ],
+    [
+      "débris spatiaux; débris en orbite"
     ]
   ],
   "model": "qwen3:14b"

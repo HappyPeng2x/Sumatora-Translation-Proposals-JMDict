@@ -5,6 +5,9 @@
     [
       "copie exacte",
       "imitation servile"
+    ],
+    [
+      "copie d'un produit non autorisée"
     ]
   ],
   "model": "qwen3:14b"

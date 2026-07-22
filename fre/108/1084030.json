@@ -4,6 +4,9 @@
   "glosses": [
     [
       "démocrate"
+    ],
+    [
+      "membre du parti démocrate américain"
     ]
   ],
   "model": "qwen3:14b"

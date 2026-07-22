@@ -1,0 +1,19 @@
+{
+  "seq": 1089340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "meuble de toilette"
+    ],
+    [
+      "personne qui s'habille soigneusement"
+    ],
+    [
+      "table de toilette"
+    ],
+    [
+      "outil de finition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

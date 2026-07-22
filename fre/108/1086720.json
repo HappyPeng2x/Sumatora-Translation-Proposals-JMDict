@@ -1,0 +1,15 @@
+{
+  "seq": 1086720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trivialité",
+      "anecdote",
+      "information anecdotique"
+    ],
+    [
+      "(néerlandais) trivia; mythe romain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

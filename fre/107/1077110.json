@@ -1,0 +1,29 @@
+{
+  "seq": 1077110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "double"
+    ],
+    [
+      "lit double",
+      "chambre d'hôtel avec un lit double"
+    ],
+    [
+      "à double boutonnage"
+    ],
+    [
+      "à double ourlet"
+    ],
+    [
+      "largeur double (de tissu ; généralement 1,42 mètre)"
+    ],
+    [
+      "jeu en double (par exemple au tennis)"
+    ],
+    [
+      "personne de race mixte (surtout demi-japonaise) ; personne d'origine hybride"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

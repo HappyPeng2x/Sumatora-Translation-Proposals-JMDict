@@ -5,6 +5,22 @@
     [
       "delta",
       "delta"
+    ],
+    [
+      "delta (géographie)",
+      "delta fluvial"
+    ],
+    [
+      "forme en delta",
+      "forme triangulaire"
+    ],
+    [
+      "triangle des hanches",
+      "zone entre les jambes (argot)"
+    ],
+    [
+      "différence",
+      "delta (mathématiques)"
     ]
   ],
   "model": "qwen3:14b"

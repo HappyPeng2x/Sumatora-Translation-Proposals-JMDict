@@ -4,6 +4,9 @@
   "glosses": [
     [
       "diplôme"
+    ],
+    [
+      "attestation d'honneur; document officiel"
     ]
   ],
   "model": "qwen3:14b"

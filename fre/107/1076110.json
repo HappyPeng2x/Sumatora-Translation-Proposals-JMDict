@@ -1,0 +1,11 @@
+{
+  "seq": 1076110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appareil de comptage du temps",
+      "horloge de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

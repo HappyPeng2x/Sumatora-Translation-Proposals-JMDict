@@ -1,0 +1,18 @@
+{
+  "seq": 1075050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "positionnement au centre",
+      "centrage"
+    ],
+    [
+      "jeu au centre du terrain"
+    ],
+    [
+      "positionnement central",
+      "alignement au centre (d'un texte)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

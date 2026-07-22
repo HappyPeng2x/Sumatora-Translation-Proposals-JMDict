@@ -5,6 +5,14 @@
     [
       "chanteur ténor",
       "voix ténor"
+    ],
+    [
+      "chanteur ténor",
+      "voix ténor"
+    ],
+    [
+      "chanteur ténor",
+      "voix ténor"
     ]
   ],
   "model": "qwen3:14b"

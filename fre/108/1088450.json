@@ -1,0 +1,28 @@
+{
+  "seq": 1088450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sec"
+    ],
+    [
+      "sec (ton, humour, etc.) ; froid ; objectif ; professionnel ; pratique"
+    ],
+    [
+      "sec (d'alcool)"
+    ],
+    [
+      "(néerlandais) nettoyage chimique; (néerlandais belge; parlé) lavage à sec"
+    ],
+    [
+      "(néerlandais) sobre; détaché"
+    ],
+    [
+      "(néerlandais) professionnel; pratique; réaliste; sobre; indifférent; impassible; froid; insensible; dur; insensible"
+    ],
+    [
+      "(néerlandais) sec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

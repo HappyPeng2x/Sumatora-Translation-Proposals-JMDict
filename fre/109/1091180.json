@@ -6,6 +6,10 @@
       "marque",
       "entaille",
       "défaut"
+    ],
+    [
+      "nom propre",
+      "personne"
     ]
   ],
   "model": "qwen3:14b"

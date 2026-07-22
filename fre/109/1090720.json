@@ -1,0 +1,10 @@
+{
+  "seq": 1090720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne souffrant d'une maladie mentale caractérisée par une admiration excessive de soi-même et une mésestime des autres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

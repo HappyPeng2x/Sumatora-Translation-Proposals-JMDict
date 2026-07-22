@@ -6,6 +6,15 @@
       "diagramme",
       "graphique",
       "tableau"
+    ],
+    [
+      "diagramme; tableau; tableau statistique"
+    ],
+    [
+      "liste des titres musicaux les plus populaires; palmarès"
+    ],
+    [
+      "graphique; graphique boursier; diagramme boursier; hornstein (roche sédimentaire)"
     ]
   ],
   "model": "qwen3:14b"

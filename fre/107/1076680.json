@@ -1,0 +1,17 @@
+{
+  "seq": 1076680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diagramme",
+      "schéma"
+    ],
+    [
+      "horaire",
+      "planning",
+      "emploi du temps",
+      "tableau d'horaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

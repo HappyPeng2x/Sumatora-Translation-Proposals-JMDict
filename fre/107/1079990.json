@@ -1,0 +1,13 @@
+{
+  "seq": 1079990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "locataire"
+    ],
+    [
+      "propriétaire d'une succursale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

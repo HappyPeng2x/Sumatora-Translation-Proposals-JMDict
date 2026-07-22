@@ -4,6 +4,10 @@
   "glosses": [
     [
       "[n, abbr] from French délicatessen, a shop selling delicacies, specialty foods"
+    ],
+    [
+      "commerce de produits de luxe",
+      "commerce de spécialités culinaires"
     ]
   ],
   "model": "qwen3:14b"

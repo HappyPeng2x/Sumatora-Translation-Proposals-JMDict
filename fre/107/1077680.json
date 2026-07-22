@@ -1,0 +1,16 @@
+{
+  "seq": 1077680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poulet"
+    ],
+    [
+      "lâche",
+      "craintif",
+      "poule",
+      "loustic"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

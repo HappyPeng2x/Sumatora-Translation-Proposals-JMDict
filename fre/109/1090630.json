@@ -10,6 +10,10 @@
       "protection hygiénique",
       "protection hygiénique féminine",
       "coussin hygiénique"
+    ],
+    [
+      "serviette de bébé",
+      "serviette hygiénique pour bébé"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,13 @@
+{
+  "seq": 1081430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rendez-vous"
+    ],
+    [
+      "date (jour)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

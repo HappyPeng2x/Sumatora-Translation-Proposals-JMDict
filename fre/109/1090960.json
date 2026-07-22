@@ -6,6 +6,12 @@
       "besoins",
       "demandes",
       "requêtes"
+    ],
+    [
+      "économies en voie de développement"
+    ],
+    [
+      "système de base de données économique de la Nikkei"
     ]
   ],
   "model": "qwen3:14b"

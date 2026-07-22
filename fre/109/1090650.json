@@ -1,0 +1,12 @@
+{
+  "seq": 1090650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spaghetti à la napolitaine",
+      "spaghetti napolitain",
+      "spaghetti au ketchup"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1089660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "naïf",
+      "innocent",
+      "simple",
+      "franc",
+      "direct"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "combat aérien",
       "affrontement aérien"
+    ],
+    [
+      "combat aérien entre deux avions de chasse"
     ]
   ],
   "model": "qwen3:14b"

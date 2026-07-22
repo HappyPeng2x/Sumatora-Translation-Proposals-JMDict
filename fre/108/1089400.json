@@ -4,6 +4,15 @@
   "glosses": [
     [
       "dessin"
+    ],
+    [
+      "dessin (sportif)"
+    ],
+    [
+      "départage (dans un concours)"
+    ],
+    [
+      "tir à l'arc"
     ]
   ],
   "model": "qwen3:14b"

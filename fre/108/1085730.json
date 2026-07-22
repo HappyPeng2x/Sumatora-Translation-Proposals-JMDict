@@ -1,0 +1,20 @@
+{
+  "seq": 1085730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confiance",
+      "croyance",
+      "foi"
+    ],
+    [
+      "monopole",
+      "cartel"
+    ],
+    [
+      "fonds de trust",
+      "dispositif juridique de gestion d'actifs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

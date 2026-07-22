@@ -1,0 +1,14 @@
+{
+  "seq": 1078570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "départ",
+      "décollage"
+    ],
+    [
+      "moment à partir duquel une croissance devient autonome"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

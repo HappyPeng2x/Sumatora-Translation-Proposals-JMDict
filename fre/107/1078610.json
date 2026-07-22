@@ -6,6 +6,10 @@
       "taper",
       "pente",
       "déclivité"
+    ],
+    [
+      "cône",
+      "boule"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,31 @@
+{
+  "seq": 1076320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "touche",
+      "toucher"
+    ],
+    [
+      "participation",
+      "implication"
+    ],
+    [
+      "touch",
+      "style",
+      "manière"
+    ],
+    [
+      "tag",
+      "marquer"
+    ],
+    [
+      "high five",
+      "palms touch"
+    ],
+    [
+      "trait (dans une peinture)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

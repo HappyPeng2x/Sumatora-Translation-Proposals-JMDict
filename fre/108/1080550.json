@@ -1,0 +1,19 @@
+{
+  "seq": 1080550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "télévision"
+    ],
+    [
+      "appareil de télévision"
+    ],
+    [
+      "télévision"
+    ],
+    [
+      "appareil de télévision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

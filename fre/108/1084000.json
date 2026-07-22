@@ -1,0 +1,14 @@
+{
+  "seq": 1084000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manifestation (politique) (lit. demo(nstration))"
+    ],
+    [
+      "démonstration",
+      "présentation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

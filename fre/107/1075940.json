@@ -1,0 +1,25 @@
+{
+  "seq": 1075940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "genre",
+      "taper à la machine",
+      "type"
+    ],
+    [
+      "type (de personne)",
+      "profil idéal",
+      "son genre"
+    ],
+    [
+      "machine à écrire"
+    ],
+    [
+      "taper",
+      "acte de taper",
+      "frappe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

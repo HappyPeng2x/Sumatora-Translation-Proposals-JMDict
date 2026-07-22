@@ -1,0 +1,28 @@
+{
+  "seq": 1079970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanteur ténor",
+      "voix ténor",
+      "ténor (voix)"
+    ],
+    [
+      "psalmodie (partie mélodique principale)"
+    ],
+    [
+      "partie ténor",
+      "voix ténor",
+      "chanson ténor"
+    ],
+    [
+      "chanteur ténor",
+      "ténor (chanteur)"
+    ],
+    [
+      "instrument de ténor",
+      "instrument à voix ténor"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

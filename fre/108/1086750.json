@@ -4,6 +4,10 @@
   "glosses": [
     [
       "triple"
+    ],
+    [
+      "triplé",
+      "triplé"
     ]
   ],
   "model": "qwen3:14b"

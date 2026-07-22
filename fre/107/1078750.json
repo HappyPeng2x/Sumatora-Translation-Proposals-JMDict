@@ -1,0 +1,31 @@
+{
+  "seq": 1078750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bande magnétique",
+      "cassette (audio)"
+    ],
+    [
+      "slinge",
+      "band de papier"
+    ],
+    [
+      "ruban adhésif"
+    ],
+    [
+      "bande magnétique",
+      "cassette audio",
+      "bande de cassette"
+    ],
+    [
+      "bande vidéo",
+      "bande de vidéo"
+    ],
+    [
+      "ruban de mesure",
+      "ruban à mesurer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

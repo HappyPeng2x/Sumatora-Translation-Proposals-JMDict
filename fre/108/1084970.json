@@ -13,6 +13,16 @@
       "jet de pièce",
       "lancer de pièce",
       "tirage au sort par une pièce"
+    ],
+    [
+      "lancer en l'air",
+      "jeter",
+      "passer en avant"
+    ],
+    [
+      "tirer",
+      "lancer",
+      "envoyer"
     ]
   ],
   "model": "qwen3:14b"

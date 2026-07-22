@@ -6,6 +6,9 @@
       "tâche",
       "mission",
       "travail"
+    ],
+    [
+      "devoir"
     ]
   ],
   "model": "qwen3:14b"

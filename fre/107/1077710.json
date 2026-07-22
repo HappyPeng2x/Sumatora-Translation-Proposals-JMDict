@@ -11,6 +11,9 @@
     [
       "raconter des ragots",
       "colporter des commérages"
+    ],
+    [
+      "souffrant de remords"
     ]
   ],
   "model": "qwen3:14b"

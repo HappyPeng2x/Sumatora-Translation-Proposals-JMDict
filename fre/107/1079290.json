@@ -1,0 +1,17 @@
+{
+  "seq": 1079290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "texte"
+    ],
+    [
+      "livre de référence",
+      "manuel scolaire"
+    ],
+    [
+      "livre de cours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

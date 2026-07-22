@@ -1,0 +1,13 @@
+{
+  "seq": 1088010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "République Fédérale d'Allemagne (ex. Allemagne de l'ouest)"
+    ],
+    [
+      "République fédérale d'Allemagne (1949-1990) ; Allemagne de l'Ouest"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

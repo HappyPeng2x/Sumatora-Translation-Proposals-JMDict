@@ -6,6 +6,11 @@
       "sélecteur",
       "choisisseur",
       "désignateur"
+    ],
+    [
+      "sélectionneur",
+      "choisisseur",
+      "désignateur (spécialement pour des disques ou une composition d'équipe)"
     ]
   ],
   "model": "qwen3:14b"

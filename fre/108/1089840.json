@@ -5,6 +5,9 @@
     [
       "lieu de divertissement nocturne",
       "boîte de nuit"
+    ],
+    [
+      "lieu de divertissement nocturne"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,13 @@
+{
+  "seq": 1085400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "topologie"
+    ],
+    [
+      "topologie réseau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1089450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abandonné",
+      "désistante",
+      "démissionnaire"
+    ],
+    [
+      "déserteur",
+      "retraité",
+      "sorti"
+    ],
+    [
+      "abandon de formation",
+      "arrêt de formation",
+      "désistement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

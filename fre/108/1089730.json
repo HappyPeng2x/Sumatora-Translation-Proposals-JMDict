@@ -1,0 +1,12 @@
+{
+  "seq": 1089730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme mûr séduisant",
+      "homme d'âge moyen attirant",
+      "homme charmant de la trentaine ou de la quarantaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

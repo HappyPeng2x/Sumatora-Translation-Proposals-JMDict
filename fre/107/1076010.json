@@ -1,0 +1,19 @@
+{
+  "seq": 1076010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pause",
+      "temps"
+    ],
+    [
+      "temps",
+      "pour terminer une course, un tour, etc."
+    ],
+    [
+      "temps mort",
+      "dans le sport"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

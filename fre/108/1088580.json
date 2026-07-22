@@ -1,0 +1,28 @@
+{
+  "seq": 1088580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conduire",
+      "voyage en voiture"
+    ],
+    [
+      "faire une promenade en voiture",
+      "faire un voyage en voiture"
+    ],
+    [
+      "conduire",
+      "faire avancer"
+    ],
+    [
+      "pousser",
+      "provoquer",
+      "favoriser"
+    ],
+    [
+      "moteur",
+      "force motrice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

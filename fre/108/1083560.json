@@ -1,0 +1,11 @@
+{
+  "seq": 1083560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débogage",
+      "déboguer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

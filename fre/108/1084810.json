@@ -1,0 +1,14 @@
+{
+  "seq": 1084810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toilettes"
+    ],
+    [
+      "aller aux toilettes",
+      "se soulager"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

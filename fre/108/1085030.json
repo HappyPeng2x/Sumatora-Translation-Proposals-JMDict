@@ -1,0 +1,33 @@
+{
+  "seq": 1085030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en tête",
+      "premier",
+      "top"
+    ],
+    [
+      "position élevée"
+    ],
+    [
+      "direction; haut fonctionnaire"
+    ],
+    [
+      "page d'accueil"
+    ],
+    [
+      "direction; haut fonctionnaire"
+    ],
+    [
+      "principale; en première page"
+    ],
+    [
+      "vitesse maximale"
+    ],
+    [
+      "tresse de fil lisse et long pour la tapisserie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1075850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collaboration",
+      "partenariat",
+      "coopération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

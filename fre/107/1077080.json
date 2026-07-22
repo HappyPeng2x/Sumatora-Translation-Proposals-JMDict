@@ -10,6 +10,14 @@
     [
       "copie",
       "duplication (de bande audio)"
+    ],
+    [
+      "synchronisation",
+      "coordination"
+    ],
+    [
+      "copie",
+      "duplication"
     ]
   ],
   "model": "qwen3:14b"

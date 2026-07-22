@@ -4,6 +4,11 @@
   "glosses": [
     [
       "tradition"
+    ],
+    [
+      "légende",
+      "récit",
+      "tradition orale"
     ]
   ],
   "model": "qwen3:14b"

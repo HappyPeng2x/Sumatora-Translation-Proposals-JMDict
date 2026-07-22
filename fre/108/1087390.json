@@ -5,6 +5,9 @@
     [
       "cheval de Troie",
       "cheval de Troie (stratagème)"
+    ],
+    [
+      "cheval de Troie"
     ]
   ],
   "model": "qwen3:14b"

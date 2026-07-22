@@ -6,6 +6,10 @@
       "trio",
       "troïka",
       "trio de trois personnes ou choses"
+    ],
+    [
+      "troïka",
+      "trois dirigeants politiques régnant ensemble"
     ]
   ],
   "model": "qwen3:14b"

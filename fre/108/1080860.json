@@ -5,6 +5,12 @@
     [
       "terreur",
       "terrorisme"
+    ],
+    [
+      "terrorisme"
+    ],
+    [
+      "terroriste"
     ]
   ],
   "model": "qwen3:14b"

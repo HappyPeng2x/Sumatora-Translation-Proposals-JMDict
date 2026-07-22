@@ -1,0 +1,14 @@
+{
+  "seq": 1077340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef",
+      "principal",
+      "maître",
+      "directeur",
+      "commandant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1089720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bon coup",
+      "bonne prise",
+      "bonne frappe"
+    ],
+    [
+      "bonne prise de vue",
+      "bonne image"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

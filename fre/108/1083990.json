@@ -1,0 +1,14 @@
+{
+  "seq": 1083990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inconvénient",
+      "désavantage",
+      "défaut",
+      "point négatif",
+      "mauvais point"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

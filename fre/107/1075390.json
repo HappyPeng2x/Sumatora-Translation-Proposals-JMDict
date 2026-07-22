@@ -1,0 +1,14 @@
+{
+  "seq": 1075390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prise de courant"
+    ],
+    [
+      "branchement électrique",
+      "support pour ampoule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

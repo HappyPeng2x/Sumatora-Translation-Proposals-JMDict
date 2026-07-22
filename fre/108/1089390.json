@@ -14,6 +14,12 @@
     ],
     [
       "dessin"
+    ],
+    [
+      "lecture directe après écriture"
+    ],
+    [
+      "nom de famille"
     ]
   ],
   "model": "qwen3:14b"

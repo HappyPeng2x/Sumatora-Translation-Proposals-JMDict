@@ -1,0 +1,11 @@
+{
+  "seq": 1080740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boîte de téléphone",
+      "cabine téléphonique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

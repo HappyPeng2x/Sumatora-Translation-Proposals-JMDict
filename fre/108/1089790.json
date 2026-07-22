@@ -1,0 +1,13 @@
+{
+  "seq": 1089790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chapeau de nuit"
+    ],
+    [
+      "boisson alcoolisée prise avant de dormir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -15,6 +15,10 @@
     [
       "dispositif de retardateur (photographie)",
       "timer de retard (photographie)"
+    ],
+    [
+      "travailleur à temps partiel",
+      "employé à temps partiel"
     ]
   ],
   "model": "qwen3:14b"

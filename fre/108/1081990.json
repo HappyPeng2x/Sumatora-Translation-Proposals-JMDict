@@ -10,6 +10,10 @@
     [
       "écran",
       "moniteur"
+    ],
+    [
+      "animal",
+      "baltique"
     ]
   ],
   "model": "qwen3:14b"

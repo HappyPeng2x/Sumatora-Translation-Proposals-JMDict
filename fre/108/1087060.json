@@ -5,6 +5,11 @@
     [
       "marque déposée",
       "marque commerciale"
+    ],
+    [
+      "caractère distinctif",
+      "attribut particulier",
+      "trait distinctif"
     ]
   ],
   "model": "qwen3:14b"

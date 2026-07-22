@@ -5,6 +5,9 @@
     [
       "République tchèque",
       "Tchéquie"
+    ],
+    [
+      "République tchèque (jusqu'en 1993)"
     ]
   ],
   "model": "qwen3:14b"

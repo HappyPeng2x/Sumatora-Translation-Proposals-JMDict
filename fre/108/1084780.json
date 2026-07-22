@@ -1,0 +1,20 @@
+{
+  "seq": 1084780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ton",
+      "tonalité"
+    ],
+    [
+      "nuance",
+      "teinte",
+      "dégradé"
+    ],
+    [
+      "tonalité",
+      "couleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

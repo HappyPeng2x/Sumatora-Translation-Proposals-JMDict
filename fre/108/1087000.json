@@ -1,0 +1,15 @@
+{
+  "seq": 1087000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trader",
+      "spéculateur"
+    ],
+    [
+      "spéculateur financier",
+      "courtier en valeurs mobilières"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

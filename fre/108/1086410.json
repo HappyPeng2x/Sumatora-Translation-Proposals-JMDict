@@ -1,0 +1,15 @@
+{
+  "seq": 1086410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cartes à jouer (lit trump = atout)"
+    ],
+    [
+      "jeu de cartes",
+      "personne qui a le droit de jouer une carte d'atout",
+      "Donald Trump"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

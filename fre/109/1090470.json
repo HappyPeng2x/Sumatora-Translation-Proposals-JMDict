@@ -1,0 +1,18 @@
+{
+  "seq": 1090470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rien"
+    ],
+    [
+      "zéro",
+      "pas de balles (ou pas de strikes)"
+    ],
+    [
+      "aucun",
+      "pas du tout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

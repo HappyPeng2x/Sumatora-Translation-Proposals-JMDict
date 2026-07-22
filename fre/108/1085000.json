@@ -1,0 +1,15 @@
+{
+  "seq": 1085000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "toque"
+    ],
+    [
+      "n",
+      "manteau féminin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

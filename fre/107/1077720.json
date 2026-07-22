@@ -1,0 +1,19 @@
+{
+  "seq": 1077720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "billet",
+      "ticket"
+    ],
+    [
+      "guichet de vente de billets",
+      "guichet de vente de cartes"
+    ],
+    [
+      "vendeur de billets",
+      "vendeur de cartes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

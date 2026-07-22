@@ -17,6 +17,10 @@
     [
       "tablette graphique",
       "tablette de dessin"
+    ],
+    [
+      "ordinateur portable",
+      "tablette tactile"
     ]
   ],
   "model": "qwen3:14b"

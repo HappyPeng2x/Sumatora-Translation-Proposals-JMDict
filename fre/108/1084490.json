@@ -1,0 +1,15 @@
+{
+  "seq": 1084490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeton",
+      "jeton d'authentification"
+    ],
+    [
+      "séquence",
+      "séquence de bits"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

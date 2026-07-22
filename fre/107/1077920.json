@@ -1,0 +1,11 @@
+{
+  "seq": 1077920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chatter",
+      "blocage des touches (sur un clavier)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

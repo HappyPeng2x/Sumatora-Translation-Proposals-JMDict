@@ -10,6 +10,9 @@
     [
       "char d'assaut",
       "char"
+    ],
+    [
+      "char d'assaut"
     ]
   ],
   "model": "qwen3:14b"

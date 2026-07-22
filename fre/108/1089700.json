@@ -1,0 +1,18 @@
+{
+  "seq": 1089700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bon",
+      "bien fait",
+      "agréable"
+    ],
+    [
+      "bon",
+      "habile",
+      "plaisant",
+      "bien construit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

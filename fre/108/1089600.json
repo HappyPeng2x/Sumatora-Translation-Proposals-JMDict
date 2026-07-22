@@ -1,0 +1,13 @@
+{
+  "seq": 1089600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nursery"
+    ],
+    [
+      "chambre d'enfant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

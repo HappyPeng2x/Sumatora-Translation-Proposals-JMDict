@@ -4,6 +4,9 @@
   "glosses": [
     [
       "Tel Aviv (Israël)"
+    ],
+    [
+      "Tel Aviv (partie nord de la ville de Tel Aviv-Jaffa)"
     ]
   ],
   "model": "qwen3:14b"

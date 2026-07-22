@@ -1,0 +1,17 @@
+{
+  "seq": 1077090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scalper",
+      "revendeur de billets"
+    ],
+    [
+      "speculation sur les billets de train",
+      "vente de billets de train en dehors des canaux officiels",
+      "fraude liée aux billets d'accès",
+      "commerce noir de billets d'entrée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

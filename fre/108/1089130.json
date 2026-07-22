@@ -1,0 +1,12 @@
+{
+  "seq": 1089130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magasin de vente en gros",
+      "magasin de déstockage",
+      "boutique de prix réduits"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

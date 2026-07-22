@@ -4,6 +4,9 @@
   "glosses": [
     [
       "télécine"
+    ],
+    [
+      "film télévisé"
     ]
   ],
   "model": "qwen3:14b"

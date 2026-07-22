@@ -1,0 +1,21 @@
+{
+  "seq": 1075760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terminus"
+    ],
+    [
+      "station de fin de ligne",
+      "dernière station d'un itinéraire de transport"
+    ],
+    [
+      "équipement informatique permettant l'interaction entre un utilisateur et un ordinateur"
+    ],
+    [
+      "phase finale",
+      "dernière étape d'un processus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

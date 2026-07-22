@@ -5,6 +5,9 @@
     [
       "nazi",
       "national-socialiste"
+    ],
+    [
+      "membre de la NSDAP"
     ]
   ],
   "model": "qwen3:14b"

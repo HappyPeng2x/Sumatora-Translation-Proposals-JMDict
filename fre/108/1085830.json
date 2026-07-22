@@ -1,0 +1,22 @@
+{
+  "seq": 1085830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "piège"
+    ],
+    [
+      "pigeon voyageur; pigeon de sifflage; disque de lancer"
+    ],
+    [
+      "bouchon anti-odeur; bouchon de tuyau"
+    ],
+    [
+      "évacuation d'une chaudière à vapeur; machine à lancer; catapulte (pour le tir au pigeon voyageur)"
+    ],
+    [
+      "piège"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

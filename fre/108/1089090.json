@@ -1,0 +1,15 @@
+{
+  "seq": 1089090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dollar",
+      "poupée"
+    ],
+    [
+      "argent",
+      "numéraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1088120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "document"
+    ],
+    [
+      "document",
+      "document"
+    ],
+    [
+      "documentation",
+      "documentation"
+    ],
+    [
+      "documentaire",
+      "reportage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

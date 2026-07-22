@@ -1,0 +1,16 @@
+{
+  "seq": 1075900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "titre"
+    ],
+    [
+      "titre de championnat"
+    ],
+    [
+      "unité de mesure pour les titres; championnats"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

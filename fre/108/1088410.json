@@ -5,6 +5,9 @@
     [
       "domestique",
       "abrégé"
+    ],
+    [
+      "indigène"
     ]
   ],
   "model": "qwen3:14b"
