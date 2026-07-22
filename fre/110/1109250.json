@@ -4,6 +4,9 @@
   "glosses": [
     [
       "filament"
+    ],
+    [
+      "filament (électrique)"
     ]
   ],
   "model": "qwen3:14b"

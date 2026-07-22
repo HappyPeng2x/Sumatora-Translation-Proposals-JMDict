@@ -6,6 +6,9 @@
       "alimentateur",
       "distributeur",
       "canalisation d'alimentation"
+    ],
+    [
+      "automate de saisie documentaire"
     ]
   ],
   "model": "qwen3:14b"

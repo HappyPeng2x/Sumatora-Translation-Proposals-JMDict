@@ -8,6 +8,9 @@
     [
       "frankfurter",
       "frank"
+    ],
+    [
+      "saucisse de Francfort"
     ]
   ],
   "model": "qwen3:14b"

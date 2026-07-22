@@ -1,0 +1,31 @@
+{
+  "seq": 1108790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractéristique",
+      "élément distinctif",
+      "attribut",
+      "fonction",
+      "élément",
+      "partie"
+    ],
+    [
+      "film complet",
+      "long métrage",
+      "version non coupée"
+    ],
+    [
+      "article principal",
+      "rubrique",
+      "thème principal",
+      "attraction principale"
+    ],
+    [
+      "trait facial",
+      "expression",
+      "caractéristique physique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

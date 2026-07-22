@@ -6,6 +6,11 @@
       "unisexe",
       "tous tailles",
       "taille unique"
+    ],
+    [
+      "taille universelle",
+      "ajustabilité de la taille",
+      "adaptabilité de la taille"
     ]
   ],
   "model": "qwen3:14b"

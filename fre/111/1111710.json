@@ -4,6 +4,15 @@
   "glosses": [
     [
       "congélateur"
+    ],
+    [
+      "réfrigérateur",
+      "congélateur"
+    ],
+    [
+      "machine à glace",
+      "machine à sorbet",
+      "congélateur pour glace"
     ]
   ],
   "model": "qwen3:14b"

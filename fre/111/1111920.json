@@ -1,0 +1,15 @@
+{
+  "seq": 1111920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "freelance",
+      "travailleur indépendant"
+    ],
+    [
+      "travailleur indépendant",
+      "collaborateur libre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

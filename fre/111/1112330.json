@@ -1,0 +1,19 @@
+{
+  "seq": 1112330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cadre (d'un objet)"
+    ],
+    [
+      "fermeture (d'un feu)"
+    ],
+    [
+      "sortie (d'un élément d'une image)"
+    ],
+    [
+      "manque de synchronisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

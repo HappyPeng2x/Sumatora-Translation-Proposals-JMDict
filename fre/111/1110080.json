@@ -6,6 +6,9 @@
       "clôture",
       "barrière",
       "enceinte"
+    ],
+    [
+      "mur d'enceinte d'un stade"
     ]
   ],
   "model": "qwen3:14b"

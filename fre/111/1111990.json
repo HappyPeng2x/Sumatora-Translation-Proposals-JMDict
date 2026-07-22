@@ -1,0 +1,11 @@
+{
+  "seq": 1111990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flip-flop",
+      "circuit bistable (déclencheur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

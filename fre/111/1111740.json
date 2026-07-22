@@ -5,6 +5,9 @@
     [
       "freestyle",
       "n"
+    ],
+    [
+      "style libre"
     ]
   ],
   "model": "qwen3:14b"

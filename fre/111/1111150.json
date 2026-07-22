@@ -1,0 +1,11 @@
+{
+  "seq": 1111150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frites",
+      "chips"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

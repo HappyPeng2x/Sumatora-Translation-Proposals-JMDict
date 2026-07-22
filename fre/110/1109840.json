@@ -1,0 +1,11 @@
+{
+  "seq": 1109840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récupération",
+      "d'une instruction en mémoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

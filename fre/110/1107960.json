@@ -7,6 +7,11 @@
     ],
     [
       "fax; machine à fax"
+    ],
+    [
+      "copie exacte",
+      "reproduction fidèle",
+      "document reproduit en détail"
     ]
   ],
   "model": "qwen3:14b"

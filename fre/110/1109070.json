@@ -4,6 +4,10 @@
   "glosses": [
     [
       "physique"
+    ],
+    [
+      "physique",
+      "corporel"
     ]
   ],
   "model": "qwen3:14b"

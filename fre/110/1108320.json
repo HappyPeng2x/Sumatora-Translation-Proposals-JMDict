@@ -6,6 +6,11 @@
       "amusant",
       "drôle",
       "comique"
+    ],
+    [
+      "amusant",
+      "drôle",
+      "comique"
     ]
   ],
   "model": "qwen3:14b"

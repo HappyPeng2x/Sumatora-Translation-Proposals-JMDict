@@ -4,6 +4,9 @@
   "glosses": [
     [
       "flashback"
+    ],
+    [
+      "retour en arrière"
     ]
   ],
   "model": "qwen3:14b"

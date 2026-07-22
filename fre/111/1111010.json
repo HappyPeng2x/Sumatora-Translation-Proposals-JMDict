@@ -4,6 +4,10 @@
   "glosses": [
     [
       "[int] ha ha ha; hee hee hee"
+    ],
+    [
+      "flottant",
+      "nageant"
     ]
   ],
   "model": "qwen3:14b"

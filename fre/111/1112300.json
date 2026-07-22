@@ -1,0 +1,25 @@
+{
+  "seq": 1112300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saveur"
+    ],
+    [
+      "bon goût"
+    ],
+    [
+      "saveur (américain); caractéristique des quarks"
+    ],
+    [
+      "arôme; goût; odeur"
+    ],
+    [
+      "bon goût"
+    ],
+    [
+      "saveur; (américain) flavor (caractéristique des quarks)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

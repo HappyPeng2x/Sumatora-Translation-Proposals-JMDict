@@ -1,0 +1,10 @@
+{
+  "seq": 1111980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "test de clignotement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -8,6 +8,9 @@
     [
       "dispositif à combinaison libre",
       "verrou à combinaison libre"
+    ],
+    [
+      "service téléphonique gratuit"
     ]
   ],
   "model": "qwen3:14b"

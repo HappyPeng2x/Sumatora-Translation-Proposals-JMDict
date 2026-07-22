@@ -1,0 +1,14 @@
+{
+  "seq": 1111780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "libertinage",
+      "liberté sexuelle",
+      "ouverture sexuelle",
+      "attitude libérale envers le sexe",
+      "émancipation sexuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

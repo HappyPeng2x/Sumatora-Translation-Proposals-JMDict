@@ -1,0 +1,10 @@
+{
+  "seq": 1109030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui résout des problèmes ou qui arrange des situations difficiles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

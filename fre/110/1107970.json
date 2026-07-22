@@ -4,6 +4,9 @@
   "glosses": [
     [
       "faction"
+    ],
+    [
+      "mélange de faits et de fiction"
     ]
   ],
   "model": "qwen3:14b"

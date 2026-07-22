@@ -1,0 +1,11 @@
+{
+  "seq": 1108990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argent du combat",
+      "argent de la victoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1111900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marché aux puces"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

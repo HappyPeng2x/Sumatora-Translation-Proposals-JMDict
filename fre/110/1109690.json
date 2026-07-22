@@ -17,6 +17,17 @@
     [
       "feinte",
       "démarche trompeuse"
+    ],
+    [
+      "feinte",
+      "mouvement trompeur",
+      "démarche trompeuse"
+    ],
+    [
+      "faux",
+      "altération",
+      "modification",
+      "fausse version"
     ]
   ],
   "model": "qwen3:14b"

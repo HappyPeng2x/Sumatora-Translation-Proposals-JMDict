@@ -5,6 +5,11 @@
     [
       "final",
       "n"
+    ],
+    [
+      "dernier",
+      "final",
+      "déterminant"
     ]
   ],
   "model": "qwen3:14b"

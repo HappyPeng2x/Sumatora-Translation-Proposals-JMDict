@@ -17,6 +17,12 @@
     [
       "appartement",
       "studio"
+    ],
+    [
+      "platitude"
+    ],
+    [
+      "habitation"
     ]
   ],
   "model": "qwen3:14b"

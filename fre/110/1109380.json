@@ -1,0 +1,23 @@
+{
+  "seq": 1109380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "film",
+      "pellicule"
+    ],
+    [
+      "film photographique"
+    ],
+    [
+      "bande de film; bobine de film"
+    ],
+    [
+      "film; enregistrement"
+    ],
+    [
+      "caméra jetable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

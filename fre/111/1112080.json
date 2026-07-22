@@ -1,0 +1,10 @@
+{
+  "seq": 1112080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "établissement qui vend des fruits ou sert des gâteaux aux fruits, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

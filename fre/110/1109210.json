@@ -10,6 +10,9 @@
     [
       "atterrissage",
       "atterrissage en gymnastique"
+    ],
+    [
+      "atterrissage final en gymnastique"
     ]
   ],
   "model": "qwen3:14b"

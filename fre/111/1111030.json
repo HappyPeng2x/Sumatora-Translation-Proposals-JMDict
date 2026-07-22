@@ -4,6 +4,9 @@
   "glosses": [
     [
       "avenir"
+    ],
+    [
+      "transaction à terme"
     ]
   ],
   "model": "qwen3:14b"

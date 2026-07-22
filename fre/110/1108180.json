@@ -1,0 +1,14 @@
+{
+  "seq": 1108180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facsimile",
+      "fax"
+    ],
+    [
+      "machine à fax"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

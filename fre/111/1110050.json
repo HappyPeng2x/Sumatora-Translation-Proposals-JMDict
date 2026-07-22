@@ -1,0 +1,12 @@
+{
+  "seq": 1110050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fraternité",
+      "confrérie",
+      "association"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

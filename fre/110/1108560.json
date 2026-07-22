@@ -1,0 +1,15 @@
+{
+  "seq": 1108560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "funky",
+      "funky"
+    ],
+    [
+      "en couleurs vives",
+      "bariolé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

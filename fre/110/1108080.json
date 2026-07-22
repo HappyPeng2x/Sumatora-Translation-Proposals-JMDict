@@ -4,6 +4,9 @@
   "glosses": [
     [
       "fascisme"
+    ],
+    [
+      "domination"
     ]
   ],
   "model": "qwen3:14b"

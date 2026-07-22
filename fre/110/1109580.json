@@ -15,6 +15,11 @@
       "foire",
       "exposition",
       "manifestation commerciale"
+    ],
+    [
+      "équitable",
+      "juste",
+      "sportif"
     ]
   ],
   "model": "qwen3:14b"

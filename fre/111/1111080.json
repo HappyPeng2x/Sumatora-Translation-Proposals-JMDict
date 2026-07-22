@@ -1,0 +1,15 @@
+{
+  "seq": 1111080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "contrôle de vol"
+    ],
+    [
+      "n",
+      "service de contrôle des vols"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

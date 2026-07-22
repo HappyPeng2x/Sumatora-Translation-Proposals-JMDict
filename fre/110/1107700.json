@@ -14,6 +14,9 @@
       "faites de votre mieux !",
       "allez-y !",
       "poursuivez !"
+    ],
+    [
+      "hup !; zet 'm op !; aanvalluh !"
     ]
   ],
   "model": "qwen3:14b"

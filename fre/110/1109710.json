@@ -1,0 +1,27 @@
+{
+  "seq": 1109710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "face"
+    ],
+    [
+      "surface rocheuse"
+    ],
+    [
+      "surface d'impact d'un raquetier",
+      "paroi abrupte",
+      "pente raide",
+      "arête"
+    ],
+    [
+      "face d'une verge de golf",
+      "surface qui touche la balle"
+    ],
+    [
+      "foi",
+      "visage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

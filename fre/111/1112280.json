@@ -8,6 +8,9 @@
       "fragment",
       "partie",
       "morceau"
+    ],
+    [
+      "éclat de pierre; morceau détaché"
     ]
   ],
   "model": "qwen3:14b"

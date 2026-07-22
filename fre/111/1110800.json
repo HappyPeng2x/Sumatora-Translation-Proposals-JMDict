@@ -19,6 +19,17 @@
     ],
     [
       "vent arrière; vent de suite"
+    ],
+    [
+      "suivre",
+      "aller ensemble",
+      "marcher ensemble"
+    ],
+    [
+      "aider",
+      "soutenir",
+      "corriger en arrière",
+      "améliorer en arrière"
     ]
   ],
   "model": "qwen3:14b"

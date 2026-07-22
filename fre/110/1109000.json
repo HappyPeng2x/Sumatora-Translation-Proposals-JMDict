@@ -15,6 +15,10 @@
     [
       "patinage artistique",
       "patinage sur glace (figuratif)"
+    ],
+    [
+      "figure",
+      "forme"
     ]
   ],
   "model": "qwen3:14b"

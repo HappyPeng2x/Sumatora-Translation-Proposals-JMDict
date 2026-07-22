@@ -11,6 +11,12 @@
       "retour de signal",
       "rétroaction",
       "retour en boucle"
+    ],
+    [
+      "retour d'information"
+    ],
+    [
+      "rétroaction"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,10 @@
+{
+  "seq": 1109560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transition visuelle dans laquelle une image apparaît progressivement à l'écran"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

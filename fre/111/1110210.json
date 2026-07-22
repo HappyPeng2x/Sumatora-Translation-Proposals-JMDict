@@ -1,0 +1,14 @@
+{
+  "seq": 1110210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fortune"
+    ],
+    [
+      "richesse",
+      "fortune (revue économique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

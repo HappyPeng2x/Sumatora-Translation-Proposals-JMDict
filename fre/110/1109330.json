@@ -4,6 +4,18 @@
   "glosses": [
     [
       "filtre"
+    ],
+    [
+      "[n] filtre optique"
+    ],
+    [
+      "[n] filtre à cigarette"
+    ],
+    [
+      "[n] filtre électrique"
+    ],
+    [
+      "[n] filtre (informatique)"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,10 @@
+{
+  "seq": 1109280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre d'une assemblée qui empêche le fonctionnement normal de celle-ci par des interventions prolongées ou des discours inutiles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

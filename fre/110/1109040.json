@@ -1,0 +1,13 @@
+{
+  "seq": 1109040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fiction"
+    ],
+    [
+      "fiction littéraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

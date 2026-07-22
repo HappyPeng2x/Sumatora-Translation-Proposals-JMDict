@@ -1,0 +1,29 @@
+{
+  "seq": 1111640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "libre"
+    ],
+    [
+      "gratuit"
+    ],
+    [
+      "free-lance",
+      "pigiste"
+    ],
+    [
+      "freelanceur",
+      "indépendant"
+    ],
+    [
+      "tous tailles",
+      "tous formats"
+    ],
+    [
+      "patinage libre",
+      "programme long"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

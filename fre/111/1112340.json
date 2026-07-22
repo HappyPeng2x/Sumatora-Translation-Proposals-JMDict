@@ -1,0 +1,15 @@
+{
+  "seq": 1112340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "piège",
+      "coup monté"
+    ],
+    [
+      "histoire fictive",
+      "scénario imaginaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

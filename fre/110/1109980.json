@@ -1,0 +1,11 @@
+{
+  "seq": 1109980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bateau à hélice",
+      "bateau de transport de passagers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

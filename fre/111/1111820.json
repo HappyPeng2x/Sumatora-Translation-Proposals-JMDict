@@ -1,0 +1,11 @@
+{
+  "seq": 1111820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "non imposable",
+      "exempt de taxe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

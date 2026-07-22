@@ -15,6 +15,9 @@
       "formater",
       "formatter",
       "mettre en forme"
+    ],
+    [
+      "format de transmission"
     ]
   ],
   "model": "qwen3:14b"

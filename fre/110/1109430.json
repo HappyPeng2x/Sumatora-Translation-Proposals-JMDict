@@ -4,6 +4,13 @@
   "glosses": [
     [
       "doigt"
+    ],
+    [
+      "pont d'embarquement",
+      "doigt (structure aéroportuaire)"
+    ],
+    [
+      "commande (dans le système Unix)"
     ]
   ],
   "model": "qwen3:14b"

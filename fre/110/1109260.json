@@ -4,6 +4,9 @@
   "glosses": [
     [
       "filaria"
+    ],
+    [
+      "filariose"
     ]
   ],
   "model": "qwen3:14b"

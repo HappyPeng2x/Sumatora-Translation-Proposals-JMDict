@@ -1,0 +1,14 @@
+{
+  "seq": 1107880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "viseur",
+      "finder"
+    ],
+    [
+      "(informatique) élément graphique de l'interface utilisateur d'Apple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

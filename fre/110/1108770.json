@@ -1,0 +1,12 @@
+{
+  "seq": 1108770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire une faute de main",
+      "maladroitement manipuler la balle",
+      "commettre une erreur dans un jeu de balle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

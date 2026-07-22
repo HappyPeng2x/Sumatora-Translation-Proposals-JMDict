@@ -17,6 +17,9 @@
     [
       "peinture de sous-fond",
       "couche de base (en peinture à l'huile)"
+    ],
+    [
+      "préparation de surface; sous-couche (en peinture)"
     ]
   ],
   "model": "qwen3:14b"

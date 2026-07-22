@@ -5,6 +5,13 @@
     [
       "billet gratuit",
       "pass gratuit"
+    ],
+    [
+      "accès libre",
+      "pass libre"
+    ],
+    [
+      "accès sans vérification"
     ]
   ],
   "model": "qwen3:14b"
