@@ -1,0 +1,28 @@
+{
+  "seq": 1114700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lame"
+    ],
+    [
+      "feuille; pale; tresse; lame (d'une turbine); touffe de cheveux"
+    ],
+    [
+      "fer (d'une patinette)"
+    ],
+    [
+      "pale (d'une hélice); aube"
+    ],
+    [
+      "lame (archéologique)"
+    ],
+    [
+      "tresse"
+    ],
+    [
+      "tresse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,31 @@
+{
+  "seq": 1126980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moins (soustraction, signe mathématique)"
+    ],
+    [
+      "négatif (nombre)"
+    ],
+    [
+      "déficit; perte"
+    ],
+    [
+      "inconvénient; inconvenient; handicap"
+    ],
+    [
+      "charge négative; cathode; borne négative; pôle négatif"
+    ],
+    [
+      "signe moins; signe négatif"
+    ],
+    [
+      "négatif (image, effet, pensée, etc.) ; mauvais"
+    ],
+    [
+      "résultat négatif (test)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

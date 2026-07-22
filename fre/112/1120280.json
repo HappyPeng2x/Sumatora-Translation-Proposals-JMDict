@@ -1,0 +1,17 @@
+{
+  "seq": 1120280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "établi",
+      "banc",
+      "paillasse"
+    ],
+    [
+      "banque de remplacement (base-ball; football; etc.)",
+      "banque des remplaçants (base-ball; football; etc.)",
+      "dug-out (base-ball; football; etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

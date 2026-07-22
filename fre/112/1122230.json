@@ -1,0 +1,12 @@
+{
+  "seq": 1122230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crème fouettée",
+      "fouetter (de la crème, etc.)",
+      "mélange par battements"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

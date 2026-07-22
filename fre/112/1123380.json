@@ -1,0 +1,13 @@
+{
+  "seq": 1123380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "officier de marine"
+    ],
+    [
+      "chef, patron"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

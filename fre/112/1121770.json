@@ -1,0 +1,12 @@
+{
+  "seq": 1121770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vêtements de maison",
+      "habits de tous les jours",
+      "vêtements informels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1123550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bal",
+      "balle",
+      "bol"
+    ],
+    [
+      "lancer hors de la zone de strike"
+    ],
+    [
+      "carton; papier de bordure"
+    ],
+    [
+      "boîte"
+    ],
+    [
+      "terme utilisé pour désigner les grandes balles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

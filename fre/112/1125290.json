@@ -1,0 +1,15 @@
+{
+  "seq": 1125290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pot",
+      "vase"
+    ],
+    [
+      "flasque à vide",
+      "flasque thermos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

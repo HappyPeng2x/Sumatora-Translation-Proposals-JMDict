@@ -1,0 +1,10 @@
+{
+  "seq": 1115520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taux de prêt à la prime"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

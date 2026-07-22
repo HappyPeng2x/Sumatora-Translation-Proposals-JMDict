@@ -1,0 +1,22 @@
+{
+  "seq": 1118610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lourd",
+      "pesant"
+    ],
+    [
+      "lourd",
+      "pénible"
+    ],
+    [
+      "difficile",
+      "pénible"
+    ],
+    [
+      "exigeant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

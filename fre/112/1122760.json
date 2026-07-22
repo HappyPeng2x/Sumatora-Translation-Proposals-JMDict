@@ -1,0 +1,16 @@
+{
+  "seq": 1122760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homosexuel",
+      "homosexuelle"
+    ],
+    [
+      "homosexualité",
+      "homosexuel",
+      "homosexuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

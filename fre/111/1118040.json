@@ -1,0 +1,13 @@
+{
+  "seq": 1118040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prologue"
+    ],
+    [
+      "préface d'une œuvre littéraire; Prolog (un langage de programmation prédicatif)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

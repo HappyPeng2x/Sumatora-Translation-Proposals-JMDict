@@ -1,0 +1,20 @@
+{
+  "seq": 1123230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garçon",
+      "serveur"
+    ],
+    [
+      "boy",
+      "garçon",
+      "jeune homme",
+      "serviteur",
+      "porteur",
+      "valet de chambre",
+      "serveur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

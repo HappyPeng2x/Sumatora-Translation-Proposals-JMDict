@@ -4,6 +4,17 @@
   "glosses": [
     [
       "planter (contenant)"
+    ],
+    [
+      "agriculteur",
+      "planteur"
+    ],
+    [
+      "colon"
+    ],
+    [
+      "récipient de plantation",
+      "pot de culture"
     ]
   ],
   "model": "qwen3:14b"

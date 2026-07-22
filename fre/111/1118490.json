@@ -5,6 +5,9 @@
     [
       "écouteur",
       "casque audio"
+    ],
+    [
+      "écouteur portatif"
     ]
   ],
   "model": "qwen3:14b"

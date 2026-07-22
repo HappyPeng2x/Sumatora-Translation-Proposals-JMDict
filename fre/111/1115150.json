@@ -1,0 +1,25 @@
+{
+  "seq": 1115150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "piscine"
+    ],
+    [
+      "jeu de billes"
+    ],
+    [
+      "regroupement (d'argent, de ressources, etc.)"
+    ],
+    [
+      "cartel (prix)"
+    ],
+    [
+      "(néerlandais) pot"
+    ],
+    [
+      "(néerlandais) fonds commun; personnel partagé; dépôt commun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

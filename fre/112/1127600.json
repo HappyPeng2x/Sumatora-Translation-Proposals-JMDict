@@ -7,6 +7,10 @@
     ],
     [
       "voiture de course ; moto de course"
+    ],
+    [
+      "véhicule",
+      "charrette"
     ]
   ],
   "model": "qwen3:14b"

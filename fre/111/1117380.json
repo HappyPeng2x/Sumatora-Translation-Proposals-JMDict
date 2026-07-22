@@ -1,0 +1,21 @@
+{
+  "seq": 1117380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "production",
+      "manufacture",
+      "fabrication"
+    ],
+    [
+      "maison de production",
+      "entreprise de production"
+    ],
+    [
+      "bureau de théâtre",
+      "imprésario",
+      "agence de théâtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

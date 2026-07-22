@@ -5,7 +5,9 @@
     [
       "[n, food] bortscht (soupe, généralement préparée avec des betteraves); borsch"
     ],
-    []
+    [
+      "soupe ukrainienne à base de betteraves"
+    ]
   ],
   "model": "qwen3:14b"
 }

@@ -1,0 +1,15 @@
+{
+  "seq": 1126560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mon",
+      "ma",
+      "mes",
+      "proprio",
+      "personnel",
+      "privé(e)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

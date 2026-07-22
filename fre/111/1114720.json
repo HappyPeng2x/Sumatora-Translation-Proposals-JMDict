@@ -1,0 +1,10 @@
+{
+  "seq": 1114720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méthode de créativité collaborative consistant à générer librement des idées sans critique immédiate"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

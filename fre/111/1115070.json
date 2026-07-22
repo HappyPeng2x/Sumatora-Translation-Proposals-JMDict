@@ -9,6 +9,9 @@
     [
       "papier bromé",
       "papier sensible à la lumière utilisé en photographie"
+    ],
+    [
+      "photo (d'un acteur de cinéma); photo de film"
     ]
   ],
   "model": "qwen3:14b"

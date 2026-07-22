@@ -9,6 +9,13 @@
     [
       "Pluton (planète naine)",
       "Pluton (dixième planète du système solaire)"
+    ],
+    [
+      "dieu des richesses",
+      "dieu des abondances"
+    ],
+    [
+      "planète du système solaire"
     ]
   ],
   "model": "qwen3:14b"

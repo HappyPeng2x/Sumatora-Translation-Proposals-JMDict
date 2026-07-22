@@ -1,0 +1,14 @@
+{
+  "seq": 1120640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "support pour papier",
+      "support de papier"
+    ],
+    [
+      "support pour toilette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

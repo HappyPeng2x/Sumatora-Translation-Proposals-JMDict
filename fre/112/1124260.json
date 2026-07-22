@@ -6,6 +6,9 @@
       "bomb",
       "explosif",
       "arme explosive"
+    ],
+    [
+      "bombardement"
     ]
   ],
   "model": "qwen3:14b"

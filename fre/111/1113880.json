@@ -5,6 +5,9 @@
     [
       "chambre noire",
       "chambre obscure"
+    ],
+    [
+      "service secret d'information dans la diplomatie et l'armée"
     ]
   ],
   "model": "qwen3:14b"

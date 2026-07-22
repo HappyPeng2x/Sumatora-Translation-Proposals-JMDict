@@ -6,6 +6,9 @@
       "marge",
       "bord",
       "limite"
+    ],
+    [
+      "marge blanche sur une page imprimée"
     ]
   ],
   "model": "qwen3:14b"

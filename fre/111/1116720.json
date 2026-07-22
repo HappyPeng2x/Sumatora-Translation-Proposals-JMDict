@@ -19,6 +19,12 @@
     [
       "presse (exercice)",
       "pompes"
+    ],
+    [
+      "presse (information); article de presse; commentaire de la presse"
+    ],
+    [
+      "presse écrite"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,10 @@
+{
+  "seq": 1119190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Basic English (simplified form of English with a vocabulary of 850 core words)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

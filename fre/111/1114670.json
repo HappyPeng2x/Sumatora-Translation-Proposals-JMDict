@@ -1,0 +1,19 @@
+{
+  "seq": 1114670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défaillance"
+    ],
+    [
+      "dommage; perturbation"
+    ],
+    [
+      "détail; décomposition"
+    ],
+    [
+      "séparation; dissolution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

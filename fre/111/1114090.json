@@ -4,6 +4,35 @@
   "glosses": [
     [
       "marque"
+    ],
+    [
+      "personnalité",
+      "célèbre",
+      "acteur",
+      "américain",
+      "Marlon Brando"
+    ],
+    [
+      "nom propre",
+      "personne",
+      "acteur",
+      "américain",
+      "Marlon Brando"
+    ],
+    [
+      "nom propre",
+      "personne",
+      "musicien",
+      "sud-africain",
+      "Abdullah Ibrahim"
+    ],
+    [
+      "unité",
+      "de",
+      "mesure",
+      "pour",
+      "les",
+      "marques"
     ]
   ],
   "model": "qwen3:14b"

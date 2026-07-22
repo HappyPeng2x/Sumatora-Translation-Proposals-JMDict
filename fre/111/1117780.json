@@ -4,6 +4,9 @@
   "glosses": [
     [
       "propane"
+    ],
+    [
+      "gaz propane"
     ]
   ],
   "model": "qwen3:14b"

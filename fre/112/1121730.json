@@ -1,0 +1,13 @@
+{
+  "seq": 1121730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homing"
+    ],
+    [
+      "recherche automatique de cible (pour missiles; etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

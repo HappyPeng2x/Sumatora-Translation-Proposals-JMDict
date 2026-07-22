@@ -1,0 +1,14 @@
+{
+  "seq": 1119660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aller au lit",
+      "se coucher (souvent avec quelqu'un)"
+    ],
+    [
+      "manifestation pacifique consistant à rester allongé dans un lit; notamment celle organisée par John Lennon et Yōko Ono"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

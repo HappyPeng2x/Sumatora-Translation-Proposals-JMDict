@@ -1,0 +1,14 @@
+{
+  "seq": 1116840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cadeau",
+      "présent"
+    ],
+    [
+      "donner un cadeau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

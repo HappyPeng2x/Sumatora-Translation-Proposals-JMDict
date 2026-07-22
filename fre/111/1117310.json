@@ -1,0 +1,15 @@
+{
+  "seq": 1117310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "processus",
+      "procédure",
+      "méthode"
+    ],
+    [
+      "méthode"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

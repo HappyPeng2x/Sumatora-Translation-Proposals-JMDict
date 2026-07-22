@@ -1,0 +1,11 @@
+{
+  "seq": 1126580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "véhicule personnel",
+      "voiture privée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

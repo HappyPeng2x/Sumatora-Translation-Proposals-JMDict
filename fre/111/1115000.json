@@ -1,0 +1,25 @@
+{
+  "seq": 1115000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blocage"
+    ],
+    [
+      "blocage"
+    ],
+    [
+      "interdiction; blocage"
+    ],
+    [
+      "blocade; bloc; blocage"
+    ],
+    [
+      "blocage"
+    ],
+    [
+      "bouclier; laisser échapper (des bulles)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

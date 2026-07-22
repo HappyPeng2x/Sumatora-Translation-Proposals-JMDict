@@ -11,6 +11,9 @@
       "placement",
       "positionnement",
       "mise en position"
+    ],
+    [
+      "positionnement dans une course de chevaux"
     ]
   ],
   "model": "qwen3:14b"

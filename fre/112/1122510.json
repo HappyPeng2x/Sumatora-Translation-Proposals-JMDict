@@ -6,6 +6,22 @@
       "zone chaude",
       "endroit chaud",
       "zone de forte activité"
+    ],
+    [
+      "zone de crise",
+      "lieu de tension"
+    ],
+    [
+      "point d'accès Wi-Fi",
+      "nœud de réseau local sans fil"
+    ],
+    [
+      "zone cliquable",
+      "emplacement interactif sur l'écran"
+    ],
+    [
+      "zone fortement radioactive",
+      "endroit très contaminé par les radiations"
     ]
   ],
   "model": "qwen3:14b"

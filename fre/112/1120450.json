@@ -6,6 +6,13 @@
       "concours de beauté",
       "spectacle",
       "manifestation"
+    ],
+    [
+      "défilé",
+      "marche festive"
+    ],
+    [
+      "spectacle en plein air"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1119940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balcon",
+      "véranda"
+    ],
+    [
+      "véranda",
+      "verandah",
+      "porche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

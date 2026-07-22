@@ -1,0 +1,16 @@
+{
+  "seq": 1115570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "practice",
+      "exercice",
+      "entraînement"
+    ],
+    [
+      "tour de qualification",
+      "phase de groupe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

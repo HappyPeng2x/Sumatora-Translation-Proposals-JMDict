@@ -1,0 +1,22 @@
+{
+  "seq": 1113790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perte de connaissance"
+    ],
+    [
+      "défaillance"
+    ],
+    [
+      "perte de mémoire; perte de connaissance"
+    ],
+    [
+      "obscurcissement"
+    ],
+    [
+      "censure des nouvelles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

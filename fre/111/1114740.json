@@ -15,6 +15,21 @@
       "succès",
       "popularité",
       "hit"
+    ],
+    [
+      "séparation",
+      "détachement",
+      "rupture"
+    ],
+    [
+      "dénouement",
+      "chance décisive",
+      "débouché"
+    ],
+    [
+      "arrêt",
+      "interrompre",
+      "William Blake"
     ]
   ],
   "model": "qwen3:14b"

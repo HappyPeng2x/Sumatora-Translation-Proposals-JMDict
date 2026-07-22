@@ -1,0 +1,14 @@
+{
+  "seq": 1115650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "matériau utilisé pour recouvrir les murs ou les plafonds",
+      "matériau de construction"
+    ],
+    [
+      "pavé; dalles de pavé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

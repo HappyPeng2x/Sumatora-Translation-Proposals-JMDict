@@ -1,0 +1,22 @@
+{
+  "seq": 1124970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poche"
+    ],
+    [
+      "sac"
+    ],
+    [
+      "distance entre le premier et le troisième piquet; ou entre le premier et le deuxième piquet"
+    ],
+    [
+      "position défavorable d'un pion enfermé"
+    ],
+    [
+      "ressources financières; moyens d'argent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

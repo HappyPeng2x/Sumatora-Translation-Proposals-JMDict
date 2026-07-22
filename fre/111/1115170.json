@@ -6,6 +6,11 @@
       "pauvre",
       "indigent",
       "dans la misère"
+    ],
+    [
+      "misérable",
+      "pénible",
+      "désespérant"
     ]
   ],
   "model": "qwen3:14b"

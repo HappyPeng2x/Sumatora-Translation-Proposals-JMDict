@@ -5,6 +5,9 @@
     [
       "langage corporel",
       "communication non verbale par le corps"
+    ],
+    [
+      "correction de la silhouette par des vêtements bien coupés"
     ]
   ],
   "model": "qwen3:14b"

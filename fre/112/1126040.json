@@ -4,6 +4,9 @@
   "glosses": [
     [
       "pompe"
+    ],
+    [
+      "pompe à incendie"
     ]
   ],
   "model": "qwen3:14b"

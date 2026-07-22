@@ -6,6 +6,10 @@
       "tube à rayons cathodiques",
       "télévision cathodique",
       "tube de Braun"
+    ],
+    [
+      "tube",
+      "télévision"
     ]
   ],
   "model": "qwen3:14b"

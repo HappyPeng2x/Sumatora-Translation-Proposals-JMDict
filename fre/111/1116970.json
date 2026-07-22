@@ -7,6 +7,14 @@
     ],
     [
       "première"
+    ],
+    [
+      "supplément",
+      "prix supplémentaire"
+    ],
+    [
+      "premier",
+      "principal"
     ]
   ],
   "model": "qwen3:14b"

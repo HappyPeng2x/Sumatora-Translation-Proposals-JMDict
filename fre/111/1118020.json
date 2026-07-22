@@ -4,6 +4,11 @@
   "glosses": [
     [
       "prolétarien"
+    ],
+    [
+      "ouvrier",
+      "travailleur",
+      "prolétarien"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,7 +5,9 @@
     [
       "cyclorama"
     ],
-    []
+    [
+      "horizon"
+    ]
   ],
   "model": "qwen3:14b"
 }

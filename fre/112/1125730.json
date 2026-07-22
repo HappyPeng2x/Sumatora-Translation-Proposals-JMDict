@@ -1,0 +1,11 @@
+{
+  "seq": 1125730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "police",
+      "agent de police"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

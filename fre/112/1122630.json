@@ -1,0 +1,20 @@
+{
+  "seq": 1122630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bondir",
+      "sauter sur une seule jambe",
+      "hopper"
+    ],
+    [
+      "hinksprong",
+      "première phase de la hink-stap-sprong"
+    ],
+    [
+      "hêtre",
+      "plante de hêtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

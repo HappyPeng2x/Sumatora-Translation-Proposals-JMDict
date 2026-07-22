@@ -1,0 +1,13 @@
+{
+  "seq": 1121530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en attente"
+    ],
+    [
+      "non résolu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1115410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la confidentialité",
+      "l'intimité",
+      "la vie privée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

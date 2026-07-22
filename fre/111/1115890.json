@@ -5,6 +5,17 @@
     [
       "modèle en plastique",
       "modèle réduit en plastique"
+    ],
+    [
+      "maquette en plastique",
+      "modèle en plastique"
+    ],
+    [
+      "construction de maquettes en plastique",
+      "modélisme en plastique"
+    ],
+    [
+      "kit de construction de maquettes en plastique"
     ]
   ],
   "model": "qwen3:14b"

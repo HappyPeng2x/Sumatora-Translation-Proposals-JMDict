@@ -6,6 +6,11 @@
       "beau",
       "joli",
       "agréable"
+    ],
+    [
+      "mignon",
+      "agréable",
+      "séduisant"
     ]
   ],
   "model": "qwen3:14b"

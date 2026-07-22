@@ -1,0 +1,12 @@
+{
+  "seq": 1127120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esprit",
+      "mentalité",
+      "état d'esprit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1114640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frein"
+    ],
+    [
+      "frein",
+      "arrêt",
+      "brakes (pl.)",
+      "freinage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

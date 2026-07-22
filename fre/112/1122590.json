@@ -6,6 +6,11 @@
       "ligne de communication directe",
       "ligne d'urgence",
       "ligne de contact direct"
+    ],
+    [
+      "ligne de contact directe",
+      "ligne d'urgence",
+      "ligne de communication directe"
     ]
   ],
   "model": "qwen3:14b"

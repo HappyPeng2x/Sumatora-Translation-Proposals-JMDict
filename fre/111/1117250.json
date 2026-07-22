@@ -1,0 +1,12 @@
+{
+  "seq": 1117250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "procès-verbal",
+      "actes",
+      "compte-rendu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

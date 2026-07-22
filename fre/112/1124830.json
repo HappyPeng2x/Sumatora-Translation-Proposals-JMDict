@@ -1,0 +1,19 @@
+{
+  "seq": 1124830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chien pointer"
+    ],
+    [
+      "bâton de pointage"
+    ],
+    [
+      "curseur de souris"
+    ],
+    [
+      "pointeur (informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

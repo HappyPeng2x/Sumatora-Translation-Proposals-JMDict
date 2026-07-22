@@ -1,0 +1,10 @@
+{
+  "seq": 1124730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ensemble de documents ou d'œuvres artistiques présentés par un candidat ou un artiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

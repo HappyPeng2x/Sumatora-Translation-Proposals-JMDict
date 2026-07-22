@@ -6,6 +6,10 @@
       "prix",
       "coût",
       "tarif"
+    ],
+    [
+      "prix",
+      "nom propre (famille Pryce)"
     ]
   ],
   "model": "qwen3:14b"

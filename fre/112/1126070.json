@@ -14,6 +14,13 @@
     [
       "compteur de points",
       "marqueur (dans le golf)"
+    ],
+    [
+      "défenseur",
+      "arrière"
+    ],
+    [
+      "bande latérale"
     ]
   ],
   "model": "qwen3:14b"

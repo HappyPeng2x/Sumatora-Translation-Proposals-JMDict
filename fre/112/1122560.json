@@ -1,0 +1,11 @@
+{
+  "seq": 1122560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plaques de cuisson électriques",
+      "griddle électrique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

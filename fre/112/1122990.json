@@ -10,6 +10,13 @@
       "correction encre",
       "correction fluide",
       "correction liquide"
+    ],
+    [
+      "correction encre",
+      "Gilbert White"
+    ],
+    [
+      "chemise de dessus"
     ]
   ],
   "model": "qwen3:14b"

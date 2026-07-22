@@ -6,6 +6,9 @@
       "aperçu",
       "avant-première",
       "aperçu (d'un produit)"
+    ],
+    [
+      "aperçu d'un document à l'écran avant l'impression"
     ]
   ],
   "model": "qwen3:14b"

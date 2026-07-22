@@ -8,6 +8,9 @@
     [
       "espoir blanc",
       "personne prometteuse"
+    ],
+    [
+      "espérance"
     ]
   ],
   "model": "qwen3:14b"

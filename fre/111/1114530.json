@@ -5,7 +5,9 @@
     [
       "bourgeoisie"
     ],
-    []
+    [
+      "classe sociale"
+    ]
   ],
   "model": "qwen3:14b"
 }

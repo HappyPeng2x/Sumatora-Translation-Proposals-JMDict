@@ -4,6 +4,9 @@
   "glosses": [
     [
       "téléphone à touches"
+    ],
+    [
+      "téléphone à touches commandé par des boutons poussoirs"
     ]
   ],
   "model": "qwen3:14b"

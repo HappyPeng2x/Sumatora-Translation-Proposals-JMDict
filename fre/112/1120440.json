@@ -1,0 +1,10 @@
+{
+  "seq": 1120440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opération consistant à charger des données en mémoire à partir d'un support de stockage externe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

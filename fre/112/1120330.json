@@ -1,0 +1,28 @@
+{
+  "seq": 1120330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise",
+      "aventure"
+    ],
+    [
+      "spéculations"
+    ],
+    [
+      "entreprise à risque",
+      "entreprise deventure"
+    ],
+    [
+      "risque"
+    ],
+    [
+      "spéculations"
+    ],
+    [
+      "entreprise à risque",
+      "entreprise deventure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

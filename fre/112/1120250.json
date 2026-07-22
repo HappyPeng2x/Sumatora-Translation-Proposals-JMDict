@@ -9,6 +9,14 @@
     [
       "machine à vendre",
       "distributeur automatique"
+    ],
+    [
+      "territoire",
+      "ancienne patrie des Venda dans la République sud-africaine; devenue en 1994 une province du nord"
+    ],
+    [
+      "peuple",
+      "peuple bantou du sud-est de l'Afrique"
     ]
   ],
   "model": "qwen3:14b"

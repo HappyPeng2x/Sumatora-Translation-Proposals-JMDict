@@ -5,6 +5,14 @@
     [
       "prix fixe",
       "repas à prix fixe"
+    ],
+    [
+      "préfixe téléphonique",
+      "numéro de préfixe"
+    ],
+    [
+      "prélude",
+      "introduction"
     ]
   ],
   "model": "qwen3:14b"

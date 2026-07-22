@@ -1,0 +1,12 @@
+{
+  "seq": 1122110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classe",
+      "salle de classe",
+      "salle d'enseignement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

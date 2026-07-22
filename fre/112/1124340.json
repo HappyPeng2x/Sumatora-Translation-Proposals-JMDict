@@ -5,6 +5,9 @@
     [
       "bolchevique",
       "membre du parti bolchevique"
+    ],
+    [
+      "membre du parti communiste"
     ]
   ],
   "model": "qwen3:14b"

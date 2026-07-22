@@ -4,6 +4,9 @@
   "glosses": [
     [
       "Boy Scouts"
+    ],
+    [
+      "mouvement de jeunesse de type scoutisme"
     ]
   ],
   "model": "qwen3:14b"

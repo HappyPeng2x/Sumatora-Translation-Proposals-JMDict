@@ -1,0 +1,20 @@
+{
+  "seq": 1122170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maintien",
+      "soutien",
+      "serrure"
+    ],
+    [
+      "prise (dans un sport)",
+      "emprise (dans un sport)"
+    ],
+    [
+      "serrure (au baseball)",
+      "prise (au baseball)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

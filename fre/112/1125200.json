@@ -4,6 +4,9 @@
   "glosses": [
     [
       "postscript"
+    ],
+    [
+      "langage de description de page d'Adobe"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,11 @@
+{
+  "seq": 1120080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ceinture transporteuse",
+      "ceinture de transport"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

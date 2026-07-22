@@ -1,0 +1,15 @@
+{
+  "seq": 1123470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tableau",
+      "planche",
+      "panneau"
+    ],
+    [
+      "tableau (d'écriture)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

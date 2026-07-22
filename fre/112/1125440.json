@@ -7,6 +7,11 @@
       "possibilité",
       "aptitude",
       "capacité"
+    ],
+    [
+      "capacité",
+      "aptitude",
+      "possibilité"
     ]
   ],
   "model": "qwen3:14b"

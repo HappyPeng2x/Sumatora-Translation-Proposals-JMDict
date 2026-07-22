@@ -6,6 +6,9 @@
       "aide",
       "assistant",
       "personne qui aide"
+    ],
+    [
+      "aide à la couvaison"
     ]
   ],
   "model": "qwen3:14b"

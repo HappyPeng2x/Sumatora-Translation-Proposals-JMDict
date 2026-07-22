@@ -1,0 +1,12 @@
+{
+  "seq": 1120650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pavé",
+      "chemin pavé",
+      "route pavée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

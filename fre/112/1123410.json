@@ -14,6 +14,15 @@
     [
       "rayures horizontales",
       "bandes horizontales"
+    ],
+    [
+      "limite",
+      "frontière"
+    ],
+    [
+      "bord",
+      "rive",
+      "marge"
     ]
   ],
   "model": "qwen3:14b"

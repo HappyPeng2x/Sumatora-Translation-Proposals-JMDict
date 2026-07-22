@@ -4,6 +4,9 @@
   "glosses": [
     [
       "plateau"
+    ],
+    [
+      "niveau d'apprentissage (ou autre)"
     ]
   ],
   "model": "qwen3:14b"

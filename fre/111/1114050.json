@@ -10,6 +10,25 @@
     ],
     [
       "couche (réacteur à fusion)"
+    ],
+    [
+      "couche",
+      "superposition",
+      "dans le contexte des signaux"
+    ],
+    [
+      "matelas en feutre",
+      "matelas de pression",
+      "matelas d'isolation",
+      "matelas absorbant les sons"
+    ],
+    [
+      "tissu de pression",
+      "tissu de couverture"
+    ],
+    [
+      "couverture de couveuse",
+      "zone de couveuse"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,12 @@
   "glosses": [
     [
       "blue ribbon (prize)"
+    ],
+    [
+      "ordre du ruban bleu"
+    ],
+    [
+      "prix Blue-Ribbon (prix décerné par les journalistes du cinéma japonais)"
     ]
   ],
   "model": "qwen3:14b"

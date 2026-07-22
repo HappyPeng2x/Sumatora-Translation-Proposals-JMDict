@@ -1,0 +1,16 @@
+{
+  "seq": 1117850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "professionnel",
+      "spécialiste"
+    ],
+    [
+      "compétent",
+      "habile",
+      "expérimenté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

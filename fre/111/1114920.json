@@ -5,6 +5,12 @@
     [
       "tissu large",
       "tissu de qualité"
+    ],
+    [
+      "bouillon"
+    ],
+    [
+      "large"
     ]
   ],
   "model": "qwen3:14b"

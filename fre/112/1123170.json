@@ -1,0 +1,10 @@
+{
+  "seq": 1123170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un genre de musique et de danse populaire, originaire des États-Unis, caractérisé par un rythme rapide et des paroles souvent humoristiques ou ironiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

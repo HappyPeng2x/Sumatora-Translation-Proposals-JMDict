@@ -13,6 +13,14 @@
     [
       "jouer d'un instrument à vent",
       "blow (jazz)"
+    ],
+    [
+      "souffler",
+      "inspirer"
+    ],
+    [
+      "sécher les cheveux avec un sèche-cheveux",
+      "utiliser un sèche-cheveux"
     ]
   ],
   "model": "qwen3:14b"

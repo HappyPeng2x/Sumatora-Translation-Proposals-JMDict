@@ -1,0 +1,10 @@
+{
+  "seq": 1120500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémoire paginée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -12,6 +12,11 @@
     ],
     [
       "ourlet (de pantalons, jupe, etc.)"
+    ],
+    [
+      "partie inférieure",
+      "partie basse",
+      "élément inférieur"
     ]
   ],
   "model": "qwen3:14b"

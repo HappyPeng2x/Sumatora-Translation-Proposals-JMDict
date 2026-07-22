@@ -9,6 +9,11 @@
     [
       "souris (d'ordinateur)",
       "mousser (d'ordinateur)"
+    ],
+    [
+      "mouche",
+      "bouche",
+      "muse"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,19 @@
+{
+  "seq": 1118790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hélice"
+    ],
+    [
+      "spirale"
+    ],
+    [
+      "structure moléculaire en spirale"
+    ],
+    [
+      "escargot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

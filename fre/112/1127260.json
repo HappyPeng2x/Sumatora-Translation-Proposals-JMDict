@@ -1,0 +1,10 @@
+{
+  "seq": 1127260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "macaron (gâteau en forme de disque, composé de deux biscuits recouverts de crème)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

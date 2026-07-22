@@ -1,0 +1,16 @@
+{
+  "seq": 1114970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chuckeur",
+      "poulet grillé"
+    ],
+    [
+      "chuckeur",
+      "poulet rôti",
+      "Eugen Bleuler (psychiatre suisse; 1857-1939)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

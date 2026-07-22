@@ -1,0 +1,28 @@
+{
+  "seq": 1115630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plus (addition)"
+    ],
+    [
+      "positif (nombre)"
+    ],
+    [
+      "signe plus ; symbole positif"
+    ],
+    [
+      "avantage ; point fort ; facteur positif ; effet positif"
+    ],
+    [
+      "bénéfice ; gain"
+    ],
+    [
+      "anode ; borne positive ; pôle positif"
+    ],
+    [
+      "positif (résultat d'un test)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "hernie"
+    ],
+    [
+      "hernie inguinale"
     ]
   ],
   "model": "qwen3:14b"

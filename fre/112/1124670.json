@@ -4,6 +4,14 @@
   "glosses": [
     [
       "portabilité"
+    ],
+    [
+      "portabilité des programmes",
+      "transférabilité des programmes"
+    ],
+    [
+      "portabilité des numéros de téléphone",
+      "transfert des numéros de téléphone"
     ]
   ],
   "model": "qwen3:14b"

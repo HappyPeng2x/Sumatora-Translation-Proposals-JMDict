@@ -1,0 +1,17 @@
+{
+  "seq": 1118090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état furieux ou coléreux",
+      "odeur forte (pénétrante)"
+    ],
+    [
+      "furieusement",
+      "indignement",
+      "en colère",
+      "en pleine fureur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,12 @@
       "milestone",
       "étape importante",
       "repère significatif"
+    ],
+    [
+      "milestone",
+      "évenement important",
+      "tournant",
+      "marqueur significatif"
     ]
   ],
   "model": "qwen3:14b"

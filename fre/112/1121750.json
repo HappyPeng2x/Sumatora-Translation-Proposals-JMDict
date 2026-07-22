@@ -1,0 +1,12 @@
+{
+  "seq": 1121750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "atteindre la plaque de base",
+      "franchir la plaque de base",
+      "marquer un point"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

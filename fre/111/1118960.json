@@ -6,6 +6,9 @@
       "aide",
       "secours",
       "assistance"
+    ],
+    [
+      "aide en ligne"
     ]
   ],
   "model": "qwen3:14b"

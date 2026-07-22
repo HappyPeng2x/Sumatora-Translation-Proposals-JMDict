@@ -1,0 +1,10 @@
+{
+  "seq": 1123820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vocodérateur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

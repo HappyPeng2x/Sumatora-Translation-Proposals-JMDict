@@ -1,0 +1,17 @@
+{
+  "seq": 1115900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plan",
+      "projet"
+    ],
+    [
+      "offre",
+      "package",
+      "deal",
+      "accord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

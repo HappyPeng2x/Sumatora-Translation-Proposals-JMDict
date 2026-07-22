@@ -1,0 +1,23 @@
+{
+  "seq": 1117030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "professionnel"
+    ],
+    [
+      "programme"
+    ],
+    [
+      "production"
+    ],
+    [
+      "prolétarien",
+      "prolétariat"
+    ],
+    [
+      "propagande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

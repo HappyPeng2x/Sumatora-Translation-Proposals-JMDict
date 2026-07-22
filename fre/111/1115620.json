@@ -5,6 +5,9 @@
     [
       "place publique",
       "square"
+    ],
+    [
+      "plazza"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,10 @@
+{
+  "seq": 1120600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen écrit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

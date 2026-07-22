@@ -1,0 +1,23 @@
+{
+  "seq": 1127150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouche (d'un instrument de musique)",
+      "embouchure (d'un instrument de musique)",
+      "mouche (d'un instrument de souffle)"
+    ],
+    [
+      "protection buccale",
+      "protection dentaire"
+    ],
+    [
+      "embout (d'un tuyau)"
+    ],
+    [
+      "partie de l'appareil téléphonique où l'on parle",
+      "appareil de parole (d'un téléphone)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

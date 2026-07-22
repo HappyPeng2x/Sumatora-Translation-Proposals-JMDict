@@ -1,0 +1,19 @@
+{
+  "seq": 1120560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "papier"
+    ],
+    [
+      "étiquette; papier (écrit)"
+    ],
+    [
+      "papier de verrouillage; papier de ponçage"
+    ],
+    [
+      "mémoire; article scientifique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

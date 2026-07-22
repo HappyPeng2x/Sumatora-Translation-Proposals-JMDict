@@ -25,6 +25,9 @@
     [
       "plaque (d'une valve à vide)",
       "anode"
+    ],
+    [
+      "disque (d'ordinateur)"
     ]
   ],
   "model": "qwen3:14b"

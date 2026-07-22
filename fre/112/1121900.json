@@ -5,6 +5,9 @@
     [
       "tissu fait maison",
       "tissu grossier fait à la maison"
+    ],
+    [
+      "tissu en fil tissé à la main"
     ]
   ],
   "model": "qwen3:14b"

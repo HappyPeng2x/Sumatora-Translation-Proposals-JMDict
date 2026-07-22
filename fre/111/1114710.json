@@ -9,6 +9,21 @@
     [
       "cerveau (organe)",
       "cerveau (organe du corps)"
+    ],
+    [
+      "chair (d'une entreprise)"
+    ],
+    [
+      "chef; patron; directeur"
+    ],
+    [
+      "conseiller; conseillère; représentant; représentante"
+    ],
+    [
+      "conseil d'administration; conseil de direction; conseil consultatif"
+    ],
+    [
+      "chef; patron; directeur"
     ]
   ],
   "model": "qwen3:14b"

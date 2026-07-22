@@ -1,0 +1,11 @@
+{
+  "seq": 1124890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur de premier plan",
+      "meilleur marqueur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

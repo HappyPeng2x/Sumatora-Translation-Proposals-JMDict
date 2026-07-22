@@ -6,6 +6,19 @@
       "simple",
       "ordinaire",
       "basique"
+    ],
+    [
+      "honnêteté",
+      "transparence",
+      "planéité",
+      "platitude",
+      "absence de motif"
+    ],
+    [
+      "simple",
+      "honnête",
+      "ouvert",
+      "plat"
     ]
   ],
   "model": "qwen3:14b"

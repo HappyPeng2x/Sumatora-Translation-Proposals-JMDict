@@ -1,0 +1,12 @@
+{
+  "seq": 1114140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blanchisseur",
+      "blanchir",
+      "décolorer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

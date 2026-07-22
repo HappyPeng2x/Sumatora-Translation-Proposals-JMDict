@@ -4,6 +4,12 @@
   "glosses": [
     [
       "magnétique"
+    ],
+    [
+      "magnétique",
+      "matériau magnétique",
+      "magnétisme",
+      "aimant"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,11 @@
+{
+  "seq": 1114570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "train bleu",
+      "train de nuit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

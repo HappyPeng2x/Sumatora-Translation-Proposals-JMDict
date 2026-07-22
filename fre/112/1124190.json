@@ -1,0 +1,14 @@
+{
+  "seq": 1124190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bottleneck",
+      "col de bouteille"
+    ],
+    [
+      "col de bouteille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

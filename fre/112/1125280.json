@@ -1,0 +1,11 @@
+{
+  "seq": 1125280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "promenade à vélo",
+      "randonnée à vélo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

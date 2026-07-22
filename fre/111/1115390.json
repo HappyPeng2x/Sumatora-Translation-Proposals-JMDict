@@ -1,0 +1,14 @@
+{
+  "seq": 1115390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fierté",
+      "orgueil"
+    ],
+    [
+      "organisation de combat sportif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

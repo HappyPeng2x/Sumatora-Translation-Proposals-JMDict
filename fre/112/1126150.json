@@ -1,0 +1,19 @@
+{
+  "seq": 1126150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "markup",
+      "marquage"
+    ],
+    [
+      "augmentation du prix",
+      "majoration",
+      "hausse du prix"
+    ],
+    [
+      "marge commerciale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1117080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "programme"
+    ],
+    [
+      "programme (livret)",
+      "brochure",
+      "pamphlet"
+    ],
+    [
+      "programme (informatique)",
+      "programmation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

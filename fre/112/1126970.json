@@ -1,0 +1,12 @@
+{
+  "seq": 1126970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "label indépendant",
+      "petit label de disques",
+      "label indépendant de musique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

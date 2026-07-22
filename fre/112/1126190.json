@@ -1,0 +1,14 @@
+{
+  "seq": 1126190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marché"
+    ],
+    [
+      "marché",
+      "commerce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

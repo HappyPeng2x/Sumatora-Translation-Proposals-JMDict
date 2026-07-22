@@ -1,0 +1,14 @@
+{
+  "seq": 1123440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aviron",
+      "canot"
+    ],
+    [
+      "embarcation à rames"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

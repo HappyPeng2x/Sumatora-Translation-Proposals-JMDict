@@ -1,0 +1,25 @@
+{
+  "seq": 1113670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marron"
+    ],
+    [
+      "Wernher von Braun (physicien américain d'origine allemande; 1912-1977)"
+    ],
+    [
+      "Robert Brown (botaniste anglais; 1773-1858)"
+    ],
+    [
+      "John Brown (abolitionniste américain; 1800-1859)"
+    ],
+    [
+      "Samuel Robbins Brown (missionnaire américain; 1810-1880; arriva au Japon en 1859; s'occupa de la mission; de l'éducation et de la bienfaisance; traduisit la Bible; rentra aux États-Unis en 1879)"
+    ],
+    [
+      "Norman O. Brown (sociologue américain; 1913-2002)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

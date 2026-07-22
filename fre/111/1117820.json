@@ -1,0 +1,13 @@
+{
+  "seq": 1117820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "profil"
+    ],
+    [
+      "description de la personnalité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

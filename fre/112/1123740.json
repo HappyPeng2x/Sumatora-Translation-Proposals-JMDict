@@ -4,6 +4,9 @@
   "glosses": [
     [
       "chapeau melon"
+    ],
+    [
+      "joueur de bowling"
     ]
   ],
   "model": "qwen3:14b"

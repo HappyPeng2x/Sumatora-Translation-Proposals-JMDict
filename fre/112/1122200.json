@@ -1,0 +1,16 @@
+{
+  "seq": 1122200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roue",
+      "roue de véhicule"
+    ],
+    [
+      "véhicule",
+      "charrette",
+      "carrosse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

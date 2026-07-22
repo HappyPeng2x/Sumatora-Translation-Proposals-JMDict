@@ -1,0 +1,19 @@
+{
+  "seq": 1120070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ceinture (pour habits occidentaux)"
+    ],
+    [
+      "courroie",
+      "de machine"
+    ],
+    [
+      "ceinture",
+      "zone",
+      "secteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

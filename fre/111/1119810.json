@@ -1,0 +1,15 @@
+{
+  "seq": 1119810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avantage",
+      "bénéfice"
+    ],
+    [
+      "aide",
+      "assistance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

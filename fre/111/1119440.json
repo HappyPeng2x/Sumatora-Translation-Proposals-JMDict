@@ -4,6 +4,9 @@
   "glosses": [
     [
       "[n, astron] Vega (étoile de la constellation de Lyre) ; Alpha Lyrae"
+    ],
+    [
+      "Vega (nom propre)"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,9 @@
     [
       "rouille rouge",
       "ocre rouge"
+    ],
+    [
+      "tissu de Bengale (abréviation)"
     ]
   ],
   "model": "qwen3:14b"

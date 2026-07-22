@@ -1,0 +1,27 @@
+{
+  "seq": 1121120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pénalité"
+    ],
+    [
+      "sanction",
+      "amende",
+      "réparation",
+      "pénalité"
+    ],
+    [
+      "faute",
+      "carton jaune",
+      "point de pénalité",
+      "temps de pénalité"
+    ],
+    [
+      "sanction",
+      "amende",
+      "pénalité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

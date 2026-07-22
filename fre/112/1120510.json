@@ -1,0 +1,15 @@
+{
+  "seq": 1120510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allure",
+      "pas"
+    ],
+    [
+      "pied",
+      "unité de mesure romaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

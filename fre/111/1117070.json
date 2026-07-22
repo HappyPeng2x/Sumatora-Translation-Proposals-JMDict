@@ -1,0 +1,11 @@
+{
+  "seq": 1117070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "informatique",
+      "action de programmer, de concevoir un programme informatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1119530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(son) mieux",
+      "meilleur"
+    ],
+    [
+      "veste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

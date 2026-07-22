@@ -1,0 +1,26 @@
+{
+  "seq": 1116540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur",
+      "participant",
+      "acteur"
+    ],
+    [
+      "disque",
+      "appareil de lecture",
+      "lecteur",
+      "réalisateur",
+      "interprète",
+      "musicien",
+      "sportif"
+    ],
+    [
+      "platine",
+      "disque tourne-disque",
+      "gramophone"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

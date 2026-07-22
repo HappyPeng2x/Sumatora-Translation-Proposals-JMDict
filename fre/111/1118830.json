@@ -6,6 +6,11 @@
       "sain",
       "en bonne santé",
       "bien portant"
+    ],
+    [
+      "sain",
+      "en bonne santé",
+      "bien portant"
     ]
   ],
   "model": "qwen3:14b"

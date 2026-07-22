@@ -1,0 +1,13 @@
+{
+  "seq": 1122120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devoir à faire à la maison"
+    ],
+    [
+      "travail à domicile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

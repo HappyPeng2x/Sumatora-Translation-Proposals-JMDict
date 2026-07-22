@@ -6,6 +6,15 @@
       "bille",
       "grain",
       "petite boulette"
+    ],
+    [
+      "balle de fusil"
+    ],
+    [
+      "pellet (en particulier en tant que forme de combustible nucléaire)"
+    ],
+    [
+      "gros caillou; boule de fumée"
     ]
   ],
   "model": "qwen3:14b"

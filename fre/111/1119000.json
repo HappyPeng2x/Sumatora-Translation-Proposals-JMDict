@@ -1,0 +1,15 @@
+{
+  "seq": 1119000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "casque",
+      "bonnet de protection",
+      "équipement de protection pour la tête"
+    ],
+    [
+      "casque tropical"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

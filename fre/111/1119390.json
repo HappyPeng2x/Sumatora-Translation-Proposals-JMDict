@@ -1,0 +1,10 @@
+{
+  "seq": 1119390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bayésien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

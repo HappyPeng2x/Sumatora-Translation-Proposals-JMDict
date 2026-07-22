@@ -7,6 +7,19 @@
     ],
     [
       "boa (écharpe)"
+    ],
+    [
+      "calibre",
+      "diamètre",
+      "perçage (d'un cylindre)",
+      "canal (d'une arme à feu)"
+    ],
+    [
+      "vague (majeure)",
+      "vague de marée"
+    ],
+    [
+      "boa (terme boursier)"
     ]
   ],
   "model": "qwen3:14b"

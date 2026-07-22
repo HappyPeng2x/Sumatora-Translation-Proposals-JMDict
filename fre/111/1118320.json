@@ -1,0 +1,12 @@
+{
+  "seq": 1118320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'incertitude",
+      "le flou",
+      "l'ambiguïté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

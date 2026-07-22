@@ -1,0 +1,12 @@
+{
+  "seq": 1125210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "postdoctorant",
+      "boursier postdoctoral",
+      "chercheur postdoctoral"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1125150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boîte aux lettres",
+      "post-",
+      "poste",
+      "poste (de travail)"
+    ],
+    [
+      "position"
+    ],
+    [
+      "butée"
+    ],
+    [
+      "publier"
+    ],
+    [
+      "post-"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

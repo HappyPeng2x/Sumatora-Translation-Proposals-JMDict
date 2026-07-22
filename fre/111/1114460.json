@@ -5,6 +5,10 @@
     [
       "homosexuel",
       "homosexuelle"
+    ],
+    [
+      "transsexuel",
+      "transsexuelle"
     ]
   ],
   "model": "qwen3:14b"

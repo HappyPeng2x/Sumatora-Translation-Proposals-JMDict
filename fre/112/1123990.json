@@ -8,6 +8,14 @@
     ],
     [
       "coup de corps (boxe)"
+    ],
+    [
+      "mannequin",
+      "buste de mannequin"
+    ],
+    [
+      "corps",
+      "ventre (boxe)"
     ]
   ],
   "model": "qwen3:14b"

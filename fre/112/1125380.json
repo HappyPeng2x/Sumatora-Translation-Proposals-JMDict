@@ -4,6 +4,10 @@
   "glosses": [
     [
       "pop music; musique populaire"
+    ],
+    [
+      "POPs",
+      "substances organiques persistantes"
     ]
   ],
   "model": "qwen3:14b"

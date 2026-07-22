@@ -5,6 +5,11 @@
     [
       "chariot poussable",
       "charrette"
+    ],
+    [
+      "landau",
+      "buggy",
+      "carrosse pour enfants"
     ]
   ],
   "model": "qwen3:14b"

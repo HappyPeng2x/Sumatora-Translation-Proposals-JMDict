@@ -1,0 +1,15 @@
+{
+  "seq": 1115080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bronze",
+      "alliage de cuivre et d'étain"
+    ],
+    [
+      "objet en bronze",
+      "objet en brons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

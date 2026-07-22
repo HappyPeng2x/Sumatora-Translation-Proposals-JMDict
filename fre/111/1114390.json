@@ -4,6 +4,9 @@
   "glosses": [
     [
       "train de nuit express avec wagons-lits (d'après la couleur originale des trains)"
+    ],
+    [
+      "train bleu (train reliant Capetown à Pretoria en Afrique du Sud)"
     ]
   ],
   "model": "qwen3:14b"

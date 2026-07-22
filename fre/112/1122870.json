@@ -6,6 +6,16 @@
       "support",
       "porteur",
       "soutien"
+    ],
+    [
+      "support",
+      "porteur",
+      "soutien"
+    ],
+    [
+      "contenant",
+      "réceptacle",
+      "support"
     ]
   ],
   "model": "qwen3:14b"

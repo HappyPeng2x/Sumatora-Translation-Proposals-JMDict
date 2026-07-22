@@ -6,6 +6,9 @@
       "brisé",
       "endommagé",
       "cassé"
+    ],
+    [
+      "brisé; endommagé; cassé; maladroit; incohérent"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,14 @@
     [
       "projecteur",
       "appareil qui projette des images sur un écran"
+    ],
+    [
+      "projecteur lumineux",
+      "appareil émettant un faisceau de lumière"
+    ],
+    [
+      "planificateur",
+      "personne qui met en œuvre des projets"
     ]
   ],
   "model": "qwen3:14b"

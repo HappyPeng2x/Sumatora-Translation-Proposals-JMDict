@@ -1,0 +1,10 @@
+{
+  "seq": 1116110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préprocesseur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

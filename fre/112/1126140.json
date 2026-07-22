@@ -1,0 +1,29 @@
+{
+  "seq": 1126140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marque"
+    ],
+    [
+      "marquer",
+      "faire un signe",
+      "indiquer"
+    ],
+    [
+      "marque déposée"
+    ],
+    [
+      "prêter attention",
+      "surveiller",
+      "veiller sur",
+      "observer"
+    ],
+    [
+      "établir un record",
+      "inscrire",
+      "noter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "promoteur",
       "organisateur",
       "souteneur"
+    ],
+    [
+      "organisateur d'événement"
     ]
   ],
   "model": "qwen3:14b"
