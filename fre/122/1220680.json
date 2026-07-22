@@ -4,6 +4,9 @@
   "glosses": [
     [
       "non-voteur"
+    ],
+    [
+      "personne qui ne participe pas au vote"
     ]
   ],
   "model": "qwen3:14b"

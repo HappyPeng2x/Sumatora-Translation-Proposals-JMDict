@@ -1,0 +1,12 @@
+{
+  "seq": 1227120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inverse multiplicatif",
+      "nombre inverse",
+      "réciproque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

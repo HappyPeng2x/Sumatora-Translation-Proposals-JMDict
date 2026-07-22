@@ -1,0 +1,47 @@
+{
+  "seq": 1221520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esprit",
+      "humeur"
+    ],
+    [
+      "nature ; disposition"
+    ],
+    [
+      "intention ; esprit ; volonté ; motivation"
+    ],
+    [
+      "humeur ; sentiment"
+    ],
+    [
+      "conscience ; état de conscience"
+    ],
+    [
+      "soin ; attention ; considération ; inquiétude"
+    ],
+    [
+      "intérêt"
+    ],
+    [
+      "l'air ; atmosphère"
+    ],
+    [
+      "ambiance ; atmosphère ; air ; humeur"
+    ],
+    [
+      "odeur ; arôme ; saveur ; goût"
+    ],
+    [
+      "qi ; chi ; ki"
+    ],
+    [
+      "siège de la force vitale"
+    ],
+    [
+      "matière formant la forme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

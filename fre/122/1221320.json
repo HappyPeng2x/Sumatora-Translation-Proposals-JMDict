@@ -9,6 +9,9 @@
     ],
     [
       "apodose"
+    ],
+    [
+      "conclusion conditionnelle"
     ]
   ],
   "model": "qwen3:14b"

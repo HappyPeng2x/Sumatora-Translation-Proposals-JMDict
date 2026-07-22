@@ -1,0 +1,17 @@
+{
+  "seq": 1221470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "induction",
+      "raisonnement inductif"
+    ],
+    [
+      "(néerlandais) détermination du nom de famille en se basant sur les cinq éléments et la prononciation d'un nom propre"
+    ],
+    [
+      "(néerlandais) collecte; recueil; récolte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

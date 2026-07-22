@@ -1,0 +1,16 @@
+{
+  "seq": 1224700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie",
+      "formalité",
+      "rite",
+      "rituel"
+    ],
+    [
+      "étiquette de cour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

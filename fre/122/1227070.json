@@ -6,6 +6,16 @@
       "présentation par les pieds ou le siège",
       "accouchement par les pieds ou le siège",
       "naissance par les pieds ou le siège"
+    ],
+    [
+      "position basale du fœtus dans le bassin",
+      "position du fœtus avec les pieds en bas"
+    ],
+    [
+      "accouchement basale",
+      "naissance basale",
+      "accouchement par les pieds",
+      "naissance par les pieds"
     ]
   ],
   "model": "qwen3:14b"

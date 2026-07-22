@@ -1,0 +1,34 @@
+{
+  "seq": 1222345,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signe",
+      "indication"
+    ],
+    [
+      "possibilité",
+      "lueur d'espoir à l'horizon"
+    ],
+    [
+      "état",
+      "apparence",
+      "vue"
+    ],
+    [
+      "allusion",
+      "suggestion",
+      "préfiguration"
+    ],
+    [
+      "vague indication",
+      "souffle d'annonce"
+    ],
+    [
+      "faveur",
+      "grâce",
+      "préférence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

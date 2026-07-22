@@ -1,0 +1,11 @@
+{
+  "seq": 1221360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour au bureau",
+      "retour au lieu de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

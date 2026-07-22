@@ -1,0 +1,19 @@
+{
+  "seq": 1225790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "beau-frère",
+      "beau-frère aîné (frère aîné du conjoint ou mari de la grande sœur)"
+    ],
+    [
+      "beau-frère aîné",
+      "frère aîné du conjoint"
+    ],
+    [
+      "beau-frère aîné",
+      "mari de la sœur aînée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

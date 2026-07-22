@@ -1,0 +1,18 @@
+{
+  "seq": 1220070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abominable",
+      "exécrable",
+      "odieux",
+      "répugnant"
+    ],
+    [
+      "mauvais présage",
+      "inheureux",
+      "désavantageux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

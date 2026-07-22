@@ -1,0 +1,22 @@
+{
+  "seq": 1219980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien ça coûte?",
+      "combien de temps?",
+      "combien de?"
+    ],
+    [
+      "quelque chose de plus",
+      "quelque chose et quelque chose",
+      "quelque chose d'extra"
+    ],
+    [
+      "cependant",
+      "quoi qu'il en soit",
+      "importe combien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

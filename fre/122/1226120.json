@@ -1,0 +1,13 @@
+{
+  "seq": 1226120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "siège parlementaire"
+    ],
+    [
+      "membre d'une assemblée législative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

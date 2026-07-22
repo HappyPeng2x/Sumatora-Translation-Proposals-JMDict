@@ -1,0 +1,29 @@
+{
+  "seq": 1223880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démarrage",
+      "démarrer",
+      "démarrage (d'un moteur, d'un ordinateur)",
+      "lancement"
+    ],
+    [
+      "démarrer",
+      "booter (un système d'exploitation)",
+      "charger (un programme en mémoire vive)"
+    ],
+    [
+      "démarrer (un moteur)"
+    ],
+    [
+      "démarrer",
+      "booter"
+    ],
+    [
+      "démarrer",
+      "mettre en marche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

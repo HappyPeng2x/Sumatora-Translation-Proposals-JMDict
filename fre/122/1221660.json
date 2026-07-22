@@ -1,0 +1,29 @@
+{
+  "seq": 1221660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amiable",
+      "sociable",
+      "frank",
+      "ouvert",
+      "gentil",
+      "disposé",
+      "prêt"
+    ],
+    [
+      "spontané",
+      "naturel",
+      "sans affectation"
+    ],
+    [
+      "cordial",
+      "gentil",
+      "aimable",
+      "bienveillant",
+      "jovial",
+      "facile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

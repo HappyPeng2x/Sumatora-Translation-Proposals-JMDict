@@ -1,0 +1,20 @@
+{
+  "seq": 1224020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "briller",
+      "scintiller"
+    ],
+    [
+      "illuminer (avec la joie, l'espoir, etc.) ; rayonner ; briller ; luire"
+    ],
+    [
+      "rougir; avoir honte; être embarrassé"
+    ],
+    [
+      "être magnifique; être splendide; être remarquable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

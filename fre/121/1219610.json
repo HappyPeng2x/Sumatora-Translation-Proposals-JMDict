@@ -12,6 +12,12 @@
     [
       "approche de deux lutteurs",
       "affrontement de deux sumos"
+    ],
+    [
+      "officier non armé dans les provinces durant l'Édo"
+    ],
+    [
+      "mot de liaison dans un vers en chaîne"
     ]
   ],
   "model": "qwen3:14b"

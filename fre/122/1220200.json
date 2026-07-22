@@ -7,6 +7,9 @@
       "gasohol",
       "pétrole",
       "huile volatile"
+    ],
+    [
+      "essence de carburant"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,20 @@
+{
+  "seq": 1220240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "drapeau"
+    ],
+    [
+      "pataka",
+      "bannière (bouddhisme)"
+    ],
+    [
+      "bannière (division administrative en Mongolie intérieure)"
+    ],
+    [
+      "symbole représentant l'illuminé d'un bouddha ou d'un bodhisattva"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

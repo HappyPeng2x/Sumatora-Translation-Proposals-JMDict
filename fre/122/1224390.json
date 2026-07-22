@@ -1,0 +1,17 @@
+{
+  "seq": 1224390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "falsifier",
+      "mentir",
+      "prétendre",
+      "tricher",
+      "tromper"
+    ],
+    [
+      "tromper"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

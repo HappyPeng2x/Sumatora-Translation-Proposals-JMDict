@@ -1,0 +1,41 @@
+{
+  "seq": 1223150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémoire",
+      "remémoration",
+      "souvenir"
+    ],
+    [
+      "mémoire",
+      "stockage"
+    ],
+    [
+      "souvenir",
+      "garder en tête",
+      "ne pas oublier",
+      "se rappeler",
+      "conserver en mémoire",
+      "stocker"
+    ],
+    [
+      "mémoire",
+      "apprendre par cœur",
+      "mémoriser"
+    ],
+    [
+      "garder en mémoire",
+      "rester inoubliable"
+    ],
+    [
+      "se rappeler",
+      "souvenir"
+    ],
+    [
+      "apprendre par cœur",
+      "acquérir par apprentissage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

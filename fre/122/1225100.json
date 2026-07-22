@@ -1,0 +1,16 @@
+{
+  "seq": 1225100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "art",
+      "finesse",
+      "technique"
+    ],
+    [
+      "technique",
+      "méthode technique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "feu follet",
       "lumière trompeuse"
+    ],
+    [
+      "feu follet"
     ]
   ],
   "model": "qwen3:14b"

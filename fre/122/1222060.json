@@ -1,0 +1,11 @@
+{
+  "seq": 1222060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réconfort minime",
+      "soulagement éphémère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

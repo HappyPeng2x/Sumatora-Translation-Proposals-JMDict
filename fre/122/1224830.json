@@ -1,0 +1,17 @@
+{
+  "seq": 1224830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "formel",
+      "cérémonieux",
+      "rituel",
+      "ritualiste"
+    ],
+    [
+      "par pure forme",
+      "par courtoisie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

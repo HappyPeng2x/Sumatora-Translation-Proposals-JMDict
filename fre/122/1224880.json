@@ -1,0 +1,26 @@
+{
+  "seq": 1224880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "\"Ok\"",
+      "bien",
+      "parfait",
+      "trés bien"
+    ],
+    [
+      "d'accord",
+      "en ordre",
+      "correct"
+    ],
+    [
+      "d'accord",
+      "maintenant c'est bien"
+    ],
+    [
+      "non",
+      "merci"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

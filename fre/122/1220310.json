@@ -1,0 +1,36 @@
+{
+  "seq": 1220310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déjà",
+      "trop tard"
+    ],
+    [
+      "déjà",
+      "précédemment",
+      "auparavant"
+    ],
+    [
+      "incontestablement",
+      "sans équivoque",
+      "d'abord"
+    ],
+    [
+      "complètement",
+      "en totalité",
+      "sans exception"
+    ],
+    [
+      "presque",
+      "à peu près",
+      "à l'extrême"
+    ],
+    [
+      "évidemment",
+      "incontestablement",
+      "sans aucun doute"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

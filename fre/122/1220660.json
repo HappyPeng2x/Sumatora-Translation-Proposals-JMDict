@@ -1,0 +1,23 @@
+{
+  "seq": 1220660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abandont",
+      "rejet"
+    ],
+    [
+      "rejeter",
+      "refuser"
+    ],
+    [
+      "rejeter",
+      "refuser"
+    ],
+    [
+      "refuser",
+      "écarter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

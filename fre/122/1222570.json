@@ -1,0 +1,14 @@
+{
+  "seq": 1222570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enthousiasme",
+      "ardeur",
+      "zèle",
+      "dynamisme",
+      "esprit de combat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

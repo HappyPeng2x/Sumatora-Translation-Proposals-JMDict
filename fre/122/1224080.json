@@ -1,0 +1,16 @@
+{
+  "seq": 1224080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être affamé",
+      "mourir de faim"
+    ],
+    [
+      "être en manque de",
+      "désirer ardemment",
+      "avoir une forte envie de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

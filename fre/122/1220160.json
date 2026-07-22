@@ -1,0 +1,15 @@
+{
+  "seq": 1220160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "volatilisation"
+    ],
+    [
+      "huile essentielle",
+      "s'évaporer",
+      "volatil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

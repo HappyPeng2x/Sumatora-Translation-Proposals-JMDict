@@ -1,0 +1,12 @@
+{
+  "seq": 1226980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au contraire",
+      "en revanche",
+      "par ailleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

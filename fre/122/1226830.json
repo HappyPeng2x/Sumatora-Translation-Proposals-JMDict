@@ -1,0 +1,27 @@
+{
+  "seq": 1226830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dramatisation (porter une histoire au cinéma ou sur les planches)"
+    ],
+    [
+      "embellissement",
+      "exagération",
+      "dramatisation",
+      "décoration"
+    ],
+    [
+      "adaptation",
+      "mise en scène",
+      "réécriture",
+      "mise en film"
+    ],
+    [
+      "embellir",
+      "décorer",
+      "rendre plus attrayant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

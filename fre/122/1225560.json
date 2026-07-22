@@ -1,0 +1,14 @@
+{
+  "seq": 1225560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "\"affaire\"",
+      "scandale"
+    ],
+    [
+      "affaire criminelle difficile à résoudre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

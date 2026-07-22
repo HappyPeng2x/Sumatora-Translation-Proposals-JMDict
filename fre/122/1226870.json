@@ -6,6 +6,9 @@
       "jambe",
       "portion de jambe",
       "pied (d'une page)"
+    ],
+    [
+      "partie inférieure (d'un objet)"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,19 @@
+{
+  "seq": 1226730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle de réception"
+    ],
+    [
+      "salon"
+    ],
+    [
+      "espace passager"
+    ],
+    [
+      "compartiment privé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

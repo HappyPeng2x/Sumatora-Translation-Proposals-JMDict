@@ -1,0 +1,12 @@
+{
+  "seq": 1223960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'entendre",
+      "être d'accord",
+      "penser de la même façon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

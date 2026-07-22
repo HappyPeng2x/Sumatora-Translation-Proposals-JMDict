@@ -7,6 +7,11 @@
       "édifice du parlement",
       "hémicycle",
       "salle des délibérations"
+    ],
+    [
+      "salle de négociation",
+      "salle de délibération",
+      "édifice du parlement japonais"
     ]
   ],
   "model": "qwen3:14b"

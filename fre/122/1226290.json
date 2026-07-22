@@ -1,0 +1,14 @@
+{
+  "seq": 1226290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chance et malchance",
+      "heur et malheur"
+    ],
+    [
+      "présage favorable ou défavorable; destin; avenir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1222630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vésicule",
+      "bladder"
+    ],
+    [
+      "alvéole pulmonaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

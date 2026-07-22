@@ -1,0 +1,13 @@
+{
+  "seq": 1224900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se moquer",
+      "se faire des plaisanteries",
+      "être gâté",
+      "être corrompu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

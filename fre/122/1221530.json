@@ -5,6 +5,9 @@
     [
       "avoir un intérêt pour quelque chose",
       "être enclin à faire quelque chose"
+    ],
+    [
+      "avoir de l'intérêt pour quelque chose"
     ]
   ],
   "model": "qwen3:14b"

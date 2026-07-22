@@ -1,0 +1,19 @@
+{
+  "seq": 1221300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapatriement",
+      "retour (à la maison)",
+      "retour chez soi"
+    ],
+    [
+      "retour d'information",
+      "retour de signal"
+    ],
+    [
+      "retour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

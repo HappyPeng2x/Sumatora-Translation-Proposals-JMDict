@@ -1,0 +1,35 @@
+{
+  "seq": 1223090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échelle",
+      "envergure"
+    ],
+    [
+      "base",
+      "fondement",
+      "support"
+    ],
+    [
+      "honneur",
+      "réputation",
+      "célébrité"
+    ],
+    [
+      "effet",
+      "résultat",
+      "conséquence"
+    ],
+    [
+      "indemnité",
+      "réparation",
+      "compensation"
+    ],
+    [
+      "preuve",
+      "preuves"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

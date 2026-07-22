@@ -1,0 +1,11 @@
+{
+  "seq": 1221930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tendance",
+      "momentum"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

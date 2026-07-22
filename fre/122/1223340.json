@@ -1,0 +1,15 @@
+{
+  "seq": 1223340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commémoration"
+    ],
+    [
+      "mémorabilia",
+      "souvenir",
+      "objet de collection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

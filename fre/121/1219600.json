@@ -5,6 +5,11 @@
     [
       "permettre à (quelqu'un ou quelque chose) de s'approcher",
       "laisser approcher (souvent dans le négatif)"
+    ],
+    [
+      "accepter",
+      "écouter",
+      "prêter attention à"
     ]
   ],
   "model": "qwen3:14b"

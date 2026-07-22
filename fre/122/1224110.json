@@ -1,0 +1,17 @@
+{
+  "seq": 1224110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chevalier"
+    ],
+    [
+      "militaire",
+      "samouraï monté sur un cheval"
+    ],
+    [
+      "cavalier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

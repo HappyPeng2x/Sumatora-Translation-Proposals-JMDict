@@ -1,0 +1,19 @@
+{
+  "seq": 1221170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agile",
+      "vif"
+    ],
+    [
+      "agile",
+      "vif",
+      "rapide",
+      "habile",
+      "dextereux",
+      "alerte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

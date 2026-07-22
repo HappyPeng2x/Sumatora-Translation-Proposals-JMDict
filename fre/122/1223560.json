@@ -9,6 +9,12 @@
     [
       "Chambre des lords (Royaume-Uni)",
       "Chambre des lords (Royaume-Uni)"
+    ],
+    [
+      "Chambre des pairs (Prusse; 1854–1918); Chambre des pairs (Autriche; 1861–1918)"
+    ],
+    [
+      "Chambre des Pairs (1814–1848)"
     ]
   ],
   "model": "qwen3:14b"

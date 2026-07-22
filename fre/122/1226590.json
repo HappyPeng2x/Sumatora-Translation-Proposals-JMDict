@@ -1,0 +1,14 @@
+{
+  "seq": 1226590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dumpling sucré fait avec de la farine de mochi et (parfois) de la farine de millet (produit célèbre d'Okayama)",
+      "dumpling de millet"
+    ],
+    [
+      "dumpling de millet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

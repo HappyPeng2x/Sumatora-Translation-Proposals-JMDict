@@ -1,0 +1,14 @@
+{
+  "seq": 1222110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enjoué",
+      "le cœur léger"
+    ],
+    [
+      "facilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

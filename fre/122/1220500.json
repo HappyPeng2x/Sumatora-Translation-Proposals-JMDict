@@ -1,0 +1,14 @@
+{
+  "seq": 1220500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droits acquis",
+      "droits consolidés"
+    ],
+    [
+      "droit acquis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

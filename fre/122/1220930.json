@@ -1,0 +1,40 @@
+{
+  "seq": 1220930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disposition",
+      "humeur"
+    ],
+    [
+      "état",
+      "bien-être",
+      "sécurité",
+      "situation"
+    ],
+    [
+      "en bonne humeur",
+      "joyeux",
+      "content",
+      "gai",
+      "enjoué"
+    ],
+    [
+      "circonstances",
+      "situation",
+      "état des choses"
+    ],
+    [
+      "occasion",
+      "moment propice",
+      "bonne heure",
+      "temps opportun"
+    ],
+    [
+      "bonne humeur",
+      "bonne disposition",
+      "état d'esprit favorable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

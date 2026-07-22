@@ -5,6 +5,10 @@
     [
       "règlement officiel",
       "règles internes"
+    ],
+    [
+      "règle",
+      "instruction"
     ]
   ],
   "model": "qwen3:14b"

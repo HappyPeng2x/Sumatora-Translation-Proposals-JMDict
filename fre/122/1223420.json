@@ -1,0 +1,13 @@
+{
+  "seq": 1223420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "notation"
+    ],
+    [
+      "syntaxe; structure de la phrase"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

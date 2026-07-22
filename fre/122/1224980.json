@@ -6,6 +6,10 @@
       "chanson humoristique",
       "chanson comique",
       "limerick"
+    ],
+    [
+      "poème humoristique",
+      "tanka satirique"
     ]
   ],
   "model": "qwen3:14b"

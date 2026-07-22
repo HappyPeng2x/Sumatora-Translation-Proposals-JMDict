@@ -1,0 +1,14 @@
+{
+  "seq": 1224050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clarté",
+      "luminosité"
+    ],
+    [
+      "brillance; luminosité; intensité lumineuse (par exemple; d'une ampoule à incandescence)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1225090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "art",
+      "technique"
+    ],
+    [
+      "astuce",
+      "ruse"
+    ],
+    [
+      "technique",
+      "manœuvre",
+      "manipulation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1227100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "folie",
+      "rage",
+      "fureur"
+    ],
+    [
+      "perdre le contrôle",
+      "être pris de rage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

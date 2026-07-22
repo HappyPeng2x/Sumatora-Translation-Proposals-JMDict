@@ -1,0 +1,14 @@
+{
+  "seq": 1223830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vœu",
+      "serment"
+    ],
+    [
+      "s'adresser à quelqu'un autre pour la planification d'une affaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

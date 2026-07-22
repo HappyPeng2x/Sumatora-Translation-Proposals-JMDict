@@ -1,0 +1,11 @@
+{
+  "seq": 1223190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "capacité de stockage",
+      "capacité de mémoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

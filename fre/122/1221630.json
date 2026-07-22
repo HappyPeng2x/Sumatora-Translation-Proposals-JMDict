@@ -1,0 +1,15 @@
+{
+  "seq": 1221630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changer d'avis",
+      "se décider autrement"
+    ],
+    [
+      "changer d'humeur",
+      "être de mauvaise humeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

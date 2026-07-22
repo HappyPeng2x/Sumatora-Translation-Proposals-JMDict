@@ -1,0 +1,15 @@
+{
+  "seq": 1221280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conversion (religieuse)",
+      "dévotion"
+    ],
+    [
+      "conversion",
+      "changement de religion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -8,6 +8,9 @@
     ],
     [
       "matériaux utilisés pour la fabrication de machines"
+    ],
+    [
+      "équipement technique"
     ]
   ],
   "model": "qwen3:14b"

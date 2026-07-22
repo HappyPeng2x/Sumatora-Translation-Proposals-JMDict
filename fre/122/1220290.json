@@ -10,6 +10,18 @@
       "lancer un groupe",
       "créer une entreprise",
       "lancer un nouveau parti"
+    ],
+    [
+      "lever une bannière"
+    ],
+    [
+      "mobiliser des troupes"
+    ],
+    [
+      "une révolte; un soulèvement"
+    ],
+    [
+      "le lancement d'une entreprise"
     ]
   ],
   "model": "qwen3:14b"

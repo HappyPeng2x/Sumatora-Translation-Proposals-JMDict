@@ -1,0 +1,11 @@
+{
+  "seq": 1227130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conjonction contrastive",
+      "conjonction contradictoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

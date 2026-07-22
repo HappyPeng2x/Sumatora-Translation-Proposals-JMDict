@@ -12,6 +12,9 @@
       "un peu",
       "en partie",
       "dans une certaine mesure"
+    ],
+    [
+      "quelque peu; même si c'est très modeste"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,13 @@
+{
+  "seq": 1221400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résultat",
+      "conséquence",
+      "tendance",
+      "orientation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1222590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disposition (d'esprit)",
+      "humeur",
+      "sentiment"
+    ],
+    [
+      "état physique",
+      "état général"
+    ],
+    [
+      "atmosphère",
+      "ambiance",
+      "tendance générale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

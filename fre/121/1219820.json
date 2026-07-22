@@ -1,0 +1,14 @@
+{
+  "seq": 1219820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séjour temporaire",
+      "résidence provisoire"
+    ],
+    [
+      "résidence électorale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

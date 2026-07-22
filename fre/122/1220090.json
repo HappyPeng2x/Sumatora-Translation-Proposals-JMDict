@@ -1,0 +1,23 @@
+{
+  "seq": 1220090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éviter",
+      "détester",
+      "haïr"
+    ],
+    [
+      "détester"
+    ],
+    [
+      "abhorrer",
+      "haïr"
+    ],
+    [
+      "recevoir les préceptes bouddhiques",
+      "recevoir l'ordination bouddhique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -13,6 +13,20 @@
     [
       "réduction",
       "diminution"
+    ],
+    [
+      "être imputable à",
+      "revenir à",
+      "aboutir à"
+    ],
+    [
+      "retour",
+      "rentrée"
+    ],
+    [
+      "résultat",
+      "issue",
+      "conclusion"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,22 @@
+{
+  "seq": 1220120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défilade",
+      "esquive",
+      "fuite",
+      "rebuffade(?)"
+    ],
+    [
+      "recusation (d'un juge) ; opposition (à un juge) ; déclaration de conflit d'intérêts"
+    ],
+    [
+      "éviter; fuir; détourner; se dérober; se soustraire; éviter par la ruse"
+    ],
+    [
+      "réclamer la décharge (juridique); discréditer; porter plainte contre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

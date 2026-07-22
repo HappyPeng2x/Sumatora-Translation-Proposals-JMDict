@@ -1,0 +1,17 @@
+{
+  "seq": 1225680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défiance",
+      "doute",
+      "méfiance",
+      "soupçon"
+    ],
+    [
+      "affaire",
+      "scandale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

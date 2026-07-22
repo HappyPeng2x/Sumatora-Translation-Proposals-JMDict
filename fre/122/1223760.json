@@ -1,0 +1,13 @@
+{
+  "seq": 1223760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mise en œuvre",
+      "mise en marche",
+      "démarrage",
+      "lancement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1219950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien?",
+      "plusieurs",
+      "quelques"
+    ],
+    [
+      "beaucoup"
+    ],
+    [
+      "combien; quelle quantité"
+    ],
+    [
+      "très; tellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

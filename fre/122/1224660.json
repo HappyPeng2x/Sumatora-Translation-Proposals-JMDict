@@ -1,0 +1,11 @@
+{
+  "seq": 1224660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre faux",
+      "faux document"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

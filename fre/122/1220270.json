@@ -1,0 +1,15 @@
+{
+  "seq": 1220270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "situation (guerre, fortune) (?)"
+    ],
+    [
+      "loyalty",
+      "affiliation",
+      "position"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

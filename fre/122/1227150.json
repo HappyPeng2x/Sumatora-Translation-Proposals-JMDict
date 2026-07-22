@@ -1,0 +1,11 @@
+{
+  "seq": 1227150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détecter l'origine d'un appel téléphonique",
+      "tracer un appel téléphonique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

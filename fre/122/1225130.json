@@ -1,0 +1,20 @@
+{
+  "seq": 1225130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compétence",
+      "technique",
+      "technologie"
+    ],
+    [
+      "technique",
+      "habileté"
+    ],
+    [
+      "art",
+      "artisanat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

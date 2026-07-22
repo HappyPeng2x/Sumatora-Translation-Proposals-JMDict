@@ -1,0 +1,17 @@
+{
+  "seq": 1222440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "respiration",
+      "souffle"
+    ],
+    [
+      "caractère",
+      "tempérament",
+      "nature",
+      "disposition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

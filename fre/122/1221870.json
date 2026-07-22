@@ -1,0 +1,27 @@
+{
+  "seq": 1221870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prends garde",
+      "sois prudent",
+      "fais attention"
+    ],
+    [
+      "attention !",
+      "regarde !",
+      "prudence !"
+    ],
+    [
+      "prends soin de toi",
+      "sois prudent",
+      "prends soin de toi-même"
+    ],
+    [
+      "à bientôt",
+      "bonne chance",
+      "prends soin de toi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1226380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boire",
+      "faire une pause",
+      "fumer",
+      "souffrir (d'un malheur, d'une catastrophe)"
+    ],
+    [
+      "souffrir (une défaite)"
+    ],
+    [
+      "fumer (du tabac)"
+    ],
+    [
+      "subir (une défaite cuisante); supporter; endurer; subir (une perte)"
+    ],
+    [
+      "être éliminé (au baseball); être rejeté (d'un lancer)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

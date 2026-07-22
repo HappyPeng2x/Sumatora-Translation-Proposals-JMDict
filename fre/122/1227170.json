@@ -1,0 +1,17 @@
+{
+  "seq": 1227170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement brusque",
+      "renversement",
+      "volte-face"
+    ],
+    [
+      "inversion",
+      "retournement",
+      "changement de sens (d'une rotation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

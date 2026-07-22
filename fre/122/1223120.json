@@ -1,0 +1,22 @@
+{
+  "seq": 1223120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "loi",
+      "ordre",
+      "règle"
+    ],
+    [
+      "règles",
+      "lois",
+      "règlements"
+    ],
+    [
+      "contrôle",
+      "régulation",
+      "restriction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

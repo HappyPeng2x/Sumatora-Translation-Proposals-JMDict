@@ -1,0 +1,26 @@
+{
+  "seq": 1220810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appareil",
+      "mécanisme",
+      "machine"
+    ],
+    [
+      "instrument",
+      "appareil",
+      "instrument"
+    ],
+    [
+      "machine",
+      "mécanisme",
+      "appareil"
+    ],
+    [
+      "instrument",
+      "outil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

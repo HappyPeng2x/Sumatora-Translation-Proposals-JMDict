@@ -1,0 +1,12 @@
+{
+  "seq": 1219720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "auteur de contributions",
+      "collaborateur",
+      "contribuant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

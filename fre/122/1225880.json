@@ -1,0 +1,17 @@
+{
+  "seq": 1225880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "belle-mère",
+      "mère adoptive"
+    ],
+    [
+      "mère de substitution"
+    ],
+    [
+      "mère par mariage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

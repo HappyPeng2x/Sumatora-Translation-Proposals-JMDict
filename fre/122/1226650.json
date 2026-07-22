@@ -6,6 +6,9 @@
       "membre invité",
       "membre associé",
       "membre honoraire"
+    ],
+    [
+      "membre invité"
     ]
   ],
   "model": "qwen3:14b"

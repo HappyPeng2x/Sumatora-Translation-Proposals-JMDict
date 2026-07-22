@@ -1,0 +1,14 @@
+{
+  "seq": 1226720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attirer un public nombreux",
+      "remplir une salle"
+    ],
+    [
+      "Vendu !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

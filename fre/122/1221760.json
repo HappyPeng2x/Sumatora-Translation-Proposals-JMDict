@@ -1,0 +1,13 @@
+{
+  "seq": 1221760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indifférent",
+      "désintéressé",
+      "paresseux",
+      "déprimé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

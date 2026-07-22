@@ -1,0 +1,23 @@
+{
+  "seq": 1223110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accord",
+      "règles",
+      "code",
+      "protocole",
+      "convention",
+      "règlement intérieur"
+    ],
+    [
+      "statuts",
+      "dispositions statutaires"
+    ],
+    [
+      "règles",
+      "règlement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

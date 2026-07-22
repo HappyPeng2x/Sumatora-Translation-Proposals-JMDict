@@ -7,6 +7,12 @@
     ],
     [
       "49e jour après la mort d'une personne, jour sur lequel des rituels bouddhiques sont célébrés"
+    ],
+    [
+      "jour de deuil",
+      "messe pour les âmes tous les sept jours",
+      "anniversaire de la mort",
+      "49e jour après la mort"
     ]
   ],
   "model": "qwen3:14b"

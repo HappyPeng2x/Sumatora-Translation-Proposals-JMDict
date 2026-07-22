@@ -1,0 +1,15 @@
+{
+  "seq": 1221810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "égoïsme"
+    ],
+    [
+      "libre",
+      "sans contrainte",
+      "à son aise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1226110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle des débats",
+      "salle d'assemblée",
+      "salle du Parlement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

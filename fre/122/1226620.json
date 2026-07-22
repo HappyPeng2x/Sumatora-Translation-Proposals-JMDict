@@ -1,0 +1,15 @@
+{
+  "seq": 1226620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rejet (d'une proposition...)"
+    ],
+    [
+      "rejet",
+      "refus",
+      "rebut"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

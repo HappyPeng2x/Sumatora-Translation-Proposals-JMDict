@@ -13,6 +13,27 @@
     ],
     [
       "parenthèse en coquille de tortue"
+    ],
+    [
+      "blason hexagonal"
+    ],
+    [
+      "parenthèse angulaire; virgule"
+    ],
+    [
+      "carapace de tortue; armure de tortue"
+    ],
+    [
+      "boîte hexagonale"
+    ],
+    [
+      "motif de tortue; forme hexagonale"
+    ],
+    [
+      "épaulette de cuir armoriée"
+    ],
+    [
+      "blason décoré en forme de carapace de tortue"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1224510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faux témoignage",
+      "parjure"
+    ],
+    [
+      "témoignage faux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

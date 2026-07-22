@@ -1,0 +1,16 @@
+{
+  "seq": 1220560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échéance",
+      "terme"
+    ],
+    [
+      "délai",
+      "échéance",
+      "date limite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

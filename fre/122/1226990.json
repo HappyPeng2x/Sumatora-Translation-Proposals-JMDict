@@ -1,0 +1,23 @@
+{
+  "seq": 1226990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aller à l'encontre de",
+      "défier",
+      "désobéir",
+      "résister",
+      "s'opposer"
+    ],
+    [
+      "s'opposer",
+      "résister",
+      "trotter",
+      "désobéir",
+      "ne pas obéir",
+      "se rebeller",
+      "se montrer récalcitrant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

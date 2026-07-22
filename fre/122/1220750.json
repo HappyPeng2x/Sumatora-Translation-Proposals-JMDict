@@ -1,0 +1,22 @@
+{
+  "seq": 1220750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abandon",
+      "donation"
+    ],
+    [
+      "abandonner",
+      "renoncer"
+    ],
+    [
+      "aumône"
+    ],
+    [
+      "amnistie",
+      "remission de dette (par la loi; à l'époque d'Edo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

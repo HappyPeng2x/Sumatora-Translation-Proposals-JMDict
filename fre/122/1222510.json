@@ -1,0 +1,24 @@
+{
+  "seq": 1222510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indication",
+      "signe",
+      "tendance"
+    ],
+    [
+      "ton (du marché)"
+    ],
+    [
+      "prix du marché; cours du marché; signe; présage"
+    ],
+    [
+      "sentiment; pressentiment; indication; signe; apparence; apparence extérieure; comportement; attitude"
+    ],
+    [
+      "conjoncture; situation commerciale; ambiance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -11,6 +11,11 @@
       "être attentif",
       "être tactique",
       "être sensible"
+    ],
+    [
+      "être à la mode",
+      "être élégant",
+      "avoir du goût"
     ]
   ],
   "model": "qwen3:14b"

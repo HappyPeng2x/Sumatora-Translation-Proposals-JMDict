@@ -1,0 +1,15 @@
+{
+  "seq": 1223380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jour anniversaire",
+      "jour du souvenir"
+    ],
+    [
+      "anniversaire",
+      "jubilé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

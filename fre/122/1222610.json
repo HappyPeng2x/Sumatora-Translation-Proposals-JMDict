@@ -1,0 +1,13 @@
+{
+  "seq": 1222610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement de rythme",
+      "changement d'humeur",
+      "pause mentale (par exemple, faire une promenade)",
+      "régénération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

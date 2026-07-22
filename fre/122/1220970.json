@@ -1,0 +1,17 @@
+{
+  "seq": 1220970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "axe",
+      "essieu",
+      "plan",
+      "dispositif"
+    ],
+    [
+      "axe",
+      "centre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

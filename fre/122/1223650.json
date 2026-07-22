@@ -1,0 +1,19 @@
+{
+  "seq": 1223650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se lever",
+      "se relever"
+    ],
+    [
+      "se redresser",
+      "s'asseoir droit"
+    ],
+    [
+      "ramper sur ses genoux",
+      "se traîner sur les genoux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1225490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "divergence d'opinion",
+      "doute",
+      "méfiance",
+      "scepticisme",
+      "soupçon",
+      "suspicion",
+      "uncertitude"
+    ],
+    [
+      "soupçon",
+      "doute"
+    ],
+    [
+      "méfiance",
+      "suspicion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1225630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doute",
+      "problème",
+      "question"
+    ],
+    [
+      "doute",
+      "soupçon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

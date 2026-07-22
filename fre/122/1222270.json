@@ -1,0 +1,16 @@
+{
+  "seq": 1222270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "climat",
+      "temps"
+    ],
+    [
+      "attitude",
+      "disposition",
+      "tempérament"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

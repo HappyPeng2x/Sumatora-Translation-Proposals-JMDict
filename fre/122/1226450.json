@@ -1,0 +1,24 @@
+{
+  "seq": 1226450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "belladone",
+      "chamarelle",
+      "placodone grandiflore"
+    ],
+    [
+      "teinte de prachtklokje",
+      "nuance de prachtklokje"
+    ],
+    [
+      "dégradé de prachtklokje",
+      "nuancier de prachtklokje"
+    ],
+    [
+      "prachtklokje stylisé",
+      "motif de prachtklokje décoratif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

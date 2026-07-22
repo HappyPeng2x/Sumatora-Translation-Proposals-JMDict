@@ -1,0 +1,16 @@
+{
+  "seq": 1221450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en rentrant",
+      "sur le chemin du retour"
+    ],
+    [
+      "retour",
+      "chemin du retour",
+      "retour à la maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

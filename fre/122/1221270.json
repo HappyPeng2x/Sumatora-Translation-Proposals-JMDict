@@ -1,0 +1,19 @@
+{
+  "seq": 1221270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rentrer",
+      "retourner"
+    ],
+    [
+      "quitter",
+      "partir"
+    ],
+    [
+      "rentrer chez soi",
+      "atteindre la plaque de maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1224820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étiquette",
+      "convenance",
+      "protocole"
+    ],
+    [
+      "cérémonie religieuse ; rituel ; rite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

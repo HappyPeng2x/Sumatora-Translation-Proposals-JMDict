@@ -1,0 +1,18 @@
+{
+  "seq": 1226880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scénario"
+    ],
+    [
+      "scénario de film",
+      "texte d'une pièce de théâtre"
+    ],
+    [
+      "livre de texte",
+      "libretto d'opéra"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

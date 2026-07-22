@@ -1,0 +1,17 @@
+{
+  "seq": 1220060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un peu"
+    ],
+    [
+      "une partie",
+      "une portion"
+    ],
+    [
+      "un peu (dutch)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

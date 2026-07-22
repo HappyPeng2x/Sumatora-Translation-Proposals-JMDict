@@ -1,0 +1,24 @@
+{
+  "seq": 1226490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être en échec et mat (aux échecs chinois (shôgi))",
+      "se retrouver coincé"
+    ],
+    [
+      "être en échec et mat (au shôgi)",
+      "être en échec et mat (au shôgi)"
+    ],
+    [
+      "être dans une situation difficile",
+      "être à court de solutions",
+      "atteindre ses limites"
+    ],
+    [
+      "ne pas pouvoir avancer",
+      "ne pas bouger du lieu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

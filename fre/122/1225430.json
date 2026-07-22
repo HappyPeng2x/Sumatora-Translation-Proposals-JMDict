@@ -1,0 +1,13 @@
+{
+  "seq": 1225430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "duperie",
+      "tromperie",
+      "mensonge",
+      "fourberie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

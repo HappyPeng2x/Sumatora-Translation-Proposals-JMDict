@@ -1,0 +1,24 @@
+{
+  "seq": 1222780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prière"
+    ],
+    [
+      "supplier",
+      "implorer",
+      "demander instamment"
+    ],
+    [
+      "prière",
+      "supplique"
+    ],
+    [
+      "supplication",
+      "souhait fervent",
+      "demande pressante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

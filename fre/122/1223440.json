@@ -1,0 +1,30 @@
+{
+  "seq": 1223440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "document",
+      "dossier",
+      "enregistrement",
+      "minutes (d'un procès)"
+    ],
+    [
+      "record (dans le sport)",
+      "record (un record de performance)",
+      "enregistrement (d'un record historique)"
+    ],
+    [
+      "stockage"
+    ],
+    [
+      "record",
+      "performance exceptionnelle",
+      "enregistrer",
+      "noter",
+      "inscrire",
+      "protocoler",
+      "enregistrer (données)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

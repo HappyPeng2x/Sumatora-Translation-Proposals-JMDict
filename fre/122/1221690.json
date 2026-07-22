@@ -19,6 +19,9 @@
       "avoir envie de",
       "être enclin à",
       "se résoudre à"
+    ],
+    [
+      "prendre envie de; avoir envie de"
     ]
   ],
   "model": "qwen3:14b"

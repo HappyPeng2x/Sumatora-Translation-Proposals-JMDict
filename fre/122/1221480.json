@@ -1,0 +1,11 @@
+{
+  "seq": 1221480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "induction",
+      "méthode inductive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

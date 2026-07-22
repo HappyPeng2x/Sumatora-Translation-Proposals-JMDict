@@ -1,0 +1,13 @@
+{
+  "seq": 1224760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie",
+      "rite",
+      "rituel",
+      "service religieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

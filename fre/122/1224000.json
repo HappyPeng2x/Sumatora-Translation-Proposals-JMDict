@@ -1,0 +1,11 @@
+{
+  "seq": 1224000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "illuminer",
+      "rendre lumineux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

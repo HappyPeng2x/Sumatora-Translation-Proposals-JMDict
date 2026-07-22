@@ -1,0 +1,35 @@
+{
+  "seq": 1222310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affectation (suffisance)"
+    ],
+    [
+      "arrogance",
+      "prétention",
+      "orgueil"
+    ],
+    [
+      "dégoût",
+      "répugnance",
+      "nausée"
+    ],
+    [
+      "afféterie",
+      "ostentation",
+      "manière"
+    ],
+    [
+      "déplaisant",
+      "repoussant",
+      "dégoûtant"
+    ],
+    [
+      "frappant",
+      "importun",
+      "pompeux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

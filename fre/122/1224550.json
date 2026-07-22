@@ -1,0 +1,12 @@
+{
+  "seq": 1224550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "péché",
+      "mensonge",
+      "faux serment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1227270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour d'eau",
+      "reflux",
+      "contre-courant",
+      "remontée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

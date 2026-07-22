@@ -1,0 +1,14 @@
+{
+  "seq": 1226690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objectivité"
+    ],
+    [
+      "impartialité",
+      "objectivité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

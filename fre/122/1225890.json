@@ -1,0 +1,13 @@
+{
+  "seq": 1225890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "belle-sœur cadette (sœur cadette du conjoint ou femme du petit frère)"
+    ],
+    [
+      "sœur cadette adoptive ou pas issue du même couple parental"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

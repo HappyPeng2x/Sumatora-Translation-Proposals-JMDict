@@ -1,0 +1,31 @@
+{
+  "seq": 1223940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nomination",
+      "nomination",
+      "nomination",
+      "nomination"
+    ],
+    [
+      "promouvoir",
+      "promouvoir",
+      "promouvoir",
+      "promouvoir"
+    ],
+    [
+      "nomination",
+      "nomination",
+      "nomination",
+      "nomination"
+    ],
+    [
+      "promotion",
+      "promotion",
+      "promotion",
+      "promotion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

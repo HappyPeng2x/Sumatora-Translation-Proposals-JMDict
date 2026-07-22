@@ -1,0 +1,16 @@
+{
+  "seq": 1224230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démonesse",
+      "sorcière",
+      "ogresse",
+      "femme diabolique"
+    ],
+    [
+      "femme mariée (expression familière, dépréciative ou humoristique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

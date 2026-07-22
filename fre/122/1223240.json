@@ -1,0 +1,17 @@
+{
+  "seq": 1223240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "article",
+      "récit",
+      "rapport"
+    ],
+    [
+      "article",
+      "description",
+      "chronique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

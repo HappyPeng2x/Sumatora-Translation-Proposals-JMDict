@@ -1,0 +1,17 @@
+{
+  "seq": 1225860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "beau-père",
+      "père adoptif"
+    ],
+    [
+      "père adoptif"
+    ],
+    [
+      "père recueillant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

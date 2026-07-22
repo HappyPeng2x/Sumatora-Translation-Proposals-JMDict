@@ -1,0 +1,23 @@
+{
+  "seq": 1225510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "douter",
+      "se méfier",
+      "soupçonner",
+      "suspecter"
+    ],
+    [
+      "soupçonner",
+      "douter",
+      "avoir des soupçons"
+    ],
+    [
+      "méfier",
+      "ne pas faire confiance",
+      "être méfiant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,29 @@
+{
+  "seq": 1225920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "convenance",
+      "courtoisie",
+      "dette morale",
+      "devoir",
+      "honneur",
+      "obligation sociale (rapport familial ou assimilé)",
+      "politesse",
+      "sens du devoir"
+    ],
+    [
+      "parenté par mariage"
+    ],
+    [
+      "obligation; sentiment d'obligation"
+    ],
+    [
+      "signification; sens"
+    ],
+    [
+      "relation ressemblant à une parenté (comme une belle-famille ou une relation par alliance)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1223850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rédaction",
+      "élaboration",
+      "préparation (d'un document)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

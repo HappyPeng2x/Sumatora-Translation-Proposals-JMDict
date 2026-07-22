@@ -1,0 +1,22 @@
+{
+  "seq": 1225420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tromper"
+    ],
+    [
+      "être aussi ... que ..."
+    ],
+    [
+      "mentir; tromper; abuser de"
+    ],
+    [
+      "traiter sans crainte; aborder sans peur"
+    ],
+    [
+      "mépriser; dédaigner; considérer comme inférieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

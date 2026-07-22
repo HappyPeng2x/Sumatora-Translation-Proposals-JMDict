@@ -1,0 +1,20 @@
+{
+  "seq": 1221900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "folie",
+      "fou"
+    ],
+    [
+      "mania; passion; obsession; fanatique; adepte fervent; dingue; cinglé"
+    ],
+    [
+      "fanatisme; enthousiaste; maniaque"
+    ],
+    [
+      "folie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

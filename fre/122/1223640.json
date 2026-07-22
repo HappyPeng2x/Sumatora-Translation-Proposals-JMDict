@@ -1,0 +1,30 @@
+{
+  "seq": 1223640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se lever"
+    ],
+    [
+      "se réveiller",
+      "être éveillé",
+      "ne pas dormir"
+    ],
+    [
+      "survenir",
+      "se produire",
+      "avoir lieu"
+    ],
+    [
+      "être survenant",
+      "se produire",
+      "survenir"
+    ],
+    [
+      "se produire",
+      "survenir",
+      "se manifester"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

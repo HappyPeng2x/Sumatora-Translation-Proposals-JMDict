@@ -11,6 +11,10 @@
       "tendance",
       "mouvement",
       "direction"
+    ],
+    [
+      "le destin",
+      "le hasard"
     ]
   ],
   "model": "qwen3:14b"

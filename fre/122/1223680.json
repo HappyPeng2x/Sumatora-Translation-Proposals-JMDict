@@ -1,0 +1,43 @@
+{
+  "seq": 1223680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arriver",
+      "avoir lieu",
+      "se produire",
+      "survenir"
+    ],
+    [
+      "se manifester",
+      "apparaître",
+      "survenir",
+      "se produire"
+    ],
+    [
+      "être causé par",
+      "résulter de",
+      "être d'origine",
+      "être lié à"
+    ],
+    [
+      "être atteint par",
+      "être infecté par",
+      "contracter",
+      "être frappé par"
+    ],
+    [
+      "prospérer",
+      "florir",
+      "être prospère",
+      "être en bonne santé"
+    ],
+    [
+      "s'enflammer",
+      "prendre feu",
+      "prendre une flamme",
+      "commencer à brûler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

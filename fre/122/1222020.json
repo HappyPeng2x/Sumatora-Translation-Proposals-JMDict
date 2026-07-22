@@ -1,0 +1,21 @@
+{
+  "seq": 1222020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anxiété",
+      "souci"
+    ],
+    [
+      "préoccupant",
+      "inquiétant",
+      "inquiétant",
+      "dérangeant",
+      "alarmant",
+      "préoccupé",
+      "inquiétant",
+      "alarmant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1226470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "encombrer",
+      "boucher",
+      "obstruer",
+      "gêner",
+      "emboucher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

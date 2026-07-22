@@ -1,0 +1,19 @@
+{
+  "seq": 1221290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "naturalisation"
+    ],
+    [
+      "naturalisation (d'une plante ou d'un animal dans une région étrangère)"
+    ],
+    [
+      "intégration (d'une plante ou d'un animal dans une région étrangère)"
+    ],
+    [
+      "introduction (d'une plante ou d'un animal dans une région étrangère)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

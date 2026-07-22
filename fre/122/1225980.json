@@ -10,6 +10,11 @@
     [
       "trappe à fourmis",
       "piège de fourmilion"
+    ],
+    [
+      "situation périlleuse",
+      "situation sans issue",
+      "état critique"
     ]
   ],
   "model": "qwen3:14b"

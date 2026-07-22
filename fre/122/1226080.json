@@ -1,0 +1,15 @@
+{
+  "seq": 1226080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débats",
+      "affaires à l'ordre du jour"
+    ],
+    [
+      "point à l'ordre du jour",
+      "document de réunion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

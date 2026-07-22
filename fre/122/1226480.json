@@ -1,0 +1,39 @@
+{
+  "seq": 1226480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être bloqué, bloquer",
+      "être coincé, coincer (sous la poussée)",
+      "être plein a craquer",
+      "raccourcir (vi)"
+    ],
+    [
+      "frapper la balle près de la poignée de la batte (baseball)"
+    ],
+    [
+      "raccourcir",
+      "s'amoindrir",
+      "s'étrangler"
+    ],
+    [
+      "être désemparé",
+      "être en difficulté",
+      "être coincé"
+    ],
+    [
+      "prendre fin",
+      "être résolu",
+      "être conclu"
+    ],
+    [
+      "devenir un consonne geminée"
+    ],
+    [
+      "frapper la batte près des mains du frappeur",
+      "être bloqué par les mains",
+      "être coincé par les poings"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

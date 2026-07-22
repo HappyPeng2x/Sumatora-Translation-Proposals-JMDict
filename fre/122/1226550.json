@@ -1,0 +1,27 @@
+{
+  "seq": 1226550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bourrer a craquer"
+    ],
+    [
+      "apprendre des connaissances sans discernement",
+      "remplir de force"
+    ],
+    [
+      "enfoncer dans",
+      "pomper dans",
+      "bloquer"
+    ],
+    [
+      "rassembler serré",
+      "mettre ensemble en groupe"
+    ],
+    [
+      "se remplir la panse",
+      "se gorger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

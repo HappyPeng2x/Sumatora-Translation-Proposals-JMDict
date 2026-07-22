@@ -1,0 +1,13 @@
+{
+  "seq": 1225850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "beau-frère cadet aîné (frère cadet du conjoint ou mari de la petite sœur)"
+    ],
+    [
+      "beau-frère cadet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

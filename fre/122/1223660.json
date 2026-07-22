@@ -1,0 +1,51 @@
+{
+  "seq": 1223660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dresser",
+      "réveiller",
+      "relever"
+    ],
+    [
+      "réveiller"
+    ],
+    [
+      "causer; provoquer; déclencher; produire; générer; créer"
+    ],
+    [
+      "commencer; entamer; lancer; fonder; établir; ouvrir"
+    ],
+    [
+      "labourer; cultiver; enlever la terre"
+    ],
+    [
+      "ressentir; éprouver; être touché par; susciter"
+    ],
+    [
+      "tomber malade de"
+    ],
+    [
+      "transcrire; noter; écrire ce qui est dit"
+    ],
+    [
+      "retourner (une carte); retourner"
+    ],
+    [
+      "faire fleurir (une activité); stimuler (une activité)"
+    ],
+    [
+      "transcrire (un bande sonore; un sténogramme)"
+    ],
+    [
+      "sculpter (une plaque de presse); graver"
+    ],
+    [
+      "agiter; troubler; émouvoir"
+    ],
+    [
+      "contracter (une maladie); être atteint par"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

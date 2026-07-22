@@ -1,0 +1,16 @@
+{
+  "seq": 1224220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "génie",
+      "prodige"
+    ],
+    [
+      "démon",
+      "personne surdouée",
+      "vaurien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

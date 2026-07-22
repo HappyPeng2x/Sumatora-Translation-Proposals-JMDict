@@ -1,0 +1,77 @@
+{
+  "seq": 1219680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passer chez quelqu'un",
+      "s'approcher",
+      "visiter"
+    ],
+    [
+      "se rassembler",
+      "se trouver ensemble",
+      "se réunir"
+    ],
+    [
+      "faire une halte",
+      "passer par",
+      "faire une courte visite"
+    ],
+    [
+      "vieillir",
+      "devenir plus âgé",
+      "augmenter en nombre"
+    ],
+    [
+      "prendre des rides",
+      "devenir ridé",
+      "montrer des rides"
+    ],
+    [
+      "s'appuyer contre",
+      "se reposer sur",
+      "se pencher contre"
+    ],
+    [
+      "pousser l'adversaire en tenant sa ceinture",
+      "pousser en maintenant la ceinture",
+      "forcer l'adversaire en s'accrochant à sa ceinture"
+    ],
+    [
+      "fixer un prix",
+      "parvenir à un accord",
+      "convenir d'un prix"
+    ],
+    [
+      "se laisser influencer par quelqu'un",
+      "céder à quelqu'un",
+      "se laisser dominer par quelqu'un"
+    ],
+    [
+      "être attiré par quelqu'un",
+      "suivre quelqu'un",
+      "être sous l'influence de quelqu'un"
+    ],
+    [
+      "se fier à quelqu'un",
+      "se confier à quelqu'un",
+      "reposer sa confiance en quelqu'un"
+    ],
+    [
+      "devenir ami",
+      "se faire des amis",
+      "devenir partenaire"
+    ],
+    [
+      "ensorceler",
+      "être possédé par un esprit",
+      "prendre possession de quelqu'un"
+    ],
+    [
+      "édifier un sanctuaire",
+      "fonder un temple",
+      "consacrer un lieu de culte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

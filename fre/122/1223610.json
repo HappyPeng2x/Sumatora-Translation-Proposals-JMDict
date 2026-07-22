@@ -1,0 +1,13 @@
+{
+  "seq": 1223610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "\"chéri\" (une femme à son mari)"
+    ],
+    [
+      "vous (dans un style épistolaire, pour désigner une personne considérée comme égale)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

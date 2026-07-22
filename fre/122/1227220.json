@@ -1,0 +1,21 @@
+{
+  "seq": 1227220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "régression",
+      "rechute",
+      "retour en arrière"
+    ],
+    [
+      "rechute (dans une maladie)"
+    ],
+    [
+      "retour en arrière; dégradation; recul"
+    ],
+    [
+      "rechute"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

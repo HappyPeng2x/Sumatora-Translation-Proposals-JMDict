@@ -1,0 +1,15 @@
+{
+  "seq": 1226130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordre du jour",
+      "sujet de la discussion"
+    ],
+    [
+      "élément de discussion",
+      "question à traiter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

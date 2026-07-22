@@ -1,0 +1,22 @@
+{
+  "seq": 1226170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soulever",
+      "prendre avec une cuillère",
+      "vider en plongeant"
+    ],
+    [
+      "prélèvement",
+      "extraction",
+      "soustraction"
+    ],
+    [
+      "bénéficier",
+      "profiter",
+      "tirer parti"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

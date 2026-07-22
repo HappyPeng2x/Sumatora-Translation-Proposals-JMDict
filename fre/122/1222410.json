@@ -1,0 +1,15 @@
+{
+  "seq": 1222410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "generositie"
+    ],
+    [
+      "générosité",
+      "hospitalité",
+      "libéralité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

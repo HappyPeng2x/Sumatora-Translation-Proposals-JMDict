@@ -1,0 +1,16 @@
+{
+  "seq": 1221130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "capacité",
+      "fonction"
+    ],
+    [
+      "fonctionner",
+      "agir",
+      "opérer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

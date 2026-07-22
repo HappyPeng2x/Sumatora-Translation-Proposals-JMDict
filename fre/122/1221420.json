@@ -12,6 +12,14 @@
       "reprise",
       "retour",
       "restauration"
+    ],
+    [
+      "retour",
+      "rentrée"
+    ],
+    [
+      "appartenance",
+      "affiliation"
     ]
   ],
   "model": "qwen3:14b"

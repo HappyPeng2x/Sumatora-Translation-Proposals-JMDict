@@ -1,0 +1,14 @@
+{
+  "seq": 1226300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bon présage"
+    ],
+    [
+      "garde de porte",
+      "veille de porte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

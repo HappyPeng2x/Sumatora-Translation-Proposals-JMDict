@@ -1,0 +1,13 @@
+{
+  "seq": 1225500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sceptique",
+      "méfiant",
+      "incrédule",
+      "soupçonneux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

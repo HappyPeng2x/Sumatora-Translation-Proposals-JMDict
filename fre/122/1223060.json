@@ -1,0 +1,17 @@
+{
+  "seq": 1223060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prescription",
+      "règlement"
+    ],
+    [
+      "normal (unité de normalité)"
+    ],
+    [
+      "exercice obligatoire (dans la gymnastique) ; routine obligatoire ; danse obligatoire (patinage artistique) ; (un) exercice obligatoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

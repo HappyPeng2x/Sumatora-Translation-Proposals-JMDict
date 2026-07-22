@@ -1,0 +1,13 @@
+{
+  "seq": 1225590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doute",
+      "soupçon",
+      "crainte",
+      "appréhension"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

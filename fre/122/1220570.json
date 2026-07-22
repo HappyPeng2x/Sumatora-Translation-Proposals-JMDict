@@ -1,0 +1,17 @@
+{
+  "seq": 1220570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attente",
+      "espérance",
+      "espoir"
+    ],
+    [
+      "prometteur",
+      "montant",
+      "émergent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

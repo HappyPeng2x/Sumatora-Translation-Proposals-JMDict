@@ -1,0 +1,14 @@
+{
+  "seq": 1222640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sensation"
+    ],
+    [
+      "tendance",
+      "propensité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

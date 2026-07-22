@@ -1,0 +1,11 @@
+{
+  "seq": 1225040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écrivain de fiction",
+      "romancier de série B"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

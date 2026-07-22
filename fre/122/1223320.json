@@ -1,0 +1,18 @@
+{
+  "seq": 1223320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "registre",
+      "entrée",
+      "comptabilité",
+      "signature"
+    ],
+    [
+      "signature",
+      "inscrire",
+      "enregistrer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

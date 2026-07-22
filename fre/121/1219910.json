@@ -1,0 +1,20 @@
+{
+  "seq": 1219910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aspiration",
+      "espoir",
+      "souhait"
+    ],
+    [
+      "perspectives brillantes",
+      "attentes"
+    ],
+    [
+      "optatif",
+      "désiratif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1224290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "modèle",
+      "exemple",
+      "modèle parfait",
+      "miroir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1225300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imitation du style classique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

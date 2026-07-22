@@ -1,0 +1,17 @@
+{
+  "seq": 1220040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "beaucoup",
+      "nombreux",
+      "abondant"
+    ],
+    [
+      "divers",
+      "nombreux",
+      "une grande quantité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

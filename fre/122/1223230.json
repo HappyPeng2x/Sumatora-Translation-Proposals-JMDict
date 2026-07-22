@@ -1,0 +1,38 @@
+{
+  "seq": 1223230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enregistrement",
+      "inscription",
+      "mention"
+    ],
+    [
+      "noter",
+      "inscrire",
+      "enregistrer",
+      "écrire",
+      "dactylographier",
+      "transcrire",
+      "consigner",
+      "coucher par écrit"
+    ],
+    [
+      "mention",
+      "déclaration",
+      "renseignement",
+      "révélation"
+    ],
+    [
+      "note",
+      "écriture",
+      "enregistrement",
+      "inscription",
+      "compte",
+      "registre",
+      "dactylographie",
+      "transcription"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

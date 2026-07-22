@@ -1,0 +1,18 @@
+{
+  "seq": 1222700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "train (à vapeur)"
+    ],
+    [
+      "train (longue distance)",
+      "train (à grande vitesse)"
+    ],
+    [
+      "train non électrique",
+      "train diesel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

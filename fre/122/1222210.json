@@ -1,0 +1,18 @@
+{
+  "seq": 1222210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sublime",
+      "noble",
+      "hautement moral"
+    ],
+    [
+      "digne",
+      "élégant",
+      "raffiné",
+      "distingué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

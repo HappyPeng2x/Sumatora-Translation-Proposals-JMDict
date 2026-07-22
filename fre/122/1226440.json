@@ -1,0 +1,14 @@
+{
+  "seq": 1226440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "café (lieu)",
+      "salon de thé"
+    ],
+    [
+      "établissement de type café aux ambiances rétro"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1220640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur d'échecs japonais (shogi)"
+    ],
+    [
+      "joueur de go"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

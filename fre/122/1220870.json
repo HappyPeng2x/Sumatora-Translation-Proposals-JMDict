@@ -1,0 +1,30 @@
+{
+  "seq": 1220870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "machine",
+      "machinerie",
+      "moteur",
+      "organe"
+    ],
+    [
+      "organisation",
+      "institution",
+      "organisme",
+      "corps",
+      "bureau"
+    ],
+    [
+      "système",
+      "installation",
+      "infrastructures"
+    ],
+    [
+      "mécanisme",
+      "machinerie",
+      "dispositif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

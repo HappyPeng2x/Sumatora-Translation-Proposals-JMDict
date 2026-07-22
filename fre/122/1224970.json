@@ -1,0 +1,18 @@
+{
+  "seq": 1224970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jouer",
+      "plaisanter",
+      "s'amuser"
+    ],
+    [
+      "flirter"
+    ],
+    [
+      "avoir de l'élégance ; avoir de la sophistication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

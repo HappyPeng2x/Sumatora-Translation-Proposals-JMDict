@@ -1,0 +1,14 @@
+{
+  "seq": 1224070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faim",
+      "famine"
+    ],
+    [
+      "famine (néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

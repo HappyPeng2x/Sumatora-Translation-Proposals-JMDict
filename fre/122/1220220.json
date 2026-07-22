@@ -1,0 +1,19 @@
+{
+  "seq": 1220220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sur le papier",
+      "théorique"
+    ],
+    [
+      "théorique",
+      "académique",
+      "d'armoire",
+      "de bureau",
+      "sur papier",
+      "non encore mis en œuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

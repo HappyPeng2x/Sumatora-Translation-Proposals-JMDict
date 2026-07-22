@@ -1,0 +1,13 @@
+{
+  "seq": 1225230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compétence technique"
+    ],
+    [
+      "mesure de compétence; technique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

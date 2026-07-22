@@ -1,0 +1,16 @@
+{
+  "seq": 1224340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imitation"
+    ],
+    [
+      "pseudo-"
+    ],
+    [
+      "apparemment; prétendument; faussement; de manière trompeuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

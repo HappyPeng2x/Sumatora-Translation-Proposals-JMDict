@@ -1,0 +1,17 @@
+{
+  "seq": 1223550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aristocrate",
+      "noble"
+    ],
+    [
+      "noblesse"
+    ],
+    [
+      "personne possédant des droits spéciaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1221570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'entendre",
+      "être d'accord",
+      "avoir des idées communes"
+    ],
+    [
+      "être de la même longueur d'onde",
+      "avoir les mêmes pensées",
+      "être bien synchronisés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

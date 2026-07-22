@@ -1,0 +1,25 @@
+{
+  "seq": 1224890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bien",
+      "convenablement",
+      "mes amitiés",
+      "proprement"
+    ],
+    [
+      "de manière aimable ; avec bienveillance ; veuillez avoir l'amabilité de ... ; veuillez prendre soin de ... ; veuillez faire attention à ..."
+    ],
+    [
+      "comme ... ; comme si l'on était ..."
+    ],
+    [
+      "bien sûr ; n'hésitez pas ; allez-y"
+    ],
+    [
+      "(néerlandais) laissons-nous bien traiter mutuellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

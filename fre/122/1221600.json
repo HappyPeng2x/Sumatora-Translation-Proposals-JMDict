@@ -1,0 +1,17 @@
+{
+  "seq": 1221600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "timide",
+      "faible",
+      "lâche"
+    ],
+    [
+      "lâche",
+      "bêta",
+      "faible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

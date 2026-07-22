@@ -1,0 +1,15 @@
+{
+  "seq": 1221050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agilité mentale",
+      "tact"
+    ],
+    [
+      "mécanisme",
+      "discrétion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

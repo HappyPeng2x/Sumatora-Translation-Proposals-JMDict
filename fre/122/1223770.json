@@ -1,0 +1,12 @@
+{
+  "seq": 1223770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rédaction",
+      "commencer à rédiger",
+      "mettre par écrit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

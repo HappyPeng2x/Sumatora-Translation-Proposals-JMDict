@@ -1,0 +1,26 @@
+{
+  "seq": 1223280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "description"
+    ],
+    [
+      "description",
+      "déclaration",
+      "exposition",
+      "caractérisation"
+    ],
+    [
+      "noter",
+      "enregistrer",
+      "transcrire"
+    ],
+    [
+      "décrire",
+      "faire un compte-rendu",
+      "rapporter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

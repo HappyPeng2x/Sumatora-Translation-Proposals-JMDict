@@ -1,0 +1,19 @@
+{
+  "seq": 1223970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu (géométrique)"
+    ],
+    [
+      "voie ferrée"
+    ],
+    [
+      "lieu géométrique"
+    ],
+    [
+      "ensemble de points"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

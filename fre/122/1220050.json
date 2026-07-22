@@ -1,0 +1,24 @@
+{
+  "seq": 1220050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien de jours?",
+      "le combien?",
+      "quel jour (du mois)?"
+    ],
+    [
+      "quel jour du mois"
+    ],
+    [
+      "plusieurs jours"
+    ],
+    [
+      "plusieurs jours"
+    ],
+    [
+      "lequel jour du mois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

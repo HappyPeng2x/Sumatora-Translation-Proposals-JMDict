@@ -1,0 +1,27 @@
+{
+  "seq": 1226960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contraire",
+      "inverse",
+      "opposé"
+    ],
+    [
+      "inverse (d'une hypothèse, etc.)"
+    ],
+    [
+      "inverse (fonction)"
+    ],
+    [
+      "conversion"
+    ],
+    [
+      "inversion; tournure"
+    ],
+    [
+      "action contraire à la direction normale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

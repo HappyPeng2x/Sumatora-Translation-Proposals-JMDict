@@ -1,0 +1,14 @@
+{
+  "seq": 1222870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mousson",
+      "vents saisonniers"
+    ],
+    [
+      "monsoon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1225900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devoir",
+      "obligation",
+      "responsabilité"
+    ],
+    [
+      "obligation",
+      "devoir"
+    ],
+    [
+      "engagement",
+      "contrat",
+      "engagement juridique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1220360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne mariée",
+      "personne épousée",
+      "marié(e)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

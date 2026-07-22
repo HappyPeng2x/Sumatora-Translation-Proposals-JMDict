@@ -1,0 +1,15 @@
+{
+  "seq": 1220950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blindage",
+      "armure",
+      "pantouflage"
+    ],
+    [
+      "mécanisé et blindé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,32 @@
+{
+  "seq": 1223140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écrire",
+      "coucher sur le papier",
+      "noter"
+    ],
+    [
+      "mentionner",
+      "décrire",
+      "donner un compte rendu de"
+    ],
+    [
+      "inscrire",
+      "marquer",
+      "biffer"
+    ],
+    [
+      "se rappeler",
+      "mémoriser",
+      "graver dans la mémoire"
+    ],
+    [
+      "montrer des signes",
+      "présenter des symptômes",
+      "indiquer un signe avant-coureur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

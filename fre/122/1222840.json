@@ -1,0 +1,16 @@
+{
+  "seq": 1222840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saison"
+    ],
+    [
+      "période",
+      "époque",
+      "moment",
+      "temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

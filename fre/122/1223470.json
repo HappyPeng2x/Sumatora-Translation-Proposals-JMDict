@@ -6,6 +6,10 @@
       "votre volonté",
       "vos souhaits",
       "votre demande"
+    ],
+    [
+      "votre avis",
+      "votre opinion (souvent utilisé dans les lettres)"
     ]
   ],
   "model": "qwen3:14b"

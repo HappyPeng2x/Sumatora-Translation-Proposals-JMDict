@@ -5,6 +5,10 @@
     [
       "dessin humoristique",
       "image esquissée avec humour"
+    ],
+    [
+      "esquisse",
+      "croquis"
     ]
   ],
   "model": "qwen3:14b"

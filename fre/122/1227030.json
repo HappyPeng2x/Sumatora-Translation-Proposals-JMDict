@@ -16,6 +16,16 @@
       "mouvement en sens inverse",
       "mouvement contraire à l'orbite normale",
       "mouvement rétrograde (astronomie)"
+    ],
+    [
+      "marche arrière",
+      "mouvement en arrière",
+      "démarche en arrière"
+    ],
+    [
+      "retrogradation",
+      "déclin",
+      "recul"
     ]
   ],
   "model": "qwen3:14b"

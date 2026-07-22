@@ -1,0 +1,17 @@
+{
+  "seq": 1220940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mécanisme",
+      "organisation"
+    ],
+    [
+      "système",
+      "structure",
+      "organisation",
+      "cadre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

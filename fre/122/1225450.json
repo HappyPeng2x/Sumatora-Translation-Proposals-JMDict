@@ -1,0 +1,24 @@
+{
+  "seq": 1225450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sacrifice"
+    ],
+    [
+      "victime",
+      "mort",
+      "blessé"
+    ],
+    [
+      "offrande",
+      "don",
+      "sacrifice religieux"
+    ],
+    [
+      "offrande",
+      "animal sacrifié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1221990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courage",
+      "désinvolture",
+      "audace",
+      "détachement",
+      "assurance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

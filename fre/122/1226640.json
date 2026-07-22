@@ -1,0 +1,13 @@
+{
+  "seq": 1226640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hospitalité"
+    ],
+    [
+      "traitement en tant qu'invité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1224320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fissure",
+      "crevasse",
+      "fente",
+      "déchirure"
+    ],
+    [
+      "haut-riss"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

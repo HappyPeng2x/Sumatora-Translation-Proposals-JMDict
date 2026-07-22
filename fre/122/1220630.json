@@ -1,0 +1,12 @@
+{
+  "seq": 1220630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen final",
+      "examen de fin de trimestre",
+      "examen de fin de période"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

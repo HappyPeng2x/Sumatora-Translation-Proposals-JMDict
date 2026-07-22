@@ -1,0 +1,24 @@
+{
+  "seq": 1222690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "énergie",
+      "vitalité",
+      "volonté"
+    ],
+    [
+      "énergie",
+      "vitalité",
+      "dynamisme",
+      "détermination"
+    ],
+    [
+      "courage",
+      "audace",
+      "résolution",
+      "force de caractère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

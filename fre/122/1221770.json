@@ -1,0 +1,20 @@
+{
+  "seq": 1221770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "\"c'est triste\"",
+      "\"quelle pitié !\"",
+      "pitoyable"
+    ],
+    [
+      "impardonnable",
+      "regrettable"
+    ],
+    [
+      "douleur au cœur",
+      "désarroi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

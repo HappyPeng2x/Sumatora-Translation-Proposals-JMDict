@@ -1,0 +1,12 @@
+{
+  "seq": 1222220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courage",
+      "dignité",
+      "détermination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

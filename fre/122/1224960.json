@@ -1,0 +1,26 @@
+{
+  "seq": 1224960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "divertissement",
+      "farce",
+      "jeux",
+      "plaisanterie"
+    ],
+    [
+      "divertissement",
+      "jeu",
+      "badinage"
+    ],
+    [
+      "badinage",
+      "fantaisie"
+    ],
+    [
+      "aventure",
+      "jeu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

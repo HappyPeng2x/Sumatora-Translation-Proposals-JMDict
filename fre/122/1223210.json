@@ -1,0 +1,26 @@
+{
+  "seq": 1223210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "code",
+      "symbole"
+    ],
+    [
+      "signe musical",
+      "notation",
+      "clé de sol; clé de fa"
+    ],
+    [
+      "marque distincte",
+      "emblème",
+      "symbole caractéristique"
+    ],
+    [
+      "signe",
+      "symbole",
+      "marque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

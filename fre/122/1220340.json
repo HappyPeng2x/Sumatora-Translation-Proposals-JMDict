@@ -1,0 +1,14 @@
+{
+  "seq": 1220340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anamnèse",
+      "historique médical (d'un patient)"
+    ],
+    [
+      "antécédent médical"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

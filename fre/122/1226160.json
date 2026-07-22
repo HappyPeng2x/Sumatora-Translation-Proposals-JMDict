@@ -1,0 +1,17 @@
+{
+  "seq": 1226160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débat",
+      "dispute"
+    ],
+    [
+      "discussion",
+      "débat",
+      "controverse",
+      "échange d'opinions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

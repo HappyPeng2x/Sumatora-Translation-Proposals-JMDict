@@ -10,6 +10,16 @@
       "destination lointaine",
       "terre étrangère",
       "pays lointain"
+    ],
+    [
+      "étranger",
+      "étranger"
+    ],
+    [
+      "mélange de terre d'une autre région avec la terre locale (pour améliorer la qualité du sol)"
+    ],
+    [
+      "terre provenant d'une autre région (qui est mélangée avec la terre locale pour améliorer la qualité du sol)"
     ]
   ],
   "model": "qwen3:14b"

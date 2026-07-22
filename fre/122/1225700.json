@@ -1,0 +1,12 @@
+{
+  "seq": 1225700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inquiétude",
+      "appréhension",
+      "crainte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

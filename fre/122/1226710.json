@@ -1,0 +1,14 @@
+{
+  "seq": 1226710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chambre d'amis",
+      "salle de réception"
+    ],
+    [
+      "chambre d'hôte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

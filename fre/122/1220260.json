@@ -5,6 +5,10 @@
     [
       "porteur de drapeau",
       "porteur de bannière"
+    ],
+    [
+      "porte-drapeau",
+      "avant-garde d'un mouvement"
     ]
   ],
   "model": "qwen3:14b"

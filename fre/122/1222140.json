@@ -1,0 +1,18 @@
+{
+  "seq": 1222140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crainte",
+      "sollicitude",
+      "souci"
+    ],
+    [
+      "inquiétude",
+      "angoisse",
+      "trac",
+      "crainte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

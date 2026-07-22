@@ -1,0 +1,15 @@
+{
+  "seq": 1221330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour au pays"
+    ],
+    [
+      "retour dans la patrie",
+      "retour dans l'ancien pays",
+      "retour dans sa ville natale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

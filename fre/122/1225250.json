@@ -1,0 +1,14 @@
+{
+  "seq": 1225250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compétence",
+      "capacité",
+      "talent",
+      "habileté",
+      "savoir-faire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

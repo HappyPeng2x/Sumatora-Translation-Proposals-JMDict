@@ -1,0 +1,12 @@
+{
+  "seq": 1225610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doute",
+      "point douteux",
+      "incertitude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

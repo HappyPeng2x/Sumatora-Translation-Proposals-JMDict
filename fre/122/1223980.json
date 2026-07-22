@@ -1,0 +1,33 @@
+{
+  "seq": 1223980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "orbite"
+    ],
+    [
+      "rails",
+      "voie"
+    ],
+    [
+      "chemin",
+      "cours droit",
+      "bonne direction"
+    ],
+    [
+      "orbite",
+      "trajectoire orbitale",
+      "chemin suivi par un corps céleste"
+    ],
+    [
+      "trajectoire fixe",
+      "trajectoire de vol"
+    ],
+    [
+      "déroulement prévu",
+      "déroulement normal",
+      "cours habituel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

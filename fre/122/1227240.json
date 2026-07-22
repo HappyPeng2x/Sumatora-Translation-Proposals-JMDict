@@ -1,0 +1,17 @@
+{
+  "seq": 1227240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abus",
+      "exploitation",
+      "utilisation à l'encontre de son intention initiale"
+    ],
+    [
+      "abus",
+      "utilisation contraire à l'intention d'usage",
+      "malversation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1222330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intérêt",
+      "enthousiasme"
+    ],
+    [
+      "ne pas avoir de goût pour",
+      "ne pas être disposé à",
+      "ne pas être enclin à",
+      "ne pas avoir envie de",
+      "ne pas être chaud pour",
+      "ne pas être dans le mood pour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
