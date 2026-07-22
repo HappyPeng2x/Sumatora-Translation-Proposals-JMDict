@@ -1,0 +1,16 @@
+{
+  "seq": 1193900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bouilloire (de pipe)"
+    ],
+    [
+      "grille de foyer; cendrier"
+    ],
+    [
+      "cuve à mèche (d'une arme à feu); cuve de mise à feu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

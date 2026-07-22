@@ -1,0 +1,17 @@
+{
+  "seq": 1199700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échapper",
+      "éviter"
+    ],
+    [
+      "recul",
+      "abstention",
+      "démission",
+      "retrait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

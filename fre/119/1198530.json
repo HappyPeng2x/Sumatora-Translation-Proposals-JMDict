@@ -1,0 +1,17 @@
+{
+  "seq": 1198530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réunion",
+      "rassemblement"
+    ],
+    [
+      "réunion professionnelle"
+    ],
+    [
+      "conjonction astronomique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -17,6 +17,18 @@
       "émacié",
       "osseux",
       "squelettique"
+    ],
+    [
+      "maigre comme un chat",
+      "osseux",
+      "d'un maigre comme un clou",
+      "d'un maigre comme un roseau"
+    ],
+    [
+      "égoïste",
+      "égoïste",
+      "pris de soi",
+      "pris de soi"
     ]
   ],
   "model": "qwen3:14b"

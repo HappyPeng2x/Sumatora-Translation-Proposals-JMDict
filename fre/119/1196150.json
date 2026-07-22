@@ -1,0 +1,12 @@
+{
+  "seq": 1196150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous-estimation",
+      "mésestimation",
+      "surestimation inverse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

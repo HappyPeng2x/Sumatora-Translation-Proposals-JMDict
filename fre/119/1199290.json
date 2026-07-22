@@ -1,0 +1,20 @@
+{
+  "seq": 1199290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclaircissement",
+      "explication",
+      "élucidation",
+      "déploiement",
+      "compréhension"
+    ],
+    [
+      "solution (d'un mystère)",
+      "explication",
+      "explication",
+      "révélation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

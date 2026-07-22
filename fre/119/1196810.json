@@ -1,0 +1,14 @@
+{
+  "seq": 1196810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaire personnelle",
+      "affaire propre"
+    ],
+    [
+      "propre plan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

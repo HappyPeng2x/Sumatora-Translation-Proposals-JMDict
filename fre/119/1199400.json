@@ -1,0 +1,15 @@
+{
+  "seq": 1199400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récurrence",
+      "récursion",
+      "révolution"
+    ],
+    [
+      "régression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

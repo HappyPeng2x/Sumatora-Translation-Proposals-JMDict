@@ -1,0 +1,11 @@
+{
+  "seq": 1199990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "philosophie du plaisir",
+      "doctrine selon laquelle le plaisir est la seule fin de l'existence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

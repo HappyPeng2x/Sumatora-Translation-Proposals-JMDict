@@ -1,0 +1,15 @@
+{
+  "seq": 1194560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fleuriste"
+    ],
+    [
+      "fleuriste",
+      "vendeur de fleurs",
+      "magasin de fleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

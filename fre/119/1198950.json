@@ -1,0 +1,18 @@
+{
+  "seq": 1198950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture"
+    ],
+    [
+      "publication",
+      "divulgation"
+    ],
+    [
+      "levée d'une interdiction",
+      "libération (d'informations)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

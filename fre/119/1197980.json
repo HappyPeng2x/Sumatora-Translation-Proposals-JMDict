@@ -1,0 +1,18 @@
+{
+  "seq": 1197980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "petit démon (enfant)",
+      "sacripant",
+      "sale gamin"
+    ],
+    [
+      "prétas; esprit affamé"
+    ],
+    [
+      "monde des esprits affamés (abréviation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

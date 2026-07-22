@@ -1,0 +1,17 @@
+{
+  "seq": 1195460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fardeau",
+      "charge",
+      "handicap"
+    ],
+    [
+      "ennuyeux",
+      "pénible",
+      "importun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

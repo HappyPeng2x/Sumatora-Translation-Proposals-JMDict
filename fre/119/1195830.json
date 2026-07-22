@@ -1,0 +1,12 @@
+{
+  "seq": 1195830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taxe",
+      "redevance",
+      "cotisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

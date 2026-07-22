@@ -1,0 +1,16 @@
+{
+  "seq": 1197450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "album de dessins"
+    ],
+    [
+      "livre de coloriage"
+    ],
+    [
+      "livre d'exemples picturaux; livre de modèles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

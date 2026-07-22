@@ -1,0 +1,23 @@
+{
+  "seq": 1200750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changer",
+      "modifier"
+    ],
+    [
+      "réformer; corriger; réparer; améliorer"
+    ],
+    [
+      "examiner; vérifier; inspecter"
+    ],
+    [
+      "faire correctement; faire de manière formelle"
+    ],
+    [
+      "remplacer quelqu'un; mettre quelqu'un d'autre à la place de quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

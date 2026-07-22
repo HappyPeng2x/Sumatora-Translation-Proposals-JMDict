@@ -1,0 +1,19 @@
+{
+  "seq": 1199800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circulation"
+    ],
+    [
+      "faire circuler (des documents) pour lecture"
+    ],
+    [
+      "faire circuler (des documents)"
+    ],
+    [
+      "faire circuler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1202150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tous",
+      "tout",
+      "tout le monde"
+    ],
+    [
+      "tous",
+      "tout",
+      "toute chose",
+      "tout ce qui existe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

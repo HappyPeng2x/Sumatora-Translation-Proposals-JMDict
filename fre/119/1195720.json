@@ -1,0 +1,14 @@
+{
+  "seq": 1195720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "imposer",
+      "lever",
+      "assigner",
+      "donner",
+      "fixer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

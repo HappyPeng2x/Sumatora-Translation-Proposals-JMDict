@@ -1,0 +1,24 @@
+{
+  "seq": 1201970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blême",
+      "gris",
+      "gris cendré"
+    ],
+    [
+      "pâleur; tristesse; mélancolie"
+    ],
+    [
+      "sécheresse; prosaïsme; soupçon; doute; ambiguïté"
+    ],
+    [
+      "incertitude; ambiguïté"
+    ],
+    [
+      "soupçon; gris"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

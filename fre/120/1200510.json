@@ -1,0 +1,20 @@
+{
+  "seq": 1200510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avoir de l'affection pour",
+      "s'attacher à"
+    ],
+    [
+      "devenir docile"
+    ],
+    [
+      "gagner le cœur de quelqu'un"
+    ],
+    [
+      "apaiser; calmer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "poisson et crustacés"
+    ],
+    [
+      "mollusques et poissons"
     ]
   ],
   "model": "qwen3:14b"

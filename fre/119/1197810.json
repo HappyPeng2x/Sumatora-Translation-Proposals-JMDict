@@ -1,0 +1,14 @@
+{
+  "seq": 1197810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carte de nouvelle an"
+    ],
+    [
+      "carte de vœux",
+      "carte de nouvel an"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

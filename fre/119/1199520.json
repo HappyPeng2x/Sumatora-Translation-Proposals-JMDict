@@ -1,0 +1,14 @@
+{
+  "seq": 1199520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carnet (de tickets)"
+    ],
+    [
+      "petit livret de billets",
+      "carnet de coupons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

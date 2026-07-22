@@ -1,0 +1,15 @@
+{
+  "seq": 1196240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négligence",
+      "imprudence",
+      "erreur"
+    ],
+    [
+      "réparation pour une erreur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

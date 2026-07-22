@@ -1,0 +1,14 @@
+{
+  "seq": 1199480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circulaire",
+      "lettre circulaire"
+    ],
+    [
+      "encyclique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

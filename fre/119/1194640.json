@@ -10,6 +10,14 @@
     [
       "vedette",
       "étoile (dans un spectacle, un jeu, etc.)"
+    ],
+    [
+      "forme de couronne de fleurs",
+      "forme de couronne florale"
+    ],
+    [
+      "forme de composition florale",
+      "disposition florale"
     ]
   ],
   "model": "qwen3:14b"

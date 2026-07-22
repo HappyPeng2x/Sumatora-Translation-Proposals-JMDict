@@ -1,0 +1,15 @@
+{
+  "seq": 1195470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "atterrissage",
+      "déchargement"
+    ],
+    [
+      "ouvrier de déchargement",
+      "ouvrier chargé de décharger des marchandises"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

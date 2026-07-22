@@ -1,0 +1,16 @@
+{
+  "seq": 1195140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "battre",
+      "embêter",
+      "persécuter",
+      "tourmenter"
+    ],
+    [
+      "être dur envers (quelqu'un) ; traiter avec dureté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

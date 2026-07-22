@@ -11,6 +11,11 @@
       "pénible (exercice, travail, etc.)",
       "excessif",
       "physiquement exigeant"
+    ],
+    [
+      "excessivité",
+      "excès",
+      "extravagance"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,18 @@
+{
+  "seq": 1197210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manœuvre",
+      "complot",
+      "manipulation",
+      "stratagème"
+    ],
+    [
+      "liste",
+      "plan",
+      "intrigue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

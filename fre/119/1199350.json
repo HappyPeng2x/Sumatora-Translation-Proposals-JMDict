@@ -1,0 +1,69 @@
+{
+  "seq": 1199350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tourner"
+    ],
+    [
+      "faire circuler",
+      "passer autour",
+      "envoyer autour",
+      "distribuer"
+    ],
+    [
+      "déplacer",
+      "envoyer",
+      "apporter",
+      "transférer",
+      "diriger",
+      "soumettre"
+    ],
+    [
+      "mettre à une autre utilisation",
+      "utiliser pour autre chose"
+    ],
+    [
+      "mettre en marche",
+      "démarrer",
+      "faire tourner",
+      "donner un tour"
+    ],
+    [
+      "mettre (quelqu'un) dans une position",
+      "faire (quelqu'un) devenir (un ennemi)"
+    ],
+    [
+      "faire tourner autour de",
+      "faire partout",
+      "faire complètement"
+    ],
+    [
+      "entourer",
+      "encercler",
+      "encercler avec"
+    ],
+    [
+      "mettre le bras autour de",
+      "atteindre autour de"
+    ],
+    [
+      "investir",
+      "prêter de l'argent"
+    ],
+    [
+      "composer",
+      "appeler un numéro de téléphone"
+    ],
+    [
+      "agresser sexuellement en groupe",
+      "violer en groupe"
+    ],
+    [
+      "exploiter",
+      "gérer",
+      "faire fonctionner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

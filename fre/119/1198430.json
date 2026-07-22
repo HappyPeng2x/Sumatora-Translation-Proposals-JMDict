@@ -1,0 +1,24 @@
+{
+  "seq": 1198430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "addition",
+      "comptabilité",
+      "compte"
+    ],
+    [
+      "addition"
+    ],
+    [
+      "comptable"
+    ],
+    [
+      "règlement"
+    ],
+    [
+      "situation économique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

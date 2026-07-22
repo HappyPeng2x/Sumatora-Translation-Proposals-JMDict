@@ -5,6 +5,9 @@
     [
       "boule de feu",
       "étoile filante"
+    ],
+    [
+      "cendre de tabac d'une pipe"
     ]
   ],
   "model": "qwen3:14b"

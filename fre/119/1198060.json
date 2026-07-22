@@ -1,0 +1,13 @@
+{
+  "seq": 1198060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soins",
+      "assistance",
+      "santé",
+      "nursing"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

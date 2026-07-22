@@ -1,0 +1,12 @@
+{
+  "seq": 1200190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "douteux",
+      "soupect",
+      "étrange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

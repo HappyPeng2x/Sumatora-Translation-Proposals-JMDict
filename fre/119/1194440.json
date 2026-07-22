@@ -1,0 +1,15 @@
+{
+  "seq": 1194440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soutien de famille",
+      "travailleur acharné"
+    ],
+    [
+      "ouvrier compétent",
+      "travailleur diligent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

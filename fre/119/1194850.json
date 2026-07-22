@@ -6,6 +6,15 @@
       "champ de fleurs",
       "jardin de fleurs",
       "banc de fleurs"
+    ],
+    [
+      "champ de fleurs; prairie fleurie; terrain de fleurs"
+    ],
+    [
+      "château en l'air; château de verre"
+    ],
+    [
+      "rêveur; rêveuse"
     ]
   ],
   "model": "qwen3:14b"

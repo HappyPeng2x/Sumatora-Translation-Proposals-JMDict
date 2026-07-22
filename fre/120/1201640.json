@@ -1,0 +1,16 @@
+{
+  "seq": 1201640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sous-marin",
+      "sous l'eau"
+    ],
+    [
+      "sous-marin",
+      "sous-marine",
+      "sous-aquatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

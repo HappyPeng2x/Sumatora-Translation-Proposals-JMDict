@@ -6,6 +6,13 @@
       "malin, rusé, expérimenté",
       "qui connaît bien les affaires du monde",
       "sournois, comme un renard"
+    ],
+    [
+      "vétéran",
+      "ancien",
+      "expérimenté",
+      "habitué",
+      "expert"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,15 @@
+{
+  "seq": 1202330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "illustration",
+      "dessin"
+    ],
+    [
+      "carte",
+      "schéma"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

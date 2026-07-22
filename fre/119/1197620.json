@@ -1,0 +1,15 @@
+{
+  "seq": 1197620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un objet inutile",
+      "une image de mochi"
+    ],
+    [
+      "quelque chose inutile",
+      "une chose inutile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

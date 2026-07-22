@@ -1,0 +1,21 @@
+{
+  "seq": 1199130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "synopsis",
+      "résumé",
+      "annotation"
+    ],
+    [
+      "synopsis",
+      "aperçu du contenu"
+    ],
+    [
+      "préface",
+      "prologue",
+      "postface"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

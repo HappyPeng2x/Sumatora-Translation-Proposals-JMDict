@@ -1,0 +1,12 @@
+{
+  "seq": 1196550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voix étouffée",
+      "voix faible",
+      "voix murmurée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

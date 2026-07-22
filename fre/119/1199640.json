@@ -1,0 +1,28 @@
+{
+  "seq": 1199640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rotation",
+      "tour"
+    ],
+    [
+      "fonctionnement",
+      "marche",
+      "activité"
+    ],
+    [
+      "renouvellement",
+      "circulation",
+      "démarche"
+    ],
+    [
+      "rotation",
+      "courbure"
+    ],
+    [
+      "slalom"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

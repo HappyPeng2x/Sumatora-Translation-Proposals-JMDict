@@ -1,0 +1,11 @@
+{
+  "seq": 1200410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se repentir",
+      "avoir des remords et chercher à se faire pardonner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

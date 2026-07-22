@@ -1,0 +1,13 @@
+{
+  "seq": 1201820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courant marin"
+    ],
+    [
+      "mesure des courants marins; courants marins"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

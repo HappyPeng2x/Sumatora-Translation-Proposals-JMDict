@@ -1,0 +1,13 @@
+{
+  "seq": 1194800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les fleurs et les oiseaux"
+    ],
+    [
+      "l'émotion ressentie en admirant les fleurs et en écoutant le chant des oiseaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

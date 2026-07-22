@@ -1,0 +1,40 @@
+{
+  "seq": 1199470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collection",
+      "levée",
+      "relevée"
+    ],
+    [
+      "rappeler",
+      "rétracter",
+      "révoquer"
+    ],
+    [
+      "récupérer",
+      "recueillir",
+      "ramasser",
+      "sauver",
+      "récupération"
+    ],
+    [
+      "rappel",
+      "rétractation",
+      "révocation",
+      "récupération"
+    ],
+    [
+      "rappel",
+      "rétractation",
+      "révocation"
+    ],
+    [
+      "sauvetage",
+      "remontée",
+      "récupération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

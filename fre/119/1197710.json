@@ -1,0 +1,19 @@
+{
+  "seq": 1197710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bourgeon",
+      "bouton (de fleur)",
+      "germe",
+      "bourgeon",
+      "bouton (de fleur)",
+      "germe",
+      "pousse"
+    ],
+    [
+      "disque germinatif (d'un œuf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

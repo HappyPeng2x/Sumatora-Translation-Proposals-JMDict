@@ -1,0 +1,14 @@
+{
+  "seq": 1195850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "curriculum",
+      "cursus"
+    ],
+    [
+      "mesure pour les cours d'apprentissage; curricula"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

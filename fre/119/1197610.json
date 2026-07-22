@@ -1,0 +1,22 @@
+{
+  "seq": 1197610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écran de terminal",
+      "image",
+      "photo",
+      "scène (théâtre)"
+    ],
+    [
+      "image (sur un écran)",
+      "vue",
+      "scène"
+    ],
+    [
+      "surface d'une peinture",
+      "surface d'un dessin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

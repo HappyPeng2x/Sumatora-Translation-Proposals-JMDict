@@ -1,0 +1,19 @@
+{
+  "seq": 1199970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agréable",
+      "plaisant"
+    ],
+    [
+      "bon",
+      "sain",
+      "rétabli",
+      "confortable",
+      "agréable",
+      "chaleureux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

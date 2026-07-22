@@ -1,0 +1,12 @@
+{
+  "seq": 1201010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement de titre",
+      "re-titration",
+      "titre modifié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

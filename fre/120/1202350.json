@@ -1,0 +1,16 @@
+{
+  "seq": 1202350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "artiste",
+      "peintre"
+    ],
+    [
+      "dessin",
+      "graffiti",
+      "peinture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

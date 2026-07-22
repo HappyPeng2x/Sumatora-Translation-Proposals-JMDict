@@ -1,0 +1,11 @@
+{
+  "seq": 1200050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plaisir",
+      "délice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

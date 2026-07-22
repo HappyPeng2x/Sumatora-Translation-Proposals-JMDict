@@ -1,0 +1,12 @@
+{
+  "seq": 1193810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "urgence",
+      "exigence",
+      "situation d'urgence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,49 @@
+{
+  "seq": 1201570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "holothurien",
+      "échinoderme marin de la classe des holothurides"
+    ],
+    [
+      "anguille lisse",
+      "chose qui ne se laisse pas attraper"
+    ],
+    [
+      "goteling"
+    ],
+    [
+      "technique de peinture namako",
+      "technique où certaines parties du tissu restent non colorées"
+    ],
+    [
+      "mouwverstrikker",
+      "lance munie de crochets à l'extrémité"
+    ],
+    [
+      "mochi en forme de concombre de mer"
+    ],
+    [
+      "plaque ondulée",
+      "plaque à rainures",
+      "plaque nervurée"
+    ],
+    [
+      "mur namako",
+      "revêtement extérieur de mur avec des joints bombés qui rappellent les concombres de mer"
+    ],
+    [
+      "carrelage namako",
+      "carrelage en forme de demi-cylindre"
+    ],
+    [
+      "anneau de pénis à dents"
+    ],
+    [
+      "concombre",
+      "melone"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

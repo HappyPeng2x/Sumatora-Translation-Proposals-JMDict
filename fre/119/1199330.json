@@ -1,0 +1,31 @@
+{
+  "seq": 1199330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "-fois"
+    ],
+    [
+      "une fois",
+      "un moment",
+      "un instant"
+    ],
+    [
+      "une manche (au baseball)",
+      "un tour",
+      "un match"
+    ],
+    [
+      "épisode",
+      "chapitre",
+      "numéro"
+    ],
+    [
+      "Hui (peuple)"
+    ],
+    [
+      "l'islam"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

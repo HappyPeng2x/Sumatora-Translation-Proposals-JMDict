@@ -1,0 +1,15 @@
+{
+  "seq": 1196570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soudainement"
+    ],
+    [
+      "pas facilement",
+      "pas tout de suite",
+      "pas immédiatement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

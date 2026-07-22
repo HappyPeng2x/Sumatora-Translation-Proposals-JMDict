@@ -1,0 +1,14 @@
+{
+  "seq": 1198620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assemblée",
+      "congrégation"
+    ],
+    [
+      "congrégation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

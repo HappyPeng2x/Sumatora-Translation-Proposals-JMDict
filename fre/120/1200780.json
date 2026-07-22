@@ -1,0 +1,19 @@
+{
+  "seq": 1200780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amélioration",
+      "réforme"
+    ],
+    [
+      "rénovation",
+      "renouveau"
+    ],
+    [
+      "réorganisation",
+      "révision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

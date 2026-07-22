@@ -1,0 +1,31 @@
+{
+  "seq": 1199030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abandon",
+      "résiliation"
+    ],
+    [
+      "lever",
+      "supprimer",
+      "annuler",
+      "désengager",
+      "déléguer"
+    ],
+    [
+      "annuler",
+      "révoquer",
+      "retirer",
+      "déclarer nul",
+      "mettre fin à"
+    ],
+    [
+      "désigner",
+      "déléguer",
+      "détacher",
+      "révoquer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1196020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "errer"
+    ],
+    [
+      "faire erreur",
+      "se tromper",
+      "faire une erreur"
+    ],
+    [
+      "faire par erreur",
+      "agir par mégarde",
+      "commettre une erreur"
+    ],
+    [
+      "blesser",
+      "causer une blessure",
+      "endommager"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

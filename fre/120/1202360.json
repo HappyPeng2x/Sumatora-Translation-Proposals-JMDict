@@ -12,6 +12,12 @@
     ],
     [
       "art ASCII"
+    ],
+    [
+      "piktogramme illustratif"
+    ],
+    [
+      "art ASCII"
     ]
   ],
   "model": "qwen3:14b"

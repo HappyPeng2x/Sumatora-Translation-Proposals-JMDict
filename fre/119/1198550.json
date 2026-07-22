@@ -1,0 +1,15 @@
+{
+  "seq": 1198550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compagnie",
+      "entreprise",
+      "société"
+    ],
+    [
+      "lieu de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

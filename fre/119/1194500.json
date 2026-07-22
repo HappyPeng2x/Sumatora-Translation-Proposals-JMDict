@@ -1,0 +1,40 @@
+{
+  "seq": 1194500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fleurs",
+      "pétale",
+      "fleurs",
+      "pétale"
+    ],
+    [
+      "pétale de cerisier"
+    ],
+    [
+      "beauté"
+    ],
+    [
+      "fleuraison (surtout des cerisiers)"
+    ],
+    [
+      "ikebana"
+    ],
+    [
+      "hanafuda"
+    ],
+    [
+      "le meilleur"
+    ],
+    [
+      "glorieux; charmant"
+    ],
+    [
+      "jeu avec des cartes japonaises"
+    ],
+    [
+      "cartes à jouer; fleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1200350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rumeur étrange",
+      "scandale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

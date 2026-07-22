@@ -1,0 +1,22 @@
+{
+  "seq": 1195370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plateau de chargement (d'un camion)",
+      "support pour bagages (vélo)",
+      "barre de toit"
+    ],
+    [
+      "bagagedrager (vélo)",
+      "porteur de bagages",
+      "porteur de colis"
+    ],
+    [
+      "imperiaal (voiture)",
+      "barre de toit",
+      "porteur de bagages"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

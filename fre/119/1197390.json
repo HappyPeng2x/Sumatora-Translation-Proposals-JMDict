@@ -1,0 +1,20 @@
+{
+  "seq": 1197390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "image",
+      "portrait",
+      "tableau"
+    ],
+    [
+      "image (d'un écran)",
+      "représentation visuelle"
+    ],
+    [
+      "image numérique",
+      "graphisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

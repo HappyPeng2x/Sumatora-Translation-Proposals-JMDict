@@ -5,6 +5,9 @@
     [
       "lit de feu",
       "grille de feu"
+    ],
+    [
+      "grille de feu"
     ]
   ],
   "model": "qwen3:14b"

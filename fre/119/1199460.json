@@ -1,0 +1,24 @@
+{
+  "seq": 1199460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navigation",
+      "cruise"
+    ],
+    [
+      "navigation",
+      "cruiser"
+    ],
+    [
+      "retour",
+      "retour voyage",
+      "retour vol"
+    ],
+    [
+      "randonnée en bateau",
+      "randonnée aérienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

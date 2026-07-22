@@ -1,0 +1,19 @@
+{
+  "seq": 1202380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre d'images"
+    ],
+    [
+      "livre illustré"
+    ],
+    [
+      "modèle d'image"
+    ],
+    [
+      "livre illustré de l'époque d'Edo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

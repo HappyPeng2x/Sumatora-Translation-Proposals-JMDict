@@ -1,0 +1,15 @@
+{
+  "seq": 1195330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navire de transport",
+      "chaloupe"
+    ],
+    [
+      "(néerlandais) lichter",
+      "bateau de transport intérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

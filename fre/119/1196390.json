@@ -5,6 +5,10 @@
     [
       "il y a quelque temps",
       "récemment"
+    ],
+    [
+      "récemment",
+      "il y a peu de temps"
     ]
   ],
   "model": "qwen3:14b"

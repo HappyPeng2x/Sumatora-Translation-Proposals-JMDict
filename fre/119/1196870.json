@@ -1,0 +1,12 @@
+{
+  "seq": 1196870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avant tout",
+      "se précipiter pour être le premier",
+      "se battre pour être le premier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

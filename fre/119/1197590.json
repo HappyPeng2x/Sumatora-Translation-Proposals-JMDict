@@ -4,6 +4,10 @@
   "glosses": [
     [
       "art de la peinture et du dessin"
+    ],
+    [
+      "technique de dessin",
+      "art du dessin"
     ]
   ],
   "model": "qwen3:14b"

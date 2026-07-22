@@ -1,0 +1,18 @@
+{
+  "seq": 1199120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démantèlement"
+    ],
+    [
+      "dissolution",
+      "démantèlement"
+    ],
+    [
+      "disséction",
+      "démembrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

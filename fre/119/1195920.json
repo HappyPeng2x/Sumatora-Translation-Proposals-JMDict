@@ -1,0 +1,11 @@
+{
+  "seq": 1195920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navire de transport",
+      "navire cargo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

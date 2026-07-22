@@ -1,0 +1,20 @@
+{
+  "seq": 1194450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gagner de l'argent",
+      "travailler"
+    ],
+    [
+      "marquer (des points, une victoire) ; gagner (du temps) ; jouer (pour gagner du temps)"
+    ],
+    [
+      "travailler dur (dans son travail) ; labourer ; travailler ; s'employer"
+    ],
+    [
+      "(allemand) mériter; gagner; acquérir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

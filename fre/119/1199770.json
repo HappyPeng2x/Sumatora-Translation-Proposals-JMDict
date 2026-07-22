@@ -6,6 +6,10 @@
       "circulaire",
       "lettre circulaire",
       "réponse"
+    ],
+    [
+      "circulaire administrative",
+      "avis officiel"
     ]
   ],
   "model": "qwen3:14b"

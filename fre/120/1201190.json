@@ -1,0 +1,22 @@
+{
+  "seq": 1201190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mer"
+    ],
+    [
+      "océan"
+    ],
+    [
+      "chose; objet qui ressemble à la mer"
+    ],
+    [
+      "grande quantité de choses identiques"
+    ],
+    [
+      "dépression dans le calcaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1199600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mémoires",
+      "récollections"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

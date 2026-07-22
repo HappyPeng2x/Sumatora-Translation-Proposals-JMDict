@@ -1,0 +1,16 @@
+{
+  "seq": 1193840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "origine d'un feu"
+    ],
+    [
+      "lieu d'où part le feu"
+    ],
+    [
+      "origine (d'un bruit; d'une mode); cause (d'une dispute)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1195320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charge",
+      "poids",
+      "chargement"
+    ],
+    [
+      "poids à porter",
+      "charge",
+      "pression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

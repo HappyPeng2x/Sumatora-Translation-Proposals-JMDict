@@ -1,0 +1,28 @@
+{
+  "seq": 1199900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se briser",
+      "se casser"
+    ],
+    [
+      "se dégrader",
+      "cesser de fonctionner",
+      "tomber en panne"
+    ],
+    [
+      "échouer",
+      "s'effondrer",
+      "se briser",
+      "être ruiné",
+      "être compromis"
+    ],
+    [
+      "se faire annuler",
+      "être anéanti",
+      "être détruit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

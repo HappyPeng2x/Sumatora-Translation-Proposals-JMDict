@@ -1,0 +1,16 @@
+{
+  "seq": 1199560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rotation",
+      "révolution",
+      "enroulement"
+    ],
+    [
+      "courbe",
+      "virage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

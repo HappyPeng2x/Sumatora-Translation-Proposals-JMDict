@@ -1,0 +1,31 @@
+{
+  "seq": 1200480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bourse",
+      "poche de poitrine",
+      "poitrine",
+      "sein"
+    ],
+    [
+      "espace entre la poitrine et les bras tendus ; portée"
+    ],
+    [
+      "cœur (d'une montagne) ; sein (de la nature) ; profondeur ; partie intérieure"
+    ],
+    [
+      "esprit ; cœur ; pensées intérieures"
+    ],
+    [
+      "argent (que l'on transporte) ; porte-monnaie ; petit sac"
+    ],
+    [
+      "(allemand) lieu entourant quelque chose"
+    ],
+    [
+      "(allemand) partie intérieure; profondeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1194980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "futur marié",
+      "jeune marié"
+    ],
+    [
+      "marié récent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

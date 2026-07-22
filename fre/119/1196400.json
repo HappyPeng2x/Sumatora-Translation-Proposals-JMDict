@@ -1,0 +1,15 @@
+{
+  "seq": 1196400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hypersensibilité",
+      "nervosité"
+    ],
+    [
+      "hypersensible",
+      "sensibilité excessive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

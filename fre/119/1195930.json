@@ -1,0 +1,14 @@
+{
+  "seq": 1195930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argent",
+      "change"
+    ],
+    [
+      "monnaie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -9,6 +9,14 @@
     [
       "lieu de travail (époque d'Edo)",
       "bureau"
+    ],
+    [
+      "lieu de rencontre",
+      "salle de réunion"
+    ],
+    [
+      "centre commercial",
+      "bourse"
     ]
   ],
   "model": "qwen3:14b"

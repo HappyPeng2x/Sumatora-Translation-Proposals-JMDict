@@ -1,0 +1,15 @@
+{
+  "seq": 1193700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclats de feu",
+      "étincelles"
+    ],
+    [
+      "un malheur inattendu",
+      "une querelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

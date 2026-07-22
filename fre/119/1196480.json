@@ -1,0 +1,12 @@
+{
+  "seq": 1196480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excès",
+      "dose excessive",
+      "surdose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

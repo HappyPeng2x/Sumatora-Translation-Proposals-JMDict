@@ -5,6 +5,15 @@
     [
       "chauffe-main",
       "chauffe-pochette"
+    ],
+    [
+      "renard de Californie"
+    ],
+    [
+      "Caire"
+    ],
+    [
+      "son imité par le cerf; chauffe-pochette"
     ]
   ],
   "model": "qwen3:14b"

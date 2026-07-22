@@ -1,0 +1,15 @@
+{
+  "seq": 1201730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marin",
+      "sailor"
+    ],
+    [
+      "école de marine",
+      "académie navale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,10 @@
       "prendre racine",
       "commencer à pousser",
       "produire des bourgeons"
+    ],
+    [
+      "développer des spores",
+      "faire germer des spores"
     ]
   ],
   "model": "qwen3:14b"

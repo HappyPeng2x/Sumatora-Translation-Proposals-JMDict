@@ -1,0 +1,22 @@
+{
+  "seq": 1200880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réparation",
+      "amélioration"
+    ],
+    [
+      "réguler",
+      "canaliser (des fleuves)"
+    ],
+    [
+      "réparation",
+      "réparation"
+    ],
+    [
+      "régulation (d'un fleuve)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

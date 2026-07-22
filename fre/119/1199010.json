@@ -1,0 +1,35 @@
+{
+  "seq": 1199010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interprétation"
+    ],
+    [
+      "expliquer",
+      "détailler",
+      "exposer en détail"
+    ],
+    [
+      "commenter",
+      "ajouter des remarques"
+    ],
+    [
+      "interprétation",
+      "exégèse",
+      "compréhension",
+      "lecture"
+    ],
+    [
+      "explication",
+      "explication détaillée",
+      "exposition",
+      "développement"
+    ],
+    [
+      "remarque",
+      "commentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

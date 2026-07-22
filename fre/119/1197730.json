@@ -1,0 +1,32 @@
+{
+  "seq": 1197730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bourgeon",
+      "bouton (de fleur)",
+      "germe"
+    ],
+    [
+      "jeune pousse",
+      "bouture",
+      "jeune tige",
+      "bouton de croissance"
+    ],
+    [
+      "germer",
+      "mettre en germe"
+    ],
+    [
+      "germe",
+      "jeune plantule"
+    ],
+    [
+      "germination",
+      "début",
+      "commencement",
+      "début de quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

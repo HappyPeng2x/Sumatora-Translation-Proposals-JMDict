@@ -1,0 +1,16 @@
+{
+  "seq": 1199830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circuit (électrique)"
+    ],
+    [
+      "cycle biologique"
+    ],
+    [
+      "cycle; boucle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

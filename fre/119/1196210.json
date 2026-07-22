@@ -1,0 +1,13 @@
+{
+  "seq": 1196210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confiance excessive",
+      "sureté excessive",
+      "sureté mal placée",
+      "sureté mal fondée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

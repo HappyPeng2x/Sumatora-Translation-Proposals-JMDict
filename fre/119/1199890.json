@@ -1,0 +1,35 @@
+{
+  "seq": 1199890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "briser",
+      "casser",
+      "détruire"
+    ],
+    [
+      "ruiner",
+      "détériorer",
+      "endommager"
+    ],
+    [
+      "rompre",
+      "casser",
+      "rendre inutilisable"
+    ],
+    [
+      "perturber",
+      "gêner",
+      "entraver",
+      "corrompre",
+      "abîmer",
+      "rendre inutilisable"
+    ],
+    [
+      "dénominaliser",
+      "diviser en unités plus petites",
+      "transformer en monnaie de petit cours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

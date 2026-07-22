@@ -1,0 +1,23 @@
+{
+  "seq": 1200450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire ses condoléances",
+      "regretter",
+      "se repentir"
+    ],
+    [
+      "regretter",
+      "être désolé",
+      "se repentir"
+    ],
+    [
+      "porter le deuil",
+      "exprimer ses condoléances",
+      "témoigner de sa compassion",
+      "pleurer la mort de quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

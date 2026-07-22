@@ -1,0 +1,14 @@
+{
+  "seq": 1200840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contrôle des billets"
+    ],
+    [
+      "barrière de billetterie",
+      "guichet de contrôle des billets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

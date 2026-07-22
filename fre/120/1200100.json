@@ -1,0 +1,10 @@
+{
+  "seq": 1200100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "acceptation immédiate"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

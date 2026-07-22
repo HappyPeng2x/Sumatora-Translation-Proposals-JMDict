@@ -1,0 +1,12 @@
+{
+  "seq": 1200380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étonné",
+      "perplexe",
+      "soupçonneux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

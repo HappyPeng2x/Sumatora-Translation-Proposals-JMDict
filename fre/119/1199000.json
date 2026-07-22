@@ -1,0 +1,23 @@
+{
+  "seq": 1199000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dissolution",
+      "séparation"
+    ],
+    [
+      "dissolution (d'une entreprise, d'une organisation, etc.) ; liquidation ; dissolution ; séparation"
+    ],
+    [
+      "dissolution (du Parlement, de l'Assemblée nationale, etc.)"
+    ],
+    [
+      "se dissoudre; se séparer; se diviser; se disperser"
+    ],
+    [
+      "dissoudre; mettre fin à; dissiper; dissoudre (le Parlement); faire rentrer en garnison (les troupes); abattre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

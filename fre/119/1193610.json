@@ -1,0 +1,31 @@
+{
+  "seq": 1193610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feu",
+      "flamme"
+    ],
+    [
+      "incendie",
+      "feu de forêt"
+    ],
+    [
+      "feu de camp",
+      "flamme",
+      "lumière"
+    ],
+    [
+      "lumière",
+      "éclairage"
+    ],
+    [
+      "chaleur",
+      "canicule"
+    ],
+    [
+      "groupe de dix soldats (selon le système Ritsuryō)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

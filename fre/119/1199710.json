@@ -1,0 +1,17 @@
+{
+  "seq": 1199710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transmission",
+      "référencer",
+      "transférer"
+    ],
+    [
+      "renvoyer",
+      "transmettre",
+      "envoyer à nouveau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

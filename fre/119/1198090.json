@@ -11,6 +11,16 @@
       "aide",
       "secours",
       "assistance"
+    ],
+    [
+      "soutenir",
+      "aider",
+      "assister"
+    ],
+    [
+      "aide",
+      "secours",
+      "assistance"
     ]
   ],
   "model": "qwen3:14b"

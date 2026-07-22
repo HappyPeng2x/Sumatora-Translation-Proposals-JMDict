@@ -1,0 +1,18 @@
+{
+  "seq": 1197050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trait (de crayon, de pinceau)"
+    ],
+    [
+      "ligne continue ou interrompue du I Ching",
+      "trait utilisé dans la formation d'un kanji; coup de pinceau; trait; mouvement de la plume"
+    ],
+    [
+      "mot-numéral pour désigner le nombre de traits",
+      "mot-numéral utilisé pour compter le nombre de traits; de coups de pinceau ou de lignes qui forment un caractère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

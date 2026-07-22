@@ -1,0 +1,19 @@
+{
+  "seq": 1194780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fleurs en pleine floraison"
+    ],
+    [
+      "l'âge de la beauté maximale, surtout chez une femme"
+    ],
+    [
+      "l'apogée, le moment de plus grande popularité"
+    ],
+    [
+      "l'époque de la plus grande beauté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

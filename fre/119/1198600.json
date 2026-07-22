@@ -1,0 +1,60 @@
+{
+  "seq": 1198600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signe de tête (salut)"
+    ],
+    [
+      "considération",
+      "réflexion"
+    ],
+    [
+      "se mettre à la place de quelqu'un",
+      "s'identifier à quelqu'un"
+    ],
+    [
+      "comprendre",
+      "prendre en compte"
+    ],
+    [
+      "expliquer",
+      "justifier",
+      "rendre compte"
+    ],
+    [
+      "démontrer l'erreur",
+      "prouver la fausseté"
+    ],
+    [
+      "salutation",
+      "salue"
+    ],
+    [
+      "clin d'œil",
+      "petite inclination"
+    ],
+    [
+      "compréhension"
+    ],
+    [
+      "compréhension",
+      "considération"
+    ],
+    [
+      "explication",
+      "justification",
+      "rendre compte"
+    ],
+    [
+      "bonté",
+      "gentillesse",
+      "bonne humeur"
+    ],
+    [
+      "démontrer l'erreur",
+      "prouver la fausseté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

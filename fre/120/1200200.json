@@ -1,0 +1,14 @@
+{
+  "seq": 1200200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soupçonner",
+      "suspecter"
+    ],
+    [
+      "être étonné de quelque chose; considérer quelque chose comme étrange; être surpris par quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

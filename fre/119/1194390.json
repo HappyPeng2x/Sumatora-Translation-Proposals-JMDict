@@ -1,0 +1,13 @@
+{
+  "seq": 1194390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise fortune",
+      "malheur",
+      "dommage",
+      "préjudice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

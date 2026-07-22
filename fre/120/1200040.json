@@ -1,0 +1,11 @@
+{
+  "seq": 1200040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "œuvre magistrale",
+      "chef-d'œuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

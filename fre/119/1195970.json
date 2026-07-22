@@ -1,0 +1,28 @@
+{
+  "seq": 1195970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépasser",
+      "passer",
+      "s'écouler (le temps)",
+      "trop (+verbe)"
+    ],
+    [
+      "passer (le temps) ; s'écouler"
+    ],
+    [
+      "avoir pris fin ; être terminé ; être fini"
+    ],
+    [
+      "dépasser ; surpasser ; être supérieur à"
+    ],
+    [
+      "ne pas dépasser ; être inférieur à"
+    ],
+    [
+      "être excessif ; être trop ; être en excès"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

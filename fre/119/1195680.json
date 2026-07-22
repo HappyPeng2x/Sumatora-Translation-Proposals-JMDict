@@ -1,0 +1,17 @@
+{
+  "seq": 1195680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boutique de confiseries",
+      "boutique de pâtisserie",
+      "pâtisserie"
+    ],
+    [
+      "boutique de confiseries",
+      "boutique de pâtisserie",
+      "pâtisserie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

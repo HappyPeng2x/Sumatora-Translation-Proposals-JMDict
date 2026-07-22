@@ -1,0 +1,11 @@
+{
+  "seq": 1200430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "larmes de regret",
+      "pleurs de frustration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

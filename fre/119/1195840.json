@@ -1,0 +1,16 @@
+{
+  "seq": 1195840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef de groupe",
+      "chef de section"
+    ],
+    [
+      "chef d'atelier",
+      "chef de service",
+      "superviseur de section"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

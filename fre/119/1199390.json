@@ -5,6 +5,11 @@
     [
       "anniversaire de la mort",
       "anniversaire d'un décès"
+    ],
+    [
+      "cérémonie annuelle commémorative",
+      "anniversaire religieux",
+      "célébration annuelle"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,15 @@
+{
+  "seq": 1196510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brouillard"
+    ],
+    [
+      "pâleur",
+      "faiblesse",
+      "obscurité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1202250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entièrement (pas)",
+      "pas du tout !"
+    ],
+    [
+      "pas du tout (avec négation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

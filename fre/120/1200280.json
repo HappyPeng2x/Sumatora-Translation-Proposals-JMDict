@@ -1,0 +1,15 @@
+{
+  "seq": 1200280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monstre"
+    ],
+    [
+      "monstrueux",
+      "horrible",
+      "détestable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

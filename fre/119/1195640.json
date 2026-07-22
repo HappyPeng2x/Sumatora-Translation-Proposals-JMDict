@@ -1,0 +1,18 @@
+{
+  "seq": 1195640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "munificence",
+      "splendeur"
+    ],
+    [
+      "magnifique",
+      "éblouissant",
+      "splendide",
+      "luxueux",
+      "grandiose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1198080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interposition",
+      "intervention"
+    ],
+    [
+      "intervenir",
+      "prendre part",
+      "agir en tant que médiateur"
+    ],
+    [
+      "interposition",
+      "position intermédiaire",
+      "situation intercalée"
+    ],
+    [
+      "intervention",
+      "action de s'immiscer",
+      "intervention extérieure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

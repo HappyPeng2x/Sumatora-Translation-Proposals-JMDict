@@ -1,0 +1,12 @@
+{
+  "seq": 1199050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "licenciement",
+      "désignation d'une personne qui est retirée de son poste",
+      "désignation d'une personne qui est retirée de son poste par une autorité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

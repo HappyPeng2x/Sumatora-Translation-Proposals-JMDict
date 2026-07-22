@@ -1,0 +1,15 @@
+{
+  "seq": 1199060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "analyse"
+    ],
+    [
+      "analyse syntaxique",
+      "décodage",
+      "décomposition en éléments"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1196800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "approuver",
+      "être d'accord avec",
+      "valider"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

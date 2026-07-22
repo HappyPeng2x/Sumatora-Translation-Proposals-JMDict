@@ -1,0 +1,14 @@
+{
+  "seq": 1200740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à nouveau",
+      "une nouvelle fois"
+    ],
+    [
+      "formellement; spécialement; intentionnellement; délibérément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

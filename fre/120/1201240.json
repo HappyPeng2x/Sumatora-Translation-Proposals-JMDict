@@ -1,0 +1,15 @@
+{
+  "seq": 1201240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "côte",
+      "rive",
+      "littoral"
+    ],
+    [
+      "le long de la côte maritime"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

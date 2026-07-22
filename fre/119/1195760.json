@@ -1,0 +1,14 @@
+{
+  "seq": 1195760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devoirs scolaires",
+      "cours"
+    ],
+    [
+      "enseignement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

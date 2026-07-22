@@ -16,6 +16,14 @@
       "second",
       "assistant",
       "personne qui assiste un autre dans une tâche"
+    ],
+    [
+      "aide",
+      "assistant",
+      "personne qui assiste",
+      "second",
+      "personne qui accompagne une mariée ou un marié",
+      "personne qui accompagne une personne lors d'une cérémonie"
     ]
   ],
   "model": "qwen3:14b"

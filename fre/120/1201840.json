@@ -5,6 +5,11 @@
     [
       "phoque à oreilles",
       "lion de mer"
+    ],
+    [
+      "dormeur",
+      "paresseux",
+      "léopard de mer"
     ]
   ],
   "model": "qwen3:14b"

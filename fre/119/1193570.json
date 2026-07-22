@@ -7,6 +7,21 @@
       "poisson soufflet",
       "fugu",
       "globefish"
+    ],
+    [
+      "poisson du genre Cottus"
+    ],
+    [
+      "femme laide; femme corpulente; cochon de lait"
+    ],
+    [
+      "femme enceinte; chose ressemblant une femme enceinte"
+    ],
+    [
+      "personne impulsivement agressive; grenouille impulsive"
+    ],
+    [
+      "arme à feu; fusil"
     ]
   ],
   "model": "qwen3:14b"

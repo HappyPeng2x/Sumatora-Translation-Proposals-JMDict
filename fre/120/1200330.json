@@ -1,0 +1,17 @@
+{
+  "seq": 1200330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monstre"
+    ],
+    [
+      "personne dont la force est à peine explicable",
+      "figure mystérieuse; phénomène"
+    ],
+    [
+      "personne influente; éminence grise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

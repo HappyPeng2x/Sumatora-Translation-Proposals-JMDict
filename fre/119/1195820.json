@@ -1,0 +1,21 @@
+{
+  "seq": 1195820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sujet",
+      "tâche",
+      "thème"
+    ],
+    [
+      "devoir scolaire; exercice"
+    ],
+    [
+      "problème; tâche; défi; question"
+    ],
+    [
+      "itinéraire (en escalade, en difficulté, etc.); problème"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

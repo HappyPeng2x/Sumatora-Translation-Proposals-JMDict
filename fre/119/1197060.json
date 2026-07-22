@@ -1,0 +1,22 @@
+{
+  "seq": 1197060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "délimiter",
+      "limiter",
+      "mettre fin",
+      "tirer un trait"
+    ],
+    [
+      "délimiter",
+      "marquer",
+      "diviser",
+      "cartographier"
+    ],
+    [
+      "planifier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

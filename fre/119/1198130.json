@@ -1,0 +1,18 @@
+{
+  "seq": 1198130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garder (un malade, un enfant)",
+      "soigner",
+      "surveiller"
+    ],
+    [
+      "prendre en charge",
+      "s'occuper de",
+      "soigner",
+      "prendre sous sa protection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

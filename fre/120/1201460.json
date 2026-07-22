@@ -1,0 +1,15 @@
+{
+  "seq": 1201460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maritime"
+    ],
+    [
+      "sur la mer",
+      "à la mer",
+      "de la mer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

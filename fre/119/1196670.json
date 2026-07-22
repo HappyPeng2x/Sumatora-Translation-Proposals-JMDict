@@ -1,0 +1,31 @@
+{
+  "seq": 1196670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ego",
+      "me",
+      "soi-même",
+      "son propre"
+    ],
+    [
+      "soi-même"
+    ],
+    [
+      "vous (forme archaïque)"
+    ],
+    [
+      "préfixe indiquant familiarité ou mépris (forme archaïque)"
+    ],
+    [
+      "quelqu'un lui-même"
+    ],
+    [
+      "je (pronom personnel de première personne du singulier)"
+    ],
+    [
+      "tu (pronom personnel de deuxième personne du singulier; utilisé envers quelqu'un de supérieur pour le dénigrer)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

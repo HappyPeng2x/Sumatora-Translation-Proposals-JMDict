@@ -1,0 +1,13 @@
+{
+  "seq": 1200700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "précepte"
+    ],
+    [
+      "règle religieuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

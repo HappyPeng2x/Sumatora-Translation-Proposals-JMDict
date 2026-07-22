@@ -1,0 +1,15 @@
+{
+  "seq": 1197500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maître peintre",
+      "peintre célèbre"
+    ],
+    [
+      "peintre",
+      "artiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

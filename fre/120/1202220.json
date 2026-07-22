@@ -1,0 +1,16 @@
+{
+  "seq": 1202220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paiement complet",
+      "règlement",
+      "solde"
+    ],
+    [
+      "remboursement total",
+      "liquidation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

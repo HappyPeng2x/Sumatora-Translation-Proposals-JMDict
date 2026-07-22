@@ -1,0 +1,25 @@
+{
+  "seq": 1196120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accident",
+      "erreur",
+      "gaffe"
+    ],
+    [
+      "défaut",
+      "imperfection"
+    ],
+    [
+      "hasard"
+    ],
+    [
+      "négligence",
+      "inattention",
+      "maladresse",
+      "négligence juridique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

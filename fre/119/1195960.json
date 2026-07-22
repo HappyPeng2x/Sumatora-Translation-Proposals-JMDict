@@ -1,0 +1,14 @@
+{
+  "seq": 1195960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "après",
+      "passé"
+    ],
+    [
+      "trop (de) ; sur- (par exemple, manger)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

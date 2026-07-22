@@ -1,0 +1,11 @@
+{
+  "seq": 1198650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négociation",
+      "entretiens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

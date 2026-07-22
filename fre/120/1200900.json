@@ -1,0 +1,12 @@
+{
+  "seq": 1200900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rénovation de soi",
+      "changer de comportement",
+      "faire un virage à 180 degrés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

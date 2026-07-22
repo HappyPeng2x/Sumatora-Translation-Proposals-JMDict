@@ -1,0 +1,11 @@
+{
+  "seq": 1202340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "journal illustré",
+      "diary avec des illustrations"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

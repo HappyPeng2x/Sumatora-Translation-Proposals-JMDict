@@ -1,0 +1,13 @@
+{
+  "seq": 1193460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson populaire"
+    ],
+    [
+      "chanson populaire (occidental)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

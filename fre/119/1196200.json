@@ -1,0 +1,10 @@
+{
+  "seq": 1196200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trouble alimentaire caractérisé par des épisodes répétés de suralimentation suivis de comportements compensatoires comme le vomissement ou l'exercice excessif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,12 @@
       "phoque sans oreilles",
       "phoque véritable",
       "phoque (mammifère marin)"
+    ],
+    [
+      "peau de phoque",
+      "fourrure de phoque",
+      "peau de zéphyr",
+      "peau de phoque (matériel)"
     ]
   ],
   "model": "qwen3:14b"

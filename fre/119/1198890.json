@@ -1,0 +1,40 @@
+{
+  "seq": 1198890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dénouer",
+      "résoudre"
+    ],
+    [
+      "désoudre",
+      "désincruster"
+    ],
+    [
+      "résoudre",
+      "trouver la solution à",
+      "débrouiller"
+    ],
+    [
+      "éclaircir",
+      "dissiper",
+      "détendre"
+    ],
+    [
+      "annuler",
+      "dissoudre",
+      "lever"
+    ],
+    [
+      "délivrer",
+      "dénouer",
+      "détacher"
+    ],
+    [
+      "débrouiller",
+      "démêler",
+      "détacher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

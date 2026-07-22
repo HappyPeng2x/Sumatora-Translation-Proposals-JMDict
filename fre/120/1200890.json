@@ -1,0 +1,20 @@
+{
+  "seq": 1200890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "renommage",
+      "changement de nom",
+      "nouvelle dénomination"
+    ],
+    [
+      "autre nom",
+      "dénomination",
+      "titre",
+      "nouveau nom",
+      "dénomination",
+      "titre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

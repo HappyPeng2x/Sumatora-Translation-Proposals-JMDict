@@ -5,6 +5,9 @@
     [
       "monde de l'art",
       "cercle des peintres"
+    ],
+    [
+      "galerie d'art"
     ]
   ],
   "model": "qwen3:14b"

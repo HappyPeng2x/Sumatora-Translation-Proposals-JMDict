@@ -1,0 +1,29 @@
+{
+  "seq": 1199610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réexpédition",
+      "transfert"
+    ],
+    [
+      "retour d'un train en gare",
+      "retour d'un train en gare"
+    ],
+    [
+      "transmission",
+      "envoi",
+      "renvoi",
+      "transfert"
+    ],
+    [
+      "envoi vers la remise",
+      "envoi vers la place de dépôt (Belgique)"
+    ],
+    [
+      "hors service",
+      "non en service"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

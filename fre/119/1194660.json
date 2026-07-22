@@ -1,0 +1,14 @@
+{
+  "seq": 1194660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sortie, excursion pour admirer la floraison des cerisiers"
+    ],
+    [
+      "promenade",
+      "pique-nique sous les cerisiers en fleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

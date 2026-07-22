@@ -5,6 +5,10 @@
     [
       "lumière de feu",
       "ombres ou formes qui bougent dans la lumière de feu"
+    ],
+    [
+      "ombre projetée par une lampe",
+      "forme éclairée"
     ]
   ],
   "model": "qwen3:14b"

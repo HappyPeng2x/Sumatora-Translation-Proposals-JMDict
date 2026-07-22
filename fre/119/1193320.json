@@ -1,0 +1,18 @@
+{
+  "seq": 1193320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson",
+      "chant"
+    ],
+    [
+      "chanson",
+      "chant",
+      "chanter",
+      "chanter des chansons",
+      "chanter des liedjes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

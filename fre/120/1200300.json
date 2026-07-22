@@ -1,0 +1,10 @@
+{
+  "seq": 1200300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne mystérieuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1199720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guérison",
+      "récupération",
+      "rétablissement"
+    ],
+    [
+      "récupération",
+      "convalescence"
+    ],
+    [
+      "réhabilitation",
+      "rétablissement",
+      "guérison",
+      "récupération physique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

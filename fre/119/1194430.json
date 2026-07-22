@@ -5,6 +5,12 @@
     [
       "revenus",
       "gains"
+    ],
+    [
+      "moyens de subsistance",
+      "travail",
+      "revenu du travail",
+      "salaire"
     ]
   ],
   "model": "qwen3:14b"

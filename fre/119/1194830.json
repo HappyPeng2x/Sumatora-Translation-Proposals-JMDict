@@ -9,6 +9,11 @@
     [
       "fin d'une carrière honorée",
       "fin glorieuse ou digne d'une carrière"
+    ],
+    [
+      "apogée",
+      "moment culminant",
+      "heure la plus glorieuse"
     ]
   ],
   "model": "qwen3:14b"

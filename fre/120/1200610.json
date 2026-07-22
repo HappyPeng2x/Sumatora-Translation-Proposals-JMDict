@@ -1,0 +1,15 @@
+{
+  "seq": 1200610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sac à main",
+      "porte-monnaie",
+      "poche"
+    ],
+    [
+      "objet que l'on porte dans la poche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

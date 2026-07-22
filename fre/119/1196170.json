@@ -1,0 +1,16 @@
+{
+  "seq": 1196170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excès"
+    ],
+    [
+      "excédentaire",
+      "excessif",
+      "superflu",
+      "trop nombreux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

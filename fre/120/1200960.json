@@ -1,0 +1,13 @@
+{
+  "seq": 1200960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amélioration"
+    ],
+    [
+      "philosophie japonaise du management axée sur l'amélioration continue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

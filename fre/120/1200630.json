@@ -1,0 +1,14 @@
+{
+  "seq": 1200630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grossesse",
+      "conception"
+    ],
+    [
+      "conception"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

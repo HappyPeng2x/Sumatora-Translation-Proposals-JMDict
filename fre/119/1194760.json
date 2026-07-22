@@ -1,0 +1,13 @@
+{
+  "seq": 1194760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "message",
+      "annonce",
+      "signe",
+      "indication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

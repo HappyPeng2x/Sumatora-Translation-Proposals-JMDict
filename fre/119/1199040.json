@@ -1,0 +1,26 @@
+{
+  "seq": 1199040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annulation",
+      "liquidation"
+    ],
+    [
+      "dissolution; résolution; solution",
+      "dissolution; résolution; solution",
+      "dissolution; résolution; solution"
+    ],
+    [
+      "annulation; abolition; dissolution; rupture",
+      "annulation; abolition; dissolution; rupture",
+      "annulation; abolition; dissolution; rupture"
+    ],
+    [
+      "éloignement; expulsion; déplacement; retrait",
+      "éloignement; expulsion; déplacement; retrait",
+      "éloignement; expulsion; déplacement; retrait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1197280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négociant en peintures",
+      "galerie commerciale d'art"
+    ],
+    [
+      "commerce d'art",
+      "galerie d'art"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

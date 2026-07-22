@@ -6,6 +6,9 @@
       "crevette mantis",
       "crabe mantis",
       "squilla"
+    ],
+    [
+      "coquille de shako"
     ]
   ],
   "model": "qwen3:14b"

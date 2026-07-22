@@ -1,0 +1,18 @@
+{
+  "seq": 1195710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compteur pour les chapitres ou les leçons"
+    ],
+    [
+      "section (d'une organisation)",
+      "division",
+      "département"
+    ],
+    [
+      "compteur pour les leçons et les chapitres d'un livre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

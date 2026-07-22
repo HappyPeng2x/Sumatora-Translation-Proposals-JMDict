@@ -1,0 +1,29 @@
+{
+  "seq": 1200220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blessure",
+      "mal"
+    ],
+    [
+      "erreur",
+      "accident",
+      "pertes"
+    ],
+    [
+      "lésion",
+      "blessure",
+      "atteinte"
+    ],
+    [
+      "chance",
+      "hasard"
+    ],
+    [
+      "erreur",
+      "maladresse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

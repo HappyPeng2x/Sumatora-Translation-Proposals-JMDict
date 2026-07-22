@@ -1,0 +1,14 @@
+{
+  "seq": 1199570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circuit",
+      "ligne"
+    ],
+    [
+      "(néerlandais) mesure pour circuits; lignes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

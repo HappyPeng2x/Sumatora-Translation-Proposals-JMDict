@@ -1,0 +1,22 @@
+{
+  "seq": 1198960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "solution"
+    ],
+    [
+      "résolu",
+      "éclairci",
+      "clarifié",
+      "dénoué",
+      "résolu",
+      "élaboré",
+      "abouti à une solution",
+      "solution",
+      "règlement",
+      "décision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1200730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être modifié",
+      "être renouvelé",
+      "changer"
+    ],
+    [
+      "s'améliorer",
+      "être réformé",
+      "être révisé",
+      "être corrigé"
+    ],
+    [
+      "faire des manières",
+      "être formel"
+    ],
+    [
+      "dégénérer",
+      "prendre une tournure grave"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

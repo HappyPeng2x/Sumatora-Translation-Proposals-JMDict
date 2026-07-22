@@ -1,0 +1,16 @@
+{
+  "seq": 1197820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Joyeuse année"
+    ],
+    [
+      "Vœu de bonne année",
+      "Souhait de bonne année",
+      "Bonne année",
+      "Message de bonne année"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

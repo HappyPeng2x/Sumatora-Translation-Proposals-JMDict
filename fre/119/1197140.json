@@ -4,6 +4,9 @@
   "glosses": [
     [
       "association des mécènes artistes"
+    ],
+    [
+      "exposition commerciale d'œuvres d'art"
     ]
   ],
   "model": "qwen3:14b"

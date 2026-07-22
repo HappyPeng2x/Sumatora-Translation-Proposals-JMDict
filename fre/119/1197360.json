@@ -1,0 +1,13 @@
+{
+  "seq": 1197360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nettement",
+      "clairement",
+      "distinctement",
+      "très nettement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

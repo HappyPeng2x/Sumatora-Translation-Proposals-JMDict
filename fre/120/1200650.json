@@ -1,0 +1,35 @@
+{
+  "seq": 1200650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "donner un avertissement",
+      "donner un conseil"
+    ],
+    [
+      "remontrer",
+      "reprocher",
+      "gronder"
+    ],
+    [
+      "interdire",
+      "défendre",
+      "bannir"
+    ],
+    [
+      "être prudent",
+      "agir avec prudence"
+    ],
+    [
+      "détester",
+      "abhorrer",
+      "haïr profondément"
+    ],
+    [
+      "punir",
+      "châtier",
+      "faire subir une peine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1201030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "refaçonner",
+      "refonte (d'un objet)"
+    ],
+    [
+      "refondre",
+      "refaire fondre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

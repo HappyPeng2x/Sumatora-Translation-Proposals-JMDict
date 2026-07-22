@@ -1,0 +1,25 @@
+{
+  "seq": 1196520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être embrumé",
+      "avoir du brouillard"
+    ],
+    [
+      "devenir flou",
+      "s'assombrir"
+    ],
+    [
+      "être surpassé",
+      "être dépassé",
+      "être éclipsé"
+    ],
+    [
+      "pâlir",
+      "s'estomper",
+      "s'effacer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

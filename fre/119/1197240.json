@@ -1,0 +1,12 @@
+{
+  "seq": 1197240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "qualité d'image",
+      "qualité de l'image",
+      "niveau de qualité d'une image"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

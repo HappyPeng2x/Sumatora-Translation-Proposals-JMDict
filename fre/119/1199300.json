@@ -1,0 +1,13 @@
+{
+  "seq": 1199300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annulation d'un contrat"
+    ],
+    [
+      "rupture d'une fiancée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

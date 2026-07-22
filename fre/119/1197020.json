@@ -1,0 +1,20 @@
+{
+  "seq": 1197020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "égoïsme",
+      "capricieux",
+      "désobéissance",
+      "entêtement"
+    ],
+    [
+      "caprice",
+      "entêtement"
+    ],
+    [
+      "caprice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1197040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bastion",
+      "forteresse intérieure",
+      "citadelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

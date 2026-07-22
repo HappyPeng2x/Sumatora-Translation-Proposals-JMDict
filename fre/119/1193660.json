@@ -1,0 +1,11 @@
+{
+  "seq": 1193660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu propice à l'incendie",
+      "cause probable d'un incendie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

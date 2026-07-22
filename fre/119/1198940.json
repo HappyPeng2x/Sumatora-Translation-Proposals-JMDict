@@ -11,6 +11,9 @@
       "se relâcher",
       "se détendre",
       "s'adoucir"
+    ],
+    [
+      "s'atténuer"
     ]
   ],
   "model": "qwen3:14b"

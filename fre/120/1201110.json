@@ -1,0 +1,23 @@
+{
+  "seq": 1201110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réorganisation",
+      "reorganisation"
+    ],
+    [
+      "réorganiser",
+      "reorganiser",
+      "réformer",
+      "reformer"
+    ],
+    [
+      "révision",
+      "réédition",
+      "republication",
+      "re-edition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "faction politique",
       "groupe politique",
       "secte politique"
+    ],
+    [
+      "fractie politique; groupe politique"
     ]
   ],
   "model": "qwen3:14b"

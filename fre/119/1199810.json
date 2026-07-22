@@ -1,0 +1,10 @@
+{
+  "seq": 1199810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "panneau d'affichage circulaire (souvent en format de brochure, distribué aux ménages au sein d'une association de quartier, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

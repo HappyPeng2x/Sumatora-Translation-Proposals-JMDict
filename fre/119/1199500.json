@@ -1,0 +1,10 @@
+{
+  "seq": 1199500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "visite médicale effectuée par un médecin dans un hôpital"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

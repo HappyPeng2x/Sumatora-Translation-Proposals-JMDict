@@ -1,0 +1,16 @@
+{
+  "seq": 1195200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être irrité",
+      "se mettre en colère",
+      "perdre patience"
+    ],
+    [
+      "devenir impatient (d'origine néerlandaise)",
+      "perdre son calme (d'origine néerlandaise)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

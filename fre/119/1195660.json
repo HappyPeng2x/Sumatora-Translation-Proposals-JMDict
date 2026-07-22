@@ -12,6 +12,11 @@
       "fragile",
       "délicat",
       "frêle"
+    ],
+    [
+      "luxueux",
+      "somptueux",
+      "magnifique"
     ]
   ],
   "model": "qwen3:14b"

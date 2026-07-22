@@ -1,0 +1,14 @@
+{
+  "seq": 1201620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "algue séchée"
+    ],
+    [
+      "feuille de végétal utilisé dans la cuisine japonaise",
+      "produit alimentaire à base d'algues"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

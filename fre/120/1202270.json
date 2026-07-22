@@ -1,0 +1,19 @@
+{
+  "seq": 1202270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dessin",
+      "esquisse",
+      "image",
+      "peinture"
+    ],
+    [
+      "image (télévision, cinéma, etc.) ; image ; séquence vidéo"
+    ],
+    [
+      "image de télévision; image sur l'écran du cinéma"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1196030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le passé",
+      "le précédent",
+      "les temps anciens"
+    ],
+    [
+      "passé (que l'on voudrait oublier)"
+    ],
+    [
+      "temps (grammatical) passé; prétérit"
+    ],
+    [
+      "vie antérieure (dans le bouddhisme)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

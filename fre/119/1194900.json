@@ -1,0 +1,12 @@
+{
+  "seq": 1194900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rhinite allergique",
+      "pollinose",
+      "allergie aux pollens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

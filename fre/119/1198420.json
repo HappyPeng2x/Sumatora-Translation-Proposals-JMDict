@@ -1,0 +1,11 @@
+{
+  "seq": 1198420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "procès-verbal",
+      "minutes de réunion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

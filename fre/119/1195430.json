@@ -1,0 +1,16 @@
+{
+  "seq": 1195430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bagages"
+    ],
+    [
+      "fardeau"
+    ],
+    [
+      "charge (d'un paquet, d'une cellule, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

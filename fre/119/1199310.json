@@ -11,6 +11,15 @@
       "défaire",
       "délier",
       "désunir"
+    ],
+    [
+      "désintégrer"
+    ],
+    [
+      "démêler"
+    ],
+    [
+      "se délier"
     ]
   ],
   "model": "qwen3:14b"

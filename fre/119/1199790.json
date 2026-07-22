@@ -8,6 +8,13 @@
     ],
     [
       "migration saisonnière (de poissons, etc.)"
+    ],
+    [
+      "voyage de plaisir",
+      "circuit touristique"
+    ],
+    [
+      "migration des poissons vers leurs lieux de reproduction"
     ]
   ],
   "model": "qwen3:14b"

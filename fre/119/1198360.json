@@ -1,0 +1,16 @@
+{
+  "seq": 1198360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assemblée",
+      "conférence",
+      "congrès",
+      "réunion"
+    ],
+    [
+      "mot multiplicateur pour les réunions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

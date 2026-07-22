@@ -4,6 +4,9 @@
   "glosses": [
     [
       "raffiné et vulgaire; classique et populaire"
+    ],
+    [
+      "langage élégant et langage familier"
     ]
   ],
   "model": "qwen3:14b"

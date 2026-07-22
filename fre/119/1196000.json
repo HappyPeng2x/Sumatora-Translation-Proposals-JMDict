@@ -1,0 +1,27 @@
+{
+  "seq": 1196000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passer (le temps)"
+    ],
+    [
+      "boire en excès",
+      "faire trop",
+      "aller trop loin"
+    ],
+    [
+      "s'occuper de",
+      "soutenir"
+    ],
+    [
+      "faire trop",
+      "exagérer"
+    ],
+    [
+      "laisser sans agir",
+      "ne pas intervenir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

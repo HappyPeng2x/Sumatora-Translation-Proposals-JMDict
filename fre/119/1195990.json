@@ -1,0 +1,22 @@
+{
+  "seq": 1195990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passer",
+      "passer à côté de"
+    ],
+    [
+      "s'écouler",
+      "passer",
+      "atteindre la fin",
+      "dépasser"
+    ],
+    [
+      "mourir",
+      "décéder",
+      "périr"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1200080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "célérité",
+      "haute vitesse",
+      "mobilité",
+      "rapide (train avec peu d'arrêts)"
+    ],
+    [
+      "train de banlieue",
+      "train rapide (moins rapide qu'un train express)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

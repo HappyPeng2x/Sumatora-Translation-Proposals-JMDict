@@ -1,0 +1,16 @@
+{
+  "seq": 1195040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "demi-monde",
+      "quartier de plaisir"
+    ],
+    [
+      "prostitution",
+      "quartier de plaisir",
+      "zone de prostitutions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

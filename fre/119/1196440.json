@@ -1,0 +1,16 @@
+{
+  "seq": 1196440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surprotection",
+      "excessive care",
+      "surprotectivité"
+    ],
+    [
+      "surprotection",
+      "trop de soins"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
