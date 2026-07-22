@@ -9,6 +9,10 @@
     ],
     [
       "une objection"
+    ],
+    [
+      "une opinion",
+      "un point de vue"
     ]
   ],
   "model": "qwen3:14b"

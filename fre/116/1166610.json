@@ -1,0 +1,20 @@
+{
+  "seq": 1166610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dévoué",
+      "dévouée",
+      "single-minded",
+      "à un seul objectif"
+    ],
+    [
+      "droit",
+      "honnête",
+      "franc",
+      "authentique",
+      "véritable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

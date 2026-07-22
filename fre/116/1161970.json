@@ -9,6 +9,9 @@
     ],
     [
       "un haïku"
+    ],
+    [
+      "une strophe (d'un poème)"
     ]
   ],
   "model": "qwen3:14b"

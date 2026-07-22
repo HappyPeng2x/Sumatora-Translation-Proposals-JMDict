@@ -1,0 +1,24 @@
+{
+  "seq": 1161850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un effort",
+      "une action"
+    ],
+    [
+      "un coup",
+      "un coup de hache"
+    ],
+    [
+      "une fois",
+      "une volée de grues"
+    ],
+    [
+      "une dépêche",
+      "un mouvement",
+      "un élan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

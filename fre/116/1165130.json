@@ -1,0 +1,20 @@
+{
+  "seq": 1165130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemin",
+      "cours",
+      "unique chemin"
+    ],
+    [
+      "une direction",
+      "une trajectoire",
+      "ligne fixe"
+    ],
+    [
+      "unité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

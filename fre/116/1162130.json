@@ -1,0 +1,20 @@
+{
+  "seq": 1162130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un mois"
+    ],
+    [
+      "le premier mois",
+      "janvier"
+    ],
+    [
+      "un mois"
+    ],
+    [
+      "toute la durée d'un mois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

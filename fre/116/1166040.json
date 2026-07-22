@@ -5,6 +5,9 @@
     [
       "thé de première qualité",
       "thé de première récolte"
+    ],
+    [
+      "thé de première infusion"
     ]
   ],
   "model": "qwen3:14b"

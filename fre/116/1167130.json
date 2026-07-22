@@ -1,0 +1,17 @@
+{
+  "seq": 1167130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impartial",
+      "similaire",
+      "uniforme"
+    ],
+    [
+      "ordinaire",
+      "commun",
+      "habituel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

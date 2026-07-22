@@ -1,0 +1,19 @@
+{
+  "seq": 1163580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de tout son cœur",
+      "intensément"
+    ],
+    [
+      "dévotion totale",
+      "dévouement absolu"
+    ],
+    [
+      "désir",
+      "désir intense"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

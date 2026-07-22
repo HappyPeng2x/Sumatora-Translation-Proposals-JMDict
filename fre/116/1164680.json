@@ -1,0 +1,18 @@
+{
+  "seq": 1164680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corps",
+      "groupe",
+      "partie",
+      "bande",
+      "troupe",
+      "escadron"
+    ],
+    [
+      "un ami"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

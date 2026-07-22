@@ -6,6 +6,10 @@
       "fait en une nuit",
       "construction rapide",
       "œuvre hâtivement exécutée"
+    ],
+    [
+      "une solution de fortune",
+      "quelque chose fait très rapidement"
     ]
   ],
   "model": "qwen3:14b"

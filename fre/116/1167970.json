@@ -1,0 +1,23 @@
+{
+  "seq": 1167970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "champ de pommes de terre"
+    ],
+    [
+      "rustre",
+      "campagnard",
+      "bouseux"
+    ],
+    [
+      "rustre",
+      "campagnard"
+    ],
+    [
+      "moine ignorant",
+      "moine incompétent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

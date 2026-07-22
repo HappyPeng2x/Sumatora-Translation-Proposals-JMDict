@@ -1,0 +1,28 @@
+{
+  "seq": 1164950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défini",
+      "déterminé",
+      "fixé",
+      "réglé"
+    ],
+    [
+      "constant; invariable; fixe; déterminé; prescrit"
+    ],
+    [
+      "l'immuabilité (du néerlandais onveranderlijkheid)"
+    ],
+    [
+      "l'uniformité; l'égalité de forme; la régularité (du néerlandais gelijkvormigheid; eenvormigheid)"
+    ],
+    [
+      "immuable; fixe; certain; déterminé; prescrit; établi; régulier; inébranlable (du néerlandais onveranderlijk; standvastig)"
+    ],
+    [
+      "similaire; uniforme; identique (du néerlandais gelijkvormig; uniform)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

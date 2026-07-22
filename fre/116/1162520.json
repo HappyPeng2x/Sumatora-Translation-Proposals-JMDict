@@ -6,6 +6,9 @@
       "chaque moment est précieux",
       "le temps est de l'or",
       "le temps précieux"
+    ],
+    [
+      "Le temps est de l'argent"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,35 @@
+{
+  "seq": 1164780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un pâté de maison",
+      "un quartier"
+    ],
+    [
+      "un morceau"
+    ],
+    [
+      "une longue et étroite chose"
+    ],
+    [
+      "un chō (unité de distance, environ 109,09 m)"
+    ],
+    [
+      "un jeu ; une tâche"
+    ],
+    [
+      "alors ; bien"
+    ],
+    [
+      "score de cent"
+    ],
+    [
+      "ratelSlag"
+    ],
+    [
+      "alors; bien; maintenant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -10,6 +10,14 @@
     ],
     [
       "un bateau"
+    ],
+    [
+      "une feuille (spécialement de paulownia)",
+      "une feuille (d'un arbre)"
+    ],
+    [
+      "un petit bateau",
+      "un canoë"
     ]
   ],
   "model": "qwen3:14b"

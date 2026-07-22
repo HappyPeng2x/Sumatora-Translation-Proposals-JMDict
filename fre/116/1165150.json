@@ -1,0 +1,18 @@
+{
+  "seq": 1165150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un parti",
+      "une faction",
+      "un groupe"
+    ],
+    [
+      "un parti"
+    ],
+    [
+      "un clan samouraï"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

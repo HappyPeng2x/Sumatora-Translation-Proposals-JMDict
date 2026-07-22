@@ -1,0 +1,23 @@
+{
+  "seq": 1167500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "révolte",
+      "insurrection",
+      "mutinerie",
+      "émeute"
+    ],
+    [
+      "groupe armé",
+      "troupe"
+    ],
+    [
+      "unité",
+      "solidarité",
+      "concordance",
+      "unanimité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

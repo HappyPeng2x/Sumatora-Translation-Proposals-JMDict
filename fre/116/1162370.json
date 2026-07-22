@@ -1,0 +1,29 @@
+{
+  "seq": 1162370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bouchée",
+      "gorgée"
+    ],
+    [
+      "gorgée",
+      "verre",
+      "bouchée"
+    ],
+    [
+      "en bref",
+      "en un mot"
+    ],
+    [
+      "part",
+      "portion",
+      "contribution"
+    ],
+    [
+      "partie",
+      "dose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

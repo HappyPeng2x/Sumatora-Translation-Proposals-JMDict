@@ -5,6 +5,11 @@
     [
       "le ciel entier",
       "le firmament"
+    ],
+    [
+      "toute la société",
+      "le monde entier",
+      "le sous-sol"
     ]
   ],
   "model": "qwen3:14b"

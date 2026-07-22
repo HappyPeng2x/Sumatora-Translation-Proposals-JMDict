@@ -1,0 +1,23 @@
+{
+  "seq": 1167780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exemplaire de premier ordre",
+      "objet de premier plan",
+      "article de qualité supérieure",
+      "chose excellente",
+      "individu remarquable",
+      "personne exceptionnelle"
+    ],
+    [
+      "un cheval fier",
+      "un pur-sang"
+    ],
+    [
+      "quelque chose d'exceptionnel",
+      "un chef-d'œuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

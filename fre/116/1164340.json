@@ -1,0 +1,22 @@
+{
+  "seq": 1164340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "davantage",
+      "encore plus",
+      "plutôt",
+      "pourrait aussi bien"
+    ],
+    [
+      "un couche"
+    ],
+    [
+      "le rez-de-chaussée"
+    ],
+    [
+      "plutôt; mieux vaut; préférablement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

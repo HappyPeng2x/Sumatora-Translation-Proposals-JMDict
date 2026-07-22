@@ -1,0 +1,14 @@
+{
+  "seq": 1164610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une machine",
+      "un véhicule"
+    ],
+    [
+      "un (mot de quantification pour les objets qui se déplacent et qui sont utiles dans la vie quotidienne; par exemple : voiture; wagon; pompe; bobine; grue; câble; machine à tricoter; correcteur; civière; chariot; automate de vente; tensiomètre; robot; compresseur; ski; radio; téléviseur; caméra; machine à écrire; ordinateur; moteur; aspirateur; cuisinière; télescope; tour de potier; machine à coudre; grille-pain; ventilateur; gourde thermos; mixeur; four à huile etc)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

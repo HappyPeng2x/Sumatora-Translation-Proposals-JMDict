@@ -1,0 +1,14 @@
+{
+  "seq": 1162290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un morceau",
+      "une pièce"
+    ],
+    [
+      "un cube shaku par seconde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

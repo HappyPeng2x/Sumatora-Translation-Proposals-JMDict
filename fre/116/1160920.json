@@ -1,0 +1,14 @@
+{
+  "seq": 1160920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anecdote",
+      "récit"
+    ],
+    [
+      "histoire étrange racontée depuis longtemps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

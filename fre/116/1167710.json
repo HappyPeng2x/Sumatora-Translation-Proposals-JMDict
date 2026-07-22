@@ -11,6 +11,14 @@
       "supériorité",
       "excellence",
       "prééminence"
+    ],
+    [
+      "s'échapper",
+      "disparaître"
+    ],
+    [
+      "être excellent",
+      "se distinguer"
     ]
   ],
   "model": "qwen3:14b"

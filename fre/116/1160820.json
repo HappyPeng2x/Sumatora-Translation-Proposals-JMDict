@@ -1,0 +1,52 @@
+{
+  "seq": 1160820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un"
+    ],
+    [
+      "une chose"
+    ],
+    [
+      "seul"
+    ],
+    [
+      "même pas"
+    ],
+    [
+      "juste"
+    ],
+    [
+      "un certain type de"
+    ],
+    [
+      "pour une chose (fréquemment utilisé dans les listes d'articles)"
+    ],
+    [
+      "(après un nom) seulement"
+    ],
+    [
+      "(avec un verbe négatif) même pas"
+    ],
+    [
+      "seulement (ex. 'seulement essaye-le')"
+    ],
+    [
+      "un"
+    ],
+    [
+      "pour une chose (souvent utilisé dans les listes d'éléments)"
+    ],
+    [
+      "(après un nom) seulement"
+    ],
+    [
+      "(avec un verbe à la forme négative) pas même"
+    ],
+    [
+      "seulement (c'est-à-dire 'seulement essaye-le')"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

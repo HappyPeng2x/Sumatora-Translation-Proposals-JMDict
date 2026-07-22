@@ -1,0 +1,15 @@
+{
+  "seq": 1164110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opinion",
+      "regard aiguisé",
+      "regard critique"
+    ],
+    [
+      "un œil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

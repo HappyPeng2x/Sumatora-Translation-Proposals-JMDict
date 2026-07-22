@@ -1,0 +1,16 @@
+{
+  "seq": 1164090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "volée de feu",
+      "fusillade",
+      "broadside"
+    ],
+    [
+      "feu de flanc",
+      "feu de bord (sur un navire de guerre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

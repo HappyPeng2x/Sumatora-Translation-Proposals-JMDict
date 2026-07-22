@@ -1,0 +1,15 @@
+{
+  "seq": 1166370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avareté",
+      "miserie"
+    ],
+    [
+      "avare",
+      "misanthrope"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

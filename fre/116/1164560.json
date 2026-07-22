@@ -1,0 +1,22 @@
+{
+  "seq": 1164560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un à un",
+      "un contre un"
+    ],
+    [
+      "bijection",
+      "correspondance univoque"
+    ],
+    [
+      "un à un"
+    ],
+    [
+      "individuellement",
+      "séparément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

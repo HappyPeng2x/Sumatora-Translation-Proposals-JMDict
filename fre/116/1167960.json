@@ -1,0 +1,39 @@
+{
+  "seq": 1167960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "patate",
+      "pomme de terre"
+    ],
+    [
+      "lourdaud",
+      "rustre"
+    ],
+    [
+      "chose inutile",
+      "objet inutile"
+    ],
+    [
+      "racine de Dioscorea japonica",
+      "plante de la famille des Dioscoreacées"
+    ],
+    [
+      "pomme de terre",
+      "légume tuberculeux"
+    ],
+    [
+      "patate douce",
+      "légume de la famille des Convolvulacées"
+    ],
+    [
+      "tubercule",
+      "organe de stockage des plantes"
+    ],
+    [
+      "personne rustique",
+      "personne peu cultivée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

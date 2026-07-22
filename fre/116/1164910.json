@@ -1,0 +1,36 @@
+{
+  "seq": 1164910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en gros",
+      "globalement"
+    ],
+    [
+      "tous les aspects",
+      "toute la partie",
+      "l'ensemble du processus"
+    ],
+    [
+      "ordinaire",
+      "habituel",
+      "moyen",
+      "commun"
+    ],
+    [
+      "une méthode"
+    ],
+    [
+      "la normalité",
+      "l'habitude"
+    ],
+    [
+      "une méthode"
+    ],
+    [
+      "un passage",
+      "un parcours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

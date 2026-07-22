@@ -5,6 +5,21 @@
     [
       "une pièce",
       "une chambre"
+    ],
+    [
+      "une cabine",
+      "une pièce spécifique"
+    ],
+    [
+      "un compartiment"
+    ],
+    [
+      "le même chambre",
+      "la même pièce"
+    ],
+    [
+      "un certaine pièce",
+      "un certaine chambre"
     ]
   ],
   "model": "qwen3:14b"

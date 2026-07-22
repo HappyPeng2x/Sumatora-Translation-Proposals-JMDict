@@ -6,6 +6,9 @@
       "district",
       "quartier",
       "lot"
+    ],
+    [
+      "une section de trajet"
     ]
   ],
   "model": "qwen3:14b"

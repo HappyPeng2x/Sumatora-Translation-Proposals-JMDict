@@ -1,0 +1,15 @@
+{
+  "seq": 1161390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dans l'ensemble ?"
+    ],
+    [
+      "absolument",
+      "sans réserve",
+      "inconditionnellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

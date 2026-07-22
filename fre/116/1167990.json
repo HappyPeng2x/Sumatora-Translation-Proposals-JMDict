@@ -5,6 +5,9 @@
     [
       "chenille (de sphingide)",
       "chenille (sans poils)"
+    ],
+    [
+      "chenille migratrice"
     ]
   ],
   "model": "qwen3:14b"

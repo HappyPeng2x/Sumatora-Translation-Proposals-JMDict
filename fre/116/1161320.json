@@ -12,6 +12,14 @@
     ],
     [
       "un cycle des douze années du zodiaque chinois"
+    ],
+    [
+      "un cran supérieur",
+      "une taille supérieure"
+    ],
+    [
+      "une période de sept jours",
+      "une semaine"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,30 @@
+{
+  "seq": 1166870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un aspect",
+      "un côté",
+      "une face"
+    ],
+    [
+      "la totalité de la surface"
+    ],
+    [
+      "un aspect; un côté"
+    ],
+    [
+      "d'un autre côté"
+    ],
+    [
+      "un objet large et plat"
+    ],
+    [
+      "la première page (d'un journal, par exemple)"
+    ],
+    [
+      "(allemand) un miroir; partout; en tous lieux; à tous les coins et recoins; sur tous les pas; très loin; où que l'on regarde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

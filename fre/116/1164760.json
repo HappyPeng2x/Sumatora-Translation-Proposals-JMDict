@@ -17,6 +17,12 @@
     [
       "un coup",
       "une mise"
+    ],
+    [
+      "une armure"
+    ],
+    [
+      "un train"
     ]
   ],
   "model": "qwen3:14b"

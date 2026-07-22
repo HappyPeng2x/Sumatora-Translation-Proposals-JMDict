@@ -1,0 +1,12 @@
+{
+  "seq": 1163750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "véhicule à un seul passager",
+      "embarcation à un seul passager",
+      "aéronef à un seul passager"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

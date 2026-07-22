@@ -1,0 +1,17 @@
+{
+  "seq": 1166810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "veine",
+      "fil (de lien)"
+    ],
+    [
+      "série",
+      "avoir un lien avec",
+      "ressemblance",
+      "similarité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1164690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'autant plus",
+      "plus"
+    ],
+    [
+      "une partie (de discours)"
+    ],
+    [
+      "un paragraphe"
+    ],
+    [
+      "verbe ichidan (conjugaison verbale)"
+    ],
+    [
+      "encore plus loin (du néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

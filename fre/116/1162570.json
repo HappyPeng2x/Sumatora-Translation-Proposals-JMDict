@@ -1,0 +1,15 @@
+{
+  "seq": 1162570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "il y a un certain temps",
+      "autrefois"
+    ],
+    [
+      "autrefois",
+      "jadis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

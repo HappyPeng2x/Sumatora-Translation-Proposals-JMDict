@@ -1,0 +1,16 @@
+{
+  "seq": 1160720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nursery",
+      "jardin de semences",
+      "serre de culture"
+    ],
+    [
+      "lieu de reproduction animale",
+      "centre de sélection génétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

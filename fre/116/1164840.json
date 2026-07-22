@@ -7,6 +7,25 @@
       "pendant un court moment",
       "une fois",
       "un matin"
+    ],
+    [
+      "un court moment",
+      "un bref laps de temps"
+    ],
+    [
+      "pendant la nuit",
+      "durant la nuit"
+    ],
+    [
+      "une fois",
+      "une seule fois"
+    ],
+    [
+      "en cas d'urgence",
+      "si nécessaire"
+    ],
+    [
+      "tous les membres de la cour impériale"
     ]
   ],
   "model": "qwen3:14b"

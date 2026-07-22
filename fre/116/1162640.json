@@ -5,6 +5,10 @@
     [
       "il y a un an",
       "l'année précédente"
+    ],
+    [
+      "il y a deux jours",
+      "la veille de la veille"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,12 @@
+{
+  "seq": 1162390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture unanime",
+      "lecture à l'unisson",
+      "dire la même chose en même temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

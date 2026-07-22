@@ -1,0 +1,15 @@
+{
+  "seq": 1163490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "riposte",
+      "sourire"
+    ],
+    [
+      "moquerie",
+      "ridiculiser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

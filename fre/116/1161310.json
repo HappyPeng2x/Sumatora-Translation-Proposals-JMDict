@@ -10,6 +10,10 @@
       "un combat",
       "une série",
       "un inning"
+    ],
+    [
+      "première mi-temps",
+      "première période de jeu"
     ]
   ],
   "model": "qwen3:14b"

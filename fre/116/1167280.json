@@ -1,0 +1,23 @@
+{
+  "seq": 1167280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une grain de riz",
+      "une goutte",
+      "une perle"
+    ],
+    [
+      "une quantité très petite"
+    ],
+    [
+      "une grain de sel",
+      "une goutte",
+      "une perle"
+    ],
+    [
+      "l'enfant unique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

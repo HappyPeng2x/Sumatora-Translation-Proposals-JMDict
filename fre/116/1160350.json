@@ -5,6 +5,9 @@
     [
       "travail de creusement de puits",
       "personne qui creuse des puits"
+    ],
+    [
+      "ouvrier du puits"
     ]
   ],
   "model": "qwen3:14b"

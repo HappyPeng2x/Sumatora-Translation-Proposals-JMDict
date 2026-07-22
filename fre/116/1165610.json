@@ -13,6 +13,14 @@
     [
       "répétition",
       "récitation d'une prière"
+    ],
+    [
+      "prière courte",
+      "invocation du nom d'Amida"
+    ],
+    [
+      "foi inébranlable",
+      "croyance ferme"
     ]
   ],
   "model": "qwen3:14b"

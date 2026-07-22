@@ -30,6 +30,15 @@
       "le siège principal",
       "la place d'honneur",
       "la tête de la table"
+    ],
+    [
+      "une séance"
+    ],
+    [
+      "un recueil de haïkus"
+    ],
+    [
+      "un siège d'honneur; une place importante; être présent; assister"
     ]
   ],
   "model": "qwen3:14b"

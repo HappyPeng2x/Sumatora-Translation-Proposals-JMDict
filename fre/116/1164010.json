@@ -1,0 +1,24 @@
+{
+  "seq": 1164010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de tous ses efforts",
+      "de toutes ses forces",
+      "très fort"
+    ],
+    [
+      "avec toute sa force; avec tout son cœur; avec toute son énergie; avec une grande détermination"
+    ],
+    [
+      "diligent; zélé; enthousiaste; sérieux; avec tout son cœur"
+    ],
+    [
+      "avec toute sa force; avec tout son cœur; avec toute son énergie; avec une grande détermination; avec une extrême persévérance; désespérément; follement"
+    ],
+    [
+      "diligent; zélé; enthousiaste; sérieux; avec tout son cœur; avec une grande passion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1167090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rôle",
+      "partie",
+      "contribution"
+    ],
+    [
+      "type de rôle",
+      "type de fonction (comme shite; waki; fue; ko-tsuzume; etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

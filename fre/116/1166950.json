@@ -1,0 +1,16 @@
+{
+  "seq": 1166950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aperçu",
+      "coup d'œil",
+      "regard"
+    ],
+    [
+      "vue d'ensemble",
+      "vue aérienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

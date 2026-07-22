@@ -1,0 +1,19 @@
+{
+  "seq": 1165880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "général",
+      "populaire"
+    ],
+    [
+      "ordinaire",
+      "commun",
+      "fréquent",
+      "usuel",
+      "ordinaire",
+      "banal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

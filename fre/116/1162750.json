@@ -10,6 +10,16 @@
     [
       "tâche difficile",
       "travail pénible"
+    ],
+    [
+      "petit travail",
+      "petite tâche",
+      "petite besogne"
+    ],
+    [
+      "travail pénible",
+      "tâche ardue",
+      "besogne difficile"
     ]
   ],
   "model": "qwen3:14b"

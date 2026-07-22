@@ -1,0 +1,32 @@
+{
+  "seq": 1163170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un type (~ de)",
+      "une sorte (~ de)",
+      "une variété (~ de)"
+    ],
+    [
+      "de sorte de",
+      "de genre de",
+      "d'un certain type de"
+    ],
+    [
+      "un peu",
+      "assez",
+      "quelque peu"
+    ],
+    [
+      "de sorte de",
+      "de genre de",
+      "d'un certain type de"
+    ],
+    [
+      "du même genre que",
+      "du même type que",
+      "du même sorte que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

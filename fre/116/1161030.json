@@ -1,0 +1,13 @@
+{
+  "seq": 1161030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "capitaine (dans l'air force japonaise, la garde nationale japonaise) ; lieutenant (grade supérieur, dans la marine de guerre japonaise)"
+    ],
+    [
+      "lieutenant de vaisseau (marine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

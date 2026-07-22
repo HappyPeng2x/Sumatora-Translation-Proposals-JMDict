@@ -1,0 +1,18 @@
+{
+  "seq": 1165690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un montant",
+      "une part"
+    ],
+    [
+      "plus encore",
+      "même plus"
+    ],
+    [
+      "double; deux fois plus; doublement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

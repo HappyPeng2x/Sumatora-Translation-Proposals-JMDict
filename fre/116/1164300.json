@@ -7,6 +7,14 @@
     ],
     [
       "paire (de baguettes)"
+    ],
+    [
+      "un couple de baguettes",
+      "un jeu de baguettes"
+    ],
+    [
+      "une portion individuelle",
+      "une ration pour une personne"
     ]
   ],
   "model": "qwen3:14b"

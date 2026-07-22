@@ -1,0 +1,15 @@
+{
+  "seq": 1162310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une maison",
+      "un ménage"
+    ],
+    [
+      "(néerlandais) un ménage",
+      "un foyer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

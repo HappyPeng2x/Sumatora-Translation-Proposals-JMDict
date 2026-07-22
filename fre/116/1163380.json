@@ -13,6 +13,21 @@
     [
       "se consacrer entièrement à la défense de son territoire",
       "se dévouer corps et âme à la défense de son domaine"
+    ],
+    [
+      "avec ardeur",
+      "avec passion",
+      "avec dévotion"
+    ],
+    [
+      "avec toute sa force",
+      "avec toute son énergie",
+      "avec une extrême intensité"
+    ],
+    [
+      "avec tout son cœur",
+      "avec toute sa volonté",
+      "avec une grande passion"
     ]
   ],
   "model": "qwen3:14b"

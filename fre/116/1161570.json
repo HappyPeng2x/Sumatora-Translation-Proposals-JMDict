@@ -1,0 +1,18 @@
+{
+  "seq": 1161570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cohérence",
+      "consistant (dans ses choix)",
+      "constance"
+    ],
+    [
+      "8.333 livres, soit 3,77 kg (mesure de poids)"
+    ],
+    [
+      "un morceau de sushi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

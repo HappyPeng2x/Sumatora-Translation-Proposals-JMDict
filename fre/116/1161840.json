@@ -1,0 +1,16 @@
+{
+  "seq": 1161840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "premier niveau",
+      "premier classe",
+      "primaire"
+    ],
+    [
+      "première classe",
+      "rang le plus élevé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

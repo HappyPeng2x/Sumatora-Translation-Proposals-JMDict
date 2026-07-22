@@ -1,0 +1,14 @@
+{
+  "seq": 1163000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garde temporaire",
+      "dépôt temporaire"
+    ],
+    [
+      "garde à court terme des bagages"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

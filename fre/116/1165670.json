@@ -1,0 +1,40 @@
+{
+  "seq": 1165670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un verre de"
+    ],
+    [
+      "ivre"
+    ],
+    [
+      "à fond",
+      "au maximum",
+      "plein de"
+    ],
+    [
+      "plein",
+      "à capacité",
+      "au maximum",
+      "autant que possible"
+    ],
+    [
+      "beaucoup",
+      "beaucoup de",
+      "beaucoup de choses"
+    ],
+    [
+      "tout",
+      "toute la",
+      "tous les"
+    ],
+    [
+      "un (calmar, poulpe, crab, etc.)"
+    ],
+    [
+      "un (bateau)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

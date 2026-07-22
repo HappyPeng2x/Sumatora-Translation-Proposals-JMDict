@@ -1,0 +1,23 @@
+{
+  "seq": 1167270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de premier ordre",
+      "excellent"
+    ],
+    [
+      "caractéristique de ; propre à ; unique à"
+    ],
+    [
+      "école (par exemple, d'arrangement de fleurs)"
+    ],
+    [
+      "un drapeau ; un bannière ; un ruban"
+    ],
+    [
+      "un style propre; un style caractéristique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

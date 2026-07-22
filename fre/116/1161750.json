@@ -1,0 +1,17 @@
+{
+  "seq": 1161750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en un seul coup",
+      "en une seule fois",
+      "d'un seul trait"
+    ],
+    [
+      "brusquement",
+      "à la hâte",
+      "sans attendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

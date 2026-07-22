@@ -1,0 +1,16 @@
+{
+  "seq": 1165700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une nuit (d'hôtel)",
+      "une nuitée"
+    ],
+    [
+      "location de courte durée par nuit",
+      "location par nuitée",
+      "location pour une nuit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

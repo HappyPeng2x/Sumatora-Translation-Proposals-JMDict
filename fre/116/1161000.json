@@ -1,0 +1,11 @@
+{
+  "seq": 1161000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un sentiment de soulagement provisoire",
+      "un peu de sérénité momentanée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1167000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "évident",
+      "flagrant",
+      "manifeste",
+      "visible à l'œil nu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

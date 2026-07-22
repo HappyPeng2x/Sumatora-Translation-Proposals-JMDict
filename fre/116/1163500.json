@@ -8,6 +8,13 @@
       "ignorer avec un sourire",
       "mettre de côté avec un sourire",
       "minimiser avec un sourire"
+    ],
+    [
+      "rire de",
+      "sourire de",
+      "ignorer avec un sourire",
+      "mettre de côté avec un sourire",
+      "minimiser avec un sourire"
     ]
   ],
   "model": "qwen3:14b"

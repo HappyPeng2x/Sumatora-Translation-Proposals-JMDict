@@ -1,0 +1,16 @@
+{
+  "seq": 1162450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réflexion",
+      "pensée",
+      "considération"
+    ],
+    [
+      "réflexion",
+      "pensée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

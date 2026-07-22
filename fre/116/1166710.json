@@ -6,6 +6,13 @@
       "une feuille",
       "un morceau",
       "une pièce (fine et plate)"
+    ],
+    [
+      "une personne; un rôle",
+      "un niveau; un rang"
+    ],
+    [
+      "un peu trop grand"
     ]
   ],
   "model": "qwen3:14b"

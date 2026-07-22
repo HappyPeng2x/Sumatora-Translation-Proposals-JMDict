@@ -1,0 +1,23 @@
+{
+  "seq": 1160570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éduquer",
+      "élever",
+      "s'occuper de"
+    ],
+    [
+      "former",
+      "instruire",
+      "éduquer"
+    ],
+    [
+      "promouvoir la croissance de",
+      "nourrir",
+      "élever",
+      "favoriser le développement de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

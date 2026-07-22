@@ -1,0 +1,22 @@
+{
+  "seq": 1161890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un amusement",
+      "un divertissement",
+      "un moment de plaisir"
+    ],
+    [
+      "un petit amusement",
+      "une petite distraction",
+      "une légère occupation"
+    ],
+    [
+      "quelque chose d'incroyable",
+      "quelque chose d'extraordinaire",
+      "quelque chose d'époustouflant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

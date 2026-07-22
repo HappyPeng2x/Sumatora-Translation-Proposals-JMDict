@@ -1,0 +1,13 @@
+{
+  "seq": 1163900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une bourrasque",
+      "un souffle",
+      "une brise",
+      "un coup de vent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

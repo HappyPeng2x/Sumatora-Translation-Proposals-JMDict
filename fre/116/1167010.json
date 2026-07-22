@@ -6,6 +6,9 @@
       "répondre question par question",
       "dialogue question-réponse",
       "interrogatoire par questions successives"
+    ],
+    [
+      "Questions et réponses"
     ]
   ],
   "model": "qwen3:14b"

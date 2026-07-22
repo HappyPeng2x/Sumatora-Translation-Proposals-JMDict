@@ -11,6 +11,11 @@
       "conserveur",
       "préparation en une nuit",
       "fermentation en une nuit"
+    ],
+    [
+      "cramponnage en une nuit",
+      "révision rapide en une seule nuit",
+      "apprentissage en une seule nuit"
     ]
   ],
   "model": "qwen3:14b"

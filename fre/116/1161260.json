@@ -1,0 +1,14 @@
+{
+  "seq": 1161260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une charge",
+      "une quantité transportable"
+    ],
+    [
+      "la charge portée sur une épaule avec une perche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

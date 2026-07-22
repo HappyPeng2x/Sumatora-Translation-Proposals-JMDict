@@ -1,0 +1,19 @@
+{
+  "seq": 1167400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mêmes catégories ; complices ; compagnons"
+    ],
+    [
+      "amis; camarades; personnes partageant les mêmes idées; complices"
+    ],
+    [
+      "la même famille"
+    ],
+    [
+      "le même peuple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

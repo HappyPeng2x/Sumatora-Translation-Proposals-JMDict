@@ -23,6 +23,52 @@
     ],
     [
       "Inde"
+    ],
+    [
+      "signe",
+      "marque",
+      "repère"
+    ],
+    [
+      "symbole",
+      "emblème"
+    ],
+    [
+      "signal",
+      "semaine",
+      "indication"
+    ],
+    [
+      "preuve",
+      "indice",
+      "trace",
+      "manifestation",
+      "symptôme"
+    ],
+    [
+      "preuve",
+      "indice",
+      "témoignage"
+    ],
+    [
+      "mémorial",
+      "relique"
+    ],
+    [
+      "présage",
+      "présage",
+      "présage"
+    ],
+    [
+      "effet",
+      "action",
+      "puissance",
+      "efficacité",
+      "force"
+    ],
+    [
+      "tête coupée",
+      "tête d'ennemi"
     ]
   ],
   "model": "qwen3:14b"

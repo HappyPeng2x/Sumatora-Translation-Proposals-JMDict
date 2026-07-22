@@ -1,0 +1,30 @@
+{
+  "seq": 1161170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en attendant",
+      "en premier lieu",
+      "pour l'instant",
+      "pour le moment",
+      "provisoirement"
+    ],
+    [
+      "provisoirement",
+      "pour l'instant"
+    ],
+    [
+      "par précaution",
+      "au cas où"
+    ],
+    [
+      "une fois",
+      "une seule fois"
+    ],
+    [
+      "d'abord",
+      "en premier lieu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

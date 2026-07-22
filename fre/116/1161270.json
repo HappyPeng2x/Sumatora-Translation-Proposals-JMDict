@@ -1,0 +1,19 @@
+{
+  "seq": 1161270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passage",
+      "dépassement"
+    ],
+    [
+      "regard fugitif",
+      "lecture rapide"
+    ],
+    [
+      "instant",
+      "battement de cil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1167120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une histoire courte",
+      "un auteur d'histoires courtes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

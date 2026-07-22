@@ -1,0 +1,81 @@
+{
+  "seq": 1164740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accord",
+      "coïncidence",
+      "cohérence"
+    ],
+    [
+      "conformité",
+      "constance"
+    ],
+    [
+      "coopération"
+    ],
+    [
+      "accord",
+      "approbation"
+    ],
+    [
+      "s'accorder",
+      "concorder",
+      "être d'accord",
+      "être en harmonie",
+      "correspondre"
+    ],
+    [
+      "s'accorder",
+      "coïncider",
+      "être congruent"
+    ],
+    [
+      "unanimement d'accord"
+    ],
+    [
+      "harmonieux",
+      "équilibré"
+    ],
+    [
+      "être d'accord",
+      "s'accorder",
+      "penser de la même façon",
+      "être de même avis",
+      "être d'accord sur un point",
+      "être d'accord avec quelqu'un",
+      "être d'accord sur une question",
+      "être d'accord sur une idée"
+    ],
+    [
+      "correspondre",
+      "répondre à",
+      "s'accorder",
+      "harmoniser",
+      "correspondre",
+      "convenir",
+      "être en accord",
+      "coïncider",
+      "correspondre",
+      "être identique",
+      "recouvrir",
+      "être compatible",
+      "coïncider",
+      "être en accord",
+      "être en accord",
+      "être en accord",
+      "être en accord",
+      "être en accord",
+      "être en accord"
+    ],
+    [
+      "collaborer",
+      "s'associer",
+      "travailler ensemble",
+      "agir ensemble",
+      "prendre des mesures communes",
+      "mettre les mains dans la même affaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

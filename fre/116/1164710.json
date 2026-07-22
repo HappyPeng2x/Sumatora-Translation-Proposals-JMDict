@@ -1,0 +1,18 @@
+{
+  "seq": 1164710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pause"
+    ],
+    [
+      "paragraphe"
+    ],
+    [
+      "moment de repos",
+      "fin d'une phase",
+      "atteindre un point de repos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

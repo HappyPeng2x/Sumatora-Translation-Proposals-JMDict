@@ -1,0 +1,22 @@
+{
+  "seq": 1164810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un quire (de papier)"
+    ],
+    [
+      "une tatami"
+    ],
+    [
+      "un livre broché"
+    ],
+    [
+      "un paravent; un panneau"
+    ],
+    [
+      "un rideau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

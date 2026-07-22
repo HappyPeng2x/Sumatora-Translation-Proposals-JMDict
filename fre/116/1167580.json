@@ -6,6 +6,9 @@
       "partie d'un discours",
       "section",
       "scène"
+    ],
+    [
+      "raconter une histoire longue et détaillée"
     ]
   ],
   "model": "qwen3:14b"

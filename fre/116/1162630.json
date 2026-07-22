@@ -8,6 +8,13 @@
       "de manière remarquable",
       "de façon notable",
       "très visiblement"
+    ],
+    [
+      "classe"
+    ],
+    [
+      "tendance",
+      "dimension"
     ]
   ],
   "model": "qwen3:14b"

@@ -13,6 +13,14 @@
       "liste",
       "tableau",
       "catalogue"
+    ],
+    [
+      "aperçu",
+      "vue d'ensemble",
+      "lecture rapide",
+      "lecture sommaire",
+      "examen rapide",
+      "vue rapide"
     ]
   ],
   "model": "qwen3:14b"

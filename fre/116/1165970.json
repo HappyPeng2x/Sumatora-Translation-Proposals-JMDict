@@ -1,0 +1,55 @@
+{
+  "seq": 1165970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le numéro un",
+      "le plus"
+    ],
+    [
+      "un événement",
+      "un tour (jeu, épreuve sportive)",
+      "une épreuve (sportive)"
+    ],
+    [
+      "match",
+      "tour",
+      "manche"
+    ],
+    [
+      "expérimentalement",
+      "en tant qu'essai",
+      "tentativement"
+    ],
+    [
+      "chanson",
+      "œuvre",
+      "pièce"
+    ],
+    [
+      "(allemand) un morceau",
+      "(néerlandais) le plus ...; le ...-st"
+    ],
+    [
+      "(allemand) extrêmement",
+      "très"
+    ],
+    [
+      "(allemand) le mieux",
+      "le plus"
+    ],
+    [
+      "(allemand) expérimentalement",
+      "tentativement"
+    ],
+    [
+      "(allemand) résolument",
+      "décidément"
+    ],
+    [
+      "(allemand) d'abord",
+      "initialement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1164030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pile"
+    ],
+    [
+      "la quantité de nourriture dans un plat rempli"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -8,6 +8,19 @@
       "pleinement développé",
       "qualifié",
       "compétent"
+    ],
+    [
+      "indépendant",
+      "autonome"
+    ],
+    [
+      "une fois",
+      "indépendance"
+    ],
+    [
+      "comme un autre",
+      "moyen",
+      "ordinaire"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1161690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une vie entière",
+      "la durée de vie"
+    ],
+    [
+      "l'heure de la mort",
+      "le terme de la vie",
+      "le moment final de la vie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

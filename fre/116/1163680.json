@@ -5,6 +5,11 @@
     [
       "personnel (affaires, raisons, etc.)",
       "propre (affaires, raisons, etc.)"
+    ],
+    [
+      "intérêt personnel",
+      "motif personnel",
+      "raison privée"
     ]
   ],
   "model": "qwen3:14b"

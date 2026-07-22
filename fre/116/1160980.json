@@ -1,0 +1,19 @@
+{
+  "seq": 1160980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une poignée"
+    ],
+    [
+      "petite quantité de",
+      "petit nombre de"
+    ],
+    [
+      "écrasement",
+      "dénigrement",
+      "affrontement facile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

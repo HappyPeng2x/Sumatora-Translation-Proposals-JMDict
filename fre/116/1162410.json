@@ -1,0 +1,23 @@
+{
+  "seq": 1162410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pas du tout"
+    ],
+    [
+      "du tout",
+      "pas du tout",
+      "nullement"
+    ],
+    [
+      "fermement",
+      "désespérément",
+      "avec détermination"
+    ],
+    [
+      "Jōdo Shinshū"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

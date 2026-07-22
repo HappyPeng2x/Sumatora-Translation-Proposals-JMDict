@@ -1,0 +1,17 @@
+{
+  "seq": 1161070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre"
+    ],
+    [
+      "membre du personnel",
+      "employé d'une entreprise"
+    ],
+    [
+      "fonctionnaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

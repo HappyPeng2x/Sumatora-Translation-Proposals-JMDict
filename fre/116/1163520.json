@@ -19,6 +19,14 @@
       "un incident",
       "un cas",
       "un événement"
+    ],
+    [
+      "une affaire",
+      "un incident",
+      "un cas",
+      "un événement",
+      "une histoire",
+      "le nom d'un empereur japonais (Ichijō; 980-1011)"
     ]
   ],
   "model": "qwen3:14b"

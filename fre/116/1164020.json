@@ -6,6 +6,10 @@
       "prospérité éphémère",
       "floraison passagère",
       "période de succès temporaire"
+    ],
+    [
+      "enfantine fantaisie",
+      "jeu innocent"
     ]
   ],
   "model": "qwen3:14b"

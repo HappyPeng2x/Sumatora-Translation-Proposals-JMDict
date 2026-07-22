@@ -1,0 +1,15 @@
+{
+  "seq": 1165990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "premier coq qui chante",
+      "premier chant de coq"
+    ],
+    [
+      "coq qui chante en premier",
+      "premier cri de coq"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

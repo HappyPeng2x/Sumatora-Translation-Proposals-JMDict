@@ -1,0 +1,17 @@
+{
+  "seq": 1164000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "durant tout une vie",
+      "pendant toute ma vie",
+      "une vie (durée)"
+    ],
+    [
+      "toute sa vie",
+      "durant toute sa vie",
+      "pendant toute sa vie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

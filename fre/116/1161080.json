@@ -1,0 +1,15 @@
+{
+  "seq": 1161080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une cause",
+      "un motif",
+      "un facteur"
+    ],
+    [
+      "cause unique permettant de devenir Bouddha"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

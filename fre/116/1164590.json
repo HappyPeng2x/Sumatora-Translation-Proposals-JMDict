@@ -1,0 +1,32 @@
+{
+  "seq": 1164590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "génération",
+      "vie",
+      "ère"
+    ],
+    [
+      "période de règne",
+      "régence",
+      "ère"
+    ],
+    [
+      "première génération",
+      "époque",
+      "génération"
+    ],
+    [
+      "présence",
+      "époque actuelle",
+      "temps présent"
+    ],
+    [
+      "certaine période",
+      "moment",
+      "durée donnée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1166700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indépendance"
+    ],
+    [
+      "isolement; célibat"
+    ],
+    [
+      "arbre isolé; être autonome; être indépendant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

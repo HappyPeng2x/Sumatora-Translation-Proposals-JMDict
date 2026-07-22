@@ -13,6 +13,30 @@
     ],
     [
       "un coup de pied"
+    ],
+    [
+      "refuser fermement",
+      "rejeter catégoriquement",
+      "décliner avec fermeté",
+      "ne pas accepter"
+    ],
+    [
+      "vaincre facilement",
+      "surmonter sans difficulté",
+      "dominer avec facilité",
+      "mettre hors de portée"
+    ],
+    [
+      "pousser avec le pied",
+      "frapper du pied",
+      "toucher du pied",
+      "donner un coup de pied"
+    ],
+    [
+      "se détourner",
+      "se dégoûter",
+      "se répugner",
+      "se détourner de quelque chose"
     ]
   ],
   "model": "qwen3:14b"

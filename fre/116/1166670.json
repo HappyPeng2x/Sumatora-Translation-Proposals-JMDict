@@ -1,0 +1,27 @@
+{
+  "seq": 1166670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monotone",
+      "monotonous",
+      "ennuyeux",
+      "sans variété"
+    ],
+    [
+      "monotonie"
+    ],
+    [
+      "monotone",
+      "ennuyeux"
+    ],
+    [
+      "ennuyeux",
+      "plat",
+      "déprimant",
+      "dépourvu d'inspiration",
+      "indifférent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

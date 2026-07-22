@@ -1,0 +1,20 @@
+{
+  "seq": 1161280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éphémère",
+      "passager",
+      "fleeting",
+      "momentané"
+    ],
+    [
+      "transitoricité",
+      "courte durée",
+      "temporaire",
+      "éphémère",
+      "passager"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1160660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps de garde d'enfant",
+      "temps de soins d'enfant"
+    ],
+    [
+      "période de garde d'enfant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

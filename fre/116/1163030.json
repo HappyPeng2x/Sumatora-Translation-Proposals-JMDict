@@ -13,6 +13,9 @@
     [
       "linéaire",
       "du premier ordre"
+    ],
+    [
+      "linéaire; du premier degré"
     ]
   ],
   "model": "qwen3:14b"

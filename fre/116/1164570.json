@@ -1,0 +1,20 @@
+{
+  "seq": 1164570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toute une région",
+      "toute une zone"
+    ],
+    [
+      "étendue",
+      "tranche",
+      "zone"
+    ],
+    [
+      "série",
+      "chaîne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

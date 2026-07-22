@@ -1,0 +1,16 @@
+{
+  "seq": 1161730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'un seul coup",
+      "d'un seul trait"
+    ],
+    [
+      "brusquement",
+      "tout à coup",
+      "soudainement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

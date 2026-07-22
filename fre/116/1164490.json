@@ -1,0 +1,20 @@
+{
+  "seq": 1164490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un coup",
+      "un coup de main"
+    ],
+    [
+      "frapper quelqu'un d'un seul coup"
+    ],
+    [
+      "porter un coup"
+    ],
+    [
+      "frapper quelqu'un d'un seul coup pour le tuer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

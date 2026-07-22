@@ -1,0 +1,24 @@
+{
+  "seq": 1164170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complètement",
+      "en totalité",
+      "sans exception",
+      "totalement",
+      "tout"
+    ],
+    [
+      "absolument pas",
+      "pas du tout",
+      "nullement",
+      "sans exception"
+    ],
+    [
+      "rien du tout",
+      "aucunement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

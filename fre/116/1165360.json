@@ -1,0 +1,19 @@
+{
+  "seq": 1165360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une route ; un rayon de lumière"
+    ],
+    [
+      "une art"
+    ],
+    [
+      "une ligne droite; un fil"
+    ],
+    [
+      "l'enseignement du Bouddha; le chemin du Bouddha"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

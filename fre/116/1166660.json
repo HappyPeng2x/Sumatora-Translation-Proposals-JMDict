@@ -11,6 +11,11 @@
     [
       "le seul talent de quelqu'un",
       "la seule spécialité de quelqu'un"
+    ],
+    [
+      "un seul point fort",
+      "un point fort particulier",
+      "une technique spécifique"
     ]
   ],
   "model": "qwen3:14b"

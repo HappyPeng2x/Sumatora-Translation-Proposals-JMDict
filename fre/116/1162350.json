@@ -6,6 +6,9 @@
       "un mot",
       "une parole",
       "une expression"
+    ],
+    [
+      "quelques mots"
     ]
   ],
   "model": "qwen3:14b"

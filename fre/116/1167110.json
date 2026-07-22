@@ -1,0 +1,15 @@
+{
+  "seq": 1167110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "certains soirs",
+      "un soir"
+    ],
+    [
+      "une nuit",
+      "un soir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

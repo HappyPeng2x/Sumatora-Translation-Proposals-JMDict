@@ -6,6 +6,18 @@
       "un chiffre",
       "une colonne",
       "la colonne des unités"
+    ],
+    [
+      "chiffre à un seul chiffre",
+      "nombre compris entre 1 et 9"
+    ],
+    [
+      "premier décennie d'une ère",
+      "dix premières années d'une période historique"
+    ],
+    [
+      "âge inférieur à dix ans",
+      "enfant de moins de dix ans"
     ]
   ],
   "model": "qwen3:14b"

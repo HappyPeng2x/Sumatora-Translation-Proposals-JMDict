@@ -10,6 +10,18 @@
       "voyage",
       "chemin",
       "route droite"
+    ],
+    [
+      "voisin",
+      "sans détour",
+      "en ligne droite",
+      "sans détour",
+      "ferme",
+      "constant",
+      "décidé"
+    ],
+    [
+      "en cours de route"
     ]
   ],
   "model": "qwen3:14b"

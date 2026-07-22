@@ -9,6 +9,9 @@
     [
       "un effort supplémentaire",
       "une dernière tentative"
+    ],
+    [
+      "un cours unique et bref"
     ]
   ],
   "model": "qwen3:14b"

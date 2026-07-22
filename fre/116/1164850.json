@@ -5,6 +5,10 @@
     [
       "en un jour",
       "en un court laps de temps"
+    ],
+    [
+      "simple",
+      "facile"
     ]
   ],
   "model": "qwen3:14b"

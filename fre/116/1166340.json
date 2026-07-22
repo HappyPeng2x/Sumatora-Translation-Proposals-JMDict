@@ -13,6 +13,10 @@
     ],
     [
       "un mon (unité monétaire historique)"
+    ],
+    [
+      "un signe",
+      "un caractère"
     ]
   ],
   "model": "qwen3:14b"

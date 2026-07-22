@@ -13,6 +13,10 @@
     [
       "verset",
       "stanza"
+    ],
+    [
+      "unité de mesure chinoise correspondant à 1000 feuilles de papier",
+      "unité de mesure chinoise correspondant à 1000 feuilles de papier"
     ]
   ],
   "model": "qwen3:14b"

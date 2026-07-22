@@ -1,0 +1,19 @@
+{
+  "seq": 1165270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parent",
+      "enfant",
+      "frère",
+      "sœur"
+    ],
+    [
+      "parent",
+      "enfant",
+      "frère",
+      "sœur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1165630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décider fermement",
+      "prendre une résolution ferme"
+    ],
+    [
+      "décision de suivre la foi bouddhique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

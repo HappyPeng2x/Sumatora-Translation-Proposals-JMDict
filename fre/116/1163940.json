@@ -1,0 +1,42 @@
+{
+  "seq": 1163940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un instant",
+      "un moment",
+      "un peu"
+    ],
+    [
+      "un instant",
+      "un moment",
+      "un peu de temps"
+    ],
+    [
+      "assez",
+      "plutôt",
+      "assez bien"
+    ],
+    [
+      "pas facilement",
+      "pas facile",
+      "pas naturellement"
+    ],
+    [
+      "hey",
+      "allons",
+      "excusez-moi"
+    ],
+    [
+      "merci, mais non",
+      "pas possible",
+      "impossible"
+    ],
+    [
+      "un peu plus qu'une semaine",
+      "un peu plus qu'un mois",
+      "légèrement plus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1162120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "janvier"
+    ],
+    [
+      "premier mois du calendrier lunaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

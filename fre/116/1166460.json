@@ -1,0 +1,20 @@
+{
+  "seq": 1166460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un pas"
+    ],
+    [
+      "étape",
+      "niveau",
+      "degré"
+    ],
+    [
+      "peu",
+      "petite quantité",
+      "petite mesure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

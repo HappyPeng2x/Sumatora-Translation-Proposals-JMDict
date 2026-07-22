@@ -1,0 +1,12 @@
+{
+  "seq": 1163990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'âge d'or de la vie",
+      "le moment le plus intense de la vie",
+      "le zénith de la vie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

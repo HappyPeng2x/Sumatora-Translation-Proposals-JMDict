@@ -1,0 +1,18 @@
+{
+  "seq": 1164260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combat",
+      "match",
+      "affrontement"
+    ],
+    [
+      "jeu",
+      "partie",
+      "rencontre",
+      "confrontation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

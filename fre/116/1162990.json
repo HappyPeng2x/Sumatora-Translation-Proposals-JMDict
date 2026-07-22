@@ -1,0 +1,11 @@
+{
+  "seq": 1162990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paiement unique",
+      "versement en une seule fois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,35 @@
+{
+  "seq": 1162920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un certain temps",
+      "un moment",
+      "une bonne, petite durée"
+    ],
+    [
+      "une fois (autrefois)",
+      "un moment",
+      "une période",
+      "le passé"
+    ],
+    [
+      "une période de deux heures"
+    ],
+    [
+      "un moment",
+      "un peu de temps",
+      "un instant"
+    ],
+    [
+      "autrefois",
+      "il y a un certain temps"
+    ],
+    [
+      "une double heure",
+      "deux heures",
+      "une unité de temps de l'ancienne chronologie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

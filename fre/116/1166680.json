@@ -1,0 +1,19 @@
+{
+  "seq": 1166680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pêche à la canne"
+    ],
+    [
+      "recruter des personnes par des entretiens individuels"
+    ],
+    [
+      "la pêche à l'hameçon"
+    ],
+    [
+      "recruter des personnes par des entretiens individuels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

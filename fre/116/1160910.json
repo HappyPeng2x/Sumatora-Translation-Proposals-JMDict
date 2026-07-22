@@ -10,6 +10,13 @@
       "premier",
       "initial",
       "d'entrée de jeu"
+    ],
+    [
+      "premier",
+      "principal"
+    ],
+    [
+      "monoculier"
     ]
   ],
   "model": "qwen3:14b"

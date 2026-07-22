@@ -1,0 +1,34 @@
+{
+  "seq": 1165790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "général",
+      "ordinaire"
+    ],
+    [
+      "ordinaire",
+      "moyen",
+      "commun",
+      "non distingué"
+    ],
+    [
+      "le même ; pas différent ; comme si"
+    ],
+    [
+      "l'habitude"
+    ],
+    [
+      "général",
+      "universel",
+      "total"
+    ],
+    [
+      "ordinaire",
+      "habituel",
+      "banal",
+      "ordinaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1162700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "document",
+      "obligation"
+    ],
+    [
+      "aveu de dette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -7,6 +7,13 @@
     ],
     [
       "un verre (pour quelqu'un), un petit repas arrosé"
+    ],
+    [
+      "un petit festin",
+      "un petit banquet"
+    ],
+    [
+      "un usage (après la période Muromachi) consistant à offrir des plats et trois coupes de saké à un invité lors d'un banquet"
     ]
   ],
   "model": "qwen3:14b"

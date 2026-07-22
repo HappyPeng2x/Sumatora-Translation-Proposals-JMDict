@@ -1,0 +1,23 @@
+{
+  "seq": 1163770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "âge adulte"
+    ],
+    [
+      "une portion"
+    ],
+    [
+      "pleinement adulte",
+      "établi",
+      "qualifié"
+    ],
+    [
+      "l'âge adulte",
+      "l'autonomie",
+      "une portion complète"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

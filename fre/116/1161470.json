@@ -1,0 +1,22 @@
+{
+  "seq": 1161470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ensemble",
+      "groupé",
+      "joint",
+      "lot",
+      "réuni"
+    ],
+    [
+      "rassembler",
+      "en paquet",
+      "en liant",
+      "en faisant un paquet",
+      "résumer",
+      "synthétiser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

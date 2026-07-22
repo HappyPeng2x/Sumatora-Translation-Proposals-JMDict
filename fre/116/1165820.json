@@ -1,0 +1,14 @@
+{
+  "seq": 1165820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comptabilité générale",
+      "finances publiques"
+    ],
+    [
+      "état général (abréviation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

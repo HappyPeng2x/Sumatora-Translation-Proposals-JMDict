@@ -6,6 +6,11 @@
       "avance et recul alternés",
       "alternance d'avance et de recul",
       "mouvement oscillant entre progrès et recul"
+    ],
+    [
+      "fluctuation",
+      "altération",
+      "oscillation entre amélioration et détérioration"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1163700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soi même",
+      "tout seul"
+    ],
+    [
+      "seul",
+      "sans aide",
+      "indépendant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

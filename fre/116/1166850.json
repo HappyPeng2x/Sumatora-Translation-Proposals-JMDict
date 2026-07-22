@@ -7,6 +7,10 @@
     ],
     [
       "un autre nom; un surnom; un pseudonyme"
+    ],
+    [
+      "surnom",
+      "pseudonyme"
     ]
   ],
   "model": "qwen3:14b"

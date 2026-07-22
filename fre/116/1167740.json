@@ -10,6 +10,11 @@
     [
       "talent exceptionnel",
       "personne très douée"
+    ],
+    [
+      "talent exceptionnel",
+      "excellence",
+      "don remarquable"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,13 @@
+{
+  "seq": 1164160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire d'une pierre deux coups"
+    ],
+    [
+      "tuer deux oiseaux avec une seule pierre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

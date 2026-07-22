@@ -1,0 +1,16 @@
+{
+  "seq": 1163370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un tour",
+      "une ronde",
+      "un circuit"
+    ],
+    [
+      "revenir à son point de départ",
+      "retourner à son origine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

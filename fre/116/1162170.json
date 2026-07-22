@@ -1,0 +1,23 @@
+{
+  "seq": 1162170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un coup d'œil",
+      "un regard"
+    ],
+    [
+      "première rencontre"
+    ],
+    [
+      "première rencontre",
+      "premier contact"
+    ],
+    [
+      "apparemment",
+      "visiblement",
+      "à première vue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -8,6 +8,12 @@
       "l'ensemble de l'histoire",
       "toute l'histoire",
       "tout ce qui concerne"
+    ],
+    [
+      "depuis le début jusqu'à la fin",
+      "de A à Z",
+      "de la pointe à la fin",
+      "du début à la fin"
     ]
   ],
   "model": "qwen3:14b"

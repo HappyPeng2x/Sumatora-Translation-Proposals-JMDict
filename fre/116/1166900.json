@@ -4,6 +4,26 @@
   "glosses": [
     [
       "dixième d'un rin"
+    ],
+    [
+      "unité de longueur",
+      "égal à 0; 001 sun ou environ 0; 003 cm"
+    ],
+    [
+      "unité de poids",
+      "égal à 0; 001 monme ou environ 0; 00375 g"
+    ],
+    [
+      "unité de proportion",
+      "égal à un dixième de promille"
+    ],
+    [
+      "unité monétaire",
+      "égal à un dix-milleième de yen"
+    ],
+    [
+      "monoculture",
+      "culture d'un seul type de culture par an"
     ]
   ],
   "model": "qwen3:14b"

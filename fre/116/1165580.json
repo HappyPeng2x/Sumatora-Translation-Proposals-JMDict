@@ -17,6 +17,9 @@
     ],
     [
       "plante annuelle"
+    ],
+    [
+      "année de probation"
     ]
   ],
   "model": "qwen3:14b"

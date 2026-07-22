@@ -11,6 +11,19 @@
       "meilleur élément",
       "meilleur atout",
       "domaine d'expertise"
+    ],
+    [
+      "affiche unique",
+      "panneau d'affichage unique"
+    ],
+    [
+      "vedette",
+      "star de cinéma",
+      "première danseuse"
+    ],
+    [
+      "seule vêture",
+      "unique vêtement"
     ]
   ],
   "model": "qwen3:14b"

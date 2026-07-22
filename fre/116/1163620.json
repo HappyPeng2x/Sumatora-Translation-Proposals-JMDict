@@ -1,0 +1,22 @@
+{
+  "seq": 1163620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réforme",
+      "remaniement",
+      "renouvellement",
+      "restauration"
+    ],
+    [
+      "renouveler",
+      "rénover",
+      "transformer",
+      "refaire",
+      "recommencer à partir de zéro",
+      "faire un grand changement",
+      "faire une réforme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

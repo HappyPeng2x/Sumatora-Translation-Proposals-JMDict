@@ -1,0 +1,33 @@
+{
+  "seq": 1160790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un"
+    ],
+    [
+      "meilleur",
+      "supérieur"
+    ],
+    [
+      "premier",
+      "principal"
+    ],
+    [
+      "début",
+      "commencement"
+    ],
+    [
+      "un (de plusieurs)",
+      "un (parmi plusieurs)"
+    ],
+    [
+      "as",
+      "valet"
+    ],
+    [
+      "corde inférieure (d'un shamisen, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

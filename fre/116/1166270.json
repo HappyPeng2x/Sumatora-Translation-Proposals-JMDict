@@ -8,6 +8,24 @@
       "pour cent",
       "dixième de sun",
       "quart de ryō"
+    ],
+    [
+      "centième"
+    ],
+    [
+      "dixième d'une ancienne monnaie"
+    ],
+    [
+      "une fraction"
+    ],
+    [
+      "un quart d'une pièce d'or ryō"
+    ],
+    [
+      "un quart d'une pièce d'argent ryō"
+    ],
+    [
+      "un documentaliste"
     ]
   ],
   "model": "qwen3:14b"

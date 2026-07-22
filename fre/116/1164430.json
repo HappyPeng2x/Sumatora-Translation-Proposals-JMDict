@@ -12,6 +12,9 @@
     [
       "le fait de sauter (avec les deux pieds ensemble)",
       "le saut (avec les deux pieds ensemble)"
+    ],
+    [
+      "courir vite"
     ]
   ],
   "model": "qwen3:14b"

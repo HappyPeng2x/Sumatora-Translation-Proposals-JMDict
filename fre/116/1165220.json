@@ -1,0 +1,21 @@
+{
+  "seq": 1165220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "20 sur 20 (meilleure note)",
+      "de premier ordre",
+      "le meilleur"
+    ],
+    [
+      "un degré",
+      "un niveau",
+      "une classe"
+    ],
+    [
+      "le mieux",
+      "le plus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

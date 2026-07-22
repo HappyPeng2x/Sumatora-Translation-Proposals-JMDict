@@ -1,0 +1,15 @@
+{
+  "seq": 1163260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une semaine",
+      "un week"
+    ],
+    [
+      "une durée de sept jours à partir d'une date donnée",
+      "par semaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

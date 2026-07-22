@@ -1,0 +1,21 @@
+{
+  "seq": 1167250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "uniforme",
+      "égal",
+      "uniformément"
+    ],
+    [
+      "indifférence aux différences",
+      "égalité"
+    ],
+    [
+      "uniforme",
+      "régulier",
+      "homogène"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

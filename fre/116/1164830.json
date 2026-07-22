@@ -5,6 +5,9 @@
     [
       "tension et relâchement",
       "alternance de tension et de relâchement"
+    ],
+    [
+      "alternance d'efforts et de repos"
     ]
   ],
   "model": "qwen3:14b"

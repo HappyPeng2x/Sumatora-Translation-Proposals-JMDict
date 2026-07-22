@@ -1,0 +1,15 @@
+{
+  "seq": 1162230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monist",
+      "unitaire",
+      "centralisé"
+    ],
+    [
+      "moniste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

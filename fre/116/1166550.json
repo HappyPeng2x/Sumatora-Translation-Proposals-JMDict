@@ -10,6 +10,10 @@
       "unilatéral",
       "à sens unique (comme la communication)",
       "déséquilibré"
+    ],
+    [
+      "partialité",
+      "déséquilibre dans un dialogue"
     ]
   ],
   "model": "qwen3:14b"

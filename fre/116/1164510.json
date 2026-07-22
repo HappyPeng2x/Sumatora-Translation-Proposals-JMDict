@@ -1,0 +1,37 @@
+{
+  "seq": 1164510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un corps",
+      "un objet"
+    ],
+    [
+      "pas possible",
+      "vraiment"
+    ],
+    [
+      "en général"
+    ],
+    [
+      "une image bouddhique",
+      "une sculpture",
+      "un bas-relief"
+    ],
+    [
+      "un cadavre",
+      "un échantillon (d'os, de restes, etc.)"
+    ],
+    [
+      "en général",
+      "globalement",
+      "en moyenne"
+    ],
+    [
+      "strictement parlant",
+      "d'abord",
+      "originellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

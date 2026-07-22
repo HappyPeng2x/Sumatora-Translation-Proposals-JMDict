@@ -15,6 +15,9 @@
       "monopole",
       "faire seul",
       "monopoliser"
+    ],
+    [
+      "le monopole"
     ]
   ],
   "model": "qwen3:14b"

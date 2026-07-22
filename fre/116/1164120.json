@@ -1,0 +1,24 @@
+{
+  "seq": 1164120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un siège",
+      "un festin",
+      "un discours"
+    ],
+    [
+      "le premier rang",
+      "une représentation",
+      "une histoire"
+    ],
+    [
+      "la première place",
+      "la position",
+      "l'honneur",
+      "le chef",
+      "la tête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

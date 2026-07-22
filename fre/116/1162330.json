@@ -1,0 +1,14 @@
+{
+  "seq": 1162330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un regard",
+      "une légère attention",
+      "une considération minimale",
+      "une pensée fugace",
+      "un peu de réflexion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,30 @@
+{
+  "seq": 1166350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne droite",
+      "ligne directe"
+    ],
+    [
+      "le chiffre un",
+      "le chiffre un chinois"
+    ],
+    [
+      "ligne horizontale (d'après la forme du caractère chinois ichi)"
+    ],
+    [
+      "ligne parfaitement droite"
+    ],
+    [
+      "bande située au-dessus et en dessous du papier proprement dit encadré en kakemono (par exemple en soie brodée)"
+    ],
+    [
+      "rideau noir au-dessus de la scène"
+    ],
+    [
+      "protection pour le cou d'une armure de samouraï"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "une édition"
+    ],
+    [
+      "première édition"
     ]
   ],
   "model": "qwen3:14b"

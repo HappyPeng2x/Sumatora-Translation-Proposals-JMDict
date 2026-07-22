@@ -1,0 +1,29 @@
+{
+  "seq": 1162900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un caractère",
+      "un signe"
+    ],
+    [
+      "le caractère japonais 'ichi'"
+    ],
+    [
+      "un caractère tiré du nom personnel d'un seigneur; accordé à un bénéficiaire"
+    ],
+    [
+      "un quart d'une monnaie",
+      "un quart d'unité monétaire"
+    ],
+    [
+      "une somme modeste",
+      "un petit montant"
+    ],
+    [
+      "une heure",
+      "une durée d'une heure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

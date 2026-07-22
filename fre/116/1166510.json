@@ -1,0 +1,55 @@
+{
+  "seq": 1166510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'un autre côté",
+      "un coté",
+      "une direction"
+    ],
+    [
+      "pendant ce temps"
+    ],
+    [
+      "dans un seul sens",
+      "seulement",
+      "uniquement"
+    ],
+    [
+      "continuer à",
+      "tendre à",
+      "être enclin à",
+      "ne faire que",
+      "ne cesser de"
+    ],
+    [
+      "ne faire que",
+      "être enclin à",
+      "tendre à",
+      "ne cesser de",
+      "ne pas cesser de"
+    ],
+    [
+      "un côté",
+      "une région",
+      "une partie",
+      "l'autre côté",
+      "un côté de"
+    ],
+    [
+      "dévotion",
+      "dévouement",
+      "engagement",
+      "consécration",
+      "dévouement"
+    ],
+    [
+      "l'autre",
+      "l'autre côté",
+      "l'autre partie",
+      "l'autre personne",
+      "l'autre aspect"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

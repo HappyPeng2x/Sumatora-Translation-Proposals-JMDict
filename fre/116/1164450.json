@@ -1,0 +1,19 @@
+{
+  "seq": 1164450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un ensemble",
+      "un set"
+    ],
+    [
+      "combinaison",
+      "costume"
+    ],
+    [
+      "série",
+      "ensemble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

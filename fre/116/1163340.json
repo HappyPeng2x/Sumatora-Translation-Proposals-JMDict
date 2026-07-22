@@ -1,0 +1,18 @@
+{
+  "seq": 1163340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un instant",
+      "un moment"
+    ],
+    [
+      "un instant",
+      "un moment",
+      "un court laps de temps",
+      "un éclair de temps",
+      "un battement de cil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

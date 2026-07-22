@@ -7,6 +7,9 @@
       "spectacle solo",
       "performance en solo",
       "théâtre solo"
+    ],
+    [
+      "une action entreprise en croyant pouvoir la mener à bien seul"
     ]
   ],
   "model": "qwen3:14b"

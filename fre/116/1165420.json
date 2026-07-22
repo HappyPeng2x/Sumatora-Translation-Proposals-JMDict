@@ -1,0 +1,15 @@
+{
+  "seq": 1165420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une difficulté",
+      "un danger"
+    ],
+    [
+      "un problème",
+      "une affaire difficile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

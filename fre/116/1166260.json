@@ -17,6 +17,18 @@
     [
       "un moment de répit",
       "une accalmie"
+    ],
+    [
+      "une quantité fixée; dose; tasse de thé; cigarette"
+    ],
+    [
+      "dose de poison"
+    ],
+    [
+      "pause; courte interruption; pause pour fumer; pause pour boire du thé; pause pour boire du café"
+    ],
+    [
+      "marché calme"
     ]
   ],
   "model": "qwen3:14b"

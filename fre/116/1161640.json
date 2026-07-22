@@ -6,6 +6,10 @@
       "un seul morceau",
       "un seul corps",
       "un seul groupe"
+    ],
+    [
+      "une seule balle",
+      "un seul coup de feu"
     ]
   ],
   "model": "qwen3:14b"

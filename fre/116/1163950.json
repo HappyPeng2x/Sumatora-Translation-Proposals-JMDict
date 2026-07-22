@@ -1,0 +1,11 @@
+{
+  "seq": 1163950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'instant présent",
+      "le futur immédiat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

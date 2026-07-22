@@ -12,6 +12,16 @@
       "un coup de pinceau",
       "un trait d'écriture",
       "un trait de kanji"
+    ],
+    [
+      "un terrain",
+      "une parcelle",
+      "un lot",
+      "une zone"
+    ],
+    [
+      "un trait",
+      "un tracé de kanji"
     ]
   ],
   "model": "qwen3:14b"

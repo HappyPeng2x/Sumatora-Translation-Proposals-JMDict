@@ -1,0 +1,13 @@
+{
+  "seq": 1161200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monosyllabe"
+    ],
+    [
+      "mot monosyllabique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

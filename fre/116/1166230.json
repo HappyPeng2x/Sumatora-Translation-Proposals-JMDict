@@ -1,0 +1,18 @@
+{
+  "seq": 1166230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "original",
+      "étrange",
+      "inhabituel",
+      "singulier",
+      "différent"
+    ],
+    [
+      "original",
+      "inhabituell"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

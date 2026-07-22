@@ -5,6 +5,9 @@
     [
       "colonel (JASDF, JGSDF)",
       "capitaine (JMSDF)"
+    ],
+    [
+      "capitaine"
     ]
   ],
   "model": "qwen3:14b"

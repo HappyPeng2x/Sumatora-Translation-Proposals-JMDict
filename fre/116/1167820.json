@@ -1,0 +1,15 @@
+{
+  "seq": 1167820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un plant de riz"
+    ],
+    [
+      "plante de riz cultivée en champ",
+      "riz présent dans les rizières",
+      "riz poussant dans les terrains de culture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

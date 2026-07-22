@@ -16,6 +16,19 @@
       "considérer son adversaire comme un faible",
       "faire de quelqu'un une proie facile",
       "ne pas prendre au sérieux"
+    ],
+    [
+      "un petit verre",
+      "une gorgée",
+      "un coup de langue"
+    ],
+    [
+      "un adversaire facile",
+      "une proie facile"
+    ],
+    [
+      "une proie facile",
+      "une victime facile"
     ]
   ],
   "model": "qwen3:14b"

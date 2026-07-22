@@ -1,0 +1,13 @@
+{
+  "seq": 1164210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tous les êtres vivants"
+    ],
+    [
+      "toutes les personnes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

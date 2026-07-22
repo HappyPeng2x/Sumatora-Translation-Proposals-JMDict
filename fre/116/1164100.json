@@ -1,0 +1,31 @@
+{
+  "seq": 1164100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un navire",
+      "un bateau"
+    ],
+    [
+      "une partie d'un couple",
+      "un navire",
+      "un bateau",
+      "un fond de citerne",
+      "une cuve",
+      "un tonneau",
+      "un réservoir"
+    ],
+    [
+      "l'un des deux",
+      "un poisson",
+      "un oiseau",
+      "un cheval"
+    ],
+    [
+      "une flèche",
+      "un marteau",
+      "un sceau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

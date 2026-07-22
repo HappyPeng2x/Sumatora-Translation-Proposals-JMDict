@@ -1,0 +1,14 @@
+{
+  "seq": 1167520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un peu",
+      "un tout petit peu",
+      "une infime quantité",
+      "une bouchée",
+      "une miette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1166540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trafic unidirectionnel"
+    ],
+    [
+      "rue à sens unique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

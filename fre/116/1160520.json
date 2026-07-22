@@ -1,0 +1,17 @@
+{
+  "seq": 1160520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éducation",
+      "croissance",
+      "développement"
+    ],
+    [
+      "élevage",
+      "éducation",
+      "croissance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

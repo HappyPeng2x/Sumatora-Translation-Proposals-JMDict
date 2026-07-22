@@ -1,0 +1,17 @@
+{
+  "seq": 1163410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélange",
+      "hodgepodge",
+      "pot-pourri",
+      "mélange hétérogène"
+    ],
+    [
+      "désordre",
+      "mélange désordonné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

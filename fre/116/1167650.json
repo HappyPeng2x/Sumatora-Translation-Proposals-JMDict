@@ -1,0 +1,19 @@
+{
+  "seq": 1167650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détourner"
+    ],
+    [
+      "déplaire",
+      "ennuyer",
+      "offenser",
+      "mettre en colère"
+    ],
+    [
+      "manquer (la cible, la balle, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

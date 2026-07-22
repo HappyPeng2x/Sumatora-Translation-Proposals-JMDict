@@ -13,6 +13,12 @@
     ],
     [
       "rouler une fois ; envelopper une fois"
+    ],
+    [
+      "un rouleau"
+    ],
+    [
+      "une seule torsion"
     ]
   ],
   "model": "qwen3:14b"

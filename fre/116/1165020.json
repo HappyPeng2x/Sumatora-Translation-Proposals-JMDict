@@ -1,0 +1,16 @@
+{
+  "seq": 1165020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "têtu",
+      "inflexible",
+      "obstiné"
+    ],
+    [
+      "têtu",
+      "obstiné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

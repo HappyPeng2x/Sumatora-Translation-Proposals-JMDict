@@ -1,0 +1,12 @@
+{
+  "seq": 1164540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Qu'est-ce que",
+      "Pourquoi au monde",
+      "Qui au monde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

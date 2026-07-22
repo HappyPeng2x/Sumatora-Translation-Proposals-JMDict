@@ -1,0 +1,15 @@
+{
+  "seq": 1164550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paire",
+      "couple"
+    ],
+    [
+      "formation d'un couple",
+      "lier en couple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

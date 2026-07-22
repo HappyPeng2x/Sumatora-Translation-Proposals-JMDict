@@ -1,0 +1,15 @@
+{
+  "seq": 1161120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "averse",
+      "pluie légère"
+    ],
+    [
+      "averse",
+      "court épisode de pluie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1165540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unité",
+      "unicité"
+    ],
+    [
+      "impossibilité de séparer",
+      "unité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

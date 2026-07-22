@@ -6,6 +6,16 @@
       "une théorie",
       "une opinion",
       "une autre théorie"
+    ],
+    [
+      "une autre opinion",
+      "une autre idée",
+      "une autre interprétation"
+    ],
+    [
+      "un bruit",
+      "une rumeur",
+      "un ragot"
     ]
   ],
   "model": "qwen3:14b"

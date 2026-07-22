@@ -1,0 +1,20 @@
+{
+  "seq": 1164650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pour l'instant",
+      "pour le moment",
+      "temporairement"
+    ],
+    [
+      "pour un court moment",
+      "pendant un temps bref",
+      "temporairement"
+    ],
+    [
+      "un matin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

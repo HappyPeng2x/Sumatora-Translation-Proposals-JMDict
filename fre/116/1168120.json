@@ -1,0 +1,20 @@
+{
+  "seq": 1168120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sceau",
+      "tampon"
+    ],
+    [
+      "empreinte de sceau"
+    ],
+    [
+      "empreinte officiellement enregistrée d'un tampon de nom"
+    ],
+    [
+      "billet de passage scellé; sorte de billet de passage portant une empreinte de sceau; que l'on devait présenter; par exemple; pour traverser une porte de château"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

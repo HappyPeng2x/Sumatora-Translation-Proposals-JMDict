@@ -1,0 +1,18 @@
+{
+  "seq": 1167560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "main",
+      "une main",
+      "un peu d'aide",
+      "une petite assistance"
+    ],
+    [
+      "main",
+      "aide",
+      "soutien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

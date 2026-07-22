@@ -1,0 +1,11 @@
+{
+  "seq": 1167700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anecdote",
+      "fait curieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

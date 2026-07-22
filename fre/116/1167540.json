@@ -1,0 +1,14 @@
+{
+  "seq": 1167540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un point",
+      "un degré"
+    ],
+    [
+      "un tour; une ruse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

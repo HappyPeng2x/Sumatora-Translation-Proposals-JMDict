@@ -1,0 +1,36 @@
+{
+  "seq": 1163400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ensemble"
+    ],
+    [
+      "morceau unique",
+      "mélange",
+      "même catégorie"
+    ],
+    [
+      "identique",
+      "pareil"
+    ],
+    [
+      "en même temps"
+    ],
+    [
+      "similarité",
+      "homogénéité"
+    ],
+    [
+      "accompagner",
+      "suivre",
+      "venir avec"
+    ],
+    [
+      "d'un seul coup",
+      "en une seule fois",
+      "tout de suite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

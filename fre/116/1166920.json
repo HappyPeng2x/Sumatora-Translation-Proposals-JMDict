@@ -1,0 +1,16 @@
+{
+  "seq": 1166920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récupération totale",
+      "saisie globale",
+      "arrestation en masse"
+    ],
+    [
+      "une grande prise",
+      "dénonciation d'une bande criminelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

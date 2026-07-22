@@ -1,0 +1,12 @@
+{
+  "seq": 1161500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mode par lot",
+      "mode de traitement en bloc",
+      "style par lot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
