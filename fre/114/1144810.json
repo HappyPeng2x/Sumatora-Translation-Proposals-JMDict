@@ -6,6 +6,9 @@
       "membre régulier",
       "joueur régulier (d'une équipe)",
       "invité régulier (d'une émission de télévision)"
+    ],
+    [
+      "joueur titulaire"
     ]
   ],
   "model": "qwen3:14b"

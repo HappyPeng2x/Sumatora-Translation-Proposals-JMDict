@@ -1,0 +1,21 @@
+{
+  "seq": 1150140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "a pitié de",
+      "sympathiser avec"
+    ],
+    [
+      "apprecier la beauté de",
+      "admirer",
+      "apprécier"
+    ],
+    [
+      "louer",
+      "priser",
+      "porter un grand respect à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

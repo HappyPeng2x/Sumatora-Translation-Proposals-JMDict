@@ -18,6 +18,12 @@
       "traiter comme",
       "traiter en",
       "considérer comme"
+    ],
+    [
+      "soins; assistance médicale"
+    ],
+    [
+      "médiation"
     ]
   ],
   "model": "qwen3:14b"

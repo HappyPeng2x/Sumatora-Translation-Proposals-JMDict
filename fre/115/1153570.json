@@ -1,0 +1,19 @@
+{
+  "seq": 1153570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fil coloré",
+      "fil de couleur",
+      "fil de la marelle",
+      "fil de heddle"
+    ],
+    [
+      "fil de heddle (néerlandais)"
+    ],
+    [
+      "fil coloré (néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

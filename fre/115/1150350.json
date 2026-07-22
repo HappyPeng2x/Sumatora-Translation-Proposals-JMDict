@@ -1,0 +1,19 @@
+{
+  "seq": 1150350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "condoléances",
+      "peine",
+      "regret"
+    ],
+    [
+      "condoléances",
+      "compassion",
+      "partage de la peine",
+      "expression de condoléances",
+      "manifestation de sympathie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

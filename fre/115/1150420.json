@@ -1,0 +1,16 @@
+{
+  "seq": 1150420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charmant",
+      "ravissant"
+    ],
+    [
+      "pitiéable",
+      "désespérant",
+      "miserable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

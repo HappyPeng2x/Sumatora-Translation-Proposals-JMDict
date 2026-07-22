@@ -6,6 +6,9 @@
       "lieu",
       "position",
       "emplacement"
+    ],
+    [
+      "lieu de tournage en extérieur"
     ]
   ],
   "model": "qwen3:14b"

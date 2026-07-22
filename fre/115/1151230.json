@@ -1,0 +1,14 @@
+{
+  "seq": 1151230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mal"
+    ],
+    [
+      "le méchant",
+      "le vilain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

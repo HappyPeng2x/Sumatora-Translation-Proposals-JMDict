@@ -1,0 +1,17 @@
+{
+  "seq": 1149930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épigone",
+      "imitateur",
+      "suiveur"
+    ],
+    [
+      "adepte",
+      "partisan",
+      "disciple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

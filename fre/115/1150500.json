@@ -1,0 +1,16 @@
+{
+  "seq": 1150500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfants",
+      "fruit de l'amour"
+    ],
+    [
+      "fruit de l'amour",
+      "enfant",
+      "descendant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

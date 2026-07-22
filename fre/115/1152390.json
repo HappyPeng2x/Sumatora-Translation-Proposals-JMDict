@@ -5,6 +5,9 @@
     [
       "vieille femme méchante",
       "vieille femme cruelle"
+    ],
+    [
+      "vieille femme malveillante"
     ]
   ],
   "model": "qwen3:14b"

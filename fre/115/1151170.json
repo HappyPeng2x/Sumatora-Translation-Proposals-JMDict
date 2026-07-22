@@ -1,0 +1,13 @@
+{
+  "seq": 1151170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rencontre",
+      "affrontement",
+      "confrontation",
+      "rencontre inattendue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

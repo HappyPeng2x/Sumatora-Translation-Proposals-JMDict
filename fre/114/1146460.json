@@ -1,0 +1,11 @@
+{
+  "seq": 1146460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pied de porc",
+      "jambon de porc en morceaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

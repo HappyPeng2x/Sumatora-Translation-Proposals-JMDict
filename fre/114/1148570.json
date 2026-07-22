@@ -5,6 +5,12 @@
     [
       "Coupe du monde",
       "tournoi international majeur, notamment en football"
+    ],
+    [
+      "championnat du monde",
+      "boccaire du monde",
+      "cup du monde",
+      "WK"
     ]
   ],
   "model": "qwen3:14b"

@@ -6,6 +6,9 @@
       "un seul pas",
       "une seule étape",
       "une seule action"
+    ],
+    [
+      "un type de danse"
     ]
   ],
   "model": "qwen3:14b"

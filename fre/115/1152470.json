@@ -1,0 +1,12 @@
+{
+  "seq": 1152470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "égalité erronée",
+      "égalité mal conçue",
+      "impartialité excessive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

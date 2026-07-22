@@ -6,6 +6,10 @@
       "aile gauche",
       "partie gauche",
       "flanc gauche"
+    ],
+    [
+      "aile gauche du parti politique",
+      "membre de l'aile gauche d'un parti politique"
     ]
   ],
   "model": "qwen3:14b"

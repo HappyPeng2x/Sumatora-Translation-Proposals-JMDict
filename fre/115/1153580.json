@@ -1,0 +1,15 @@
+{
+  "seq": 1153580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "twill (fabric)",
+      "tissu en serge"
+    ],
+    [
+      "(Dutch) keperwever",
+      "ouvrier du tissage (néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

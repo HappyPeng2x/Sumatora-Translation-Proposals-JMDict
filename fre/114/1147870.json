@@ -1,0 +1,20 @@
+{
+  "seq": 1147870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "robot"
+    ],
+    [
+      "poupée articulée",
+      "marionnette",
+      "personnage de façade"
+    ],
+    [
+      "marionnette",
+      "personne manipulée",
+      "maître de la partie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

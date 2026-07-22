@@ -6,6 +6,9 @@
       "longue chance",
       "tir long",
       "chance lointaine"
+    ],
+    [
+      "tir long"
     ]
   ],
   "model": "qwen3:14b"

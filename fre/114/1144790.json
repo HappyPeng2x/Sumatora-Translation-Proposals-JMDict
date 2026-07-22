@@ -1,0 +1,21 @@
+{
+  "seq": 1144790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instantané (café moulu)",
+      "ordinaire (essence)",
+      "régulier"
+    ],
+    [
+      "membre régulier (d'une équipe) ; invité régulier (d'une émission de télévision) ; régulier"
+    ],
+    [
+      "essence régulière"
+    ],
+    [
+      "essence normale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

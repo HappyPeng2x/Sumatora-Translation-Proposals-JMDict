@@ -11,6 +11,16 @@
       "suppression",
       "étouffement",
       "assommement"
+    ],
+    [
+      "écraser à mort",
+      "tuer par écrasement"
+    ],
+    [
+      "étouffer",
+      "étouffement",
+      "suppression",
+      "assommement"
     ]
   ],
   "model": "qwen3:14b"

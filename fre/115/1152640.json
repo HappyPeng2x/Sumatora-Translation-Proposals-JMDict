@@ -1,0 +1,13 @@
+{
+  "seq": 1152640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cruel",
+      "machiavélique",
+      "malveillant",
+      "désagréable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

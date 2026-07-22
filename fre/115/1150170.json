@@ -1,0 +1,15 @@
+{
+  "seq": 1150170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élégie",
+      "chanson triste",
+      "lamentation"
+    ],
+    [
+      "livre des Lamentations (livre de la Bible)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

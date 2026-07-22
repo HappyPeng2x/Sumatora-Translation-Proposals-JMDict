@@ -7,6 +7,17 @@
       "œuvre",
       "production",
       "activité"
+    ],
+    [
+      "œuvre d'art",
+      "pièce de travail"
+    ],
+    [
+      "livre de travail",
+      "conférence mondiale d'administration radiophonique"
+    ],
+    [
+      "travail"
     ]
   ],
   "model": "qwen3:14b"

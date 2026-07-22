@@ -1,0 +1,23 @@
+{
+  "seq": 1152730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poignée de main"
+    ],
+    [
+      "rapprochement",
+      "main jointe",
+      "collaboration"
+    ],
+    [
+      "collaboration",
+      "coopération"
+    ],
+    [
+      "rapprochement",
+      "collaboration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

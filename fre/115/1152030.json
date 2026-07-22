@@ -1,0 +1,11 @@
+{
+  "seq": 1152030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méfiance",
+      "soupçon injuste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

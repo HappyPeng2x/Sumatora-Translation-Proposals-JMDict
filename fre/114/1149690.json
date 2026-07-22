@@ -5,6 +5,9 @@
     [
       "zone sous-arctique",
       "région sous-polaire"
+    ],
+    [
+      "zone subantarctique"
     ]
   ],
   "model": "qwen3:14b"

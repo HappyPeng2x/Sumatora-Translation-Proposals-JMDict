@@ -1,0 +1,51 @@
+{
+  "seq": 1151120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "présentation",
+      "salutation"
+    ],
+    [
+      "discours",
+      "adresse",
+      "parole",
+      "expression"
+    ],
+    [
+      "réponse",
+      "réplique",
+      "retour"
+    ],
+    [
+      "visite de courtoisie",
+      "visite de condoléances",
+      "visite de félicitations"
+    ],
+    [
+      "vengeance",
+      "revenge",
+      "retour de coups"
+    ],
+    [
+      "une belle chose à dire",
+      "une belle remarque"
+    ],
+    [
+      "dialogue",
+      "échange",
+      "discussion"
+    ],
+    [
+      "relation",
+      "lien",
+      "connexion"
+    ],
+    [
+      "intervention",
+      "médiation",
+      "intermédiaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

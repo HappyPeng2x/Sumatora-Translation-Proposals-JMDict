@@ -1,0 +1,12 @@
+{
+  "seq": 1150400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "deuil",
+      "douleur",
+      "lamentation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

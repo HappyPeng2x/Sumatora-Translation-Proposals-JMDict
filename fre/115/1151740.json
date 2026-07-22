@@ -1,0 +1,12 @@
+{
+  "seq": 1151740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "divagations malveillantes",
+      "injures",
+      "mauvaises paroles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

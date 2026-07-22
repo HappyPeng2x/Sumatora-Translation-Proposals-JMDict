@@ -1,0 +1,11 @@
+{
+  "seq": 1148370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partage de travail",
+      "partage d'emplois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

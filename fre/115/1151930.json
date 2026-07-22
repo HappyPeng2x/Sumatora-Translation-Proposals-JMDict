@@ -1,0 +1,17 @@
+{
+  "seq": 1151930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre nuisible",
+      "ouvrage nuisible"
+    ],
+    [
+      "écriture maladroite",
+      "écriture illisible",
+      "griffonnage",
+      "écriture en pattes de mouche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

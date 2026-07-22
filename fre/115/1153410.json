@@ -1,0 +1,31 @@
+{
+  "seq": 1153410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médiation"
+    ],
+    [
+      "médiation",
+      "intercession",
+      "conciliation",
+      "rôle de médiateur"
+    ],
+    [
+      "médiation",
+      "intercession",
+      "soutien",
+      "assistance"
+    ],
+    [
+      "conciliation",
+      "médiation",
+      "règlement de différends"
+    ],
+    [
+      "règlement pacifique d'un conflit",
+      "réconciliation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

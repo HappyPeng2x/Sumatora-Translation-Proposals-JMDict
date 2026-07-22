@@ -1,0 +1,22 @@
+{
+  "seq": 1150120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doleur",
+      "piteux",
+      "mélancolique"
+    ],
+    [
+      "pitoyable",
+      "désespérant",
+      "méritoire de compassion"
+    ],
+    [
+      "sentimental",
+      "pathétique",
+      "mélancolique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

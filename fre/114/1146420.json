@@ -1,0 +1,18 @@
+{
+  "seq": 1146420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "côte de bœuf",
+      "côte de porc"
+    ],
+    [
+      "côte de bœuf",
+      "côte de porc"
+    ],
+    [
+      "côte de porc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

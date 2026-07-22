@@ -1,0 +1,16 @@
+{
+  "seq": 1151940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme fatale"
+    ],
+    [
+      "femme laide"
+    ],
+    [
+      "femme manipulatrice; femme séductrice; sirène"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

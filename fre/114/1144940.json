@@ -1,0 +1,19 @@
+{
+  "seq": 1144940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disque",
+      "record"
+    ],
+    [
+      "n",
+      "record (surtout dans le sport)"
+    ],
+    [
+      "n",
+      "enregistrement (structure de données)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

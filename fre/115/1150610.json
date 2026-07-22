@@ -15,6 +15,9 @@
       "ou",
       "chansons",
       "préférés"
+    ],
+    [
+      "amateur de la poésie et de la chanson"
     ]
   ],
   "model": "qwen3:14b"

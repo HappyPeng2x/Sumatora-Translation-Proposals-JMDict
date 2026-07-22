@@ -1,0 +1,14 @@
+{
+  "seq": 1151510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frisson"
+    ],
+    [
+      "frisson de fièvre",
+      "frisson convulsif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

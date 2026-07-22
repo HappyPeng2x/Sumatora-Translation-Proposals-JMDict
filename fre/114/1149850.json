@@ -1,0 +1,14 @@
+{
+  "seq": 1149850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sapin rouge",
+      "sapin de Californie"
+    ],
+    [
+      "sequoia de Californie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

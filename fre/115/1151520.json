@@ -1,0 +1,12 @@
+{
+  "seq": 1151520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise volonté",
+      "animosité",
+      "antipathie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

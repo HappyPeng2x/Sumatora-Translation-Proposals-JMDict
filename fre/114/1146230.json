@@ -1,0 +1,17 @@
+{
+  "seq": 1146230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rayons X (lit: Rœntgen)"
+    ],
+    [
+      "unité de rayonnement ionisant",
+      "unité de radiation ionisante"
+    ],
+    [
+      "Wilhelm Conrad Röntgen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

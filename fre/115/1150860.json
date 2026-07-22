@@ -1,0 +1,15 @@
+{
+  "seq": 1150860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affection",
+      "amour"
+    ],
+    [
+      "amour sexuel",
+      "attirance envers le sexe opposé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

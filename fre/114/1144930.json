@@ -6,6 +6,21 @@
       "enregistrement",
       "acte d'enregistrer",
       "enregistrement sonore"
+    ],
+    [
+      "enregistrement",
+      "transcription",
+      "registre"
+    ],
+    [
+      "enregistrer",
+      "fixer",
+      "consigner"
+    ],
+    [
+      "noter",
+      "enregistrer",
+      "transcrire"
     ]
   ],
   "model": "qwen3:14b"

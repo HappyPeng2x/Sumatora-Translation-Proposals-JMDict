@@ -9,6 +9,14 @@
     [
       "l'État de Washington",
       "État des États-Unis d'Amérique"
+    ],
+    [
+      "Washington (État des États-Unis d'Amérique)",
+      "Washington (abréviation : Wash.)"
+    ],
+    [
+      "Washington (District de Columbia)",
+      "Washington; D.C.; la capitale des États-Unis d'Amérique"
     ]
   ],
   "model": "qwen3:14b"

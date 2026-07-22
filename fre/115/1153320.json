@@ -1,0 +1,10 @@
+{
+  "seq": 1153320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sentiment d'oppression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

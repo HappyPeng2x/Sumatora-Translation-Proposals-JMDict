@@ -1,0 +1,15 @@
+{
+  "seq": 1150220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gémissement",
+      "lamentation"
+    ],
+    [
+      "voix pleurante",
+      "pleurer de deuil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1151060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caresse",
+      "effleurement",
+      "petit baiser",
+      "toucher tendre",
+      "cajoler",
+      "flatter",
+      "toucher avec douceur",
+      "toucher de manière affectueuse",
+      "toucher de manière sensuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

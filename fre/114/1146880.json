@@ -1,0 +1,15 @@
+{
+  "seq": 1146880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roller",
+      "patin à roulettes"
+    ],
+    [
+      "patinage sur roulettes",
+      "glisser sur des patins à roulettes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

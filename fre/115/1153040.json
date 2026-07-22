@@ -1,0 +1,16 @@
+{
+  "seq": 1153040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compresseur",
+      "presse"
+    ],
+    [
+      "presse à fruits",
+      "presse à légumes",
+      "presse à huile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

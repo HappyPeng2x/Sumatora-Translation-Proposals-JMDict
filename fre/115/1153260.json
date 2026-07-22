@@ -1,0 +1,21 @@
+{
+  "seq": 1153260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écrasant"
+    ],
+    [
+      "submerger",
+      "émouvoir",
+      "impressionner",
+      "remplir d'émotion"
+    ],
+    [
+      "intimider",
+      "effrayer",
+      "menacer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

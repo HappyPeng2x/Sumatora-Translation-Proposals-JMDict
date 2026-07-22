@@ -4,6 +4,9 @@
   "glosses": [
     [
       "Russie"
+    ],
+    [
+      "russe"
     ]
   ],
   "model": "qwen3:14b"

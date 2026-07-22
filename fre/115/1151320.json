@@ -1,0 +1,27 @@
+{
+  "seq": 1151320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruyère",
+      "agitation",
+      "bruit",
+      "tapage"
+    ],
+    [
+      "insulte",
+      "grossièreté",
+      "langage vulgaire",
+      "injure",
+      "outrage",
+      "insulte verbale"
+    ],
+    [
+      "injure",
+      "insulte",
+      "outrage",
+      "déshonneur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

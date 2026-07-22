@@ -1,0 +1,12 @@
+{
+  "seq": 1151340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calomnie",
+      "insulte",
+      "mauvaise parole"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

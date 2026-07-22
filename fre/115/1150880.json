@@ -1,0 +1,23 @@
+{
+  "seq": 1150880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se manquer de quelqu'un",
+      "se séparer avec déplaisir"
+    ],
+    [
+      "regretter la perte de quelque chose",
+      "être triste de la séparation de quelque chose"
+    ],
+    [
+      "attachement",
+      "soin particulier"
+    ],
+    [
+      "mélancolie",
+      "tristesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

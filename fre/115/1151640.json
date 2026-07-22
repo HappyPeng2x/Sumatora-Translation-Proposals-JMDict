@@ -1,0 +1,12 @@
+{
+  "seq": 1151640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garçon malicieux",
+      "meneur de jeu",
+      "enfant turbulent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

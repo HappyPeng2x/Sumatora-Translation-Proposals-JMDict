@@ -1,0 +1,15 @@
+{
+  "seq": 1150050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "2 des enfers bouddhiques",
+      "désordre et désolation absolus",
+      "padémonium"
+    ],
+    [
+      "cri de désespoir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

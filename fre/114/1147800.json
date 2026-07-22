@@ -1,0 +1,17 @@
+{
+  "seq": 1147800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hall (hôtel)"
+    ],
+    [
+      "corridor",
+      "passage"
+    ],
+    [
+      "plaidoyer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

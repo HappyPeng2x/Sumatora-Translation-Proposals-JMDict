@@ -6,6 +6,9 @@
       "regard",
       "vue",
       "apparence"
+    ],
+    [
+      "offre de voyages à l'étranger proposée par JTB et Nippon-Tsūun"
     ]
   ],
   "model": "qwen3:14b"

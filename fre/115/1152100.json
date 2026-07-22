@@ -1,0 +1,10 @@
+{
+  "seq": 1152100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "degré de malignité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

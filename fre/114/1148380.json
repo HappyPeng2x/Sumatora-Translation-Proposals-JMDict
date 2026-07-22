@@ -1,0 +1,16 @@
+{
+  "seq": 1148380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "atelier",
+      "lieu de travail",
+      "salle de réunion"
+    ],
+    [
+      "lieu de travail",
+      "salle de réunion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

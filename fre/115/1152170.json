@@ -1,0 +1,16 @@
+{
+  "seq": 1152170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argent mal gagné",
+      "fausse monnaie"
+    ],
+    [
+      "argent de mauvaise qualité",
+      "argent de valeur inférieure",
+      "monnaie de mauvaise fabrication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

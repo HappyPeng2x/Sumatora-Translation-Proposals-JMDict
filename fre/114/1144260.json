@@ -1,0 +1,15 @@
+{
+  "seq": 1144260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paresseux",
+      "vagabond",
+      "personne sans travail"
+    ],
+    [
+      "lumpenprolétariat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

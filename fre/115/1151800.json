@@ -1,0 +1,15 @@
+{
+  "seq": 1151800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crime",
+      "méchanceté"
+    ],
+    [
+      "malheur",
+      "calamité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

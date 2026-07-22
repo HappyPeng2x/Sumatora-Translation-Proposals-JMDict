@@ -1,0 +1,12 @@
+{
+  "seq": 1151960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se laisser emporter",
+      "aller trop loin",
+      "exagérer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

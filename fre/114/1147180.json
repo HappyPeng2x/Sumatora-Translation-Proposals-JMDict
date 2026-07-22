@@ -1,0 +1,16 @@
+{
+  "seq": 1147180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu",
+      "tournage",
+      "tourné en extérieur"
+    ],
+    [
+      "Loki",
+      "tourné sur place"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

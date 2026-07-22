@@ -4,6 +4,12 @@
   "glosses": [
     [
       "rondo"
+    ],
+    [
+      "danse en cercle"
+    ],
+    [
+      "écriture en cercle"
     ]
   ],
   "model": "qwen3:14b"

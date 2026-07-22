@@ -1,0 +1,11 @@
+{
+  "seq": 1144190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "journaliste spécialisé dans le reportage",
+      "écrivain de documentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

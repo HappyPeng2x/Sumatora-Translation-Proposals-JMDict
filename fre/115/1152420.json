@@ -1,0 +1,18 @@
+{
+  "seq": 1152420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise réputation",
+      "infamie",
+      "mauvaise presse",
+      "critique défavorable"
+    ],
+    [
+      "critique malveillante",
+      "critique hostile",
+      "critique vindicative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

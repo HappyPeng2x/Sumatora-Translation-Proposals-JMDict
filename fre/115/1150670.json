@@ -1,0 +1,26 @@
+{
+  "seq": 1150670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "protection",
+      "soin tendre"
+    ],
+    [
+      "traitement amical",
+      "soins affectueux",
+      "attention affectueuse"
+    ],
+    [
+      "protéger",
+      "préserver",
+      "conserver"
+    ],
+    [
+      "soigner avec tendresse",
+      "traiter avec douceur",
+      "être aimable envers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

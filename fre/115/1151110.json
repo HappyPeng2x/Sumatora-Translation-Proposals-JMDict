@@ -1,0 +1,12 @@
+{
+  "seq": 1151110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réciter avec amour",
+      "réciter avec beaucoup d’affection",
+      "chanter avec tendresse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

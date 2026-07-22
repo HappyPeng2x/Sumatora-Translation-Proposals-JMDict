@@ -1,0 +1,15 @@
+{
+  "seq": 1145390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réception",
+      "accueil",
+      "réception (d'un hôtel)"
+    ],
+    [
+      "réception (d'œuvres d'art)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

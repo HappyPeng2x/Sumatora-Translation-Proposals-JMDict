@@ -1,0 +1,22 @@
+{
+  "seq": 1153080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compression"
+    ],
+    [
+      "condensation",
+      "raccourcissement",
+      "résumé"
+    ],
+    [
+      "compression (de données)",
+      "compression de données"
+    ],
+    [
+      "compression des données"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

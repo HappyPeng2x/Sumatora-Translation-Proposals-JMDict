@@ -1,0 +1,25 @@
+{
+  "seq": 1151820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malveillant",
+      "mauvais"
+    ],
+    [
+      "de mauvaise qualité",
+      "inferieur",
+      "de seconde main"
+    ],
+    [
+      "nature malveillante",
+      "argutie",
+      "qualité défectueuse"
+    ],
+    [
+      "malignité",
+      "bösartigkeit (d'un kyste; etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

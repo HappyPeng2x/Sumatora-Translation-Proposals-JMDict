@@ -1,0 +1,18 @@
+{
+  "seq": 1152070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dangereux",
+      "malin (cancer)",
+      "mauvais",
+      "virulent"
+    ],
+    [
+      "malignant",
+      "dangereux",
+      "nocif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

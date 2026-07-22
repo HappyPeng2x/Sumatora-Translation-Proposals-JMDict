@@ -1,0 +1,24 @@
+{
+  "seq": 1150270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "douleur",
+      "chagrin",
+      "tristesse"
+    ],
+    [
+      "deuil"
+    ],
+    [
+      "genre élogieux"
+    ],
+    [
+      "mineur (dans la musique nō)",
+      "pleurer pour",
+      "pleurer sur",
+      "regretter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1152510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Satan",
+      "démon",
+      "diable",
+      "mauvais esprit"
+    ],
+    [
+      "Satan",
+      "le Diable"
+    ],
+    [
+      "Māra",
+      "esprits maléfiques",
+      "forces néfastes qui entravent le chemin vers l'éveil"
+    ],
+    [
+      "un être très cruel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

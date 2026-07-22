@@ -1,0 +1,16 @@
+{
+  "seq": 1151140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carte de visite",
+      "carte de salutation"
+    ],
+    [
+      "annonce écrite",
+      "message imprimé",
+      "carte de communication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

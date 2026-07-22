@@ -1,0 +1,22 @@
+{
+  "seq": 1152410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvaise écriture",
+      "écriture maladroite"
+    ],
+    [
+      "écriture illisible",
+      "griffonnage",
+      "écriture de médecin",
+      "écriture de cuisinière",
+      "écriture de chat",
+      "écriture de coq",
+      "écriture maladroite",
+      "griffonnages",
+      "griffonnements"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

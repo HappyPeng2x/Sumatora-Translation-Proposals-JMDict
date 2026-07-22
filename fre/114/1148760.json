@@ -11,6 +11,12 @@
       "câble",
       "cordage",
       "câble d'acier"
+    ],
+    [
+      "cordage en acier"
+    ],
+    [
+      "corde métallique"
     ]
   ],
   "model": "qwen3:14b"

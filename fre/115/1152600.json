@@ -1,0 +1,15 @@
+{
+  "seq": 1152600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemin mauvais",
+      "route malaisée"
+    ],
+    [
+      "détour",
+      "chemin tortueux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

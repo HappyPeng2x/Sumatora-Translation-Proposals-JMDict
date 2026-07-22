@@ -16,6 +16,9 @@
       "fixer",
       "attacher",
       "appliquer"
+    ],
+    [
+      "choisir pour quelqu'un"
     ]
   ],
   "model": "qwen3:14b"

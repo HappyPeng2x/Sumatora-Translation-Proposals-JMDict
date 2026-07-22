@@ -1,0 +1,14 @@
+{
+  "seq": 1148920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interjection",
+      "expression de surprise ou d'admiration"
+    ],
+    [
+      "cri aigu d'un animal; comme un chien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

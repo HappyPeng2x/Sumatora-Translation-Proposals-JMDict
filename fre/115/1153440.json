@@ -1,0 +1,64 @@
+{
+  "seq": 1153440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre qqch. en main",
+      "traiter"
+    ],
+    [
+      "gérer",
+      "traiter",
+      "faire face à"
+    ],
+    [
+      "faire fonctionner",
+      "manœuvrer",
+      "utiliser"
+    ],
+    [
+      "commercialiser",
+      "vendre",
+      "traiter (un produit)"
+    ],
+    [
+      "aborder",
+      "traiter",
+      "parler de",
+      "évoquer"
+    ],
+    [
+      "traiter A comme B",
+      "considérer A comme B"
+    ],
+    [
+      "médier",
+      "apaiser",
+      "négocier"
+    ],
+    [
+      "être trop lourd à porter",
+      "être trop difficile à gérer"
+    ],
+    [
+      "ragoter",
+      "colporter des rumeurs",
+      "bavarder"
+    ],
+    [
+      "réconcilier",
+      "apaiser",
+      "mettre en accord"
+    ],
+    [
+      "se tourmenter sur la manière de faire",
+      "se préoccuper de la manière de faire"
+    ],
+    [
+      "jouer avec quelque chose",
+      "manipuler",
+      "faire jouer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

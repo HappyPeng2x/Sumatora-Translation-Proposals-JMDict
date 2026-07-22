@@ -1,0 +1,13 @@
+{
+  "seq": 1150550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fumeur invétéré",
+      "fumeur régulier",
+      "amateur de tabac",
+      "personne qui aime fumer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1151460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "destin funeste",
+      "liaison malheureuse"
+    ],
+    [
+      "amour malheureux",
+      "relation malheureuse",
+      "mariage malheureux"
+    ],
+    [
+      "relation indésirable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

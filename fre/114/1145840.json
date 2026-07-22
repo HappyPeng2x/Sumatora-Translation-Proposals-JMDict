@@ -8,6 +8,20 @@
     [
       "champ de gauche",
       "joueur de champ de gauche"
+    ],
+    [
+      "zone de gauche",
+      "aire de jeu de gauche"
+    ],
+    [
+      "joueur de la zone de gauche",
+      "joueur de champ de gauche"
+    ],
+    [
+      "gauche"
+    ],
+    [
+      "gauche"
     ]
   ],
   "model": "qwen3:14b"

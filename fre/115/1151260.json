@@ -1,0 +1,58 @@
+{
+  "seq": 1151260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grave",
+      "méchant",
+      "mauvais"
+    ],
+    [
+      "mauvais",
+      "de mauvaise qualité",
+      "insuffisant"
+    ],
+    [
+      "mauvais",
+      "mauvais, mauvais en termes moraux"
+    ],
+    [
+      "laid",
+      "non beau"
+    ],
+    [
+      "coupable",
+      "en tort",
+      "à blâmer"
+    ],
+    [
+      "mauvais",
+      "mauvais dans l'exécution d'une tâche"
+    ],
+    [
+      "désavantageux",
+      "non bénéfique"
+    ],
+    [
+      "désolé",
+      "mauvais",
+      "inexcusable"
+    ],
+    [
+      "corrompu",
+      "altéré",
+      "dégradé (aliments)"
+    ],
+    [
+      "désagréable",
+      "négatif",
+      "ennuyeux"
+    ],
+    [
+      "désolant",
+      "pardonnable",
+      "excusable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

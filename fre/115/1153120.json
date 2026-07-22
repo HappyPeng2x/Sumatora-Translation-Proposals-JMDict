@@ -5,6 +5,14 @@
     [
       "compressibilité",
       "rapport de compression"
+    ],
+    [
+      "taux de compression",
+      "rapport de compression"
+    ],
+    [
+      "compressibilité",
+      "coefficient de compressibilité"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1150990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lire avec plaisir",
+      "passion de la lecture"
+    ],
+    [
+      "lire régulièrement; amour de la lecture; plaisir à lire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

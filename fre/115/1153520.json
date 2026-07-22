@@ -1,0 +1,19 @@
+{
+  "seq": 1153520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bonbon",
+      "sucrerie"
+    ],
+    [
+      "sucre de riz",
+      "sucre obtenu à partir de l'amidon du riz, des pommes de terre, etc."
+    ],
+    [
+      "ambre",
+      "jaunâtre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

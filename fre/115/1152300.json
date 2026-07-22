@@ -1,0 +1,12 @@
+{
+  "seq": 1152300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "villain",
+      "scélérat",
+      "malfaiteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -10,6 +10,9 @@
       "origine",
       "ancêtres",
       "ascendance"
+    ],
+    [
+      "origine; descendance; lignée"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1146130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ranger",
+      "chasseur",
+      "garde forestier"
+    ],
+    [
+      "garde forestier",
+      "surveillant de parc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

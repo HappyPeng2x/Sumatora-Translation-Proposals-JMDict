@@ -1,0 +1,11 @@
+{
+  "seq": 1145500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "panda rouge",
+      "panda inférieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

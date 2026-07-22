@@ -5,6 +5,15 @@
     [
       "collier",
       "guirlande"
+    ],
+    [
+      "réalisateur indien-bengali; Satyajit Ray (1921-1992)",
+      "couronne hawaïenne",
+      "Man (photographe-américain)"
+    ],
+    [
+      "Man Ray (peintre et photographe américain; Emmanuel Raveninsky; 1890-1976)",
+      "Satyajit Ray (réalisateur indien-bengali; 1921-1992)"
     ]
   ],
   "model": "qwen3:14b"

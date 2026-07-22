@@ -1,0 +1,14 @@
+{
+  "seq": 1150640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chien affectueux",
+      "chienchien"
+    ],
+    [
+      "amour des chiens; affection pour les chiens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

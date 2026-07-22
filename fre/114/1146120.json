@@ -1,0 +1,10 @@
+{
+  "seq": 1146120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extracteur de cuisine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

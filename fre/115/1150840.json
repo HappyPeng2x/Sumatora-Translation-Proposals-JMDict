@@ -1,0 +1,13 @@
+{
+  "seq": 1150840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surnom affectif"
+    ],
+    [
+      "nom de famille populaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

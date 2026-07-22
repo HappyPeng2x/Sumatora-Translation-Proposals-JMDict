@@ -1,0 +1,14 @@
+{
+  "seq": 1153340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pression",
+      "stress"
+    ],
+    [
+      "pression (politique) ; pression exercée pour forcer quelqu'un à faire quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

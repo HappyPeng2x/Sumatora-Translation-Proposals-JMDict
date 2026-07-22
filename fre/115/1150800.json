@@ -1,0 +1,12 @@
+{
+  "seq": 1150800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanson chantée avec amour",
+      "chant d'amour",
+      "chant affectueux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

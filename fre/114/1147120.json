@@ -1,0 +1,12 @@
+{
+  "seq": 1147120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "connexion",
+      "identification",
+      "accès à un système informatique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

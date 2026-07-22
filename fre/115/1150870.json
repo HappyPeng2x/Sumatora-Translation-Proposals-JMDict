@@ -1,0 +1,16 @@
+{
+  "seq": 1150870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maîtresse",
+      "amante"
+    ],
+    [
+      "femme aimée",
+      "compagne",
+      "chère amie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

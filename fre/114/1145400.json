@@ -8,7 +8,9 @@
     [
       "reçu pour remboursement par l'assurance maladie"
     ],
-    []
+    [
+      "receveur"
+    ]
   ],
   "model": "qwen3:14b"
 }

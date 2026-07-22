@@ -1,0 +1,10 @@
+{
+  "seq": 1148930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "effet visuel de distorsion causé par une variation rapide de luminosité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

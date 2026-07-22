@@ -1,0 +1,11 @@
+{
+  "seq": 1150650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amoureux des chiens",
+      "personne qui aime les chiens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

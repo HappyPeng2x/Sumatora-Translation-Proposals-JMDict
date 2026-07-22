@@ -6,6 +6,11 @@
       "résidence de campagne",
       "cabane de chasse",
       "cabane de montagne"
+    ],
+    [
+      "cabane de montagne",
+      "cabane de ski",
+      "David Lodge (linguiste et écrivain britannique; né en 1935)"
     ]
   ],
   "model": "qwen3:14b"

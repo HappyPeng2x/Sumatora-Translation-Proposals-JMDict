@@ -1,0 +1,19 @@
+{
+  "seq": 1149210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "montagne",
+      "randonnée"
+    ],
+    [
+      "mouvement",
+      "jeunesse"
+    ],
+    [
+      "randonnée",
+      "montagne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1146860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rouleau"
+    ],
+    [
+      "(allemand) rouleau de pavage; (néerlandais) rouleau à chant de chantier (sorte de canari dont le chant roulant)"
+    ],
+    [
+      "(allemand) rouleau de pressage"
+    ],
+    [
+      "(allemand) presse-rouleaux"
+    ],
+    [
+      "(allemand) patin à roulettes"
+    ],
+    [
+      "(allemand) inspection minutieuse ou recherche approfondie; où chaque pierre est retournée; Heinrich Rohrer (physicien suisse; 1933-2013); rôle; rouleau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

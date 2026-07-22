@@ -1,0 +1,13 @@
+{
+  "seq": 1143670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dans le domaine des télécommunications, le routage des données"
+    ],
+    [
+      "direction; orientation d'un itinéraire ou d'un chemin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

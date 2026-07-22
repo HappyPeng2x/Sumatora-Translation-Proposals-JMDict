@@ -12,6 +12,9 @@
       "souffocer (une voix)",
       "réprimer (une émotion)",
       "retenir son souffle"
+    ],
+    [
+      "atténuer (une voix; une émotion)"
     ]
   ],
   "model": "qwen3:14b"

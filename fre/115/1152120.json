@@ -5,6 +5,18 @@
     [
       "voix mauvaise",
       "parole malveillante"
+    ],
+    [
+      "mauvaise réputation",
+      "mauvaise notoriété"
+    ],
+    [
+      "voix vulgaire",
+      "son obscène"
+    ],
+    [
+      "voix annonciatrice de malheur",
+      "son menaçant"
     ]
   ],
   "model": "qwen3:14b"

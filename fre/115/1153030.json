@@ -1,0 +1,18 @@
+{
+  "seq": 1153030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compression",
+      "pression"
+    ],
+    [
+      "compression",
+      "pression",
+      "compaction",
+      "serrage",
+      "soumettre à une pression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

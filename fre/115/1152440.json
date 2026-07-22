@@ -5,6 +5,9 @@
     [
       "femme méchante",
       "femme vicieuse"
+    ],
+    [
+      "femme laide"
     ]
   ],
   "model": "qwen3:14b"

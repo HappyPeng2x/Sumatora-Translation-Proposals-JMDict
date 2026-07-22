@@ -1,0 +1,11 @@
+{
+  "seq": 1148730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "effacement",
+      "dans un film ou une émission de télévision, action de supprimer l'image précédente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "armoire",
       "closet",
       "rangée de vêtements"
+    ],
+    [
+      "ensemble de vêtements que l'on possède"
     ]
   ],
   "model": "qwen3:14b"

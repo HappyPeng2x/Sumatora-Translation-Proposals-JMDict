@@ -1,0 +1,11 @@
+{
+  "seq": 1150010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeune femme élégante",
+      "femme belle et distinguée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

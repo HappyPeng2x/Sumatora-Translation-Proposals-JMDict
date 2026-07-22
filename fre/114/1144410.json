@@ -1,0 +1,10 @@
+{
+  "seq": 1144410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appareil de détection radar utilisé pour mesurer la vitesse d'un objet en mouvement, notamment en police ou en course automobile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

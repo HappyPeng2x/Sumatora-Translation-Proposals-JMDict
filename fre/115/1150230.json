@@ -1,0 +1,12 @@
+{
+  "seq": 1150230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tragique",
+      "histoire",
+      "drame"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1150310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appel",
+      "plainte"
+    ],
+    [
+      "requête",
+      "supplique"
+    ],
+    [
+      "supplier",
+      "prier instamment"
+    ],
+    [
+      "se plaindre",
+      "exprimer ses doléances"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

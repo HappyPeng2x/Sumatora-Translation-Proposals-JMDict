@@ -1,0 +1,11 @@
+{
+  "seq": 1152400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "insulte",
+      "malediction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

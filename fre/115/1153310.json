@@ -1,0 +1,25 @@
+{
+  "seq": 1153310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coercition",
+      "oppression",
+      "pression"
+    ],
+    [
+      "oppression",
+      "suppression"
+    ],
+    [
+      "contrainte",
+      "intimidation"
+    ],
+    [
+      "oppression",
+      "étouffement",
+      "sensation d'étouffement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

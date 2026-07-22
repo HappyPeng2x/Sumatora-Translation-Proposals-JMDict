@@ -1,0 +1,21 @@
+{
+  "seq": 1152720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attraper",
+      "pétrir du sushi",
+      "saisir"
+    ],
+    [
+      "avoir (la solution) ; être la clé ; être la raison"
+    ],
+    [
+      "saisir (le pouvoir) ; tenir (les rênes) ; dominer ; contrôler"
+    ],
+    [
+      "faire (du nigirizushi) ; former (avec les mains) ; presser en forme ; modeler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

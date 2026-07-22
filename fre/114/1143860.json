@@ -1,0 +1,14 @@
+{
+  "seq": 1143860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taxe",
+      "pour",
+      "la",
+      "chambre",
+      "d'hôtel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -14,6 +14,16 @@
       "être pratiquement comme",
       "comme si c'était",
       "ressembler à"
+    ],
+    [
+      "comme si",
+      "exactement comme si",
+      "tellement comme si"
+    ],
+    [
+      "pourtant",
+      "malgré cela",
+      "néanmoins"
     ]
   ],
   "model": "qwen3:14b"

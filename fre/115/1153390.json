@@ -4,6 +4,9 @@
   "glosses": [
     [
       "onde de pression"
+    ],
+    [
+      "onde de compression; onde longitudinale"
     ]
   ],
   "model": "qwen3:14b"

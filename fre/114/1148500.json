@@ -6,6 +6,12 @@
       "avertissement",
       "préavis",
       "mise en garde"
+    ],
+    [
+      "préavis"
+    ],
+    [
+      "remontrance"
     ]
   ],
   "model": "qwen3:14b"

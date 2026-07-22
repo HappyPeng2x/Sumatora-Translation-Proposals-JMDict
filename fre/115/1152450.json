@@ -10,6 +10,9 @@
     [
       "tempête",
       "vents violents"
+    ],
+    [
+      "mauvaise habitude"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,12 @@
+{
+  "seq": 1152620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plaisanterie",
+      "farce",
+      "bêtise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

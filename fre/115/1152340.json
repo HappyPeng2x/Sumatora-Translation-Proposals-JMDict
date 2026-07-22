@@ -1,0 +1,14 @@
+{
+  "seq": 1152340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mauvais chemin",
+      "mauvaise voie"
+    ],
+    [
+      "monde où les êtres vivants doivent prouver leur valeur pour les péchés de leur vie antérieure (surtout l'Enfer; le monde des esprits faméliques et le monde des animaux)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

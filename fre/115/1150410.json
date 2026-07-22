@@ -1,0 +1,31 @@
+{
+  "seq": 1150410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amour"
+    ],
+    [
+      "attachement ; désir ; convoitise"
+    ],
+    [
+      "l'amour agapè"
+    ],
+    [
+      "Irlande"
+    ],
+    [
+      "deuil"
+    ],
+    [
+      "amour physique; passion; désir"
+    ],
+    [
+      "l'amour agapè; l'amour de Dieu envers les humains"
+    ],
+    [
+      "Irlande (abréviation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

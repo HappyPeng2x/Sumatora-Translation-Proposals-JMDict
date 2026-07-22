@@ -5,7 +5,9 @@
     [
       "rosé (vin)"
     ],
-    []
+    [
+      "rose (fleur)"
+    ]
   ],
   "model": "qwen3:14b"
 }

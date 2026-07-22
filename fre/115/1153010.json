@@ -1,0 +1,11 @@
+{
+  "seq": 1153010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écrasement",
+      "action de broyer ou de réduire en poudre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

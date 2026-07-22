@@ -1,0 +1,19 @@
+{
+  "seq": 1150570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre soin de",
+      "chérir",
+      "précier",
+      "trésorer"
+    ],
+    [
+      "caresser",
+      "aimer",
+      "préférer",
+      "apprécier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

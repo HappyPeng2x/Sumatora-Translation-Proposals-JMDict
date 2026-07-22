@@ -5,6 +5,12 @@
     [
       "gris rayé",
       "couleur de robe de cheval gris rayé"
+    ],
+    [
+      "cheval de course",
+      "cheval gris",
+      "cheval de course gris",
+      "cheval de course à robe rayée"
     ]
   ],
   "model": "qwen3:14b"

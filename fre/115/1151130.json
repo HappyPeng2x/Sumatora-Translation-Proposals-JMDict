@@ -1,0 +1,14 @@
+{
+  "seq": 1151130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "visite de courtoisie",
+      "rondes de salutations"
+    ],
+    [
+      "visite de courtoisie du Nouvel An"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

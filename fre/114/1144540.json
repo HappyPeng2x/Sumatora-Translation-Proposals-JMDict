@@ -1,0 +1,17 @@
+{
+  "seq": 1144540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agencement",
+      "disposition",
+      "plan"
+    ],
+    [
+      "plan",
+      "disposition",
+      "agencement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1146810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractères latins",
+      "romanisation"
+    ],
+    [
+      "système de transcrition du japonais en alphabet latin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

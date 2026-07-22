@@ -1,0 +1,17 @@
+{
+  "seq": 1144290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courseur",
+      "conducteur de course",
+      "coureur de course"
+    ],
+    [
+      "véhicule de course",
+      "voiture de course",
+      "bateau de course"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

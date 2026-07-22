@@ -1,0 +1,16 @@
+{
+  "seq": 1145130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caisse (de paiement)"
+    ],
+    [
+      "caissier"
+    ],
+    [
+      "unité de mesure qui suit un numéro de caisse (d'origine néerlandaise)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

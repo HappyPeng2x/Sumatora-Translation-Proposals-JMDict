@@ -1,0 +1,16 @@
+{
+  "seq": 1150360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séparation douloureuse"
+    ],
+    [
+      "adieu triste"
+    ],
+    [
+      "douleur causée par la mort de quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

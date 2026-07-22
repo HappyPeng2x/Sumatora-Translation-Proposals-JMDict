@@ -1,0 +1,23 @@
+{
+  "seq": 1152060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nature malveillante",
+      "licentiousité",
+      "lascivité"
+    ],
+    [
+      "malignité"
+    ],
+    [
+      "laxité",
+      "débauche",
+      "désordonné",
+      "extravagant",
+      "vulgaire",
+      "profondément mauvais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

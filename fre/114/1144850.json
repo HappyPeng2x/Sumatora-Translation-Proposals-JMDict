@@ -1,0 +1,19 @@
+{
+  "seq": 1144850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture",
+      "conférence",
+      "discours"
+    ],
+    [
+      "conférence de presse"
+    ],
+    [
+      "explication",
+      "explication détaillée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

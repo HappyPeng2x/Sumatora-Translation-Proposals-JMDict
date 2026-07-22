@@ -1,0 +1,16 @@
+{
+  "seq": 1148290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrier"
+    ],
+    [
+      "travailleur social"
+    ],
+    [
+      "ouvrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
