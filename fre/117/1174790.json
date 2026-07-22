@@ -1,0 +1,15 @@
+{
+  "seq": 1174790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hygiène"
+    ],
+    [
+      "toilette",
+      "sanitaire",
+      "bathroom"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

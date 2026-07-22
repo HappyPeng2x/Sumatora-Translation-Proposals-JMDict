@@ -1,0 +1,16 @@
+{
+  "seq": 1174390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grand talent"
+    ],
+    [
+      "force",
+      "volonté",
+      "vigueur",
+      "énergie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

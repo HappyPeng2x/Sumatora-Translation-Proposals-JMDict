@@ -1,0 +1,16 @@
+{
+  "seq": 1170010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obscène",
+      "indécent",
+      "lascive",
+      "sale"
+    ],
+    [
+      "obscénité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,15 @@
     [
       "compas",
       "instrument de dessin utilisé pour tracer des cercles ou des arcs de cercle"
+    ],
+    [
+      "lune"
+    ],
+    [
+      "chose ronde; forme circulaire"
+    ],
+    [
+      "globe céleste"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,12 @@
     [
       "entreprise de transport",
       "entreprise de livraison rapide"
+    ],
+    [
+      "entreprise de transport",
+      "entreprise de livraison",
+      "transporteur routier",
+      "conducteur de camion"
     ]
   ],
   "model": "qwen3:14b"

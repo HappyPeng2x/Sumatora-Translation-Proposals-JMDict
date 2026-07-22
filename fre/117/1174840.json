@@ -1,0 +1,15 @@
+{
+  "seq": 1174840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récitation de poésie",
+      "récitation poétique"
+    ],
+    [
+      "écriture de poèmes",
+      "composition poétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

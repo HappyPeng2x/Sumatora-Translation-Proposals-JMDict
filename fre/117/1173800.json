@@ -1,0 +1,23 @@
+{
+  "seq": 1173800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "image",
+      "réflexion"
+    ],
+    [
+      "vidéo; film; image (enregistrée)"
+    ],
+    [
+      "réflexion"
+    ],
+    [
+      "image mentale; représentation mentale"
+    ],
+    [
+      "image mentale; représentation intellectuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

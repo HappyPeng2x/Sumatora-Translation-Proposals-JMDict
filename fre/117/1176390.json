@@ -1,0 +1,24 @@
+{
+  "seq": 1176390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allonger",
+      "différer",
+      "faire (son lit)",
+      "repousser"
+    ],
+    [
+      "reporter",
+      "prolonger"
+    ],
+    [
+      "étendre",
+      "déployer"
+    ],
+    [
+      "faire le lit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

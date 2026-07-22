@@ -1,0 +1,15 @@
+{
+  "seq": 1169530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne chargée de la garde",
+      "prétendant",
+      "garant"
+    ],
+    [
+      "personne ayant un droit sur quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

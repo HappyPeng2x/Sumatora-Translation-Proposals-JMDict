@@ -1,0 +1,18 @@
+{
+  "seq": 1170760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "latent",
+      "caché",
+      "secret",
+      "dans l'ombre"
+    ],
+    [
+      "secret",
+      "caché",
+      "dissimulé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

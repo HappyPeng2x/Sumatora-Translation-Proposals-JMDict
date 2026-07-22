@@ -1,0 +1,14 @@
+{
+  "seq": 1172590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "potin",
+      "rumeur"
+    ],
+    [
+      "conversation sur une personne absente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

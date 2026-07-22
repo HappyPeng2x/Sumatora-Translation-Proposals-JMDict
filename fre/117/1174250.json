@@ -1,0 +1,14 @@
+{
+  "seq": 1174250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "durabilité",
+      "persistance"
+    ],
+    [
+      "persistance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

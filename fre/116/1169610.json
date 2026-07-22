@@ -1,0 +1,25 @@
+{
+  "seq": 1169610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retraite"
+    ],
+    [
+      "se retirer",
+      "vivre en retraité",
+      "mener une vie retirée"
+    ],
+    [
+      "prendre sa retraite",
+      "se retirer de la vie publique",
+      "prendre sa retraite anticipée"
+    ],
+    [
+      "se retirer du monde",
+      "vivre en reclus",
+      "adopter un mode de vie solitaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

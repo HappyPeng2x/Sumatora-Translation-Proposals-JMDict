@@ -1,0 +1,17 @@
+{
+  "seq": 1175140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gare"
+    ],
+    [
+      "poste de relais sur une route, en particulier dans l'ancien Japon",
+      "poste de relais sur une route royale ou une route principale, utilisé autrefois dans le Japon pré-moderne"
+    ],
+    [
+      "compteur pour les gares ferroviaires et les gares routières"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

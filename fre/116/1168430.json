@@ -1,0 +1,14 @@
+{
+  "seq": 1168430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dividendes",
+      "royalties"
+    ],
+    [
+      "droit de timbre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

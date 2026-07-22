@@ -1,0 +1,14 @@
+{
+  "seq": 1173520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "barracke de garde",
+      "barracks de détention"
+    ],
+    [
+      "arrestation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

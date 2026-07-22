@@ -1,0 +1,26 @@
+{
+  "seq": 1169090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arracher",
+      "déraciner",
+      "dévoyer (recruter ailleurs)",
+      "extraire"
+    ],
+    [
+      "séduire",
+      "attirer",
+      "détourner (un employé)"
+    ],
+    [
+      "sélectionner",
+      "choisir avec soin",
+      "attirer par des avantages"
+    ],
+    [
+      "recruter des talents"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

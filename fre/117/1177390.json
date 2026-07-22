@@ -1,0 +1,31 @@
+{
+  "seq": 1177390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "singe"
+    ],
+    [
+      "personne malhonnête"
+    ],
+    [
+      "idiot, rustre"
+    ],
+    [
+      "battant glissant en bois pour maintenir une porte ou une fenêtre fermée"
+    ],
+    [
+      "attache utilisée pour régler la hauteur d'un crochet de pot"
+    ],
+    [
+      "prostituée de bain public"
+    ],
+    [
+      "une sorte de décoration en papier pour dragon"
+    ],
+    [
+      "une sorte de poupée d'ours en peluche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "calendrier lunaire"
+    ],
+    [
+      "calendrier lunaire-solaire"
     ]
   ],
   "model": "qwen3:14b"

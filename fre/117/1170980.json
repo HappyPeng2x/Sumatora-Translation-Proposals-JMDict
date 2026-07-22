@@ -1,0 +1,14 @@
+{
+  "seq": 1170980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poème",
+      "vers"
+    ],
+    [
+      "poème"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

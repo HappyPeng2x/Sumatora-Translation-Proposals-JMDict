@@ -1,0 +1,21 @@
+{
+  "seq": 1176740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "côte",
+      "rivage"
+    ],
+    [
+      "eaux côtières",
+      "zone côtière"
+    ],
+    [
+      "eaux de rivage (d'un fleuve; d'une mer ou d'un océan)"
+    ],
+    [
+      "eaux de la côte (d'un fleuve; d'une mer ou d'un océan)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

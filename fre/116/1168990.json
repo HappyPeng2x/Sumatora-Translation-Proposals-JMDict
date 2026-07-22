@@ -1,0 +1,12 @@
+{
+  "seq": 1168990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attirer",
+      "tirer vers soi",
+      "entraîner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

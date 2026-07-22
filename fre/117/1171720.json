@@ -1,0 +1,12 @@
+{
+  "seq": 1171720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclosion",
+      "métamorphose",
+      "développement des ailes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

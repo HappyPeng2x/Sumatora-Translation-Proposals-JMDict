@@ -7,6 +7,12 @@
       "cruel",
       "cause et effet",
       "résultat d'actions antérieures"
+    ],
+    [
+      "stupidité",
+      "obstination",
+      "insensibilité",
+      "situation malheureuse due au destin"
     ]
   ],
   "model": "qwen3:14b"

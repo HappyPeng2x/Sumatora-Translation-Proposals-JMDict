@@ -1,0 +1,32 @@
+{
+  "seq": 1175380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inspection",
+      "revue"
+    ],
+    [
+      "navigation",
+      "surfage",
+      "parcours",
+      "exploration",
+      "consultation"
+    ],
+    [
+      "lecture",
+      "lecture",
+      "lecteur",
+      "lectura",
+      "lectio"
+    ],
+    [
+      "vue",
+      "vision",
+      "aperçu",
+      "navigation",
+      "surfage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

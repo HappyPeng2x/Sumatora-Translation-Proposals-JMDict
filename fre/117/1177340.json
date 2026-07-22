@@ -1,0 +1,12 @@
+{
+  "seq": 1177340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brume",
+      "brouillard",
+      "smog"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1169390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être encaissé",
+      "ne plus pouvoir sortir",
+      "rester enfermé (à la maison)",
+      "se retirer"
+    ],
+    [
+      "être reculé (par exemple, en arrière d'une route)"
+    ],
+    [
+      "se retirer (du regard public) ; se retirer vers (un endroit) ; rester à l'intérieur ; se désister ; rester à l'écart "
+    ]
+  ],
+  "model": "qwen3:14b"
+}

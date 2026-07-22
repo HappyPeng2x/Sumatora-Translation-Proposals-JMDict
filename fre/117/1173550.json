@@ -1,0 +1,12 @@
+{
+  "seq": 1173550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "organisation",
+      "entreprise",
+      "fondation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1174230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "continuation",
+      "pérennité",
+      "permanence"
+    ],
+    [
+      "persistance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

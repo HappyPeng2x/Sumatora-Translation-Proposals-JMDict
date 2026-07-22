@@ -6,6 +6,9 @@
       "corbeau serpent",
       "serpent noir japonais",
       "serpent à collier noir du Japon"
+    ],
+    [
+      "serpents noirs"
     ]
   ],
   "model": "qwen3:14b"

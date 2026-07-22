@@ -1,0 +1,29 @@
+{
+  "seq": 1171270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aile droite (oiseau, armée, parti politique, base-ball)"
+    ],
+    [
+      "aile droite (d'un oiseau ou d'un avion)",
+      "extrémité droite (d'un aile d'avion)"
+    ],
+    [
+      "aile droite (d'une armée, d'un bâtiment, etc.)",
+      "flanc droit"
+    ],
+    [
+      "champ de droit (au baseball)",
+      "joueur de champ de droit (au baseball)"
+    ],
+    [
+      "aile droite (au football, rugby, etc.)"
+    ],
+    [
+      "haute position (académique)",
+      "rang élevé (dans une classe sociale)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -9,6 +9,16 @@
     [
       "personne de talent exceptionnel",
       "génie"
+    ],
+    [
+      "personne exceptionnelle",
+      "personne remarquable",
+      "individu de haut niveau"
+    ],
+    [
+      "âme",
+      "esprit",
+      "âme d'une personne exceptionnelle"
     ]
   ],
   "model": "qwen3:14b"

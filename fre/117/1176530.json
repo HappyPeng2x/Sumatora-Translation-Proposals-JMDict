@@ -1,0 +1,24 @@
+{
+  "seq": 1176530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "différé",
+      "paiement différé"
+    ],
+    [
+      "différé",
+      "paiement différé"
+    ],
+    [
+      "paiement en retard",
+      "livraison en retard"
+    ],
+    [
+      "différé",
+      "sursis de paiement",
+      "moratoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

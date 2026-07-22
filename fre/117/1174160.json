@@ -1,0 +1,14 @@
+{
+  "seq": 1174160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résidence permanente"
+    ],
+    [
+      "résidence permanente",
+      "état d'être installé définitivement dans un lieu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

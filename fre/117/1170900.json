@@ -7,6 +7,14 @@
     ],
     [
       "cachet ; dissimulation ; cachotterie"
+    ],
+    [
+      "cachotterie",
+      "dissimulation"
+    ],
+    [
+      "annihilation",
+      "disparition"
     ]
   ],
   "model": "qwen3:14b"

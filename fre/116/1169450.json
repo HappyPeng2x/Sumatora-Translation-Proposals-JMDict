@@ -6,6 +6,9 @@
       "tirer hors",
       "extraire",
       "attirer dehors"
+    ],
+    [
+      "forcer qn à faire qch"
     ]
   ],
   "model": "qwen3:14b"

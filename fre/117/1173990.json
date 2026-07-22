@@ -1,0 +1,14 @@
+{
+  "seq": 1173990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nourriture",
+      "nutrition"
+    ],
+    [
+      "valeur nutritive; richesse en nutriments"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -13,6 +13,11 @@
     [
       "prendre soin de",
       "s'occuper de"
+    ],
+    [
+      "devenir moine",
+      "devenir prêtre",
+      "entrer en religion"
     ]
   ],
   "model": "qwen3:14b"

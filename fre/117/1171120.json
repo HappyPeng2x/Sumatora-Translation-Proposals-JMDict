@@ -1,0 +1,15 @@
+{
+  "seq": 1171120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "main droite"
+    ],
+    [
+      "droite",
+      "côté droit",
+      "direction à droite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

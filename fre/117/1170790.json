@@ -1,0 +1,19 @@
+{
+  "seq": 1170790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cacher",
+      "dissimulation"
+    ],
+    [
+      "cacher un crime",
+      "dissimuler",
+      "taire",
+      "cacher quelque chose",
+      "enfouir",
+      "cacher un secret"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

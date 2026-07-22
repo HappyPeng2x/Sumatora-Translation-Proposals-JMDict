@@ -1,0 +1,15 @@
+{
+  "seq": 1176010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "colonne",
+      "cylindre"
+    ],
+    [
+      "pilier circulaire",
+      "pilier rond (surtout dans les bâtiments)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,36 @@
+{
+  "seq": 1174340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nager"
+    ],
+    [
+      "se frayer un chemin parmi",
+      "se frayer un chemin à travers"
+    ],
+    [
+      "s'en sortir",
+      "savoir s'en tirer",
+      "avancer dans la vie"
+    ],
+    [
+      "vaciller",
+      "perdre l'équilibre",
+      "trébucher"
+    ],
+    [
+      "se livrer aux excès du quartier de la joie",
+      "s'abandonner aux plaisirs du quartier de la joie"
+    ],
+    [
+      "vendre des marchandises volées",
+      "revendre des objets dérobés"
+    ],
+    [
+      "préparer un lieu pour un vol",
+      "repérer un endroit propice à un vol"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

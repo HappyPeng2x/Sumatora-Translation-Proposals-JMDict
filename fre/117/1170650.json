@@ -1,0 +1,23 @@
+{
+  "seq": 1170650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cacher",
+      "dissimuler"
+    ],
+    [
+      "cacher (un secret); garder (quelque chose) secret; ne pas révéler"
+    ],
+    [
+      "enterrer"
+    ],
+    [
+      "cacher (la vérité); mentir"
+    ],
+    [
+      "ignorer; passer sous silence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

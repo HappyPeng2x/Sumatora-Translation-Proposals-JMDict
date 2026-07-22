@@ -1,0 +1,11 @@
+{
+  "seq": 1168780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parent par alliance",
+      "proche parent par mariage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

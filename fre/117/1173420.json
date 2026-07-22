@@ -1,0 +1,29 @@
+{
+  "seq": 1173420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diriger (cérémonie, compagnie)"
+    ],
+    [
+      "mener",
+      "exécuter",
+      "faire"
+    ],
+    [
+      "célébrer",
+      "tenir",
+      "faire"
+    ],
+    [
+      "préparer",
+      "cuisiner"
+    ],
+    [
+      "tenir",
+      "faire",
+      "organiser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

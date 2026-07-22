@@ -1,0 +1,14 @@
+{
+  "seq": 1170610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "secret",
+      "secrétion",
+      "discrétion",
+      "confidence",
+      "cachotterie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

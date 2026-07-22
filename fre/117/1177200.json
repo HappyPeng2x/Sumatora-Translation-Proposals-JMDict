@@ -1,0 +1,21 @@
+{
+  "seq": 1177200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(ambiance) désagréable",
+      "gêné par la fumée"
+    ],
+    [
+      "embarrassé",
+      "mal à l'aise",
+      "gêné"
+    ],
+    [
+      "avoir peur de quelqu'un",
+      "se sentir intimidé",
+      "se sentir restreint"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1174950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'âpre extrémité",
+      "le point le plus dur"
+    ],
+    [
+      "argument tranchant",
+      "remarque vive",
+      "une volée de bois dormant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

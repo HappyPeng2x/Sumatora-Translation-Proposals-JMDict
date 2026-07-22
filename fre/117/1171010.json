@@ -1,0 +1,31 @@
+{
+  "seq": 1171010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droite"
+    ],
+    [
+      "main droite"
+    ],
+    [
+      "celui qui est mentionné plus haut (dans un texte écrit verticalement de droite à gauche)"
+    ],
+    [
+      "le droit (parti politique) ; le droitiste"
+    ],
+    [
+      "le meilleur (des deux)"
+    ],
+    [
+      "le précédent (dans un texte écrit verticalement de droite à gauche)"
+    ],
+    [
+      "la droite; les droite; le flanc droit d'un parti"
+    ],
+    [
+      "flanc droit; aile droite; droite; à droite; à la droite; à la main droite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

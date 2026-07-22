@@ -5,6 +5,9 @@
     [
       "impôt commercial de l'époque d'Edo",
       "taxe commerciale de l'époque d'Edo"
+    ],
+    [
+      "impôt professionnel de l'époque d'Edo"
     ]
   ],
   "model": "qwen3:14b"

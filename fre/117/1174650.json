@@ -6,6 +6,9 @@
       "Angleterre et États-Unis",
       "Royaume-Uni et Amérique",
       "anglo-américain"
+    ],
+    [
+      "Anglo-américain"
     ]
   ],
   "model": "qwen3:14b"

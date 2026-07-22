@@ -1,0 +1,14 @@
+{
+  "seq": 1176570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plainte",
+      "murmure"
+    ],
+    [
+      "voix accusatrice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

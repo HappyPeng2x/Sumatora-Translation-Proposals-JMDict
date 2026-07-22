@@ -1,0 +1,54 @@
+{
+  "seq": 1175300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépasser",
+      "passer (au delà, au dessus de)",
+      "surpasser",
+      "traverser",
+      "surpasser",
+      "dépasser",
+      "passer (au delà, au dessus de)"
+    ],
+    [
+      "surmonter",
+      "passer au-delà de",
+      "traverser"
+    ],
+    [
+      "passez le temps",
+      "passer une saison"
+    ],
+    [
+      "dépasser",
+      "surpasser",
+      "excéder"
+    ],
+    [
+      "changer de domicile",
+      "emménager ailleurs"
+    ],
+    [
+      "aller",
+      "venir",
+      "se déplacer"
+    ],
+    [
+      "surmonter",
+      "passer au-delà",
+      "traverser"
+    ],
+    [
+      "changer de lieu de résidence",
+      "déplacer son domicile",
+      "changer d'adresse"
+    ],
+    [
+      "aller",
+      "venir",
+      "se déplacer (avec politesse)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

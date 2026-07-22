@@ -1,0 +1,15 @@
+{
+  "seq": 1172530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écurie",
+      "bâtiment où l'on garde les chevaux"
+    ],
+    [
+      "étable",
+      "bâtiment où l'on garde les vaches"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

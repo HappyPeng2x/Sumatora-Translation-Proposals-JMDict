@@ -13,6 +13,13 @@
     [
       "humide et sombre",
       "sombre et humide"
+    ],
+    [
+      "humidité et obscurité",
+      "pénombre et humidité"
+    ],
+    [
+      "malice; bassesse; perfidie"
     ]
   ],
   "model": "qwen3:14b"

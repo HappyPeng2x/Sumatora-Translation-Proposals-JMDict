@@ -1,0 +1,20 @@
+{
+  "seq": 1173430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être ouvert (magasin)",
+      "business",
+      "management"
+    ],
+    [
+      "activité commerciale",
+      "vente"
+    ],
+    [
+      "métier",
+      "profession"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

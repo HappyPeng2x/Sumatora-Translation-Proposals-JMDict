@@ -10,6 +10,9 @@
       "bottes en caoutchouc",
       "surchaussures",
       "galoches"
+    ],
+    [
+      "surchaussure"
     ]
   ],
   "model": "qwen3:14b"

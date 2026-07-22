@@ -11,6 +11,11 @@
       "doux",
       "mild",
       "velouté (d'un goût, d'une voix, etc.)"
+    ],
+    [
+      "doux",
+      "mild",
+      "velouté (d'un son)"
     ]
   ],
   "model": "qwen3:14b"

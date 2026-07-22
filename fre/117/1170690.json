@@ -1,0 +1,28 @@
+{
+  "seq": 1170690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retraite"
+    ],
+    [
+      "retraité"
+    ],
+    [
+      "abdication du chef de famille (avant la Seconde Guerre mondiale)",
+      "abdication",
+      "renonciation"
+    ],
+    [
+      "emprisonnement à domicile",
+      "confinement à domicile",
+      "isolement à la maison"
+    ],
+    [
+      "retrait de la vie sociale",
+      "éloignement du monde",
+      "détachement du monde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

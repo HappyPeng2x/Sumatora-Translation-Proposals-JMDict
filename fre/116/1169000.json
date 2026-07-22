@@ -1,0 +1,53 @@
+{
+  "seq": 1169000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trainer (sur le sol)"
+    ],
+    [
+      "traîner (quelqu'un) en arrière",
+      "forcer (quelqu'un) à avancer"
+    ],
+    [
+      "prolonger",
+      "étirer dans le temps"
+    ],
+    [
+      "influencer",
+      "persuader",
+      "attirer",
+      "séduire"
+    ],
+    [
+      "arracher",
+      "tirer"
+    ],
+    [
+      "forcer quelqu'un"
+    ],
+    [
+      "prolonger"
+    ],
+    [
+      "influencer fortement",
+      "séduire"
+    ],
+    [
+      "traîner",
+      "pousser"
+    ],
+    [
+      "forcer quelqu'un"
+    ],
+    [
+      "prolonger",
+      "supporter"
+    ],
+    [
+      "influencer fortement",
+      "séduire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

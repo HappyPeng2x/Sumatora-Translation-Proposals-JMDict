@@ -11,6 +11,9 @@
     ],
     [
       "caractère gravé sur un cachet"
+    ],
+    [
+      "imprimer à la machine à écrire"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,24 @@
+{
+  "seq": 1170820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retrait",
+      "séclusion"
+    ],
+    [
+      "fuir",
+      "se cacher"
+    ],
+    [
+      "retrait du monde",
+      "isolement",
+      "cloître"
+    ],
+    [
+      "fuite",
+      "cachette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

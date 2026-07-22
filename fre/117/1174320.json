@@ -1,0 +1,14 @@
+{
+  "seq": 1174320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sommeil éternel (la mort)"
+    ],
+    [
+      "décès",
+      "morte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

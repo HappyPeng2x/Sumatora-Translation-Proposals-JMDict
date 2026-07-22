@@ -1,0 +1,19 @@
+{
+  "seq": 1174530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lettre latine",
+      "caractère alphabétique"
+    ],
+    [
+      "lettre romaine",
+      "écriture latine",
+      "alphabet"
+    ],
+    [
+      "texte anglais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

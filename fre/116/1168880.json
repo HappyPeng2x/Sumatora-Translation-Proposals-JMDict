@@ -1,0 +1,21 @@
+{
+  "seq": 1168880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "causer",
+      "entrainer"
+    ],
+    [
+      "lever (quelqu'un qui est tombé)",
+      "aider à se relever"
+    ],
+    [
+      "redonner vie (à quelque chose)",
+      "donner un nouveau souffle",
+      "faire renaître",
+      "faire reprendre vie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

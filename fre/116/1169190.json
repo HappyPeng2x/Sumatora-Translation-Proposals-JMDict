@@ -1,0 +1,16 @@
+{
+  "seq": 1169190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écarter l'un de l'autre",
+      "séparer"
+    ],
+    [
+      "prendre une longueur d'avance sur",
+      "avoir un avantage sur",
+      "dépasser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

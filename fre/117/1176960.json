@@ -1,0 +1,16 @@
+{
+  "seq": 1176960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allocution",
+      "discours"
+    ],
+    [
+      "explication",
+      "déclaration",
+      "exposition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

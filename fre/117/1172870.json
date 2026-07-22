@@ -1,0 +1,20 @@
+{
+  "seq": 1172870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chauffeur",
+      "conducteur"
+    ],
+    [
+      "conducteur de véhicule motorisé"
+    ],
+    [
+      "conducteur de locomotive"
+    ],
+    [
+      "opérateur de machine; conducteur d'équipement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

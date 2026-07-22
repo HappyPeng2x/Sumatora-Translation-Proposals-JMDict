@@ -1,0 +1,23 @@
+{
+  "seq": 1168680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cause et effet",
+      "destin"
+    ],
+    [
+      "karma; destin"
+    ],
+    [
+      "malchanceux; malheureux; funeste"
+    ],
+    [
+      "malheur; infortune; calamité; mauvais sort"
+    ],
+    [
+      "malchanceux; infortuné; funeste; condamné; maudit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

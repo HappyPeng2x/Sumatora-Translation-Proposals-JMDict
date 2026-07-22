@@ -1,0 +1,22 @@
+{
+  "seq": 1168840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attirer vers le bas",
+      "tirer vers le bas",
+      "traîner vers le bas",
+      "forcer à descendre",
+      "détrôner"
+    ],
+    [
+      "faire tomber",
+      "démouiller",
+      "mettre à terre",
+      "enlever",
+      "ôter",
+      "détacher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

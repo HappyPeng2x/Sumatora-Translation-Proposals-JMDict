@@ -10,6 +10,22 @@
     ],
     [
       "jouer plus de 12 manches dans un jeu"
+    ],
+    [
+      "hiberner",
+      "passer l'hiver en état de torpeur"
+    ],
+    [
+      "annoncer la fin de l'année",
+      "proclamer la fin de l'année"
+    ],
+    [
+      "passer l'hiver",
+      "survivre l'hiver"
+    ],
+    [
+      "hiberner",
+      "entrer en hibernation"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,44 @@
+{
+  "seq": 1169350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avoir des doutes",
+      "se coincer (dans)",
+      "se faire avoir",
+      "se prendre (dans)"
+    ],
+    [
+      "faire une courte visite",
+      "passer par",
+      "se faire retarder",
+      "prendre du temps"
+    ],
+    [
+      "se mettre dans le pétrin",
+      "s'embrouiller dans",
+      "être impliqué dans"
+    ],
+    [
+      "tomber dans un piège",
+      "être trompé",
+      "être dupé"
+    ],
+    [
+      "préoccuper",
+      "tracasser",
+      "inquiéter"
+    ],
+    [
+      "être entravé",
+      "être gêné",
+      "être empêché"
+    ],
+    [
+      "faire des éclaboussures",
+      "asperger",
+      "jeter de l'eau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

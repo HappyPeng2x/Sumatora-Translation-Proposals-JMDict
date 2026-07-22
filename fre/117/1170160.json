@@ -9,6 +9,16 @@
     [
       "non hospitalier",
       "extérieur de l'hôpital"
+    ],
+    [
+      "hors du Parlement",
+      "hors de la Chambre"
+    ],
+    [
+      "hors de l'hôpital",
+      "hors de l'institution",
+      "extramural",
+      "externe"
     ]
   ],
   "model": "qwen3:14b"

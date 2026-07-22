@@ -1,0 +1,32 @@
+{
+  "seq": 1176200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complétude",
+      "harmonie",
+      "perfection",
+      "satisfaisant"
+    ],
+    [
+      "calme",
+      "harmonie",
+      "douceur",
+      "conciliation"
+    ],
+    [
+      "ronditude",
+      "complétude"
+    ],
+    [
+      "achèvement",
+      "perfection"
+    ],
+    [
+      "perfection",
+      "accomplissement spirituel",
+      "sagesse parfaite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

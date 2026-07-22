@@ -1,0 +1,16 @@
+{
+  "seq": 1174820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chanter",
+      "réciter"
+    ],
+    [
+      "réciter",
+      "chanter",
+      "intonner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

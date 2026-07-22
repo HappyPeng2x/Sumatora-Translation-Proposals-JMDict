@@ -1,0 +1,27 @@
+{
+  "seq": 1173710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apparaître (photo)",
+      "s'harmoniser",
+      "se refléter"
+    ],
+    [
+      "apparaître sur une image",
+      "être projeté sur un écran",
+      "être filmé",
+      "être photographié"
+    ],
+    [
+      "s'adapter",
+      "s'harmoniser",
+      "correspondre"
+    ],
+    [
+      "bien se porter",
+      "avoir de bonnes relations"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

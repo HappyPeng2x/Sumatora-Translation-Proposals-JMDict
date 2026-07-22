@@ -1,0 +1,14 @@
+{
+  "seq": 1169720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gravité"
+    ],
+    [
+      "attirance",
+      "magnétisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

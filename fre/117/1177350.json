@@ -1,0 +1,18 @@
+{
+  "seq": 1177350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hirondelle"
+    ],
+    [
+      "hirondelle rustique",
+      "hirondelle à queue noire"
+    ],
+    [
+      "jeune homme en relation avec une femme plus âgée",
+      "boy toy"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

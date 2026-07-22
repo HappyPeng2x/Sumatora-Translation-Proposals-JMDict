@@ -1,0 +1,15 @@
+{
+  "seq": 1176280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "directeur de jardin",
+      "directeur de maternelle",
+      "directeur de jardin d'enfants",
+      "directeur de parc",
+      "directeur de zoo",
+      "directeur de plantation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

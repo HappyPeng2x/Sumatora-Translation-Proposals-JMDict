@@ -1,0 +1,14 @@
+{
+  "seq": 1173210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ciel",
+      "au-dessus des nuages"
+    ],
+    [
+      "palais impérial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

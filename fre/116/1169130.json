@@ -10,6 +10,9 @@
     [
       "tirer",
       "lier (un jeu)"
+    ],
+    [
+      "s'éloigner de; se détourner de"
     ]
   ],
   "model": "qwen3:14b"

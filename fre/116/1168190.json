@@ -1,0 +1,31 @@
+{
+  "seq": 1168190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impression",
+      "imprimer"
+    ],
+    [
+      "impression",
+      "pression"
+    ],
+    [
+      "imprimer",
+      "produire"
+    ],
+    [
+      "expression",
+      "manifestation"
+    ],
+    [
+      "imprimer",
+      "faire imprimer",
+      "confier à l'impression"
+    ],
+    [
+      "imprimer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

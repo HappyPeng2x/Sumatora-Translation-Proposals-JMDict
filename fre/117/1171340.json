@@ -1,0 +1,15 @@
+{
+  "seq": 1171340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace",
+      "cosmique"
+    ],
+    [
+      "vasteur",
+      "cosmique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

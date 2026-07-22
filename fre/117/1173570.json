@@ -1,0 +1,19 @@
+{
+  "seq": 1173570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commercial",
+      "faisant du profit"
+    ],
+    [
+      "orientation vers le profit",
+      "orientation commerciale"
+    ],
+    [
+      "bénéfice",
+      "commerce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

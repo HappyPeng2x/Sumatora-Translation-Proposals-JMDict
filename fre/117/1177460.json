@@ -1,0 +1,12 @@
+{
+  "seq": 1177460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "copie conforme",
+      "imitation aveugle",
+      "personne qui imite sans comprendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

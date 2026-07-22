@@ -1,0 +1,17 @@
+{
+  "seq": 1171900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pluie"
+    ],
+    [
+      "jour pluvieux",
+      "temps pluvieux"
+    ],
+    [
+      "costume de novembre (dans hanafuda)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

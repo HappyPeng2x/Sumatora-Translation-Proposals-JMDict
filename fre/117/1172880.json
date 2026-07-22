@@ -4,6 +4,9 @@
   "glosses": [
     [
       "siège du conducteur (dans une voiture)"
+    ],
+    [
+      "siège du conducteur (dans un train ou un autre véhicule)"
     ]
   ],
   "model": "qwen3:14b"

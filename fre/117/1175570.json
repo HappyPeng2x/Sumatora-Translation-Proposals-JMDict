@@ -1,0 +1,18 @@
+{
+  "seq": 1175570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cercle",
+      "yen"
+    ],
+    [
+      "cercle",
+      "anneau"
+    ],
+    [
+      "monnaie japonaise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

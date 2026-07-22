@@ -1,0 +1,15 @@
+{
+  "seq": 1171690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "battre (des ailes)"
+    ],
+    [
+      "s'envoler",
+      "sortir de sa coquille",
+      "prendre son envol"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

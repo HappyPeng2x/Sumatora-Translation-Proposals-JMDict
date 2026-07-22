@@ -1,0 +1,46 @@
+{
+  "seq": 1169870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boire"
+    ],
+    [
+      "fumer"
+    ],
+    [
+      "engloutir"
+    ],
+    [
+      "s'empêcher de pleurer; réprimer; contenir; retenir; reprendre son souffle"
+    ],
+    [
+      "accepter; convenir à"
+    ],
+    [
+      "mépriser; sous-estimer; écraser; impressionner"
+    ],
+    [
+      "cacher (un couteau, etc.); dissimuler (dans la manche, etc.)"
+    ],
+    [
+      "sous-estimer"
+    ],
+    [
+      "recevoir; accepter"
+    ],
+    [
+      "faire disparaître"
+    ],
+    [
+      "cacher"
+    ],
+    [
+      "défaut; imperfection; critique; annotation"
+    ],
+    [
+      "technique de chant nomu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1176330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "banquet",
+      "dinner",
+      "soirée"
+    ],
+    [
+      "salle de banquet",
+      "salle à manger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

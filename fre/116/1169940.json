@@ -1,0 +1,13 @@
+{
+  "seq": 1169940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manger et boire"
+    ],
+    [
+      "alimentation et boisson"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

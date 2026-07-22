@@ -7,6 +7,11 @@
       "mesure décisive",
       "pas résolu",
       "décision remarquable"
+    ],
+    [
+      "décision ferme",
+      "mesure énergique",
+      "décision courageuse"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,20 @@
+{
+  "seq": 1176380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(préf) en tout",
+      "total"
+    ],
+    [
+      "crédit (achats)"
+    ],
+    [
+      "étirement"
+    ],
+    [
+      "total (précédant un compteur, unité, etc.) ; brut ; global"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

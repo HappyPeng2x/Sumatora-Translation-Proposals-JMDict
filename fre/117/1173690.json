@@ -1,0 +1,17 @@
+{
+  "seq": 1173690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "image",
+      "portrait",
+      "silhouette"
+    ],
+    [
+      "image",
+      "représentation visuelle",
+      "contour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

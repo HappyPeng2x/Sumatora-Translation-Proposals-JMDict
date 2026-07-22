@@ -1,0 +1,26 @@
+{
+  "seq": 1174940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "finesse d'esprit",
+      "sensibilité"
+    ],
+    [
+      "sens aigu",
+      "esprit vif",
+      "jugement subtil"
+    ],
+    [
+      "sagacité",
+      "intelligence aiguë",
+      "acuité mentale"
+    ],
+    [
+      "sensibilité",
+      "finesse",
+      "délicatesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

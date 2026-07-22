@@ -10,6 +10,11 @@
     [
       "apprenti professionnel du go",
       "insei (apprenti du go)"
+    ],
+    [
+      "étudiant interne",
+      "apprenti dans un établissement d'enseignement",
+      "élève d'une institution de formation"
     ]
   ],
   "model": "qwen3:14b"

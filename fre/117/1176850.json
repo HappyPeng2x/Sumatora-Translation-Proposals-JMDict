@@ -1,0 +1,15 @@
+{
+  "seq": 1176850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu (d'acteur)",
+      "performance (d'acteur)",
+      "représentation"
+    ],
+    [
+      "art de la scène populaire (par exemple; le rakugo; le récit de contes ou le manzai)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

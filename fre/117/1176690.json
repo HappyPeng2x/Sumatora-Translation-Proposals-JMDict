@@ -1,0 +1,26 @@
+{
+  "seq": 1176690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "citation",
+      "référence",
+      "invocation",
+      "allusion"
+    ],
+    [
+      "s'appuyer sur",
+      "se référer à"
+    ],
+    [
+      "citer",
+      "référencer",
+      "mentionner"
+    ],
+    [
+      "s'appuyer sur",
+      "se référer à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

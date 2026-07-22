@@ -1,0 +1,112 @@
+{
+  "seq": 1169250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jouer (d'un instrument a cordes)",
+      "moins (soustraction)",
+      "tirer"
+    ],
+    [
+      "attirer",
+      "séduire",
+      "captiver"
+    ],
+    [
+      "retraiter",
+      "ramener en arrière",
+      "tirer vers soi"
+    ],
+    [
+      "tirer",
+      "pêcher",
+      "prendre (une carte, un tile de mahjong)"
+    ],
+    [
+      "tracer",
+      "dessiner",
+      "ébaucher"
+    ],
+    [
+      "attraper",
+      "contracter",
+      "prendre (un rhume)"
+    ],
+    [
+      "jouer",
+      "interpréter",
+      "faire sonner (un instrument à cordes ou à clavier)"
+    ],
+    [
+      "rechercher",
+      "consulter",
+      "vérifier (dans un dictionnaire, un annuaire)"
+    ],
+    [
+      "tirer",
+      "atteler",
+      "attirer (un véhicule)"
+    ],
+    [
+      "soustraire",
+      "déduire",
+      "enlever (un montant)"
+    ],
+    [
+      "reculer",
+      "s'éloigner",
+      "s'estomper"
+    ],
+    [
+      "descendre de",
+      "hériter de",
+      "transmettre (une caractéristique)"
+    ],
+    [
+      "citer",
+      "référencer",
+      "produire (comme preuve)"
+    ],
+    [
+      "mettre en service",
+      "installer",
+      "fournir (de l'électricité, du gaz)"
+    ],
+    [
+      "tenir",
+      "garder",
+      "conserver (une note)"
+    ],
+    [
+      "appliquer",
+      "étaler",
+      "badigeonner (du rouge à lèvres, huiler une poêle, cirer un sol)"
+    ],
+    [
+      "reculer",
+      "s'écarter",
+      "s'effacer (d'un mouvement arrière)"
+    ],
+    [
+      "diminuer",
+      "s'apaiser",
+      "s'atténuer (comme une inflammation)"
+    ],
+    [
+      "démissionner",
+      "se retirer",
+      "quitter (un poste)"
+    ],
+    [
+      "être rebuté",
+      "être dégoûté",
+      "reculer (d'horreur, de dégoût)"
+    ],
+    [
+      "reculer",
+      "tirer en arrière",
+      "s'éloigner (d'une position)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

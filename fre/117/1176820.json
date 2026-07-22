@@ -1,0 +1,29 @@
+{
+  "seq": 1176820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu (d'acteur)",
+      "performance (d'acteur)"
+    ],
+    [
+      "jeu de rôle"
+    ],
+    [
+      "faire une prestation"
+    ],
+    [
+      "représentation; jeu; mise en scène"
+    ],
+    [
+      "l'art du théâtre"
+    ],
+    [
+      "technique; figure de voltige"
+    ],
+    [
+      "spectacle feint (par exemple pour manipuler quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

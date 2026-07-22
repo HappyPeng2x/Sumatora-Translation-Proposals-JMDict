@@ -7,6 +7,14 @@
     ],
     [
       "tricher sur le prix du billet de train en achetant des billets couvrant uniquement les premières et dernières parties du trajet"
+    ],
+    [
+      "corruption électorale",
+      "dans laquelle le client est payé avant et après le scrutin"
+    ],
+    [
+      "le gripe",
+      "dans lequel seul le début et la fin du trajet sont payés"
     ]
   ],
   "model": "qwen3:14b"

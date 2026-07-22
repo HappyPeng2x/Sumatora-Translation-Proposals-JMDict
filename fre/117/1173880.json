@@ -1,0 +1,17 @@
+{
+  "seq": 1173880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prospérité",
+      "splendeur",
+      "grandeur",
+      "luxue"
+    ],
+    [
+      "opulence",
+      "richesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

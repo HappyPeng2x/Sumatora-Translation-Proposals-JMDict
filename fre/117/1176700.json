@@ -1,0 +1,20 @@
+{
+  "seq": 1176700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accompagner",
+      "découler de",
+      "suivre"
+    ],
+    [
+      "suivre (une politique, un plan, etc.) ; agir conformément à ; s'aligner sur",
+      "suivre (une politique, un plan, etc.) ; agir conformément à ; s'aligner sur"
+    ],
+    [
+      "satisfaire (les souhaits, les attentes, etc.) ; se conformer à ; répondre à ; vivre à la hauteur de",
+      "satisfaire (les souhaits, les attentes, etc.) ; se conformer à ; répondre à ; vivre à la hauteur de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

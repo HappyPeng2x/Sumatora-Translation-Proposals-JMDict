@@ -1,0 +1,13 @@
+{
+  "seq": 1172240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déduction",
+      "inférence",
+      "compréhension",
+      "connaissance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

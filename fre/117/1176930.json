@@ -1,0 +1,21 @@
+{
+  "seq": 1176930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entrainement",
+      "manœuvres",
+      "mise en pratique"
+    ],
+    [
+      "exercice militaire",
+      "manœuvre",
+      "manœuvres",
+      "exercice de manœuvre"
+    ],
+    [
+      "séminaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

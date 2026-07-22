@@ -6,6 +6,11 @@
       "mentir",
       "dire un mensonge",
       "faire un faux"
+    ],
+    [
+      "dire des mensonges",
+      "mentir",
+      "dire des choses fausses"
     ]
   ],
   "model": "qwen3:14b"

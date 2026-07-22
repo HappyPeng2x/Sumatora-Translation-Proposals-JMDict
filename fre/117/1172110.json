@@ -6,6 +6,9 @@
       "sans report en raison de la pluie",
       "sans délai en cas de pluie",
       "ayant lieu quel que soit le temps"
+    ],
+    [
+      "exécution indépendamment des conditions météorologiques"
     ]
   ],
   "model": "qwen3:14b"

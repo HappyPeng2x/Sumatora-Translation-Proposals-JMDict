@@ -1,0 +1,26 @@
+{
+  "seq": 1168670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "destin",
+      "fatalité"
+    ],
+    [
+      "cause",
+      "lien",
+      "origine",
+      "rapport"
+    ],
+    [
+      "prétexte"
+    ],
+    [
+      "cause directe et condition indirecte (dans le bouddhisme)"
+    ],
+    [
+      "prétexte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1169620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrest",
+      "emprisonnement",
+      "detention"
+    ],
+    [
+      "emprisonnement forcé",
+      "saisie par la force"
+    ],
+    [
+      "arrestation",
+      "emprisonnement",
+      "mise en détention",
+      "faire arrêter quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

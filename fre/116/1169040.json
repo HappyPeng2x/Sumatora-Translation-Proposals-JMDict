@@ -1,0 +1,16 @@
+{
+  "seq": 1169040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hypothèque",
+      "sécurité"
+    ],
+    [
+      "hypothèque",
+      "sécurité",
+      "gage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

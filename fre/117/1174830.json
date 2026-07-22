@@ -1,0 +1,21 @@
+{
+  "seq": 1174830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hymne de pélerinage (boudh)",
+      "poême, chanson (préparation de)"
+    ],
+    [
+      "chant du pèlerin",
+      "hymne du pèlerin"
+    ],
+    [
+      "chanter un poème ou une chanson d'une voix forte"
+    ],
+    [
+      "chant du pèlerin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1172160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fuite (dans un toit)"
+    ],
+    [
+      "eau s'écoulant à travers le toit",
+      "traces de dégradation sur une tasse à thé cérémoniale"
+    ],
+    [
+      "taches sur certaines tasses à thé dues à l'usage prolongé (causées par l'infiltration)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

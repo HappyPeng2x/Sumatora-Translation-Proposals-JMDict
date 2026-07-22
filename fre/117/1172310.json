@@ -1,0 +1,14 @@
+{
+  "seq": 1172310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tourbillon"
+    ],
+    [
+      "tourbillon d'événements ou de choses similaires",
+      "tourbillon autour de quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "rester à l'intérieur",
       "se cloîtrer",
       "s'enfermer chez soi"
+    ],
+    [
+      "se retirer de la vie publique"
     ]
   ],
   "model": "qwen3:14b"

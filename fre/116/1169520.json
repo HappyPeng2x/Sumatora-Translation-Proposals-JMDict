@@ -1,0 +1,15 @@
+{
+  "seq": 1169520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "audience",
+      "entretien"
+    ],
+    [
+      "interroger quelqu'un",
+      "audience"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

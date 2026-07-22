@@ -1,0 +1,15 @@
+{
+  "seq": 1168890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retirer",
+      "reculer",
+      "déduire"
+    ],
+    [
+      "emmener quelqu'un ailleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

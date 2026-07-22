@@ -1,0 +1,17 @@
+{
+  "seq": 1176760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rive",
+      "bord de la route",
+      "chemin"
+    ],
+    [
+      "(néerlandais) le long de la route",
+      "près de la route",
+      "berm"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

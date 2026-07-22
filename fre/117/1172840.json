@@ -1,0 +1,23 @@
+{
+  "seq": 1172840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maître (marine)",
+      "officier (marine)"
+    ],
+    [
+      "mate (à bord d'un navire); officier"
+    ],
+    [
+      "machiniste; conducteur de machines (sur un navire)"
+    ],
+    [
+      "conducteur"
+    ],
+    [
+      "conducteur routier; chauffeur de camion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

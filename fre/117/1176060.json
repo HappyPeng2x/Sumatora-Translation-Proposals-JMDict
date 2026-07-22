@@ -1,0 +1,20 @@
+{
+  "seq": 1176060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rond",
+      "circulaire",
+      "fluide",
+      "roulant"
+    ],
+    [
+      "liberté",
+      "indépendance"
+    ],
+    [
+      "déroulement fluide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

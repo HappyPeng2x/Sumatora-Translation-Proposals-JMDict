@@ -1,0 +1,11 @@
+{
+  "seq": 1168220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouvrier de la presse",
+      "imprimeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

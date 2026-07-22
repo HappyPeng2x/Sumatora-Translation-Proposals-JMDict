@@ -1,0 +1,15 @@
+{
+  "seq": 1176610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couverture",
+      "masque",
+      "cache"
+    ],
+    [
+      "dalle sur un parapet ou une tranchée de défense"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

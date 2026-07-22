@@ -5,6 +5,20 @@
     [
       "aigu",
       "tranchant"
+    ],
+    [
+      "élevation d'un demi-ton",
+      "croix"
+    ],
+    [
+      "bébé",
+      "nouveau-né",
+      "entourer",
+      "envelopper",
+      "toucher",
+      "effleurer",
+      "élevation d'un demi-ton",
+      "croix"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,39 @@
+{
+  "seq": 1171680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aile",
+      "plume",
+      "empennage",
+      "volant (badminton)",
+      "volant (badminton)",
+      "empennage"
+    ],
+    [
+      "aile"
+    ],
+    [
+      "lame (d'un ventilateur, d'une hélice, etc.)"
+    ],
+    [
+      "volant (jeu de badminton)"
+    ],
+    [
+      "volant (jeu de hanetsuki)"
+    ],
+    [
+      "plume d'arrow"
+    ],
+    [
+      "petite aile sur les capsules de graines de certaines plantes"
+    ],
+    [
+      "lame de rotor; lame de ventilateur; lame de turbine"
+    ],
+    [
+      "blason à motif de plumes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

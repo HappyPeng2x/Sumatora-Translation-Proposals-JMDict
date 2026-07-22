@@ -21,6 +21,21 @@
       "robinet",
       "tuyau",
       "pomme de douche"
+    ],
+    [
+      "embouchure (d'un instrument de musique)"
+    ],
+    [
+      "buveur; amateur d’alcool"
+    ],
+    [
+      "bord (d’une tasse ou d’un verre)"
+    ],
+    [
+      "forme de la bouche lors de la dégustation"
+    ],
+    [
+      "robinet; valve; tuyau"
     ]
   ],
   "model": "qwen3:14b"

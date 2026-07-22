@@ -1,0 +1,38 @@
+{
+  "seq": 1168660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépendre de",
+      "provenir de",
+      "venir de"
+    ],
+    [
+      "dépendre de",
+      "reposer sur"
+    ],
+    [
+      "s'appuyer sur",
+      "provenir de",
+      "venir de"
+    ],
+    [
+      "être basé(e) à",
+      "avoir son siège à"
+    ],
+    [
+      "selon",
+      "d'après",
+      "suivant",
+      "par",
+      "par rapport à"
+    ],
+    [
+      "se référer à",
+      "être lié(e) à",
+      "être en relation avec",
+      "être relatif(ve) à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

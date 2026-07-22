@@ -1,0 +1,24 @@
+{
+  "seq": 1172830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conduite",
+      "motion",
+      "opération"
+    ],
+    [
+      "conduire (un véhicule)"
+    ],
+    [
+      "gestion; utilisation; investissement"
+    ],
+    [
+      "faire fonctionner; commander; diriger (une machine)"
+    ],
+    [
+      "être en marche; fonctionner; être en activité (une machine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

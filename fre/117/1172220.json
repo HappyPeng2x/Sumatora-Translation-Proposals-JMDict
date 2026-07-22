@@ -1,0 +1,14 @@
+{
+  "seq": 1172220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "deviner",
+      "comprendre",
+      "imaginer",
+      "présumer",
+      "pressentir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

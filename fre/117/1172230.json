@@ -16,6 +16,12 @@
       "supposer",
       "infréquer",
       "pressentir"
+    ],
+    [
+      "deviner",
+      "supposer",
+      "infréquer",
+      "pressentir"
     ]
   ],
   "model": "qwen3:14b"

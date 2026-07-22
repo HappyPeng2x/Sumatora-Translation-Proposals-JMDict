@@ -1,0 +1,30 @@
+{
+  "seq": 1176510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élongation",
+      "extension",
+      "prolongation"
+    ],
+    [
+      "longueur totale"
+    ],
+    [
+      "prolongement; continuation"
+    ],
+    [
+      "extension (d'un segment de droite)"
+    ],
+    [
+      "extension (propriété d'occuper un espace)"
+    ],
+    [
+      "ère Enchō (923.4.11-931.4.26)"
+    ],
+    [
+      "temps supplémentaire; prolongation du jeu; extra time; manche supplémentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

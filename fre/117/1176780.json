@@ -1,0 +1,19 @@
+{
+  "seq": 1176780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jouer (pièce, rôle)"
+    ],
+    [
+      "mettre en scène (un spectacle, etc.) ; jouer (une pièce de théâtre)"
+    ],
+    [
+      "commettre (une erreur, une faute) ; se comporter de manière maladroite ; faire un spectacle"
+    ],
+    [
+      "feindre (d'être un bon père, etc.) ; prétendre (quelque chose)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

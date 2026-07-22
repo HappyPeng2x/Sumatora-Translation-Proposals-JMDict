@@ -11,6 +11,11 @@
       "assistance",
       "secours",
       "main-d'œuvre"
+    ],
+    [
+      "soutien",
+      "aide",
+      "assistance"
     ]
   ],
   "model": "qwen3:14b"

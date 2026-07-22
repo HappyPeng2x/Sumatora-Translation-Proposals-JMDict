@@ -5,6 +5,9 @@
     [
       "état liquide",
       "état de matière liquide"
+    ],
+    [
+      "fluide"
     ]
   ],
   "model": "qwen3:14b"

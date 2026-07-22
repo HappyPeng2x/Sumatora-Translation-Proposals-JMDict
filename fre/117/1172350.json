@@ -1,0 +1,16 @@
+{
+  "seq": 1172350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au milieu d'un tourbillon"
+    ],
+    [
+      "au cœur d'une querelle",
+      "dans une controverse",
+      "au milieu d'un scandale",
+      "en pleine turbulence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1172740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exploitation",
+      "service",
+      "navigation",
+      "vol"
+    ],
+    [
+      "voler"
+    ],
+    [
+      "voyage",
+      "route"
+    ],
+    [
+      "fuite",
+      "vol"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

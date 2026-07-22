@@ -1,0 +1,16 @@
+{
+  "seq": 1176120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disque"
+    ],
+    [
+      "ovni"
+    ],
+    [
+      "support en forme de disque utilisé pour le stockage de données (CD, DVD, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1172400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fait incorrect",
+      "mensonge"
+    ],
+    [
+      "erreur",
+      "faute"
+    ],
+    [
+      "mauvaise décision",
+      "erreur stratégique"
+    ],
+    [
+      "vraiment ?",
+      "incroyable !",
+      "pas possible !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

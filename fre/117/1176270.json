@@ -6,6 +6,9 @@
       "élève de maternelle",
       "enfant en crèche",
       "enfant de petite section"
+    ],
+    [
+      "enfant fréquentant une école maternelle"
     ]
   ],
   "model": "qwen3:14b"

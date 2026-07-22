@@ -1,0 +1,30 @@
+{
+  "seq": 1172660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déplacer",
+      "faire avancer",
+      "transporter"
+    ],
+    [
+      "venir",
+      "aller"
+    ],
+    [
+      "utiliser",
+      "déplacer"
+    ],
+    [
+      "mener à bien",
+      "mettre en œuvre",
+      "organiser"
+    ],
+    [
+      "se passer",
+      "avancer",
+      "progresser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

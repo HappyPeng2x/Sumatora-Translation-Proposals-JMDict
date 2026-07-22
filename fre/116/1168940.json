@@ -1,0 +1,16 @@
+{
+  "seq": 1168940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "introduction; rencontre"
+    ],
+    [
+      "comparaison; opposition"
+    ],
+    [
+      "collation; comparaison de textes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

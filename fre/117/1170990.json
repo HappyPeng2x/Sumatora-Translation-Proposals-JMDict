@@ -1,0 +1,14 @@
+{
+  "seq": 1170990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mètre (en poésie)",
+      "rythme"
+    ],
+    [
+      "prosodie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

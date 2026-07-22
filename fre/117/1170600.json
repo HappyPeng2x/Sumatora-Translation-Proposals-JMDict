@@ -1,0 +1,11 @@
+{
+  "seq": 1170600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfant naturel",
+      "enfant secret d'une relation extraconjugale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

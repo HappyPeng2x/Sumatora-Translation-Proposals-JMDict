@@ -1,0 +1,17 @@
+{
+  "seq": 1169480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ignition",
+      "incendie",
+      "prise de feu"
+    ],
+    [
+      "allumer",
+      "mettre en feu",
+      "faire prendre feu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

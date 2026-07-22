@@ -5,6 +5,11 @@
     [
       "programme musical",
       "répertoire musical"
+    ],
+    [
+      "œuvre musicale programmée",
+      "pièce musicale programmée",
+      "numéro du programme"
     ]
   ],
   "model": "qwen3:14b"

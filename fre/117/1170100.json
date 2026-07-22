@@ -1,0 +1,14 @@
+{
+  "seq": 1170100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débauché",
+      "lascivieux",
+      "libidineux",
+      "salace",
+      "sauvage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

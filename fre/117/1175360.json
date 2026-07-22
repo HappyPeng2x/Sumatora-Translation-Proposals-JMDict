@@ -1,0 +1,15 @@
+{
+  "seq": 1175360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture",
+      "examen"
+    ],
+    [
+      "lecture",
+      "lectures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

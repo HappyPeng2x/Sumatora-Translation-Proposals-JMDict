@@ -5,6 +5,9 @@
     [
       "poésie anglaise",
       "poème anglais"
+    ],
+    [
+      "poème anglais"
     ]
   ],
   "model": "qwen3:14b"

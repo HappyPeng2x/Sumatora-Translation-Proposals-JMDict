@@ -1,0 +1,20 @@
+{
+  "seq": 1177180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fumée"
+    ],
+    [
+      "brume",
+      "brouillard"
+    ],
+    [
+      "fumée de cuisine"
+    ],
+    [
+      "moyens d'existence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

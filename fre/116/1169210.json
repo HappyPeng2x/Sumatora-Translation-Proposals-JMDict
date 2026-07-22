@@ -1,0 +1,18 @@
+{
+  "seq": 1169210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éloigner deux personnes l'une de l'autre",
+      "arracher",
+      "déchirer"
+    ],
+    [
+      "séparer de force",
+      "mettre fin à une relation par la force",
+      "divorcer par la force",
+      "déchirer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

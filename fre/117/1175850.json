@@ -5,6 +5,11 @@
     [
       "l'entrée du bouddha dans le nirvana",
       "la mort du bouddha"
+    ],
+    [
+      "la mort d'un moine",
+      "le décès d'un moine",
+      "la disparition d'un moine"
     ]
   ],
   "model": "qwen3:14b"

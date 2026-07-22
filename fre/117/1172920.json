@@ -5,6 +5,10 @@
     [
       "militant",
       "activiste"
+    ],
+    [
+      "militant politique",
+      "agitateur politique"
     ]
   ],
   "model": "qwen3:14b"

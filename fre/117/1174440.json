@@ -5,6 +5,9 @@
     [
       "version anglaise",
       "édition en anglais"
+    ],
+    [
+      "version non japonaise"
     ]
   ],
   "model": "qwen3:14b"

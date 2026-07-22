@@ -1,0 +1,41 @@
+{
+  "seq": 1174890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aiguisé",
+      "pointu"
+    ],
+    [
+      "aigu",
+      "douloureux",
+      "perçant",
+      "mordant",
+      "tranchant",
+      "acéré",
+      "pénétrant",
+      "cinglant"
+    ],
+    [
+      "aiguisé",
+      "sensibilisé",
+      "aigu",
+      "perspicace",
+      "éveillé",
+      "fin",
+      "perçant",
+      "pénétrant"
+    ],
+    [
+      "sensibilisé",
+      "sensé",
+      "perspicace"
+    ],
+    [
+      "insensible",
+      "froid",
+      "intraitable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

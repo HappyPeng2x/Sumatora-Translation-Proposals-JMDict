@@ -1,0 +1,28 @@
+{
+  "seq": 1174980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liquéfaction"
+    ],
+    [
+      "fusion"
+    ],
+    [
+      "devenir liquide"
+    ],
+    [
+      "rendre liquide"
+    ],
+    [
+      "condensation"
+    ],
+    [
+      "fusion"
+    ],
+    [
+      "liquefaction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

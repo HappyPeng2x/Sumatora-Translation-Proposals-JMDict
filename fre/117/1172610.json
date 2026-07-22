@@ -1,0 +1,18 @@
+{
+  "seq": 1172610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chance",
+      "destinée",
+      "fortune"
+    ],
+    [
+      "chance; fortune; destinée"
+    ],
+    [
+      "occasion; possibilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

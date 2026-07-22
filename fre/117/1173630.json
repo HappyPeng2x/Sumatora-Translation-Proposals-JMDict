@@ -1,0 +1,14 @@
+{
+  "seq": 1173630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bébé",
+      "enfant"
+    ],
+    [
+      "enfant très jeune (jusqu'à environ 3 ans)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

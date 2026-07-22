@@ -1,0 +1,24 @@
+{
+  "seq": 1170380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négatif (attitude, réaction)"
+    ],
+    [
+      "sombre",
+      "pessimiste",
+      "négatif"
+    ],
+    [
+      "atonique",
+      "dormant",
+      "assoupi"
+    ],
+    [
+      "sombre",
+      "triste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

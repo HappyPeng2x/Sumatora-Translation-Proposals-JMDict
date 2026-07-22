@@ -1,0 +1,15 @@
+{
+  "seq": 1170120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obscène",
+      "indécent",
+      "salace",
+      "lascivieux",
+      "lascivie",
+      "luxe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

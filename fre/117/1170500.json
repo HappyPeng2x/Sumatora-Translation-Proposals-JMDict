@@ -1,0 +1,15 @@
+{
+  "seq": 1170500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complot",
+      "conspiration"
+    ],
+    [
+      "conspiration criminelle",
+      "complot criminel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1177070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flamme"
+    ],
+    [
+      "flamme (d'une émotion intense, par exemple l'amour, la jalousie, la colère) ; passion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

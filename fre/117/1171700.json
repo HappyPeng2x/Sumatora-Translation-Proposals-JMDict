@@ -1,0 +1,29 @@
+{
+  "seq": 1171700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "robe de plumes"
+    ],
+    [
+      "plumage",
+      "ailes"
+    ],
+    [
+      "insecte"
+    ],
+    [
+      "Achillea sibirica"
+    ],
+    [
+      "haori"
+    ],
+    [
+      "nō-stuk"
+    ],
+    [
+      "composition pour shamisen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

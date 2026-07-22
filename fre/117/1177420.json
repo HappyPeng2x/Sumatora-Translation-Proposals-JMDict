@@ -4,6 +4,11 @@
   "glosses": [
     [
       "homme de spectacle qui entraîne des singes pour les faire performer"
+    ],
+    [
+      "entraîneur de singes",
+      "pendre un singe",
+      "faire tourner un singe"
     ]
   ],
   "model": "qwen3:14b"

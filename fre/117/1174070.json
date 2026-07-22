@@ -1,0 +1,21 @@
+{
+  "seq": 1174070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éternité"
+    ],
+    [
+      "éternité",
+      "éternel"
+    ],
+    [
+      "pour toujours",
+      "éternellement",
+      "à jamais",
+      "définitivement",
+      "infiniment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

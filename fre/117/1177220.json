@@ -1,0 +1,25 @@
+{
+  "seq": 1177220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fumer"
+    ],
+    [
+      "être trouble; paraître flou"
+    ],
+    [
+      "être de beauté vague"
+    ],
+    [
+      "être incinéré; être réduit en cendres"
+    ],
+    [
+      "fumer; émettre de la fumée"
+    ],
+    [
+      "être trouble; être enveloppé de brume"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

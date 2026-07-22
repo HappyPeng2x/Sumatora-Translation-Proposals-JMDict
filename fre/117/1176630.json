@@ -10,6 +10,12 @@
     ],
     [
       "occultation"
+    ],
+    [
+      "masquage"
+    ],
+    [
+      "couverture (par un autre corps céleste)"
     ]
   ],
   "model": "qwen3:14b"

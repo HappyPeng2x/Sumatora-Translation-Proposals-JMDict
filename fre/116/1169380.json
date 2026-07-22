@@ -1,0 +1,14 @@
+{
+  "seq": 1169380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réservé",
+      "introverti",
+      "timide",
+      "retraité",
+      "réservé, introverti, timide, retraité, peu expansif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

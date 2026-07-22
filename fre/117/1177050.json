@@ -1,0 +1,14 @@
+{
+  "seq": 1177050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déduction",
+      "raisonnement déductif"
+    ],
+    [
+      "déduction (du général au particulier)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

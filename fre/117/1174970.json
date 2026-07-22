@@ -1,0 +1,19 @@
+{
+  "seq": 1174970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fluide",
+      "liquide"
+    ],
+    [
+      "suc",
+      "sève"
+    ],
+    [
+      "solution",
+      "mélange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

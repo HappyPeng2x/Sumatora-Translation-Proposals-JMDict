@@ -16,6 +16,12 @@
     ],
     [
       "douzième mois du calendrier lunaire"
+    ],
+    [
+      "heure entre une et trois heures du matin"
+    ],
+    [
+      "douzième mois de l'année"
     ]
   ],
   "model": "qwen3:14b"

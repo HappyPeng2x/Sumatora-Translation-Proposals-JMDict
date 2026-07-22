@@ -1,0 +1,20 @@
+{
+  "seq": 1169030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être serré"
+    ],
+    [
+      "se resserrer",
+      "se contrôler",
+      "se maîtriser"
+    ],
+    [
+      "se stabiliser",
+      "prendre de la valeur",
+      "s'apprécier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

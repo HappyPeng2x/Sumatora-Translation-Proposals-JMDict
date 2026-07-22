@@ -1,0 +1,17 @@
+{
+  "seq": 1170050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débauche",
+      "dissipation",
+      "lascivité"
+    ],
+    [
+      "laid",
+      "débauché",
+      "impudique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

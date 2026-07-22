@@ -5,6 +5,18 @@
     [
       "melon",
       "gourde"
+    ],
+    [
+      "cucurbitacée",
+      "plante de la famille des Cucurbitacées"
+    ],
+    [
+      "emblème de melon",
+      "symbole représentant un melon"
+    ],
+    [
+      "organe reproducteur féminin",
+      "partie du corps liée à la reproduction féminine"
     ]
   ],
   "model": "qwen3:14b"

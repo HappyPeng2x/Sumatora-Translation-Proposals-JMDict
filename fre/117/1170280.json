@@ -1,0 +1,21 @@
+{
+  "seq": 1170280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélancolique",
+      "obscure",
+      "sombre"
+    ],
+    [
+      "esprit yin"
+    ],
+    [
+      "principe yin"
+    ],
+    [
+      "obscurité; noirceur; tristesse; mélancolie; mélancolique; abattement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

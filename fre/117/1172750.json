@@ -1,0 +1,30 @@
+{
+  "seq": 1172750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "motion",
+      "révolution"
+    ],
+    [
+      "mouvement",
+      "d'un corps céleste",
+      "révolution"
+    ],
+    [
+      "orbite",
+      "mouvement d'un astre"
+    ],
+    [
+      "service",
+      "exploitation",
+      "fonctionnement",
+      "d'un moyen de transport public"
+    ],
+    [
+      "déroulement",
+      "progrès"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

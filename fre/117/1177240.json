@@ -13,6 +13,9 @@
     [
       "feu d'artifice",
       "spectacle pyrotechnique"
+    ],
+    [
+      "feu d'artifice"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,25 @@
+{
+  "seq": 1176950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "direction",
+      "mise en scéne"
+    ],
+    [
+      "organisation",
+      "disposition",
+      "mise en scène",
+      "orchestration"
+    ],
+    [
+      "diriger (un spectacle)"
+    ],
+    [
+      "organiser",
+      "mettre en scène",
+      "orchestrer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -11,6 +11,14 @@
     [
       "espion",
       "agent secret"
+    ],
+    [
+      "espion",
+      "agent secret"
+    ],
+    [
+      "discrétion",
+      "confidentialité"
     ]
   ],
   "model": "qwen3:14b"

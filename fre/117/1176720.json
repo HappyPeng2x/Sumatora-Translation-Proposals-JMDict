@@ -1,0 +1,15 @@
+{
+  "seq": 1176720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "côte",
+      "eaux côtières",
+      "rivage"
+    ],
+    [
+      "côte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

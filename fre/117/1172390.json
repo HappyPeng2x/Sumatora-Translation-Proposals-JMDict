@@ -1,0 +1,13 @@
+{
+  "seq": 1172390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courant tourbillonnant"
+    ],
+    [
+      "courant de Foucault"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

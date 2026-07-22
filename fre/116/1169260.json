@@ -1,0 +1,17 @@
+{
+  "seq": 1169260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "admirateur",
+      "inducteur"
+    ],
+    [
+      "mouvement",
+      "initiateur",
+      "admirateur",
+      "vénérant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

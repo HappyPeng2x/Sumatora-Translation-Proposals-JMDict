@@ -1,0 +1,13 @@
+{
+  "seq": 1174000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "valeur nutritive"
+    ],
+    [
+      "valeur alimentaire (néerlandaise)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

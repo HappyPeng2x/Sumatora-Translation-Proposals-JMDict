@@ -8,6 +8,11 @@
     ],
     [
       "conversion de personnes au bouddhisme"
+    ],
+    [
+      "guidance",
+      "conduite",
+      "direction"
     ]
   ],
   "model": "qwen3:14b"

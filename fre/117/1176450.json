@@ -6,6 +6,9 @@
       "extension du feu",
       "propagation du feu",
       "étendue du feu"
+    ],
+    [
+      "inondation de feu"
     ]
   ],
   "model": "qwen3:14b"

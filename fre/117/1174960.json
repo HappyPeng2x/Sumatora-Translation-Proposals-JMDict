@@ -1,0 +1,16 @@
+{
+  "seq": 1174960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "acuité"
+    ],
+    [
+      "agilité mentale",
+      "acuité intellectuelle",
+      "perspicacité",
+      "pénétration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

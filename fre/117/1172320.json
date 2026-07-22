@@ -1,0 +1,23 @@
+{
+  "seq": 1172320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tourbillon"
+    ],
+    [
+      "spirale",
+      "forme en spirale",
+      "motif en spirale"
+    ],
+    [
+      "mouvement tourbillonnaire",
+      "mouvement en spirale"
+    ],
+    [
+      "rouleau de pâte",
+      "pâte roulée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

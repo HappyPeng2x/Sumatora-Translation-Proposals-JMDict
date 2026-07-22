@@ -1,0 +1,41 @@
+{
+  "seq": 1168960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre en charge",
+      "retenir (sa respiration)",
+      "se retirer"
+    ],
+    [
+      "adopter",
+      "prendre en charge",
+      "prendre sous sa responsabilité"
+    ],
+    [
+      "s'en aller",
+      "partir",
+      "se retirer",
+      "s'éloigner"
+    ],
+    [
+      "expirer",
+      "rendre l'âme",
+      "donner son dernier souffle"
+    ],
+    [
+      "s'en aller",
+      "se retirer",
+      "s'éloigner",
+      "quitter",
+      "partir"
+    ],
+    [
+      "se retirer",
+      "retraiter",
+      "donner l'aftocht",
+      "se retirer en arrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

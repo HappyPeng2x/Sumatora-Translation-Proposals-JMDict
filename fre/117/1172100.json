@@ -1,0 +1,15 @@
+{
+  "seq": 1172100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "temps pluvieux"
+    ],
+    [
+      "jour pluvieux",
+      "jour humide",
+      "jour de pluie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

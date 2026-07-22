@@ -1,0 +1,12 @@
+{
+  "seq": 1169110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déserter",
+      "quitter",
+      "abandonner (un lieu)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

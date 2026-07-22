@@ -1,0 +1,34 @@
+{
+  "seq": 1170660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "disparaître",
+      "se cacher",
+      "se dissimuler"
+    ],
+    [
+      "disparaître derrière",
+      "être caché par",
+      "être couvert",
+      "sortir de vue"
+    ],
+    [
+      "vivre en retraite",
+      "se retirer du monde"
+    ],
+    [
+      "être inconnu",
+      "ne pas être découvert",
+      "être caché (comme un sens)"
+    ],
+    [
+      "décéder (d'une personne en position élevée)"
+    ],
+    [
+      "être protégé",
+      "être sous la garde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1176240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jardin",
+      "parc",
+      "plantation",
+      "parc",
+      "jardin",
+      "plantation"
+    ],
+    [
+      "lieu",
+      "monde",
+      "environnement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

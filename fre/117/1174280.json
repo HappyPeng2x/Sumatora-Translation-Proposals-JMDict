@@ -5,6 +5,10 @@
     [
       "jour de printemps prolongé",
       "jour printanier long"
+    ],
+    [
+      "adieu",
+      "salutation d'adieu"
     ]
   ],
   "model": "qwen3:14b"

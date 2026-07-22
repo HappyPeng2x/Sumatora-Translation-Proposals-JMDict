@@ -1,0 +1,18 @@
+{
+  "seq": 1169320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "culbuter",
+      "se retourner",
+      "tomber à l'eau"
+    ],
+    [
+      "tomber",
+      "basculer",
+      "s'écrouler",
+      "s'allonger sur le dos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
