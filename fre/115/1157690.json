@@ -1,0 +1,14 @@
+{
+  "seq": 1157690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grand talent",
+      "prodige"
+    ],
+    [
+      "personne dotée d'un talent exceptionnel; génie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

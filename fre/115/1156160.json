@@ -1,0 +1,15 @@
+{
+  "seq": 1156160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commission",
+      "consignation",
+      "mandat"
+    ],
+    [
+      "commission; consignation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

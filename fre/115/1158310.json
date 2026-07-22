@@ -1,0 +1,26 @@
+{
+  "seq": 1158310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "greffe",
+      "transplantation"
+    ],
+    [
+      "transplantation (d'organes, de tissus, etc.) ; greffe"
+    ],
+    [
+      "transfert d'embryon ; greffe d'embryon"
+    ],
+    [
+      "portage (logiciel)"
+    ],
+    [
+      "assimilation d'une culture étrangère"
+    ],
+    [
+      "greffe d'organes; greffe de tissus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

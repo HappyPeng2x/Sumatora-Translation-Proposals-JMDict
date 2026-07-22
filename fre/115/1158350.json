@@ -1,0 +1,31 @@
+{
+  "seq": 1158350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transfert",
+      "transport",
+      "transportation"
+    ],
+    [
+      "référend",
+      "transférer",
+      "transporter",
+      "déménager",
+      "transférer à"
+    ],
+    [
+      "rédirection",
+      "envoi"
+    ],
+    [
+      "référé",
+      "transfert",
+      "transférer",
+      "envoi",
+      "déménagement",
+      "mutation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

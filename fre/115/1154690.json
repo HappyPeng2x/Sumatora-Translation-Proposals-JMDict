@@ -1,0 +1,14 @@
+{
+  "seq": 1154690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie sombre",
+      "côté sombre"
+    ],
+    [
+      "ombre (astronomie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

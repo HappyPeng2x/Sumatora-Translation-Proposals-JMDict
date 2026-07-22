@@ -11,6 +11,14 @@
       "oubli",
       "négligence",
       "laisser derrière soi"
+    ],
+    [
+      "laisser derrière soi",
+      "abandonner"
+    ],
+    [
+      "héritage",
+      "legs"
     ]
   ],
   "model": "qwen3:14b"

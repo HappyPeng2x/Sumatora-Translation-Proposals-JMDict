@@ -9,6 +9,14 @@
     [
       "transfert (d'une équipe, d'une entreprise, etc.)",
       "mutation (d'une équipe, d'une entreprise, etc.)"
+    ],
+    [
+      "changement d'agence artistique",
+      "mutation d'agence artistique"
+    ],
+    [
+      "transfert (sportif)",
+      "mutation (sportive)"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,17 @@
+{
+  "seq": 1156860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diversion",
+      "passer le temps",
+      "loisir",
+      "récréation"
+    ],
+    [
+      "jouet",
+      "balle de jeu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

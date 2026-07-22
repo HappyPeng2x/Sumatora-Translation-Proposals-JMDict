@@ -1,0 +1,17 @@
+{
+  "seq": 1157680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "singularité",
+      "particularité",
+      "éclat"
+    ],
+    [
+      "singularité",
+      "particularité",
+      "évidence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

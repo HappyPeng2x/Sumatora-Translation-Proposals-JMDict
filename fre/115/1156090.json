@@ -1,0 +1,17 @@
+{
+  "seq": 1156090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confier à",
+      "s'en remettre à"
+    ],
+    [
+      "abandonner",
+      "se livrer à",
+      "se laisser emporter par",
+      "se rendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

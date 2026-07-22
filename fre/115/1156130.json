@@ -1,0 +1,16 @@
+{
+  "seq": 1156130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détail",
+      "circonstance"
+    ],
+    [
+      "compliqué",
+      "complexé",
+      "labyrinthique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

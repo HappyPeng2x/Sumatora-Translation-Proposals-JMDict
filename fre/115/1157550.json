@@ -13,6 +13,17 @@
     ],
     [
       "défamiliarisation (technique artistique); ostranenie; aliénation"
+    ],
+    [
+      "catabolisme",
+      "dissimilation",
+      "dégradation",
+      "décomposition"
+    ],
+    [
+      "déshumanisation",
+      "aliénation",
+      "déshabillage"
     ]
   ],
   "model": "qwen3:14b"

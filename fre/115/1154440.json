@@ -1,0 +1,15 @@
+{
+  "seq": 1154440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chiffrement",
+      "codage",
+      "chiffrement de message"
+    ],
+    [
+      "protection de mot de passe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

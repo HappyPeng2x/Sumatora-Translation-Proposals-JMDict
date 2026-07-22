@@ -1,0 +1,11 @@
+{
+  "seq": 1160210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "véhicule de soins ambulatoires",
+      "véhicule de consultation ambulante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

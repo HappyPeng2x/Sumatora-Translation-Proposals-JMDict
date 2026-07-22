@@ -16,6 +16,16 @@
       "se sentir démotivé",
       "perdre l'intérêt",
       "être déçu"
+    ],
+    [
+      "flétrir",
+      "décolorer",
+      "perdre de la vigueur"
+    ],
+    [
+      "s'user",
+      "s'abîmer",
+      "s'émousser"
     ]
   ],
   "model": "qwen3:14b"

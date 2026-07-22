@@ -10,6 +10,14 @@
     [
       "personne différente",
       "individu distinct"
+    ],
+    [
+      "autre personne",
+      "personne différente"
+    ],
+    [
+      "personne extraordinaire",
+      "individu doté de capacités exceptionnelles"
     ]
   ],
   "model": "qwen3:14b"

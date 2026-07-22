@@ -1,0 +1,20 @@
+{
+  "seq": 1154370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obscurité",
+      "ténébres"
+    ],
+    [
+      "désordre; agitation; trouble; turbulence"
+    ],
+    [
+      "endroit secret; lieu caché"
+    ],
+    [
+      "prison; captivité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

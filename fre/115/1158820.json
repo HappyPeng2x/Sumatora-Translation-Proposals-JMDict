@@ -6,6 +6,17 @@
       "vêtement",
       "habillement",
       "drapery"
+    ],
+    [
+      "habillement",
+      "vêtements"
+    ],
+    [
+      "col de vêtements japonais",
+      "endroit sur la poitrine où les pans de la chemise de kimono se rejoignent"
+    ],
+    [
+      "représentation vestimentaire"
     ]
   ],
   "model": "qwen3:14b"

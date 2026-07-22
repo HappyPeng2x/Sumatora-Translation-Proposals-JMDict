@@ -13,6 +13,9 @@
     [
       "registre",
       "mode de langage"
+    ],
+    [
+      "niveau linguistique; registre; mode de langage"
     ]
   ],
   "model": "qwen3:14b"

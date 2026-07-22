@@ -1,0 +1,12 @@
+{
+  "seq": 1157100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "achever",
+      "terminer",
+      "accomplir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

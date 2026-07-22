@@ -1,0 +1,12 @@
+{
+  "seq": 1160090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cabinet de médecin",
+      "bureau médical",
+      "salle de soins"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

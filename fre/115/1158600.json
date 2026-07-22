@@ -1,0 +1,13 @@
+{
+  "seq": 1158600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "estomac"
+    ],
+    [
+      "besoin alimentaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1156690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "but",
+      "dessein",
+      "intention"
+    ],
+    [
+      "dessein",
+      "projet",
+      "volonté",
+      "intendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

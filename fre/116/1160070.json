@@ -1,0 +1,16 @@
+{
+  "seq": 1160070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médecin",
+      "docteur en médecine",
+      "MD"
+    ],
+    [
+      "doctorat en médecine",
+      "docteur en médecine (du droit allemand)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

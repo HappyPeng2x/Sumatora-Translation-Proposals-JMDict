@@ -1,0 +1,15 @@
+{
+  "seq": 1159620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "oeuvres littéraires restantes",
+      "reliques littéraires"
+    ],
+    [
+      "œuvres anciennes",
+      "œuvres issues d'époques passées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

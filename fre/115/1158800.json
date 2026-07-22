@@ -1,0 +1,19 @@
+{
+  "seq": 1158800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les secrets de l'art"
+    ],
+    [
+      "vêtements et bol (possessions essentielles d'un moine, vendus aux enchères lors de son enterrement) ; transmission du dharma du maître à l'élève (dans le zen)"
+    ],
+    [
+      "Kutte et bol du maître (qu'il transmet comme symbole de succession); techniques du métier; traditions"
+    ],
+    [
+      "enseignement secret transmis par un maître à un disciple (d'une religion ou d'une art)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

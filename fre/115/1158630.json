@@ -1,0 +1,11 @@
+{
+  "seq": 1158630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ulcère gastrique",
+      "ulcère de l'estomac"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

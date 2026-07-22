@@ -1,0 +1,17 @@
+{
+  "seq": 1156200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abandon",
+      "d'un droit",
+      "d'un bien"
+    ],
+    [
+      "transfert",
+      "de droits",
+      "à quelqu'un d'autre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,54 @@
+{
+  "seq": 1157130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accomplir",
+      "faire",
+      "composer",
+      "constituer",
+      "faire",
+      "former",
+      "former",
+      "faire",
+      "constituer",
+      "composer"
+    ],
+    [
+      "constituer",
+      "édifier",
+      "acquérir",
+      "créer",
+      "établir"
+    ],
+    [
+      "accomplir",
+      "réaliser",
+      "atteindre",
+      "gagner",
+      "mériter"
+    ],
+    [
+      "transformer",
+      "convertir",
+      "changer",
+      "muter",
+      "modifier"
+    ],
+    [
+      "faire",
+      "commettre",
+      "exécuter",
+      "accomplir",
+      "produire"
+    ],
+    [
+      "faire délibérément",
+      "agir intentionnellement",
+      "accomplir sciemment",
+      "entreprendre délibérément",
+      "faire exprès"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1153780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nonchalance",
+      "oisiveté",
+      "sans soucis"
+    ],
+    [
+      "nonchalant",
+      "détaché",
+      "indifférent",
+      "serein",
+      "sans inquiétude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

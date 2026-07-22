@@ -1,0 +1,41 @@
+{
+  "seq": 1156530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avis",
+      "opinion"
+    ],
+    [
+      "réprimande",
+      "admonestation",
+      "reproche",
+      "avertissement",
+      "mise en garde"
+    ],
+    [
+      "lire les leçons",
+      "réprimander",
+      "réprimander",
+      "donner une fustigation",
+      "donner une remontrance",
+      "donner une bonne correction",
+      "dire la vérité sans détour"
+    ],
+    [
+      "avis",
+      "opinion"
+    ],
+    [
+      "vision",
+      "aperçu",
+      "vision du monde"
+    ],
+    [
+      "conseil",
+      "avis",
+      "conseil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

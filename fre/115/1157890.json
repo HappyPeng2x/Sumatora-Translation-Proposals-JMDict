@@ -6,6 +6,10 @@
       "vue différente",
       "théorie alternative",
       "avis dissident"
+    ],
+    [
+      "idées étranges",
+      "idées bizarres"
     ]
   ],
   "model": "qwen3:14b"

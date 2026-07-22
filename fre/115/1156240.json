@@ -1,0 +1,12 @@
+{
+  "seq": 1156240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "menace",
+      "menacer",
+      "crier de menace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

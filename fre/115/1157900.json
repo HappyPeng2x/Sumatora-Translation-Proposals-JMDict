@@ -4,6 +4,13 @@
   "glosses": [
     [
       "objection"
+    ],
+    [
+      "opinion différente",
+      "vision différente",
+      "idée divergente",
+      "avis contraire",
+      "position opposée"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,17 @@
+{
+  "seq": 1155920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grandeur",
+      "grandiose"
+    ],
+    [
+      "grandiose",
+      "majestueux",
+      "énorme",
+      "puissant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

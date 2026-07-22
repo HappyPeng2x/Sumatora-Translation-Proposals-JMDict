@@ -1,0 +1,15 @@
+{
+  "seq": 1158780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la nourriture, le vêtement et le couvert"
+    ],
+    [
+      "entretien",
+      "soutien",
+      "maintenance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

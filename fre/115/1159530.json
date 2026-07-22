@@ -1,0 +1,11 @@
+{
+  "seq": 1159530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "héréditaire",
+      "transmissible par héritage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

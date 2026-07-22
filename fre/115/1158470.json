@@ -1,0 +1,18 @@
+{
+  "seq": 1158470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "restauration (de Meiji)"
+    ],
+    [
+      "Restauration médiévale",
+      "Réforme du XIXe siècle"
+    ],
+    [
+      "Parti japonais de l'innovation",
+      "Nippon Ishin no Kai"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

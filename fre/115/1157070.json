@@ -1,0 +1,19 @@
+{
+  "seq": 1157070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaise"
+    ],
+    [
+      "poste",
+      "position",
+      "siège",
+      "fonction"
+    ],
+    [
+      "portefeuille (d'un ministre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

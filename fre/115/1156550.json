@@ -9,6 +9,11 @@
       "inflexible",
       "borné",
       "capricieux"
+    ],
+    [
+      "obstination",
+      "entêtement",
+      "inflexibilité"
     ]
   ],
   "model": "qwen3:14b"

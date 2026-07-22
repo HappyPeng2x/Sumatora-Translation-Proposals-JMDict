@@ -1,0 +1,14 @@
+{
+  "seq": 1153960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dispositif de sécurité"
+    ],
+    [
+      "disjoncteur",
+      "interrupteur de sécurité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

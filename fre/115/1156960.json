@@ -1,0 +1,13 @@
+{
+  "seq": 1156960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dissuasion",
+      "persuasion",
+      "incitation à rester",
+      "dissuasion (pour ne pas démissionner, partir, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

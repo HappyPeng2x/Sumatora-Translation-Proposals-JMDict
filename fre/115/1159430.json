@@ -1,0 +1,15 @@
+{
+  "seq": 1159430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cadavre",
+      "dépouille",
+      "restes"
+    ],
+    [
+      "le corps propre hérité des parents"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

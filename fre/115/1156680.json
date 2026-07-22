@@ -1,0 +1,15 @@
+{
+  "seq": 1156680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dessin"
+    ],
+    [
+      "idée",
+      "conception",
+      "plan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

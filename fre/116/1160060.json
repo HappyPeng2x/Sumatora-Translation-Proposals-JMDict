@@ -1,0 +1,14 @@
+{
+  "seq": 1160060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médecin",
+      "médecin distingué"
+    ],
+    [
+      "médecin exceptionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

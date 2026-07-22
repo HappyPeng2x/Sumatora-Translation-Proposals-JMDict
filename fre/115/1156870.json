@@ -1,0 +1,29 @@
+{
+  "seq": 1156870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réconforter"
+    ],
+    [
+      "divertir",
+      "occuper"
+    ],
+    [
+      "détourner l'attention",
+      "égayer",
+      "soulager"
+    ],
+    [
+      "taquiner",
+      "jouer avec",
+      "faire croire quelque chose de faux"
+    ],
+    [
+      "faire un jouet de",
+      "transformer en objet de jeu",
+      "faire un pion de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

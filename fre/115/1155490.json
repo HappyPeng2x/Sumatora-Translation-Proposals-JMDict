@@ -1,0 +1,22 @@
+{
+  "seq": 1155490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "position des unités dans un nombre"
+    ],
+    [
+      "déterminer le rang; la qualité ou les avantages et inconvénients"
+    ],
+    [
+      "avantage; supériorité"
+    ],
+    [
+      "avantage; position dominante"
+    ],
+    [
+      "déterminer la position (avant ou après la virgule)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

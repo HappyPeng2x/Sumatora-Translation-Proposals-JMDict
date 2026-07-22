@@ -1,0 +1,27 @@
+{
+  "seq": 1158340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déplacement",
+      "relocalisation",
+      "transfert",
+      "mutation"
+    ],
+    [
+      "déplacer",
+      "transporter",
+      "installer",
+      "adapter"
+    ],
+    [
+      "déplacement",
+      "transfert d'installation"
+    ],
+    [
+      "migration",
+      "déplacement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

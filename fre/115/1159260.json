@@ -1,0 +1,14 @@
+{
+  "seq": 1159260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "héritage",
+      "patrimoine"
+    ],
+    [
+      "héritage laissé par les générations précédentes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1155040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au-delà",
+      "plus loin que",
+      "au-delà de",
+      "plus loin que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

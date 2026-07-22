@@ -1,0 +1,20 @@
+{
+  "seq": 1158130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diversité",
+      "variétés",
+      "différentes sortes"
+    ],
+    [
+      "être non humain",
+      "créature surnaturelle"
+    ],
+    [
+      "chose extraordinaire",
+      "chose exceptionnelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

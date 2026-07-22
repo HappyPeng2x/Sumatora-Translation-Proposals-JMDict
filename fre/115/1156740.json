@@ -1,0 +1,45 @@
+{
+  "seq": 1156740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malveillance",
+      "mauvaise volonté"
+    ],
+    [
+      "mauvaise humeur",
+      "hostilité",
+      "méchanceté"
+    ],
+    [
+      "personne méchante",
+      "personne jalouse",
+      "personne venimeuse",
+      "personne rancunière",
+      "personne irritante"
+    ],
+    [
+      "personne de mauvaise humeur",
+      "personne acariâtre",
+      "personne grincheuse",
+      "personne boudeuse",
+      "personne jalouse"
+    ],
+    [
+      "méchant",
+      "malveillant",
+      "haineux",
+      "cruel",
+      "trahisonneux",
+      "malicieux"
+    ],
+    [
+      "de mauvaise humeur",
+      "hostile",
+      "irrité",
+      "contrarié",
+      "mécontent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

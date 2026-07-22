@@ -1,0 +1,24 @@
+{
+  "seq": 1157080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à cause de",
+      "du fait de",
+      "pour"
+    ],
+    [
+      "cause; raison; motif"
+    ],
+    [
+      "conséquence; résultat; effet"
+    ],
+    [
+      "affectant; concernant; touchant"
+    ],
+    [
+      "(néerlandais) pour; concernant; en rapport avec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

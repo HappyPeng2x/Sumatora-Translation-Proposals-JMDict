@@ -11,6 +11,10 @@
     [
       "médecin",
       "médecin (suffixe)"
+    ],
+    [
+      "médecin",
+      "spécialiste de la médecine"
     ]
   ],
   "model": "qwen3:14b"

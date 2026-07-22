@@ -1,0 +1,18 @@
+{
+  "seq": 1156990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facile",
+      "simple"
+    ],
+    [
+      "avoir tendance à",
+      "être enclin à"
+    ],
+    [
+      "facile à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

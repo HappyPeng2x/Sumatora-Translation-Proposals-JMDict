@@ -5,6 +5,9 @@
     [
       "corps différent",
       "forme différente"
+    ],
+    [
+      "forme variant d'un caractère"
     ]
   ],
   "model": "qwen3:14b"

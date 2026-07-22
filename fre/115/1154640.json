@@ -13,6 +13,12 @@
       "abattu",
       "désappointé",
       "triste"
+    ],
+    [
+      "sombre; ténébreux; sombrement"
+    ],
+    [
+      "désappointé; abattu; triste; déprimé"
     ]
   ],
   "model": "qwen3:14b"

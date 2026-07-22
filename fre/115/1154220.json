@@ -1,0 +1,28 @@
+{
+  "seq": 1154220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discount",
+      "rabais",
+      "solde"
+    ],
+    [
+      "donner trop facilement",
+      "donner librement",
+      "se vendre à bas prix"
+    ],
+    [
+      "offre avantageuse",
+      "bonne affaire",
+      "petit prix en Belgique",
+      "petite réduction en Bargèze"
+    ],
+    [
+      "attribution facile",
+      "octroi sans difficulté",
+      "concession aisée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

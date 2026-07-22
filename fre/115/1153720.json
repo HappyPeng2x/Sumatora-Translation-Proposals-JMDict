@@ -1,0 +1,33 @@
+{
+  "seq": 1153720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facile"
+    ],
+    [
+      "facile",
+      "détaché",
+      "simpliste",
+      "irresponsable",
+      "négligent",
+      "rapide (à agir)"
+    ],
+    [
+      "degré d'inadvertance",
+      "inadvertance",
+      "souci peu prononcé"
+    ],
+    [
+      "simplicité",
+      "facilité",
+      "aisance"
+    ],
+    [
+      "inadvertance",
+      "souci peu prononcé",
+      "légereté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

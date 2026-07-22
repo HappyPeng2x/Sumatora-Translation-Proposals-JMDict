@@ -1,0 +1,22 @@
+{
+  "seq": 1158140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exceptionnel",
+      "exceptionnelle",
+      "extraordinaire",
+      "inédit",
+      "singulier"
+    ],
+    [
+      "exceptionnel",
+      "exceptionnelle",
+      "bien particulier",
+      "sans précédent",
+      "unique",
+      "incomparable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

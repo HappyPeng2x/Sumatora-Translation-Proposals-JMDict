@@ -25,6 +25,10 @@
       "frotter",
       "tapoter",
       "saisir (le pommeau d'une épée)"
+    ],
+    [
+      "réfléchir à plusieurs reprises",
+      "méditer à plusieurs reprises"
     ]
   ],
   "model": "qwen3:14b"

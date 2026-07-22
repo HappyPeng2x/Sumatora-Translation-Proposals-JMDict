@@ -1,0 +1,20 @@
+{
+  "seq": 1158400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déplacement",
+      "migration",
+      "mouvement"
+    ],
+    [
+      "mobile",
+      "déplaçable",
+      "en mouvement",
+      "en déplacement",
+      "circulant",
+      "errant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

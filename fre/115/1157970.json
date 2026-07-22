@@ -1,0 +1,18 @@
+{
+  "seq": 1157970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement",
+      "mouvement"
+    ],
+    [
+      "mutation",
+      "changement",
+      "réorganisation",
+      "redistribution",
+      "réaffectation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

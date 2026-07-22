@@ -1,0 +1,10 @@
+{
+  "seq": 1160120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séparation de la pratique médicale et de la dispensation des médicaments"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

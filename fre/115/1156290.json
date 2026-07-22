@@ -1,0 +1,13 @@
+{
+  "seq": 1156290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prestige"
+    ],
+    [
+      "arrondissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

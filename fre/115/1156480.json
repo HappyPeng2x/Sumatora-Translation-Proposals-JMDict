@@ -1,0 +1,14 @@
+{
+  "seq": 1156480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vaincre une difficulté"
+    ],
+    [
+      "audace",
+      "décision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

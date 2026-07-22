@@ -1,0 +1,23 @@
+{
+  "seq": 1156430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esprit",
+      "cœur",
+      "disposition"
+    ],
+    [
+      "audace",
+      "décision",
+      "élan"
+    ],
+    [
+      "nature",
+      "tempérament",
+      "caractère",
+      "humeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

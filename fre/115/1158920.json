@@ -1,0 +1,15 @@
+{
+  "seq": 1158920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manière informelle",
+      "manque de politesse"
+    ],
+    [
+      "singularité",
+      "particularité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

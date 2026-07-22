@@ -10,6 +10,9 @@
     [
       "pratique médicale",
       "dispensation de médicaments"
+    ],
+    [
+      "médecin et pharmacien"
     ]
   ],
   "model": "qwen3:14b"

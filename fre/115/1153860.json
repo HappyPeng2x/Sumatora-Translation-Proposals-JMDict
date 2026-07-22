@@ -1,0 +1,23 @@
+{
+  "seq": 1153860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vie tranquille"
+    ],
+    [
+      "contentement",
+      "satisfaction",
+      "aise"
+    ],
+    [
+      "vie paisible",
+      "existence calme"
+    ],
+    [
+      "zufriedenheit sans vœux",
+      "contentement sans désir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1156950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "condoléances"
+    ],
+    [
+      "rendre visite à un malade"
+    ],
+    [
+      "rendre visite à quelqu'un pour le consoler et le soutenir"
+    ],
+    [
+      "visite de consolation"
+    ],
+    [
+      "visite à un malade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

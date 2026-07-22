@@ -1,0 +1,22 @@
+{
+  "seq": 1155750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préférence injustifiée",
+      "partialité",
+      "préjugé",
+      "biais"
+    ],
+    [
+      "ancrage",
+      "ancrage fort"
+    ],
+    [
+      "propre intérêt",
+      "intérêt personnel",
+      "intérêt privé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

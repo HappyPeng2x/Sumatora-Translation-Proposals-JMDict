@@ -1,0 +1,21 @@
+{
+  "seq": 1154660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tâtonner dans le noir",
+      "explorer des pistes sans avoir la moindre idée de la bonne direction"
+    ],
+    [
+      "tâtonner dans le noir"
+    ],
+    [
+      "tâtonner dans le noir"
+    ],
+    [
+      "chercher à tâtons dans le noir",
+      "chercher aveuglément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

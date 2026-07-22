@@ -1,0 +1,15 @@
+{
+  "seq": 1157510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être différent de",
+      "différer"
+    ],
+    [
+      "être inhabituel",
+      "ne pas être courant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

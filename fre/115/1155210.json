@@ -1,0 +1,18 @@
+{
+  "seq": 1155210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "depuis",
+      "dorénavant"
+    ],
+    [
+      "depuis lors",
+      "dès lors",
+      "depuis que",
+      "dès que",
+      "à partir de ce moment-là"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

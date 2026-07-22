@@ -1,0 +1,15 @@
+{
+  "seq": 1154590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "code",
+      "mot de passe",
+      "chiffre"
+    ],
+    [
+      "atteinte à l'éveil par la méditation; sans études dogmatiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

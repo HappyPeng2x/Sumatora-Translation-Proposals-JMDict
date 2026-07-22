@@ -1,0 +1,15 @@
+{
+  "seq": 1154870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnel de l'accueil",
+      "guide",
+      "concierge"
+    ],
+    [
+      "indicateur de place (néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

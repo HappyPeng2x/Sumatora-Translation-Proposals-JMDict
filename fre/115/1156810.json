@@ -7,6 +7,14 @@
       "nuance",
       "nuance de sens",
       "connotation"
+    ],
+    [
+      "sens caché",
+      "signification sous-jacente"
+    ],
+    [
+      "intention secrète",
+      "motif caché"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,36 @@
+{
+  "seq": 1155400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grade",
+      "rang",
+      "trône"
+    ],
+    [
+      "poste gouvernemental ; rang à la cour"
+    ],
+    [
+      "statut social ; rang ; classe ; niveau ; échelon"
+    ],
+    [
+      "grade (de qualité, etc.) ; niveau ; palier ; rang"
+    ],
+    [
+      "position d'un chiffre (ex. dizaines, milliers) ; chiffre ; (décimale) place"
+    ],
+    [
+      "(German) style d'une œuvre"
+    ],
+    [
+      "(German) rang dans une art"
+    ],
+    [
+      "(Dutch) environ; à peu près; plus ou moins; approximativement"
+    ],
+    [
+      "(Dutch) presque; à peu près; à peu près comme; autant que; à ce point; suffisamment pour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1156320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être fier"
+    ],
+    [
+      "flanquer des baffes",
+      "menacer",
+      "faire du chantage",
+      "se comporter de manière arrogante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

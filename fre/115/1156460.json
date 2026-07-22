@@ -1,0 +1,14 @@
+{
+  "seq": 1156460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détresse",
+      "dépression",
+      "désespoir",
+      "abattement",
+      "découragement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

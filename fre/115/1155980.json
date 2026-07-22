@@ -1,0 +1,22 @@
+{
+  "seq": 1155980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clôturer",
+      "encercler",
+      "entourer"
+    ],
+    [
+      "assiéger",
+      "faire le siège de"
+    ],
+    [
+      "jouer (au go, au shogi, etc.)"
+    ],
+    [
+      "avoir une concubine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

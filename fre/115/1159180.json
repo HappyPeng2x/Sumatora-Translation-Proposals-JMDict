@@ -1,0 +1,17 @@
+{
+  "seq": 1159180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "restes archéologiques",
+      "vestiges",
+      "fondations anciennes"
+    ],
+    [
+      "restes archéologiques",
+      "vestiges",
+      "reliques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

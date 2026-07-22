@@ -6,6 +6,9 @@
       "être satisfait",
       "se sentir en sécurité",
       "être serein"
+    ],
+    [
+      "apaiser"
     ]
   ],
   "model": "qwen3:14b"

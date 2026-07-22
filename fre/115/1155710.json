@@ -1,0 +1,26 @@
+{
+  "seq": 1155710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "demande",
+      "requête"
+    ],
+    [
+      "dépendance"
+    ],
+    [
+      "dépendre de"
+    ],
+    [
+      "se fier à"
+    ],
+    [
+      "confier à"
+    ],
+    [
+      "dépendre de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

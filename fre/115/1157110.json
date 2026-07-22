@@ -1,0 +1,14 @@
+{
+  "seq": 1157110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terminer",
+      "finir",
+      "achever",
+      "aboutir",
+      "se terminer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

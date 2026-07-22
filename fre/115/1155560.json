@@ -1,0 +1,14 @@
+{
+  "seq": 1155560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "définition",
+      "positionnement",
+      "emplacement fixe",
+      "cartographie",
+      "localisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

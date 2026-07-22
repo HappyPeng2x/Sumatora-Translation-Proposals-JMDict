@@ -1,0 +1,15 @@
+{
+  "seq": 1156100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre d'un comité"
+    ],
+    [
+      "représentant de classe",
+      "membre d'une commission",
+      "délégué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

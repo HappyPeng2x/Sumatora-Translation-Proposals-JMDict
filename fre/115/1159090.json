@@ -1,0 +1,16 @@
+{
+  "seq": 1159090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dommage",
+      "regret"
+    ],
+    [
+      "désappointant",
+      "désagréable",
+      "à regret"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,28 @@
+{
+  "seq": 1154910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "illégalité",
+      "obscurité",
+      "ténèbres"
+    ],
+    [
+      "désarroi",
+      "désespoir",
+      "perte d'espoir"
+    ],
+    [
+      "lieu caché",
+      "secret",
+      "oubli"
+    ],
+    [
+      "marché noir",
+      "commerce clandestin",
+      "transactions illégales",
+      "canal clandestin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

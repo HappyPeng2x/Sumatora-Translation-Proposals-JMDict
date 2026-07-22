@@ -6,6 +6,10 @@
       "prix bas",
       "prix modeste",
       "tarif réduit"
+    ],
+    [
+      "prix bas",
+      "tarif réduit"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,17 @@
+{
+  "seq": 1154930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stupide",
+      "imbécile",
+      "dément"
+    ],
+    [
+      "degré de bêtise",
+      "bêtise",
+      "obscur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

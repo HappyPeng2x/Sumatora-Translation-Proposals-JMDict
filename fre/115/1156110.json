@@ -1,0 +1,14 @@
+{
+  "seq": 1156110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comité",
+      "commission"
+    ],
+    [
+      "comité parlementaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

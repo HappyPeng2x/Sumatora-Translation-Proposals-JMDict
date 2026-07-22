@@ -1,0 +1,17 @@
+{
+  "seq": 1159300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "souvenirs",
+      "récollections"
+    ],
+    [
+      "affaire non réglée d'une personne décédée"
+    ],
+    [
+      "affaire non résolue; affaire à traiter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

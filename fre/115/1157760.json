@@ -1,0 +1,30 @@
+{
+  "seq": 1157760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étrangeté",
+      "anomalie"
+    ],
+    [
+      "exceptionnel",
+      "inédit",
+      "surprenant",
+      "extraordinaire",
+      "incomparable",
+      "insolite",
+      "anormal"
+    ],
+    [
+      "anormal",
+      "insolite",
+      "différent",
+      "déviant",
+      "étrange",
+      "remarquable",
+      "particulier",
+      "exceptionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

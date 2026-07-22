@@ -1,0 +1,30 @@
+{
+  "seq": 1156250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dignité",
+      "majesté",
+      "manière digne"
+    ],
+    [
+      "mine digne",
+      "étiquette",
+      "comportement correct"
+    ],
+    [
+      "action",
+      "comportement",
+      "règles religieuses",
+      "ordres"
+    ],
+    [
+      "règles bouddhiques",
+      "ceinture liturgique"
+    ],
+    [
+      "bande sur l'épaule d'une robe monastique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

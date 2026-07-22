@@ -1,0 +1,24 @@
+{
+  "seq": 1158710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vêtements"
+    ],
+    [
+      "robe",
+      "manteau"
+    ],
+    [
+      "revêtement",
+      "couche",
+      "glace"
+    ],
+    [
+      "couche",
+      "enveloppe",
+      "glace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

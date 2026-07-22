@@ -1,0 +1,19 @@
+{
+  "seq": 1156180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "délégation",
+      "procuration"
+    ],
+    [
+      "pouvoir",
+      "autorisation",
+      "confiance",
+      "commission",
+      "délégation",
+      "responsabilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

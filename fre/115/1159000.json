@@ -1,0 +1,15 @@
+{
+  "seq": 1159000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'inconvenance",
+      "l'irrégularité"
+    ],
+    [
+      "maladie",
+      "mauvaise santé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

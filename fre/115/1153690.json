@@ -1,0 +1,27 @@
+{
+  "seq": 1153690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calme",
+      "reposant",
+      "tranquille"
+    ],
+    [
+      "facile; sans difficulté"
+    ],
+    [
+      "apaisant; rassurant"
+    ],
+    [
+      "simple et clair; à l'aise; sans contrainte"
+    ],
+    [
+      "paisible; calme; pacifique"
+    ],
+    [
+      "détendu; rassuré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

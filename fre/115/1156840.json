@@ -1,0 +1,12 @@
+{
+  "seq": 1156840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traduction libre",
+      "traduction librement adaptée",
+      "interprétation libre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

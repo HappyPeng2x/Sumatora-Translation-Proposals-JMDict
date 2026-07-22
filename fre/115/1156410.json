@@ -1,0 +1,19 @@
+{
+  "seq": 1156410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inattendu",
+      "surprenant"
+    ],
+    [
+      "inattendu",
+      "surprenant",
+      "inopiné",
+      "imprévu",
+      "inattendu par rapport à l'attente",
+      "au-delà de l'attente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

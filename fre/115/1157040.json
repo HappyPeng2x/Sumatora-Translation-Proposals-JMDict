@@ -1,0 +1,12 @@
+{
+  "seq": 1157040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Le Livre des Mutations",
+      "L'Échange",
+      "L'ancien texte chinois de divination et de philosophie ; l'un des Cinq Classiques du confucianisme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

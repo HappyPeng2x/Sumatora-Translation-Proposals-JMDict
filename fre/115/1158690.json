@@ -1,0 +1,17 @@
+{
+  "seq": 1158690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se faner"
+    ],
+    [
+      "s'abattre",
+      "être abattu",
+      "être découragé",
+      "être déprimé",
+      "être chagrin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

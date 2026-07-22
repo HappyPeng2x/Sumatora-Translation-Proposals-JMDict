@@ -5,6 +5,10 @@
     [
       "poème posthume",
       "chanson écrite après la mort de l'auteur"
+    ],
+    [
+      "poème funéraire",
+      "dernier poème"
     ]
   ],
   "model": "qwen3:14b"

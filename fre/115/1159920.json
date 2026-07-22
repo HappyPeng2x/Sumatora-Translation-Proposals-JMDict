@@ -1,0 +1,18 @@
+{
+  "seq": 1159920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bureau médical",
+      "cabinet de médecin"
+    ],
+    [
+      "groupe d'enseignants en médecine (dans une faculté de médecine ou un hôpital universitaire)"
+    ],
+    [
+      "chambre de soins",
+      "chambre d'infirmière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

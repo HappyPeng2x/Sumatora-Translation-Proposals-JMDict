@@ -5,6 +5,9 @@
     [
       "rang courtier",
       "grade dans la cour impériale"
+    ],
+    [
+      "rang protocolaire"
     ]
   ],
   "model": "qwen3:14b"

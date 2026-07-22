@@ -1,0 +1,14 @@
+{
+  "seq": 1154120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "équilibre",
+      "stabilité"
+    ],
+    [
+      "stable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

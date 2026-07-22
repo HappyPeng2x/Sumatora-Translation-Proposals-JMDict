@@ -1,0 +1,11 @@
+{
+  "seq": 1158970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "infraction de contrat",
+      "défaut de paiement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

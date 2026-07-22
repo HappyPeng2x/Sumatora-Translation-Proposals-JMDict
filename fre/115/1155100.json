@@ -1,0 +1,18 @@
+{
+  "seq": 1155100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "après quoi",
+      "désormais",
+      "dorénavant"
+    ],
+    [
+      "après cela",
+      "ensuite",
+      "dès lors",
+      "par la suite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

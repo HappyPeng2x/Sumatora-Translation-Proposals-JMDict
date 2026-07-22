@@ -1,0 +1,26 @@
+{
+  "seq": 1156940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apaisement",
+      "réconfort"
+    ],
+    [
+      "apaiser",
+      "rassurer",
+      "calmer"
+    ],
+    [
+      "réconfort",
+      "consolation"
+    ],
+    [
+      "apaisement",
+      "rassurance",
+      "calme",
+      "conciliation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

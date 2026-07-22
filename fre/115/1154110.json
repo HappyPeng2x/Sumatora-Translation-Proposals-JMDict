@@ -13,6 +13,18 @@
       "inexpensive",
       "abordable",
       "modeste"
+    ],
+    [
+      "bas prix"
+    ],
+    [
+      "simple; peu exigeant; de faible qualité; sans élégance; bon marché; peu coûteux"
+    ],
+    [
+      "bon marché; prix abordable"
+    ],
+    [
+      "simplicité; peu d'exigence; faible qualité"
     ]
   ],
   "model": "qwen3:14b"

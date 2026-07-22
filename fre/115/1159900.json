@@ -4,6 +4,9 @@
   "glosses": [
     [
       "officier médical"
+    ],
+    [
+      "officier de santé militaire"
     ]
   ],
   "model": "qwen3:14b"

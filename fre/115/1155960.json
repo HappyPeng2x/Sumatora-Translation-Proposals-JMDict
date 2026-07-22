@@ -1,0 +1,31 @@
+{
+  "seq": 1155960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entourer"
+    ],
+    [
+      "abriter",
+      "protéger",
+      "cacher",
+      "défendre"
+    ],
+    [
+      "conserver",
+      "garder",
+      "entretenir"
+    ],
+    [
+      "conserver",
+      "stocker",
+      "préserver"
+    ],
+    [
+      "protéger",
+      "défendre",
+      "sauvegarder"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

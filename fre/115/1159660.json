@@ -6,6 +6,11 @@
       "objet laissé derrière",
       "chose abandonnée",
       "article trouvé sur les lieux d'un crime ou après la mort"
+    ],
+    [
+      "effets personnels",
+      "biens personnels",
+      "héritage (d'une personne décédée)"
     ]
   ],
   "model": "qwen3:14b"

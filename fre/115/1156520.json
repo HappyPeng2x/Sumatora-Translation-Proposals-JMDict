@@ -1,0 +1,16 @@
+{
+  "seq": 1156520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moral"
+    ],
+    [
+      "signification",
+      "portée",
+      "utilité",
+      "valeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,32 @@
+{
+  "seq": 1155300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élégance",
+      "dandysme",
+      "raffinement",
+      "ayant du style"
+    ],
+    [
+      "affectation",
+      "s'exhiber",
+      "craner",
+      "apparences",
+      "faire quelque chose juste pour le spectacle"
+    ],
+    [
+      "date (personne)"
+    ],
+    [
+      "ville de Hokkaidō"
+    ],
+    [
+      "ville de Fukushima"
+    ],
+    [
+      "dandy; élégant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

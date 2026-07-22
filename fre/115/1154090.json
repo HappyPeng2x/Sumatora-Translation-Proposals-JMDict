@@ -1,0 +1,23 @@
+{
+  "seq": 1154090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "installation",
+      "déniche",
+      "enlèvement",
+      "mise en place"
+    ],
+    [
+      "dévoilement"
+    ],
+    [
+      "placement",
+      "installation"
+    ],
+    [
+      "dévoilement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

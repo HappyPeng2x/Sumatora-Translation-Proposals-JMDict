@@ -1,0 +1,17 @@
+{
+  "seq": 1153730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paix",
+      "calme",
+      "tranquillité"
+    ],
+    [
+      "calme",
+      "doux",
+      "serein"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

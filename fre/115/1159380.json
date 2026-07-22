@@ -1,0 +1,26 @@
+{
+  "seq": 1159380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruines",
+      "vestiges"
+    ],
+    [
+      "ruines; débris"
+    ],
+    [
+      "site archéologique"
+    ],
+    [
+      "héritage des morts"
+    ],
+    [
+      "héritage"
+    ],
+    [
+      "reste; vestige"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

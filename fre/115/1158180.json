@@ -6,6 +6,21 @@
       "changer",
       "se déplacer",
       "aller et venir"
+    ],
+    [
+      "s'écouler",
+      "passer",
+      "s'écouler (du temps)"
+    ],
+    [
+      "se déplacer lentement",
+      "marcher",
+      "se déplacer d'un lieu à un autre"
+    ],
+    [
+      "venir successivement à l'esprit",
+      "se présenter successivement à l'esprit",
+      "apparaître successivement à l'esprit"
     ]
   ],
   "model": "qwen3:14b"

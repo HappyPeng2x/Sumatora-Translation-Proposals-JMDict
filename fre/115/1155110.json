@@ -1,0 +1,18 @@
+{
+  "seq": 1155110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à l'avenir",
+      "à partir de",
+      "désormais",
+      "dorénavant"
+    ],
+    [
+      "depuis",
+      "dès que",
+      "à partir de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

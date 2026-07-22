@@ -5,6 +5,9 @@
     [
       "parfum des vêtements",
       "odeur des vêtements"
+    ],
+    [
+      "odeur de benjoin brûlé utilisé pour parfumer des kimonos"
     ]
   ],
   "model": "qwen3:14b"

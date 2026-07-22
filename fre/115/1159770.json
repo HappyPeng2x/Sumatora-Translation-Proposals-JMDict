@@ -5,6 +5,9 @@
     [
       "science médicale",
       "département médical"
+    ],
+    [
+      "faculté de médecine"
     ]
   ],
   "model": "qwen3:14b"

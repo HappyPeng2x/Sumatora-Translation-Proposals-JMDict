@@ -1,0 +1,49 @@
+{
+  "seq": 1158210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être déménagér",
+      "être transféré"
+    ],
+    [
+      "être contagieux"
+    ],
+    [
+      "changer",
+      "détourner l'attention",
+      "passer d'une chose à une autre"
+    ],
+    [
+      "être imprégné",
+      "s'infiltrer",
+      "pénétrer progressivement"
+    ],
+    [
+      "passer",
+      "s'écouler",
+      "s'écouler (le temps)"
+    ],
+    [
+      "s'étendre",
+      "se propager",
+      "prendre feu"
+    ],
+    [
+      "avancer",
+      "progresser",
+      "se déplacer en avant"
+    ],
+    [
+      "s'écouler",
+      "disparaître",
+      "ne plus exister (le temps)"
+    ],
+    [
+      "pâlir",
+      "perdre sa couleur",
+      "s'estomper"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

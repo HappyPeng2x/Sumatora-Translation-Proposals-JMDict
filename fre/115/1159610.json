@@ -1,0 +1,18 @@
+{
+  "seq": 1159610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reliquie",
+      "reste",
+      "souvenir"
+    ],
+    [
+      "souvenance matérielle"
+    ],
+    [
+      "antiquité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

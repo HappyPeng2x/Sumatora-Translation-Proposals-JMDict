@@ -6,6 +6,10 @@
       "obéir respectueusement",
       "s'humilier",
       "s'asseoir droit, avec respect"
+    ],
+    [
+      "se comporter avec respect et solennité",
+      "se tenir droit et avec dignité"
     ]
   ],
   "model": "qwen3:14b"

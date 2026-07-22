@@ -1,0 +1,37 @@
+{
+  "seq": 1156800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sens",
+      "signification"
+    ],
+    [
+      "importance",
+      "portée",
+      "valeur d'une chose",
+      "signifier",
+      "indiquer",
+      "représenter"
+    ],
+    [
+      "implication",
+      "déduction",
+      "signifier",
+      "contenir",
+      "vouloir dire",
+      "indiquer",
+      "signifier",
+      "pointer vers",
+      "représenter",
+      "signifier avoir",
+      "se réduire à",
+      "représenter",
+      "impliquer",
+      "prévoir",
+      "inclure",
+      "avoir pour but"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

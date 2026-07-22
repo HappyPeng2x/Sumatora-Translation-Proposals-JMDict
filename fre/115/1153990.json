@@ -1,0 +1,12 @@
+{
+  "seq": 1153990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sécurité",
+      "santé",
+      "sécurité (en termes de risques)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

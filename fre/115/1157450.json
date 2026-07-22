@@ -1,0 +1,13 @@
+{
+  "seq": 1157450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "respect",
+      "respectueux",
+      "vénération",
+      "crainte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

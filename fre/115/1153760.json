@@ -1,0 +1,32 @@
+{
+  "seq": 1153760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confort",
+      "aisance"
+    ],
+    [
+      "réconfort",
+      "soulagement",
+      "consolation"
+    ],
+    [
+      "plaisir",
+      "bien-être",
+      "félicité"
+    ],
+    [
+      "sukhāvatī"
+    ],
+    [
+      "confortable",
+      "agréable",
+      "facile",
+      "convenable",
+      "doux",
+      "plaisant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

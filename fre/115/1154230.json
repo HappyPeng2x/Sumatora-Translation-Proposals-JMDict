@@ -1,0 +1,17 @@
+{
+  "seq": 1154230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bien-être",
+      "bonne santé",
+      "en sécurité"
+    ],
+    [
+      "état de santé",
+      "bien-être",
+      "condition physique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

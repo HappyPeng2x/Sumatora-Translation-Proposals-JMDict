@@ -1,0 +1,14 @@
+{
+  "seq": 1157460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recul",
+      "tremblement",
+      "frisson",
+      "défiance",
+      "crainte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

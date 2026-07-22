@@ -10,6 +10,12 @@
       "détérioration soudaine",
       "déclin rapide",
       "tournant vers le pire"
+    ],
+    [
+      "changer de décor dans le noir; sans que le public le voie"
+    ],
+    [
+      "aggraver; détériorer; rendre pire; corrompre"
     ]
   ],
   "model": "qwen3:14b"

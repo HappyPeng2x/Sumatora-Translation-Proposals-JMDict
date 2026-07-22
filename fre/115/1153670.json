@@ -1,0 +1,44 @@
+{
+  "seq": 1153670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "économique",
+      "bon marché",
+      "pas cher"
+    ],
+    [
+      "calme",
+      "paisible",
+      "doux",
+      "apaisé"
+    ],
+    [
+      "calme",
+      "doux",
+      "paisible",
+      "serein"
+    ],
+    [
+      "modeste",
+      "simple",
+      "modeste",
+      "humble",
+      "inférieur",
+      "médiocre"
+    ],
+    [
+      "grossier",
+      "vulgaire",
+      "ordinaire",
+      "dégoûtant",
+      "vulgaire",
+      "déshonnête",
+      "grossier",
+      "dégradé",
+      "déshonnête",
+      "dégoûtant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

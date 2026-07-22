@@ -1,0 +1,15 @@
+{
+  "seq": 1159720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personnel médical",
+      "médecin"
+    ],
+    [
+      "personnel médical",
+      "corps médical"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

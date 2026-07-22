@@ -15,6 +15,11 @@
       "non-juif",
       "non-juive",
       "gentil"
+    ],
+    [
+      "étranger",
+      "personne étrangère",
+      "le vreemdeling"
     ]
   ],
   "model": "qwen3:14b"

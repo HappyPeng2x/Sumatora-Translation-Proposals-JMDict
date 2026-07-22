@@ -1,0 +1,24 @@
+{
+  "seq": 1158890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changer"
+    ],
+    [
+      "se tromper",
+      "faire une erreur"
+    ],
+    [
+      "ne pas tenir (une promesse)"
+    ],
+    [
+      "tordre (un muscle)",
+      "désarticuler (par exemple le cou)"
+    ],
+    [
+      "dévoyer une catastrophe rêvée par des sorts"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

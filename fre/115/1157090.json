@@ -1,0 +1,14 @@
+{
+  "seq": 1157090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire"
+    ],
+    [
+      "faire",
+      "accomplir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

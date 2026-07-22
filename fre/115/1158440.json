@@ -1,0 +1,33 @@
+{
+  "seq": 1158440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "émigré",
+      "émigration",
+      "immigrant",
+      "immigration"
+    ],
+    [
+      "immigrant; émigré",
+      "émigré; personne qui quitte son pays"
+    ],
+    [
+      "déplacement; migration; changement de résidence",
+      "déplacement; migration; changement de résidence"
+    ],
+    [
+      "migration pour des raisons professionnelles; migration du travail",
+      "migration pour des raisons professionnelles; migration du travail"
+    ],
+    [
+      "migrant cherchant du travail à l'étranger; migrant économique",
+      "migrant cherchant du travail à l'étranger; migrant économique"
+    ],
+    [
+      "personne qui quitte son pays pour y travailler",
+      "personne qui quitte son pays pour y travailler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

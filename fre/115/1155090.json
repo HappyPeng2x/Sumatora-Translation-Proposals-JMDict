@@ -1,0 +1,17 @@
+{
+  "seq": 1155090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à l'exception de",
+      "sauf"
+    ],
+    [
+      "hors (un périmètre, un domaine, etc.)"
+    ],
+    [
+      "zone située en dehors de qch."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1156300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "puissance",
+      "vigueur"
+    ],
+    [
+      "élan",
+      "audace",
+      "vigueur",
+      "énergie",
+      "force"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

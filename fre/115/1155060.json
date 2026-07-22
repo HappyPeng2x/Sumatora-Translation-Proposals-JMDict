@@ -1,0 +1,21 @@
+{
+  "seq": 1155060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jusqu'à",
+      "moins que",
+      "sous"
+    ],
+    [
+      "sous (un standard, un niveau, etc.) ; en dessous ; en dessous de ; inférieur à"
+    ],
+    [
+      "ce qui suit ; ce qui est mentionné ci-dessous ; le reste ; suivi de..."
+    ],
+    [
+      "comprenant... ; ... et d'autres (employés, officiels, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

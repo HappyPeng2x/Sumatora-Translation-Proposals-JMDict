@@ -1,0 +1,46 @@
+{
+  "seq": 1154860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "information",
+      "renseignement"
+    ],
+    [
+      "information",
+      "avis",
+      "notification"
+    ],
+    [
+      "annonce de l'arrivée d'un visiteur",
+      "notification de l'arrivée d'un visiteur"
+    ],
+    [
+      "invitation"
+    ],
+    [
+      "connaissance",
+      "savoir"
+    ],
+    [
+      "guide"
+    ],
+    [
+      "information détaillée"
+    ],
+    [
+      "connaissance approfondie"
+    ],
+    [
+      "enregistrement",
+      "inscription"
+    ],
+    [
+      "contenu d'un texte ou d'un projet de texte (notamment concernant des précédents et des règles internes d'une administration)"
+    ],
+    [
+      "demande de détails et de circonstances"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

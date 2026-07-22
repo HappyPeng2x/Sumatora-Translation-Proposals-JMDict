@@ -1,0 +1,14 @@
+{
+  "seq": 1160200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "établissement de santé",
+      "structure de soins"
+    ],
+    [
+      "installation médicale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

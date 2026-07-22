@@ -1,0 +1,48 @@
+{
+  "seq": 1155120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ci-dessus",
+      "davantage",
+      "plus que",
+      "puisque"
+    ],
+    [
+      "au-delà",
+      "au-dessus de",
+      "plus que",
+      "plus loin que"
+    ],
+    [
+      "celui-ci",
+      "celui-là",
+      "celui mentionné plus haut",
+      "celui précité"
+    ],
+    [
+      "puisque",
+      "maintenant que",
+      "vu que",
+      "une fois que"
+    ],
+    [
+      "c'est fini",
+      "c'est la fin",
+      "fin"
+    ],
+    [
+      "(allemand) da",
+      "parce que",
+      "après que"
+    ],
+    [
+      "(allemand) au-delà de",
+      "au-delà de cela"
+    ],
+    [
+      "(allemand) samouraï ou classe des samouraïs qualifiés pour voir le shogun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

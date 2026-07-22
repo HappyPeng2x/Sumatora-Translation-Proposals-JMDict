@@ -5,6 +5,9 @@
     [
       "vêtements et obi",
       "tenue de cour complète"
+    ],
+    [
+      "mettre un kimono et attacher l'obi"
     ]
   ],
   "model": "qwen3:14b"

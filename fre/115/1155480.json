@@ -5,6 +5,9 @@
     [
       "ordre hiérarchique",
       "ordre des places"
+    ],
+    [
+      "ordre de siège selon le rang"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,35 @@
+{
+  "seq": 1158430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "introduction",
+      "import",
+      "apport"
+    ],
+    [
+      "transport",
+      "acheminement",
+      "livraison"
+    ],
+    [
+      "mettre en œuvre",
+      "insérer",
+      "introduire"
+    ],
+    [
+      "introduire",
+      "importer"
+    ],
+    [
+      "faire entrer un pays",
+      "amener un immigrant"
+    ],
+    [
+      "se mettre en empathie avec",
+      "sympathiser avec",
+      "ressentir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

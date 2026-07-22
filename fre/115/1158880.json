@@ -1,0 +1,31 @@
+{
+  "seq": 1158880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être différent",
+      "différer"
+    ],
+    [
+      "être incorrect",
+      "être faux",
+      "se tromper"
+    ],
+    [
+      "devenir anormal",
+      "aller de travers",
+      "prendre une mauvaise direction"
+    ],
+    [
+      "n'est-ce pas ?",
+      "n'était-ce pas ?"
+    ],
+    [
+      "changer",
+      "croiser (quelque chose)",
+      "se croiser",
+      "se passer (mutuellement)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,35 @@
+{
+  "seq": 1155780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éminent",
+      "admirable",
+      "célèbre",
+      "grand"
+    ],
+    [
+      "affreux",
+      "terrible",
+      "épouvantable"
+    ],
+    [
+      "affreux",
+      "terrible",
+      "grave",
+      "énorme",
+      "puissant",
+      "sévère"
+    ],
+    [
+      "fatigant",
+      "difficile",
+      "dur"
+    ],
+    [
+      "très",
+      "extrêmement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

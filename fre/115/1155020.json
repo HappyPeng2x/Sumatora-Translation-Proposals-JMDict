@@ -1,0 +1,28 @@
+{
+  "seq": 1155020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au moyen de",
+      "avec"
+    ],
+    [
+      "étant donné que",
+      "du fait que",
+      "parceque"
+    ],
+    [
+      "le jour (d'une date) ; à (un moment) ; à partir de (par exemple aujourd'hui)"
+    ],
+    [
+      "accentue le mot qui le précède"
+    ],
+    [
+      "en outre ; de plus ; ainsi que ; et"
+    ],
+    [
+      "donc ; et donc ; par conséquent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

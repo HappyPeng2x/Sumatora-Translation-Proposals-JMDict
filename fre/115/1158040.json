@@ -8,6 +8,14 @@
       "changement (pour le pire)",
       "accident",
       "catastrophe"
+    ],
+    [
+      "anomalie",
+      "déviation",
+      "incident",
+      "drame",
+      "agitation",
+      "soulever une controverse"
     ]
   ],
   "model": "qwen3:14b"

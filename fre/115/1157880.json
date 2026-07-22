@@ -1,0 +1,14 @@
+{
+  "seq": 1157880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être humain d'une autre planète",
+      "extraterrestre"
+    ],
+    [
+      "personne étrangère à la norme; individu hors du commun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

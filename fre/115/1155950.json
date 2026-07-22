@@ -1,0 +1,24 @@
+{
+  "seq": 1155950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clôture",
+      "enclos",
+      "palissage"
+    ],
+    [
+      "[n] entrepôt; lieu de stockage"
+    ],
+    [
+      "[n] espace aménagé dans une pièce pour la cérémonie du thé"
+    ],
+    [
+      "[abbr, n] maîtresse; épouse"
+    ],
+    [
+      "[shogi, n] château; position défensive forte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

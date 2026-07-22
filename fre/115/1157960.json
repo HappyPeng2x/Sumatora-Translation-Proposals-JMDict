@@ -5,6 +5,10 @@
     [
       "court étranger",
       "pays étranger"
+    ],
+    [
+      "étranger",
+      "étranger (non allemand)"
     ]
   ],
   "model": "qwen3:14b"

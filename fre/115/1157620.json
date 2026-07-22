@@ -1,0 +1,26 @@
+{
+  "seq": 1157620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pays étranger",
+      "terre étrangère",
+      "pays lointain"
+    ],
+    [
+      "pays étranger",
+      "étranger"
+    ],
+    [
+      "pays étranger",
+      "étranger"
+    ],
+    [
+      "monde des esprits",
+      "au-delà",
+      "royaume des esprits",
+      "monde spirituel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

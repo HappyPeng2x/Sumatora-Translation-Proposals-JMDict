@@ -1,0 +1,14 @@
+{
+  "seq": 1158870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "différence"
+    ],
+    [
+      "erreur",
+      "faute"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

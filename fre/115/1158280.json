@@ -1,0 +1,40 @@
+{
+  "seq": 1158280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "émigration",
+      "immigration",
+      "migration"
+    ],
+    [
+      "émigration",
+      "départ vers un autre pays; notamment pour s'y installer durablement"
+    ],
+    [
+      "émigrer",
+      "quitter son pays d'origine pour s'installer dans un autre"
+    ],
+    [
+      "immigrer",
+      "venir s'installer dans un pays étranger"
+    ],
+    [
+      "déplacement",
+      "mouvement d'une population d'un lieu à un autre"
+    ],
+    [
+      "s'installer",
+      "prendre domicile dans un lieu; notamment après un déplacement"
+    ],
+    [
+      "émigration",
+      "départ d'un pays pour s'installer ailleurs; souvent dans un but économique ou social"
+    ],
+    [
+      "immigration",
+      "arrivée de personnes dans un pays pour y résider"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

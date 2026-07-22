@@ -1,0 +1,18 @@
+{
+  "seq": 1158680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sécher",
+      "flétrir",
+      "faner",
+      "décolorer",
+      "sécher (la peau)"
+    ],
+    [
+      "sécher",
+      "rider (la peau)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1158150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opinion différente ; objection"
+    ],
+    [
+      "objection; protestation"
+    ],
+    [
+      "désaccord; division d'opinions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

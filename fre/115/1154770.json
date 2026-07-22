@@ -1,0 +1,37 @@
+{
+  "seq": 1154770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plan",
+      "suffixe signifiant projet provisoire"
+    ],
+    [
+      "brouillon",
+      "copie brute"
+    ],
+    [
+      "attente",
+      "attente (d'une chose)"
+    ],
+    [
+      "bureau",
+      "support (pour un objet)"
+    ],
+    [
+      "projet",
+      "entreprise",
+      "intention"
+    ],
+    [
+      "table",
+      "table élégante"
+    ],
+    [
+      "réflexion",
+      "raison",
+      "jugement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

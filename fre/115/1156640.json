@@ -1,0 +1,35 @@
+{
+  "seq": 1156640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conscience"
+    ],
+    [
+      "prise de conscience",
+      "prise de conscience de",
+      "sens",
+      "conscience"
+    ],
+    [
+      "mano-vijnana",
+      "conscience mentale",
+      "organe de la conscience sensorielle"
+    ],
+    [
+      "conscience"
+    ],
+    [
+      "conscience sociale"
+    ],
+    [
+      "confiance en soi",
+      "assurance"
+    ],
+    [
+      "conscience de la connaissance",
+      "conscience intellectuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

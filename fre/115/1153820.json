@@ -6,6 +6,13 @@
       "accouchement facile",
       "naissance sans complications",
       "accouchement sans danger"
+    ],
+    [
+      "accouchement normal",
+      "accouchement sans complications",
+      "naissance normale",
+      "donner naissance facilement",
+      "accoucher sans difficulté"
     ]
   ],
   "model": "qwen3:14b"

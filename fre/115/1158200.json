@@ -1,0 +1,12 @@
+{
+  "seq": 1158200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "changement",
+      "mutation",
+      "transformation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

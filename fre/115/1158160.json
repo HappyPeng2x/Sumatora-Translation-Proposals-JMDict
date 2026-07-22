@@ -1,0 +1,36 @@
+{
+  "seq": 1158160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déplacer",
+      "infecter",
+      "retirer",
+      "transporter"
+    ],
+    [
+      "porter à la prochaine étape",
+      "faire passer à la phase suivante"
+    ],
+    [
+      "détourner l'attention",
+      "se concentrer sur quelque chose de différent"
+    ],
+    [
+      "passer le temps",
+      "laisser le temps s'écouler"
+    ],
+    [
+      "infecter",
+      "transmettre une infection",
+      "faire passer une maladie"
+    ],
+    [
+      "pénétrer",
+      "imprégner",
+      "laisser imprégner",
+      "faire pénétrer une couleur ou une odeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

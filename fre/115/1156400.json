@@ -1,0 +1,13 @@
+{
+  "seq": 1156400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "officier subalterne"
+    ],
+    [
+      "grade d'officier (en dessous de celui de major ou de korvettenkapitän)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

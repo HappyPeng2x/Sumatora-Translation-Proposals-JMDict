@@ -1,0 +1,20 @@
+{
+  "seq": 1154830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet du débat",
+      "sujet"
+    ],
+    [
+      "affaire (juridique)"
+    ],
+    [
+      "projet ; entreprise"
+    ],
+    [
+      "publicité ; spot publicitaire ; sponsoring"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

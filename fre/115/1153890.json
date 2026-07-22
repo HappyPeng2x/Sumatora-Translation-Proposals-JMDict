@@ -1,0 +1,20 @@
+{
+  "seq": 1153890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soulagement",
+      "tranquillité d'esprit"
+    ],
+    [
+      "sécurité",
+      "confiance"
+    ],
+    [
+      "paix",
+      "calme",
+      "douceur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

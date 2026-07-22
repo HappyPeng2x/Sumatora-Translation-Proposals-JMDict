@@ -1,0 +1,15 @@
+{
+  "seq": 1154300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abbess",
+      "prioresse",
+      "maîtresse d'un monastère bouddhiste"
+    ],
+    [
+      "chef d'une petite communauté monastique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1157000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facile",
+      "simple"
+    ],
+    [
+      "simple; clair; sans détour; direct"
+    ],
+    [
+      "compréhensible; intelligible; évident; net"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

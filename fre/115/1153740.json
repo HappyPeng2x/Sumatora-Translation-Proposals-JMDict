@@ -15,6 +15,18 @@
     [
       "lien vers un message",
       "référence à un message"
+    ],
+    [
+      "bon marché",
+      "inexpensive",
+      "abordable",
+      "faible",
+      "superficiel",
+      "triviaux",
+      "banaux",
+      "facile",
+      "maigre",
+      "schraal"
     ]
   ],
   "model": "qwen3:14b"

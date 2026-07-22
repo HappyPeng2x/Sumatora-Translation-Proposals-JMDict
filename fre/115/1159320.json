@@ -1,0 +1,13 @@
+{
+  "seq": 1159320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perte",
+      "pertes",
+      "perdre",
+      "perdre quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

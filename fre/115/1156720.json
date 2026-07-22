@@ -1,0 +1,20 @@
+{
+  "seq": 1156720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "obstination",
+      "volonté"
+    ],
+    [
+      "disposition",
+      "nature"
+    ],
+    [
+      "appétit",
+      "désir",
+      "gourmandise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
