@@ -1,0 +1,11 @@
+{
+  "seq": 1008400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir possible",
+      "pouvoir (faire quelque chose)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

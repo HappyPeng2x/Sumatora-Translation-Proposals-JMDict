@@ -7,6 +7,11 @@
       "s'accrocher à",
       "rester collé à",
       "s'étendre sur"
+    ],
+    [
+      "rester collé à",
+      "s'accrocher fermement à",
+      "ne pas lâcher"
     ]
   ],
   "model": "qwen3:14b"

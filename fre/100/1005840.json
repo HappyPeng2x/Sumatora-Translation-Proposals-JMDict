@@ -1,0 +1,12 @@
+{
+  "seq": 1005840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "humide",
+      "souillé",
+      "goutteux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

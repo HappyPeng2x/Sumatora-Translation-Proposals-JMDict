@@ -1,0 +1,14 @@
+{
+  "seq": 1010105,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rouler",
+      "retourner",
+      "reverser",
+      "tourner",
+      "retourner (les manches)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

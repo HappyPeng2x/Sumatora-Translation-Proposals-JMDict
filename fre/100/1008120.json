@@ -9,6 +9,26 @@
     [
       "malgré",
       "bien que"
+    ],
+    [
+      "en cours",
+      "en train de se dérouler"
+    ],
+    [
+      "répétée",
+      "récurrente"
+    ],
+    [
+      "simultanée",
+      "commune"
+    ],
+    [
+      "interrompue",
+      "suspendue"
+    ],
+    [
+      "suivie",
+      "précédée"
     ]
   ],
   "model": "qwen3:14b"

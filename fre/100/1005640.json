@@ -1,0 +1,13 @@
+{
+  "seq": 1005640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cru, croquant, précis, net, vif"
+    ],
+    [
+      "court et précis; vif; clair; efficace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

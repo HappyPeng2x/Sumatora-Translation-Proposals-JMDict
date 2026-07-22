@@ -1,0 +1,16 @@
+{
+  "seq": 1007300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bosse",
+      "protubérance",
+      "gonflement"
+    ],
+    [
+      "personne gênante",
+      "personne qui se met en travers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

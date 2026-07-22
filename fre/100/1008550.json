@@ -1,0 +1,16 @@
+{
+  "seq": 1008550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "palpitation",
+      "battement",
+      "tremblement"
+    ],
+    [
+      "excitation",
+      "agitation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

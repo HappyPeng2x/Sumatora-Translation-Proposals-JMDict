@@ -1,0 +1,25 @@
+{
+  "seq": 1010800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cliquetant",
+      "comme un choc électrique",
+      "déchirant"
+    ],
+    [
+      "avec un bruit de cliquetis ; tremblant",
+      "avec un frisson ; tremblant"
+    ],
+    [
+      "ayant l'impression d'une décharge électrique"
+    ],
+    [
+      "tremblant"
+    ],
+    [
+      "crépitant; crépitant par effet statique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

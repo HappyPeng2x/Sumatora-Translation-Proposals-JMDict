@@ -1,0 +1,15 @@
+{
+  "seq": 1009200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indécis",
+      "évasif",
+      "vague",
+      "ambigu",
+      "noncommittal",
+      "ne se prononçant pas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

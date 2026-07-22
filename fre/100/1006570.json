@@ -1,0 +1,17 @@
+{
+  "seq": 1006570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au moins"
+    ],
+    [
+      "au mieux",
+      "au plus haut degré",
+      "au maximum",
+      "en tout cas",
+      "en tout état de cause"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -27,6 +27,12 @@
       "voleur",
       "sournois",
       "pickpocket"
+    ],
+    [
+      "manteau long sans manches; avec une cape jusqu'aux hanches"
+    ],
+    [
+      "voleur qui dérobe des objets laissés devant les magasins ou à l'entrée des maisons"
     ]
   ],
   "model": "qwen3:14b"

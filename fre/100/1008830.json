@@ -1,0 +1,14 @@
+{
+  "seq": 1008830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec",
+      "alors que",
+      "lorsque",
+      "quand",
+      "en même temps que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

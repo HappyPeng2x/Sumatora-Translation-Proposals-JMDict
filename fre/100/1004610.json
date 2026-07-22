@@ -1,0 +1,17 @@
+{
+  "seq": 1004610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'autre jour",
+      "récemment",
+      "il y a peu"
+    ],
+    [
+      "aujourd'hui",
+      "de nos jours",
+      "actuellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

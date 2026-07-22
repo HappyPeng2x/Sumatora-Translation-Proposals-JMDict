@@ -7,6 +7,12 @@
       "impatient",
       "frustrant",
       "vexant"
+    ],
+    [
+      "irritant",
+      "impatient",
+      "frustrant",
+      "vexant"
     ]
   ],
   "model": "qwen3:14b"

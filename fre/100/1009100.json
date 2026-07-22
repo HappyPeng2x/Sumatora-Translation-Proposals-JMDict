@@ -1,0 +1,30 @@
+{
+  "seq": 1009100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit d'une marche à pas marqués",
+      "constamment",
+      "l'un après l'autre",
+      "rapidement",
+      "sans hésitation"
+    ],
+    [
+      "sans réserve",
+      "sans hésitation",
+      "librement"
+    ],
+    [
+      "en frappant fort",
+      "en marchant avec des pas lourds"
+    ],
+    [
+      "joyeux",
+      "zélé",
+      "actif",
+      "diligent",
+      "dynamique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

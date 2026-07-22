@@ -6,6 +6,9 @@
       "nimporte lequel",
       "quoi que ce soit",
       "celui-ci ou celui-là"
+    ],
+    [
+      "aucun"
     ]
   ],
   "model": "qwen3:14b"

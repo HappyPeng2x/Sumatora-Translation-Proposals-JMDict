@@ -1,0 +1,15 @@
+{
+  "seq": 1006280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ensuite"
+    ],
+    [
+      "alors",
+      "ainsi",
+      "donc"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

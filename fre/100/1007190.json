@@ -9,6 +9,10 @@
     [
       "extorqueur",
       "chanteur de corbeaux, racketteur"
+    ],
+    [
+      "réunion",
+      "assemblée"
     ]
   ],
   "model": "qwen3:14b"

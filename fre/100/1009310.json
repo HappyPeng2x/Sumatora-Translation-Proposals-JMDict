@@ -1,0 +1,17 @@
+{
+  "seq": 1009310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "embrouillé",
+      "sirupeux"
+    ],
+    [
+      "mouillé de boue ; souillé (par de l'huile, de la graisse, etc.)"
+    ],
+    [
+      "être dans un état laid (des émotions, des relations, etc.) ; être trouble ; être sordide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

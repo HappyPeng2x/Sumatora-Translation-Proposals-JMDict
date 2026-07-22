@@ -1,0 +1,16 @@
+{
+  "seq": 1005420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se sentir rugueux"
+    ],
+    [
+      "faisant un bruit sec et discret (comme des haricots, des perles, etc.)"
+    ],
+    [
+      "difficile; pénible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

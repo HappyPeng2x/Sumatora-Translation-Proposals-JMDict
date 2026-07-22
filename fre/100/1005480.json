@@ -1,0 +1,22 @@
+{
+  "seq": 1005480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frequement",
+      "repétitivement",
+      "sans cesse"
+    ],
+    [
+      "ardemment",
+      "avec empressement",
+      "avec enthousiasme"
+    ],
+    [
+      "vivement",
+      "très fort",
+      "très intensément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

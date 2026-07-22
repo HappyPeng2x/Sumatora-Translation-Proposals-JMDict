@@ -1,0 +1,20 @@
+{
+  "seq": 1005390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "approximativement"
+    ],
+    [
+      "brièvement",
+      "rapidement",
+      "superficiellement",
+      "approximativement"
+    ],
+    [
+      "légèrement",
+      "promptement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

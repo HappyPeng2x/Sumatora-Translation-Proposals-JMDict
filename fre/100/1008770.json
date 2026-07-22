@@ -1,0 +1,25 @@
+{
+  "seq": 1008770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abominable",
+      "absurde",
+      "sérieux",
+      "terrible",
+      "vraiment pas"
+    ],
+    [
+      "terrible",
+      "affreux",
+      "horrible",
+      "grave",
+      "inadmissible"
+    ],
+    [
+      "très",
+      "extrêmement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -15,6 +15,15 @@
       "complètement",
       "entièrement",
       "thoroughtement"
+    ],
+    [
+      "parfait",
+      "impeccable",
+      "excellent",
+      "irréprochable",
+      "sans défaut",
+      "au top",
+      "très bien"
     ]
   ],
   "model": "qwen3:14b"

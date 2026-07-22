@@ -1,0 +1,24 @@
+{
+  "seq": 1008950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "après tout",
+      "au mieux",
+      "de toute façon",
+      "de toute manière"
+    ],
+    [
+      "de toute façon",
+      "peu importe, puisque cela ne changera rien",
+      "vous pouvez aussi bien ...",
+      "puisque cela n'a pas d'importance"
+    ],
+    [
+      "au mieux",
+      "au plus haut degré",
+      "dans le meilleur des cas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

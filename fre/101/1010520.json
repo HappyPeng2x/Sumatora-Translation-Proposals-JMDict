@@ -1,0 +1,15 @@
+{
+  "seq": 1010520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en murmurant"
+    ],
+    [
+      "en secret",
+      "discrètement",
+      "furtivement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

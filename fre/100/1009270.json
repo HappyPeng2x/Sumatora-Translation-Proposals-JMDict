@@ -1,0 +1,15 @@
+{
+  "seq": 1009270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit de nombreux pas",
+      "bruissement de pas"
+    ],
+    [
+      "bruyant",
+      "agité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

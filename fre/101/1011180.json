@@ -1,0 +1,34 @@
+{
+  "seq": 1011180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entrer en collision avec",
+      "frapper"
+    ],
+    [
+      "rencontrer",
+      "se trouver face à",
+      "tomber sur",
+      "affronter",
+      "être confronté à"
+    ],
+    [
+      "entrer en conflit",
+      "être en désaccord",
+      "s'opposer",
+      "être en contradiction"
+    ],
+    [
+      "se produire en même temps",
+      "coïncider",
+      "tomber le même jour que"
+    ],
+    [
+      "affronter directement",
+      "attaquer frontalement",
+      "se jeter dans"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

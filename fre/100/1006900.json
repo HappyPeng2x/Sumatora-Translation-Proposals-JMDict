@@ -1,0 +1,27 @@
+{
+  "seq": 1006900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "etc..."
+    ],
+    [
+      "en outre",
+      "de plus",
+      "en plus de cela",
+      "autres que cela"
+    ],
+    [
+      "et cetera",
+      "et al.",
+      "etc."
+    ],
+    [
+      "de plus",
+      "en outre",
+      "voilà qui vient en plus",
+      "par ailleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

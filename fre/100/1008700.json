@@ -1,0 +1,24 @@
+{
+  "seq": 1008700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à pas lourds",
+      "en traînant les pieds",
+      "avec lenteur et pesamment"
+    ],
+    [
+      "faible",
+      "sans énergie",
+      "lassé",
+      "désenchanté"
+    ],
+    [
+      "sombre",
+      "flou",
+      "indistinct",
+      "vague"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

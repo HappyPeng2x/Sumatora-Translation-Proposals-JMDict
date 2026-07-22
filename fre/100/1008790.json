@@ -1,0 +1,50 @@
+{
+  "seq": 1008790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Hors de question!",
+      "Quel culot!",
+      "blessant",
+      "inattendu",
+      "outrageux"
+    ],
+    [
+      "absolument pas !",
+      "pas du tout !",
+      "impossible !",
+      "absurde !",
+      "quelle idée !",
+      "pas question !"
+    ],
+    [
+      "pas de problème",
+      "pas du tout",
+      "ne parlons pas de ça"
+    ],
+    [
+      "absurde",
+      "absurde",
+      "folle",
+      "stupide",
+      "irrationnelle"
+    ],
+    [
+      "non; non !",
+      "non; non !"
+    ],
+    [
+      "à aucun prix !"
+    ],
+    [
+      "ah non !"
+    ],
+    [
+      "pas du tout !"
+    ],
+    [
+      "mais enfin; s'il vous plaît !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1008990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'une façon ou d'une autre"
+    ],
+    [
+      "d'une certaine manière",
+      "de quelque façon que ce soit",
+      "de quelque manière que ce soit",
+      "de façon plus ou moins"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

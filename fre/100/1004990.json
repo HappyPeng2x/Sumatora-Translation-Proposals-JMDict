@@ -1,0 +1,19 @@
+{
+  "seq": 1004990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "escroquerie",
+      "duperie",
+      "tricherie",
+      "manipulation",
+      "falsification",
+      "dissimulation",
+      "mirages",
+      "ruses",
+      "tromperie",
+      "détournement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

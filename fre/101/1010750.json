@@ -1,0 +1,17 @@
+{
+  "seq": 1010750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saturé",
+      "trempé"
+    ],
+    [
+      "constamment",
+      "sans cesse",
+      "de manière continue",
+      "sans interruption"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

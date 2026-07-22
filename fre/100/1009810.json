@@ -1,0 +1,14 @@
+{
+  "seq": 1009810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "envers",
+      "concernant",
+      "par rapport à",
+      "quant à",
+      "au sujet de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

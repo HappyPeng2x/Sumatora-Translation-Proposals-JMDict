@@ -1,0 +1,47 @@
+{
+  "seq": 1010900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'une manière soignée",
+      "exactement"
+    ],
+    [
+      "exactement",
+      "précisément"
+    ],
+    [
+      "brusquement",
+      "soudain",
+      "tout à coup"
+    ],
+    [
+      "parfaitement adapté",
+      "idéalement convenable"
+    ],
+    [
+      "exactement",
+      "précisément",
+      "justement"
+    ],
+    [
+      "exactement",
+      "précisément",
+      "parfaitement adapté"
+    ],
+    [
+      "étroitement",
+      "hermétiquement",
+      "sans espace",
+      "serré"
+    ],
+    [
+      "exactement",
+      "précisément",
+      "parfaitement",
+      "justement",
+      "idéalement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

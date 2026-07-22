@@ -1,0 +1,24 @@
+{
+  "seq": 1005610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ardemment",
+      "vivement",
+      "pleinement",
+      "complètement",
+      "fortement",
+      "profondément",
+      "chaleureusement",
+      "sérieusement"
+    ],
+    [
+      "posément",
+      "calmement"
+    ],
+    [
+      "fixement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

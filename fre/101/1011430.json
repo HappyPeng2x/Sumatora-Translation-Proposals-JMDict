@@ -1,0 +1,13 @@
+{
+  "seq": 1011430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devoir",
+      "doit",
+      "devrait",
+      "doit absolument"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

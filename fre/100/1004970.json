@@ -1,0 +1,16 @@
+{
+  "seq": 1004970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être en confusion",
+      "être en effervescence",
+      "être encombré de monde"
+    ],
+    [
+      "être en désordre",
+      "être en tumulte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

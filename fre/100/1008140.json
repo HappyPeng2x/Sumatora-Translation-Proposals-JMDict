@@ -1,0 +1,14 @@
+{
+  "seq": 1008140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lier",
+      "relier",
+      "attacher",
+      "joindre",
+      "raccorder"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

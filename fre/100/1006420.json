@@ -1,0 +1,23 @@
+{
+  "seq": 1006420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remettre a plus tard",
+      "retarder"
+    ],
+    [
+      "désigner (un créneau horaire, une réunion, etc.) à un moment différent ; avancer ; reculer ; reporter ; retarder ; décaler (par exemple les horaires de travail)"
+    ],
+    [
+      "organiser (des congés; des heures de début; etc.) de manière espacée pour éviter les chevauchements"
+    ],
+    [
+      "reporter; ajourner"
+    ],
+    [
+      "tromper"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

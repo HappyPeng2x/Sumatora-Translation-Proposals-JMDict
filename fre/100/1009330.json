@@ -1,0 +1,17 @@
+{
+  "seq": 1009330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quel",
+      "quel genre"
+    ],
+    [
+      "quel que soit",
+      "n'importe quel",
+      "quoi que ce soit",
+      "tous"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

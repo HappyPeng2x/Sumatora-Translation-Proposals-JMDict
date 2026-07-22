@@ -1,0 +1,17 @@
+{
+  "seq": 1008110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complètement",
+      "de manière approfondie",
+      "vraiment"
+    ],
+    [
+      "attentivement",
+      "avec soin",
+      "de manière minutieuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

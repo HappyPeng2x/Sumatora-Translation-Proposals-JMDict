@@ -1,0 +1,13 @@
+{
+  "seq": 1006330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans hésiter",
+      "directement",
+      "sans permission",
+      "brusquement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

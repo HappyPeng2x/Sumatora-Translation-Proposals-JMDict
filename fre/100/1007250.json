@@ -8,6 +8,9 @@
       "maladroit",
       "tremblant",
       "embarrassé"
+    ],
+    [
+      "indistinct; vague; hesitant; incoherent"
     ]
   ],
   "model": "qwen3:14b"

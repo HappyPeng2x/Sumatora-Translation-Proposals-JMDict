@@ -1,0 +1,13 @@
+{
+  "seq": 1010400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cligner des yeux (en signe de surprise)"
+    ],
+    [
+      "étonné; clignotant; avec un battement de paupières"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

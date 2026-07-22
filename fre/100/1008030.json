@@ -1,0 +1,20 @@
+{
+  "seq": 1008030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par erreur",
+      "plutôt, involontairement, inconsciemment"
+    ],
+    [
+      "très près",
+      "à proximité"
+    ],
+    [
+      "par erreur",
+      "involontairement",
+      "inconsciemment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

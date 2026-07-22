@@ -1,0 +1,13 @@
+{
+  "seq": 1005380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "franc",
+      "direct",
+      "sans détour",
+      "ouvert"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

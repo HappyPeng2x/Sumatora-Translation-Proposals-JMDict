@@ -1,0 +1,12 @@
+{
+  "seq": 1006090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en marchant avec énergie",
+      "en marchant rapidement",
+      "d'un pas vif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

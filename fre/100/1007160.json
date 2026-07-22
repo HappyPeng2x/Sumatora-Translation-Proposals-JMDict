@@ -1,0 +1,25 @@
+{
+  "seq": 1007160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en groupe",
+      "en succession"
+    ],
+    [
+      "ramper",
+      "s'agiter en groupe",
+      "avancer en rampant"
+    ],
+    [
+      "traîner",
+      "étendre",
+      "s'étirer"
+    ],
+    [
+      "avancer en traînant",
+      "avancer lentement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

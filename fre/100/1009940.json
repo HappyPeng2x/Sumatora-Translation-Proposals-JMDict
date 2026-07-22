@@ -5,6 +5,10 @@
     [
       "Nozomi",
       "service de Shinkansen Tōkaidō et Sanyō le plus rapide, s'arrêtant uniquement aux grandes gares"
+    ],
+    [
+      "mission spatiale",
+      "lancement de la sonde lunaire Nozomi en 1998"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,28 @@
+{
+  "seq": 1008190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ennuyeux",
+      "insignifiant"
+    ],
+    [
+      "insignifiant",
+      "mineur",
+      "dérisoire",
+      "sans valeur"
+    ],
+    [
+      "absurde",
+      "stupide",
+      "bête",
+      "ridicule"
+    ],
+    [
+      "inutile",
+      "sans objet",
+      "désappointant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

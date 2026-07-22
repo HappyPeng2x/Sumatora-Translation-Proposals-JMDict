@@ -1,0 +1,20 @@
+{
+  "seq": 1004710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ces temps-ci"
+    ],
+    [
+      "récemment",
+      "ces derniers temps"
+    ],
+    [
+      "ces derniers jours",
+      "récemment",
+      "il y a peu de temps",
+      "depuis quelques jours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

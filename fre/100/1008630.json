@@ -1,0 +1,17 @@
+{
+  "seq": 1008630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excessivement",
+      "très",
+      "vraiment"
+    ],
+    [
+      "pas du tout",
+      "nullement",
+      "simplement (ne peut pas)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

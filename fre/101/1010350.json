@@ -12,6 +12,20 @@
     [
       "s'échapper",
       "prendre la fuite"
+    ],
+    [
+      "échouer",
+      "ne pas aboutir",
+      "être annulé"
+    ],
+    [
+      "raconter des histoires vulgaires",
+      "parler de manière suggestive",
+      "aller sur la langue de bois"
+    ],
+    [
+      "pleuvoir",
+      "tomber en pluie"
     ]
   ],
   "model": "qwen3:14b"

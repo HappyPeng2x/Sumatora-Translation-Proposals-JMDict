@@ -6,6 +6,15 @@
       "se perdre dans",
       "s'abandonner à",
       "être complètement absorbé par"
+    ],
+    [
+      "s'enliser dans quelque chose",
+      "se coincer dans quelque chose",
+      "se pencher en avant dans quelque chose"
+    ],
+    [
+      "être entièrement absorbé",
+      "être profondément plongé dans quelque chose"
     ]
   ],
   "model": "qwen3:14b"

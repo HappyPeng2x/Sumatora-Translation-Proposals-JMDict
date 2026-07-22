@@ -1,0 +1,27 @@
+{
+  "seq": 1011250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balancer",
+      "faire osciller",
+      "suspendre"
+    ],
+    [
+      "porter",
+      "porter sur soi",
+      "emporter"
+    ],
+    [
+      "montrer",
+      "laisser voir",
+      "exhiber"
+    ],
+    [
+      "suivre",
+      "aller après",
+      "poursuivre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

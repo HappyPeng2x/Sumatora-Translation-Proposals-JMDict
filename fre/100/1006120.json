@@ -1,0 +1,53 @@
+{
+  "seq": 1006120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bien fait",
+      "clair",
+      "ordonné"
+    ],
+    [
+      "élégamment",
+      "nettement",
+      "soigneusement"
+    ],
+    [
+      "sans difficulté",
+      "facilement",
+      "sans problème"
+    ],
+    [
+      "clairement",
+      "distinctement",
+      "de manière évidente"
+    ],
+    [
+      "entièrement",
+      "complètement",
+      "absolument"
+    ],
+    [
+      "pas du tout",
+      "nullement",
+      "pas même un peu"
+    ],
+    [
+      "clair",
+      "net",
+      "frank",
+      "sans artifice",
+      "simple",
+      "sans ambiguïté"
+    ],
+    [
+      "très net",
+      "très clair",
+      "sans ambiguïté",
+      "frank",
+      "simple",
+      "sans artifice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

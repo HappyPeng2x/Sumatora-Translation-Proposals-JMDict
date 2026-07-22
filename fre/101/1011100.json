@@ -1,0 +1,12 @@
+{
+  "seq": 1011100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abondant",
+      "copieux",
+      "généreux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

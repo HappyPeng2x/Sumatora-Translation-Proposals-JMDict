@@ -1,0 +1,14 @@
+{
+  "seq": 1005470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'agripper",
+      "s'accrocher",
+      "s'attacher",
+      "s'adhérer",
+      "s'ancrer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

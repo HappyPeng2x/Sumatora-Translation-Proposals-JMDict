@@ -1,0 +1,20 @@
+{
+  "seq": 1011240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être suspendu à",
+      "osciller",
+      "se balancer"
+    ],
+    [
+      "être à portée de main",
+      "danguer (devant les yeux)"
+    ],
+    [
+      "être entièrement dépendant de",
+      "reposer complètement sur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

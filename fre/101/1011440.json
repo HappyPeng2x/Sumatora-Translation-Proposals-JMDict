@@ -1,0 +1,29 @@
+{
+  "seq": 1011440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collant",
+      "partout"
+    ],
+    [
+      "épaissement",
+      "abondamment"
+    ],
+    [
+      "partout",
+      "sur toute la surface"
+    ],
+    [
+      "collant",
+      "suivant sans cesse",
+      "en train de flirter"
+    ],
+    [
+      "cliché",
+      "usé",
+      "trop employé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

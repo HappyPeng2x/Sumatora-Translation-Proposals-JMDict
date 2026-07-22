@@ -12,6 +12,15 @@
       "inachevé",
       "incomplet",
       "à moitié fait"
+    ],
+    [
+      "impétueux",
+      "désinvolte",
+      "irréfléchi"
+    ],
+    [
+      "mal conseillé",
+      "mal guidé"
     ]
   ],
   "model": "qwen3:14b"

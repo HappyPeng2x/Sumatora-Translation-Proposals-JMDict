@@ -1,0 +1,18 @@
+{
+  "seq": 1011210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mollassant",
+      "flasque",
+      "mou",
+      "spongieux",
+      "mouillé"
+    ],
+    [
+      "doux",
+      "flasque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

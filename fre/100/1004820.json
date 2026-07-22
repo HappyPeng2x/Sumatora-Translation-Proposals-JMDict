@@ -1,0 +1,19 @@
+{
+  "seq": 1004820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jusqu'ici"
+    ],
+    [
+      "cela suffit (pour aujourd'hui) ; c'en finit ici"
+    ],
+    [
+      "passé; terminé; fini; c'était ça; c'était là; fin de partie"
+    ],
+    [
+      "au revoir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

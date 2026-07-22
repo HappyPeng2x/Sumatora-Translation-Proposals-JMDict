@@ -1,0 +1,25 @@
+{
+  "seq": 1005890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "humide",
+      "moite"
+    ],
+    [
+      "mélancolique",
+      "triste",
+      "déprimant"
+    ],
+    [
+      "humide",
+      "moite",
+      "gluant"
+    ],
+    [
+      "triste",
+      "mélancolique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

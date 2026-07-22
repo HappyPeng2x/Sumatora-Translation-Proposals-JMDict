@@ -1,0 +1,15 @@
+{
+  "seq": 1007130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pareil",
+      "tel"
+    ],
+    [
+      "pas possible !",
+      "jamais !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

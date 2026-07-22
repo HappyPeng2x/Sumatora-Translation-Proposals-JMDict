@@ -1,0 +1,20 @@
+{
+  "seq": 1010190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être timide",
+      "être timoré",
+      "avoir un air timide"
+    ],
+    [
+      "montrer ses dents",
+      "exposer ses dents"
+    ],
+    [
+      "être mal aligné",
+      "être de travers (les dents)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

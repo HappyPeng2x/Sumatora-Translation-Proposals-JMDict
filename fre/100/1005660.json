@@ -1,0 +1,10 @@
+{
+  "seq": 1005660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un plat de hot pot où des tranches minces de viande sont faites bouillir rapidement puis trempées dans une sauce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

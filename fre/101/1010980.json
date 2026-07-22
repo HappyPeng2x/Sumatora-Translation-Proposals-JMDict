@@ -20,6 +20,18 @@
     [
       "frapper (une balle) trop haut",
       "envoyer (une balle) au-dessus de la barre"
+    ],
+    [
+      "se comporter de manière exagérée ou inappropriée"
+    ],
+    [
+      "laisser échapper une opportunité; manquer une chance"
+    ],
+    [
+      "parler sans fondement; dire des absurdités"
+    ],
+    [
+      "diffuser; rendre populaire; mettre en circulation"
     ]
   ],
   "model": "qwen3:14b"

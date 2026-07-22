@@ -6,6 +6,13 @@
       "trempé",
       "mouillé jusqu'aux os",
       "complètement trempé"
+    ],
+    [
+      "trempé jusqu'aux os",
+      "complètement trempé",
+      "mouillé jusqu'aux cheveux",
+      "imbibé d'eau",
+      "trempé de la tête aux pieds"
     ]
   ],
   "model": "qwen3:14b"

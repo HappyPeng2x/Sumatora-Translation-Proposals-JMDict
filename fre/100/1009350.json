@@ -1,0 +1,11 @@
+{
+  "seq": 1009350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le fond du trou",
+      "le plus bas point"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

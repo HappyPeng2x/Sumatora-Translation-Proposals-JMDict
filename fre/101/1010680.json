@@ -1,0 +1,21 @@
+{
+  "seq": 1010680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frémissement",
+      "froissement (de vêtements)"
+    ],
+    [
+      "flicker",
+      "scintiller",
+      "vaciller"
+    ],
+    [
+      "friselis",
+      "dentelle",
+      "lambeau de tissu fin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1011160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brusque"
+    ],
+    [
+      "brusque",
+      "aigre",
+      "impoli"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

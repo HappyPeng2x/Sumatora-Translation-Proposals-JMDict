@@ -11,6 +11,14 @@
       "en swaying lentement",
       "en titubant",
       "d'une manière faible et instable"
+    ],
+    [
+      "inattendu",
+      "aléatoire"
+    ],
+    [
+      "sans but",
+      "sans direction"
     ]
   ],
   "model": "qwen3:14b"

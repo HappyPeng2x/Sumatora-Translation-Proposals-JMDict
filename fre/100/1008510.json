@@ -1,0 +1,12 @@
+{
+  "seq": 1008510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chose appelée ...",
+      "chose du genre ...",
+      "quelque chose comme ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

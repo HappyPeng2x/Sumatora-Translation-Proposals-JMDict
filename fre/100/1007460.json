@@ -1,0 +1,17 @@
+{
+  "seq": 1007460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gâcher",
+      "abîmer",
+      "se détériorer",
+      "se corrompre",
+      "échouer"
+    ],
+    [
+      "corrompre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

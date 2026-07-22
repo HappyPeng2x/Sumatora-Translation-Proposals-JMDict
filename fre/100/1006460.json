@@ -1,0 +1,26 @@
+{
+  "seq": 1006460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glisser"
+    ],
+    [
+      "s'éloigner",
+      "dévier",
+      "sortir de son cadre",
+      "perdre son sens de la réalité"
+    ],
+    [
+      "divergir",
+      "s'écarter",
+      "ne pas correspondre"
+    ],
+    [
+      "être hors de propos",
+      "ne pas convenir",
+      "être mal placé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

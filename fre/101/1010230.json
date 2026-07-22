@@ -9,6 +9,15 @@
     [
       "moitié d'un ticket",
       "reste d'un billet"
+    ],
+    [
+      "douzième de ryo"
+    ],
+    [
+      "bande de contrôle; bande de réception"
+    ],
+    [
+      "pain de poisson haché (cuit ou vapeur dans un moule en forme de gâteau; préparé avec le taro japonais)"
     ]
   ],
   "model": "qwen3:14b"

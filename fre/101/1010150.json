@@ -1,0 +1,51 @@
+{
+  "seq": 1010150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clairement",
+      "distinctement"
+    ],
+    [
+      "être clair",
+      "être net",
+      "être précis",
+      "devenir clair",
+      "clarifier"
+    ],
+    [
+      "clair",
+      "net",
+      "précis",
+      "distinct",
+      "nettement perceptible",
+      "très perceptible",
+      "nettement délimité",
+      "prononcé",
+      "nettement exprimé",
+      "incontestable",
+      "bien délimité",
+      "bien décrit",
+      "bien défini",
+      "vif"
+    ],
+    [
+      "gai",
+      "clair",
+      "durable"
+    ],
+    [
+      "franc",
+      "honnête",
+      "ouvert",
+      "direct",
+      "sans détour",
+      "franc-parler",
+      "sans détour",
+      "honnête",
+      "ouvert de cœur",
+      "franc et loyal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

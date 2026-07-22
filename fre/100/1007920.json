@@ -6,6 +6,14 @@
       "à la dérobée",
       "par hasard",
       "d'un coup d'œil"
+    ],
+    [
+      "un instant",
+      "un court moment"
+    ],
+    [
+      "passer par la tête",
+      "apparaître soudain dans l'esprit"
     ]
   ],
   "model": "qwen3:14b"

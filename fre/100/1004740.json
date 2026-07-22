@@ -1,0 +1,22 @@
+{
+  "seq": 1004740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cette occasion",
+      "à cette occasion",
+      "maintenant"
+    ],
+    [
+      "maintenant",
+      "bientôt",
+      "dès maintenant"
+    ],
+    [
+      "récemment",
+      "récemment",
+      "il y a peu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

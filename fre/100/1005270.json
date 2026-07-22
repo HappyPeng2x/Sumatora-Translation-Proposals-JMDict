@@ -1,0 +1,18 @@
+{
+  "seq": 1005270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doucement",
+      "silencieusement",
+      "amer",
+      "douloureusement"
+    ],
+    [
+      "profondément",
+      "intimement",
+      "avec passion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

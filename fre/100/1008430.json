@@ -1,0 +1,15 @@
+{
+  "seq": 1008430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par conséquant"
+    ],
+    [
+      "donc",
+      "puisque",
+      "parce que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

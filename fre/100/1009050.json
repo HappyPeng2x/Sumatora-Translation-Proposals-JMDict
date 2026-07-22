@@ -1,0 +1,14 @@
+{
+  "seq": 1009050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "battement (rapide)",
+      "pulsation"
+    ],
+    [
+      "battre rapidement (le cœur) ; palpiter ; throber ; battre fort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

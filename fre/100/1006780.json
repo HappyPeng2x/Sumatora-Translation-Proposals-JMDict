@@ -1,0 +1,41 @@
+{
+  "seq": 1006780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ce coté là",
+      "là",
+      "par là",
+      "celui-là",
+      "par ici",
+      "par là",
+      "par ici",
+      "celui-là"
+    ],
+    [
+      "là-bas"
+    ],
+    [
+      "celui-ci"
+    ],
+    [
+      "vous; votre famille; votre entreprise"
+    ],
+    [
+      "cette personne"
+    ],
+    [
+      "cet endroit-là"
+    ],
+    [
+      "tu"
+    ],
+    [
+      "vous"
+    ],
+    [
+      "votre famille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

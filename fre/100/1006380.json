@@ -1,0 +1,27 @@
+{
+  "seq": 1006380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à l'extrême",
+      "bien plus",
+      "depuis-pendant longtemps"
+    ],
+    [
+      "beaucoup (plus) ; de beaucoup ; bien plus ; beaucoup de ; en grand nombre"
+    ],
+    [
+      "loin (de) ; depuis longtemps (avant, après) ; il y a longtemps"
+    ],
+    [
+      "droit ; directement"
+    ],
+    [
+      "longtemps; depuis longtemps"
+    ],
+    [
+      "beaucoup; de beaucoup"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,12 @@
       "vol de sac",
       "agression avec vol de sac",
       "voleur de sac"
+    ],
+    [
+      "voleur de sac à main",
+      "voleur de sac",
+      "voleur en train de voler un sac à main",
+      "agresseur volant un sac à main"
     ]
   ],
   "model": "qwen3:14b"

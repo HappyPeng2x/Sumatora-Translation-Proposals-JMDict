@@ -5,6 +5,12 @@
     [
       "detective",
       "police"
+    ],
+    [
+      "agent de police civil",
+      "agent de police non en uniforme",
+      "détective civil",
+      "détective non en uniforme"
     ]
   ],
   "model": "qwen3:14b"

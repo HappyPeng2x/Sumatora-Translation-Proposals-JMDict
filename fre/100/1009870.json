@@ -1,0 +1,16 @@
+{
+  "seq": 1009870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glissant",
+      "visqueux"
+    ],
+    [
+      "de manière fluide",
+      "sans heurt",
+      "de façon lisse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

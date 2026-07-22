@@ -1,0 +1,29 @@
+{
+  "seq": 1006550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impatient",
+      "pressé"
+    ],
+    [
+      "impétueux",
+      "hâtif",
+      "précipité",
+      "vif",
+      "empressé",
+      "désordonné",
+      "impatient",
+      "pressé",
+      "impétueux",
+      "hâtif",
+      "précipité",
+      "vif",
+      "empressé",
+      "désordonné",
+      "impatient",
+      "pressé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

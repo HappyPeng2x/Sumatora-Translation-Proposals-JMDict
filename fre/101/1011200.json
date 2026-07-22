@@ -1,0 +1,31 @@
+{
+  "seq": 1011200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grognement",
+      "plainte à voix basse"
+    ],
+    [
+      "boutons",
+      "taches de rousseur",
+      "éruption",
+      "rougeurs"
+    ],
+    [
+      "coupures en petits morceaux",
+      "découpage en morceaux"
+    ],
+    [
+      "mijoter",
+      "cuire lentement"
+    ],
+    [
+      "onomatopée indiquant une surface bosselée"
+    ],
+    [
+      "onomatopée imitant le bruit d'une perforation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,33 @@
+{
+  "seq": 1010950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être chaud",
+      "devenir tendu",
+      "piqûre",
+      "se brûler la langue"
+    ],
+    [
+      "nerveusement",
+      "tensément",
+      "sur les nerfs"
+    ],
+    [
+      "avec un déchirement",
+      "avec un bruit de déchirure",
+      "avec un bruit de déchirage"
+    ],
+    [
+      "avec un son aigu",
+      "avec un son strident",
+      "avec un cri aigu"
+    ],
+    [
+      "tremblant",
+      "tremblotant",
+      "avec des tremblements"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

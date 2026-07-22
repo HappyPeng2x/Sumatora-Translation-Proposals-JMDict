@@ -1,0 +1,39 @@
+{
+  "seq": 1011060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étourdi",
+      "chancelant",
+      "instable"
+    ],
+    [
+      "vacillant",
+      "indécis",
+      "désorienté"
+    ],
+    [
+      "sans but",
+      "inconsciemment",
+      "capricieusement"
+    ],
+    [
+      "étourdi",
+      "chancelant",
+      "instable"
+    ],
+    [
+      "étourdi",
+      "chancelant",
+      "instable"
+    ],
+    [
+      "vacillant",
+      "indécis",
+      "capricieux",
+      "sans intention",
+      "imprudent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

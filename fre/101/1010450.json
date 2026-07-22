@@ -20,6 +20,14 @@
       "neuf et de qualité",
       "très repassé",
       "net et précis (facture)"
+    ],
+    [
+      "croquant",
+      "croustillant"
+    ],
+    [
+      "électrique",
+      "crépitant"
     ]
   ],
   "model": "qwen3:14b"

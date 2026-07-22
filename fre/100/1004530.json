@@ -1,0 +1,17 @@
+{
+  "seq": 1004530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cliquetant",
+      "tambourinage"
+    ],
+    [
+      "frappant",
+      "tapotant",
+      "cliquetant",
+      "frappant des doigts"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

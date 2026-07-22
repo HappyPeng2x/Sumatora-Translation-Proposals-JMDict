@@ -1,0 +1,14 @@
+{
+  "seq": 1006880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en outre"
+    ],
+    [
+      "au-dessus de (cela)",
+      "sur (cela)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

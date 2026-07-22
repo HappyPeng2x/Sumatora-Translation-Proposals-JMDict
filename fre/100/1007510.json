@@ -1,0 +1,33 @@
+{
+  "seq": 1007510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lentement",
+      "mollement",
+      "sans ardeur"
+    ],
+    [
+      "doucement (d'un versant)"
+    ],
+    [
+      "paresseusement ; sans fin ; longuement"
+    ],
+    [
+      "doucement ; paresseusement ; lentement ; négligemment ; mollement"
+    ],
+    [
+      "gouttant"
+    ],
+    [
+      "lent; s'étirant; paresseux"
+    ],
+    [
+      "plat (un versant)"
+    ],
+    [
+      "négligent; maladroit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

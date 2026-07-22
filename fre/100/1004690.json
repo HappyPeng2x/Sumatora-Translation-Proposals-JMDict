@@ -1,0 +1,15 @@
+{
+  "seq": 1004690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'autre jour",
+      "la dernière fois"
+    ],
+    [
+      "en attendant",
+      "pendant ce temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

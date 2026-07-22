@@ -13,6 +13,17 @@
       "peu importe",
       "quoi qu'il en soit",
       "même si l'on voudrait autrement"
+    ],
+    [
+      "même dans ce cas",
+      "même si",
+      "même en ce qui concerne"
+    ],
+    [
+      "équivalent classique japonais de 'demo'"
+    ],
+    [
+      "particule classique japonaise qui désigne indirectement une personne de haut rang comme sujet de la phrase"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,10 @@
+{
+  "seq": 1007680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ragout de poisson, viande et légumes traditionnellement servi aux lutteurs de sumo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

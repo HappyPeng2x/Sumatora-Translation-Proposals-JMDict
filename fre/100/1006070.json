@@ -8,6 +8,12 @@
     ],
     [
       "dilettante"
+    ],
+    [
+      "amateur",
+      "personne qui s'intéresse à quelque chose sans y être professionnel",
+      "personne qui pratique une activité sans y être expert",
+      "personne qui s'adonne à une activité sans y être sérieusement engagé"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,21 @@
+{
+  "seq": 1010970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "souffler répétitivement",
+      "souffler pour refroidir quelque chose"
+    ],
+    [
+      "haletant",
+      "respirer fort et siffler",
+      "panteler"
+    ],
+    [
+      "avoir du mal",
+      "se débattre",
+      "avoir des difficultés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

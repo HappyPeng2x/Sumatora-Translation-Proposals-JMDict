@@ -1,0 +1,19 @@
+{
+  "seq": 1010960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vivement"
+    ],
+    [
+      "vivement",
+      "avec énergie"
+    ],
+    [
+      "aigu",
+      "pénétrant",
+      "grasseyant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

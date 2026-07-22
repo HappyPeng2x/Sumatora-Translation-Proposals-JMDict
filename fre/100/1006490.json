@@ -1,0 +1,15 @@
+{
+  "seq": 1006490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "harceler"
+    ],
+    [
+      "supplier",
+      "demander vivement",
+      "supplier avec insistance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

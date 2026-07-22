@@ -1,0 +1,16 @@
+{
+  "seq": 1009030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de rien"
+    ],
+    [
+      "ne fait rien",
+      "n'y pense pas",
+      "ce n'est pas grave",
+      "ça n'a pas d'importance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

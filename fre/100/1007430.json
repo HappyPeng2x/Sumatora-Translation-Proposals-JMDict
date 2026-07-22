@@ -1,0 +1,53 @@
+{
+  "seq": 1007430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ample",
+      "desserré",
+      "débordant"
+    ],
+    [
+      "mollassant",
+      "flasque"
+    ],
+    [
+      "rempli de liquide qui déborde",
+      "qui déborde",
+      "qui débordent"
+    ],
+    [
+      "abondamment",
+      "dans l'abondance",
+      "en abondance"
+    ],
+    [
+      "large",
+      "étalé",
+      "étendu"
+    ],
+    [
+      "mollassant",
+      "flasque"
+    ],
+    [
+      "rond",
+      "doux",
+      "bouffi"
+    ],
+    [
+      "bouillonnant",
+      "rempli de bulles"
+    ],
+    [
+      "rempli à ras bord",
+      "plein à craquer"
+    ],
+    [
+      "trop grand",
+      "qui tremble",
+      "qui fléchit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

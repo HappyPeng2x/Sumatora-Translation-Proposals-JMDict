@@ -1,0 +1,42 @@
+{
+  "seq": 1007910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clignotant",
+      "par intermittence",
+      "tremblant"
+    ],
+    [
+      "flicker",
+      "clignoter",
+      "briller par intermittence"
+    ],
+    [
+      "apparaître et disparaître",
+      "apercevoir de façon intermittente"
+    ],
+    [
+      "jeter des regards répétés",
+      "lancer des coups d'œil"
+    ],
+    [
+      "être perçu de temps en temps",
+      "être intermittent"
+    ],
+    [
+      "flatter",
+      "séduire",
+      "plaire"
+    ],
+    [
+      "apparaître brièvement",
+      "être visible de façon intermittente"
+    ],
+    [
+      "être entendu de temps en temps",
+      "être audible de façon intermittente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

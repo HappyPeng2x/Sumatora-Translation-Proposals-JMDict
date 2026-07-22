@@ -1,0 +1,26 @@
+{
+  "seq": 1006930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par la suite",
+      "tôt ou tard"
+    ],
+    [
+      "parmi ceux-ci",
+      "parmi eux",
+      "parmi ceux mentionnés précédemment"
+    ],
+    [
+      "au fil du temps",
+      "en son temps",
+      "ultérieurement"
+    ],
+    [
+      "parmi eux",
+      "entre eux",
+      "parmi ceux-là"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

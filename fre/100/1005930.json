@@ -1,0 +1,13 @@
+{
+  "seq": 1005930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "patate"
+    ],
+    [
+      "pomme de terre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

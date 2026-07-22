@@ -6,6 +6,11 @@
       "jeu",
       "jeu de rôle",
       "improvisation"
+    ],
+    [
+      "tour à tour",
+      "alternance",
+      "tour de rôle"
     ]
   ],
   "model": "qwen3:14b"

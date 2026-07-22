@@ -1,0 +1,33 @@
+{
+  "seq": 1009320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapidement"
+    ],
+    [
+      "rapidement",
+      "sans interruption",
+      "de manière constante"
+    ],
+    [
+      "sans interruption",
+      "l'un après l'autre",
+      "successivement"
+    ],
+    [
+      "audacieux",
+      "franc",
+      "sans retenue"
+    ],
+    [
+      "seulement",
+      "juste comme ça"
+    ],
+    [
+      "bouger",
+      "faire du bumm"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

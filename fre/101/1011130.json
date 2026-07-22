@@ -1,0 +1,19 @@
+{
+  "seq": 1011130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bouffant",
+      "trop gros"
+    ],
+    [
+      "gonflé",
+      "déformé"
+    ],
+    [
+      "bruit de trompette",
+      "explosion soudaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

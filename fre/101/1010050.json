@@ -1,0 +1,31 @@
+{
+  "seq": 1010050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à loisir",
+      "insouciant"
+    ],
+    [
+      "se détendre",
+      "prendre son temps",
+      "se relaxer"
+    ],
+    [
+      "détaché",
+      "nonchalant"
+    ],
+    [
+      "lent",
+      "doux",
+      "paresseux"
+    ],
+    [
+      "agréable",
+      "confortable",
+      "paisible",
+      "nonchalant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1006520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "escroquer",
+      "tromper",
+      "faire marcher",
+      "extorquer",
+      "soudoyer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

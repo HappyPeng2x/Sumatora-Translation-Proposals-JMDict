@@ -1,0 +1,13 @@
+{
+  "seq": 1011090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "par hasard"
+    ],
+    [
+      "se déplacer légèrement et doucement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1005300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "révéler",
+      "dévoiler",
+      "exposer",
+      "confesser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

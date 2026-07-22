@@ -1,0 +1,21 @@
+{
+  "seq": 1007000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alors",
+      "c'est pour cela que"
+    ],
+    [
+      "alors",
+      "ainsi",
+      "par conséquent"
+    ],
+    [
+      "et puis",
+      "et ensuite",
+      "et alors"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

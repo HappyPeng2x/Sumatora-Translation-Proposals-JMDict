@@ -1,0 +1,17 @@
+{
+  "seq": 1006450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décalage"
+    ],
+    [
+      "différence",
+      "écarts"
+    ],
+    [
+      "cisaillement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

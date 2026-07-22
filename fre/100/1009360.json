@@ -1,0 +1,14 @@
+{
+  "seq": 1009360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compromis",
+      "collusion",
+      "conciliation",
+      "non-éveil de l'attention",
+      "fermeté des yeux (sur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

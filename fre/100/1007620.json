@@ -1,0 +1,16 @@
+{
+  "seq": 1007620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire du chantage",
+      "faire des avances",
+      "flatter",
+      "s'occuper de façon excessive",
+      "gâter",
+      "spoiler",
+      "indulger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

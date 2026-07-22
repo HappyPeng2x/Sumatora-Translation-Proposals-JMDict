@@ -1,0 +1,11 @@
+{
+  "seq": 1005760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poisson",
+      "croaker argenté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

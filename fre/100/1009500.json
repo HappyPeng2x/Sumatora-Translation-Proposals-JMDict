@@ -1,0 +1,14 @@
+{
+  "seq": 1009500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "des choses comme...",
+      "ou quelque chose comme ça... (souvent péjoratif)"
+    ],
+    [
+      "exemple mentionné avec dédain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

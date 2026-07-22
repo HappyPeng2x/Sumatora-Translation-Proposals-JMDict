@@ -8,6 +8,13 @@
       "rien de plus que cela",
       "justement cela",
       "pas plus que cela"
+    ],
+    [
+      "seulement autant",
+      "autant que cela"
+    ],
+    [
+      "pas plus que cela"
     ]
   ],
   "model": "qwen3:14b"

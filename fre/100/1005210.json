@@ -1,0 +1,44 @@
+{
+  "seq": 1005210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "equilibré",
+      "ordonné",
+      "se sentir à l'aise"
+    ],
+    [
+      "nettement",
+      "soigneusement",
+      "sans encombre"
+    ],
+    [
+      "franc",
+      "direct",
+      "simple",
+      "sans détour"
+    ],
+    [
+      "complètement",
+      "entièrement",
+      "absolument"
+    ],
+    [
+      "pas du tout",
+      "nullement",
+      "en aucun cas"
+    ],
+    [
+      "inutile",
+      "absolument inutile",
+      "désespérant",
+      "affreux"
+    ],
+    [
+      "léger",
+      "rafraîchissant",
+      "non gras"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

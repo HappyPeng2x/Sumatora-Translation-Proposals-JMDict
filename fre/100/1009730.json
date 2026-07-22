@@ -1,0 +1,14 @@
+{
+  "seq": 1009730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rien de plus que",
+      "seulement",
+      "uniquement",
+      "à peine",
+      "à la rigueur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

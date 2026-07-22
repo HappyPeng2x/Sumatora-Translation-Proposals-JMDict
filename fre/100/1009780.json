@@ -11,6 +11,16 @@
     [
       "par",
       "pour chaque"
+    ],
+    [
+      "avec",
+      "en compagnie de",
+      "sous la direction de"
+    ],
+    [
+      "pour",
+      "à",
+      "par"
     ]
   ],
   "model": "qwen3:14b"

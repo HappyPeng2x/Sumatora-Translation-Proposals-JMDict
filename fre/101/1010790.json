@@ -7,6 +7,12 @@
       "dernier (sur une liste)",
       "dernier (en position)",
       "queue-de-berger"
+    ],
+    [
+      "dernier",
+      "dernier (sur une liste)",
+      "dernier (en position)",
+      "queue-de-berger"
     ]
   ],
   "model": "qwen3:14b"

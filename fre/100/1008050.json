@@ -1,0 +1,15 @@
+{
+  "seq": 1008050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à l'occasion",
+      "par chance",
+      "saisir l'opportunité"
+    ],
+    [
+      "en passant; en même temps; tout de suite; maintenant que; on; on en profite; tout en même temps; en une seule fois; à la fois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

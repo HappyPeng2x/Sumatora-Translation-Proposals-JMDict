@@ -1,0 +1,31 @@
+{
+  "seq": 1005590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "têtu",
+      "obstiné",
+      "entêché",
+      "résistant",
+      "décidé",
+      "inflexible"
+    ],
+    [
+      "têtu",
+      "obstiné",
+      "entêché",
+      "résistant",
+      "décidé",
+      "inflexible"
+    ],
+    [
+      "persévérant",
+      "décidé",
+      "résistant",
+      "constant",
+      "inflexible",
+      "dévoué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

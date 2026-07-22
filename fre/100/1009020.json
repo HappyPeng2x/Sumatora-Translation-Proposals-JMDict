@@ -1,0 +1,16 @@
+{
+  "seq": 1009020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'une manière ou d'une autre",
+      "il semble que"
+    ],
+    [
+      "de justesse",
+      "avec difficulté",
+      "de façon imparfaite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

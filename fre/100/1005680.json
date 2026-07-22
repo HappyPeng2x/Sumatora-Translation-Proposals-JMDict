@@ -1,0 +1,14 @@
+{
+  "seq": 1005680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parole",
+      "discussion"
+    ],
+    [
+      "bavard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

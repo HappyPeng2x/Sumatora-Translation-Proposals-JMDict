@@ -1,0 +1,20 @@
+{
+  "seq": 1005950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit d'éclaboussement"
+    ],
+    [
+      "abondamment",
+      "copieusement",
+      "avec abondance"
+    ],
+    [
+      "largement",
+      "avec générosité",
+      "de manière généreuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

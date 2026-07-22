@@ -1,0 +1,21 @@
+{
+  "seq": 1010830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étincelle",
+      "scintillement",
+      "éclat"
+    ],
+    [
+      "neuf; brillant; étincelant"
+    ],
+    [
+      "nettoyé; terminé"
+    ],
+    [
+      "étincelant; brillant; scintillant; neuf comme un sou neuf"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

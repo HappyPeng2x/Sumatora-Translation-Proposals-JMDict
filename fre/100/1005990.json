@@ -1,0 +1,17 @@
+{
+  "seq": 1005990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agacer",
+      "irriter",
+      "tantaliser",
+      "mettre en suspense"
+    ],
+    [
+      "mettre en suspens",
+      "rendre inquiet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

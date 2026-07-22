@@ -11,6 +11,14 @@
       "amoureux",
       "éperdu d'amour",
       "ensorcelé"
+    ],
+    [
+      "paresseux",
+      "négligent"
+    ],
+    [
+      "coquet",
+      "badin"
     ]
   ],
   "model": "qwen3:14b"

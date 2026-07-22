@@ -1,0 +1,18 @@
+{
+  "seq": 1009990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "seul",
+      "rien que",
+      "ne...que"
+    ],
+    [
+      "(néerlandais) exprime un accent particulier"
+    ],
+    [
+      "(néerlandais) exprime; à la fin d'une phrase; une déclaration concluante avec un accent émotionnel; mais; l'unique; simplement; rien que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1005430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit de discussion",
+      "bruyant"
+    ],
+    [
+      "avec un bruit de friselis (de feuilles, branches, etc.) ; avec un bruit de vaguelettes (surface d'un lac, etc.)"
+    ],
+    [
+      "avoir froid dans le dos ; avec un frisson (dans le dos)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1006110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complètement",
+      "entierement"
+    ],
+    [
+      "être totalement vendu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,10 @@
       "corbeille à ordures",
       "poubelle",
       "bac à déchets"
+    ],
+    [
+      "corbeille à papier",
+      "corbeille à déchets"
     ]
   ],
   "model": "qwen3:14b"

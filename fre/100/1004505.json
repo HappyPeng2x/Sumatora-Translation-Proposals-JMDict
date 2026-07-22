@@ -22,6 +22,11 @@
     ],
     [
       "toi"
+    ],
+    [
+      "moi-même",
+      "celui-ci",
+      "celle-ci"
     ]
   ],
   "model": "qwen3:14b"

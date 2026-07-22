@@ -1,0 +1,33 @@
+{
+  "seq": 1011230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flâner",
+      "oscillement",
+      "paresseusement",
+      "sans but",
+      "sans rien faire",
+      "se balancer fortement"
+    ],
+    [
+      "d'une manière nonchalante",
+      "de façon nonchalante",
+      "en flânant",
+      "sans but précis"
+    ],
+    [
+      "d'une manière paresseuse",
+      "de façon nonchalante",
+      "sans but",
+      "d'une manière inoccupée"
+    ],
+    [
+      "pendant",
+      "pendant (en néerlandais)",
+      "battant (en néerlandais)",
+      "pendant (en néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

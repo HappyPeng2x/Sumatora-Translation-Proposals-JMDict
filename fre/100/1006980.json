@@ -1,0 +1,20 @@
+{
+  "seq": 1006980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ensuite",
+      "et puis",
+      "puis"
+    ],
+    [
+      "depuis lors",
+      "dès lors"
+    ],
+    [
+      "et",
+      "ainsi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

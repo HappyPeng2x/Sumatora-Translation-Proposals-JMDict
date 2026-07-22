@@ -1,0 +1,22 @@
+{
+  "seq": 1008070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saisir",
+      "prendre",
+      "attraper"
+    ],
+    [
+      "prendre en main",
+      "s'emparer de",
+      "arracher"
+    ],
+    [
+      "comprendre",
+      "saisir",
+      "apercevoir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

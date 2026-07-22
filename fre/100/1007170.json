@@ -1,0 +1,24 @@
+{
+  "seq": 1007170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grossier",
+      "négligent",
+      "peu soigné"
+    ],
+    [
+      "maladroit",
+      "négligent",
+      "désordonné",
+      "distrait",
+      "inattentif",
+      "négligent",
+      "maladroit",
+      "négligent",
+      "maladroit",
+      "négligent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

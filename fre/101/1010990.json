@@ -6,6 +6,9 @@
       "petit morceau de soie",
       "petit chiffon",
       "morceau de crêpe"
+    ],
+    [
+      "petit morceau de soie utilisé lors de la cérémonie du thé"
     ]
   ],
   "model": "qwen3:14b"

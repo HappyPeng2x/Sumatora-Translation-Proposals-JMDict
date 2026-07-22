@@ -1,0 +1,20 @@
+{
+  "seq": 1009130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit",
+      "bruyant"
+    ],
+    [
+      "en désarroi",
+      "en panique",
+      "dans un état de confusion"
+    ],
+    [
+      "slapstick",
+      "comique de gestes exagérés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

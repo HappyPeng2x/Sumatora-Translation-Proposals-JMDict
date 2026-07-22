@@ -1,0 +1,22 @@
+{
+  "seq": 1009110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bêtise",
+      "maladresse",
+      "malheur"
+    ],
+    [
+      "idiot",
+      "imbécile",
+      "sot"
+    ],
+    [
+      "stupide",
+      "bête",
+      "maladroit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

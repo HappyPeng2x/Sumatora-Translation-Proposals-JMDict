@@ -8,6 +8,13 @@
       "sans but précis",
       "subitement",
       "de façon inattendue"
+    ],
+    [
+      "par hasard",
+      "sans but précis",
+      "de façon inattendue",
+      "de manière aléatoire",
+      "sans direction précise"
     ]
   ],
   "model": "qwen3:14b"

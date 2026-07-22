@@ -13,6 +13,18 @@
       "faire un tapage",
       "paniquer",
       "faire une scène"
+    ],
+    [
+      "se débattre violemment",
+      "se contorsionner",
+      "résister farouchement",
+      "se battre avec violence"
+    ],
+    [
+      "être en panique",
+      "être complètement perdu",
+      "être désemparé",
+      "être hors de soi"
     ]
   ],
   "model": "qwen3:14b"

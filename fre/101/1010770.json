@@ -1,0 +1,14 @@
+{
+  "seq": 1010770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bondé",
+      "entassé"
+    ],
+    [
+      "dans la mesure nécessaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

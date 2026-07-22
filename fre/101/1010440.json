@@ -1,0 +1,16 @@
+{
+  "seq": 1010440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prestement",
+      "rapidement",
+      "soudainement",
+      "vivement"
+    ],
+    [
+      "de manière frappante; de façon remarquable; de manière spectaculaire; de façon attrayante; de manière impressionnante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

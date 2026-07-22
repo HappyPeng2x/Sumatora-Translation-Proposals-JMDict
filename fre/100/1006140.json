@@ -1,0 +1,25 @@
+{
+  "seq": 1006140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "directement",
+      "doucement",
+      "droit",
+      "rapidement",
+      "tout a coup",
+      "tranquillement"
+    ],
+    [
+      "discrètement",
+      "doucement",
+      "gentiment",
+      "softement"
+    ],
+    [
+      "se sentir rafraîchi",
+      "se sentir satisfait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

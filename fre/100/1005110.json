@@ -1,0 +1,34 @@
+{
+  "seq": 1005110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allez!",
+      "va!"
+    ],
+    [
+      "d'accord",
+      "bien",
+      "maintenant",
+      "alors"
+    ],
+    [
+      "bien",
+      "hmm",
+      "eh bien",
+      "je ne sais pas"
+    ],
+    [
+      "ici",
+      "maintenant",
+      "voilà",
+      "ah",
+      "oh"
+    ],
+    [
+      "à ce propos",
+      "en fait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

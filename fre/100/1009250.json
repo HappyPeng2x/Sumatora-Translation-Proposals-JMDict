@@ -1,0 +1,27 @@
+{
+  "seq": 1009250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à quelle distance",
+      "combien",
+      "combien de temps"
+    ],
+    [
+      "environ",
+      "à peu près",
+      "plus ou moins"
+    ],
+    [
+      "environ",
+      "à peu près",
+      "plus ou moins"
+    ],
+    [
+      "environ",
+      "à peu près",
+      "plus ou moins"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

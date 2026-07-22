@@ -8,6 +8,23 @@
       "avec un bruit sec",
       "nettement",
       "fermement"
+    ],
+    [
+      "bruyant",
+      "platschent"
+    ],
+    [
+      "parfaitement adapté",
+      "exactement convenant"
+    ],
+    [
+      "strict",
+      "rigoureux"
+    ],
+    [
+      "bruyant",
+      "clapotant",
+      "frappant"
     ]
   ],
   "model": "qwen3:14b"

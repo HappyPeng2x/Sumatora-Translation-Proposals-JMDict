@@ -1,0 +1,24 @@
+{
+  "seq": 1006640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ainsi",
+      "ainsi et ainsi",
+      "ainsi que",
+      "particulièrement",
+      "surtout"
+    ],
+    [
+      "oh, oui !",
+      "c'est ça",
+      "je me souviens"
+    ],
+    [
+      "c'est vrai",
+      "bien sûr",
+      "en effet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -31,6 +31,16 @@
     ],
     [
       "mème (Internet)"
+    ],
+    [
+      "repas",
+      "repas principal",
+      "nourriture",
+      "aliment"
+    ],
+    [
+      "ingrédient de sushi",
+      "poisson (surtout pour le sushi)"
     ]
   ],
   "model": "qwen3:14b"

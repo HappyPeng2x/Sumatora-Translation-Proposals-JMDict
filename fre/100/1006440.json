@@ -1,0 +1,34 @@
+{
+  "seq": 1006440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traîner (en longueur) - ennui",
+      "traîner (objet)"
+    ],
+    [
+      "peu à peu",
+      "progressivement",
+      "lentement",
+      "en glissant"
+    ],
+    [
+      "sans fin",
+      "en traînant",
+      "paresseusement",
+      "interminablement"
+    ],
+    [
+      "avec un bruit de succion",
+      "avec un nez qui coule",
+      "en reniflant"
+    ],
+    [
+      "lâche",
+      "détendu",
+      "inconclus",
+      "non résolu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

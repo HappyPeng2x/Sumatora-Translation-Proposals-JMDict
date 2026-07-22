@@ -1,0 +1,18 @@
+{
+  "seq": 1005500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échouer",
+      "manquer son coup",
+      "rater"
+    ],
+    [
+      "être licencié"
+    ],
+    [
+      "être congédié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

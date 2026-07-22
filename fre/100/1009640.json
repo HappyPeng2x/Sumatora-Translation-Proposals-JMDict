@@ -11,6 +11,33 @@
       "par l'intermédiaire de",
       "dans la mesure où",
       "en dépendant de"
+    ],
+    [
+      "selon",
+      "d'après",
+      "par",
+      "grâce à",
+      "en raison de",
+      "par l'intermédiaire de",
+      "dans la mesure où",
+      "en dépendant de"
+    ],
+    [
+      "selon",
+      "conformément à",
+      "comme",
+      "suivant"
+    ],
+    [
+      "par",
+      "par l'entremise de",
+      "par l'intermédiaire de",
+      "par le biais de"
+    ],
+    [
+      "en réponse à",
+      "en réaction à",
+      "à la suite de"
     ]
   ],
   "model": "qwen3:14b"

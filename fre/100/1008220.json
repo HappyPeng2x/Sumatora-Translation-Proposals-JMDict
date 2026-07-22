@@ -1,0 +1,18 @@
+{
+  "seq": 1008220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glissant",
+      "lisse"
+    ],
+    [
+      "glissant",
+      "gras"
+    ],
+    [
+      "avaler avec un bruit de succion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

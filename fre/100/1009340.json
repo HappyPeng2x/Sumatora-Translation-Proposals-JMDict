@@ -1,0 +1,17 @@
+{
+  "seq": 1009340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combien",
+      "comment"
+    ],
+    [
+      "adv"
+    ],
+    [
+      "adv"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

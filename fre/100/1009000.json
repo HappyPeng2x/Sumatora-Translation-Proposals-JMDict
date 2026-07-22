@@ -1,0 +1,29 @@
+{
+  "seq": 1009000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au combien",
+      "beaucoup",
+      "merci (lit. en effet)",
+      "très",
+      "vraiment"
+    ],
+    [
+      "beaucoup (pour remercier) ; très (pour exprimer de la peine) ; assez (pour exprimer du regret)"
+    ],
+    [
+      "assez ; vraiment ; presque"
+    ],
+    [
+      "d'une certaine manière"
+    ],
+    [
+      "malgré soi ; tant qu'on veut ; quoi qu'on fasse"
+    ],
+    [
+      "salutations ; bonjour ; au revoir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

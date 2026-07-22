@@ -1,0 +1,26 @@
+{
+  "seq": 1007720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "correctement"
+    ],
+    [
+      "parfaitement",
+      "correctement",
+      "exactement",
+      "régulièrement",
+      "ponctuellement",
+      "en toute sécurité",
+      "en bon état"
+    ],
+    [
+      "suffisamment",
+      "satisfaisamment"
+    ],
+    [
+      "vite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

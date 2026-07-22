@@ -1,0 +1,18 @@
+{
+  "seq": 1006610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ainsi",
+      "comme cela",
+      "oui"
+    ],
+    [
+      "sembler",
+      "avoir l'air de",
+      "ressembler à",
+      "paraître"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

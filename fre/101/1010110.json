@@ -1,0 +1,11 @@
+{
+  "seq": 1010110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'égarer",
+      "se perdre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

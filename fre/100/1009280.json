@@ -1,0 +1,19 @@
+{
+  "seq": 1009280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agitation",
+      "remue-ménage"
+    ],
+    [
+      "agitation",
+      "trouble"
+    ],
+    [
+      "inquiétude",
+      "désordre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1006950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'abord",
+      "en premier lieu"
+    ],
+    [
+      "après tout",
+      "quand même",
+      "enfin",
+      "bien",
+      "qu'est-ce au monde",
+      "pourquoi au monde"
+    ],
+    [
+      "début",
+      "commencement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

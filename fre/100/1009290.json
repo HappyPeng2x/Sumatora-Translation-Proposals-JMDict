@@ -1,0 +1,18 @@
+{
+  "seq": 1009290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bien",
+      "lequel (d'un groupe d'au moins trois)",
+      "maintenant",
+      "voyons"
+    ],
+    [
+      "alors",
+      "maintenant",
+      "bon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

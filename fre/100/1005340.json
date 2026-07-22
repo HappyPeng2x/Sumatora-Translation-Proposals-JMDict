@@ -1,0 +1,14 @@
+{
+  "seq": 1005340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Mme",
+      "Mr"
+    ],
+    [
+      "marqueur de politesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1008800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tapotement"
+    ],
+    [
+      "sans difficulté",
+      "sans problème",
+      "sans délai"
+    ],
+    [
+      "égal",
+      "équivalent",
+      "à parts égales"
+    ],
+    [
+      "égal",
+      "pareil",
+      "à égalité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -21,6 +21,9 @@
       "souvent",
       "de temps en temps",
       "occasionnellement"
+    ],
+    [
+      "avancer de manière souple et progressive"
     ]
   ],
   "model": "qwen3:14b"

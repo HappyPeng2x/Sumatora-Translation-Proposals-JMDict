@@ -1,0 +1,16 @@
+{
+  "seq": 1010590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fêlure",
+      "fissure"
+    ],
+    [
+      "déchirure",
+      "désaccord",
+      "fissure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

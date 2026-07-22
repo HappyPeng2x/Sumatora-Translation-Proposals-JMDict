@@ -1,0 +1,20 @@
+{
+  "seq": 1006850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "de ce fait",
+      "pour cette raison",
+      "en conséquence"
+    ],
+    [
+      "pour cette raison",
+      "en conséquence"
+    ],
+    [
+      "dans ce but",
+      "pour cette raison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

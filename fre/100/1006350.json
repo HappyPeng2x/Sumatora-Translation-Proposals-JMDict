@@ -1,0 +1,17 @@
+{
+  "seq": 1006350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "franchement",
+      "sans réserve",
+      "directement",
+      "ouvertement",
+      "sans hésitation",
+      "de manière directe",
+      "sans détour",
+      "de façon honnête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

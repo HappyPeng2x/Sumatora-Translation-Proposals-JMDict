@@ -1,0 +1,23 @@
+{
+  "seq": 1010200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir puissant",
+      "s'étendre",
+      "se propager (végétation)"
+    ],
+    [
+      "se propager",
+      "se répandre",
+      "prendre de l'ampleur",
+      "devenir dominant"
+    ],
+    [
+      "se répandre",
+      "prendre une grande ampleur",
+      "se généraliser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

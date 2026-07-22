@@ -1,0 +1,15 @@
+{
+  "seq": 1010500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fortement",
+      "sévèrement",
+      "vivement"
+    ],
+    [
+      "étroitement; fermement; serrément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

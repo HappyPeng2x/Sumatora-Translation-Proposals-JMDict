@@ -1,0 +1,48 @@
+{
+  "seq": 1010090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vivement",
+      "intelligemment",
+      "rapidement",
+      "clairement",
+      "avec lucidité"
+    ],
+    [
+      "clair",
+      "concis",
+      "éloquent",
+      "subtil",
+      "vif"
+    ],
+    [
+      "vif",
+      "alerte",
+      "fringant",
+      "agile",
+      "rapide"
+    ],
+    [
+      "clair",
+      "net",
+      "transparent",
+      "clair"
+    ],
+    [
+      "clair",
+      "concis",
+      "éloquent",
+      "subtil",
+      "vif"
+    ],
+    [
+      "vif",
+      "alerte",
+      "fringant",
+      "agile",
+      "rapide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

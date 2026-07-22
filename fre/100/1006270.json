@@ -1,0 +1,12 @@
+{
+  "seq": 1006270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "facilement",
+      "aisément",
+      "rapidement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1011190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfoncer un clou dans",
+      "frapper",
+      "frapper fort",
+      "rentrer dans"
+    ],
+    [
+      "frapper",
+      "battre",
+      "donner des coups"
+    ],
+    [
+      "jeter",
+      "lancer",
+      "envoyer en l'air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

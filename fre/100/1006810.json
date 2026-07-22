@@ -1,0 +1,21 @@
+{
+  "seq": 1006810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doucement",
+      "furtivement",
+      "sans bruit"
+    ],
+    [
+      "discrètement",
+      "en secret",
+      "furtivement"
+    ],
+    [
+      "laisser tranquille",
+      "laisser en l'état"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

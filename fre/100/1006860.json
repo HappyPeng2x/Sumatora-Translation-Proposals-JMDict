@@ -1,0 +1,19 @@
+{
+  "seq": 1006860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "après cela",
+      "plus tard"
+    ],
+    [
+      "ensuite",
+      "par la suite"
+    ],
+    [
+      "depuis lors",
+      "depuis cette époque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

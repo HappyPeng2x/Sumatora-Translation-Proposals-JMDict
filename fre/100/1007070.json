@@ -1,0 +1,13 @@
+{
+  "seq": 1007070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ceux-ci",
+      "celles-ci",
+      "eux",
+      "elles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

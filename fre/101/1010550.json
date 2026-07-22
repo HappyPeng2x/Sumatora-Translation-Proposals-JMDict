@@ -1,0 +1,22 @@
+{
+  "seq": 1010550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calme",
+      "déserté",
+      "silencieux"
+    ],
+    [
+      "discrètement",
+      "modestement",
+      "en silence"
+    ],
+    [
+      "discrètement",
+      "sans attirer l'attention",
+      "sans être remarqué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

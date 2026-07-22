@@ -1,0 +1,31 @@
+{
+  "seq": 1005310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruissement",
+      "murmurent"
+    ],
+    [
+      "murmurant",
+      "purlant"
+    ],
+    [
+      "avaler avec empressement",
+      "dévorer avec enthousiasme (dans le cas de l'ochazuke)"
+    ],
+    [
+      "aisément",
+      "facilement",
+      "sans difficulté",
+      "fluidement"
+    ],
+    [
+      "lisse et sec",
+      "soufflant",
+      "poussiéreux (comme la neige)",
+      "fluide (comme le sang)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

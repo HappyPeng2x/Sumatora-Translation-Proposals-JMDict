@@ -1,0 +1,24 @@
+{
+  "seq": 1008370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gigantesque",
+      "gigantesque"
+    ],
+    [
+      "grave",
+      "sérieux",
+      "important"
+    ],
+    [
+      "exagéré",
+      "très grand",
+      "gigantesque",
+      "énorme",
+      "énorme",
+      "incroyable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

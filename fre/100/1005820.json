@@ -12,6 +12,24 @@
     [
       "solennellement",
       "tristement"
+    ],
+    [
+      "profond"
+    ],
+    [
+      "triste"
+    ],
+    [
+      "compassion"
+    ],
+    [
+      "doucement"
+    ],
+    [
+      "intime"
+    ],
+    [
+      "profond"
     ]
   ],
   "model": "qwen3:14b"

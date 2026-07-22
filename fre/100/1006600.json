@@ -1,0 +1,28 @@
+{
+  "seq": 1006600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ce type-là"
+    ],
+    [
+      "celui-là",
+      "celle-là",
+      "ça",
+      "cela"
+    ],
+    [
+      "ce type-là",
+      "celui-ci",
+      "celle-ci",
+      "cela"
+    ],
+    [
+      "celui-là (insultant)",
+      "celle-là (insultant)",
+      "ça (insultant)",
+      "cela (insultant)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

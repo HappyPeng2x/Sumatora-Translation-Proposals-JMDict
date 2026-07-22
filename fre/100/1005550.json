@@ -1,0 +1,31 @@
+{
+  "seq": 1005550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "importun",
+      "persistant",
+      "pressant",
+      "tenace"
+    ],
+    [
+      "trop gras (en termes de goût, etc.) ; gras ; lourd ; graisseux"
+    ],
+    [
+      "lourd; gras (aliment)"
+    ],
+    [
+      "trop coloré; vif; criard"
+    ],
+    [
+      "importun; intrusif; tenace; obstiné; têtu"
+    ],
+    [
+      "lourd; gras"
+    ],
+    [
+      "trop coloré; vif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

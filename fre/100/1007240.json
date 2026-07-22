@@ -1,0 +1,20 @@
+{
+  "seq": 1007240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abondamment"
+    ],
+    [
+      "largement",
+      "avec de la marge",
+      "suffisamment"
+    ],
+    [
+      "assez",
+      "pleinement",
+      "au moins"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
