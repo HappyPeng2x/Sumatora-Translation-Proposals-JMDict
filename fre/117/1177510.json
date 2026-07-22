@@ -1,0 +1,18 @@
+{
+  "seq": 1177510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hors de vue",
+      "dans le fond",
+      "inaperçu",
+      "sous le véranda"
+    ],
+    [
+      "espace sous le plancher",
+      "cachette",
+      "sous-sol accessible par un trou"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

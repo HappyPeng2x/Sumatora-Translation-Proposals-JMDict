@@ -1,0 +1,18 @@
+{
+  "seq": 1183090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faveur",
+      "obligation"
+    ],
+    [
+      "bonté",
+      "générosité"
+    ],
+    [
+      "obligation envers quelqu'un; dette de reconnaissance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

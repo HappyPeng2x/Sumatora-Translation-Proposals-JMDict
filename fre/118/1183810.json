@@ -1,0 +1,13 @@
+{
+  "seq": 1183810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lecture des kanji"
+    ],
+    [
+      "onomatopée et signification d'un kanji"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

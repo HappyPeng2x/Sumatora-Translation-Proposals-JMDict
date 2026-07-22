@@ -1,0 +1,17 @@
+{
+  "seq": 1183780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écho",
+      "acoustique",
+      "bruit",
+      "son"
+    ],
+    [
+      "effet sonore",
+      "bruit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

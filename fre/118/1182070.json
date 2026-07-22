@@ -1,0 +1,15 @@
+{
+  "seq": 1182070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poussière",
+      "en suspension dans l'air"
+    ],
+    [
+      "affaires terrestres",
+      "préoccupations terrestres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,18 @@
       "sur le côté",
       "allongé sur le côté",
       "dans la position latérale"
+    ],
+    [
+      "position latérale",
+      "position sur le côté"
+    ],
+    [
+      "être allongé sur le côté",
+      "se trouver sur le côté"
+    ],
+    [
+      "se trouver sur le côté",
+      "être couché sur le côté"
     ]
   ],
   "model": "qwen3:14b"

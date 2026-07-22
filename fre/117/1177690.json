@@ -1,0 +1,28 @@
+{
+  "seq": 1177690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séduisant",
+      "captivant",
+      "ensorcelant",
+      "coquet"
+    ],
+    [
+      "jeune et beau",
+      "fringant",
+      "beau"
+    ],
+    [
+      "élégant",
+      "gracieux",
+      "agréable"
+    ],
+    [
+      "goûté",
+      "élégant",
+      "affiné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

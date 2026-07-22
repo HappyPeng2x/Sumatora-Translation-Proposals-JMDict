@@ -1,0 +1,13 @@
+{
+  "seq": 1178400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flèche destinée à une cible lointaine"
+    ],
+    [
+      "flèche tirée à distance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1177630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balcon",
+      "corridor extérieur",
+      "véranda"
+    ],
+    [
+      "os au niveau de la base d'une nageoire (surtout chez les poissons plats) ; viande située à la base d'une nageoire"
+    ],
+    [
+      "viande située à la base d'une nageoire (considérée comme particulièrement délicates; terme technique utilisé par les cuisiniers de sushi)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

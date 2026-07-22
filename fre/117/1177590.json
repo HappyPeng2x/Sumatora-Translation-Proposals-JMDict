@@ -1,0 +1,31 @@
+{
+  "seq": 1177590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couture",
+      "bordure"
+    ],
+    [
+      "ourlet",
+      "bordure"
+    ],
+    [
+      "frange",
+      "bordure"
+    ],
+    [
+      "bordure décorative",
+      "ourlet particulier"
+    ],
+    [
+      "frise décorative",
+      "liste ornée"
+    ],
+    [
+      "bordure colorée",
+      "liseré décoratif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

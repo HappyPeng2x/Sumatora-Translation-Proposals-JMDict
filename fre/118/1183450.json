@@ -1,0 +1,16 @@
+{
+  "seq": 1183450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "onsen",
+      "source chaude"
+    ],
+    [
+      "station thermale",
+      "résidence thermale",
+      "spa thermal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

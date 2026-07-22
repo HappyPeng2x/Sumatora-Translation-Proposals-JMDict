@@ -4,6 +4,15 @@
   "glosses": [
     [
       "check"
+    ],
+    [
+      "être à un pas de la victoire"
+    ],
+    [
+      "échec (au shōgi)"
+    ],
+    [
+      "être sur la dernière ligne droite vers la victoire"
     ]
   ],
   "model": "qwen3:14b"

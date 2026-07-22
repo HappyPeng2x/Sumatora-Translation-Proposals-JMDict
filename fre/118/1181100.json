@@ -1,0 +1,16 @@
+{
+  "seq": 1181100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malice",
+      "imprudence",
+      "absurdité"
+    ],
+    [
+      "imprudence",
+      "fausseté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

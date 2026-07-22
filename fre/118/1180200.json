@@ -1,0 +1,15 @@
+{
+  "seq": 1180200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "approcher la fin de l'année",
+      "être serré, coincé"
+    ],
+    [
+      "tomber en critique",
+      "se trouver en difficulté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

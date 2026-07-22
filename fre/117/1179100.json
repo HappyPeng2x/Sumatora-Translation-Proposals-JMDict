@@ -12,6 +12,11 @@
       "situation désespérée",
       "enfer",
       "désespoir"
+    ],
+    [
+      "déchet",
+      "problème",
+      "situation difficile"
     ]
   ],
   "model": "qwen3:14b"

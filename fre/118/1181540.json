@@ -1,0 +1,17 @@
+{
+  "seq": 1181540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "monarque",
+      "roi"
+    ],
+    [
+      "champion"
+    ],
+    [
+      "le plus fort d'un groupe; maître"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

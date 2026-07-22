@@ -1,0 +1,58 @@
+{
+  "seq": 1177490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "connexion",
+      "destin",
+      "karma",
+      "relation"
+    ],
+    [
+      "relation",
+      "lien",
+      "liaison",
+      "connexion"
+    ],
+    [
+      "liens familiaux",
+      "affinité"
+    ],
+    [
+      "occasion",
+      "chance",
+      "possibilité"
+    ],
+    [
+      "pratyaya",
+      "condition indirecte"
+    ],
+    [
+      "vérande",
+      "espace ouvert étroit"
+    ],
+    [
+      "relation",
+      "rapport",
+      "affinité"
+    ],
+    [
+      "occasion",
+      "chance de nouer une relation"
+    ],
+    [
+      "destinée",
+      "fréquence"
+    ],
+    [
+      "vérande couverte",
+      "véranda",
+      "auvent"
+    ],
+    [
+      "poutre",
+      "barre de toiture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

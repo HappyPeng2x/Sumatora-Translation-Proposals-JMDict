@@ -10,6 +10,9 @@
     [
       "nom d'emprunt",
       "nom de scène"
+    ],
+    [
+      "nom de maison"
     ]
   ],
   "model": "qwen3:14b"

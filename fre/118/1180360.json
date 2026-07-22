@@ -1,0 +1,16 @@
+{
+  "seq": 1180360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appuyer",
+      "forcer",
+      "presser"
+    ],
+    [
+      "imposer",
+      "imposer (une tâche, une responsabilité) ; imposer (son avis, sa volonté)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

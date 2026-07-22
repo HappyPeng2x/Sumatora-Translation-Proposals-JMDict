@@ -1,0 +1,23 @@
+{
+  "seq": 1184480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "position subordonnée",
+      "rang inférieur",
+      "ordre inférieur"
+    ],
+    [
+      "concept sous-ordonné"
+    ],
+    [
+      "hypostase"
+    ],
+    [
+      "inférieur",
+      "subordonné",
+      "secondaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

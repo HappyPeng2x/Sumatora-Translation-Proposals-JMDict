@@ -1,0 +1,12 @@
+{
+  "seq": 1177670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fête religieuse",
+      "foire",
+      "jour de fête liée à un dieu particulier, censé apporter des bénédictions divines à ceux qui le célèbrent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

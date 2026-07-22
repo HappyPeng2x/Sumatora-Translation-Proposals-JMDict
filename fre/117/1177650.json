@@ -1,0 +1,13 @@
+{
+  "seq": 1177650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discussion de mariage"
+    ],
+    [
+      "proposition de mariage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

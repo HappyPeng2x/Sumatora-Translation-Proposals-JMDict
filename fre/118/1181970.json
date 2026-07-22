@@ -1,0 +1,21 @@
+{
+  "seq": 1181970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeune novice",
+      "jeunesse et manque d'expérience"
+    ],
+    [
+      "poussin"
+    ],
+    [
+      "inexpérience"
+    ],
+    [
+      "jeune oiseau",
+      "personne inexpérimentée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

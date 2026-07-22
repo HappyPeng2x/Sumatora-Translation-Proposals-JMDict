@@ -1,0 +1,17 @@
+{
+  "seq": 1183610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adéquat",
+      "approprié",
+      "raisonnable"
+    ],
+    [
+      "douceur",
+      "obéissance",
+      "politesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

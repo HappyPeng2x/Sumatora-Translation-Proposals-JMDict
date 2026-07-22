@@ -1,0 +1,21 @@
+{
+  "seq": 1179000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se salir (qqch)"
+    ],
+    [
+      "être déshonoré",
+      "être profané",
+      "être souillé"
+    ],
+    [
+      "être violé(e)"
+    ],
+    [
+      "être impur(e) (en raison de deuil; naissance; règles; etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

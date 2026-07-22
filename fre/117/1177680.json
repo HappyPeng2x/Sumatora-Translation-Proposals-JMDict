@@ -1,0 +1,26 @@
+{
+  "seq": 1177680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclat",
+      "teint"
+    ],
+    [
+      "maturité",
+      "jeunesse"
+    ],
+    [
+      "intérêt",
+      "charme",
+      "couleur",
+      "émotion"
+    ],
+    [
+      "romance",
+      "amour",
+      "séduction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

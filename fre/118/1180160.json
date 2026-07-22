@@ -1,0 +1,15 @@
+{
+  "seq": 1180160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forcer à s'ouvrir",
+      "pousser pour ouvrir"
+    ],
+    [
+      "forcer à s'ouvrir",
+      "ouvrir par la force"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

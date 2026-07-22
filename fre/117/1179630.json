@@ -1,0 +1,22 @@
+{
+  "seq": 1179630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épouse",
+      "Madame",
+      "femme",
+      "femme mariée"
+    ],
+    [
+      "dame mariée"
+    ],
+    [
+      "épouse; dame de la maison; hôtesse"
+    ],
+    [
+      "mademoiselle; madam (Belgique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1182300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "macule",
+      "macule lutea",
+      "tache jaune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

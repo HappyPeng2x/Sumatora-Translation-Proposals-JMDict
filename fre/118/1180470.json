@@ -1,0 +1,62 @@
+{
+  "seq": 1180470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "appuyer",
+      "pousser",
+      "tamponner"
+    ],
+    [
+      "appuyer",
+      "pousser",
+      "exercer une pression sur"
+    ],
+    [
+      "tamponner",
+      "apposer un cachet"
+    ],
+    [
+      "appliquer",
+      "coller (du or en or)"
+    ],
+    [
+      "pousser",
+      "exercer une pression sur quelqu'un"
+    ],
+    [
+      "submerger",
+      "dominer",
+      "mettre sous pression",
+      "être supérieur à"
+    ],
+    [
+      "poursuivre",
+      "avancer",
+      "poursuivre un plan"
+    ],
+    [
+      "défier",
+      "affronter",
+      "ignorer"
+    ],
+    [
+      "assurer",
+      "s'assurer que"
+    ],
+    [
+      "retarder",
+      "être en retard"
+    ],
+    [
+      "pousser",
+      "avancer les pierres en poussant contre celles de l'adversaire"
+    ],
+    [
+      "exercer",
+      "étendre",
+      "ajouter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

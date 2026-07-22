@@ -11,6 +11,12 @@
       "liaison spirituelle",
       "attache spirituelle",
       "destinée"
+    ],
+    [
+      "rituel consistant à écrire le nom d'une personne aimée sur un petit morceau de papier et de le fixer sur un arbre de souhaits ou une clôture d'un sanctuaire"
+    ],
+    [
+      "jeu de société à deux joueurs"
     ]
   ],
   "model": "qwen3:14b"

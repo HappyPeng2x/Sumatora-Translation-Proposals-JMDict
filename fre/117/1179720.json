@@ -1,0 +1,33 @@
+{
+  "seq": 1179720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être embarrassé",
+      "laisser tomber",
+      "mourir"
+    ],
+    [
+      "mort"
+    ],
+    [
+      "abandonner une lutte ; se soumettre"
+    ],
+    [
+      "être à court d'idées ; être désorienté"
+    ],
+    [
+      "contrainte"
+    ],
+    [
+      "abandonner; se rendre; se plier (à)"
+    ],
+    [
+      "grande confusion; impuissance; incapacité de répondre"
+    ],
+    [
+      "soumission; intimidation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

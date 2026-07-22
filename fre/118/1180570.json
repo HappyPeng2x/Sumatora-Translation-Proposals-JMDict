@@ -1,0 +1,31 @@
+{
+  "seq": 1180570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à coté",
+      "coté",
+      "largeur"
+    ],
+    [
+      "latéral",
+      "horizontal",
+      "largeur",
+      "étendue"
+    ],
+    [
+      "côté (d'un objet)"
+    ],
+    [
+      "à côté de",
+      "à l'écart de",
+      "près de"
+    ],
+    [
+      "indépendant",
+      "non lié",
+      "sans rapport"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

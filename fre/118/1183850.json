@@ -5,6 +5,13 @@
     [
       "syllabaire",
       "symbole phonétique"
+    ],
+    [
+      "information",
+      "nouvelles",
+      "message",
+      "correspondance",
+      "lettre"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,15 @@
+{
+  "seq": 1177840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éloigner",
+      "tenir à distance"
+    ],
+    [
+      "s'abstenir",
+      "se tenir à l'écart"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

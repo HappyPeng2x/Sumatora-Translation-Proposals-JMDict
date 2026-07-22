@@ -1,0 +1,14 @@
+{
+  "seq": 1178560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "empoisonnement au plomb",
+      "saturnisme"
+    ],
+    [
+      "intoxication au plomb"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

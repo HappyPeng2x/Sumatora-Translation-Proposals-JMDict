@@ -14,6 +14,14 @@
       "enfer",
       "Hadès",
       "monde des morts"
+    ],
+    [
+      "monde des esprits",
+      "monde des morts",
+      "Hadès",
+      "Tartare",
+      "réalmes des esprits",
+      "réalmes des morts"
     ]
   ],
   "model": "qwen3:14b"

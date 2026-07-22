@@ -1,0 +1,14 @@
+{
+  "seq": 1181520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaire impériale",
+      "cause royale"
+    ],
+    [
+      "entreprise impériale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

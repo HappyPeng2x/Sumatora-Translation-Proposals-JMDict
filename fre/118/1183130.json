@@ -1,0 +1,17 @@
+{
+  "seq": 1183130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pension"
+    ],
+    [
+      "don de terre par un seigneur à un vassal",
+      "donation de terrains par un maître à un vassal"
+    ],
+    [
+      "attribution de terres en compensation des services d'un vassal (époque Kamakura et Muromachi)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1183430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couleur chaude",
+      "mine irritée"
+    ],
+    [
+      "mine calme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

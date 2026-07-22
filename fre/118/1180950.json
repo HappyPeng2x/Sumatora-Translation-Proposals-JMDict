@@ -10,6 +10,12 @@
     [
       "roulé sur soi-même",
       "tonneau (mouvement)"
+    ],
+    [
+      "basculer sur le côté"
+    ],
+    [
+      "rouler"
     ]
   ],
   "model": "qwen3:14b"

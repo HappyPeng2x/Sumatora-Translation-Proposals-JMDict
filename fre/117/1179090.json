@@ -1,0 +1,27 @@
+{
+  "seq": 1179090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pollution",
+      "contamination",
+      "corruption",
+      "graft"
+    ],
+    [
+      "se faire corrompre",
+      "être souillé"
+    ],
+    [
+      "troublance",
+      "altération",
+      "contamination"
+    ],
+    [
+      "corruption",
+      "dégradation",
+      "aigreur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

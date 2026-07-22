@@ -1,0 +1,41 @@
+{
+  "seq": 1177800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distant",
+      "lointain"
+    ],
+    [
+      "éloigné (dans le temps)"
+    ],
+    [
+      "éloigné (en termes de lien de parenté ou de relation)"
+    ],
+    [
+      "très différent, peu ressemblant"
+    ],
+    [
+      "sourd (d'oreille)"
+    ],
+    [
+      "myope"
+    ],
+    [
+      "inconnu"
+    ],
+    [
+      "défectueux (oreilles; yeux; conscience)"
+    ],
+    [
+      "être sourd; avoir du mal à entendre"
+    ],
+    [
+      "avoir du mal à voir"
+    ],
+    [
+      "inconscient; hors de soi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

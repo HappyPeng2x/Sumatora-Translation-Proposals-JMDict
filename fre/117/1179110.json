@@ -1,0 +1,16 @@
+{
+  "seq": 1179110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défaut",
+      "disgrace",
+      "souillure",
+      "tache"
+    ],
+    [
+      "stain; blemish; mark of disgrace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

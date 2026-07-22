@@ -6,6 +6,9 @@
       "la règle d'or",
       "le principe de l'égalité mutuelle",
       "l'axiome de la réciprocité"
+    ],
+    [
+      "la règle de la section d'or"
     ]
   ],
   "model": "qwen3:14b"

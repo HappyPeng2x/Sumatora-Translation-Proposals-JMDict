@@ -1,0 +1,15 @@
+{
+  "seq": 1182700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toit"
+    ],
+    [
+      "couverture",
+      "dalle",
+      "revêtement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

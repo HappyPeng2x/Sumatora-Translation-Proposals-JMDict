@@ -1,0 +1,27 @@
+{
+  "seq": 1178210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "campagne",
+      "expedition",
+      "tournée (artistique)"
+    ],
+    [
+      "match à l'extérieur (baseball)"
+    ],
+    [
+      "aller jouer en extérieur (sport)"
+    ],
+    [
+      "expédition; expédition militaire; campagne militaire"
+    ],
+    [
+      "expédition; voyage d'enquête; voyage d'exploration"
+    ],
+    [
+      "aller jouer en extérieur (sport)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

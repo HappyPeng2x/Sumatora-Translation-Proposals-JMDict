@@ -1,0 +1,22 @@
+{
+  "seq": 1178920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à",
+      "en",
+      "sur"
+    ],
+    [
+      "dans",
+      "au sujet de",
+      "en ce qui concerne"
+    ],
+    [
+      "du côté de",
+      "sous l'autorité de",
+      "au nom de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

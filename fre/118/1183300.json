@@ -1,0 +1,15 @@
+{
+  "seq": 1183300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tiède"
+    ],
+    [
+      "doux",
+      "clément",
+      "tolérant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

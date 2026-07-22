@@ -6,6 +6,10 @@
       "détour",
       "chemin détourné",
       "itinéraire indirect"
+    ],
+    [
+      "circonlocution",
+      "indirectness"
     ]
   ],
   "model": "qwen3:14b"

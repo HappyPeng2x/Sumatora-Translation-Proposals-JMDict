@@ -1,0 +1,21 @@
+{
+  "seq": 1180900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "croisement"
+    ],
+    [
+      "traversée",
+      "passage",
+      "traverser",
+      "vol en travers",
+      "navigation en travers"
+    ],
+    [
+      "découpage horizontal",
+      "sectionnement latéral"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

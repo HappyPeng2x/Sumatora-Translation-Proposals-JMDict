@@ -1,0 +1,14 @@
+{
+  "seq": 1183460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conservation",
+      "préservation",
+      "retention",
+      "conservatoire",
+      "préservatif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

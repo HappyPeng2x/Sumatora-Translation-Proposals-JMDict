@@ -1,0 +1,21 @@
+{
+  "seq": 1177820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à distance",
+      "de beaucoup",
+      "loin"
+    ],
+    [
+      "il y a longtemps",
+      "très loin dans le passé",
+      "très loin dans le futur"
+    ],
+    [
+      "de beaucoup",
+      "bien plus que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

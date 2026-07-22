@@ -1,0 +1,13 @@
+{
+  "seq": 1179480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "profondeur"
+    ],
+    [
+      "profondeur morale ou intellectuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

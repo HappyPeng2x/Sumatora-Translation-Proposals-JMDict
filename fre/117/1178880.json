@@ -1,0 +1,15 @@
+{
+  "seq": 1178880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saveur salée",
+      "saliinité"
+    ],
+    [
+      "saveur salée",
+      "salinité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

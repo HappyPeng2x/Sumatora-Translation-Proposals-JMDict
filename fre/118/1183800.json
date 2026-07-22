@@ -5,6 +5,10 @@
     [
       "musique accompagnée d'un samisen",
       "performance musicale"
+    ],
+    [
+      "œuvre musicale",
+      "exécution musicale"
     ]
   ],
   "model": "qwen3:14b"

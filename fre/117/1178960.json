@@ -1,0 +1,45 @@
+{
+  "seq": 1178960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salir",
+      "saloper(pop)",
+      "souiller",
+      "salir",
+      "(pop)saloper",
+      "souiller"
+    ],
+    [
+      "déshonorer",
+      "déshonorer",
+      "déshonourer",
+      "profaner"
+    ],
+    [
+      "violer",
+      "humilier (une femme)",
+      "déshonorer (une femme)"
+    ],
+    [
+      "prendre une haute position (une personne peu recommandable ou incompétente)"
+    ],
+    [
+      "être présent",
+      "être membre",
+      "rendre quelque chose indigne par sa simple présence"
+    ],
+    [
+      "rendre sale",
+      "salir",
+      "tacher",
+      "polluer",
+      "verifier (le sens concret; contrairement à kegasu)"
+    ],
+    [
+      "préparer (un plat)",
+      "étaler (du beurre sur du pain)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

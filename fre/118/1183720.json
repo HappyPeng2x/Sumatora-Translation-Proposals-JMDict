@@ -1,0 +1,13 @@
+{
+  "seq": 1183720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musique"
+    ],
+    [
+      "musique de scène dans le kabuki"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

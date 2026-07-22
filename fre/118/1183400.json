@@ -1,0 +1,24 @@
+{
+  "seq": 1183400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "docile",
+      "apaisé",
+      "obéissant"
+    ],
+    [
+      "modéré",
+      "doux"
+    ],
+    [
+      "obéissance",
+      "docilité"
+    ],
+    [
+      "douceur",
+      "modération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

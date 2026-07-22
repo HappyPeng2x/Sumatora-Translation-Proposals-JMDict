@@ -1,0 +1,28 @@
+{
+  "seq": 1184570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "annexe",
+      "abri de toit"
+    ],
+    [
+      "sous la véranda",
+      "sous le plancher"
+    ],
+    [
+      "chambre sous le plancher",
+      "salle du sous-sol"
+    ],
+    [
+      "espaces inférieurs (d'une maison sur pilotis; d'une maison à deux étages)"
+    ],
+    [
+      "petite construction sur le toit adjacente au bâtiment principal"
+    ],
+    [
+      "construction annexe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

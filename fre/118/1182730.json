@@ -1,0 +1,15 @@
+{
+  "seq": 1182730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intérieur, couvert (piscine etc)"
+    ],
+    [
+      "intérieur du bâtiment",
+      "intérieur de la maison",
+      "intérieur des locaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1182920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "huître",
+      "coquille d'huître"
+    ],
+    [
+      "poussière d'huître",
+      "poudre de coquilles d'huître"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

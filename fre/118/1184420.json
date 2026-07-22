@@ -10,6 +10,11 @@
       "tendance à la baisse",
       "déclin",
       "chute progressive"
+    ],
+    [
+      "déclin",
+      "chute",
+      "perte de puissance"
     ]
   ],
   "model": "qwen3:14b"

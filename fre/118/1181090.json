@@ -1,0 +1,25 @@
+{
+  "seq": 1181090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regard détourné, de coté"
+    ],
+    [
+      "grain court (papier)"
+    ],
+    [
+      "radical du kanji 'net' en haut"
+    ],
+    [
+      "détour de l'intérêt vers quelque chose ou quelqu'un d'autre"
+    ],
+    [
+      "surveillance; contrôle; supervision"
+    ],
+    [
+      "surveillant; contrôleur; inspecteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

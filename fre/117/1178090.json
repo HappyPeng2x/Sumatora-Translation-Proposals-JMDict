@@ -1,0 +1,15 @@
+{
+  "seq": 1178090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vue lointaine",
+      "tour de guet",
+      "observation à distance"
+    ],
+    [
+      "vue depuis loin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

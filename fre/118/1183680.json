@@ -12,6 +12,9 @@
     ],
     [
       "initiale et finale (dans la structure syllabique chinoise)"
+    ],
+    [
+      "timbre sonore"
     ]
   ],
   "model": "qwen3:14b"

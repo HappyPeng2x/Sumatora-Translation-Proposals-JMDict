@@ -1,0 +1,15 @@
+{
+  "seq": 1181450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "capsule (de bouteille)",
+      "couronne",
+      "diadéme"
+    ],
+    [
+      "bouchon de bouteille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

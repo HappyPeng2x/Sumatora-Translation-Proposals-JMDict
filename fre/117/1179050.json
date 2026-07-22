@@ -1,0 +1,11 @@
+{
+  "seq": 1179050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contaminant bactérien",
+      "polluant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

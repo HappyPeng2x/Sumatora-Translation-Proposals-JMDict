@@ -1,0 +1,19 @@
+{
+  "seq": 1184380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déclin",
+      "décroissance",
+      "descente",
+      "en pente"
+    ],
+    [
+      "déclin",
+      "décroissance",
+      "l'effet d'une diminution progressive",
+      "la pente descendante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

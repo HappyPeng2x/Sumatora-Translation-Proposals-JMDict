@@ -4,6 +4,9 @@
   "glosses": [
     [
       "dernier enfant"
+    ],
+    [
+      "douzième mois (dans le calendrier lunaire)"
     ]
   ],
   "model": "qwen3:14b"

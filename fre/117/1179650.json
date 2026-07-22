@@ -1,0 +1,38 @@
+{
+  "seq": 1179650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esquiver",
+      "dodger",
+      "détourner"
+    ],
+    [
+      "esquiver",
+      "détourner",
+      "éviter"
+    ],
+    [
+      "chasser",
+      "expulser",
+      "chasser hors de chez soi"
+    ],
+    [
+      "expulser",
+      "renvoyer",
+      "faire partir"
+    ],
+    [
+      "moquer",
+      "ridiculiser",
+      "bafouer"
+    ],
+    [
+      "insulter",
+      "maudire",
+      "ridiculiser",
+      "bafouer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

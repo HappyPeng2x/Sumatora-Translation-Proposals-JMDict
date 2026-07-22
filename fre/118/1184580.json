@@ -1,0 +1,21 @@
+{
+  "seq": 1184580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déclin",
+      "décrue",
+      "retombée"
+    ],
+    [
+      "déclin",
+      "diminution",
+      "retour en arrière"
+    ],
+    [
+      "feu de braise",
+      "braises"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

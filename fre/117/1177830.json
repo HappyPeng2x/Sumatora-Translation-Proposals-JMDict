@@ -1,0 +1,16 @@
+{
+  "seq": 1177830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aller loin"
+    ],
+    [
+      "s'éloigner",
+      "se détourner",
+      "se désintéresser",
+      "se désolidariser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

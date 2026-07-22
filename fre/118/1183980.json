@@ -11,6 +11,9 @@
     ],
     [
       "chef d'un groupe d'instruments à vent (dans le gagaku)"
+    ],
+    [
+      "leader des instruments à vent dans un ensemble gagaku"
     ]
   ],
   "model": "qwen3:14b"

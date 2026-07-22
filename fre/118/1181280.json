@@ -6,6 +6,9 @@
       "écriture en langue européenne",
       "texte européen",
       "caractères romains"
+    ],
+    [
+      "européen (du côté des Pays-Bas)"
     ]
   ],
   "model": "qwen3:14b"

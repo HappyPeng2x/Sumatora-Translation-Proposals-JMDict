@@ -1,0 +1,12 @@
+{
+  "seq": 1178360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prévoyance",
+      "planification à long terme",
+      "vision d'avenir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

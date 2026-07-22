@@ -1,0 +1,14 @@
+{
+  "seq": 1183960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélodie",
+      "ton",
+      "intonation",
+      "rythme",
+      "harmonie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

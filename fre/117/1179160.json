@@ -1,0 +1,21 @@
+{
+  "seq": 1179160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfoncer",
+      "creuser",
+      "déprimer",
+      "humilier"
+    ],
+    [
+      "mettre quelqu'un à genoux",
+      "écraser complètement",
+      "dominer entièrement",
+      "forcer quelqu'un à se taire",
+      "faire taire",
+      "faire baisser le ton"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

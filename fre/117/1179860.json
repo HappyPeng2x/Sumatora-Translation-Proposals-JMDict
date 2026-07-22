@@ -1,0 +1,14 @@
+{
+  "seq": 1179860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe de supporters",
+      "équipe de supporters"
+    ],
+    [
+      "groupe de soutien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

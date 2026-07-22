@@ -1,0 +1,21 @@
+{
+  "seq": 1180920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fourberie",
+      "malhonnêteté",
+      "paresse"
+    ],
+    [
+      "impudent; sans vergogne"
+    ],
+    [
+      "impertinence; audace; hardiesse; absence de vergogne"
+    ],
+    [
+      "négligence; indolence; paresse; manque de zèle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

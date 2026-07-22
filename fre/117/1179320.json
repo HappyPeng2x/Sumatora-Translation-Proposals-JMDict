@@ -1,0 +1,38 @@
+{
+  "seq": 1179320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intérieur",
+      "le fond"
+    ],
+    [
+      "partie intérieure d'une maison ; pièce intérieure"
+    ],
+    [
+      "recoins de l'esprit ; fond du cœur ; arrière-plan des paroles ; mystères d'une œuvre d'art"
+    ],
+    [
+      "épouse (d'une personne de haut rang)"
+    ],
+    [
+      "épouse"
+    ],
+    [
+      "partie éloignée; le profond"
+    ],
+    [
+      "noyau; essence"
+    ],
+    [
+      "partie arrière (d'une lettre ou d'un livre)"
+    ],
+    [
+      "avenir; temps à venir"
+    ],
+    [
+      "lieu éloigné de la capitale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

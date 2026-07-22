@@ -1,0 +1,14 @@
+{
+  "seq": 1182710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dessus le toit",
+      "sur le toit"
+    ],
+    [
+      "toit plat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

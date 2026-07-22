@@ -9,6 +9,15 @@
     [
       "dire des méchancetés sur quelqu'un en son absence",
       "raconter des ragots derrière le dos de quelqu'un"
+    ],
+    [
+      "aboiement lointain",
+      "gémissement distant"
+    ],
+    [
+      "critique",
+      "commentaire",
+      "plainte distante"
     ]
   ],
   "model": "qwen3:14b"

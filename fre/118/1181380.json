@@ -1,0 +1,16 @@
+{
+  "seq": 1181380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frapper",
+      "mettre une volée"
+    ],
+    [
+      "raboter",
+      "dégrader la qualité",
+      "mal faire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

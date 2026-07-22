@@ -1,0 +1,15 @@
+{
+  "seq": 1183250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ingratitude"
+    ],
+    [
+      "personne ingrate",
+      "personne peu reconnaissante",
+      "indigne de la bienveillance reçue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

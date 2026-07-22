@@ -1,0 +1,32 @@
+{
+  "seq": 1180960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voie de traverse"
+    ],
+    [
+      "détour",
+      "erreur de direction",
+      "déviation"
+    ],
+    [
+      "bifurcation"
+    ],
+    [
+      "chemin erroné",
+      "déviation",
+      "détour"
+    ],
+    [
+      "traverser une rue",
+      "faire une traversée"
+    ],
+    [
+      "petite chose",
+      "détail",
+      "minutie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

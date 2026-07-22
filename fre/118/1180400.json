@@ -1,0 +1,12 @@
+{
+  "seq": 1180400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se taire",
+      "garder le silence",
+      "ne pas parler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1181030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrogance",
+      "hauteur",
+      "insolence"
+    ],
+    [
+      "prétentieux",
+      "dédaigneux",
+      "orgueilleux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

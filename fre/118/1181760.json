@@ -1,0 +1,15 @@
+{
+  "seq": 1181760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jaune"
+    ],
+    [
+      "aigu",
+      "strident",
+      "criard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

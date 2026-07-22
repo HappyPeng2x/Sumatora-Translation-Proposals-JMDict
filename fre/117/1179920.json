@@ -1,0 +1,14 @@
+{
+  "seq": 1179920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être incorporé (armée)"
+    ],
+    [
+      "récolte effectuée en raison d'une conscription",
+      "récolte effectuée en raison d'un ordre de mobilisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

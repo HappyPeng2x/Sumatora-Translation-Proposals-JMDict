@@ -4,6 +4,9 @@
   "glosses": [
     [
       "première partie d'une carte de réponse"
+    ],
+    [
+      "lettre de réponse"
     ]
   ],
   "model": "qwen3:14b"

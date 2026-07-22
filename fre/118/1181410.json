@@ -1,0 +1,15 @@
+{
+  "seq": 1181410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frapper",
+      "violenter"
+    ],
+    [
+      "violence physique",
+      "insulte corporelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

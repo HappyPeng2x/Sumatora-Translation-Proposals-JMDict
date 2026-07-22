@@ -1,0 +1,16 @@
+{
+  "seq": 1179660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trafic",
+      "allée et venue",
+      "route"
+    ],
+    [
+      "chemin",
+      "route"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

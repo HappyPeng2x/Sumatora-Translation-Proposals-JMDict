@@ -1,0 +1,14 @@
+{
+  "seq": 1181420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le trône",
+      "la couronne"
+    ],
+    [
+      "le trône"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

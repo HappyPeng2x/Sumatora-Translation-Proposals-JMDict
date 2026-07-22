@@ -1,0 +1,17 @@
+{
+  "seq": 1180590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "repousser (la résolution de qq chose)",
+      "s'allonger"
+    ],
+    [
+      "reposer en attente",
+      "attendre en embuscade",
+      "être en attente",
+      "se trouver en embuscade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

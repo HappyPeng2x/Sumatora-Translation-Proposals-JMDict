@@ -1,0 +1,15 @@
+{
+  "seq": 1178080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrière-plan",
+      "vue lointaine",
+      "perspective"
+    ],
+    [
+      "arrière-plan (d'une peinture)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

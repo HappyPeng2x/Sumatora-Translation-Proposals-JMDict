@@ -1,0 +1,54 @@
+{
+  "seq": 1184170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accorder (à quelqu'un)",
+      "congédier",
+      "descendre",
+      "pendant",
+      "tombant"
+    ],
+    [
+      "abaisser",
+      "réduire",
+      "faire descendre"
+    ],
+    [
+      "dégrader",
+      "reculer",
+      "retirer en arrière"
+    ],
+    [
+      "désencombrer",
+      "retirer",
+      "enlever"
+    ],
+    [
+      "continuer à jouer",
+      "poursuivre le jeu",
+      "jouer malgré la combinaison"
+    ],
+    [
+      "enlever",
+      "désencombrer",
+      "éloigner"
+    ],
+    [
+      "donner",
+      "accorder",
+      "conférer"
+    ],
+    [
+      "reculer",
+      "déplacer vers l'arrière",
+      "retirer en arrière"
+    ],
+    [
+      "retirer",
+      "désencombrer",
+      "prendre de l'argent à la banque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

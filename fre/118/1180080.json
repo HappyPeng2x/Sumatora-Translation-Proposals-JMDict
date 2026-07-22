@@ -6,6 +6,11 @@
       "question appliquée",
       "problème testant la capacité à appliquer des connaissances théoriques",
       "exercice"
+    ],
+    [
+      "problème pratique",
+      "exercice appliqué",
+      "tâche concret"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,26 @@
+{
+  "seq": 1178940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "malpropre",
+      "sale"
+    ],
+    [
+      "désordonné; en désordre; mal rangé; malpropre (écriture)"
+    ],
+    [
+      "indécent; vulgaire; grossier; malpropre (langage)"
+    ],
+    [
+      "cruel; bas; ignoble; perfide; malhonnête"
+    ],
+    [
+      "avare; économe; avare (dans le sens de ne pas dépenser)"
+    ],
+    [
+      "avare; cupide; avide d'argent (d'après le texte allemand)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

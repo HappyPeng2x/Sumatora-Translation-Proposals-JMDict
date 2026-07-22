@@ -1,0 +1,43 @@
+{
+  "seq": 1179790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aller et retour",
+      "circulation",
+      "correspondance",
+      "route"
+    ],
+    [
+      "route",
+      "rue"
+    ],
+    [
+      "relation",
+      "sociabilité",
+      "visites mutuelles"
+    ],
+    [
+      "répétition",
+      "récurrent"
+    ],
+    [
+      "correspondance",
+      "échanges"
+    ],
+    [
+      "léger flottement",
+      "fluctuation"
+    ],
+    [
+      "allées et venues",
+      "aller et venir",
+      "passage"
+    ],
+    [
+      "apparition et disparition",
+      "montée et disparition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

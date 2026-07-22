@@ -1,0 +1,11 @@
+{
+  "seq": 1184130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "puissance vocale",
+      "force de la voix"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1180980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouillage",
+      "positionnement à côté (d'un navire, d'un véhicule, etc.)",
+      "approche latérale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

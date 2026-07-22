@@ -1,0 +1,15 @@
+{
+  "seq": 1179150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concave",
+      "creux",
+      "enfoncé"
+    ],
+    [
+      "concavité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

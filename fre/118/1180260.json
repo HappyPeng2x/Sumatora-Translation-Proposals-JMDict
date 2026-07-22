@@ -12,6 +12,13 @@
       "forcer l'entrée",
       "saccager",
       "dévaliser"
+    ],
+    [
+      "enfermer",
+      "mettre en prison",
+      "conserver en stock",
+      "emprisonner",
+      "mettre en cage"
     ]
   ],
   "model": "qwen3:14b"

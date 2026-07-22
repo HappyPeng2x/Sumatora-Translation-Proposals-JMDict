@@ -1,0 +1,15 @@
+{
+  "seq": 1183660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gamme (musicale)",
+      "registre",
+      "étendue (d'une voix ou d'un instrument)"
+    ],
+    [
+      "registre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

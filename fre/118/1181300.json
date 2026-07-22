@@ -1,0 +1,11 @@
+{
+  "seq": 1181300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pays occidentaux",
+      "pays européens et nord-américains"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

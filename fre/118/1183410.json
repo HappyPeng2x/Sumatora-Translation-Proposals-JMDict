@@ -1,0 +1,15 @@
+{
+  "seq": 1183410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couche de fumier (utilisée pour faire pousser une plante)",
+      "foyer"
+    ],
+    [
+      "lieu propice à la croissance ou à la propagation d'une chose nuisible",
+      "endroit favorable à la prolifération d'une maladie ou d'une infection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

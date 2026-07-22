@@ -1,0 +1,37 @@
+{
+  "seq": 1184160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "baisser",
+      "pendre",
+      "reculer",
+      "se retirer",
+      "tomber"
+    ],
+    [
+      "pendre",
+      "dangler"
+    ],
+    [
+      "reculer",
+      "retirer",
+      "se retirer",
+      "s'éloigner"
+    ],
+    [
+      "se dégrader",
+      "tomber",
+      "être rétrogradé"
+    ],
+    [
+      "s'approcher",
+      "se rapprocher"
+    ],
+    [
+      "jouer un sagari",
+      "s'étendre vers le bas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

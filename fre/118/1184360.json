@@ -1,0 +1,34 @@
+{
+  "seq": 1184360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bon à rien",
+      "sans intêret",
+      "sans valeur",
+      "stupide",
+      "trivial"
+    ],
+    [
+      "stupide",
+      "absurde",
+      "insensé",
+      "ridicule"
+    ],
+    [
+      "insignifiant",
+      "sans importance",
+      "négligeable",
+      "mineur"
+    ],
+    [
+      "absurde",
+      "dénué de sens",
+      "stupide",
+      "ridicule",
+      "vain",
+      "vide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

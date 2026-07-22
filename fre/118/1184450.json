@@ -1,0 +1,41 @@
+{
+  "seq": 1184450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "descendre",
+      "diminuer"
+    ],
+    [
+      "être transmis (d'une ordre, d'un jugement, etc.)"
+    ],
+    [
+      "passe (le temps)"
+    ],
+    [
+      "se rendre; se soumettre"
+    ],
+    [
+      "être inférieur à; être moindre que"
+    ],
+    [
+      "avoir la diarrhée; avoir des selles molles"
+    ],
+    [
+      "être expulsé (du corps); être évacué (par les selles)"
+    ],
+    [
+      "s'humilier; se dévaloriser"
+    ],
+    [
+      "se rendre (dans le sens de se soumettre)"
+    ],
+    [
+      "être humble; être modeste; être soumis"
+    ],
+    [
+      "reculer; décliner; dégénérer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

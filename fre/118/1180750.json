@@ -11,6 +11,22 @@
       "marcher de côté",
       "vaciller",
       "avancer en trébuchant"
+    ],
+    [
+      "se promener avec arrogance",
+      "se déplacer avec ostentation"
+    ],
+    [
+      "dévastation",
+      "dégâts causés par une invasion"
+    ],
+    [
+      "se pavaner",
+      "marcher de manière ostentatoire"
+    ],
+    [
+      "prolifération",
+      "extension géographique"
     ]
   ],
   "model": "qwen3:14b"

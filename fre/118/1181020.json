@@ -1,0 +1,18 @@
+{
+  "seq": 1181020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écriture à l'Européenne",
+      "écriture horizontale"
+    ],
+    [
+      "langue européenne",
+      "langue occidentale"
+    ],
+    [
+      "langue occidentale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

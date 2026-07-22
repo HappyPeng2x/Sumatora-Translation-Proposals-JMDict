@@ -1,0 +1,26 @@
+{
+  "seq": 1177500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bord",
+      "coin (extérieur)"
+    ],
+    [
+      "cadre",
+      "entourage",
+      "cadran"
+    ],
+    [
+      "ourlet",
+      "bordure",
+      "jante"
+    ],
+    [
+      "ornement",
+      "décor",
+      "gravure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

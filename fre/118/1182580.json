@@ -1,0 +1,14 @@
+{
+  "seq": 1182580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préfecture d'Okinawa",
+      "ville d'Okinawa"
+    ],
+    [
+      "Okinawa (plus grande des îles Ryūkyū; théâtre de combats intenses pendant la Seconde Guerre mondiale; occupée par les États-Unis jusqu'en 1972; aujourd'hui la deuxième base militaire la plus importante des États-Unis en Asie de l'Est)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1183050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vendre en gros"
+    ],
+    [
+      "râper (ex. des légumes)",
+      "grater (ex. des légumes)"
+    ],
+    [
+      "découper du poisson",
+      "détacher des morceaux de poisson"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1178000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contrôle à distance",
+      "opération à distance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

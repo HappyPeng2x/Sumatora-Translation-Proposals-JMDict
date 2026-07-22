@@ -9,6 +9,22 @@
     [
       "désillusion",
       "déception"
+    ],
+    [
+      "matte",
+      "non brillant"
+    ],
+    [
+      "verre mat",
+      "verre dépoli"
+    ],
+    [
+      "pâle",
+      "décoloré"
+    ],
+    [
+      "désillusionnant",
+      "décevant"
     ]
   ],
   "model": "qwen3:14b"

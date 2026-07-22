@@ -6,6 +6,12 @@
       "pousser en arrière",
       "repousser",
       "forcer à reculer"
+    ],
+    [
+      "rejeter",
+      "refuser",
+      "verwerper",
+      "décliner"
     ]
   ],
   "model": "qwen3:14b"

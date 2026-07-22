@@ -9,6 +9,9 @@
     [
       "bain de mer chaude",
       "bain dans l'eau salée"
+    ],
+    [
+      "eau salée chaude"
     ]
   ],
   "model": "qwen3:14b"

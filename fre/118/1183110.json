@@ -1,0 +1,12 @@
+{
+  "seq": 1183110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rendre le mal pour le bien",
+      "faire du mal à quelqu'un qui t'a fait du bien",
+      "se venger de quelqu'un qui t'a aidé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

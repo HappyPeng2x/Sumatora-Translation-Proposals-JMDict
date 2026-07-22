@@ -1,0 +1,14 @@
+{
+  "seq": 1183390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "serre"
+    ],
+    [
+      "bain",
+      "salle de bains"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

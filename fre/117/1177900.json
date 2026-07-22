@@ -1,0 +1,14 @@
+{
+  "seq": 1177900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feu à distance",
+      "feu éloigné"
+    ],
+    [
+      "certaine distance du feu (par exemple lors de la cuisson)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

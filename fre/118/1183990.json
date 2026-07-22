@@ -1,0 +1,13 @@
+{
+  "seq": 1183990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lire a voix haute"
+    ],
+    [
+      "lecture (d'un kanji) selon sa prononciation d'origine chinoise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

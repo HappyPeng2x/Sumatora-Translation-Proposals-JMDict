@@ -8,6 +8,9 @@
     ],
     [
       "action de presser et de couper"
+    ],
+    [
+      "empreinte de tampon"
     ]
   ],
   "model": "qwen3:14b"

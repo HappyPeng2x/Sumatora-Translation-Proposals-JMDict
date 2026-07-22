@@ -1,0 +1,22 @@
+{
+  "seq": 1183620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calme",
+      "doux",
+      "paisible"
+    ],
+    [
+      "sans embarras",
+      "simplement"
+    ],
+    [
+      "secret",
+      "en silence",
+      "paisible",
+      "privé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1177610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rupture",
+      "divorce",
+      "séparation",
+      "désunion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

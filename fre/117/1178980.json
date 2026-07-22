@@ -1,0 +1,27 @@
+{
+  "seq": 1178980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dégoutant",
+      "immonde",
+      "sale"
+    ],
+    [
+      "répugnant",
+      "dégoûtant",
+      "nauséabond"
+    ],
+    [
+      "détestable",
+      "abject",
+      "inesthétique"
+    ],
+    [
+      "inconvenant",
+      "obscène",
+      "déshonnête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

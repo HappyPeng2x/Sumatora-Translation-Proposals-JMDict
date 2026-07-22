@@ -1,0 +1,16 @@
+{
+  "seq": 1179120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débris",
+      "détritus",
+      "immondice",
+      "saleté"
+    ],
+    [
+      "déchets; excréments; ordures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

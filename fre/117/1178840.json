@@ -1,0 +1,24 @@
+{
+  "seq": 1178840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "assaisonnement",
+      "condition",
+      "saveur"
+    ],
+    [
+      "servir son seigneur avec dévotion",
+      "servir fidèlement son maître"
+    ],
+    [
+      "état; situation; condition",
+      "état; situation; condition"
+    ],
+    [
+      "santé; état de santé",
+      "état de santé; bien-être physique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

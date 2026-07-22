@@ -1,0 +1,13 @@
+{
+  "seq": 1181780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jaunir",
+      "devenir jaune",
+      "prendre une teinte jaune",
+      "s’assombrir en jaune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

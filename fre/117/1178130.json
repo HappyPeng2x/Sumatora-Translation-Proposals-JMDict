@@ -1,0 +1,15 @@
+{
+  "seq": 1178130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voyage",
+      "excursion",
+      "sortie"
+    ],
+    [
+      "apparition d'une geisha en dehors de la zone sous la surveillance du bureau chargé du contrôle du quartier des plaisirs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

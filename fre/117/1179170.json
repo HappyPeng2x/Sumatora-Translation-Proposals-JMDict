@@ -1,0 +1,17 @@
+{
+  "seq": 1179170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfoncer",
+      "creuser",
+      "déprimer",
+      "humilier"
+    ],
+    [
+      "humilier quelqu'un",
+      "mettre quelqu'un dans le dérision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

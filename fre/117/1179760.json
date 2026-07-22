@@ -1,0 +1,29 @@
+{
+  "seq": 1179760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aller",
+      "retour"
+    ],
+    [
+      "billet aller-retour"
+    ],
+    [
+      "correspondance; échange (de lettres)"
+    ],
+    [
+      "compagnie; fréquentation; visites mutuelles"
+    ],
+    [
+      "correspondance; échange de lettres"
+    ],
+    [
+      "entretien de contact; relations; fréquentation"
+    ],
+    [
+      "billet de retour; billet aller-retour (abréviation de ōfukukippu ou ōfukujōshaken)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

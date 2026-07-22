@@ -1,0 +1,18 @@
+{
+  "seq": 1180740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grand champion (titre le plus élevé du sumo)"
+    ],
+    [
+      "crème de la crème",
+      "meilleur de son espèce"
+    ],
+    [
+      "meilleur de sa catégorie",
+      "champion incontesté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

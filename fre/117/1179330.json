@@ -1,0 +1,21 @@
+{
+  "seq": 1179330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme",
+      "femme marié",
+      "madame"
+    ],
+    [
+      "femme d'un daimyō ou d'un courtisan"
+    ],
+    [
+      "madame; dame honorifique"
+    ],
+    [
+      "mademoiselle; dame honorifique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1181700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roi"
+    ],
+    [
+      "Sa Majesté",
+      "Votre Majesté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

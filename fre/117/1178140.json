@@ -1,0 +1,14 @@
+{
+  "seq": 1178140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "longue cavalcade",
+      "longue promenade à cheval"
+    ],
+    [
+      "sortie à cheval"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

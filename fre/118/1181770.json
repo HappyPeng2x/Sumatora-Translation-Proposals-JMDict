@@ -5,6 +5,9 @@
     [
       "teinte jaune",
       "nuance jaune"
+    ],
+    [
+      "teinte jauneâtre; nuance jaunâtre"
     ]
   ],
   "model": "qwen3:14b"

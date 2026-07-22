@@ -1,0 +1,15 @@
+{
+  "seq": 1178240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grande plage",
+      "haut-fond"
+    ],
+    [
+      "plage peu profonde",
+      "rive peu profonde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

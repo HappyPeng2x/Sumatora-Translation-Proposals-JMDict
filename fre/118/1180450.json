@@ -1,0 +1,15 @@
+{
+  "seq": 1180450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "laver",
+      "emporter",
+      "balayer"
+    ],
+    [
+      "emporter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

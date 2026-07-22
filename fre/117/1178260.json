@@ -1,0 +1,16 @@
+{
+  "seq": 1178260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ballade",
+      "pique-nique",
+      "randonnée"
+    ],
+    [
+      "promenade",
+      "excursion à pied"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

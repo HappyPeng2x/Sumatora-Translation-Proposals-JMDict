@@ -13,6 +13,11 @@
     [
       "résumer en quelques mots",
       "exprimer brièvement"
+    ],
+    [
+      "résumer",
+      "synthétiser",
+      "condenser"
     ]
   ],
   "model": "qwen3:14b"

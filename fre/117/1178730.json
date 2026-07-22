@@ -8,6 +8,12 @@
     ],
     [
       "faire bouillir l'eau de mer pour en extraire le sel"
+    ],
+    [
+      "extraction du sel par évaporation de l'eau de mer; salinisation par évaporation"
+    ],
+    [
+      "personne qui extrait le sel par évaporation de l'eau de mer; salinier"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,22 @@
+{
+  "seq": 1177540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "augure",
+      "histoire",
+      "origine",
+      "signe"
+    ],
+    [
+      "origine; histoire; cause"
+    ],
+    [
+      "l'interdépendance; la doctrine bouddhique selon laquelle tout phénomène naît de causes et ne surgit pas du néant"
+    ],
+    [
+      "(néerlandais) bouddhologie; nidāna"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

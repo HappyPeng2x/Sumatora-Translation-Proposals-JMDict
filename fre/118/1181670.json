@@ -1,0 +1,14 @@
+{
+  "seq": 1181670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reine"
+    ],
+    [
+      "reine consort",
+      "reine épouse d'un empereur ou d'un roi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

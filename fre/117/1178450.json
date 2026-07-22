@@ -1,0 +1,43 @@
+{
+  "seq": 1178450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défiance",
+      "distance",
+      "réserve"
+    ],
+    [
+      "retrait",
+      "abstention",
+      "refus"
+    ],
+    [
+      "prudence",
+      "prévoyance",
+      "anticipation"
+    ],
+    [
+      "retenue",
+      "maîtrise",
+      "modestie",
+      "égard"
+    ],
+    [
+      "renoncement",
+      "refus"
+    ],
+    [
+      "interdiction",
+      "prohibition",
+      "défense"
+    ],
+    [
+      "vue lointaine",
+      "prévision",
+      "prudence",
+      "circonspection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

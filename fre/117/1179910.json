@@ -1,0 +1,39 @@
+{
+  "seq": 1179910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réplique",
+      "riposte"
+    ],
+    [
+      "réponse",
+      "réplique",
+      "retour",
+      "contre-attaque",
+      "échange"
+    ],
+    [
+      "poème répondu"
+    ],
+    [
+      "payer en retour",
+      "rendre la monnaie de la pièce",
+      "faire subir",
+      "faire payer"
+    ],
+    [
+      "échange",
+      "don et contre-don"
+    ],
+    [
+      "réponse",
+      "réaction",
+      "retour"
+    ],
+    [
+      "échange de boissons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

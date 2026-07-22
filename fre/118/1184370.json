@@ -1,0 +1,26 @@
+{
+  "seq": 1184370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(train) s'éloignant de Tokyo"
+    ],
+    [
+      "pente descendante",
+      "mouvement vers le bas"
+    ],
+    [
+      "direction vers le bas (surtout en dehors de Tokyo)"
+    ],
+    [
+      "en aval; en contrebas"
+    ],
+    [
+      "déclin; dégradation; diminution"
+    ],
+    [
+      "diarrhée; colique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1180670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "profil"
+    ],
+    [
+      "esquisse",
+      "aperçu",
+      "résumé (de la vie de quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

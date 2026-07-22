@@ -13,6 +13,9 @@
       "inonder",
       "submerger",
       "envahir"
+    ],
+    [
+      "pousser quelque chose contre quelque chose d'autre"
     ]
   ],
   "model": "qwen3:14b"

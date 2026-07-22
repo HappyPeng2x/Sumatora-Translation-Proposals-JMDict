@@ -1,0 +1,19 @@
+{
+  "seq": 1184040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "note (musique)"
+    ],
+    [
+      "symbole phonétique (comme les signes pour les kanji, les doubles kana, le signe d'allongement des voyelles, etc.)"
+    ],
+    [
+      "partie d'un kanji dont le rôle principal est de représenter la prononciation (au lieu du sens)"
+    ],
+    [
+      "partie d'un kanji indiquant la prononciation du caractère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

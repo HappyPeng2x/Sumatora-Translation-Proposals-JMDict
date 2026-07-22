@@ -1,0 +1,15 @@
+{
+  "seq": 1180060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déployer",
+      "mettre en application",
+      "utiliser"
+    ],
+    [
+      "appliqué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
