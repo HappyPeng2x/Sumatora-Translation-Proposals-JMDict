@@ -6,6 +6,11 @@
       "montage",
       "assemblage",
       "combinaison"
+    ],
+    [
+      "photographie montée",
+      "photo composite",
+      "photo reconstituée"
     ]
   ],
   "model": "qwen3:14b"

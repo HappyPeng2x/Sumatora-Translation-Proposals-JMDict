@@ -1,0 +1,20 @@
+{
+  "seq": 1130220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stéréotypé",
+      "ennuyeux",
+      "répétitif",
+      "routinier",
+      "stagnant",
+      "monotone",
+      "manière (dans l'art, etc.)"
+    ],
+    [
+      "habitude",
+      "trot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

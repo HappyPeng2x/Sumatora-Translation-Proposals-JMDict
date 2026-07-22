@@ -1,0 +1,12 @@
+{
+  "seq": 1143390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éditeur de liens",
+      "éditeur de liaisons",
+      "outil de liaison (informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

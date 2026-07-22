@@ -1,0 +1,11 @@
+{
+  "seq": 1133240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maisonette",
+      "appartement de deux étages"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

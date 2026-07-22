@@ -1,0 +1,25 @@
+{
+  "seq": 1135270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "modèle"
+    ],
+    [
+      "mannequin"
+    ],
+    [
+      "modèle (d'un véhicule, d'une machine, etc.) ; version"
+    ],
+    [
+      "modèle (mathématique)"
+    ],
+    [
+      "modèle (pour un personnage fictif, un lieu, etc.) ; inspiration"
+    ],
+    [
+      "modèle (en théorie des modèles)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -11,6 +11,11 @@
       "cuisine",
       "salle de bain",
       "pièce avec lavabo et machine à laver"
+    ],
+    [
+      "cuisine d'appoint",
+      "cuisine secondaire",
+      "petite cuisine"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,12 @@
+{
+  "seq": 1129860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boîte multifonctionnelle",
+      "boîte à plusieurs compartiments",
+      "boîte contenant plusieurs objets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

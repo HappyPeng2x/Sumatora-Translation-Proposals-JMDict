@@ -9,6 +9,9 @@
     [
       "sujet d'expérience",
       "cobaye (humain)"
+    ],
+    [
+      "marmotte"
     ]
   ],
   "model": "qwen3:14b"

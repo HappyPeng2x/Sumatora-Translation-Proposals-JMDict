@@ -1,0 +1,17 @@
+{
+  "seq": 1140100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déjeuner (lunch)",
+      "lancement"
+    ],
+    [
+      "repas complet servi sur une seule assiette ; plateau-repas ; service en plateau"
+    ],
+    [
+      "bateau à vapeur (néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

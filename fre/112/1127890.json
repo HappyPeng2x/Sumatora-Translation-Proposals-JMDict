@@ -4,6 +4,10 @@
   "glosses": [
     [
       "mascotte"
+    ],
+    [
+      "figure de proue",
+      "symbole d'une équipe ou d'une organisation"
     ]
   ],
   "model": "qwen3:14b"

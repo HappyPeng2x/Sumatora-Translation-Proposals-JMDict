@@ -4,6 +4,9 @@
   "glosses": [
     [
       "mirage"
+    ],
+    [
+      "avion de combat"
     ]
   ],
   "model": "qwen3:14b"

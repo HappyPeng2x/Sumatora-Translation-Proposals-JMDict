@@ -1,0 +1,19 @@
+{
+  "seq": 1142390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "révision"
+    ],
+    [
+      "édition revue et corrigée; édition améliorée; version révisée"
+    ],
+    [
+      "révision"
+    ],
+    [
+      "intervention chirurgicale plastique; intervention chirurgicale orthopédique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

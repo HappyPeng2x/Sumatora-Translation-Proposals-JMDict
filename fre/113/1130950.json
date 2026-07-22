@@ -1,0 +1,26 @@
+{
+  "seq": 1130950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélange",
+      "mixte (sport)"
+    ],
+    [
+      "mélange préparé",
+      "pâte à gâteau prête à l'emploi"
+    ],
+    [
+      "mêlé",
+      "mélange"
+    ],
+    [
+      "équipe de double mixte"
+    ],
+    [
+      "personne de race mixte",
+      "origine hybride"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

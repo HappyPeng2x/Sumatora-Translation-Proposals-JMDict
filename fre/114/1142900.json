@@ -1,0 +1,11 @@
+{
+  "seq": 1142900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paiement en plusieurs versements",
+      "paiement par versements récurrents"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "utilisateur",
       "usager",
       "personne qui utilise un logiciel ou un service"
+    ],
+    [
+      "utilisateur"
     ]
   ],
   "model": "qwen3:14b"

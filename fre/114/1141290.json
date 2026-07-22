@@ -9,6 +9,12 @@
     [
       "rappel (d'un produit défectueux)",
       "retrait d'un produit défectueux du marché"
+    ],
+    [
+      "révocation (d'un élu par la corporation d'envoi)"
+    ],
+    [
+      "rappel (d'une série automobile en raison de défauts de construction)"
     ]
   ],
   "model": "qwen3:14b"

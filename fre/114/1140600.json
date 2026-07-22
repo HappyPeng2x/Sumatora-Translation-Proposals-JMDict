@@ -4,6 +4,11 @@
   "glosses": [
     [
       "leadership"
+    ],
+    [
+      "compétence de leadership",
+      "qualité de leadership",
+      "personne capable de diriger"
     ]
   ],
   "model": "qwen3:14b"

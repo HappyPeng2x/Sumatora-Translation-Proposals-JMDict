@@ -8,6 +8,18 @@
     ],
     [
       "arc, contrefort (dans une construction)"
+    ],
+    [
+      "architectural",
+      "arc; contrefort"
+    ],
+    [
+      "culinary",
+      "rôti de bœuf"
+    ],
+    [
+      "nautical",
+      "embarcation à coque rigide et flottaison en caoutchouc"
     ]
   ],
   "model": "qwen3:14b"

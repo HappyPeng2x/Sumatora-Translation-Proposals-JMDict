@@ -1,0 +1,12 @@
+{
+  "seq": 1134670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manteau de ville",
+      "manteau à revers",
+      "tenue de ville (opposé à la tenue de soirée)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

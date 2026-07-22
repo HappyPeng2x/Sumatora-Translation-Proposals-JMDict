@@ -1,0 +1,14 @@
+{
+  "seq": 1142730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remplacement",
+      "remplacement de quelque chose par quelque chose d'autre"
+    ],
+    [
+      "reposer la balle à son emplacement d'origine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

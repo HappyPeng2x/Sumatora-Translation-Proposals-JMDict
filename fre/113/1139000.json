@@ -6,6 +6,10 @@
       "lame",
       "tôle",
       "lame de métal"
+    ],
+    [
+      "charpentier",
+      "ouvrier du bâtiment"
     ]
   ],
   "model": "qwen3:14b"

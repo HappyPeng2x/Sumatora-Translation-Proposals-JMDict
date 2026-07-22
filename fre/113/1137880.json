@@ -1,0 +1,17 @@
+{
+  "seq": 1137880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écrivain",
+      "briquet",
+      "motard"
+    ],
+    [
+      "écrivain",
+      "allumette",
+      "allume-cigare"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

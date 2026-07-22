@@ -5,6 +5,12 @@
     [
       "monotone",
       "n"
+    ],
+    [
+      "simple"
+    ],
+    [
+      "unicolore; monochrome"
     ]
   ],
   "model": "qwen3:14b"

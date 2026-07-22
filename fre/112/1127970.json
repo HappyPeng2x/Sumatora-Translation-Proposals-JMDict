@@ -1,0 +1,32 @@
+{
+  "seq": 1127970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maîtriser",
+      "apprendre"
+    ],
+    [
+      "propriétaire",
+      "gérant",
+      "directeur"
+    ],
+    [
+      "maitrise (par ex. ès lettres, ès sciences)",
+      "master"
+    ],
+    [
+      "maître (d'arts, de sciences, etc.)"
+    ],
+    [
+      "maître (enregistrement)"
+    ],
+    [
+      "maître (appareil)"
+    ],
+    [
+      "maître (données)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

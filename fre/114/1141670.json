@@ -1,0 +1,16 @@
+{
+  "seq": 1141670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ressource",
+      "élément utile",
+      "moyen",
+      "matière première"
+    ],
+    [
+      "ressource"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

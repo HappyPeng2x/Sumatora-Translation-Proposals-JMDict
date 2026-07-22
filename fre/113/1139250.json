@@ -10,6 +10,18 @@
     [
       "envelopper avec du film plastique",
       "recouvrir de film étanche"
+    ],
+    [
+      "rouleau de pâte farci"
+    ],
+    [
+      "manteau enveloppant"
+    ],
+    [
+      "disque de polissage"
+    ],
+    [
+      "piste; musique rap"
     ]
   ],
   "model": "qwen3:14b"

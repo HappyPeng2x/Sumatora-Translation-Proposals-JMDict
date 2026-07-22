@@ -1,0 +1,16 @@
+{
+  "seq": 1141080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récupération"
+    ],
+    [
+      "mouvement final d'un coup de nage"
+    ],
+    [
+      "sécurisation de la balle tombée au sol"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

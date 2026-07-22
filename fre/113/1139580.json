@@ -1,0 +1,10 @@
+{
+  "seq": 1139580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeu gagné sans que l'adversaire marque de point"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

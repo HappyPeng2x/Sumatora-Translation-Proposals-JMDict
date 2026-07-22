@@ -1,0 +1,17 @@
+{
+  "seq": 1130740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mystère"
+    ],
+    [
+      "roman policier",
+      "histoire de crime"
+    ],
+    [
+      "histoire d'horreur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

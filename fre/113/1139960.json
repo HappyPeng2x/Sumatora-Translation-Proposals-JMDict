@@ -1,0 +1,15 @@
+{
+  "seq": 1139960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rang",
+      "position",
+      "niveau"
+    ],
+    [
+      "(néerlandais) mot de mesure pour le rang hiérarchique; position"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

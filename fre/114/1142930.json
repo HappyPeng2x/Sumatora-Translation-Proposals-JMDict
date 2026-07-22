@@ -6,6 +6,10 @@
       "remarque",
       "note",
       "observation"
+    ],
+    [
+      "marque",
+      "signe distinctif"
     ]
   ],
   "model": "qwen3:14b"

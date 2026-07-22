@@ -4,6 +4,9 @@
   "glosses": [
     [
       "methyl-"
+    ],
+    [
+      "alcool méthylique"
     ]
   ],
   "model": "qwen3:14b"

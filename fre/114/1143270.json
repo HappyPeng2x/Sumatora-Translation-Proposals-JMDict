@@ -1,0 +1,17 @@
+{
+  "seq": 1143270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "relief (en baseball, le fait de remplacer un joueur)",
+      "relief (en baseball, le remplaçant)"
+    ],
+    [
+      "soulagement",
+      "remplacement",
+      "aide",
+      "relief (en art; sculpture en relief)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

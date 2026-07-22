@@ -1,0 +1,17 @@
+{
+  "seq": 1128430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aller avec",
+      "allumette",
+      "match",
+      "s'accorder"
+    ],
+    [
+      "boîte de allumettes",
+      "allumette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

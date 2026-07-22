@@ -4,6 +4,10 @@
   "glosses": [
     [
       "radial"
+    ],
+    [
+      "pneu radial",
+      "ceinture de pneu"
     ]
   ],
   "model": "qwen3:14b"

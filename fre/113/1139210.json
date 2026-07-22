@@ -9,6 +9,12 @@
     [
       "tracer un chemin à travers la neige profonde",
       "faire un sentier dans la neige épaisse"
+    ],
+    [
+      "tissu rasché"
+    ],
+    [
+      "nom propre (personne)"
     ]
   ],
   "model": "qwen3:14b"

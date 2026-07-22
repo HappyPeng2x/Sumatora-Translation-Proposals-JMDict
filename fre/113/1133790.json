@@ -1,0 +1,19 @@
+{
+  "seq": 1133790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "menu"
+    ],
+    [
+      "horaire",
+      "programme",
+      "cours",
+      "services"
+    ],
+    [
+      "menu (informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

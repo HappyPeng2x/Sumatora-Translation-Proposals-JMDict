@@ -1,0 +1,10 @@
+{
+  "seq": 1138600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un document ou une lettre signé par plusieurs personnes en même temps, souvent dans le cadre d'une protestation ou d'une pétition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

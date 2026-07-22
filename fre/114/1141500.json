@@ -1,0 +1,20 @@
+{
+  "seq": 1141500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "liste",
+      "poignet"
+    ],
+    [
+      "personne du nom de List; notamment Franz von Liszt ou Friedrich List"
+    ],
+    [
+      "liste; Friedrich List; économiste allemand du XIXe siècle"
+    ],
+    [
+      "compositeur hongrois; Franz Liszt"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

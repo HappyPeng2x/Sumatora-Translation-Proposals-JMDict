@@ -1,0 +1,13 @@
+{
+  "seq": 1138030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "camion de livraison"
+    ],
+    [
+      "camionnette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

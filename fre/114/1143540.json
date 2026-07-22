@@ -4,6 +4,9 @@
   "glosses": [
     [
       "acide phosphorique"
+    ],
+    [
+      "acide orthophosphorique"
     ]
   ],
   "model": "qwen3:14b"

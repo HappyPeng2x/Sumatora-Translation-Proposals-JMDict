@@ -1,0 +1,14 @@
+{
+  "seq": 1132190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ambiance",
+      "atmosphère"
+    ],
+    [
+      "mode grammatical"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

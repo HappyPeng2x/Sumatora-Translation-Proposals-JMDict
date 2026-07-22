@@ -4,6 +4,9 @@
   "glosses": [
     [
       "mangouste"
+    ],
+    [
+      "mangouste indienne"
     ]
   ],
   "model": "qwen3:14b"

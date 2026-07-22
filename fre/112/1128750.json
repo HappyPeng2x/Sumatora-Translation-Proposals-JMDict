@@ -11,6 +11,12 @@
       "manie",
       "enthousiasme excessif",
       "obsession"
+    ],
+    [
+      "fanatique",
+      "collectionneur acharné",
+      "personne passionnée",
+      "folle de quelque chose"
     ]
   ],
   "model": "qwen3:14b"

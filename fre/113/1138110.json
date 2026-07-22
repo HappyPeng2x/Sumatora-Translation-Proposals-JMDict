@@ -1,0 +1,19 @@
+{
+  "seq": 1138110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tissu intérieur",
+      "revêtement interne"
+    ],
+    [
+      "revêtement interne",
+      "doublure"
+    ],
+    [
+      "frottement",
+      "revêtement de frein"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1143060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remake",
+      "refaire",
+      "recomposition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

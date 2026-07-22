@@ -1,0 +1,16 @@
+{
+  "seq": 1132990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mégao-",
+      "mégalo-"
+    ],
+    [
+      "mégalo",
+      "énorme",
+      "immense"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

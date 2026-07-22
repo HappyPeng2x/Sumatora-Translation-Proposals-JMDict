@@ -1,0 +1,13 @@
+{
+  "seq": 1132760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "titre principal"
+    ],
+    [
+      "titre de fin de film"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

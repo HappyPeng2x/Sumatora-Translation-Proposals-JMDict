@@ -4,6 +4,10 @@
   "glosses": [
     [
       "éclairage"
+    ],
+    [
+      "éclairage",
+      "illumination"
     ]
   ],
   "model": "qwen3:14b"

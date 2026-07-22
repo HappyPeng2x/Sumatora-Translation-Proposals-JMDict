@@ -9,6 +9,14 @@
       "majeur",
       "important",
       "considérable"
+    ],
+    [
+      "masse",
+      "le peuple",
+      "le commun des mortels"
+    ],
+    [
+      "truite"
     ]
   ],
   "model": "qwen3:14b"

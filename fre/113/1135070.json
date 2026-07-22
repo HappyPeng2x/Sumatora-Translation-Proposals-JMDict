@@ -1,0 +1,16 @@
+{
+  "seq": 1135070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "motif"
+    ],
+    [
+      "motif artistique; sujet d'une œuvre artistique; thème"
+    ],
+    [
+      "motif décoratif; motif de tissu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

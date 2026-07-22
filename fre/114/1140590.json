@@ -11,6 +11,12 @@
       "marges de texte",
       "ligne pointillée",
       "ellipse"
+    ],
+    [
+      "appareil de lecture; lecteur; chef; leader"
+    ],
+    [
+      "lecteur; public lecteur; cercle de lecteurs"
     ]
   ],
   "model": "qwen3:14b"

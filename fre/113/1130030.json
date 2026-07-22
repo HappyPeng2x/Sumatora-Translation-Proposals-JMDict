@@ -1,0 +1,14 @@
+{
+  "seq": 1130030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mangostane",
+      "mangosteen"
+    ],
+    [
+      "fruits de la mangostane"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "mango (Mangifera indica)"
+    ],
+    [
+      "mangue"
     ]
   ],
   "model": "qwen3:14b"

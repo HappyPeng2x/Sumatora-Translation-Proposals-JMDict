@@ -8,6 +8,9 @@
       "attirail",
       "équipement",
       "installation"
+    ],
+    [
+      "plateforme de forage"
     ]
   ],
   "model": "qwen3:14b"

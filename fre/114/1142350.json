@@ -12,6 +12,19 @@
     ],
     [
       "retour des symptômes après l'arrêt d'un médicament"
+    ],
+    [
+      "rebond",
+      "restitution",
+      "retour"
+    ],
+    [
+      "effet rebond",
+      "reprise de poids"
+    ],
+    [
+      "retour des symptômes",
+      "rechute"
     ]
   ],
   "model": "qwen3:14b"

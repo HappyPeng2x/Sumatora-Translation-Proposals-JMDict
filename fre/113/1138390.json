@@ -1,0 +1,70 @@
+{
+  "seq": 1138390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligne"
+    ],
+    [
+      "conduite",
+      "règle"
+    ],
+    [
+      "ligne",
+      "application de messagerie instantanée",
+      "le Rhin (fleuve en Europe occidentale)",
+      "directive",
+      "norme"
+    ],
+    [
+      "série",
+      "système"
+    ],
+    [
+      "ligne",
+      "série"
+    ],
+    [
+      "ligne de démarcation",
+      "ligne de séparation"
+    ],
+    [
+      "étalon"
+    ],
+    [
+      "organisation hiérarchique (d'entreprise)",
+      "ligne (de bureau - section - service - cellule)"
+    ],
+    [
+      "ligne de production",
+      "ligne de fabrication"
+    ],
+    [
+      "ligne",
+      "liaison"
+    ],
+    [
+      "câble",
+      "fil"
+    ],
+    [
+      "hameçon",
+      "ligne"
+    ],
+    [
+      "unité de longueur (ancienne)",
+      "ligne (égal à 1; 12 de pouce; environ 2; 12 mm)"
+    ],
+    [
+      "le Rhin"
+    ],
+    [
+      "le Rhin",
+      "Joseph Banks (psychologue parapsychologue américain; 1895-1980)"
+    ],
+    [
+      "Adrian (réalisateur britannique; né en 1941)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1143210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "relire",
+      "réécrire",
+      "reformuler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

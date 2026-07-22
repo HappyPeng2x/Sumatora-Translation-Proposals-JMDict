@@ -4,6 +4,16 @@
   "glosses": [
     [
       "batteur qui frappe en premier dans une équipe de baseball"
+    ],
+    [
+      "leader",
+      "figure de proue",
+      "personne en tête d'un groupe"
+    ],
+    [
+      "joueur principal",
+      "premier joueur",
+      "meilleur joueur"
     ]
   ],
   "model": "qwen3:14b"

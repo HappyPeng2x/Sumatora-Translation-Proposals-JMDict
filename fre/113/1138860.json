@@ -1,0 +1,19 @@
+{
+  "seq": 1138860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "radio"
+    ],
+    [
+      "appareil de radiodiffusion"
+    ],
+    [
+      "sans fil",
+      "sans fil (en contexte technique)",
+      "radiodiffusion",
+      "radio (ancienne transcription de l'anglais 'radio'"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

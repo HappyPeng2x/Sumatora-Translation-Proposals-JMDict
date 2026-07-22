@@ -1,0 +1,10 @@
+{
+  "seq": 1141220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vêtements et apparence adaptés à un étudiant allant visiter un employeur potentiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

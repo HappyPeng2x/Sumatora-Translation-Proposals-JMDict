@@ -11,6 +11,13 @@
       "rue piétonne",
       "zone piétonne",
       "artère commerciale"
+    ],
+    [
+      "maul (au rugby)"
+    ],
+    [
+      "centre commercial",
+      "shopping mall"
     ]
   ],
   "model": "qwen3:14b"

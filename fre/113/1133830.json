@@ -1,0 +1,20 @@
+{
+  "seq": 1133830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agenda",
+      "mémorandum",
+      "note"
+    ],
+    [
+      "note",
+      "mémoire",
+      "remarque",
+      "annotation",
+      "écriture",
+      "enregistrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

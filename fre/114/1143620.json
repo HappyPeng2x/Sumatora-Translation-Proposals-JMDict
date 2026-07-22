@@ -9,6 +9,9 @@
     [
       "routeur (outil de menuiserie)",
       "outil de routage (menuiserie)"
+    ],
+    [
+      "décapeur (outil de construction)"
     ]
   ],
   "model": "qwen3:14b"

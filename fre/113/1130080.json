@@ -4,6 +4,13 @@
   "glosses": [
     [
       "mandarin (Citrus reticulata)"
+    ],
+    [
+      "chinois (serviteur de la cour)",
+      "chinois (de la cour)"
+    ],
+    [
+      "chinois"
     ]
   ],
   "model": "qwen3:14b"

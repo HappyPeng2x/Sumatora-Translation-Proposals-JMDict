@@ -4,6 +4,21 @@
   "glosses": [
     [
       "miroir"
+    ],
+    [
+      "Glenn Miller (musicien américain; clarinettiste; chef d'orchestre; arrangeur et compositeur; 1904-1944)",
+      "Henry (romancier américain; 1891-1980)"
+    ],
+    [
+      "Arthur Miller (dramaturge américain; 1915-2005)",
+      "Glenn (musicien américain; 1909-1944)"
+    ],
+    [
+      "Arthur Miller (auteur dramatique américain; 1915-2005)",
+      "Arthur (auteur dramatique américain; 1915-2005)"
+    ],
+    [
+      "site miroir (abréviation)"
     ]
   ],
   "model": "qwen3:14b"

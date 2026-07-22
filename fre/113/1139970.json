@@ -7,6 +7,10 @@
     ],
     [
       "poumon"
+    ],
+    [
+      "nom propre",
+      "personne du nom de Lang ou Lange en Hollande"
     ]
   ],
   "model": "qwen3:14b"

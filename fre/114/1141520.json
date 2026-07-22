@@ -1,0 +1,14 @@
+{
+  "seq": 1141520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "listing",
+      "liste",
+      "énumération",
+      "recensement",
+      "inventaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

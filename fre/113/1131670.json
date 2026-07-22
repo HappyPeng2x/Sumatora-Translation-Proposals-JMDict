@@ -1,0 +1,14 @@
+{
+  "seq": 1131670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musicien",
+      "musicienne"
+    ],
+    [
+      "musicien itinérant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

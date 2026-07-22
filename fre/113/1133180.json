@@ -1,0 +1,15 @@
+{
+  "seq": 1133180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scalpel",
+      "ciseau chirurgical"
+    ],
+    [
+      "intervention profonde",
+      "ville de Metz"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

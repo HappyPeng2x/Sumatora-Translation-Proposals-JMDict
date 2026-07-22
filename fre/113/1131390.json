@@ -10,6 +10,24 @@
     [
       "figurine miniature",
       "modèle réduit"
+    ],
+    [
+      "miniature"
+    ],
+    [
+      "illustration d'un manuscrit"
+    ],
+    [
+      "petite image"
+    ],
+    [
+      "quelque chose de petit"
+    ],
+    [
+      "modèle réduit"
+    ],
+    [
+      "miniature; illustration d'un manuscrit; petite image; peinture miniature"
     ]
   ],
   "model": "qwen3:14b"

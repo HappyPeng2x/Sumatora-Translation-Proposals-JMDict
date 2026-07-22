@@ -7,6 +7,16 @@
     ],
     [
       "arène"
+    ],
+    [
+      "anneau de boxe",
+      "arène"
+    ],
+    [
+      "anneau utérin",
+      "pessaire",
+      "spirale",
+      "dispositif intra-utérin"
     ]
   ],
   "model": "qwen3:14b"

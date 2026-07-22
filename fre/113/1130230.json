@@ -1,0 +1,18 @@
+{
+  "seq": 1130230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "stéréotypé",
+      "stéréotype",
+      "routinier",
+      "manière",
+      "manière d'agir"
+    ],
+    [
+      "habitude",
+      "trot"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

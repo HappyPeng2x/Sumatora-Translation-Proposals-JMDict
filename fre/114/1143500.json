@@ -1,0 +1,15 @@
+{
+  "seq": 1143500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "violence de groupe",
+      "justice populaire",
+      "correction corporelle"
+    ],
+    [
+      "Lynch (nom propre)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -11,6 +11,9 @@
       "formation",
       "bande (musique)",
       "groupe (spectacle)"
+    ],
+    [
+      "unité de construction"
     ]
   ],
   "model": "qwen3:14b"

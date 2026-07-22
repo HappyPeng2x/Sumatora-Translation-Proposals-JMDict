@@ -1,0 +1,13 @@
+{
+  "seq": 1129240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maman"
+    ],
+    [
+      "propriétaire femme d'un bar, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

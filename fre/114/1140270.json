@@ -1,0 +1,19 @@
+{
+  "seq": 1140270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course"
+    ],
+    [
+      "débardeur"
+    ],
+    [
+      "chemise sans manches",
+      "tee-shirt",
+      "maillot de corps sans manches",
+      "top sans manches"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

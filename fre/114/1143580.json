@@ -4,6 +4,10 @@
   "glosses": [
     [
       "rouge (surtout celui appliqué sur les lèvres) ; rouge à lèvres"
+    ],
+    [
+      "rouge à lèvres",
+      "crayon à lèvres"
     ]
   ],
   "model": "qwen3:14b"

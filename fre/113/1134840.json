@@ -1,0 +1,17 @@
+{
+  "seq": 1134840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "module",
+      "unité",
+      "élément"
+    ],
+    [
+      "module",
+      "échelle",
+      "mesure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -16,6 +16,9 @@
     [
       "technique",
       "procédé"
+    ],
+    [
+      "mécanique"
     ]
   ],
   "model": "qwen3:14b"

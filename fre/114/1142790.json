@@ -1,0 +1,16 @@
+{
+  "seq": 1142790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "libéral",
+      "libérale"
+    ],
+    [
+      "ouvert d'esprit",
+      "tolérant",
+      "progressiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

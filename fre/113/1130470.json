@@ -6,6 +6,9 @@
       "mélange",
       "combinaison",
       "mélange (d'éléments)"
+    ],
+    [
+      "chute d'une bille après qu'une autre bille roulante l'a heurtée"
     ]
   ],
   "model": "qwen3:14b"

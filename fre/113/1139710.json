@@ -1,0 +1,16 @@
+{
+  "seq": 1139710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étiquetage"
+    ],
+    [
+      "dénomination; indication"
+    ],
+    [
+      "évaluation; jugement; écaillage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

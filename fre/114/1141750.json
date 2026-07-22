@@ -1,0 +1,12 @@
+{
+  "seq": 1141750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "match de revanche",
+      "match de reprise",
+      "rematch"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

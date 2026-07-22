@@ -4,6 +4,46 @@
   "glosses": [
     [
       "lied (chanson allemande, généralement pour une voix solo et piano)"
+    ],
+    [
+      "conduire",
+      "prendre la tête",
+      "diriger"
+    ],
+    [
+      "leader",
+      "avance",
+      "avantage",
+      "meneur",
+      "position de tête"
+    ],
+    [
+      "synthèse",
+      "résumé court"
+    ],
+    [
+      "fil de puissance",
+      "câble d'alimentation",
+      "ligne d'alimentation",
+      "câble d'entrée"
+    ],
+    [
+      "vitesse",
+      "pénétration",
+      "distance entre deux spires"
+    ],
+    [
+      "roseau",
+      "langue"
+    ],
+    [
+      "chanson"
+    ],
+    [
+      "Thomas"
+    ],
+    [
+      "Sir Herbert"
     ]
   ],
   "model": "qwen3:14b"

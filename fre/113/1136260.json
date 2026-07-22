@@ -4,6 +4,20 @@
   "glosses": [
     [
       "unité de mesure de distance"
+    ],
+    [
+      "jardin",
+      "arrière-cour"
+    ],
+    [
+      "terrain",
+      "cour intérieure",
+      "dépôt",
+      "chantier",
+      "station de lavage automobile"
+    ],
+    [
+      "nerd yuppie"
     ]
   ],
   "model": "qwen3:14b"

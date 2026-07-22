@@ -12,6 +12,14 @@
     ],
     [
       "lever (en patinage, en danse, etc.)"
+    ],
+    [
+      "montecharge",
+      "grue de levage"
+    ],
+    [
+      "figure de levage",
+      "figure de soulèvement"
     ]
   ],
   "model": "qwen3:14b"

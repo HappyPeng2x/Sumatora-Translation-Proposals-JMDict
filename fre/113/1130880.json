@@ -1,0 +1,14 @@
+{
+  "seq": 1130880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Madame",
+      "Mme"
+    ],
+    [
+      "femme mariée; épouse; ménagère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

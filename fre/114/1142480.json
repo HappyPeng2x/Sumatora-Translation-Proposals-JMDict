@@ -1,0 +1,12 @@
+{
+  "seq": 1142480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affinement",
+      "raffinement",
+      "perfectionnement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

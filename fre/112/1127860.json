@@ -5,6 +5,9 @@
     [
       "masquage",
       "masquillage"
+    ],
+    [
+      "détacher (avant de peindre ou autre chose)"
     ]
   ],
   "model": "qwen3:14b"

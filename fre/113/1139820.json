@@ -7,6 +7,26 @@
     ],
     [
       "viande d'agneau"
+    ],
+    [
+      "boule de navigation",
+      "boule de navigation"
+    ],
+    [
+      "signe astrologique",
+      "signe astrologique"
+    ],
+    [
+      "alcool",
+      "alcool"
+    ],
+    [
+      "mémoire vive",
+      "mémoire vive"
+    ],
+    [
+      "agneau",
+      "agneau"
     ]
   ],
   "model": "qwen3:14b"

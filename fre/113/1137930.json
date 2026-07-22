@@ -6,6 +6,10 @@
       "chevalerie",
       "monture",
       "équitation"
+    ],
+    [
+      "surf",
+      "se balancer sur une vague"
     ]
   ],
   "model": "qwen3:14b"

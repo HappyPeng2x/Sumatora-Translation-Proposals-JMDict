@@ -10,6 +10,9 @@
     ],
     [
       "mécanicien"
+    ],
+    [
+      "mécanique"
     ]
   ],
   "model": "qwen3:14b"

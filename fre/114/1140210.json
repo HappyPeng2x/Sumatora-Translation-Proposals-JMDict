@@ -4,6 +4,12 @@
   "glosses": [
     [
       "paysage"
+    ],
+    [
+      "tableau de paysage"
+    ],
+    [
+      "format paysage"
     ]
   ],
   "model": "qwen3:14b"

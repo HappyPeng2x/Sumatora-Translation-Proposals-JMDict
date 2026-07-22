@@ -8,6 +8,13 @@
     [
       "les Marines",
       "la Marine (armée)"
+    ],
+    [
+      "corps des marines"
+    ],
+    [
+      "marin",
+      "relatif à la mer"
     ]
   ],
   "model": "qwen3:14b"

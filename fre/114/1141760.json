@@ -9,6 +9,24 @@
     [
       "abandon",
       "retrait d'une course, d'un match, etc."
+    ],
+    [
+      "abandonner un poste"
+    ],
+    [
+      "se retirer du jeu"
+    ],
+    [
+      "pension"
+    ],
+    [
+      "retrait"
+    ],
+    [
+      "prendre sa retraite"
+    ],
+    [
+      "se retirer"
     ]
   ],
   "model": "qwen3:14b"

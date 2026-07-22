@@ -1,0 +1,16 @@
+{
+  "seq": 1129210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écharpe",
+      "cache-col",
+      "cache-nez",
+      "foulard"
+    ],
+    [
+      "muffler (pour un système d'échappement) ; silencieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

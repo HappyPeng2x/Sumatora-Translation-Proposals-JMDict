@@ -1,0 +1,15 @@
+{
+  "seq": 1142880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruban"
+    ],
+    [
+      "bande colorée",
+      "ruban de couleur",
+      "lanière colorée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1138070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "leitmotif",
+      "leitmotiv",
+      "morceau musical récurrent dans une œuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

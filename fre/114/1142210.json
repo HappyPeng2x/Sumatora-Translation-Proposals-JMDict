@@ -1,0 +1,15 @@
+{
+  "seq": 1142210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "renovation",
+      "rénovation"
+    ],
+    [
+      "réparation",
+      "restauration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

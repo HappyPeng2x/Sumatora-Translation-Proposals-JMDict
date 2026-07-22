@@ -1,0 +1,23 @@
+{
+  "seq": 1132570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compteur",
+      "mètre"
+    ],
+    [
+      "mètre",
+      "calibre"
+    ],
+    [
+      "système métrique",
+      "système de mesure basé sur le mètre"
+    ],
+    [
+      "mètre",
+      "unité de mesure de longueur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

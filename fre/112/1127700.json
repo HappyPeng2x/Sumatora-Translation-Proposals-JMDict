@@ -12,6 +12,12 @@
     ],
     [
       "nombre magique"
+    ],
+    [
+      "stylo à bille rapide; dont la couleur reste sur le verre ou le métal"
+    ],
+    [
+      "manque de points suffisant pour décider la victoire dans un championnat"
     ]
   ],
   "model": "qwen3:14b"

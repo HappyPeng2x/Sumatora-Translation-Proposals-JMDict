@@ -1,0 +1,28 @@
+{
+  "seq": 1142330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réveil",
+      "renaissance",
+      "revival"
+    ],
+    [
+      "être remis en honneur"
+    ],
+    [
+      "renaissance",
+      "récupération",
+      "retour en force"
+    ],
+    [
+      "reprise",
+      "représentation de nouveau"
+    ],
+    [
+      "réveil",
+      "revival"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

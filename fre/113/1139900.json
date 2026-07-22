@@ -1,0 +1,18 @@
+{
+  "seq": 1139900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course de rallye",
+      "rallye"
+    ],
+    [
+      "course de rallye"
+    ],
+    [
+      "réunion",
+      "manifestation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

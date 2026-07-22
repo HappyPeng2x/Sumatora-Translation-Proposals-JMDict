@@ -1,0 +1,10 @@
+{
+  "seq": 1135180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plan américain modifié (tarif d'hôtel fixe comprenant la chambre, le petit-déjeuner et un autre repas)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

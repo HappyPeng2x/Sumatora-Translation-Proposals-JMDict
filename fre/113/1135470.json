@@ -4,6 +4,21 @@
   "glosses": [
     [
       "monument"
+    ],
+    [
+      "témoignage",
+      "souvenir",
+      "ruine",
+      "reste",
+      "mémorandum"
+    ],
+    [
+      "héritage"
+    ],
+    [
+      "borne frontière",
+      "marque de frontière",
+      "pierre frontière"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1130110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un à un",
+      "directement face à face"
+    ],
+    [
+      "cours particulier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

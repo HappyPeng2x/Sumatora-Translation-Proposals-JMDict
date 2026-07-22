@@ -1,0 +1,12 @@
+{
+  "seq": 1141090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récupération",
+      "restauration",
+      "rétablissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

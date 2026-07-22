@@ -1,0 +1,16 @@
+{
+  "seq": 1135260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "modélisation"
+    ],
+    [
+      "apprentissage par observation"
+    ],
+    [
+      "stage d'observation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "radical",
       "adj"
+    ],
+    [
+      "radical"
     ]
   ],
   "model": "qwen3:14b"

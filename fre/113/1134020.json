@@ -1,0 +1,13 @@
+{
+  "seq": 1134020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "farine (de blé)"
+    ],
+    [
+      "farine de blé importée des États-Unis (terme archaïque)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

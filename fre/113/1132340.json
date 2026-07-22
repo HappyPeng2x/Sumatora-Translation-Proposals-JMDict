@@ -9,6 +9,13 @@
     [
       "chien renard",
       "Nyctereutes procyonoides"
+    ],
+    [
+      "compagnons",
+      "collègues",
+      "semblables",
+      "complices",
+      "acolytes"
     ]
   ],
   "model": "qwen3:14b"

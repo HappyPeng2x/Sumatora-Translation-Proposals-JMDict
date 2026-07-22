@@ -11,6 +11,10 @@
       "mon collègue",
       "mon associé",
       "mon partenaire"
+    ],
+    [
+      "ma petite amie",
+      "ma fiancée"
     ]
   ],
   "model": "qwen3:14b"

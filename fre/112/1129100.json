@@ -4,6 +4,10 @@
   "glosses": [
     [
       "mannequin"
+    ],
+    [
+      "poupée habillée",
+      "mannequin de mode"
     ]
   ],
   "model": "qwen3:14b"

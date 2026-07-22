@@ -5,6 +5,9 @@
     [
       "mistral",
       "n"
+    ],
+    [
+      "mistral (le vent)"
     ]
   ],
   "model": "qwen3:14b"

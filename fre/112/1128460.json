@@ -6,6 +6,9 @@
       "agiter des problèmes pour en tirer profit",
       "profiter de la résolution de problèmes qu'on a soi-même créés",
       "susciter des difficultés afin de se mettre en valeur en les résolvant"
+    ],
+    [
+      "quelqu'un qui provoque un problème pour se mettre en valeur en le résolvant"
     ]
   ],
   "model": "qwen3:14b"

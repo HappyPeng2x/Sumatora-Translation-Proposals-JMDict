@@ -1,0 +1,14 @@
+{
+  "seq": 1129040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "directeur",
+      "gérant"
+    ],
+    [
+      "membre d'une équipe sportive (dans un établissement scolaire ou universitaire) chargé des tâches administratives et diverses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "soumis",
       "serviteur",
       "subordonné"
+    ],
+    [
+      "petite taille de police"
     ]
   ],
   "model": "qwen3:14b"

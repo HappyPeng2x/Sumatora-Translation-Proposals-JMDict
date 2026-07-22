@@ -1,0 +1,11 @@
+{
+  "seq": 1140690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "batteur en tête",
+      "batteur avec le meilleur taux d'average"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

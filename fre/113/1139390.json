@@ -1,0 +1,20 @@
+{
+  "seq": 1139390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amant",
+      "amante"
+    ],
+    [
+      "revêtement en caoutchouc d'une raquette de ping-pong"
+    ],
+    [
+      "caoutchouc effaçable",
+      "amant",
+      "amante",
+      "collectionneur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

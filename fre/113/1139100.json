@@ -4,6 +4,9 @@
   "glosses": [
     [
       "framboise"
+    ],
+    [
+      "framboisier"
     ]
   ],
   "model": "qwen3:14b"

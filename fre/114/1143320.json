@@ -1,0 +1,21 @@
+{
+  "seq": 1143320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "relais",
+      "transmettre",
+      "relayeur"
+    ],
+    [
+      "transmission",
+      "passer à quelqu'un"
+    ],
+    [
+      "relais",
+      "transfert",
+      "transmission électrique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

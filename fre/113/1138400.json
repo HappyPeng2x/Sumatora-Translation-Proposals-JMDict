@@ -1,0 +1,20 @@
+{
+  "seq": 1138400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alignement",
+      "liste",
+      "ordre"
+    ],
+    [
+      "ordre de frappe",
+      "ordre de coups"
+    ],
+    [
+      "ordre d'émission",
+      "programme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

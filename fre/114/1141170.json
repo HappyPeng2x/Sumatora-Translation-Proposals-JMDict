@@ -1,0 +1,13 @@
+{
+  "seq": 1141170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "demande"
+    ],
+    [
+      "demande musicale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

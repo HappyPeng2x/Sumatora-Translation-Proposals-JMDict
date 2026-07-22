@@ -1,0 +1,17 @@
+{
+  "seq": 1131990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lait"
+    ],
+    [
+      "lait infantile",
+      "formule pour bébé"
+    ],
+    [
+      "lait condensé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

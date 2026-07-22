@@ -1,0 +1,16 @@
+{
+  "seq": 1128740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manières (bonnes, mauvaises)",
+      "savoir-vivre"
+    ],
+    [
+      "domaine féodal",
+      "terre seigneuriale",
+      "château"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

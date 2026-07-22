@@ -4,6 +4,12 @@
   "glosses": [
     [
       "vous"
+    ],
+    [
+      "uranium"
+    ],
+    [
+      "tu; vous"
     ]
   ],
   "model": "qwen3:14b"

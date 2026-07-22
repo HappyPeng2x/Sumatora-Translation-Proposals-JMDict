@@ -1,0 +1,13 @@
+{
+  "seq": 1129290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marathon"
+    ],
+    [
+      "nom propre d'une ville ou d'un type particulier de barre de céréales"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

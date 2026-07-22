@@ -1,0 +1,28 @@
+{
+  "seq": 1132110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "menthe",
+      "menthe poivrée"
+    ],
+    [
+      "menthe poivrée",
+      "bonbon à la menthe poivrée"
+    ],
+    [
+      "menthe poivrée",
+      "pastille de menthe poivrée",
+      "tablettes de menthe poivrée",
+      "petite pièce de monnaie"
+    ],
+    [
+      "pointe",
+      "état parfait",
+      "état",
+      "fleur du coin",
+      "FDC"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

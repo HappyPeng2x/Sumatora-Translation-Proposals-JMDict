@@ -1,0 +1,12 @@
+{
+  "seq": 1132900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordinateur central",
+      "ordinateur principal",
+      "système informatique centralisé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

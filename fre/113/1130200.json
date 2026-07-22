@@ -4,6 +4,9 @@
   "glosses": [
     [
       "manna"
+    ],
+    [
+      "manna (substance comestible spécifique; par exemple le suc sucré de l'arbre à manna ou la sécrétion de la puce à manna)"
     ]
   ],
   "model": "qwen3:14b"

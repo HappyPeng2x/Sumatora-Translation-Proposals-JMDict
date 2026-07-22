@@ -6,6 +6,14 @@
       "fuite",
       "échappement",
       "détachement"
+    ],
+    [
+      "trahison",
+      "fuite d'informations"
+    ],
+    [
+      "perte de courant",
+      "pertes par dispersion"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1133620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médias"
+    ],
+    [
+      "moyen",
+      "chemin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

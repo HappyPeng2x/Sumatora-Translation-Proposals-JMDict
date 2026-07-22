@@ -1,0 +1,11 @@
+{
+  "seq": 1135920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "morgue",
+      "mortuaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

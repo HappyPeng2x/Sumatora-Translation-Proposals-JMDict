@@ -1,0 +1,23 @@
+{
+  "seq": 1140840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roue",
+      "bobine",
+      "roue de fil"
+    ],
+    [
+      "bobine",
+      "rouleau de film"
+    ],
+    [
+      "roue de pêche",
+      "moulin à eau"
+    ],
+    [
+      "Lille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

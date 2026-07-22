@@ -13,6 +13,22 @@
     [
       "revêtement intérieur",
       "doublure"
+    ],
+    [
+      "canon",
+      "gaine",
+      "buse"
+    ],
+    [
+      "train de ligne"
+    ],
+    [
+      "revêtement intérieur",
+      "intérieur",
+      "doublure"
+    ],
+    [
+      "Fritz"
     ]
   ],
   "model": "qwen3:14b"

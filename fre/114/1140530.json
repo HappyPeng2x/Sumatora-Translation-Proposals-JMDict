@@ -1,0 +1,12 @@
+{
+  "seq": 1140530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "location",
+      "louer",
+      "louer (un bien)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

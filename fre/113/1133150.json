@@ -6,6 +6,9 @@
       "les Ligues majeures",
       "la Ligue majeure de baseball",
       "la MLB"
+    ],
+    [
+      "les ligues majeures (les ligues professionnelles américaines les plus importantes)"
     ]
   ],
   "model": "qwen3:14b"

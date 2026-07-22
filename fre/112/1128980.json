@@ -1,0 +1,17 @@
+{
+  "seq": 1128980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gestion",
+      "direction",
+      "management"
+    ],
+    [
+      "gestion",
+      "direction",
+      "administration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

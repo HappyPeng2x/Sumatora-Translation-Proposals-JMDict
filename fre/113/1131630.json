@@ -4,6 +4,9 @@
   "glosses": [
     [
       "musical"
+    ],
+    [
+      "musical (style de musique)"
     ]
   ],
   "model": "qwen3:14b"

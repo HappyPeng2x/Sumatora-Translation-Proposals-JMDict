@@ -1,0 +1,14 @@
+{
+  "seq": 1140250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courseur",
+      "coureur"
+    ],
+    [
+      "(néerlandais) honkloper"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

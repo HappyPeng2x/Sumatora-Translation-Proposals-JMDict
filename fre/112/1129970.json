@@ -1,0 +1,44 @@
+{
+  "seq": 1129970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homme",
+      "personne",
+      "individu"
+    ],
+    [
+      "Thomas Mann (écrivain allemand; 1875-1955)"
+    ],
+    [
+      "Heinrich Mann (écrivain allemand; 1871-1950)"
+    ],
+    [
+      "Thomas Mann (écrivain allemand; 1875-1955)"
+    ],
+    [
+      "Harold Warner Munn (écrivain américain; 1903-1981)"
+    ],
+    [
+      "Herbie Mann (musicien de jazz américain; 1930-2003)"
+    ],
+    [
+      "Michael Kenneth Mann (réalisateur américain; né en 1943)"
+    ],
+    [
+      "Ami Canaan Mann (réalitatrice américaine; née en 1970)"
+    ],
+    [
+      "homme"
+    ],
+    [
+      "MAN (groupe allemand)"
+    ],
+    [
+      "-homme",
+      "-personne",
+      "-individu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

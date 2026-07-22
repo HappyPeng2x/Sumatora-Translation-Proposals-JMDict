@@ -9,6 +9,10 @@
     [
       "action de rincer",
       "le fait de rincer"
+    ],
+    [
+      "ville brésilienne",
+      "laver"
     ]
   ],
   "model": "qwen3:14b"

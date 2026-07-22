@@ -6,6 +6,9 @@
       "messe",
       "religieuse",
       "catholique"
+    ],
+    [
+      "messe"
     ]
   ],
   "model": "qwen3:14b"

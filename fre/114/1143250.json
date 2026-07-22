@@ -16,6 +16,11 @@
       "relâchement",
       "détachement",
       "relâcher (le bouton d'une souris)"
+    ],
+    [
+      "laisser libre",
+      "lâcher",
+      "libérer"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,38 @@
+{
+  "seq": 1127870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "masque"
+    ],
+    [
+      "traits",
+      "physique",
+      "apparence"
+    ],
+    [
+      "masque",
+      "dans",
+      "le",
+      "circuit",
+      "imprimé"
+    ],
+    [
+      "masquage",
+      "apparence",
+      "visage",
+      "traits",
+      "visage",
+      "apparence",
+      "extérieure"
+    ],
+    [
+      "plan",
+      "d'un",
+      "circuit",
+      "intgré",
+      "électronique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

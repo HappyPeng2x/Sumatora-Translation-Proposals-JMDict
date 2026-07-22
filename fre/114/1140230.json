@@ -1,0 +1,13 @@
+{
+  "seq": 1140230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un repère",
+      "un point de repère",
+      "un monument célèbre",
+      "un lieu remarquable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
