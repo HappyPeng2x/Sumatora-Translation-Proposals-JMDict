@@ -1,0 +1,26 @@
+{
+  "seq": 1001430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeune fille",
+      "fille",
+      "fille non mariée"
+    ],
+    [
+      "fille cadette"
+    ],
+    [
+      "épouse d’un fils (à partir du deuxième fils)",
+      "femme mariée à un fils"
+    ],
+    [
+      "servante",
+      "femme de ménage"
+    ],
+    [
+      "bébé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

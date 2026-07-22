@@ -1,0 +1,33 @@
+{
+  "seq": 1001870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "visite d'un malade"
+    ],
+    [
+      "lettre de condoléances",
+      "lettre de sympathie",
+      "lettre de bonne guérison",
+      "cadeau symbolique exprimant de la sympathie"
+    ],
+    [
+      "coup",
+      "frappe",
+      "attaque"
+    ],
+    [
+      "lettre de condoléances",
+      "lettre de sympathie",
+      "lettre de bonne guérison",
+      "cadeau symbolique exprimant de la sympathie"
+    ],
+    [
+      "cadeau offert à quelqu'un qui a subi un malheur",
+      "carte de sympathie",
+      "message de soutien",
+      "lettre ou carte de condoléances adressée à quelqu'un malade ou qui a subi un deuil ou un revers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

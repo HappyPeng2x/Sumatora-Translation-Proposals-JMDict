@@ -1,0 +1,16 @@
+{
+  "seq": 1001830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frère aîné"
+    ],
+    [
+      "jeune homme",
+      "gars",
+      "copain",
+      "camarade"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

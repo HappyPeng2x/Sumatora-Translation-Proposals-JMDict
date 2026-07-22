@@ -1,0 +1,11 @@
+{
+  "seq": 1001190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Bienvenue",
+      "dans les magasins, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

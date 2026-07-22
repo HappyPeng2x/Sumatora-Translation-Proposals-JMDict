@@ -1,0 +1,13 @@
+{
+  "seq": 1286770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Agence nationale des impôts (au Japon)"
+    ],
+    [
+      "Agence fiscale nationale (terme générique, ex. IRS)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

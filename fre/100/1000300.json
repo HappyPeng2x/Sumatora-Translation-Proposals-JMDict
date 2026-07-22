@@ -13,6 +13,9 @@
       "orner avec",
       "parer avec",
       "garnir avec"
+    ],
+    [
+      "ajouter; décorer; garnir"
     ]
   ],
   "model": "qwen3:14b"

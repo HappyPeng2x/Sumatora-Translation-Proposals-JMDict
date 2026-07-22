@@ -1,0 +1,14 @@
+{
+  "seq": 1002560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vieille femme",
+      "vieille fille",
+      "vieille dame",
+      "frump",
+      "hag"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

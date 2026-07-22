@@ -1,0 +1,20 @@
+{
+  "seq": 1003740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chatouiller"
+    ],
+    [
+      "éveiller",
+      "flatter",
+      "séduire"
+    ],
+    [
+      "faire rire",
+      "amuser",
+      "divertir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

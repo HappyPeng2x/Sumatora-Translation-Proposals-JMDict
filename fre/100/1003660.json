@@ -1,0 +1,21 @@
+{
+  "seq": 1003660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au dernier moment",
+      "juste",
+      "juste à temps"
+    ],
+    [
+      "ferme",
+      "serré"
+    ],
+    [
+      "impatient",
+      "irrité",
+      "nerveux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,33 @@
+{
+  "seq": 1003450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fort",
+      "sévère",
+      "serré"
+    ],
+    [
+      "déterminé",
+      "ferme",
+      "énergique",
+      "imposant",
+      "féroce"
+    ],
+    [
+      "fort",
+      "intense",
+      "sévère"
+    ],
+    [
+      "trop serré",
+      "étroit",
+      "constricteur"
+    ],
+    [
+      "extrême",
+      "particulièrement fort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

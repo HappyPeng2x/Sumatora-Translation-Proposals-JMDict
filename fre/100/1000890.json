@@ -1,0 +1,15 @@
+{
+  "seq": 1000890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cri d'un cheval",
+      "hennissement",
+      "braillement"
+    ],
+    [
+      "(néerlandais) cri d'un âne (ancien)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

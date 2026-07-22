@@ -6,6 +6,11 @@
       "vulgaire",
       "ostentatoire",
       "criard"
+    ],
+    [
+      "brillant",
+      "éblouissant",
+      "ostentatoire"
     ]
   ],
   "model": "qwen3:14b"

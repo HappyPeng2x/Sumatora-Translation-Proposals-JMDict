@@ -1,0 +1,11 @@
+{
+  "seq": 1003030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "même si",
+      "même si cela semble improbable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

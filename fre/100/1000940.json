@@ -1,0 +1,15 @@
+{
+  "seq": 1000940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être",
+      "aller",
+      "venir"
+    ],
+    [
+      "être (en train de faire quelque chose)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

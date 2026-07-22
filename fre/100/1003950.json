@@ -6,6 +6,10 @@
       "confrontation",
       "comparaison",
       "concurrence"
+    ],
+    [
+      "épreuve",
+      "examen"
     ]
   ],
   "model": "qwen3:14b"

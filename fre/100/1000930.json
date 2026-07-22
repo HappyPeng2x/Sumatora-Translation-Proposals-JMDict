@@ -1,0 +1,50 @@
+{
+  "seq": 1000930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bienvenue ! (magasins, restaurants, etc) (litt. entrez!)"
+    ],
+    [
+      "Bienvenue !",
+      "n",
+      "exp",
+      "form",
+      "serv",
+      "ctr"
+    ],
+    [
+      "Veuillez !",
+      "n",
+      "exp",
+      "form",
+      "serv",
+      "ctr"
+    ],
+    [
+      "Bienvenue !",
+      "n",
+      "exp",
+      "form",
+      "serv",
+      "ctr"
+    ],
+    [
+      "Bienvenue !",
+      "n",
+      "exp",
+      "form",
+      "serv",
+      "ctr"
+    ],
+    [
+      "Entrée !",
+      "n",
+      "exp",
+      "form",
+      "serv",
+      "ctr"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

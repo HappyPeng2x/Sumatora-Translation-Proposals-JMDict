@@ -1,0 +1,20 @@
+{
+  "seq": 1003550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contraint",
+      "gauche",
+      "maladroit",
+      "raide"
+    ],
+    [
+      "maladroit",
+      "gauche",
+      "stiff",
+      "rigide",
+      "malhabile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

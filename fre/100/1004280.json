@@ -15,6 +15,9 @@
       "très",
       "vraiment",
       "extrêmement"
+    ],
+    [
+      "aveu"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,15 @@
+{
+  "seq": 1002520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avantageux",
+      "économique",
+      "bon marché"
+    ],
+    [
+      "utilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

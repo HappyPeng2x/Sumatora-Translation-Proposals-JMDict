@@ -1,0 +1,12 @@
+{
+  "seq": 1003990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie de mise en place",
+      "cérémonie de commencement",
+      "cérémonie de lancement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

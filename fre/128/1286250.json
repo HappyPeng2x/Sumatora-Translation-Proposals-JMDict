@@ -1,0 +1,12 @@
+{
+  "seq": 1286250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre du Parlement",
+      "membre du Diet",
+      "député"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

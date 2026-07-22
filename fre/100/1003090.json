@@ -1,0 +1,22 @@
+{
+  "seq": 1003090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruissement",
+      "froissement (feuilles sèches)",
+      "rude (grossier)",
+      "rugueux"
+    ],
+    [
+      "sec; rugueux au toucher"
+    ],
+    [
+      "brutal; grossier; peu raffiné; mal élevé"
+    ],
+    [
+      "pêcher avec un filet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

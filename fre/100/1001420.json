@@ -1,0 +1,13 @@
+{
+  "seq": 1001420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pet"
+    ],
+    [
+      "gaz intestinal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

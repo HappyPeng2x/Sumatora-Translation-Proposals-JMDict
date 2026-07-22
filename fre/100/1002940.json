@@ -10,6 +10,12 @@
     ],
     [
       "[prt] Je souhaite que ; j'espère que (à la fin de la phrase ; avec une négation)"
+    ],
+    [
+      "particule exprimant l'incompréhension ou le mépris"
+    ],
+    [
+      "particule classique du japonais exprimant de l'émotion ou de l'admiration"
     ]
   ],
   "model": "qwen3:14b"

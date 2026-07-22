@@ -1,0 +1,40 @@
+{
+  "seq": 1000730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne doit pas faire"
+    ],
+    [
+      "ne doit pas",
+      "ne devrait pas",
+      "ne devrait pas faire"
+    ],
+    [
+      "inutile",
+      "mauvais",
+      "sans valeur"
+    ],
+    [
+      "sans espoir",
+      "perdu",
+      "irréparable"
+    ],
+    [
+      "désagréable",
+      "malheureux",
+      "dommageable"
+    ],
+    [
+      "incapable de boire",
+      "alcoolique",
+      "intolérant à l'alcool"
+    ],
+    [
+      "afin que",
+      "de peur que",
+      "pour que"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

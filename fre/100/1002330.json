@@ -1,0 +1,16 @@
+{
+  "seq": 1002330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "femme âgée",
+      "grand'mère"
+    ],
+    [
+      "vieille femme",
+      "femme âgée",
+      "personne âgée du sexe féminin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

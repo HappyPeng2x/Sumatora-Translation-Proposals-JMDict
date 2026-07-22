@@ -1,0 +1,27 @@
+{
+  "seq": 1003960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comme un petit objet tournant",
+      "enrouler une grande ficelle",
+      "moulinets"
+    ],
+    [
+      "enroulant",
+      "tournant autour de quelque chose",
+      "roulant autour"
+    ],
+    [
+      "travaillant sans relâche",
+      "travaillant dur",
+      "dévoué"
+    ],
+    [
+      "changeant constamment",
+      "en perpétuel changement",
+      "variable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,42 @@
+{
+  "seq": 1004410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "précisément",
+      "en particulier",
+      "définitivement",
+      "sûrement",
+      "seulement"
+    ],
+    [
+      "bien que",
+      "alors que",
+      "il est vrai que ... mais"
+    ],
+    [
+      "précisément parce que ... que ...",
+      "seulement parce que ... que ..."
+    ],
+    [
+      "pas du tout",
+      "pas le moins du monde",
+      "jamais",
+      "absolument pas"
+    ],
+    [
+      "particule concessive introduisant un contraste"
+    ],
+    [
+      "particule d'accentuation concluant une phrase interrompue (aposiopèse)"
+    ],
+    [
+      "suffixe suivant les noms propres pour former un vocatif"
+    ],
+    [
+      "suffixe suivant les noms d'enfants pour former un surnom",
+      "particule exprimant un désir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1003580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lombalgie aiguë",
+      "déchirure discale",
+      "tension lombo-sacrée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

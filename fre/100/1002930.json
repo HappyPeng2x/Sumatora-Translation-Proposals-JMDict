@@ -1,0 +1,12 @@
+{
+  "seq": 1002930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à peine",
+      "à grand-peine",
+      "avec difficulté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

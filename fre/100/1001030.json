@@ -1,0 +1,15 @@
+{
+  "seq": 1001030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'assoupir",
+      "sommeiller",
+      "somnoler"
+    ],
+    [
+      "s'assoupir mollement; faire une petite sieste; somnoler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

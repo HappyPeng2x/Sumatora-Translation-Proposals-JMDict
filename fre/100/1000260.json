@@ -12,6 +12,9 @@
       "méchant",
       "déloyal",
       "déshonnête"
+    ],
+    [
+      "fatigant"
     ]
   ],
   "model": "qwen3:14b"

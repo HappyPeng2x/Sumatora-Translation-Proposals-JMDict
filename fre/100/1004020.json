@@ -1,0 +1,18 @@
+{
+  "seq": 1004020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dormir profondément",
+      "ronfler",
+      "murmurer"
+    ],
+    [
+      "le bruit d'un estomac qui gargouille"
+    ],
+    [
+      "le bruit d'un estomac qui gargouille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1003040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(changeant) brusquement et complètement",
+      "du tout au tout"
+    ],
+    [
+      "avec un coup sec"
+    ],
+    [
+      "clair et lumineux"
+    ],
+    [
+      "sèchement"
+    ],
+    [
+      "franchement"
+    ],
+    [
+      "complètement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

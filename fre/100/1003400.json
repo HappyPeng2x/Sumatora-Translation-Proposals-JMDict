@@ -1,0 +1,38 @@
+{
+  "seq": 1003400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec précision",
+      "exactement"
+    ],
+    [
+      "soigneusement",
+      "avec soin",
+      "de manière ordonnée"
+    ],
+    [
+      "sans délai",
+      "immédiatement",
+      "sans retard"
+    ],
+    [
+      "selon l'entente",
+      "comme convenu",
+      "suivant l'accord"
+    ],
+    [
+      "régulièrement",
+      "de manière constante",
+      "périodiquement"
+    ],
+    [
+      "correctement",
+      "de manière irréprochable",
+      "avec soin",
+      "de façon propre",
+      "élégamment"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

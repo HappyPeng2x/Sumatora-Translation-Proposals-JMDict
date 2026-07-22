@@ -10,6 +10,14 @@
       "se mettre en colère",
       "perdre son calme",
       "être irrité"
+    ],
+    [
+      "intensité de la chaleur",
+      "éclat lumineux"
+    ],
+    [
+      "agitation",
+      "trouble intérieur"
     ]
   ],
   "model": "qwen3:14b"

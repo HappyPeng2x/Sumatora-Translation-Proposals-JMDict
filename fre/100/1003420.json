@@ -1,0 +1,26 @@
+{
+  "seq": 1003420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec précision",
+      "bien ajusté (vêtement)",
+      "juste"
+    ],
+    [
+      "étroitement",
+      "serrément",
+      "parfaitement (en termes de correspondance)"
+    ],
+    [
+      "correctement",
+      "sans échec",
+      "sans faille"
+    ],
+    [
+      "sans reste",
+      "sans fraction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

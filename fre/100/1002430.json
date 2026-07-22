@@ -1,0 +1,21 @@
+{
+  "seq": 1002430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "thé (vert)"
+    ],
+    [
+      "pause",
+      "thé",
+      "moment",
+      "dans la journée"
+    ],
+    [
+      "cérémonie",
+      "du",
+      "thé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

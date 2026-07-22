@@ -1,0 +1,19 @@
+{
+  "seq": 1003810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'épuiser",
+      "se fatiguer"
+    ],
+    [
+      "s'abîmer; se dégrader par l'usage",
+      "s'user; se détériorer"
+    ],
+    [
+      "s'ennuyer de; en avoir assez de",
+      "se lasser de; en avoir marre de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

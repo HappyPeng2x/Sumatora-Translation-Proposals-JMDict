@@ -1,0 +1,22 @@
+{
+  "seq": 1003770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être à plat",
+      "être épuisé"
+    ],
+    [
+      "déchiré",
+      "usé",
+      "râpé",
+      "déchiré en morceaux"
+    ],
+    [
+      "réduire en purée",
+      "mouiller jusqu'à ce qu'il soit en purée",
+      "faire passer à l'état de purée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

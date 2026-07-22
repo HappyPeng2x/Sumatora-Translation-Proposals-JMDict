@@ -1,0 +1,20 @@
+{
+  "seq": 1001040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en zigzag",
+      "en sinueux",
+      "en serpentant",
+      "tortueusement",
+      "en sinuosités",
+      "en méandres"
+    ],
+    [
+      "kronkelant",
+      "plein de virages",
+      "en zigzag"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

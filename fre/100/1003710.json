@@ -1,0 +1,13 @@
+{
+  "seq": 1003710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éternuement"
+    ],
+    [
+      "souhait de bonne santé exprimé en répétant deux fois le mot 'kushami' après un éternuement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

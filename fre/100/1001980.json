@@ -1,0 +1,18 @@
+{
+  "seq": 1001980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "messager",
+      "porteur",
+      "garçon de courses"
+    ],
+    [
+      "démon familier"
+    ],
+    [
+      "esprit familier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

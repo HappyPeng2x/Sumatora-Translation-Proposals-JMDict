@@ -1,0 +1,47 @@
+{
+  "seq": 1001060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flâner",
+      "marcher sans but",
+      "rôder",
+      "traîner"
+    ],
+    [
+      "errer",
+      "errer sans but",
+      "traîner",
+      "flâner",
+      "errer de-ci, de-là"
+    ],
+    [
+      "être agité",
+      "être inquiet",
+      "être mal à l'aise",
+      "être nerveux"
+    ],
+    [
+      "traînassant",
+      "traînassant sans but",
+      "dérivant",
+      "traînassant"
+    ],
+    [
+      "dans le désarroi",
+      "dans le trouble",
+      "dans l'embarras",
+      "dans la confusion",
+      "perdu"
+    ],
+    [
+      "inquiet",
+      "nerveux",
+      "inconstant",
+      "incertain",
+      "hésitant",
+      "inquiet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,28 @@
+{
+  "seq": 1003860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adhérer à",
+      "coller à",
+      "rester collé à qqun"
+    ],
+    [
+      "se tenir près de",
+      "aller avec"
+    ],
+    [
+      "s'entendre avec",
+      "devenir proche de",
+      "être complice de"
+    ],
+    [
+      "marcher bras dessus bras dessous"
+    ],
+    [
+      "entretenir une relation intime",
+      "mener une union libre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

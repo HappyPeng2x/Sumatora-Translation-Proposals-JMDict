@@ -1,0 +1,12 @@
+{
+  "seq": 1001300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désorienté",
+      "pétrifié",
+      "bouche bée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

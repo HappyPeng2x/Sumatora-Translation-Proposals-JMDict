@@ -1,0 +1,14 @@
+{
+  "seq": 1002990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taquinerie",
+      "plaisanterie",
+      "moquerie",
+      "badinage",
+      "raillerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

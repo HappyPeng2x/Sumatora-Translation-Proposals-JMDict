@@ -6,6 +6,28 @@
       "mon Dieu",
       "oh mon Dieu",
       "oh là là"
+    ],
+    [
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !",
+      "Ah !"
+    ],
+    [
+      "Ah !",
+      "Ah !"
     ]
   ],
   "model": "qwen3:14b"

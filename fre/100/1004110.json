@@ -1,0 +1,25 @@
+{
+  "seq": 1004110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement irrégulier",
+      "prélassant"
+    ],
+    [
+      "hésitant",
+      "dithérant",
+      "indécis"
+    ],
+    [
+      "bouillonnant",
+      "mouvement de bulles"
+    ],
+    [
+      "étourdi",
+      "gigotant",
+      "détourné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

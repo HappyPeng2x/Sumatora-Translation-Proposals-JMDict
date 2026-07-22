@@ -1,0 +1,41 @@
+{
+  "seq": 1002840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cliquetis",
+      "durci (comme de la pierre)",
+      "durci (gel)",
+      "obstiné",
+      "peur bleue",
+      "tic-tac"
+    ],
+    [
+      "durci (matière)",
+      "têtu (personne)",
+      "tendu (situation)",
+      "durci (matière)",
+      "tendu (situation)",
+      "têtu (personne)"
+    ],
+    [
+      "sec et dur; raide (gélifié)"
+    ],
+    [
+      "borné; entêté; obstiné; bigot"
+    ],
+    [
+      "pétrifié; tendu; nerveux; effrayé"
+    ],
+    [
+      "sec et dur; cliquetis; tic-tac"
+    ],
+    [
+      "comme frappé sur la tête"
+    ],
+    [
+      "raide; tendu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

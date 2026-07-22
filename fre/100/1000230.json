@@ -11,6 +11,9 @@
       "ne pas pouvoir",
       "ne pas être autorisé",
       "interdit"
+    ],
+    [
+      "impossible"
     ]
   ],
   "model": "qwen3:14b"

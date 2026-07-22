@@ -1,0 +1,25 @@
+{
+  "seq": 1000840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'embrasser",
+      "s'attacher",
+      "flirter",
+      "se peloter"
+    ],
+    [
+      "hésiter",
+      "traîner",
+      "prendre son temps",
+      "être long à décider"
+    ],
+    [
+      "se disputer",
+      "se quereller",
+      "avoir des conflits",
+      "être en désaccord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

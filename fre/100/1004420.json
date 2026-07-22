@@ -1,0 +1,100 @@
+{
+  "seq": 1004420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "furtivement"
+    ],
+    [
+      "discrètement",
+      "discrètement",
+      "en secret",
+      "furtivement",
+      "en douce",
+      "en cachette",
+      "par la bande",
+      "en sourdine",
+      "en douceur",
+      "en furtivité",
+      "d'une manière furtive",
+      "d'une manière sournoise",
+      "d'une manière cachée",
+      "d'une manière secrète",
+      "d'une manière furtive",
+      "d'une manière sournoise",
+      "d'une manière cachée",
+      "d'une manière secrète"
+    ],
+    [
+      "sensitif",
+      "sensible",
+      "sensuel"
+    ],
+    [
+      "agile",
+      "rapide",
+      "habile"
+    ],
+    [
+      "murmurant",
+      "murmurant",
+      "ramblant",
+      "glissant",
+      "s'insinuant",
+      "s'approchant en douce",
+      "avançant lentement",
+      "marchant sur la pointe des pieds"
+    ],
+    [
+      "voleur de miettes",
+      "insinuateur",
+      "voleur de toits"
+    ],
+    [
+      "en silence",
+      "chuchotant",
+      "d'une voix basse"
+    ],
+    [
+      "discrètement",
+      "discrètement",
+      "en secret",
+      "furtivement",
+      "en douce",
+      "en cachette",
+      "par la bande",
+      "en sourdine",
+      "en douceur",
+      "en furtivité",
+      "d'une manière furtive",
+      "d'une manière sournoise",
+      "d'une manière cachée",
+      "d'une manière secrète",
+      "d'une manière furtive",
+      "d'une manière sournoise",
+      "d'une manière cachée",
+      "d'une manière secrète"
+    ],
+    [
+      "sensitif",
+      "sensible",
+      "sensuel"
+    ],
+    [
+      "agile",
+      "rapide",
+      "habile"
+    ],
+    [
+      "murmurant",
+      "murmurant",
+      "ramblant",
+      "glissant",
+      "s'insinuant",
+      "s'approchant en douce",
+      "avançant lentement",
+      "marchant sur la pointe des pieds"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

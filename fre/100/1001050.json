@@ -1,0 +1,17 @@
+{
+  "seq": 1001050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "houle",
+      "mer agitée",
+      "ondulation",
+      "rouleau (vague)",
+      "sinuosité"
+    ],
+    [
+      "gonflement (des vagues) ; vague ; vague de fond ; vague de surcote ; vague billante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

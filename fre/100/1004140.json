@@ -1,0 +1,15 @@
+{
+  "seq": 1004140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tournoyé"
+    ],
+    [
+      "enroulé",
+      "enroulant",
+      "tournant en spirale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

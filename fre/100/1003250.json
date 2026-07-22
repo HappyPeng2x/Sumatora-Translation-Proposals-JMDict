@@ -1,0 +1,33 @@
+{
+  "seq": 1003250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avaler à grosses bouchées",
+      "bâfrer",
+      "boire à grands traits",
+      "boire comme un trou"
+    ],
+    [
+      "remuant dans le ventre, en mouvement",
+      "remuant dans l'estomac",
+      "agité à l'intérieur de l'estomac"
+    ],
+    [
+      "gourmand; avide de manger",
+      "avide de boire",
+      "vorace"
+    ],
+    [
+      "imbibé d'eau",
+      "mouillé",
+      "trempé"
+    ],
+    [
+      "bavant",
+      "bouche pendante",
+      "trop large dans la bouche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

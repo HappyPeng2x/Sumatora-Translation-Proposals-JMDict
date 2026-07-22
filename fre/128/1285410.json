@@ -1,0 +1,19 @@
+{
+  "seq": 1285410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "force résultante"
+    ],
+    [
+      "aide",
+      "assistance"
+    ],
+    [
+      "dons",
+      "aumônes",
+      "alms"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1000360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carrément",
+      "facilement",
+      "rapidement",
+      "simplement"
+    ],
+    [
+      "légèrement (en matière d'alimentation, de maquillage, etc.) ; simplement ; clairement",
+      "simplement ; sans détour ; de façon directe"
+    ],
+    [
+      "simplement; sans effort; avec facilité; naturellement; tout simplement; raisonnablement; légèrement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1000920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "venir",
+      "aller",
+      "rester"
+    ],
+    [
+      "bienvenue !"
+    ],
+    [
+      "s'agir de",
+      "être question de",
+      "concerner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

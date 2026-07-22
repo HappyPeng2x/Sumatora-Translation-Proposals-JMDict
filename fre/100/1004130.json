@@ -6,6 +6,12 @@
       "complice",
       "conspirateur",
       "acolyte"
+    ],
+    [
+      "complice",
+      "acolyte",
+      "collègue",
+      "maître spirituel (dans le bouddhisme)"
     ]
   ],
   "model": "qwen3:14b"

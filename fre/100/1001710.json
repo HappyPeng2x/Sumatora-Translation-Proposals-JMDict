@@ -1,0 +1,22 @@
+{
+  "seq": 1001710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bonbon",
+      "confiserie",
+      "gâteaux",
+      "pâtisserie"
+    ],
+    [
+      "pâtisserie",
+      "gateau",
+      "biscuit"
+    ],
+    [
+      "gâteau",
+      "pâtisserie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

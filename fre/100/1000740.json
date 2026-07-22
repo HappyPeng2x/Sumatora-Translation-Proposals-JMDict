@@ -6,6 +6,17 @@
       "personne têtue",
       "personne obstinée",
       "personne déterminée"
+    ],
+    [
+      "difficile",
+      "embêtant",
+      "exigeant",
+      "capricieux"
+    ],
+    [
+      "méchant",
+      "vaurien",
+      "brutal"
     ]
   ],
   "model": "qwen3:14b"

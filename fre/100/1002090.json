@@ -1,0 +1,14 @@
+{
+  "seq": 1002090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arbitraire, décision en faveur de soi-même",
+      "plan approuvé par soi-même"
+    ],
+    [
+      "préférence excessive pour soi-même; intérêt personnel excessif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

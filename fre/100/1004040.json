@@ -1,0 +1,21 @@
+{
+  "seq": 1004040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec hésitation",
+      "lentement",
+      "paresseusement"
+    ],
+    [
+      "en se plaignant; en grommelant"
+    ],
+    [
+      "instable; capricieux (par exemple, le temps)"
+    ],
+    [
+      "détendu; lâche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

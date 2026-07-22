@@ -7,6 +7,15 @@
       "avec un bruit de coup",
       "avec un bruit de fracas",
       "avec un bruit de claquement"
+    ],
+    [
+      "bruyant",
+      "sonore",
+      "tonitruant",
+      "fracassant",
+      "claquant",
+      "explosif",
+      "retentissant"
     ]
   ],
   "model": "qwen3:14b"

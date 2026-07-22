@@ -1,0 +1,27 @@
+{
+  "seq": 1000580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "çà",
+      "celui-là"
+    ],
+    [
+      "organes génitaux"
+    ],
+    [
+      "menstruation",
+      "règles"
+    ],
+    [
+      "ce lieu-là (là-bas)"
+    ],
+    [
+      "là-bas (c'est-à-dire les organes génitaux)"
+    ],
+    [
+      "période ; règles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

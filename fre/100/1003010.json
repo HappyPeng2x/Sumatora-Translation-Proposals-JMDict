@@ -16,6 +16,12 @@
     [
       "poupée mécanique",
       "poupée à cordes"
+    ],
+    [
+      "poupée mécanique actionnée par un mécanisme interne"
+    ],
+    [
+      "ruse; astuce; petit stratagème"
     ]
   ],
   "model": "qwen3:14b"

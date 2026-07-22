@@ -1,0 +1,22 @@
+{
+  "seq": 1285910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gravure d'un sceau",
+      "sceau gravé",
+      "sceau inscrit"
+    ],
+    [
+      "gravure",
+      "inscription",
+      "tampon (impression)"
+    ],
+    [
+      "marque de honte",
+      "tampon",
+      "réputation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

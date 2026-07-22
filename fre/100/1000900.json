@@ -1,0 +1,20 @@
+{
+  "seq": 1000900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "harceler",
+      "taquiner"
+    ],
+    [
+      "intimider",
+      "dominer",
+      "imposer par la force"
+    ],
+    [
+      "brûler",
+      "torcher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

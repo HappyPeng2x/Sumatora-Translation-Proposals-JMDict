@@ -1,0 +1,21 @@
+{
+  "seq": 1002610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ventre",
+      "ventre",
+      "estomac"
+    ],
+    [
+      "ventre (surtout chez les femmes et les enfants; orig. féminin)"
+    ],
+    [
+      "repas; repas principal"
+    ],
+    [
+      "coton; soie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

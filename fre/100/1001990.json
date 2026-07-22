@@ -1,0 +1,22 @@
+{
+  "seq": 1001990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sœur aînée"
+    ],
+    [
+      "jeune fille"
+    ],
+    [
+      "mademoiselle"
+    ],
+    [
+      "madame"
+    ],
+    [
+      "fille aînée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

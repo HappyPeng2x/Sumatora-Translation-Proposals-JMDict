@@ -1,0 +1,26 @@
+{
+  "seq": 1002030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "révérence (courbette)",
+      "salutation (en s'inclinant en avant)"
+    ],
+    [
+      "refuser",
+      "se disculper",
+      "rejeter"
+    ],
+    [
+      "courbette",
+      "salutation",
+      "politesse"
+    ],
+    [
+      "refus",
+      "désistement",
+      "rejet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

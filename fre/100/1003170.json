@@ -1,0 +1,28 @@
+{
+  "seq": 1003170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être déçu",
+      "être découragé",
+      "être démoralisé",
+      "être désappointé"
+    ],
+    [
+      "être épuisé",
+      "se sentir épuisé",
+      "être vidé de ses forces"
+    ],
+    [
+      "se sentir épuisé",
+      "se sentir déprimé",
+      "être découragé"
+    ],
+    [
+      "être épuisé",
+      "être affaibli",
+      "être décrété"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

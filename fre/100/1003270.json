@@ -1,0 +1,12 @@
+{
+  "seq": 1003270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agaçant",
+      "importun",
+      "persistant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

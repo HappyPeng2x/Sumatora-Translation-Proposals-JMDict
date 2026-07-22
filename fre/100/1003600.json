@@ -1,0 +1,34 @@
+{
+  "seq": 1003600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accabler",
+      "bondé",
+      "craquement de cuir, de porte",
+      "serré (comme des sardines)",
+      "serrer très fort"
+    ],
+    [
+      "encombré",
+      "serré",
+      "compact"
+    ],
+    [
+      "ferme",
+      "serré",
+      "violent"
+    ],
+    [
+      "harceler",
+      "tourmenter",
+      "assaillir"
+    ],
+    [
+      "douloureux",
+      "pénible",
+      "souffrant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

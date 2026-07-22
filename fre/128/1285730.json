@@ -1,0 +1,14 @@
+{
+  "seq": 1285730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "kōji",
+      "riz malté",
+      "malt",
+      "matériau ressemblant au malt obtenu par la croissance de moisissures sur du riz, du blé, des haricots, etc.",
+      "utilisé comme levain pour faire le saké, le miso, la sauce soja, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

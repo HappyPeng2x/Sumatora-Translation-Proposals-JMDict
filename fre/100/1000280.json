@@ -10,6 +10,9 @@
       "reprocher",
       "critiquer",
       "pointer du doigt"
+    ],
+    [
+      "aborder (un sujet)"
     ]
   ],
   "model": "qwen3:14b"

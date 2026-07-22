@@ -1,0 +1,23 @@
+{
+  "seq": 1003340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gingembre mariné",
+      "gingembre en tranches préparé dans du vinaigre"
+    ],
+    [
+      "mimeographe"
+    ],
+    [
+      "reproche",
+      "réprimande",
+      "censure"
+    ],
+    [
+      "personne trop maigre",
+      "individu trop maigre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

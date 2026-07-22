@@ -1,0 +1,27 @@
+{
+  "seq": 1001640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grâce (de Dieu)",
+      "bienveillance (de Bouddha)",
+      "bénédiction"
+    ],
+    [
+      "assistance",
+      "aide",
+      "appui",
+      "soutien"
+    ],
+    [
+      "effet",
+      "influence"
+    ],
+    [
+      "soutien",
+      "aide",
+      "appui"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1285570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vanité",
+      "discours vaniteux",
+      "parole creuse",
+      "affirmation excessive"
+    ],
+    [
+      "anglais australien (rare)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

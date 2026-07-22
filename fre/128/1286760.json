@@ -1,0 +1,11 @@
+{
+  "seq": 1286760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bureau des impôts",
+      "office des revenus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

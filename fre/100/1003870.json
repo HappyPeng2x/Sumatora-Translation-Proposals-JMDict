@@ -1,0 +1,19 @@
+{
+  "seq": 1003870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attacher",
+      "coller",
+      "fixer"
+    ],
+    [
+      "mettre ensemble",
+      "placer côte à côte"
+    ],
+    [
+      "marier (quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

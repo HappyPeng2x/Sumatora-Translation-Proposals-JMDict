@@ -1,0 +1,11 @@
+{
+  "seq": 1001170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anguille de mer",
+      "espèce de poisson de la famille des Engraulidés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

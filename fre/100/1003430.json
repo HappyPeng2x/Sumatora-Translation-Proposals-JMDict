@@ -1,0 +1,25 @@
+{
+  "seq": 1003430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sûrement",
+      "sans aucun doute"
+    ],
+    [
+      "fermement",
+      "sévèrement"
+    ],
+    [
+      "ferme",
+      "rigide",
+      "sans marge de manœuvre"
+    ],
+    [
+      "brusquement",
+      "subitement",
+      "aussitôt"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

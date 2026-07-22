@@ -1,0 +1,14 @@
+{
+  "seq": 1002120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "policier (terme amical)"
+    ],
+    [
+      "monsieur l'agent",
+      "forme de politesse pour s'adresser à un agent de police"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

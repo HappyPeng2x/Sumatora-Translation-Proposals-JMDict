@@ -1,0 +1,21 @@
+{
+  "seq": 1003930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ruminer",
+      "s'inquiéter",
+      "se faire du souci pour",
+      "se tracasser"
+    ],
+    [
+      "inquietement",
+      "constamment",
+      "sans cesse",
+      "de manière obsessionnelle",
+      "sans fin",
+      "sans raison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

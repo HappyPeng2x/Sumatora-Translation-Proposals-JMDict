@@ -1,0 +1,19 @@
+{
+  "seq": 1001580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affolé",
+      "bouleversé",
+      "nerveux",
+      "paniqué",
+      "secoué"
+    ],
+    [
+      "tremblant",
+      "d'un air effrayé",
+      "avec des sanglots"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

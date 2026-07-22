@@ -1,0 +1,12 @@
+{
+  "seq": 1286670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "médecin expérimenté",
+      "médecin renommé",
+      "maître en médecine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

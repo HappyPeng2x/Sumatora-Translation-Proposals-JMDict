@@ -1,0 +1,24 @@
+{
+  "seq": 1285820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "période",
+      "intervalle de temps",
+      "époque"
+    ],
+    [
+      "gravure",
+      "découpage",
+      "ciselure"
+    ],
+    [
+      "victoire"
+    ],
+    [
+      "rigueur",
+      "cruauté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

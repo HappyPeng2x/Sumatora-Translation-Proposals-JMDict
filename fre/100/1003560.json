@@ -1,0 +1,21 @@
+{
+  "seq": 1003560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crénelé",
+      "déchiqueté",
+      "denté",
+      "dentelé",
+      "ondulé"
+    ],
+    [
+      "dents",
+      "serrés",
+      "coupés",
+      "moulés",
+      "rainurés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

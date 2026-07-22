@@ -1,0 +1,20 @@
+{
+  "seq": 1000440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cette personne",
+      "elle",
+      "lui"
+    ],
+    [
+      "vous"
+    ],
+    [
+      "la femme",
+      "elle",
+      "elle (forme familière)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1002400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "votre maison",
+      "vous"
+    ],
+    [
+      "votre mari"
+    ],
+    [
+      "votre organisation"
+    ],
+    [
+      "vous"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

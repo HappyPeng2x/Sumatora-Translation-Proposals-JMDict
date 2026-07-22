@@ -1,0 +1,34 @@
+{
+  "seq": 1002770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élégant",
+      "bien habillé",
+      "coquet",
+      "endimanché",
+      "qui suit la mode"
+    ],
+    [
+      "se vêtir de manière élégante",
+      "se mettre en beauté",
+      "se parer de manière soignée"
+    ],
+    [
+      "personne bien habillée",
+      "personne élégante",
+      "personne qui se vêt avec soin"
+    ],
+    [
+      "l'excès de soin dans l'apparence",
+      "l'attitude de celui qui se met en valeur",
+      "l'air affecté et exagérément élégant"
+    ],
+    [
+      "un individu exagérément élégant",
+      "un dandy",
+      "une personne qui suit la mode de manière excessive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

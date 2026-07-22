@@ -1,0 +1,20 @@
+{
+  "seq": 1004170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "discrimination",
+      "distinction"
+    ],
+    [
+      "sens de la bienséance; conduite correcte selon les normes sociales ou morales"
+    ],
+    [
+      "responsabilité; prise claire de responsabilité (pour une faute ou un échec)"
+    ],
+    [
+      "limite; point de division"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

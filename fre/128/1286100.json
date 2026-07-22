@@ -1,0 +1,17 @@
+{
+  "seq": 1286100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie funéraire",
+      "service funéraire",
+      "cérémonie commémorative"
+    ],
+    [
+      "cérémonie d'adieu",
+      "cérémonie de départ",
+      "fête d'adieu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

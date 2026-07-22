@@ -1,0 +1,17 @@
+{
+  "seq": 1002290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chéri(e)",
+      "hé toi",
+      "mon enfant",
+      "toi",
+      "tu"
+    ],
+    [
+      "devant (un dieu, un noble, etc.) ; en face de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

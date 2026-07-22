@@ -1,0 +1,24 @@
+{
+  "seq": 1002080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "céder",
+      "capituler",
+      "abdiquer",
+      "abandonner tout espoir",
+      "se mettre à genoux"
+    ],
+    [
+      "être impuissant face à quelque chose",
+      "ne pouvoir rien faire contre quelque chose",
+      "ne pas pouvoir y faire grand-chose",
+      "être sans issue",
+      "être sans espoir",
+      "ne pas pouvoir y remédier",
+      "être en impasse",
+      "ne pas pouvoir y changer quoi que ce soit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

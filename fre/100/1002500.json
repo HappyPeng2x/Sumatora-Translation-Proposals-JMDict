@@ -1,0 +1,16 @@
+{
+  "seq": 1002500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "souvenir (objet, cadeau)"
+    ],
+    [
+      "cadeau apporté par un visiteur"
+    ],
+    [
+      "cadeau indésirable, malheur reçu, désavantage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

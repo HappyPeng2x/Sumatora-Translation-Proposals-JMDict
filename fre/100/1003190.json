@@ -1,0 +1,23 @@
+{
+  "seq": 1003190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "au cœur brisé",
+      "découragé",
+      "effondré",
+      "abattu",
+      "déçu"
+    ],
+    [
+      "épuisé",
+      "dépité"
+    ],
+    [
+      "brisé",
+      "choqué",
+      "touché"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

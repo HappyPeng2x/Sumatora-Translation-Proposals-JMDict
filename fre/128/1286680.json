@@ -1,0 +1,16 @@
+{
+  "seq": 1286680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "message diplomatique envoyé par un chef d'État",
+      "lettre souveraine"
+    ],
+    [
+      "livre écrit en japonais",
+      "livre national japonais",
+      "littérature nationale du Japon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

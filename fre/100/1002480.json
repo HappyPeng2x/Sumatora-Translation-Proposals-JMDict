@@ -1,0 +1,15 @@
+{
+  "seq": 1002480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garçon manqué"
+    ],
+    [
+      "jeunesse",
+      "insouciance",
+      "bêtise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

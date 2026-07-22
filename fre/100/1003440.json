@@ -1,0 +1,19 @@
+{
+  "seq": 1003440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carrément",
+      "clairement",
+      "distinctement",
+      "nettement"
+    ],
+    [
+      "fermement",
+      "déterminément",
+      "définitivement",
+      "franchement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

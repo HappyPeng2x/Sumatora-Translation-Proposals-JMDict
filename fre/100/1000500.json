@@ -11,6 +11,16 @@
       "flatter",
       "apaiser (un enfant)",
       "endormir (un enfant)"
+    ],
+    [
+      "consoler",
+      "maintenir en bonne humeur"
+    ],
+    [
+      "laisser couler le sang ou la sueur"
+    ],
+    [
+      "faire tomber les fruits"
     ]
   ],
   "model": "qwen3:14b"

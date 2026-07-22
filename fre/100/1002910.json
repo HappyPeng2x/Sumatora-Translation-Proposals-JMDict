@@ -1,0 +1,26 @@
+{
+  "seq": 1002910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "piquer un colère",
+      "s'emporter"
+    ],
+    [
+      "s'irriter soudainement",
+      "perdre patience",
+      "se mettre en colère"
+    ],
+    [
+      "s'ouvrir brusquement",
+      "s'entrouvrir violemment",
+      "s'élargir soudain"
+    ],
+    [
+      "agir avec détermination",
+      "agir résolument",
+      "agir fermement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

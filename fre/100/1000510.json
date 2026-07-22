@@ -1,0 +1,21 @@
+{
+  "seq": 1000510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ambigu",
+      "douteux",
+      "incertain",
+      "indécis",
+      "vague"
+    ],
+    [
+      "indéterminé",
+      "ambigu",
+      "vague",
+      "douteux",
+      "incertain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

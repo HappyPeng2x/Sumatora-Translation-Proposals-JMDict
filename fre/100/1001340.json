@@ -11,6 +11,20 @@
       "échouer",
       "perdre (un concours, une élection)",
       "ne pas réussir"
+    ],
+    [
+      "s'enliser",
+      "s'enfoncer",
+      "s'en aller"
+    ],
+    [
+      "tomber malade",
+      "avoir la grippe"
+    ],
+    [
+      "disparaître",
+      "cesser d'exister",
+      "ne plus être présent"
     ]
   ],
   "model": "qwen3:14b"

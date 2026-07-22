@@ -1,0 +1,18 @@
+{
+  "seq": 1001360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne négligente",
+      "personne distrait",
+      "personne impulsif"
+    ],
+    [
+      "frivole",
+      "impulsif",
+      "désinvolte",
+      "irréfléchi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

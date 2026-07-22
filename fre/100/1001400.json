@@ -1,0 +1,36 @@
+{
+  "seq": 1001400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "craintif",
+      "effarouché",
+      "hésitant",
+      "intimidé",
+      "tremblant"
+    ],
+    [
+      "trembler de peur",
+      "être timide",
+      "être effrayé",
+      "être hésitant",
+      "être intimidé",
+      "être timide et craintif",
+      "être mal à l'aise",
+      "être timide et réticent",
+      "être craintif et timide",
+      "être timide et timoré",
+      "être timide et effarouché",
+      "être timide et craintif",
+      "être timide et timoré",
+      "être timide et craintif",
+      "être timide et craintif",
+      "être timide et craintif",
+      "être timide et craintif",
+      "être timide et craintif",
+      "être timide et craintif",
+      "être timide et craintif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

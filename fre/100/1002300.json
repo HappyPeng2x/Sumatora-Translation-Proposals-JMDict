@@ -10,6 +10,12 @@
       "mon mari",
       "mon chéri",
       "mon amour"
+    ],
+    [
+      "tu",
+      "vous",
+      "toi",
+      "vous (fam.)"
     ]
   ],
   "model": "qwen3:14b"

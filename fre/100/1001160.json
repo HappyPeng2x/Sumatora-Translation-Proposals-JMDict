@@ -8,6 +8,15 @@
       "répugnant",
       "offensant",
       "dégoûtant"
+    ],
+    [
+      "cruel",
+      "impitoyable",
+      "barbare",
+      "sauvage",
+      "désespéré",
+      "avare",
+      "avare de cœur"
     ]
   ],
   "model": "qwen3:14b"

@@ -7,6 +7,11 @@
       "pourrait",
       "peut-être que",
       "pourrait être"
+    ],
+    [
+      "peut-être que",
+      "possible que",
+      "il est possible que"
     ]
   ],
   "model": "qwen3:14b"

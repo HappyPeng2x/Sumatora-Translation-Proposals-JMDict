@@ -1,0 +1,11 @@
+{
+  "seq": 1285980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre imprimé à l’aide de blocs de bois",
+      "livre gravé sur des planches en bois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

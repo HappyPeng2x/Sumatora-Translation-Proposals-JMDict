@@ -1,0 +1,26 @@
+{
+  "seq": 1003700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ébouriffé",
+      "échevelé",
+      "avoir le cafard",
+      "froissé",
+      "sombre (humeur)"
+    ],
+    [
+      "être agacé",
+      "être irrité",
+      "être contrarié"
+    ],
+    [
+      "bruyamment (mâcher)"
+    ],
+    [
+      "nerveux",
+      "agaçant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

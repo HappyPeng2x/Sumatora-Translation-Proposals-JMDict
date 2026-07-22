@@ -6,6 +6,11 @@
       "voleur de petite envergure",
       "voleur de rue",
       "voleur en douce"
+    ],
+    [
+      "voleur de miettes",
+      "voleur de petits objets",
+      "voleur de rue"
     ]
   ],
   "model": "qwen3:14b"

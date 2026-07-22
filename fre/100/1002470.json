@@ -9,6 +9,9 @@
     [
       "humeur",
       "état d'esprit"
+    ],
+    [
+      "état de faillite"
     ]
   ],
   "model": "qwen3:14b"

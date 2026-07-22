@@ -1,0 +1,12 @@
+{
+  "seq": 1286130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise contrôlée par l'État",
+      "entreprise nationale",
+      "entreprise d'État"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

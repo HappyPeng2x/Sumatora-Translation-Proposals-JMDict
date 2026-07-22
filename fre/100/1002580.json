@@ -6,6 +6,17 @@
       "gardien",
       "serviteur",
       "escorte"
+    ],
+    [
+      "chambellan",
+      "dame de cour"
+    ],
+    [
+      "accompagnateur",
+      "compagnon"
+    ],
+    [
+      "suivi"
     ]
   ],
   "model": "qwen3:14b"

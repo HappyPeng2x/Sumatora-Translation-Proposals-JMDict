@@ -1,0 +1,12 @@
+{
+  "seq": 1000770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "timidement",
+      "avec hésitation",
+      "de manière diffidente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

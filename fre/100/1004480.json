@@ -1,0 +1,26 @@
+{
+  "seq": 1004480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être exigeant",
+      "être soucieux"
+    ],
+    [
+      "être exigeant",
+      "prêter une attention particulière à quelque chose",
+      "être inflexible"
+    ],
+    [
+      "se coincer",
+      "être entravé"
+    ],
+    [
+      "critiquer",
+      "râler",
+      "être minutieux",
+      "être étroit d'esprit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,61 @@
+{
+  "seq": 1003100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire du bruit",
+      "secouer",
+      "trembler"
+    ],
+    [
+      "trembler",
+      "trembler de froid",
+      "frissonner",
+      "vaciller",
+      "osciller"
+    ],
+    [
+      "gémir",
+      "se plaindre",
+      "râler",
+      "bêler",
+      "se lamenter"
+    ],
+    [
+      "désuet",
+      "délabré",
+      "décrépit",
+      "instable",
+      "fragile"
+    ],
+    [
+      "gémir",
+      "se plaindre",
+      "râler",
+      "bêler",
+      "se lamenter"
+    ],
+    [
+      "se délabrer",
+      "se dégrader",
+      "se détruire",
+      "se défaire",
+      "se corrompre"
+    ],
+    [
+      "chuter brusquement",
+      "tomber en flèche",
+      "plonger rapidement",
+      "descendre abruptement",
+      "s'effondrer soudain"
+    ],
+    [
+      "gémir",
+      "pleurer",
+      "se plaindre",
+      "râler",
+      "se lamenter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

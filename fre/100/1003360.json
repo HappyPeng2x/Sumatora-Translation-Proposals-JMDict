@@ -6,6 +6,10 @@
       "avec un (son) aigu",
       "avec un crissement",
       "avec un cri aigu"
+    ],
+    [
+      "aigu",
+      "crissement"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1001290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affreux",
+      "horrible",
+      "répugnant",
+      "dégoûtant",
+      "détestable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1003160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "son de tic-tac",
+      "bruit de cliquetis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

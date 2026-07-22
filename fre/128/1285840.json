@@ -1,0 +1,28 @@
+{
+  "seq": 1285840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "découpage",
+      "coup de ciseaux",
+      "petits morceaux",
+      "entaille",
+      "grincement"
+    ],
+    [
+      "frappe",
+      "percussion",
+      "battement"
+    ],
+    [
+      "tabac râpé",
+      "tabac en poudre"
+    ],
+    [
+      "intervalle",
+      "espace",
+      "délai"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

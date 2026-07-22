@@ -1,0 +1,18 @@
+{
+  "seq": 1002000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enfant"
+    ],
+    [
+      "enfant (terme honorifique)",
+      "enfant (terme honorifique)"
+    ],
+    [
+      "fille (terme honorifique)",
+      "fille (terme honorifique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

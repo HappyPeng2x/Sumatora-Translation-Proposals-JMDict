@@ -1,0 +1,27 @@
+{
+  "seq": 1001950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "culte",
+      "visite au temple"
+    ],
+    [
+      "rendre visite à un lieu sacré",
+      "faire une prière",
+      "honorer un être divin"
+    ],
+    [
+      "visiter un temple",
+      "faire une pèlerinage",
+      "se rendre à un sanctuaire"
+    ],
+    [
+      "adoration",
+      "vénération",
+      "prière",
+      "adoration envers un dieu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

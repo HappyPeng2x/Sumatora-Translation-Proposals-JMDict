@@ -1,0 +1,11 @@
+{
+  "seq": 1001940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collation de l'après-midi",
+      "thé de l'après-midi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

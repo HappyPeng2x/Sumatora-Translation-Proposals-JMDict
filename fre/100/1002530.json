@@ -1,0 +1,18 @@
+{
+  "seq": 1002530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "front"
+    ],
+    [
+      "front",
+      "nez"
+    ],
+    [
+      "ne rien attraper",
+      "ne rien pêcher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
