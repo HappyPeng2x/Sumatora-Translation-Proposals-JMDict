@@ -1,0 +1,12 @@
+{
+  "seq": 1103430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flyer",
+      "brochure",
+      "tract"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

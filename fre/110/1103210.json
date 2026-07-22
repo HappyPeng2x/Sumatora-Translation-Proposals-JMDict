@@ -1,0 +1,14 @@
+{
+  "seq": 1103210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "panda"
+    ],
+    [
+      "petit panda",
+      "guépard des neiges"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1103800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être un succès",
+      "succès"
+    ],
+    [
+      "frappe; succès"
+    ],
+    [
+      "frappe; coup"
+    ],
+    [
+      "résultat trouvé; correspondance"
+    ],
+    [
+      "(néerlandais) frappe; coup; résultat d'une recherche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

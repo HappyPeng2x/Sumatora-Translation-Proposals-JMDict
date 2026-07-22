@@ -1,0 +1,16 @@
+{
+  "seq": 1099340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bâton"
+    ],
+    [
+      "bâton de relais; bâton de direction d'orchestre"
+    ],
+    [
+      "bâton de chef d'orchestre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

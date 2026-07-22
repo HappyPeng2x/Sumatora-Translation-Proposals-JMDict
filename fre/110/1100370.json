@@ -1,0 +1,10 @@
+{
+  "seq": 1100370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "colonne ou rangée des kana syllabaires correspondant au son 'ba'"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

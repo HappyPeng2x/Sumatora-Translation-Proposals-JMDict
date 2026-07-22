@@ -8,6 +8,18 @@
     [
       "signe de la paix",
       "V signe"
+    ],
+    [
+      "paix"
+    ],
+    [
+      "signe V"
+    ],
+    [
+      "haricots"
+    ],
+    [
+      "paix"
     ]
   ],
   "model": "qwen3:14b"

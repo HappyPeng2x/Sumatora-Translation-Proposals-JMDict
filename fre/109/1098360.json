@@ -1,0 +1,19 @@
+{
+  "seq": 1098360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bazar",
+      "vente de charité"
+    ],
+    [
+      "vente spéciale",
+      "solde"
+    ],
+    [
+      "marché libre",
+      "foire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

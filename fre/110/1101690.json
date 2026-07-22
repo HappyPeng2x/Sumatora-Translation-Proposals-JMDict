@@ -13,6 +13,15 @@
     [
       "joint de scellage",
       "gasket"
+    ],
+    [
+      "matériau d'étanchéité"
+    ],
+    [
+      "matériau de scellage"
+    ],
+    [
+      "matériau de remplissage"
     ]
   ],
   "model": "qwen3:14b"

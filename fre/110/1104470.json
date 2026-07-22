@@ -5,6 +5,11 @@
     [
       "castor",
       "bélier (animal)"
+    ],
+    [
+      "castor d'eau",
+      "peau de castor d'eau",
+      "fourrure de castor d'eau"
     ]
   ],
   "model": "qwen3:14b"

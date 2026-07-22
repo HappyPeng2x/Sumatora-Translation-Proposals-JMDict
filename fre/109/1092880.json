@@ -4,6 +4,9 @@
   "glosses": [
     [
       "négociation"
+    ],
+    [
+      "négociation entre modems et appareils similaires"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,13 @@
     [
       "modeste",
       "humble"
+    ],
+    [
+      "modeste",
+      "humble",
+      "soumis",
+      "timide",
+      "incertain dans ses prises"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,15 @@
+{
+  "seq": 1099740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "variant",
+      "forme alternative d'un mot ou d'un concept"
+    ],
+    [
+      "alternative",
+      "forme différente d'une chose; souvent dans un contexte culturel ou artistique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

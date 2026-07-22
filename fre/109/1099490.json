@@ -1,0 +1,18 @@
+{
+  "seq": 1099490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ressort"
+    ],
+    [
+      "ressort (dans les jambes)",
+      "élan"
+    ],
+    [
+      "springboard",
+      "impulsion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

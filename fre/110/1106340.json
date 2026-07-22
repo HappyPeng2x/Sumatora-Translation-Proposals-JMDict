@@ -1,0 +1,16 @@
+{
+  "seq": 1106340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poivron",
+      "poivron vert",
+      "poivron doux",
+      "capsicum"
+    ],
+    [
+      "chose vide; chose sans contenu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

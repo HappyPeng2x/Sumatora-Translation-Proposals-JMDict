@@ -10,6 +10,9 @@
     ],
     [
       "[n] rendement (d'un ordinateur, d'une voiture, d'un investissement, etc.)"
+    ],
+    [
+      "performance; fonctionnement"
     ]
   ],
   "model": "qwen3:14b"

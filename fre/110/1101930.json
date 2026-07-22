@@ -9,6 +9,9 @@
     [
       "christianisme",
       "chrétien"
+    ],
+    [
+      "christianisme"
     ]
   ],
   "model": "qwen3:14b"

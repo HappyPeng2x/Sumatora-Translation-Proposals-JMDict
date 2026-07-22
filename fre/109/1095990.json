@@ -5,6 +5,9 @@
     [
       "dossier arrière ouvrable d'une voiture",
       "type de véhicule à hayon"
+    ],
+    [
+      "portière arrière ouvrable d'une voiture"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,17 @@
+{
+  "seq": 1095940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup",
+      "frappe",
+      "coup de hache"
+    ],
+    [
+      "hache",
+      "hachette",
+      "outil de jardinage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

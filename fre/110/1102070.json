@@ -1,0 +1,15 @@
+{
+  "seq": 1102070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "membre d'un panel",
+      "participant à un jury"
+    ],
+    [
+      "participant à un quiz",
+      "membre d'une équipe de devinette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1106500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unité élémentaire d'une image numérique",
+      "élément de l'image",
+      "pixel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

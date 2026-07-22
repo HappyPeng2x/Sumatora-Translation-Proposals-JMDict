@@ -1,0 +1,15 @@
+{
+  "seq": 1093110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "le réseau"
+    ],
+    [
+      "n",
+      "le fait de créer des liens professionnels"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1106670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "piston",
+      "plongeur"
+    ],
+    [
+      "piston",
+      "vanne"
+    ],
+    [
+      "service d'aller et retour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

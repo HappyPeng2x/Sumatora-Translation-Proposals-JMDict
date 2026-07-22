@@ -4,6 +4,9 @@
   "glosses": [
     [
       "nectar"
+    ],
+    [
+      "boisson contenant des morceaux de fruits de la marque Morinaga"
     ]
   ],
   "model": "qwen3:14b"

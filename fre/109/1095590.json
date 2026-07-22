@@ -6,6 +6,14 @@
       "mettre en évidence",
       "souligner",
       "mettre en valeur"
+    ],
+    [
+      "éclat",
+      "lumière vive"
+    ],
+    [
+      "accentuation visuelle",
+      "mise en valeur visuelle"
     ]
   ],
   "model": "qwen3:14b"

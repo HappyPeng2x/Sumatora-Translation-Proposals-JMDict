@@ -6,6 +6,14 @@
       "dossier en attente",
       "retard",
       "accumulation"
+    ],
+    [
+      "travail en attente",
+      "travail non accompli"
+    ],
+    [
+      "travail en attente",
+      "tâches de programmation non exécutées"
     ]
   ],
   "model": "qwen3:14b"

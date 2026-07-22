@@ -1,0 +1,14 @@
+{
+  "seq": 1098170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vagabond",
+      "nomade",
+      "errant",
+      "sans-abri",
+      "personne sans domicile fixe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

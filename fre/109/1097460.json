@@ -6,6 +6,18 @@
       "préjugé",
       "partialité",
       "inclinaison"
+    ],
+    [
+      "tension de précharge (dans un transistor ou une valve)"
+    ],
+    [
+      "préjugé"
+    ],
+    [
+      "biais"
+    ],
+    [
+      "déformation due à une erreur"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,15 @@
   "glosses": [
     [
       "violet"
+    ],
+    [
+      "couleur violette"
+    ],
+    [
+      "plante appelée 'Veilchen' ou 'Viola mandshurica'"
+    ],
+    [
+      "petit gâteau ou crème de violette"
     ]
   ],
   "model": "qwen3:14b"

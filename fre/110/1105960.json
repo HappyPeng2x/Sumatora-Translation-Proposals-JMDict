@@ -1,0 +1,15 @@
+{
+  "seq": 1105960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "buffet",
+      "repas à service libre"
+    ],
+    [
+      "waggon-restaurant",
+      "Bernard Buffet (peintre français)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

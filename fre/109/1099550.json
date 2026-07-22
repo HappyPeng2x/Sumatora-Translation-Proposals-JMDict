@@ -5,6 +5,9 @@
     [
       "baptiste",
       "membre d'une communauté religieuse baptiste"
+    ],
+    [
+      "baptiste (protestant)"
     ]
   ],
   "model": "qwen3:14b"

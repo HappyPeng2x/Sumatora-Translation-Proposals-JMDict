@@ -1,0 +1,11 @@
+{
+  "seq": 1100830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "travail à temps partiel",
+      "à temps partiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,13 @@
       "enclos",
       "périmètre",
       "zone"
+    ],
+    [
+      "enclos pour chevaux; paddock (dans le contexte des courses hippiques)",
+      "zone de départ des chevaux"
+    ],
+    [
+      "camp des pilotes; zone des concurrents (dans le contexte des courses automobiles)"
     ]
   ],
   "model": "qwen3:14b"

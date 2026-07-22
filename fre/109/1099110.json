@@ -1,0 +1,16 @@
+{
+  "seq": 1099110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "badge",
+      "emblème",
+      "insigne"
+    ],
+    [
+      "base air defense ground environment",
+      "batch"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

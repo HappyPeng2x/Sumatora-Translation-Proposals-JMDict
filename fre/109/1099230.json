@@ -1,0 +1,15 @@
+{
+  "seq": 1099230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bac (photo, cuisine)",
+      "batte (base-ball)",
+      "chauve-souris"
+    ],
+    [
+      "réserve (petite); bac (photographie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

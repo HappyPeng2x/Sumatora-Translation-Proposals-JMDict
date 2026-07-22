@@ -1,0 +1,23 @@
+{
+  "seq": 1101600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échantillon",
+      "motif",
+      "patron (couture)"
+    ],
+    [
+      "schéma de comportement",
+      "régularité",
+      "force de l'habitude"
+    ],
+    [
+      "motif"
+    ],
+    [
+      "unité de mesure pour les patrons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

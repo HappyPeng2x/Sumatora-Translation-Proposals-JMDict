@@ -1,0 +1,14 @@
+{
+  "seq": 1099900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balcon"
+    ],
+    [
+      "rang inférieur",
+      "balkon (dans les théâtres)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -15,6 +15,19 @@
       "barre (en saut à la perche ou en pole vault)",
       "barre transversale (en football, rugby, etc.)",
       "barre (en danse)"
+    ],
+    [
+      "burr",
+      "acteur canadien"
+    ],
+    [
+      "exclamation pour faire peur"
+    ],
+    [
+      "barre de ballet"
+    ],
+    [
+      "trait de mesure rythmique"
     ]
   ],
   "model": "qwen3:14b"

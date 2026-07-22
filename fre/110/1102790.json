@@ -1,0 +1,15 @@
+{
+  "seq": 1102790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parité",
+      "inertie"
+    ],
+    [
+      "égalité",
+      "équivalence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

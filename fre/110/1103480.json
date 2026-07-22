@@ -1,0 +1,16 @@
+{
+  "seq": 1103480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boulangerie",
+      "boulanger"
+    ],
+    [
+      "boulangerie",
+      "boutique de boulanger",
+      "entreprise de boulangerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "marteau"
+    ],
+    [
+      "poids de suspension"
     ]
   ],
   "model": "qwen3:14b"

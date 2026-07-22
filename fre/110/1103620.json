@@ -4,6 +4,16 @@
   "glosses": [
     [
       "héros"
+    ],
+    [
+      "personnage principal",
+      "protagoniste"
+    ],
+    [
+      "personnage principal"
+    ],
+    [
+      "héros"
     ]
   ],
   "model": "qwen3:14b"

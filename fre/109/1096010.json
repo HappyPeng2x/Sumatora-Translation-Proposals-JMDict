@@ -1,0 +1,14 @@
+{
+  "seq": 1096010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "heureux",
+      "joyeux"
+    ],
+    [
+      "heureux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

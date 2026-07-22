@@ -12,7 +12,11 @@
       "compris",
       "okay"
     ],
-    []
+    [
+      "excellent",
+      "remarquable",
+      "exceptionnel"
+    ]
   ],
   "model": "qwen3:14b"
 }

@@ -1,0 +1,16 @@
+{
+  "seq": 1095980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ouverture",
+      "trappe",
+      "ouverture de porte"
+    ],
+    [
+      "passage",
+      "ouverture de communication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

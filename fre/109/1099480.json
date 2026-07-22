@@ -1,0 +1,19 @@
+{
+  "seq": 1099480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vanille"
+    ],
+    [
+      "saveur de vanille"
+    ],
+    [
+      "sucre vanillé"
+    ],
+    [
+      "glace à la vanille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1103110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crevaison"
+    ],
+    [
+      "punk"
+    ],
+    [
+      "perdre sa fonction en raison d'une surcharge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

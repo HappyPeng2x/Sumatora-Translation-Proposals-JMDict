@@ -1,0 +1,12 @@
+{
+  "seq": 1095790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guide pratique",
+      "mode d'emploi",
+      "instructions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

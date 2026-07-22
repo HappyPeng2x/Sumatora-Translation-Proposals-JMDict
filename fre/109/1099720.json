@@ -16,6 +16,12 @@
       "bouclier imaginaire",
       "protection fictive",
       "abri imaginaire"
+    ],
+    [
+      "barrière de protection",
+      "mur de défense",
+      "poste de contrôle",
+      "obstacle physique"
     ]
   ],
   "model": "qwen3:14b"

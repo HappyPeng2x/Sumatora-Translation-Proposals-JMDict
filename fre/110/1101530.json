@@ -1,0 +1,14 @@
+{
+  "seq": 1101530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "puzzle",
+      "jeu de réflexion"
+    ],
+    [
+      "jeu de réflexion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

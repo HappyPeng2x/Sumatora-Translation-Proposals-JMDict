@@ -1,0 +1,12 @@
+{
+  "seq": 1107390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "machine à mixer",
+      "machine à préparer les aliments",
+      "robot de cuisine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

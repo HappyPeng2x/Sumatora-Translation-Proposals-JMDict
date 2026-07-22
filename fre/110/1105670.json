@@ -1,0 +1,16 @@
+{
+  "seq": 1105670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vif",
+      "vivide"
+    ],
+    [
+      "vif",
+      "animé",
+      "dynamique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

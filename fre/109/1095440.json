@@ -1,0 +1,10 @@
+{
+  "seq": 1095440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'insertion d'un trait horizontal entre les syllabes d'un mot pour en faciliter la lecture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

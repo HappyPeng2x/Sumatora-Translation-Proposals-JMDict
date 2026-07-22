@@ -4,6 +4,11 @@
   "glosses": [
     [
       "hymen"
+    ],
+    [
+      "Hymén",
+      "Hyménaios",
+      "Hyménéeus (dieu grec du mariage)"
     ]
   ],
   "model": "qwen3:14b"

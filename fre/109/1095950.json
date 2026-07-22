@@ -1,0 +1,17 @@
+{
+  "seq": 1095950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fonction de hachage",
+      "table de hachage"
+    ],
+    [
+      "mélange de viande hachée"
+    ],
+    [
+      "signe de hachage / marque de hachage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

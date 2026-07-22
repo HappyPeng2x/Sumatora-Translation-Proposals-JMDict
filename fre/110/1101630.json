@@ -1,0 +1,10 @@
+{
+  "seq": 1101630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "reconnaissance des motifs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

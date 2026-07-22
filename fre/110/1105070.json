@@ -1,0 +1,24 @@
+{
+  "seq": 1105070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vision"
+    ],
+    [
+      "apparition",
+      "image d'un rêve",
+      "vison"
+    ],
+    [
+      "la vue",
+      "pouvoir de voir",
+      "vue"
+    ],
+    [
+      "vue",
+      "panorama"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

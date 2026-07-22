@@ -1,0 +1,14 @@
+{
+  "seq": 1100680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ordinateur personnel",
+      "ordinateur de poche",
+      "ordinateur portable",
+      "ordinateur de bureau",
+      "ordinateur de type PC"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1093500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sans sous-vêtements",
+      "ne portant pas de sous-vêtements"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1096600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navire de guerre conçu pour attaquer et détruire d'autres navires de guerre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

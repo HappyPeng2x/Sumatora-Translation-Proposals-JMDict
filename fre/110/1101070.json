@@ -8,6 +8,15 @@
     ],
     [
       "palmier"
+    ],
+    [
+      "gâteau",
+      "pâtisserie",
+      "petit gâteau"
+    ],
+    [
+      "pion",
+      "pièce du jeu de mahjong"
     ]
   ],
   "model": "qwen3:14b"

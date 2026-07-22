@@ -4,6 +4,13 @@
   "glosses": [
     [
       "pâtes"
+    ],
+    [
+      "pâte",
+      "pommade",
+      "pâte à modeler",
+      "pâtes alimentaires",
+      "nouilles"
     ]
   ],
   "model": "qwen3:14b"

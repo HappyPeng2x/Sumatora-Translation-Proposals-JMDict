@@ -1,0 +1,13 @@
+{
+  "seq": 1103490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "miettes de pain"
+    ],
+    [
+      "élément de navigation sur un site web indiquant le chemin hiérarchique vers l'élément actuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

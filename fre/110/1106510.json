@@ -1,0 +1,16 @@
+{
+  "seq": 1106510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "image",
+      "photo",
+      "tableau"
+    ],
+    [
+      "photo",
+      "photographie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

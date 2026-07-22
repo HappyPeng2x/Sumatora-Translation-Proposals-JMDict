@@ -1,0 +1,19 @@
+{
+  "seq": 1107060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épingle",
+      "drapeau (golf)"
+    ],
+    [
+      "boule",
+      "pique"
+    ],
+    [
+      "étendard",
+      "tige d'étendard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

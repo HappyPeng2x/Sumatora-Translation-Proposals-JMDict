@@ -9,6 +9,15 @@
       "chauffage",
       "échauffement",
       "excitation croissante"
+    ],
+    [
+      "chaleur"
+    ],
+    [
+      "antigel"
+    ],
+    [
+      "chaleur"
     ]
   ],
   "model": "qwen3:14b"

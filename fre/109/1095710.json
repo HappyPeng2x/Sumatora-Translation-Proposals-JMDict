@@ -5,6 +5,10 @@
     [
       "ménagère",
       "personne chargée du ménage dans une maison"
+    ],
+    [
+      "gérant de maison",
+      "personne chargée de la gestion d'une maison"
     ]
   ],
   "model": "qwen3:14b"

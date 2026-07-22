@@ -7,6 +7,13 @@
     ],
     [
       "handball (dans le football, faute de main)"
+    ],
+    [
+      "jeu de billard",
+      "partie de billard"
+    ],
+    [
+      "main"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1098430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "panier"
+    ],
+    [
+      "basketball"
+    ],
+    [
+      "tissu en forme de panier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

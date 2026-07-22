@@ -1,0 +1,15 @@
+{
+  "seq": 1106170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Relations publiques",
+      "public relations"
+    ],
+    [
+      "Relations publiques",
+      "travail de communication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

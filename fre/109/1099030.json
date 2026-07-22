@@ -11,6 +11,10 @@
       "structure de soutien (d'un réseau)",
       "ossature (d'un réseau)",
       "support technique"
+    ],
+    [
+      "ossature d'un réseau",
+      "structure de connexion entre réseaux locaux"
     ]
   ],
   "model": "qwen3:14b"

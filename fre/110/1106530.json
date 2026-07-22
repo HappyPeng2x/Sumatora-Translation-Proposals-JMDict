@@ -1,0 +1,14 @@
+{
+  "seq": 1106530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pique-nique"
+    ],
+    [
+      "expédition",
+      "randonnée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

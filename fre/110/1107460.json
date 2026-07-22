@@ -1,0 +1,23 @@
+{
+  "seq": 1107460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "premier"
+    ],
+    [
+      "rapide"
+    ],
+    [
+      "premier joueur de première base",
+      "rapide",
+      "vif",
+      "prompt"
+    ],
+    [
+      "rapide",
+      "auteur américain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

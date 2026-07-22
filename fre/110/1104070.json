@@ -1,0 +1,14 @@
+{
+  "seq": 1104070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "humain",
+      "être humain"
+    ],
+    [
+      "humain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

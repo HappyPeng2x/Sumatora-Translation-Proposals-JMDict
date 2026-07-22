@@ -4,6 +4,10 @@
   "glosses": [
     [
       "hystérie"
+    ],
+    [
+      "crise d'hystérie",
+      "incident nerveux"
     ]
   ],
   "model": "qwen3:14b"

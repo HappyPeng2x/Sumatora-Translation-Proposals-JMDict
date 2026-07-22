@@ -1,0 +1,14 @@
+{
+  "seq": 1093660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plus aucun",
+      "aucun autre",
+      "ne plus",
+      "jamais plus",
+      "fini"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1106480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mode de fonctionnement où une tâche est déléguée à un tiers sans supervision directe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

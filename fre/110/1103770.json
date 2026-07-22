@@ -4,6 +4,9 @@
   "glosses": [
     [
       "noix de hickory"
+    ],
+    [
+      "bois de hickory"
     ]
   ],
   "model": "qwen3:14b"

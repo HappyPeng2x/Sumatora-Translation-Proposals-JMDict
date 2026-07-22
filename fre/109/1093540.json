@@ -6,6 +6,11 @@
       "non marqué",
       "non breveté",
       "de marque inconnue"
+    ],
+    [
+      "sans marque",
+      "générique",
+      "de marque inconnue"
     ]
   ],
   "model": "qwen3:14b"

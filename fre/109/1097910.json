@@ -4,6 +4,17 @@
   "glosses": [
     [
       "binaire"
+    ],
+    [
+      "programme binaire",
+      "programme en binaire"
+    ],
+    [
+      "binaire",
+      "en binaire"
+    ],
+    [
+      "programme binaire"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,11 @@
+{
+  "seq": 1106120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pirozhki",
+      "petit pâté russe rempli de viande, de légumes, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

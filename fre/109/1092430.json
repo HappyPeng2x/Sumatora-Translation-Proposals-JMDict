@@ -1,0 +1,22 @@
+{
+  "seq": 1092430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nom"
+    ],
+    [
+      "plaque d'identification"
+    ],
+    [
+      "légende"
+    ],
+    [
+      "maquette ; esquisse"
+    ],
+    [
+      "esquisse brute; mise en page brute; arrangement des cases"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

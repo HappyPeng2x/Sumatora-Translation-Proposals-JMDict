@@ -1,0 +1,21 @@
+{
+  "seq": 1100810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partie",
+      "partition",
+      "temps partiel"
+    ],
+    [
+      "travailleur à temps partiel"
+    ],
+    [
+      "à temps partiel"
+    ],
+    [
+      "travailleur à temps partiel; travail à temps partiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

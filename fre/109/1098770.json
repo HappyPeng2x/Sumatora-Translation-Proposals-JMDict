@@ -16,6 +16,9 @@
       "sauvegarde",
       "copie de secours",
       "réservation"
+    ],
+    [
+      "copie de sauvegarde"
     ]
   ],
   "model": "qwen3:14b"

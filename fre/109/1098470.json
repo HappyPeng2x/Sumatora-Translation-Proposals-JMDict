@@ -5,6 +5,10 @@
     [
       "bunt faux",
       "bunt de déviation"
+    ],
+    [
+      "nom propre",
+      "personne ou chose portant le nom Buster"
     ]
   ],
   "model": "qwen3:14b"

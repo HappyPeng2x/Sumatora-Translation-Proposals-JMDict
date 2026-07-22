@@ -1,0 +1,14 @@
+{
+  "seq": 1101110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "canalisation",
+      "tuyauterie"
+    ],
+    [
+      "ornement de gâteau en crème"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

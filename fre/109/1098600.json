@@ -1,0 +1,20 @@
+{
+  "seq": 1098600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit",
+      "bourdonnement"
+    ],
+    [
+      "murmure",
+      "brouhaha"
+    ],
+    [
+      "ragot",
+      "bruit doux",
+      "bruit indistinct"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -8,6 +8,11 @@
     ],
     [
       "de la farine de blé"
+    ],
+    [
+      "farine de pain",
+      "paillettes de pain",
+      "semoule de pain"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,9 @@
   "glosses": [
     [
       "Baltique"
+    ],
+    [
+      "balto"
     ]
   ],
   "model": "qwen3:14b"

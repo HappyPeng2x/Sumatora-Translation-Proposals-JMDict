@@ -4,6 +4,10 @@
   "glosses": [
     [
       "héroïque"
+    ],
+    [
+      "épopée héroïque",
+      "légende héroïque"
     ]
   ],
   "model": "qwen3:14b"

@@ -31,6 +31,9 @@
     [
       "moto",
       "tricycle"
+    ],
+    [
+      "moteur à trois roues"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,7 +5,10 @@
     [
       "pionnier"
     ],
-    []
+    [
+      "pionnière",
+      "pionnière (femme)"
+    ]
   ],
   "model": "qwen3:14b"
 }

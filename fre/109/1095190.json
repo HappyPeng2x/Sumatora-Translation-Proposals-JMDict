@@ -6,6 +6,10 @@
       "salut par la main",
       "salutation par la main",
       "geste de salutation par les mains"
+    ],
+    [
+      "claque des mains",
+      "claque de main"
     ]
   ],
   "model": "qwen3:14b"

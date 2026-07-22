@@ -1,0 +1,23 @@
+{
+  "seq": 1104520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poutre",
+      "faisceau de lumière",
+      "rayon lumineux"
+    ],
+    [
+      "faisceau de lumière",
+      "poutre",
+      "objet en forme de poutre"
+    ],
+    [
+      "organisation internationale des sociétés gérant les droits d'enregistrement et de reproduction mécanique"
+    ],
+    [
+      "poutre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

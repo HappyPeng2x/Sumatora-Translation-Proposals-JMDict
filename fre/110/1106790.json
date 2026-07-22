@@ -9,6 +9,9 @@
     [
       "mouvement de bascule (d'un navire, d'un avion, etc.)",
       "inclinaison (d'un navire, d'un avion, etc.)"
+    ],
+    [
+      "mouvement de balancement (d'un navire)"
     ]
   ],
   "model": "qwen3:14b"

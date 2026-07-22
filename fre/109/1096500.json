@@ -1,0 +1,12 @@
+{
+  "seq": 1096500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accrochage",
+      " blocage",
+      " verrouillage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

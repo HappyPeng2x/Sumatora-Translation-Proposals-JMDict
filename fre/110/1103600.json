@@ -7,6 +7,15 @@
     ],
     [
       "[n, prowres] talon; méchant; comédien jouant des rôles de vilain"
+    ],
+    [
+      "coup de talon"
+    ],
+    [
+      "rôle de méchant"
+    ],
+    [
+      "inclinaison latérale d'un navire"
     ]
   ],
   "model": "qwen3:14b"

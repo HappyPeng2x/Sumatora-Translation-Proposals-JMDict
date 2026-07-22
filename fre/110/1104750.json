@@ -9,6 +9,9 @@
     [
       "équipe visiteuse",
       "équipe adverse lors d'un match"
+    ],
+    [
+      "équipe venue rendre visite"
     ]
   ],
   "model": "qwen3:14b"

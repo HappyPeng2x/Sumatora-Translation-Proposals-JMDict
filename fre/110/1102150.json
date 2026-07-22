@@ -1,0 +1,14 @@
+{
+  "seq": 1102150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "papaye",
+      "pawpaw"
+    ],
+    [
+      "papaye"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

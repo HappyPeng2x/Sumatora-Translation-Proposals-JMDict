@@ -5,6 +5,9 @@
     [
       "tricot à la main",
       "tricot fait à la main"
+    ],
+    [
+      "tricot fait à la main"
     ]
   ],
   "model": "qwen3:14b"

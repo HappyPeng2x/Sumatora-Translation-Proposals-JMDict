@@ -6,6 +6,11 @@
       "maison",
       "foyer",
       "domicile"
+    ],
+    [
+      "immeuble de logements",
+      "bâtiment de logements",
+      "résidence"
     ]
   ],
   "model": "qwen3:14b"

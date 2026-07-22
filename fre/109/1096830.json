@@ -1,0 +1,22 @@
+{
+  "seq": 1096830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "guidon",
+      "manette",
+      "poignée",
+      "volant"
+    ],
+    [
+      "volant de direction"
+    ],
+    [
+      "guidon; poignée de guidon"
+    ],
+    [
+      "pseudo; nom d'utilisateur; nom d'écran"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

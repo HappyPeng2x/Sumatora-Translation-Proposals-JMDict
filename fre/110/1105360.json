@@ -1,0 +1,21 @@
+{
+  "seq": 1105360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vidéo"
+    ],
+    [
+      "bande vidéo",
+      "cassette VHS"
+    ],
+    [
+      "enregistreur de bande vidéo",
+      "magnétoscope"
+    ],
+    [
+      "vidéo (court-métrage)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

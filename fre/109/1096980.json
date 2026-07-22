@@ -1,0 +1,11 @@
+{
+  "seq": 1096980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hamburger",
+      "sandwich composé de viande hachée, de fromage et de pain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

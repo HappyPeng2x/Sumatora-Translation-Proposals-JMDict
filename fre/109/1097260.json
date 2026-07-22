@@ -5,6 +5,9 @@
     [
       "art de sculpter des oiseaux",
       "art de faire des sculptures d'oiseaux"
+    ],
+    [
+      "l'art de sculpter des oiseaux"
     ]
   ],
   "model": "qwen3:14b"

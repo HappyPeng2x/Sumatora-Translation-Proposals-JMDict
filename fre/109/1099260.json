@@ -4,6 +4,18 @@
   "glosses": [
     [
       "Bach (compositeur allemand, 1685-1750)"
+    ],
+    [
+      "compositeur allemand",
+      "Carl Philipp Emmanuel Bach"
+    ],
+    [
+      "compositeur allemand",
+      "Wilhelm Friedemann Bach"
+    ],
+    [
+      "compositeur allemand",
+      "Johann Christian Bach"
     ]
   ],
   "model": "qwen3:14b"

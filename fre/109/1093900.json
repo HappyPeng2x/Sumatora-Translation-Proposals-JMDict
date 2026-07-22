@@ -1,0 +1,14 @@
+{
+  "seq": 1093900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "knocker"
+    ],
+    [
+      "joueur qui frappe le ballon pour l'entraîner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1101200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pirate",
+      "pirates"
+    ],
+    [
+      "pirates",
+      "plagiaires"
+    ],
+    [
+      "Pirates"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

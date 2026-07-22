@@ -6,6 +6,9 @@
       "pitting",
       "entrée dans les stands",
       "arrêt en stand"
+    ],
+    [
+      "aller aux toilettes (lors d'une sortie en boîte)"
     ]
   ],
   "model": "qwen3:14b"

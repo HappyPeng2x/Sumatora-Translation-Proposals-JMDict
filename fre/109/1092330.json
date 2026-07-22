@@ -6,6 +6,9 @@
       "nul",
       "néant",
       "rien"
+    ],
+    [
+      "zéro"
     ]
   ],
   "model": "qwen3:14b"

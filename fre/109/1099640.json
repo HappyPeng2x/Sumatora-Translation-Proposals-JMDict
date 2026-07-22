@@ -7,6 +7,9 @@
     ],
     [
       "ballast (pour la fondation d'une route ou d'un tracé ferroviaire)"
+    ],
+    [
+      "ballast (ferroviaire)"
     ]
   ],
   "model": "qwen3:14b"

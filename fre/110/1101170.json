@@ -1,0 +1,12 @@
+{
+  "seq": 1101170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intermédiaire",
+      "médiateur",
+      "personne qui facilite les négociations entre deux parties"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

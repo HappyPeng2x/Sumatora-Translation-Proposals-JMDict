@@ -1,0 +1,13 @@
+{
+  "seq": 1097970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bible"
+    ],
+    [
+      "bible (livre autoritaire dans un domaine particulier)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

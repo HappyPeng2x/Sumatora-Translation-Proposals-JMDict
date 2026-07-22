@@ -19,6 +19,12 @@
     [
       "forfait",
       "package (tour, voyage, etc.)"
+    ],
+    [
+      "revue manga de la période Meiji"
+    ],
+    [
+      "unité de mesure pour les emballages; boîtes; paquets; cartons"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1107250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "foyer (d'une lentille)",
+      "point de focalisation"
+    ],
+    [
+      "point (d'une discussion, par exemple, en phase, hors sujet)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

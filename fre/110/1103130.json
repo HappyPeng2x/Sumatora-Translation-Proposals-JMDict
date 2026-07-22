@@ -4,6 +4,9 @@
   "glosses": [
     [
       "ponctuation"
+    ],
+    [
+      "ponctuation (orthographe)"
     ]
   ],
   "model": "qwen3:14b"

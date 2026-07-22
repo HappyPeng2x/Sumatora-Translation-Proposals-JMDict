@@ -1,0 +1,10 @@
+{
+  "seq": 1100600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pourcentage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

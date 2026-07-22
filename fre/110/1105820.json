@@ -6,6 +6,10 @@
       "beauté",
       "charme",
       "attractivité"
+    ],
+    [
+      "femme élégante",
+      "belle femme"
     ]
   ],
   "model": "qwen3:14b"

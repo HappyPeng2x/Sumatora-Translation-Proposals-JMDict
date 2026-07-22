@@ -1,0 +1,13 @@
+{
+  "seq": 1095480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hybride"
+    ],
+    [
+      "hybride (logiciel pouvant fonctionner sur plusieurs systèmes d'exploitation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

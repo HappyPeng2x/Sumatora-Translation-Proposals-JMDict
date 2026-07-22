@@ -6,6 +6,10 @@
       "héros",
       "courage",
       "vaillance"
+    ],
+    [
+      "exploit",
+      "prouesse"
     ]
   ],
   "model": "qwen3:14b"

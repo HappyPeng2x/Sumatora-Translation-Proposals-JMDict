@@ -1,0 +1,18 @@
+{
+  "seq": 1101400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séché",
+      "sec (comme les cheveux)",
+      "rassis (comme du pain)"
+    ],
+    [
+      "séché",
+      "sec",
+      "craquant",
+      "poudreux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

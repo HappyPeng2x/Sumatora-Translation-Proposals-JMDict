@@ -1,0 +1,10 @@
+{
+  "seq": 1103440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "technique cinematographique ou photographique permettant de mettre en valeur plusieurs plans simultanement dans une image"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

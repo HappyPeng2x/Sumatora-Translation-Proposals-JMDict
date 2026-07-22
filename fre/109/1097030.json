@@ -1,0 +1,14 @@
+{
+  "seq": 1097030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaire",
+      "soldes"
+    ],
+    [
+      "vente de liquidation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1097310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "barbier",
+      "coiffeur",
+      "tondeuse",
+      "salon de coiffure",
+      "barbier (lieu de coiffure)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1093450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cahier"
+    ],
+    [
+      "note",
+      "prendre des notes",
+      "noter"
+    ],
+    [
+      "note musicale",
+      "son musical",
+      "note de musique"
+    ],
+    [
+      "ordinateur portable",
+      "notebook",
+      "ordinateur de poche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

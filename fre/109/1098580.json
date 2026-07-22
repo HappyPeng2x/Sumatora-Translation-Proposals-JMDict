@@ -1,0 +1,16 @@
+{
+  "seq": 1098580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrêt de bus"
+    ],
+    [
+      "station de bus de longue distance"
+    ],
+    [
+      "abri de bus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

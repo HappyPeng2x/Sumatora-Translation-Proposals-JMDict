@@ -6,6 +6,24 @@
       "liant",
       "liaison",
       "attache"
+    ],
+    [
+      "liaison",
+      "attache"
+    ],
+    [
+      "attache",
+      "couverture"
+    ],
+    [
+      "attache",
+      "fixation",
+      "sangle de ski"
+    ],
+    [
+      "attache",
+      "affectation",
+      "affectation de personnel"
     ]
   ],
   "model": "qwen3:14b"

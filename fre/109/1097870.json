@@ -1,0 +1,15 @@
+{
+  "seq": 1097870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "octet",
+      "travail (de: Arbeit)"
+    ],
+    [
+      "travailleur à temps partiel",
+      "travailleuse à temps partiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1092870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "négligence",
+      "ignorer",
+      "négliger",
+      "oublier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

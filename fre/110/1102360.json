@@ -1,0 +1,14 @@
+{
+  "seq": 1102360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "domaine public",
+      "droit"
+    ],
+    [
+      "logiciel libre de droit public"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

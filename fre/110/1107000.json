@@ -1,0 +1,19 @@
+{
+  "seq": 1107000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "période",
+      "point final"
+    ],
+    [
+      "époque",
+      "ère"
+    ],
+    [
+      "demi-temps",
+      "temps de jeu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,50 @@
+{
+  "seq": 1098760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrière-plan",
+      "arrières",
+      "dos",
+      "dos crawlé (natation)",
+      "revers (tennis)",
+      "soutien (protection, appui)"
+    ],
+    [
+      "arrière-plan",
+      "fond"
+    ],
+    [
+      "soutien",
+      "appui",
+      "partisan",
+      "financier"
+    ],
+    [
+      "reculer",
+      "retourner",
+      "marcher en arrière"
+    ],
+    [
+      "réverser (vitesse de recul)"
+    ],
+    [
+      "remboursement",
+      "restitution",
+      "reprise"
+    ],
+    [
+      "joueur de la défense"
+    ],
+    [
+      "nage sur le dos"
+    ],
+    [
+      "revers (en tennis)"
+    ],
+    [
+      "position canine (en termes sexuels)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1106870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pivot",
+      "pivot d'un mécanisme",
+      "pivot d'une porte"
+    ],
+    [
+      "point de rotation",
+      "centre de rotation"
+    ],
+    [
+      "point d'attache du gouvernail",
+      "pivot du gouvernail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

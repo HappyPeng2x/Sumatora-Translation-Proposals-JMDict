@@ -4,6 +4,9 @@
   "glosses": [
     [
       "pêche"
+    ],
+    [
+      "teinte de pêche"
     ]
   ],
   "model": "qwen3:14b"

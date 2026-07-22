@@ -10,6 +10,14 @@
     [
       "locuteur natif",
       "parlant langue maternelle"
+    ],
+    [
+      "natif",
+      "autochtone"
+    ],
+    [
+      "d'expression naturelle",
+      "d'origine maternelle"
     ]
   ],
   "model": "qwen3:14b"

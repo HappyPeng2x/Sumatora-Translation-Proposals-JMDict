@@ -6,6 +6,18 @@
       "panneau",
       "tableau",
       "comité"
+    ],
+    [
+      "tableau de bord"
+    ],
+    [
+      "support en bois pour peinture"
+    ],
+    [
+      "estrade; tableau de commande"
+    ],
+    [
+      "groupe"
     ]
   ],
   "model": "qwen3:14b"

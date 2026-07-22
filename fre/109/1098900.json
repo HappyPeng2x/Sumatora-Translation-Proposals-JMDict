@@ -1,0 +1,14 @@
+{
+  "seq": 1098900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "système d'exploitation",
+      "symbole",
+      "caractère",
+      "dans un document ou un programme informatique",
+      "utilisé pour indiquer une commande ou une opération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

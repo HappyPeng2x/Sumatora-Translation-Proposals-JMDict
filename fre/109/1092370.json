@@ -1,0 +1,10 @@
+{
+  "seq": 1092370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "locuteur natif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1107680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combattant",
+      "lutteur",
+      "boxeur"
+    ],
+    [
+      "boxeur"
+    ],
+    [
+      "avion de chasse",
+      "chasseur",
+      "avion de combat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

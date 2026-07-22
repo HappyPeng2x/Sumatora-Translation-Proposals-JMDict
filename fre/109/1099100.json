@@ -1,0 +1,35 @@
+{
+  "seq": 1099100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bogue (bug informatique)",
+      "sac"
+    ],
+    [
+      "arrière"
+    ],
+    [
+      "soutien"
+    ],
+    [
+      "défenseur"
+    ],
+    [
+      "marche arrière"
+    ],
+    [
+      "nage sur le dos"
+    ],
+    [
+      "sacoche"
+    ],
+    [
+      "coup de dos"
+    ],
+    [
+      "main"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

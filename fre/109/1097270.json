@@ -4,6 +4,9 @@
   "glosses": [
     [
       "appel d'oiseau"
+    ],
+    [
+      "flûte à oiseaux"
     ]
   ],
   "model": "qwen3:14b"

@@ -6,6 +6,9 @@
       "fait à la main",
       "artisanal",
       "manuel"
+    ],
+    [
+      "fait à la main"
     ]
   ],
   "model": "qwen3:14b"

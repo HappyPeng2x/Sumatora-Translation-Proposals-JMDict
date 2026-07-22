@@ -1,0 +1,11 @@
+{
+  "seq": 1104760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit d'accès",
+      "taxe d'entrée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,7 +5,9 @@
     [
       "hiérarchie"
     ],
-    []
+    [
+      "hiérarchie"
+    ]
   ],
   "model": "qwen3:14b"
 }

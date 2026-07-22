@@ -4,6 +4,9 @@
   "glosses": [
     [
       "parking"
+    ],
+    [
+      "stationnement"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,9 @@
     [
       "constructeur",
       "édificeur"
+    ],
+    [
+      "composant de lessives"
     ]
   ],
   "model": "qwen3:14b"

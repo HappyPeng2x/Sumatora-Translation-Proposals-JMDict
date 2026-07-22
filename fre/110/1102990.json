@@ -6,6 +6,14 @@
       "puissance",
       "force",
       "énergie"
+    ],
+    [
+      "énergie",
+      "dynamisme",
+      "volonté",
+      "enthousiasme",
+      "pouvoir",
+      "force intérieure"
     ]
   ],
   "model": "qwen3:14b"

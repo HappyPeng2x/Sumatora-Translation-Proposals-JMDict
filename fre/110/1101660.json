@@ -1,0 +1,18 @@
+{
+  "seq": 1101660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pachinko (billard électrique vertical)"
+    ],
+    [
+      "francisquet",
+      "balle de fronde"
+    ],
+    [
+      "pistolet",
+      "arme à feu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

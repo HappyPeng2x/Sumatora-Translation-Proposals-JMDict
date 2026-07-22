@@ -1,0 +1,15 @@
+{
+  "seq": 1103540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chauffage",
+      "radiateur"
+    ],
+    [
+      "four à gaz",
+      "four de cuisine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

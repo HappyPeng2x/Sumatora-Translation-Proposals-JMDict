@@ -1,0 +1,31 @@
+{
+  "seq": 1097120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "embarcadère"
+    ],
+    [
+      "(néerlandais) lieu de sommeil; (navire) cabine; cage"
+    ],
+    [
+      "(néerlandais) lieu de stationnement (pour taxi); quai (pour bus)"
+    ],
+    [
+      "(néerlandais) poésie; œuvres poétiques; vers"
+    ],
+    [
+      "(néerlandais) vers; verset; ligne de poème"
+    ],
+    [
+      "(néerlandais) naissance; origine; commencement; source"
+    ],
+    [
+      "(néerlandais) Bath"
+    ],
+    [
+      "(néerlandais) Barth"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

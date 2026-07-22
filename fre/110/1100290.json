@@ -1,0 +1,11 @@
+{
+  "seq": 1100290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ensemble (de produits)",
+      "bundling (logiciel avec matériel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

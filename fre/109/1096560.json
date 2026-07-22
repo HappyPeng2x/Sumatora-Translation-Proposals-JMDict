@@ -1,0 +1,20 @@
+{
+  "seq": 1096560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "beau",
+      "joli"
+    ],
+    [
+      "beau",
+      "joli",
+      "séduisant",
+      "attractif",
+      "élégant",
+      "mignon",
+      "agréable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

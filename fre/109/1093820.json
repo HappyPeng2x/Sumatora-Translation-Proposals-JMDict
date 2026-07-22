@@ -1,0 +1,16 @@
+{
+  "seq": 1093820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "connaissance technique",
+      "expertise",
+      "savoir-faire"
+    ],
+    [
+      "compétence",
+      "habileté pratique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

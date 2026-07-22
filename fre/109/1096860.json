@@ -1,0 +1,13 @@
+{
+  "seq": 1096860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hamburger"
+    ],
+    [
+      "galette de viande cuite à la poêle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

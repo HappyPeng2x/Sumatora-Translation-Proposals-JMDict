@@ -1,0 +1,16 @@
+{
+  "seq": 1099760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "variation",
+      "forme variée",
+      "version"
+    ],
+    [
+      "variété",
+      "forme musicale variée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1101180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pile"
+    ],
+    [
+      "réacteur à neutrons lents"
+    ],
+    [
+      "fleur (d'un tissu)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

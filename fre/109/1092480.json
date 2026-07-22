@@ -5,6 +5,9 @@
     [
       "plaquette d'identification",
       "plaquette portant un nom"
+    ],
+    [
+      "plaquette d'identification de type"
     ]
   ],
   "model": "qwen3:14b"

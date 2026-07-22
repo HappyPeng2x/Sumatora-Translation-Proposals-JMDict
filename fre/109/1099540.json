@@ -9,6 +9,14 @@
     [
       "économie bulle",
       "économie spéculative"
+    ],
+    [
+      "bulle",
+      "bulle de savon"
+    ],
+    [
+      "bulle d'air",
+      "bulle thermique"
     ]
   ],
   "model": "qwen3:14b"

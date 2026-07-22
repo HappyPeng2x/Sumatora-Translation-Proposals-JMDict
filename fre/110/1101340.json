@@ -5,6 +5,9 @@
     [
       "poudreux",
       "poussiéreux"
+    ],
+    [
+      "pulverulent"
     ]
   ],
   "model": "qwen3:14b"

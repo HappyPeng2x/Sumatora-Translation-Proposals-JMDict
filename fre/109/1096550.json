@@ -4,6 +4,10 @@
   "glosses": [
     [
       "hangul (script coréen)"
+    ],
+    [
+      "mammifère",
+      "cerf du Kazakhstan"
     ]
   ],
   "model": "qwen3:14b"

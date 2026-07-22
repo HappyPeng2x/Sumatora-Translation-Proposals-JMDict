@@ -1,0 +1,14 @@
+{
+  "seq": 1094870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concours",
+      "compétition",
+      "course",
+      "défi",
+      "épreuve"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

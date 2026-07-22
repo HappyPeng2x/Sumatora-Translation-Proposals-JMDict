@@ -1,0 +1,14 @@
+{
+  "seq": 1106550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nain",
+      "pygmée"
+    ],
+    [
+      "nain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

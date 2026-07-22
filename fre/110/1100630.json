@@ -9,6 +9,11 @@
     [
       "personnalité télévisée",
       "célébrité"
+    ],
+    [
+      "personnalité célèbre",
+      "personnalité connue",
+      "célébrité"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,9 @@
     [
       "reconnaissance du nom",
       "réputation établie"
+    ],
+    [
+      "valeur d'un nom; pouvoir d'attraction d'un nom"
     ]
   ],
   "model": "qwen3:14b"

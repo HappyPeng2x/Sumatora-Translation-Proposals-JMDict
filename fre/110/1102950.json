@@ -4,6 +4,11 @@
   "glosses": [
     [
       "palette"
+    ],
+    [
+      "table de changement d'outils",
+      "palette de couleurs",
+      "mélange de couleurs"
     ]
   ],
   "model": "qwen3:14b"

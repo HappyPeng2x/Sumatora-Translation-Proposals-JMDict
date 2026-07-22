@@ -1,0 +1,27 @@
+{
+  "seq": 1101440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemin"
+    ],
+    [
+      "passer (par ex. sauter un coup, etc.)",
+      "réussir (par ex. réussir un examen, etc.)"
+    ],
+    [
+      "passage",
+      "passe",
+      "carte d'abonnement",
+      "laisser-passer",
+      "réussite"
+    ],
+    [
+      "passer (son tour)"
+    ],
+    [
+      "passer (lorsqu'il n'y a plus de coups utiles)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1107230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur de relève",
+      "remplaçant en baseball"
+    ],
+    [
+      "remplaçant",
+      "personne prête à prendre la relève en cas de besoin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

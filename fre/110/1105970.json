@@ -1,0 +1,16 @@
+{
+  "seq": 1105970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affiche",
+      "poster",
+      "prospectus",
+      "villa"
+    ],
+    [
+      "villa"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

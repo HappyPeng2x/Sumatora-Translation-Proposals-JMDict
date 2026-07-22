@@ -1,0 +1,19 @@
+{
+  "seq": 1095670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison"
+    ],
+    [
+      "serre"
+    ],
+    [
+      "musique house"
+    ],
+    [
+      "retourne dans ta cage (ton lit, etc.) !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

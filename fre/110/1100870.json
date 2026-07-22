@@ -5,6 +5,13 @@
     [
       "prêtre",
       "pasteur"
+    ],
+    [
+      "chrétiens vivant en secret sous terre au Japon",
+      "chrétiens vivant en secret dans l'ombre au Japon"
+    ],
+    [
+      "christianisme"
     ]
   ],
   "model": "qwen3:14b"

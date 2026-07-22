@@ -1,0 +1,12 @@
+{
+  "seq": 1107080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prélèvement (illégal) d'une partie des revenus d'autrui",
+      "récupérer une commission secrète",
+      "siphonner une partie des bénéfices"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

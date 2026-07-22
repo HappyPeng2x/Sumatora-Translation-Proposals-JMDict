@@ -1,0 +1,14 @@
+{
+  "seq": 1099970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ballet"
+    ],
+    [
+      "volleyball",
+      "volley"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

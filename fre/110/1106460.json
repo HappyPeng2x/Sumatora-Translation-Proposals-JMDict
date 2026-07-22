@@ -4,6 +4,9 @@
   "glosses": [
     [
       "bombe atomique"
+    ],
+    [
+      "éclaircie et explosion d'une bombe atomique"
     ]
   ],
   "model": "qwen3:14b"

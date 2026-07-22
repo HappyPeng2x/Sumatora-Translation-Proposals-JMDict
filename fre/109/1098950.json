@@ -10,6 +10,9 @@
     [
       "numéro sur le dos",
       "numéro de maillot"
+    ],
+    [
+      "numéro de dos"
     ]
   ],
   "model": "qwen3:14b"

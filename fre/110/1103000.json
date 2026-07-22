@@ -1,0 +1,11 @@
+{
+  "seq": 1103000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "renforcement",
+      "amélioration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

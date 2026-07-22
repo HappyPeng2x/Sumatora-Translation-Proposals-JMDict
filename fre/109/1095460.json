@@ -6,6 +6,14 @@
       "élégant",
       "haut de gamme",
       "raffiné"
+    ],
+    [
+      "un personne qui se donne trop d'air intellectuel",
+      "une personne qui se montre excessivement intellectuelle"
+    ],
+    [
+      "quelque chose d'extrêmement intellectuel",
+      "une chose d'esprit élevé"
     ]
   ],
   "model": "qwen3:14b"

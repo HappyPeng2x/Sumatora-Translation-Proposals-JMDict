@@ -1,0 +1,21 @@
+{
+  "seq": 1101710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "package"
+    ],
+    [
+      "emballage"
+    ],
+    [
+      "ensemble",
+      "programme",
+      "paquet"
+    ],
+    [
+      "forfait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
