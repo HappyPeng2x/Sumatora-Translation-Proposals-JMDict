@@ -1,0 +1,14 @@
+{
+  "seq": 1216430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "copie littérale",
+      "copie intégrale"
+    ],
+    [
+      "grande ressemblance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

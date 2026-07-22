@@ -1,0 +1,14 @@
+{
+  "seq": 1217040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "côte",
+      "rive"
+    ],
+    [
+      "pente abrupte; falaise; rocher; côtière; littoral"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1215290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bientôt",
+      "sous peu"
+    ],
+    [
+      "peu de temps pour ...; sans avoir le temps de ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

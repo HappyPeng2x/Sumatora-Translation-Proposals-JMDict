@@ -1,0 +1,25 @@
+{
+  "seq": 1216010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Kantou (région de Tokyo)"
+    ],
+    [
+      "région orientale du Japon"
+    ],
+    [
+      "gouvernement de Kamakura"
+    ],
+    [
+      "administration régionale de Kantō"
+    ],
+    [
+      "gouvernement d'Edo"
+    ],
+    [
+      "province du Guangdong; Kwantung (province du sud-est de la Chine; sur la mer du Sud-Chine; anciennement province de Mandchourie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

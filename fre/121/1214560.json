@@ -1,0 +1,19 @@
+{
+  "seq": 1214560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boîte de conserve",
+      "conserve"
+    ],
+    [
+      "confinement",
+      "restriction"
+    ],
+    [
+      "être enfermé",
+      "être coincé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1215640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cancre",
+      "idiot",
+      "stupide"
+    ],
+    [
+      "idiot",
+      "imbécile",
+      "sot"
+    ],
+    [
+      "stupide",
+      "absurde",
+      "insensé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

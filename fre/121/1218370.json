@@ -1,0 +1,15 @@
+{
+  "seq": 1218370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compromis (en danger)"
+    ],
+    [
+      "presque",
+      "à peine",
+      "à la limite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

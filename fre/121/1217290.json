@@ -1,0 +1,14 @@
+{
+  "seq": 1217290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caverne",
+      "grotte"
+    ],
+    [
+      "grotte habitée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

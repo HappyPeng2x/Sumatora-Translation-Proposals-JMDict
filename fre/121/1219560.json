@@ -1,0 +1,75 @@
+{
+  "seq": 1219560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "approcher",
+      "envoyer (?)",
+      "mettre de côté",
+      "rassembler"
+    ],
+    [
+      "rapprocher",
+      "rassembler",
+      "réunir",
+      "collecter"
+    ],
+    [
+      "transmettre",
+      "envoyer",
+      "contribuer",
+      "donner"
+    ],
+    [
+      "faire passer",
+      "faire rendre visite"
+    ],
+    [
+      "ajouter",
+      "ajouter (des chiffres)"
+    ],
+    [
+      "avoir des sentiments pour",
+      "aimer",
+      "apprécier",
+      "être attaché à"
+    ],
+    [
+      "se fier à",
+      "dépendre de",
+      "reposer sur"
+    ],
+    [
+      "utiliser comme prétexte",
+      "prendre comme excuse"
+    ],
+    [
+      "mettre de côté",
+      "écarter",
+      "laisser de côté"
+    ],
+    [
+      "pousser",
+      "forcer",
+      "presser",
+      "pousser vers"
+    ],
+    [
+      "inclure",
+      "accueillir",
+      "admettre",
+      "laisser entrer"
+    ],
+    [
+      "établir une connexion",
+      "prendre quelque chose comme prétexte"
+    ],
+    [
+      "charger",
+      "attaquer",
+      "avancer en force",
+      "bondir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

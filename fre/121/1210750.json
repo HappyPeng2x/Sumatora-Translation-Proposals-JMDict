@@ -1,0 +1,48 @@
+{
+  "seq": 1210750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "addition",
+      "calcul",
+      "compte",
+      "prendre en compte"
+    ],
+    [
+      "facture",
+      "compte",
+      "règlement",
+      "paiement",
+      "liquidation"
+    ],
+    [
+      "considération",
+      "allowance"
+    ],
+    [
+      "calculer",
+      "compter",
+      "évaluer"
+    ],
+    [
+      "facture",
+      "paiement",
+      "réglement",
+      "équilibre",
+      "règlement de compte"
+    ],
+    [
+      "estimation",
+      "approximation"
+    ],
+    [
+      "calcul",
+      "compte rendu",
+      "liquidation"
+    ],
+    [
+      "fonctionnaire des finances"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

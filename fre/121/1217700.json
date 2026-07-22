@@ -1,0 +1,24 @@
+{
+  "seq": 1217700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "insister",
+      "persister",
+      "tenir ferme"
+    ],
+    [
+      "insister sur",
+      "maintenir son opinion"
+    ],
+    [
+      "rester sur place",
+      "tenir son poste",
+      "refuser de bouger"
+    ],
+    [
+      "tenir sa position"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

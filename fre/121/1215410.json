@@ -1,0 +1,22 @@
+{
+  "seq": 1215410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace",
+      "intervalle",
+      "ouverture"
+    ],
+    [
+      "marge",
+      "latitude",
+      "interruption"
+    ],
+    [
+      "désaccord",
+      "conflit",
+      "différend"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -11,6 +11,11 @@
       "hybride",
       "croisement",
       "métis (en biologie)"
+    ],
+    [
+      "chose intermédiaire",
+      "objet intermédiaire",
+      "élément intermédiaire"
     ]
   ],
   "model": "qwen3:14b"

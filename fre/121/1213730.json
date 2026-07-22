@@ -1,0 +1,13 @@
+{
+  "seq": 1213730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "surveillant",
+      "superviseur",
+      "directeur",
+      "gardien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

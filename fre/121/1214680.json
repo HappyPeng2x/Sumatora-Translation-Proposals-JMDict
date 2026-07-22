@@ -1,0 +1,20 @@
+{
+  "seq": 1214680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "essentiel",
+      "important",
+      "principal"
+    ],
+    [
+      "essentiel",
+      "principal",
+      "essentiel",
+      "principal",
+      "essentiel",
+      "principal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

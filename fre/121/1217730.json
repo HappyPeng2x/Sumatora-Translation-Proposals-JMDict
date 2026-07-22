@@ -1,0 +1,46 @@
+{
+  "seq": 1217730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "face",
+      "figure",
+      "visage"
+    ],
+    [
+      "expression",
+      "mine",
+      "physionomie"
+    ],
+    [
+      "honneur",
+      "dignité",
+      "prestige"
+    ],
+    [
+      "influence",
+      "notoriété",
+      "crédibilité",
+      "pouvoir",
+      "moyens"
+    ],
+    [
+      "représentant",
+      "visage (d'une entreprise)",
+      "marque distinctive",
+      "exemple"
+    ],
+    [
+      "membres",
+      "participants",
+      "personnes présentes",
+      "liste des personnes impliquées"
+    ],
+    [
+      "maquillage",
+      "soins de la peau",
+      "cosmétiques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

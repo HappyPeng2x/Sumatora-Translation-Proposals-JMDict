@@ -1,0 +1,13 @@
+{
+  "seq": 1216720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "profit net",
+      "bénéfice net",
+      "gain sans risque",
+      "bénéfice sans investissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

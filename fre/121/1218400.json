@@ -1,0 +1,23 @@
+{
+  "seq": 1218400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dangerieux",
+      "critique",
+      "grave",
+      "incertain",
+      "douteux",
+      "boiteux",
+      "étroit",
+      "près"
+    ],
+    [
+      "douteux",
+      "inquiétant",
+      "suspect",
+      "incertain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1216890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inclure",
+      "y compris"
+    ],
+    [
+      "instruire",
+      "faire comprendre"
+    ],
+    [
+      "inclure (une nuance)",
+      "ajouter (une implication)"
+    ],
+    [
+      "mettre dans la bouche (de quelqu'un)"
+    ],
+    [
+      "imprégner de saveur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

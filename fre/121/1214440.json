@@ -1,0 +1,36 @@
+{
+  "seq": 1214440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "desserrer",
+      "relâcher"
+    ],
+    [
+      "détendre",
+      "relâcher",
+      "faire baisser la tension"
+    ],
+    [
+      "assouplit",
+      "alléger",
+      "détendre (une règle, une restriction)"
+    ],
+    [
+      "ralentir",
+      "faire ralentir",
+      "détendre (la vitesse)"
+    ],
+    [
+      "adoucir",
+      "rendre plus progressif",
+      "faire plus doux (une pente)"
+    ],
+    [
+      "assoupir",
+      "rendre moins dur",
+      "adoucir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

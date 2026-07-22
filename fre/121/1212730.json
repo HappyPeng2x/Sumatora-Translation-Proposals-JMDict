@@ -1,0 +1,16 @@
+{
+  "seq": 1212730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expression courante",
+      "locution idiomatique"
+    ],
+    [
+      "expression idiomatique",
+      "expression propre à une langue",
+      "caractère propre à une langue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

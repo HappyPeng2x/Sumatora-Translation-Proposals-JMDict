@@ -1,0 +1,22 @@
+{
+  "seq": 1211960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "générosité",
+      "indulgence",
+      "tolérance"
+    ],
+    [
+      "généreux",
+      "magnanime",
+      "tolérant",
+      "indulgent",
+      "largesse",
+      "bonté",
+      "mildesse",
+      "ouverture d'esprit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

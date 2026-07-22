@@ -1,0 +1,13 @@
+{
+  "seq": 1216530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lavage (de kimono, de couvertures, etc.) sans les défaire ; lavage en bloc"
+    ],
+    [
+      "lavage complet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

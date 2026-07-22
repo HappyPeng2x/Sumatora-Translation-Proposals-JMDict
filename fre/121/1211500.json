@@ -1,0 +1,12 @@
+{
+  "seq": 1211500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "produit fini",
+      "marchandise achevée",
+      "article terminé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

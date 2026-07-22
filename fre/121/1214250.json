@@ -1,0 +1,16 @@
+{
+  "seq": 1214250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poste de direction",
+      "poste de gestion",
+      "fonction de direction",
+      "personne en poste de direction"
+    ],
+    [
+      "personne occupant un poste administratif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

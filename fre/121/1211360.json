@@ -1,0 +1,11 @@
+{
+  "seq": 1211360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être hors de soi",
+      "ne plus pouvoir supporter quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

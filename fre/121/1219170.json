@@ -1,0 +1,19 @@
+{
+  "seq": 1219170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "base",
+      "fondement"
+    ],
+    [
+      "roche de fond",
+      "bedrock"
+    ],
+    [
+      "plateforme",
+      "platform"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,13 @@
     [
       "usage officiel",
       "affaires gouvernementales"
+    ],
+    [
+      "affaire administrative",
+      "affaire d'État"
+    ],
+    [
+      "approvisionnement officiel"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,15 @@
+{
+  "seq": 1218960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adroit",
+      "habile"
+    ],
+    [
+      "malin",
+      "ingénieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

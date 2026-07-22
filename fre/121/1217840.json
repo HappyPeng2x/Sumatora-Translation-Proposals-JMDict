@@ -1,0 +1,15 @@
+{
+  "seq": 1217840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "équipe",
+      "membre",
+      "personnel"
+    ],
+    [
+      "annonce des affrontements du lendemain dans le sumo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

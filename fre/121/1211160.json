@@ -1,0 +1,14 @@
+{
+  "seq": 1211160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rouler",
+      "s'enrouler"
+    ],
+    [
+      "être déroulé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

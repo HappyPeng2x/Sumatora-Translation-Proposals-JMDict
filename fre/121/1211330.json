@@ -1,0 +1,17 @@
+{
+  "seq": 1211330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ne pas pouvoir supporter",
+      "perdre patience"
+    ],
+    [
+      "ne pas pouvoir supporter",
+      "perdre patience",
+      "céder",
+      "s'effondrer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

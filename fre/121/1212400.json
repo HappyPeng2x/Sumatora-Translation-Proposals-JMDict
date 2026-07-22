@@ -1,0 +1,11 @@
+{
+  "seq": 1212400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sentiment",
+      "sentimentalité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1218440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "blessure",
+      "dommage",
+      "mal"
+    ],
+    [
+      "danger",
+      "risque de blessure",
+      "menace pour la vie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

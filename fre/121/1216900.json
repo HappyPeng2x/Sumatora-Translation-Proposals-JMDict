@@ -9,6 +9,18 @@
     [
       "implication matérielle",
       "conditionnelle matérielle"
+    ],
+    [
+      "impliquer"
+    ],
+    [
+      "connotation"
+    ],
+    [
+      "implication; relation logique de type si-alors"
+    ],
+    [
+      "implicature; implication"
     ]
   ],
   "model": "qwen3:14b"

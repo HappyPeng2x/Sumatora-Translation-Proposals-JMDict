@@ -1,0 +1,22 @@
+{
+  "seq": 1219300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étrange",
+      "bizarre",
+      "extraordinaire",
+      "mystérieux"
+    ],
+    [
+      "impardonnable; impudique"
+    ],
+    [
+      "mystère; étrangeté; inquiétant; inexplicable"
+    ],
+    [
+      "impensable; déconcertant; audace; impudence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

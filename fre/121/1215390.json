@@ -1,0 +1,14 @@
+{
+  "seq": 1215390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intermède kyogenien dans un spectacle de noh",
+      "scène courte intercalée dans un noh, jouée par un acteur kyogenien"
+    ],
+    [
+      "entr'acte comique entre deux actes d'une pièce de jōruri; de kabuki; etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

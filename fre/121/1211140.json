@@ -1,0 +1,41 @@
+{
+  "seq": 1211140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre",
+      "rouleau",
+      "volume"
+    ],
+    [
+      "bobine",
+      "roue",
+      "enroulement"
+    ],
+    [
+      "volume",
+      "tome"
+    ],
+    [
+      "accélération",
+      "raccourcissement"
+    ],
+    [
+      "talon",
+      "partie inférieure"
+    ],
+    [
+      "chimaki",
+      "pâtisserie roulée en forme de cylindre"
+    ],
+    [
+      "unité de mesure pour les rouleaux de livres",
+      "unité pour les bobines"
+    ],
+    [
+      "unité de mesure pour les rotations",
+      "unité pour les tours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

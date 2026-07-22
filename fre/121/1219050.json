@@ -1,0 +1,13 @@
+{
+  "seq": 1219050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "première pierre"
+    ],
+    [
+      "pierre angulaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

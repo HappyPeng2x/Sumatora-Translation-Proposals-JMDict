@@ -1,0 +1,13 @@
+{
+  "seq": 1218480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gestion de crise"
+    ],
+    [
+      "gestion des risques"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

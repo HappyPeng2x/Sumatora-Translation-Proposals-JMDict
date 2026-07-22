@@ -1,0 +1,15 @@
+{
+  "seq": 1213280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "environnement",
+      "milieu",
+      "situation"
+    ],
+    [
+      "voisinage immédiat; zone limitrophe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "roast complet",
       "viande entière rôtie"
+    ],
+    [
+      "animal entièrement rôti"
     ]
   ],
   "model": "qwen3:14b"

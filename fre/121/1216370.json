@@ -4,6 +4,9 @@
   "glosses": [
     [
       "prix officiel"
+    ],
+    [
+      "prix indiqué sur un étiquette de prix officiel"
     ]
   ],
   "model": "qwen3:14b"

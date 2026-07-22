@@ -10,6 +10,21 @@
     [
       "mel",
       "fruits du melon"
+    ],
+    [
+      "thé vert sencha de très haute qualité"
+    ],
+    [
+      "rosée sucrée"
+    ],
+    [
+      "sake épais et sucré"
+    ],
+    [
+      "eau sucrée"
+    ],
+    [
+      "merveilleux !; délicieux !; c'est le bonheur !"
     ]
   ],
   "model": "qwen3:14b"

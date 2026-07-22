@@ -1,0 +1,15 @@
+{
+  "seq": 1215150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retour de courant",
+      "reflux",
+      "écoulement inverse"
+    ],
+    [
+      "courant équatorial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

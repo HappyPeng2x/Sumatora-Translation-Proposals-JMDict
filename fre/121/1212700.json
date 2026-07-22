@@ -1,0 +1,14 @@
+{
+  "seq": 1212700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coutume",
+      "us et coutumes"
+    ],
+    [
+      "s'habituer (à)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

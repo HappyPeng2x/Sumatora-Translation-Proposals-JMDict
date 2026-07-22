@@ -1,0 +1,29 @@
+{
+  "seq": 1213680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garde",
+      "observation",
+      "surveillance"
+    ],
+    [
+      "surveiller",
+      "veiller sur",
+      "contrôler"
+    ],
+    [
+      "surveillance",
+      "surveillence",
+      "observation",
+      "contrôle",
+      "vigilance"
+    ],
+    [
+      "peine complémentaire",
+      "sanction supplémentaire",
+      "peine accessoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

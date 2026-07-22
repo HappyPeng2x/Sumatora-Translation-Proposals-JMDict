@@ -1,0 +1,16 @@
+{
+  "seq": 1215930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "douanes",
+      "droits de douane"
+    ],
+    [
+      "taxe de passage",
+      "douane intérieure",
+      "taxe de pont"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1217260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vue perçante",
+      "pénétration",
+      "acuité visuelle"
+    ],
+    [
+      "don de l'observation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

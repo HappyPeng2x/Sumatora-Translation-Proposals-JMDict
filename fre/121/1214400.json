@@ -1,0 +1,12 @@
+{
+  "seq": 1214400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "simplification",
+      "abréviation",
+      "raccourcissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

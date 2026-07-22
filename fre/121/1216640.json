@@ -6,6 +6,11 @@
       "plafond voûté",
       "plafond en dôme",
       "plafond circulaire"
+    ],
+    [
+      "plafond voûté",
+      "plafond en dôme",
+      "plafond circulaire"
     ]
   ],
   "model": "qwen3:14b"

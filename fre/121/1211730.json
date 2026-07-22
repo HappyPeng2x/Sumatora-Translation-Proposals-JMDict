@@ -1,0 +1,20 @@
+{
+  "seq": 1211730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autorités",
+      "bureau administratif"
+    ],
+    [
+      "apparat étatique"
+    ],
+    [
+      "ministère"
+    ],
+    [
+      "palais du Premier ministre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

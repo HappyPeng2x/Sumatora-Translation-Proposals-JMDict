@@ -1,0 +1,19 @@
+{
+  "seq": 1213060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sueur",
+      "transpiration"
+    ],
+    [
+      "humidité",
+      "condensation"
+    ],
+    [
+      "gloups",
+      "ah !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

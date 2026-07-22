@@ -1,0 +1,20 @@
+{
+  "seq": 1218120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comploter",
+      "projeter de",
+      "se proposer de",
+      "tenter de"
+    ],
+    [
+      "tenter",
+      "entreprendre"
+    ],
+    [
+      "se tenir sur la pointe des pieds"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

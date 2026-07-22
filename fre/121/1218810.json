@@ -1,0 +1,14 @@
+{
+  "seq": 1218810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comédie"
+    ],
+    [
+      "incident humoristique qui provoque malgré soi un rire involontaire",
+      "situation comique figurée; clownerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

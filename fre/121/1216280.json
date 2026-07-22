@@ -1,0 +1,25 @@
+{
+  "seq": 1216280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "absolument",
+      "comme si",
+      "entièrment",
+      "on dirait que",
+      "totalement"
+    ],
+    [
+      "du tout",
+      "pas du tout",
+      "pas le moins du monde"
+    ],
+    [
+      "vraiment",
+      "complètement",
+      "entièrement",
+      "très"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

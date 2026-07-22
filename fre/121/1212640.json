@@ -1,0 +1,15 @@
+{
+  "seq": 1212640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "larmes d'émotion",
+      "larmes de gratitude"
+    ],
+    [
+      "larmes de gratitude",
+      "larmes de reconnaissance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

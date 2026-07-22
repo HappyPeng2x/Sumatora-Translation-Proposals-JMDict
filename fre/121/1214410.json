@@ -1,0 +1,32 @@
+{
+  "seq": 1214410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lâche (nœud)",
+      "ralenti"
+    ],
+    [
+      "lenient; indulgent"
+    ],
+    [
+      "doux; arrondi"
+    ],
+    [
+      "lent; faible"
+    ],
+    [
+      "moelleux; non ferme"
+    ],
+    [
+      "difficile; dur"
+    ],
+    [
+      "sans élan; plat; doux; peu prononcé; calme; tranquille"
+    ],
+    [
+      "généreux; magnanime"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "personne qui préfère les choses sucrées aux boissons alcoolisées",
       "personne ayant un faible pour le sucré"
+    ],
+    [
+      "personne qui préfère les sucreries à l'alcool"
     ]
   ],
   "model": "qwen3:14b"

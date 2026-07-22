@@ -1,0 +1,15 @@
+{
+  "seq": 1212390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sensibilité"
+    ],
+    [
+      "réceptivité",
+      "susceptibilité",
+      "sensibilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

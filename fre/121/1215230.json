@@ -1,0 +1,40 @@
+{
+  "seq": 1215230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entre",
+      "espace",
+      "intervalle",
+      "pendant"
+    ],
+    [
+      "période",
+      "durée",
+      "intervalle"
+    ],
+    [
+      "entre"
+    ],
+    [
+      "parmi"
+    ],
+    [
+      "rapports",
+      "relation"
+    ],
+    [
+      "milieu",
+      "moyen",
+      "point médian"
+    ],
+    [
+      "du fait de",
+      "parce que"
+    ],
+    [
+      "en raison de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

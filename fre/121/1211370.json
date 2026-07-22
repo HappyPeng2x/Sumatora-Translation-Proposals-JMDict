@@ -13,6 +13,21 @@
       "être rassasié",
       "avoir son content",
       "prendre pleinement plaisir"
+    ],
+    [
+      "maîtrise totale",
+      "habileté exceptionnelle",
+      "expertise",
+      "compétence parfaite"
+    ],
+    [
+      "personne douée",
+      "individu particulièrement capable"
+    ],
+    [
+      "grande satisfaction",
+      "plénitude",
+      "contentement absolu"
     ]
   ],
   "model": "qwen3:14b"

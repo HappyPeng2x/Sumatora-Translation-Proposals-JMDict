@@ -1,0 +1,19 @@
+{
+  "seq": 1214120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ensemble de instruments à vent et à cordes ; musique"
+    ],
+    [
+      "exécution musicale (spécifiquement gagaku)"
+    ],
+    [
+      "kangen (genre calme de la musique gagaku)"
+    ],
+    [
+      "kangen (accompagnement solennel du kabuki avec un ensemble comprenant le shamisen; un grand tambour et une flûte transversale)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

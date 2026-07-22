@@ -1,0 +1,43 @@
+{
+  "seq": 1211200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enrouler",
+      "envelopper",
+      "rouler"
+    ],
+    [
+      "envelopper",
+      "recouvrir"
+    ],
+    [
+      "flanquer",
+      "contourner"
+    ],
+    [
+      "lier",
+      "relier"
+    ],
+    [
+      "avancer",
+      "progresser"
+    ],
+    [
+      "contourner",
+      "encercler"
+    ],
+    [
+      "tourner",
+      "se mouvoir en cercle"
+    ],
+    [
+      "se déplacer en spirale"
+    ],
+    [
+      "respirer difficilement",
+      "haletant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1216150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "capitulation",
+      "effondrement",
+      "reddition"
+    ],
+    [
+      "chute (d'une ville, d'une forteresse, etc.) ; reddition"
+    ],
+    [
+      "chute (d'un poste, d'un rang, etc.) ; démission ; réduction de grade"
+    ],
+    [
+      "cédant (à la persuasion de quelqu'un) ; se laisser convaincre ; s'incliner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

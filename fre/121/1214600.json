@@ -6,6 +6,18 @@
       "pinceau et encre",
       "écriture",
       "dessin"
+    ],
+    [
+      "poésie",
+      "écrire en vers"
+    ],
+    [
+      "littérature",
+      "œuvre littéraire"
+    ],
+    [
+      "peinture",
+      "acte de peindre"
     ]
   ],
   "model": "qwen3:14b"

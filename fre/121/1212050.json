@@ -1,0 +1,27 @@
+{
+  "seq": 1212050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interférence",
+      "intervention",
+      "se mêler de (suru)"
+    ],
+    [
+      "intervention étrangère"
+    ],
+    [
+      "interférence"
+    ],
+    [
+      "intervention"
+    ],
+    [
+      "intervention"
+    ],
+    [
+      "interférence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

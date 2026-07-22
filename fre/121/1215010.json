@@ -1,0 +1,32 @@
+{
+  "seq": 1215010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concept",
+      "idée"
+    ],
+    [
+      "sens (du devoir)"
+    ],
+    [
+      "acceptation",
+      "résignation"
+    ],
+    [
+      "méditation",
+      "contemplation"
+    ],
+    [
+      "résignation",
+      "acceptation",
+      "soumission",
+      "patience"
+    ],
+    [
+      "méditation bouddhiste",
+      "conscience"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

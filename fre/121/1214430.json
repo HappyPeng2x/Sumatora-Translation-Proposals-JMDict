@@ -1,0 +1,36 @@
+{
+  "seq": 1214430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se desserrer",
+      "se relâcher"
+    ],
+    [
+      "se détendre",
+      "se relaxer",
+      "faire tomber sa garde"
+    ],
+    [
+      "se relâcher",
+      "devenir laxiste",
+      "assoupir (la surveillance)"
+    ],
+    [
+      "devenir plus doux",
+      "se dégeler partiellement",
+      "s'adoucir"
+    ],
+    [
+      "diminuer",
+      "ralentir",
+      "se réduire"
+    ],
+    [
+      "baisser légèrement",
+      "chuter légèrement",
+      "se rétracter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

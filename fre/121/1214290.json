@@ -1,0 +1,21 @@
+{
+  "seq": 1214290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bref",
+      "concis",
+      "laconique"
+    ],
+    [
+      "concis",
+      "bref",
+      "laconique",
+      "kerné",
+      "succinct",
+      "brève mais percutante",
+      "sommaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

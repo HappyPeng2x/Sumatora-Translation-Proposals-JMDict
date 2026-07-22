@@ -1,0 +1,11 @@
+{
+  "seq": 1215880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chose qui préoccupe",
+      "sujet d'intérêt"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

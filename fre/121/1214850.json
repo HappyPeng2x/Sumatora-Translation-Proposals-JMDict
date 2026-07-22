@@ -1,0 +1,11 @@
+{
+  "seq": 1214850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bus de tourisme",
+      "autobus de visites"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1213930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apercevoir",
+      "détecter",
+      "remarquer",
+      "prendre conscience de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

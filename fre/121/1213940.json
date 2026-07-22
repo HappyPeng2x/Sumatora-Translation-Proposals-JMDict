@@ -1,0 +1,12 @@
+{
+  "seq": 1213940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soigner",
+      "prendre en charge",
+      "accompagner (sur son lit de mort)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

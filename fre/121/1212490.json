@@ -1,0 +1,16 @@
+{
+  "seq": 1212490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "émerveillement",
+      "admiration"
+    ],
+    [
+      "pleurer",
+      "gémir",
+      "se lamenter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

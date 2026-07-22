@@ -1,0 +1,27 @@
+{
+  "seq": 1215210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "évaluation",
+      "appréciation",
+      "expertise"
+    ],
+    [
+      "donner un conseil juridique"
+    ],
+    [
+      "évaluer; estimer; juger; chiffrer"
+    ],
+    [
+      "avis; évaluation; expertise"
+    ],
+    [
+      "évaluation; estimation; chiffrage"
+    ],
+    [
+      "consultation juridique; conseil juridique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

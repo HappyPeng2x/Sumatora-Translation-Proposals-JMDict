@@ -1,0 +1,49 @@
+{
+  "seq": 1214630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courage",
+      "foie"
+    ],
+    [
+      "courage",
+      "audace",
+      "désinvolture",
+      "démérité"
+    ],
+    [
+      "le point essentiel",
+      "l'élément crucial",
+      "le fait principal"
+    ],
+    [
+      "courage",
+      "audace",
+      "désinvolture",
+      "démérité"
+    ],
+    [
+      "l'essence",
+      "le fond",
+      "l'essentiel",
+      "le principal"
+    ],
+    [
+      "une réflexion",
+      "une considération",
+      "une réflexion",
+      "raison"
+    ],
+    [
+      "le foie"
+    ],
+    [
+      "courage",
+      "audace",
+      "fermeté",
+      "désinvolture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

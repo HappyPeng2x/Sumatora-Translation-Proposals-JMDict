@@ -1,0 +1,14 @@
+{
+  "seq": 1218420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tuer",
+      "blesser"
+    ],
+    [
+      "tuer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

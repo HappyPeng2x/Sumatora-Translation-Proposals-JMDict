@@ -1,0 +1,15 @@
+{
+  "seq": 1213770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regarder attentivement"
+    ],
+    [
+      "prendre en charge",
+      "soigner",
+      "entretenir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

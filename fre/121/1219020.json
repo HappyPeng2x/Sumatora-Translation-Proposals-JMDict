@@ -1,0 +1,18 @@
+{
+  "seq": 1219020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fonds (capital)"
+    ],
+    [
+      "capital d'une fondation",
+      "fonds de dotation"
+    ],
+    [
+      "fondation",
+      "fonds de trésorerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

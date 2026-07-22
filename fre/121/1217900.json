@@ -1,0 +1,29 @@
+{
+  "seq": 1217900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désir",
+      "demande",
+      "prière",
+      "souhait"
+    ],
+    [
+      "supplique",
+      "instance",
+      "appel",
+      "prière"
+    ],
+    [
+      "prière",
+      "oration",
+      "vœu"
+    ],
+    [
+      "demande écrite",
+      "requête",
+      "dossier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

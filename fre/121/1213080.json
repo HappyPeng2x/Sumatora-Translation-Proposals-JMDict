@@ -1,0 +1,23 @@
+{
+  "seq": 1213080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "transpirer",
+      "suer"
+    ],
+    [
+      "suer de peur; de nervosité"
+    ],
+    [
+      "se donner à fond; se ruiner; se fatiguer jusqu'au bout des ongles"
+    ],
+    [
+      "se couvrir de condensation; produire de la condensation; former des gouttelettes de condensation"
+    ],
+    [
+      "devenir collant; gras; pâteux (comme du jambon avarié); se couvrir de dépôts"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

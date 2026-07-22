@@ -1,0 +1,16 @@
+{
+  "seq": 1216340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tondeuse courte",
+      "coupe courte"
+    ],
+    [
+      "cheveux très courts",
+      "tondeuse à la manière d'un hérisson",
+      "friseur mécanique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

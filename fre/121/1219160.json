@@ -1,0 +1,13 @@
+{
+  "seq": 1219160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "carte (électronique) ; substrat"
+    ],
+    [
+      "substrat (pour circuits intégrés)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

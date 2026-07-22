@@ -6,6 +6,9 @@
       "revenir au sujet principal",
       "reprendre le fil de la discussion",
       "mettre de côté les digressions"
+    ],
+    [
+      "revenir au sujet principal"
     ]
   ],
   "model": "qwen3:14b"

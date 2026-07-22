@@ -1,0 +1,15 @@
+{
+  "seq": 1216390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désarmé",
+      "sans armes"
+    ],
+    [
+      "l'absence d'armes",
+      "l'état de dénuement en matière d'armes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

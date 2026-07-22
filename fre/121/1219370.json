@@ -1,0 +1,14 @@
+{
+  "seq": 1219370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "magie",
+      "prestidigitation"
+    ],
+    [
+      "art mystérieuse; art étrange"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

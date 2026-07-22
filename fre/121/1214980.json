@@ -1,0 +1,24 @@
+{
+  "seq": 1214980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "observation"
+    ],
+    [
+      "avis",
+      "prédiction",
+      "pensée"
+    ],
+    [
+      "observation (des étoiles; du temps)",
+      "observation (néerlandaise)"
+    ],
+    [
+      "prédiction",
+      "attente",
+      "anticipation; mesure (néerlandaise)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

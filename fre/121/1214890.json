@@ -1,0 +1,12 @@
+{
+  "seq": 1214890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu touristique",
+      "endroit intéressant pour le tourisme",
+      "zone de visite touristique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

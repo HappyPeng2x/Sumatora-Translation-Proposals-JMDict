@@ -1,0 +1,31 @@
+{
+  "seq": 1211380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agaçant",
+      "bruyant"
+    ],
+    [
+      "rigoureux",
+      "strict",
+      "bruyant",
+      "agaçant",
+      "strict",
+      "rigoureux"
+    ],
+    [
+      "strict; sévère; rigoureux"
+    ],
+    [
+      "exigeant; pointilleux; minutieux; critique; querelleur"
+    ],
+    [
+      "strict; sévère; rigoureux; stricte"
+    ],
+    [
+      "controversé; contesté; chargé; réputation; suscitant des ragots; suscitant des controverses; tendu"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

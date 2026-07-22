@@ -1,0 +1,14 @@
+{
+  "seq": 1213150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mot sino-japonais"
+    ],
+    [
+      "langue des Han",
+      "chinois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

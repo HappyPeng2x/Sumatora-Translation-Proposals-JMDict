@@ -1,0 +1,14 @@
+{
+  "seq": 1211190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remonter",
+      "en arrière",
+      "un film",
+      "une bande",
+      "un disque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

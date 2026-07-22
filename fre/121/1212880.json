@@ -1,0 +1,33 @@
+{
+  "seq": 1212880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "action décisive"
+    ],
+    [
+      "oser",
+      "se lancer dans"
+    ],
+    [
+      "mettre en œuvre",
+      "exécuter",
+      "faire",
+      "appliquer",
+      "mettre à exécution"
+    ],
+    [
+      "agir avec détermination",
+      "intervenir fermement",
+      "agir résolument"
+    ],
+    [
+      "exécution",
+      "mise en œuvre",
+      "application",
+      "accomplissement",
+      "implémentation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

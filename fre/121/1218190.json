@@ -1,0 +1,16 @@
+{
+  "seq": 1218190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entreprise",
+      "exploitation"
+    ],
+    [
+      "entreprise",
+      "organisation",
+      "établissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

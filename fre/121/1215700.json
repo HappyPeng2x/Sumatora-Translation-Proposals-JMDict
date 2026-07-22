@@ -1,0 +1,21 @@
+{
+  "seq": 1215700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "peu animé"
+    ],
+    [
+      "inactif",
+      "désuet",
+      "morne",
+      "ennuyeux"
+    ],
+    [
+      "inoccupé",
+      "libre",
+      "disponible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1217810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "photo de visage",
+      "portrait",
+      "photo d'identité",
+      "photo d'un visage"
+    ],
+    [
+      "photo d'un criminel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

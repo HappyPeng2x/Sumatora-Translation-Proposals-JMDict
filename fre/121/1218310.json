@@ -1,0 +1,31 @@
+{
+  "seq": 1218310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dessein",
+      "plan",
+      "projet"
+    ],
+    [
+      "entreprise",
+      "projet",
+      "initiative"
+    ],
+    [
+      "avoir l'intention de",
+      "se proposer de",
+      "avoir l'idée de",
+      "se déterminer à",
+      "prendre la décision de"
+    ],
+    [
+      "entreprendre",
+      "tenter",
+      "essayer",
+      "s'efforcer de",
+      "tenter de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

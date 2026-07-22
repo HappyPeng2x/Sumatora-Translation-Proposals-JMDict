@@ -1,0 +1,20 @@
+{
+  "seq": 1212010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sécher"
+    ],
+    [
+      "retrair",
+      "baisser",
+      "s'atténuer"
+    ],
+    [
+      "prendre fin",
+      "cesser",
+      "s'achever"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1217940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "demander",
+      "solliciter",
+      "présenter une demande pour",
+      "formuler une demande de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

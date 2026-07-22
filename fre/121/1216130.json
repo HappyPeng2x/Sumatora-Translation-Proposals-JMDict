@@ -1,0 +1,23 @@
+{
+  "seq": 1216130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire tomber",
+      "prendre au piège"
+    ],
+    [
+      "prendre (un château, une forteresse, etc.) ; capturer ; réduire"
+    ],
+    [
+      "faire tomber (quelque chose) dans"
+    ],
+    [
+      "forcer (quelqu'un) à capituler; tromper; attirer dans un piège; mettre dans une situation difficile"
+    ],
+    [
+      "laisser tomber (quelque chose) dans"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

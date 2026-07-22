@@ -1,0 +1,25 @@
+{
+  "seq": 1214520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lenteur"
+    ],
+    [
+      "lax",
+      "détendu",
+      "négligent"
+    ],
+    [
+      "lent",
+      "hésitant"
+    ],
+    [
+      "paresseux",
+      "flasque",
+      "lent",
+      "lourd"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

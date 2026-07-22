@@ -1,0 +1,21 @@
+{
+  "seq": 1215070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passer à travers"
+    ],
+    [
+      "traverser",
+      "faire passer à travers"
+    ],
+    [
+      "s'attacher à",
+      "mettre en œuvre",
+      "persévérer dans",
+      "conserver",
+      "maintenir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

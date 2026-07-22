@@ -1,0 +1,23 @@
+{
+  "seq": 1211440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "achèvement",
+      "conclusion"
+    ],
+    [
+      "achèvement final",
+      "fin",
+      "terme",
+      "conclusion",
+      "résolution",
+      "accomplissement",
+      "aboutissement",
+      "dénouement",
+      "finale",
+      "fin de quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

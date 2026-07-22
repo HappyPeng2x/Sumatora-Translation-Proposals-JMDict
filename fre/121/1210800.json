@@ -1,0 +1,11 @@
+{
+  "seq": 1210800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compte",
+      "facture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

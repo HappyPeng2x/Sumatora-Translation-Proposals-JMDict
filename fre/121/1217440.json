@@ -1,0 +1,15 @@
+{
+  "seq": 1217440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faux (œuvre)",
+      "contrefaçon"
+    ],
+    [
+      "contrefaçon",
+      "fausser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

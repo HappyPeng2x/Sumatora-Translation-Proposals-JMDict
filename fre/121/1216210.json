@@ -22,6 +22,18 @@
     ],
     [
       "résidence temporaire"
+    ],
+    [
+      "daché",
+      "en forme de toit",
+      "surmonté d'un toit"
+    ],
+    [
+      "cabane sur un bateau"
+    ],
+    [
+      "bateau-hôtel",
+      "bateau de loisirs couvert"
     ]
   ],
   "model": "qwen3:14b"

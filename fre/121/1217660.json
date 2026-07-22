@@ -1,0 +1,18 @@
+{
+  "seq": 1217660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opiniâtre",
+      "têtu",
+      "tenace"
+    ],
+    [
+      "résistant",
+      "solide",
+      "durable",
+      "fort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

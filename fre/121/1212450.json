@@ -1,0 +1,18 @@
+{
+  "seq": 1212450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "admiration"
+    ],
+    [
+      "admirable",
+      "digné de louanges"
+    ],
+    [
+      "étonnement",
+      "effarement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

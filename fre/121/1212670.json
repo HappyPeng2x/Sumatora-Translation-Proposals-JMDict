@@ -1,0 +1,38 @@
+{
+  "seq": 1212670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'habituer à"
+    ],
+    [
+      "devenir compétent en",
+      "acquérir de l'expérience dans"
+    ],
+    [
+      "devenir apprivoisé",
+      "se domestiquer"
+    ],
+    [
+      "s'habituer à faire",
+      "se faire à faire"
+    ],
+    [
+      "s'adapter",
+      "s'habituer à"
+    ],
+    [
+      "devenir familier avec",
+      "prendre confiance avec"
+    ],
+    [
+      "devenir familier",
+      "s'ouvrir"
+    ],
+    [
+      "s'user",
+      "s'abîmer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

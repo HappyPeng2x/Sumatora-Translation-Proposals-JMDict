@@ -1,0 +1,14 @@
+{
+  "seq": 1215080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "percer",
+      "transpercer"
+    ],
+    [
+      "être bien informé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

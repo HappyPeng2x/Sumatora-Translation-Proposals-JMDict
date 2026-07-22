@@ -1,0 +1,57 @@
+{
+  "seq": 1215240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écart",
+      "espace",
+      "intervalle de temps"
+    ],
+    [
+      "espace"
+    ],
+    [
+      "chambre"
+    ],
+    [
+      "instant"
+    ],
+    [
+      "espace; distance; intervalle"
+    ],
+    [
+      "mesure; dimension; coupure; pause"
+    ],
+    [
+      "chambre; pièce"
+    ],
+    [
+      "unité de mesure pour une pièce"
+    ],
+    [
+      "mot-numéral pour désigner une pièce"
+    ],
+    [
+      "pièce; chambre"
+    ],
+    [
+      "pause; intervalle"
+    ],
+    [
+      "pause oratoire"
+    ],
+    [
+      "rythme; tempo"
+    ],
+    [
+      "pause; silence"
+    ],
+    [
+      "occasion propice; bonne opportunité"
+    ],
+    [
+      "état; condition; situation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

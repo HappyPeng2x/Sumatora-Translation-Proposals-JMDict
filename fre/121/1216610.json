@@ -4,6 +4,15 @@
   "glosses": [
     [
       "sculpture en trois dimensions"
+    ],
+    [
+      "statue taillée dans une seule pièce de pierre ou de bois"
+    ],
+    [
+      "gravure d'un profil en U (par exemple sur des inscriptions gravées sur des pierres)"
+    ],
+    [
+      "inscrit en profil en U (à opposer au profil en V; yagen-bori)"
     ]
   ],
   "model": "qwen3:14b"

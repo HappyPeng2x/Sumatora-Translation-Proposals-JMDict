@@ -1,0 +1,41 @@
+{
+  "seq": 1213720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "direction",
+      "mise en scène",
+      "surveillance"
+    ],
+    [
+      "directeur",
+      "superviseur",
+      "manager",
+      "chef de projet",
+      "contrôleur"
+    ],
+    [
+      "régisseur",
+      "superviseur",
+      "contrôler",
+      "diriger",
+      "assurer la surveillance"
+    ],
+    [
+      "entraîneur",
+      "chef d'équipe"
+    ],
+    [
+      "direction juridique",
+      "direction légale"
+    ],
+    [
+      "évêque (dans l'Église protestante du Japon)",
+      "contrôler",
+      "surveiller",
+      "assurer la direction",
+      "diriger"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

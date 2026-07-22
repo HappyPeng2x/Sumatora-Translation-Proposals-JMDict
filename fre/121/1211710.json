@@ -6,6 +6,9 @@
       "service public",
       "poste gouvernemental",
       "fonction publique"
+    ],
+    [
+      "fonction gouvernementale"
     ]
   ],
   "model": "qwen3:14b"

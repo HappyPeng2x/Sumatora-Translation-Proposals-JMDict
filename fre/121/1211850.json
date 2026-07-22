@@ -1,0 +1,13 @@
+{
+  "seq": 1211850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fonctionnaire"
+    ],
+    [
+      "fonctionnaire de l'État (contrairement au fonctionnaire local; selon la constitution Meiji)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

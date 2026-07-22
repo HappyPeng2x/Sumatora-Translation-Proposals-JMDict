@@ -1,0 +1,18 @@
+{
+  "seq": 1217850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aspect",
+      "expression",
+      "mine",
+      "physionomie"
+    ],
+    [
+      "expression",
+      "mine",
+      "physionomie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1217050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "falaise à pic",
+      "jetée",
+      "quai"
+    ],
+    [
+      "rive escarpée",
+      "mur de roche le long d'une côte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

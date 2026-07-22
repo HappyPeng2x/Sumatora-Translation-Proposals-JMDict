@@ -1,0 +1,17 @@
+{
+  "seq": 1212660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expérience",
+      "pratique"
+    ],
+    [
+      "habitude",
+      "aisance",
+      "familiarité",
+      "expérience"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

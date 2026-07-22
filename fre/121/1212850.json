@@ -1,0 +1,18 @@
+{
+  "seq": 1212850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défi"
+    ],
+    [
+      "pas nécessairement",
+      "pas particulièrement",
+      "pas spécialement"
+    ],
+    [
+      "vraiment pas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

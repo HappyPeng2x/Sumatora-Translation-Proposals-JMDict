@@ -1,0 +1,13 @@
+{
+  "seq": 1211820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "secrétariat général du cabinet"
+    ],
+    [
+      "chef d'état-major (du président, du Premier ministre, etc.) ; secrétaire du cabinet ; secrétaire exécutif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

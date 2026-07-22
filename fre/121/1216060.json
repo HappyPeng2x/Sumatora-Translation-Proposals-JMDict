@@ -1,0 +1,19 @@
+{
+  "seq": 1216060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "correspondance",
+      "rapport",
+      "relation"
+    ],
+    [
+      "collaborateur",
+      "être lié à",
+      "être en rapport avec",
+      "concerner",
+      "toucher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1213120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dictionnaire de caractères chinois avec des définitions en anglais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

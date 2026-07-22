@@ -8,6 +8,10 @@
       "avoir des doutes",
       "être inquiet",
       "être anxieux"
+    ],
+    [
+      "douter",
+      "mettre en doute"
     ]
   ],
   "model": "qwen3:14b"

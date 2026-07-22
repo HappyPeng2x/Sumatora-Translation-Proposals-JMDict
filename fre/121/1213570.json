@@ -1,0 +1,17 @@
+{
+  "seq": 1213570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doux"
+    ],
+    [
+      "doux",
+      "agréable",
+      "délicieux",
+      "mélodieux",
+      "doux au goût"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

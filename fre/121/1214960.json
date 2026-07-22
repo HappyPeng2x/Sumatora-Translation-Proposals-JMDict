@@ -1,0 +1,24 @@
+{
+  "seq": 1214960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spectateur",
+      "observation d'un match",
+      "suivi d'une compétition sportive"
+    ],
+    [
+      "observation de batailles",
+      "surveillance de combats"
+    ],
+    [
+      "observation des opérations militaires"
+    ],
+    [
+      "regarder un jeu",
+      "assister à un match",
+      "voir une compétition sportive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

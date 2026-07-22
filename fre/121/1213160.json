@@ -1,0 +1,18 @@
+{
+  "seq": 1213160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poème chinois",
+      "poésie chinoise"
+    ],
+    [
+      "poème chinois transmis par la Chine; poésie chinoise",
+      "poésie chinoise écrite par des Japonais"
+    ],
+    [
+      "poème rédigé en langue chinoise (kanbun)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

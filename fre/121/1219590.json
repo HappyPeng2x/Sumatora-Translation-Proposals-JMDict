@@ -1,0 +1,13 @@
+{
+  "seq": 1219590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rassembler",
+      "recueillir",
+      "amasser",
+      "réunir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

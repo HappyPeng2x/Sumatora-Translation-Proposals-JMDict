@@ -1,0 +1,16 @@
+{
+  "seq": 1216290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrondi",
+      "rondeur",
+      "rotondité"
+    ],
+    [
+      "maturité",
+      "mélancolie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

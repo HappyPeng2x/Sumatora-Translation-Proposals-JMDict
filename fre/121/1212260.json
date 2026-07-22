@@ -1,0 +1,22 @@
+{
+  "seq": 1212260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éprouver",
+      "percevoir",
+      "ressentir"
+    ],
+    [
+      "être ému par",
+      "être touché par",
+      "être impressionné par",
+      "réagir à"
+    ],
+    [
+      "contracter (une maladie)",
+      "attraper (une maladie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

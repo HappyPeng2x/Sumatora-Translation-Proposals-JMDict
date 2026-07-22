@@ -1,0 +1,15 @@
+{
+  "seq": 1213790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balance",
+      "pese-lourds"
+    ],
+    [
+      "pont basculant",
+      "pont-échelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

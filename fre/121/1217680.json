@@ -1,0 +1,29 @@
+{
+  "seq": 1217680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entêtement",
+      "obstination",
+      "opiniâtreté"
+    ],
+    [
+      "persévérance",
+      "obstination",
+      "entêtement"
+    ],
+    [
+      "obstination",
+      "entêtement",
+      "rigidité d'esprit",
+      "inflexibilité",
+      "dureté de caractère"
+    ],
+    [
+      "persévérance",
+      "longue durée",
+      "persistance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

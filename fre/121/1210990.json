@@ -1,0 +1,12 @@
+{
+  "seq": 1210990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conseiller",
+      "avocat",
+      "consultant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

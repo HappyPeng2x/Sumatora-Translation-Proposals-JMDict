@@ -1,0 +1,27 @@
+{
+  "seq": 1213440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire un caprice",
+      "se faire câliner"
+    ],
+    [
+      "profiter de",
+      "faire jouer la complaisance de quelqu'un",
+      "compter sur"
+    ],
+    [
+      "profiter de la gentillesse d'autrui"
+    ],
+    [
+      "avoir un goût sucré",
+      "sentir la douceur"
+    ],
+    [
+      "se sentir coupable",
+      "rougir de honte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,47 @@
+{
+  "seq": 1213990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enseigne",
+      "heure de fermeture",
+      "panneau",
+      "réputation"
+    ],
+    [
+      "attraction",
+      "caractéristique",
+      "point fort",
+      "figure de proue",
+      "personne représentative"
+    ],
+    [
+      "réputation",
+      "nom",
+      "renommée"
+    ],
+    [
+      "apparence",
+      "aspect",
+      "allure",
+      "spectacle"
+    ],
+    [
+      "fermeture",
+      "heure de fermeture",
+      "dernière heure"
+    ],
+    [
+      "heure de fermeture",
+      "heure de police"
+    ],
+    [
+      "manifestation publique en faveur de quelque chose"
+    ],
+    [
+      "tableau de commandes",
+      "système de gestion des commandes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

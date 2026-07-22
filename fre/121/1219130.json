@@ -1,0 +1,20 @@
+{
+  "seq": 1219130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "idée dominante",
+      "ton dominant"
+    ],
+    [
+      "tendance"
+    ],
+    [
+      "note fondamentale"
+    ],
+    [
+      "tendance économique sous-jacente"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

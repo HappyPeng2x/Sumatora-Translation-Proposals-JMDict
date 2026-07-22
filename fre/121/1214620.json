@@ -5,6 +5,12 @@
     [
       "académie",
       "institut"
+    ],
+    [
+      "institution littéraire"
+    ],
+    [
+      "académie"
     ]
   ],
   "model": "qwen3:14b"

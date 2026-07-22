@@ -1,0 +1,11 @@
+{
+  "seq": 1218300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cartel",
+      "syndicat"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

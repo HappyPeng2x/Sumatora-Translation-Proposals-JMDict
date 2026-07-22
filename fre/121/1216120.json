@@ -1,0 +1,23 @@
+{
+  "seq": 1216120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "céder",
+      "tomber"
+    ],
+    [
+      "tomber dans (le chaos, la dépression, un dilemme, une maladie, etc.)"
+    ],
+    [
+      "tomber dans (un piège, etc.)"
+    ],
+    [
+      "tomber ; se rendre ; capituler"
+    ],
+    [
+      "mourir; donner son souffle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

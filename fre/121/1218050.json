@@ -1,0 +1,14 @@
+{
+  "seq": 1218050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "acte de candidature",
+      "sollicitation écrite (!)"
+    ],
+    [
+      "prière écrite adressée à un sanctuaire ou un temple bouddhiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

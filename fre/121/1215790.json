@@ -1,0 +1,16 @@
+{
+  "seq": 1215790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être apparenté",
+      "s'occuper de"
+    ],
+    [
+      "toucher",
+      "affecter",
+      "influencer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

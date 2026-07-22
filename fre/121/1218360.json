@@ -1,0 +1,23 @@
+{
+  "seq": 1218360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dangereux",
+      "périlleux",
+      "risqué"
+    ],
+    [
+      "précaire",
+      "périlleux",
+      "incertain",
+      "inquietant",
+      "dangereux"
+    ],
+    [
+      "avoir peur",
+      "être inquiet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

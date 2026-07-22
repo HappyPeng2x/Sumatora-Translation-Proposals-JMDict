@@ -1,0 +1,16 @@
+{
+  "seq": 1212250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feeling",
+      "impression",
+      "sentiment"
+    ],
+    [
+      "impression",
+      "ambiance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

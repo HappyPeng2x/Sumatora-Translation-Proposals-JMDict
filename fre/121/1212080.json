@@ -1,0 +1,11 @@
+{
+  "seq": 1212080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sécheresse",
+      "temps sec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

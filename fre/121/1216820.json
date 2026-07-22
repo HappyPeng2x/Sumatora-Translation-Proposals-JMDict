@@ -11,6 +11,11 @@
       "inclure",
       "instruire",
       "faire comprendre"
+    ],
+    [
+      "faire tenir quelque chose dans la bouche",
+      "faire lâcher quelque chose par la bouche",
+      "sucer"
     ]
   ],
   "model": "qwen3:14b"

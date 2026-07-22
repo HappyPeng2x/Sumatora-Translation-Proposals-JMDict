@@ -1,0 +1,15 @@
+{
+  "seq": 1215860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "barrière"
+    ],
+    [
+      "obstacle",
+      "barrière",
+      "difficulté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

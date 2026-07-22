@@ -1,0 +1,52 @@
+{
+  "seq": 1213400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doux",
+      "indulgent",
+      "sucré",
+      "trop faible",
+      "trop optimiste"
+    ],
+    [
+      "parfumé",
+      "doux (musique)"
+    ],
+    [
+      "légèrement salé",
+      "peu salé",
+      "non épicé"
+    ],
+    [
+      "indulgent",
+      "lenient",
+      "facile",
+      "généreux"
+    ],
+    [
+      "naïf",
+      "trop optimiste",
+      "simpliste"
+    ],
+    [
+      "demi-mesure",
+      "mal fini"
+    ],
+    [
+      "insuffisant",
+      "inadéquat",
+      "insatisfaisant",
+      "laxiste"
+    ],
+    [
+      "modéré"
+    ],
+    [
+      "séduisant",
+      "attirant",
+      "tentant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

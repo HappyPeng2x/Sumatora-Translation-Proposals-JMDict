@@ -1,0 +1,15 @@
+{
+  "seq": 1210970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avis",
+      "conseil",
+      "recommandation"
+    ],
+    [
+      "recommandation administrative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

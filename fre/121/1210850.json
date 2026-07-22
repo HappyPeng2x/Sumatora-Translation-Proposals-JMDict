@@ -1,0 +1,20 @@
+{
+  "seq": 1210850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(rare)exhérédation",
+      "(vx)(désapprouve)déshéritement",
+      "action de déshériter"
+    ],
+    [
+      "châtiment",
+      "punition"
+    ],
+    [
+      "réprimande",
+      "reproche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

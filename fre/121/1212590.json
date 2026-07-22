@@ -1,0 +1,15 @@
+{
+  "seq": 1212590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "percevoir",
+      "soupçonner",
+      "avoir une idée",
+      "deviner",
+      "prendre conscience de",
+      "pressentir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

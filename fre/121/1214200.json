@@ -1,0 +1,22 @@
+{
+  "seq": 1214200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "administration",
+      "contrôle",
+      "direction",
+      "gestion"
+    ],
+    [
+      "entretien",
+      "conservation"
+    ],
+    [
+      "gestion",
+      "démarche de gestion de patrimoine",
+      "mandat de tutelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

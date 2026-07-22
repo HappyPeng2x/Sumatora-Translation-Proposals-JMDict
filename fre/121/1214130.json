@@ -1,0 +1,17 @@
+{
+  "seq": 1214130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "musique orchestrale"
+    ],
+    [
+      "musique orchestrale",
+      "musique destinée à un orchestre"
+    ],
+    [
+      "œuvre pour orchestre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

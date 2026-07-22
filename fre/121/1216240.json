@@ -6,6 +6,12 @@
       "directeur",
       "chef de service",
       "directeur de bibliothèque"
+    ],
+    [
+      "directeur d'un musée"
+    ],
+    [
+      "directeur d'un aquarium"
     ]
   ],
   "model": "qwen3:14b"

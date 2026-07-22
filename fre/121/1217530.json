@@ -7,6 +7,10 @@
       "le vol en ligne des oies",
       "aligner les épaules comme des oies en vol",
       "marcher en file indienne comme des oies en vol"
+    ],
+    [
+      "formation en escalade",
+      "formation en colonnes"
     ]
   ],
   "model": "qwen3:14b"

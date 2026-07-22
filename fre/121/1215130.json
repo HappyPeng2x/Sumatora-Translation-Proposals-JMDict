@@ -1,0 +1,31 @@
+{
+  "seq": 1215130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réduction",
+      "retour à l'origine"
+    ],
+    [
+      "réduction chimique",
+      "désoxydation",
+      "résolution (chimique)"
+    ],
+    [
+      "restauration",
+      "remise en état",
+      "rendre (qqch) à son état antérieur"
+    ],
+    [
+      "restauration",
+      "remise en état",
+      "rendre (qqch) à son état antérieur"
+    ],
+    [
+      "réduction",
+      "retour à l'origine",
+      "récupération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

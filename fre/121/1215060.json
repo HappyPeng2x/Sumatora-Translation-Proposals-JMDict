@@ -1,0 +1,17 @@
+{
+  "seq": 1215060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se forcer à"
+    ],
+    [
+      "persévérer",
+      "tenir bon",
+      "maintenir",
+      "appliquer",
+      "mettre en œuvre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

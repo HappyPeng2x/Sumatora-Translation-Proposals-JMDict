@@ -1,0 +1,16 @@
+{
+  "seq": 1218150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plan",
+      "projet"
+    ],
+    [
+      "projeter",
+      "concevoir",
+      "planifier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

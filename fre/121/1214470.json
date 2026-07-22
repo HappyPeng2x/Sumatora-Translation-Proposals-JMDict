@@ -1,0 +1,16 @@
+{
+  "seq": 1214470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en cas d'urgence"
+    ],
+    [
+      "leniency et sévérité"
+    ],
+    [
+      "urgence ; crise ; situation critique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1217930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "demande",
+      "pétition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

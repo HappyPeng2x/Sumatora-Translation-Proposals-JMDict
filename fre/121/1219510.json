@@ -1,0 +1,18 @@
+{
+  "seq": 1219510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "content"
+    ],
+    [
+      "heureux",
+      "ravi",
+      "content",
+      "satisfait",
+      "agréable",
+      "plaisant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

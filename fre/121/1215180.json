@@ -6,6 +6,14 @@
       "permis",
       "licence",
       "autorisation"
+    ],
+    [
+      "marque d'identité animale",
+      "marque d'animal"
+    ],
+    [
+      "plaque d'immatriculation",
+      "numérotation d'identification"
     ]
   ],
   "model": "qwen3:14b"

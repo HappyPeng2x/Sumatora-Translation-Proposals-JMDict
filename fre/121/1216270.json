@@ -1,0 +1,17 @@
+{
+  "seq": 1216270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à fond",
+      "completement",
+      "parfaitement"
+    ],
+    [
+      "pas du tout",
+      "nullement",
+      "aucunement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1214770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perspective",
+      "vue"
+    ],
+    [
+      "spectacle",
+      "vue"
+    ],
+    [
+      "méditation par l'observation"
+    ],
+    [
+      "vision de ...",
+      "regard sur ..."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

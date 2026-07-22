@@ -1,0 +1,18 @@
+{
+  "seq": 1216310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "câliner",
+      "séduire"
+    ],
+    [
+      "enrouler et mettre dans (quelque chose)",
+      "plier en boule et mettre dans (quelque chose)"
+    ],
+    [
+      "persuader; convaincre; amadouer; flatter; séduire (en allemand)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

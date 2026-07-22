@@ -1,0 +1,15 @@
+{
+  "seq": 1214090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(du) ressort (de)",
+      "juridiction"
+    ],
+    [
+      "compétence",
+      "domaine de responsabilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

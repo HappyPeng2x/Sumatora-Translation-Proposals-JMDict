@@ -1,0 +1,25 @@
+{
+  "seq": 1211310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "braver",
+      "endurer",
+      "résister",
+      "supporter"
+    ],
+    [
+      "supporter; soutien; résistance; bravoure"
+    ],
+    [
+      "être capable de; être à la hauteur de"
+    ],
+    [
+      "avoir de la valeur; être digne de valeur"
+    ],
+    [
+      "se distinguer; être excellent; être remarquable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

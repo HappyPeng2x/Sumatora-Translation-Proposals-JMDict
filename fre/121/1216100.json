@@ -1,0 +1,13 @@
+{
+  "seq": 1216100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "relation",
+      "rapport",
+      "liens",
+      "pertinence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

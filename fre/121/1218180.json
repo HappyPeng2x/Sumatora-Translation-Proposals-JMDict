@@ -1,0 +1,12 @@
+{
+  "seq": 1218180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tenter",
+      "essayer",
+      "se risquer à faire quelque chose"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1216880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être imbibé de",
+      "comporter",
+      "contenir",
+      "inclure",
+      "renfermer",
+      "retenir"
+    ],
+    [
+      "tenir dans la bouche"
+    ],
+    [
+      "porter en esprit; comprendre; nourrir (un ressentiment, etc.)"
+    ],
+    [
+      "exprimer (une émotion, etc.) ; sous-entendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

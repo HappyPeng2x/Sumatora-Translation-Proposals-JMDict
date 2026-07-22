@@ -1,0 +1,17 @@
+{
+  "seq": 1213220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "littérature chinoise (classique)",
+      "texte chinois"
+    ],
+    [
+      "écriture composée exclusivement de kanjis"
+    ],
+    [
+      "textes et littérature chinois rédigés par les Japonais; chinois classique écrit selon la manière japonaise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

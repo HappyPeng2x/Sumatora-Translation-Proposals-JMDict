@@ -1,0 +1,16 @@
+{
+  "seq": 1212610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup de froid",
+      "grippe",
+      "refroidissement",
+      "rhume"
+    ],
+    [
+      "maladie virale aiguë causée par le virus de l'influenza"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

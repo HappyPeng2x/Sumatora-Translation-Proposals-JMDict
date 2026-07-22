@@ -13,6 +13,9 @@
     [
       "tuteur",
       "exécutant"
+    ],
+    [
+      "curateur (juridique)"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,26 @@
+{
+  "seq": 1212470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contagion",
+      "infection"
+    ],
+    [
+      "infection (d'idées nuisibles) ; influence (par quelque chose)"
+    ],
+    [
+      "infection; contamination; contagion"
+    ],
+    [
+      "influence (négative); influence (mauvaise; contagieuse); corruption (fig.)"
+    ],
+    [
+      "influence; transmission"
+    ],
+    [
+      "infection (par un virus informatique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

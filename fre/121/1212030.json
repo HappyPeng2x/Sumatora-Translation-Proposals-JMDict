@@ -1,0 +1,14 @@
+{
+  "seq": 1212030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plage à marée basse",
+      "plage sèche"
+    ],
+    [
+      "zone de vase à marée basse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

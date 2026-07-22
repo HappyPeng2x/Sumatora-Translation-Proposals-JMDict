@@ -1,0 +1,10 @@
+{
+  "seq": 1213500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Des paroles mielleuses ne plaisent qu'aux imbéciles; la flatterie agit sur les marionnettes et les fous"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

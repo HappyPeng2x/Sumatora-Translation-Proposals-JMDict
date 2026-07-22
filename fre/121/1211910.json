@@ -1,0 +1,13 @@
+{
+  "seq": 1211910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aisance",
+      "détente",
+      "confort",
+      "relaxation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1212500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point d'exclamation",
+      "marque de ponctuation utilisée pour exprimer une exclamation ou une forte émotion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

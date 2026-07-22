@@ -1,0 +1,10 @@
+{
+  "seq": 1213520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boisson sucrée faite à partir de riz fermenté ou de marc de saké"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

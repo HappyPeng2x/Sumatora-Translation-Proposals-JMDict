@@ -1,0 +1,17 @@
+{
+  "seq": 1211860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bureaucrate",
+      "bureaucratie"
+    ],
+    [
+      "fonctionnaire influent"
+    ],
+    [
+      "fonctionnaire de la même administration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

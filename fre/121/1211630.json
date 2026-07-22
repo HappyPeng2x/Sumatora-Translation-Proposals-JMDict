@@ -1,0 +1,14 @@
+{
+  "seq": 1211630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accomplissement",
+      "achèvement"
+    ],
+    [
+      "perfect (tense)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

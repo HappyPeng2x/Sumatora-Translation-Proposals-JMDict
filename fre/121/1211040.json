@@ -1,0 +1,22 @@
+{
+  "seq": 1211040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quête (pour le temple)"
+    ],
+    [
+      "collecter des dons à des fins religieuses"
+    ],
+    [
+      "demander des aumônes (surtout en habits monastiques)"
+    ],
+    [
+      "mendiant; moine mendiant"
+    ],
+    [
+      "convertir; missionner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

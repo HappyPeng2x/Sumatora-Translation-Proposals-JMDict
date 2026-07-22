@@ -19,6 +19,10 @@
       "reconnaissance (d'une personne)",
       "analyse criminelle",
       "laboratoire de criminalistique"
+    ],
+    [
+      "preuve",
+      "reconnaissance (d'un fait)"
     ]
   ],
   "model": "qwen3:14b"

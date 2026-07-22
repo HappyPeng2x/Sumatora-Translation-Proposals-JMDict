@@ -1,0 +1,15 @@
+{
+  "seq": 1212330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sens",
+      "sensation"
+    ],
+    [
+      "sensibilité",
+      "émotion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1215090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accomplissement",
+      "action de mener à bien"
+    ],
+    [
+      "pénétration",
+      "pervasion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

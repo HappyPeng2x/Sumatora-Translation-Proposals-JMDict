@@ -1,0 +1,14 @@
+{
+  "seq": 1217110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cancer"
+    ],
+    [
+      "malheur",
+      "dommage causé par le cancer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

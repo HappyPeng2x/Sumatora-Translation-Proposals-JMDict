@@ -1,0 +1,27 @@
+{
+  "seq": 1211340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "insupportable",
+      "intolérable"
+    ],
+    [
+      "irrésistible",
+      "tremendous",
+      "extraordinaire"
+    ],
+    [
+      "ne pouvoir s'empêcher de (faire)",
+      "ne pouvoir que (faire)",
+      "être impatient de (faire)",
+      "ne pouvoir en avoir assez de"
+    ],
+    [
+      "être inégalable",
+      "dépasser toute imagination",
+      "être extrêmement heureux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

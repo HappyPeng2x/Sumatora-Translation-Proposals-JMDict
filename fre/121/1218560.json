@@ -1,0 +1,15 @@
+{
+  "seq": 1218560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "danger",
+      "péril",
+      "risque"
+    ],
+    [
+      "risque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

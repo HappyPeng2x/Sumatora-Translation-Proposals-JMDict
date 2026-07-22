@@ -1,0 +1,20 @@
+{
+  "seq": 1218880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "récipient"
+    ],
+    [
+      "capacité",
+      "aptitude",
+      "calibre"
+    ],
+    [
+      "instrument",
+      "outil",
+      "utensile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

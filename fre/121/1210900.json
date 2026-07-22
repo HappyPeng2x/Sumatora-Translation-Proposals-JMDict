@@ -7,6 +7,14 @@
       "conseil",
       "suggestion",
       "encouragement"
+    ],
+    [
+      "incitation",
+      "stimulation",
+      "encouragement"
+    ],
+    [
+      "recommandation"
     ]
   ],
   "model": "qwen3:14b"

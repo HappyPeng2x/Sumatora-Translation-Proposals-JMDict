@@ -1,0 +1,18 @@
+{
+  "seq": 1217070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jouet"
+    ],
+    [
+      "objet de distraction",
+      "personne traitée comme un simple divertissement"
+    ],
+    [
+      "divertissement",
+      "jouet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

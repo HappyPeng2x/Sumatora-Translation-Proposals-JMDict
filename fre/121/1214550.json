@@ -1,0 +1,13 @@
+{
+  "seq": 1214550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boîte de jus",
+      "boîte de boisson gazeuse",
+      "jus en boîte",
+      "boisson gazeuse en boîte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

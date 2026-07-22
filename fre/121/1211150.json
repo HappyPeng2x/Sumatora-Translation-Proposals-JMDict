@@ -1,0 +1,19 @@
+{
+  "seq": 1211150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "engager",
+      "engloutir",
+      "entortiller",
+      "impliquer"
+    ],
+    [
+      "impliquer",
+      "entraîner",
+      "entortiller",
+      "engloutir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

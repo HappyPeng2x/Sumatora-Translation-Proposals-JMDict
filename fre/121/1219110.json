@@ -1,0 +1,17 @@
+{
+  "seq": 1219110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "base"
+    ],
+    [
+      "fanatique",
+      "maniaque",
+      "enthousiaste",
+      "fou",
+      "dérangé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

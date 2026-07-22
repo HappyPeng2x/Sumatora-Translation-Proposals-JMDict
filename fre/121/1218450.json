@@ -1,0 +1,14 @@
+{
+  "seq": 1218450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crise",
+      "moment décisif"
+    ],
+    [
+      "tournant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

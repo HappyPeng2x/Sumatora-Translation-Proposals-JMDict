@@ -1,0 +1,12 @@
+{
+  "seq": 1219150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point de référence",
+      "point cardinal",
+      "origine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

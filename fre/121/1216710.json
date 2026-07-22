@@ -1,0 +1,14 @@
+{
+  "seq": 1216710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recueil complet",
+      "ensemble complet de livres"
+    ],
+    [
+      "texte complet d'un Jōruri"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

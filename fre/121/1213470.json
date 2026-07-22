@@ -1,0 +1,16 @@
+{
+  "seq": 1213470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "choyé",
+      "gâté (enfant)"
+    ],
+    [
+      "gâter",
+      "verzécher",
+      "chouchouter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

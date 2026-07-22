@@ -1,0 +1,21 @@
+{
+  "seq": 1215260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arriver à temps",
+      "suffire"
+    ],
+    [
+      "suffire",
+      "aller",
+      "se débrouiller"
+    ],
+    [
+      "sauver",
+      "se tirer d'affaire",
+      "se débrouiller"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

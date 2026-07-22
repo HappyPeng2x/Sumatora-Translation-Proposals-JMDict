@@ -1,0 +1,26 @@
+{
+  "seq": 1211390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adultère",
+      "rapports sexuels illégitimes",
+      "relations sexuelles non mariées"
+    ],
+    [
+      "adultère",
+      "commettre un adultère",
+      "rompre le mariage"
+    ],
+    [
+      "désordre sexuel",
+      "prostitution"
+    ],
+    [
+      "adultère",
+      "infidélité conjugale",
+      "adultérité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

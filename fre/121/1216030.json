@@ -5,6 +5,9 @@
     [
       "conseiller principal de l'empereur",
       "conseiller impérial"
+    ],
+    [
+      "personne dotée de grande puissance et d'influence"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,12 @@
+{
+  "seq": 1219500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joyeusement",
+      "heureusement",
+      "avec joie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

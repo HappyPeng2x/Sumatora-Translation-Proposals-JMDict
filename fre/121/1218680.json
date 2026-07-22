@@ -1,0 +1,20 @@
+{
+  "seq": 1218680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agonie",
+      "proche de la mort"
+    ],
+    [
+      "état critique",
+      "situation dangereuse",
+      "grave",
+      "sérieux",
+      "dangereux",
+      "inquiétant",
+      "sans espoir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

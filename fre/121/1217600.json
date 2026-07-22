@@ -1,0 +1,14 @@
+{
+  "seq": 1217600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "outil de jardinage à dents courbes",
+      "râteau à charbon"
+    ],
+    [
+      "outil de charbonnier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

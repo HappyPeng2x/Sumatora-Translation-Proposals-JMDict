@@ -1,0 +1,35 @@
+{
+  "seq": 1210870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clémence",
+      "indulgence",
+      "pardon"
+    ],
+    [
+      "considération suffisante",
+      "réflexion approfondie"
+    ],
+    [
+      "pardon",
+      "indulgence",
+      "clémence"
+    ],
+    [
+      "pardon",
+      "miséricorde",
+      "grâce"
+    ],
+    [
+      "réflexion circonspecte",
+      "considération prudente"
+    ],
+    [
+      "ruse",
+      "habileté",
+      "malice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

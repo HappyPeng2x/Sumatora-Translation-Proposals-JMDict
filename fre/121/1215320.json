@@ -1,0 +1,30 @@
+{
+  "seq": 1215320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "erreur",
+      "faute"
+    ],
+    [
+      "accident",
+      "mishap",
+      "problème"
+    ],
+    [
+      "comportement inapproprié",
+      "indiscrétion"
+    ],
+    [
+      "conflit",
+      "dispute",
+      "querelle"
+    ],
+    [
+      "erreur",
+      "adultère",
+      "bêtise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

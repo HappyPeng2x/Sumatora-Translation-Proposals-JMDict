@@ -1,0 +1,18 @@
+{
+  "seq": 1212440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sensation",
+      "toucher (sens)"
+    ],
+    [
+      "impression",
+      "sensation"
+    ],
+    [
+      "compréhension intuitive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,25 @@
+{
+  "seq": 1214450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doux",
+      "léger"
+    ],
+    [
+      "doux",
+      "léger"
+    ],
+    [
+      "lenient",
+      "libéral",
+      "lax"
+    ],
+    [
+      "modéré",
+      "tolérant",
+      "généreux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

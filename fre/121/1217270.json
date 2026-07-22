@@ -1,0 +1,16 @@
+{
+  "seq": 1217270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "roc",
+      "rocher"
+    ],
+    [
+      "pierre",
+      "roc",
+      "crag"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

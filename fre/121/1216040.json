@@ -1,0 +1,25 @@
+{
+  "seq": 1216040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épreuve",
+      "barrière"
+    ],
+    [
+      "obstacle",
+      "difficulté",
+      "épreuve"
+    ],
+    [
+      "mesure",
+      "étalon"
+    ],
+    [
+      "Kanmon",
+      "partie de Shimonoseki",
+      "partie de Moji"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

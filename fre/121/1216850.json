@@ -1,0 +1,16 @@
+{
+  "seq": 1216850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "implication ; sous-entendu ; latitude ; ambiance ; ton ; sentiment ; inclusion"
+    ],
+    [
+      "accord"
+    ],
+    [
+      "attitude; humeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

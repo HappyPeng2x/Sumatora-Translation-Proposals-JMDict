@@ -1,0 +1,15 @@
+{
+  "seq": 1215870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intérêt"
+    ],
+    [
+      "sollicitude",
+      "attention",
+      "préoccupation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

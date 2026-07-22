@@ -1,0 +1,24 @@
+{
+  "seq": 1215770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "barrière"
+    ],
+    [
+      "mutualité",
+      "vie commune"
+    ],
+    [
+      "obstacle",
+      "perturbation"
+    ],
+    [
+      "situation incertaine dans un jeu"
+    ],
+    [
+      "sumō-riyū (lutteur de sumō au-dessus du rang jūryō)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

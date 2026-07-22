@@ -1,0 +1,51 @@
+{
+  "seq": 1218380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dangereux",
+      "périlleux",
+      "risqué"
+    ],
+    [
+      "en danger",
+      "en péril",
+      "critique",
+      "grave",
+      "en risque"
+    ],
+    [
+      "incertain",
+      "non fiable",
+      "instable",
+      "douteux"
+    ],
+    [
+      "proche (d'une victoire)",
+      "étroit (échappé)"
+    ],
+    [
+      "douteux",
+      "sombre",
+      "suspect",
+      "mauvais"
+    ],
+    [
+      "regarde !",
+      "attention !",
+      "faites attention !"
+    ],
+    [
+      "excentrique",
+      "étrange",
+      "bizarre",
+      "abnormal"
+    ],
+    [
+      "attention !",
+      "regarde !",
+      "faites attention !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

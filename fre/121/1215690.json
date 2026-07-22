@@ -1,0 +1,15 @@
+{
+  "seq": 1215690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retraite tranquille",
+      "vie retirée",
+      "vie oisive"
+    ],
+    [
+      "vie séparée des affaires mondaines"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

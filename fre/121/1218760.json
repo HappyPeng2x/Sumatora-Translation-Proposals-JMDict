@@ -1,0 +1,23 @@
+{
+  "seq": 1218760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être joyeux",
+      "se réjouir"
+    ],
+    [
+      "féliciter"
+    ],
+    [
+      "accueillir favorablement; bien recevoir"
+    ],
+    [
+      "faire avec plaisir; faire volontiers; être content de faire"
+    ],
+    [
+      "donner naissance à; accoucher; être enceinte (d'un enfant)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

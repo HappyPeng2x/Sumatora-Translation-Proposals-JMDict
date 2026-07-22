@@ -6,6 +6,9 @@
       "détendre",
       "alléger",
       "assoupir"
+    ],
+    [
+      "se mettre à l'aise"
     ]
   ],
   "model": "qwen3:14b"

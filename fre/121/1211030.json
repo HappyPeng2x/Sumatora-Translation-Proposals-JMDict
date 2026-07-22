@@ -1,0 +1,14 @@
+{
+  "seq": 1211030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chercher à gagner les faveurs",
+      "s'insinuer"
+    ],
+    [
+      "gagner l'approbation de quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

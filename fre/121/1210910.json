@@ -1,0 +1,15 @@
+{
+  "seq": 1210910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sollicitation de dons religieux",
+      "prêche bouddhiste"
+    ],
+    [
+      "collecte de dons",
+      "solicitation de dons (pour la construction d'un temple; des réparations; etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

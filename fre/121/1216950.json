@@ -1,0 +1,16 @@
+{
+  "seq": 1216950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pénétrant",
+      "profond"
+    ],
+    [
+      "profondeur de pensée",
+      "riche en significations",
+      "subtilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "outils et matériaux",
       "équipement et matériaux"
+    ],
+    [
+      "matériau utilisé pour la fabrication d'outils"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,17 @@
+{
+  "seq": 1217650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "têtu",
+      "obstiné",
+      "entêtré",
+      "bigot"
+    ],
+    [
+      "boer",
+      "ungecultiveerd"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

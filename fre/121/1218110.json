@@ -8,6 +8,18 @@
       "entreprise audacieuse",
       "complot",
       "manœuvre"
+    ],
+    [
+      "entreprise",
+      "projet"
+    ],
+    [
+      "tentative",
+      "effort"
+    ],
+    [
+      "intrigue",
+      "manœuvre"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,10 @@
+{
+  "seq": 1213110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dictionnaire des kanjis en anglais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

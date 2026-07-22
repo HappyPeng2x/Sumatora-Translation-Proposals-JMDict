@@ -1,0 +1,13 @@
+{
+  "seq": 1214360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "simple",
+      "facile",
+      "pratique",
+      "commode"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

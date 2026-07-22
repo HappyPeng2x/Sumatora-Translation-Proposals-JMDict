@@ -1,0 +1,18 @@
+{
+  "seq": 1213950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "geôlier"
+    ],
+    [
+      "surveillance",
+      "garde"
+    ],
+    [
+      "surveillant",
+      "gardien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

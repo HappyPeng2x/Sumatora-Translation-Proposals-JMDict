@@ -1,0 +1,10 @@
+{
+  "seq": 1218970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne douée dans de nombreux domaines mais qui n'excelle dans aucun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

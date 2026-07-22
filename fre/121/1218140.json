@@ -1,0 +1,19 @@
+{
+  "seq": 1218140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échafauder un plan",
+      "jouer un tour",
+      "planifier"
+    ],
+    [
+      "intriguer",
+      "conspirer",
+      "comploter",
+      "manigancer",
+      "tramer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

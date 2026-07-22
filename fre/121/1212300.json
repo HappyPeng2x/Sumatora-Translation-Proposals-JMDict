@@ -1,0 +1,28 @@
+{
+  "seq": 1212300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "correction",
+      "influence",
+      "inspiration",
+      "réforme"
+    ],
+    [
+      "corriger",
+      "améliorer",
+      "récupérer"
+    ],
+    [
+      "influence",
+      "effet",
+      "inspiration"
+    ],
+    [
+      "correction",
+      "amélioration",
+      "récupération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

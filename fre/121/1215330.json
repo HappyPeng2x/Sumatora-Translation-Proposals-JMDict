@@ -1,0 +1,19 @@
+{
+  "seq": 1215330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire une erreur",
+      "se tromper"
+    ],
+    [
+      "faire une erreur",
+      "se tromper"
+    ],
+    [
+      "mal comprendre",
+      "comprendre de travers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

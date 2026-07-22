@@ -1,0 +1,26 @@
+{
+  "seq": 1216300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rendre rond",
+      "séduire",
+      "se faire tonsurer"
+    ],
+    [
+      "séduire",
+      "flatter",
+      "justifier"
+    ],
+    [
+      "arrondir (une fraction)"
+    ],
+    [
+      "raser la tête"
+    ],
+    [
+      "regrouper ensemble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

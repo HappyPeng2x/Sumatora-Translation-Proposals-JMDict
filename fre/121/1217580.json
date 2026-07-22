@@ -8,6 +8,11 @@
     [
       "cou",
       "tête"
+    ],
+    [
+      "tête",
+      "crâne",
+      "boule (d'une pomme de terre)"
     ]
   ],
   "model": "qwen3:14b"

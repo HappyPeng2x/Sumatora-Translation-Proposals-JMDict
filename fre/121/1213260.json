@@ -1,0 +1,19 @@
+{
+  "seq": 1213260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caractères chinois"
+    ],
+    [
+      "chinois et japonais (langues)"
+    ],
+    [
+      "dictionnaire de caractères chinois et composés de caractères chinois avec des définitions en japonais ; dictionnaire des caractères chinois"
+    ],
+    [
+      "chinois-japonais (néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

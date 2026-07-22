@@ -1,0 +1,13 @@
+{
+  "seq": 1212520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perception",
+      "sens",
+      "prise de conscience",
+      "remarque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

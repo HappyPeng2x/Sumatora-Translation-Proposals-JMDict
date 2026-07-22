@@ -1,0 +1,15 @@
+{
+  "seq": 1214480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marche lente",
+      "déplacement lent"
+    ],
+    [
+      "train lent",
+      "train de proximité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1217960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "tous les souhaits se réaliser",
+      "tous les vœux sont exaucés"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

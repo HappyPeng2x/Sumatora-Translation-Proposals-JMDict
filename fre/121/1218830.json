@@ -1,0 +1,15 @@
+{
+  "seq": 1218830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aumône",
+      "charité",
+      "don"
+    ],
+    [
+      "dénomination d'une fondation ou d'une donation destinée à un temple ou un sanctuaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

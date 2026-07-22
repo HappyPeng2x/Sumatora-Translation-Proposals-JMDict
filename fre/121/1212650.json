@@ -1,0 +1,26 @@
+{
+  "seq": 1212650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "habituer"
+    ],
+    [
+      "apprivoiser",
+      "domestiquer",
+      "dresser (un animal)"
+    ],
+    [
+      "inscrire"
+    ],
+    [
+      "apprivoiser",
+      "habituer à l'homme",
+      "domestiquer"
+    ],
+    [
+      "devenir très familier avec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

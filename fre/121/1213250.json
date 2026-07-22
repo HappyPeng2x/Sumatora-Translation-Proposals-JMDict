@@ -1,0 +1,14 @@
+{
+  "seq": 1213250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Han",
+      "peuple chinois"
+    ],
+    [
+      "Chinois"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,48 @@
+{
+  "seq": 1216250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cercle",
+      "rond",
+      "suffixe pour noms de bateaux"
+    ],
+    [
+      "totalité",
+      "ensemble",
+      "complétude"
+    ],
+    [
+      "argent",
+      "bourse",
+      "pognon"
+    ],
+    [
+      "enceinte fortifiée",
+      "enceinte du château"
+    ],
+    [
+      "tortue à coquille molle"
+    ],
+    [
+      "suffixe pour les noms de navires",
+      "suffixe pour les noms de personnes (surtout d'enfants)",
+      "suffixe pour les noms d'armes, d'armures, d'instruments de musique, etc.",
+      "suffixe pour les noms de chiens, de chevaux, etc."
+    ],
+    [
+      "(néerlandais) plein",
+      "complet",
+      "entier",
+      "tout"
+    ],
+    [
+      "(néerlandais) parfaitement",
+      "complètement",
+      "entièrement",
+      "absolument",
+      "totalement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

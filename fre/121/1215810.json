@@ -1,0 +1,49 @@
+{
+  "seq": 1215810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à cause de",
+      "liaison",
+      "rapport"
+    ],
+    [
+      "participation",
+      "implication",
+      "intérêt"
+    ],
+    [
+      "influence",
+      "effet",
+      "action"
+    ],
+    [
+      "rapport sexuel",
+      "relation sexuelle"
+    ],
+    [
+      "relatif à",
+      "lié à",
+      "connecté à"
+    ],
+    [
+      "rapport sexuel",
+      "relation sexuelle"
+    ],
+    [
+      "parenté",
+      "liaison de parenté"
+    ],
+    [
+      "intérêt",
+      "participation",
+      "intérêt personnel"
+    ],
+    [
+      "rapport",
+      "liaison",
+      "relation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
