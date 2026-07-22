@@ -1,0 +1,19 @@
+{
+  "seq": 1069760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étude",
+      "travail",
+      "recherche"
+    ],
+    [
+      "étude"
+    ],
+    [
+      "chambre de travail",
+      "bureau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

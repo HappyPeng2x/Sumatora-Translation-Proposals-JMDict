@@ -1,0 +1,16 @@
+{
+  "seq": 1062960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "serial",
+      "sérieux",
+      "sériel"
+    ],
+    [
+      "série",
+      "sériel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

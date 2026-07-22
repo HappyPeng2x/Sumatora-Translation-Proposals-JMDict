@@ -1,0 +1,14 @@
+{
+  "seq": 1071170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur d'attaque",
+      "frappeur"
+    ],
+    [
+      "(néerlandais) Stryker"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

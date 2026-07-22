@@ -1,0 +1,11 @@
+{
+  "seq": 1061340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couture",
+      "technique de couture consistant à faire des plis dans le tissu pour le rendre plus élastique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

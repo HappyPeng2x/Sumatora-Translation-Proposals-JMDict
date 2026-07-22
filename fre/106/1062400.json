@@ -1,0 +1,15 @@
+{
+  "seq": 1062400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séjour court",
+      "soins temporaires"
+    ],
+    [
+      "soins à court terme",
+      "séjour de courte durée en institution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

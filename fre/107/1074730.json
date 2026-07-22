@@ -1,0 +1,13 @@
+{
+  "seq": 1074730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séminaire"
+    ],
+    [
+      "exercice pratique; cours pratique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

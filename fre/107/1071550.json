@@ -1,0 +1,36 @@
+{
+  "seq": 1071550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coup",
+      "frappe",
+      "mouvement"
+    ],
+    [
+      "poussoir (de machine à écrire)",
+      "ravier (dans le sport de la rame)"
+    ],
+    [
+      "course (du piston)",
+      "déplacement (du piston)"
+    ],
+    [
+      "temps (dans le tennis de table ou le golf)",
+      "frappe (dans le tennis de table)"
+    ],
+    [
+      "mouvement (technique)",
+      "longueur de coup",
+      "hauteur de coup",
+      "temps"
+    ],
+    [
+      "frappe (de machine à écrire)"
+    ],
+    [
+      "unité de mesure pour les coups (dans le golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

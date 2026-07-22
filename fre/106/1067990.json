@@ -1,0 +1,12 @@
+{
+  "seq": 1067990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scan",
+      "scanner",
+      "examen minutieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

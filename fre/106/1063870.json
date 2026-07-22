@@ -1,0 +1,19 @@
+{
+  "seq": 1063870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "simple",
+      "ordinaire"
+    ],
+    [
+      "simple",
+      "simple"
+    ],
+    [
+      "naturel",
+      "naturel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

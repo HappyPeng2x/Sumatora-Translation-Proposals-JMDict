@@ -1,0 +1,16 @@
+{
+  "seq": 1068360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grattage"
+    ],
+    [
+      "jouer sans handicap"
+    ],
+    [
+      "gratter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "détente",
       "relâchement",
       "flottement"
+    ],
+    [
+      "détente"
     ]
   ],
   "model": "qwen3:14b"

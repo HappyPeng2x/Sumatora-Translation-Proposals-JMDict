@@ -1,0 +1,17 @@
+{
+  "seq": 1065760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intersection routière",
+      "échangeur routier"
+    ],
+    [
+      "point d'entrée ou de sortie d'une autoroute"
+    ],
+    [
+      "juncture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

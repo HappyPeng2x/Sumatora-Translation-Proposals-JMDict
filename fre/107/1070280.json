@@ -1,0 +1,13 @@
+{
+  "seq": 1070280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "steak"
+    ],
+    [
+      "mouton"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

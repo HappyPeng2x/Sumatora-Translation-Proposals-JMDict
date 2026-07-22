@@ -10,6 +10,18 @@
     [
       "courant",
       "filet"
+    ],
+    [
+      "mouvement",
+      "orientation",
+      "tendance"
+    ],
+    [
+      "flux",
+      "données transmises en streaming"
+    ],
+    [
+      "diffusion en continu"
     ]
   ],
   "model": "qwen3:14b"

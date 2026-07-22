@@ -4,6 +4,13 @@
   "glosses": [
     [
       "diastase"
+    ],
+    [
+      "fente",
+      "espace",
+      "intervalle",
+      "lacune",
+      "ouverture"
     ]
   ],
   "model": "qwen3:14b"

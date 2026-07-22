@@ -1,0 +1,11 @@
+{
+  "seq": 1069820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligneup",
+      "joueur de la ligneup"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

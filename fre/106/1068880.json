@@ -1,0 +1,19 @@
+{
+  "seq": 1068880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esquisse",
+      "esquisser",
+      "esquissage"
+    ],
+    [
+      "esquisse"
+    ],
+    [
+      "esquisse",
+      "court récit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

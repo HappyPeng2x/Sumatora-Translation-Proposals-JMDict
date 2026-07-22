@@ -1,0 +1,34 @@
+{
+  "seq": 1063530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "individuel",
+      "pour une personne (chambre, lit)",
+      "simple",
+      "veste droite"
+    ],
+    [
+      "lit simple; chambre d'hôtel avec un lit simple"
+    ],
+    [
+      "veste à boutons simples"
+    ],
+    [
+      "manchette simple"
+    ],
+    [
+      "largeur simple (de tissu; généralement 0,71 mètre)"
+    ],
+    [
+      "simple (jeu individuel en tennis, badminton, etc.)"
+    ],
+    [
+      "simple (en baseball)"
+    ],
+    [
+      "handicap à un chiffre (en golf)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

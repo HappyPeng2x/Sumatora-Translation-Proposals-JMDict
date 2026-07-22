@@ -13,6 +13,17 @@
     ],
     [
       "étape ; étape d'un processus"
+    ],
+    [
+      "niveau",
+      "degré",
+      "étape",
+      "phase"
+    ],
+    [
+      "mesure",
+      "action",
+      "disposition"
     ]
   ],
   "model": "qwen3:14b"

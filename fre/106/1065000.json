@@ -1,0 +1,16 @@
+{
+  "seq": 1065000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "journal ; registre"
+    ],
+    [
+      "journal (Dutch)"
+    ],
+    [
+      "tapis (Dutch; technique); astap (Dutch; technique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -13,6 +13,9 @@
     [
       "script",
       "ensemble de commandes ou d'instructions dans un langage de programmation"
+    ],
+    [
+      "manuscrit"
     ]
   ],
   "model": "qwen3:14b"

@@ -9,6 +9,9 @@
     [
       "mise à l'échelle",
       "redimensionnement (d'une image)"
+    ],
+    [
+      "écaillage"
     ]
   ],
   "model": "qwen3:14b"

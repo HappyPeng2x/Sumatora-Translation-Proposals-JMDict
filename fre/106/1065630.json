@@ -1,0 +1,13 @@
+{
+  "seq": 1065630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(boxe) coup de poing rapide en avant"
+    ],
+    [
+      "(hockey sur gazon) coup de bâton en avant pour détourner la balle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

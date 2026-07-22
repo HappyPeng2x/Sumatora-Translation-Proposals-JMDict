@@ -4,6 +4,9 @@
   "glosses": [
     [
       "Jacquard (tissu, métier à tisser)"
+    ],
+    [
+      "Jacquard (tissu à motif complexe)"
     ]
   ],
   "model": "qwen3:14b"

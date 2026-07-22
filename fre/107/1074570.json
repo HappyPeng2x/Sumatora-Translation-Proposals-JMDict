@@ -1,0 +1,24 @@
+{
+  "seq": 1074570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rapport sexuel",
+      "sexe"
+    ],
+    [
+      "sexe",
+      "genre"
+    ],
+    [
+      "organe génital",
+      "désir sexuel"
+    ],
+    [
+      "rapport sexuel",
+      "faire l'amour",
+      "avoir des relations sexuelles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

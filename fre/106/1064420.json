@@ -5,6 +5,13 @@
     [
       "pierre précieuse",
       "pierre de valeur"
+    ],
+    [
+      "petit dictionnaire suffisamment complet (apparu à l'époque Taishō)",
+      "petit dictionnaire assez complet (apparu à l'époque Taishō)"
+    ],
+    [
+      "agrafe"
     ]
   ],
   "model": "qwen3:14b"

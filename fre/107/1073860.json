@@ -1,0 +1,16 @@
+{
+  "seq": 1073860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manche",
+      "gaine",
+      "tuyau"
+    ],
+    [
+      "gaine",
+      "manchette"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,24 @@
+{
+  "seq": 1073410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gâcher",
+      "abîmer",
+      "ruiner"
+    ],
+    [
+      "pardonner",
+      "gâter"
+    ],
+    [
+      "corruption",
+      "dégradation"
+    ],
+    [
+      "pardon",
+      "gâchis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

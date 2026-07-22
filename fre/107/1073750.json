@@ -1,0 +1,14 @@
+{
+  "seq": 1073750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glissement",
+      "mouvement de glissement"
+    ],
+    [
+      "glissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

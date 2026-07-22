@@ -9,6 +9,14 @@
     [
       "personne âgée",
       "retraité"
+    ],
+    [
+      "objet en argent",
+      "de couleur argentée"
+    ],
+    [
+      "personne âgée",
+      "senior"
     ]
   ],
   "model": "qwen3:14b"

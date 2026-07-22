@@ -1,0 +1,13 @@
+{
+  "seq": 1068890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cahier de croquis"
+    ],
+    [
+      "Le livre des croquis de Geoffrey Crayon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

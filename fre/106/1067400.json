@@ -1,0 +1,16 @@
+{
+  "seq": 1067400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mouvement de balancement"
+    ],
+    [
+      "mouvement de bascule du corps lors d'un coup"
+    ],
+    [
+      "oscillation pour éviter un coup"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,21 @@
       "articulation",
       "jonction",
       "raccord"
+    ],
+    [
+      "articulation",
+      "jonction",
+      "raccord"
+    ],
+    [
+      "gelenk",
+      "articulation",
+      "charnière"
+    ],
+    [
+      "manifestation commune",
+      "événement commun",
+      "assemblée conjointe"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1068760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glissade",
+      "patinage"
+    ],
+    [
+      "marche sur patins"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1072400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pêche à la harpe",
+      "pêche avec une harpe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

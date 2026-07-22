@@ -1,0 +1,14 @@
+{
+  "seq": 1061440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rideau de fer",
+      "volet"
+    ],
+    [
+      "store"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

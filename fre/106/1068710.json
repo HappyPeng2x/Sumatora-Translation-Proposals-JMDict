@@ -1,0 +1,14 @@
+{
+  "seq": 1068710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "outil utilisé pour gratter ou nettoyer une surface",
+      "outil de nettoyage"
+    ],
+    [
+      "outil de nettoyage mécanique utilisé dans les industries"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

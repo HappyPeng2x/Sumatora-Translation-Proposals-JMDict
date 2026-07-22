@@ -1,0 +1,12 @@
+{
+  "seq": 1067100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point idéal",
+      "endroit parfait",
+      "zone optimale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

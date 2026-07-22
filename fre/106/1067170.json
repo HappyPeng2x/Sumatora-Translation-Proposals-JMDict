@@ -8,6 +8,20 @@
     ],
     [
       "joueur en position de défense latérale dans le football"
+    ],
+    [
+      "lancer qui élimine les quilles restantes",
+      "machine à balayer"
+    ],
+    [
+      "machine à nettoyer les rues"
+    ],
+    [
+      "nettoyeur",
+      "dernier homme"
+    ],
+    [
+      "lancer qui élimine les quilles restantes"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,13 @@
+{
+  "seq": 1061480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrêt",
+      "désactivation",
+      "fermeture",
+      "éteignage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1070330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "statut",
+      "état",
+      "situation"
+    ],
+    [
+      "état",
+      "condition"
+    ],
+    [
+      "nombre de réservations",
+      "nombre de réservations (dans un hôtel ou un restaurant)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,14 @@
   "glosses": [
     [
       "squat (exercice)"
+    ],
+    [
+      "technique de squat dans le powerlifting",
+      "technique de squat dans le powerlifting"
+    ],
+    [
+      "flexion des genoux",
+      "flexion des genoux"
     ]
   ],
   "model": "qwen3:14b"

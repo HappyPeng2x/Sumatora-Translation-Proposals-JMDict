@@ -1,0 +1,30 @@
+{
+  "seq": 1067210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interrupteur"
+    ],
+    [
+      "voie de dérivation",
+      "points de voie"
+    ],
+    [
+      "changer",
+      "passer d'une chose à une autre"
+    ],
+    [
+      "détour",
+      "déviation"
+    ],
+    [
+      "échanger",
+      "changer"
+    ],
+    [
+      "commutateur",
+      "hub de commutation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

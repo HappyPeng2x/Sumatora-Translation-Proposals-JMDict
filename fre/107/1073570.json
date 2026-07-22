@@ -1,0 +1,21 @@
+{
+  "seq": 1073570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élégant",
+      "chic",
+      "svelte (élancé)"
+    ],
+    [
+      "mince",
+      "svelte"
+    ],
+    [
+      "habile",
+      "malin",
+      "adroit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

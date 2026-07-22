@@ -4,6 +4,13 @@
   "glosses": [
     [
       "orthographe"
+    ],
+    [
+      "orthographe",
+      "écriture"
+    ],
+    [
+      "écriture"
     ]
   ],
   "model": "qwen3:14b"

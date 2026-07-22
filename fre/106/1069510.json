@@ -1,0 +1,15 @@
+{
+  "seq": 1069510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "style",
+      "mise en forme",
+      "mise en beauté"
+    ],
+    [
+      "coiffure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

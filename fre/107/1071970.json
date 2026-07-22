@@ -19,6 +19,12 @@
     [
       "attaque (au volleyball)",
       "spike (au volleyball)"
+    ],
+    [
+      "frappe puissante en volley-ball"
+    ],
+    [
+      "bandes à crampons; pneus à crampons"
     ]
   ],
   "model": "qwen3:14b"

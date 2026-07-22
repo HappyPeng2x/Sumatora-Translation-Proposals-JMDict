@@ -1,0 +1,15 @@
+{
+  "seq": 1071230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "structure"
+    ],
+    [
+      "ouvrage",
+      "construction",
+      "édifice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

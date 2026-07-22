@@ -1,0 +1,16 @@
+{
+  "seq": 1061930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "shampoo",
+      "shampouiner",
+      "shampooing"
+    ],
+    [
+      "laver les cheveux",
+      "shampouiner les cheveux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1070000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état d'attente",
+      "mode d'attente"
+    ],
+    [
+      "être prêt",
+      "être en état de marche",
+      "être disponible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

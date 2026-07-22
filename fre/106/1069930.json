@@ -1,0 +1,28 @@
+{
+  "seq": 1069930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lampe",
+      "stand",
+      "tribune"
+    ],
+    [
+      "support, borne",
+      "étalage, guéridon"
+    ],
+    [
+      "support, support pour encre"
+    ],
+    [
+      "lampe de bureau, lampe de chevet"
+    ],
+    [
+      "station, station-service"
+    ],
+    [
+      "(néerlandais) support; étagère; position"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

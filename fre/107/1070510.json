@@ -1,0 +1,16 @@
+{
+  "seq": 1070510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "canne",
+      "bâton de marche",
+      "baguette"
+    ],
+    [
+      "crochet d'angle",
+      "crochet de fixation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

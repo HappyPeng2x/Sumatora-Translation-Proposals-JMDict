@@ -1,0 +1,14 @@
+{
+  "seq": 1073930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mincir",
+      "alléger",
+      "rationaliser",
+      "streamliner",
+      "réduire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

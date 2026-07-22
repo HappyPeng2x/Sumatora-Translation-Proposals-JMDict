@@ -1,0 +1,39 @@
+{
+  "seq": 1074600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ensemble",
+      "jeu (groupe de)",
+      "manche (set au tennis)",
+      "série"
+    ],
+    [
+      "mise en place",
+      "préparation",
+      "configuration",
+      "positionnement",
+      "réglage"
+    ],
+    [
+      "coiffage",
+      "mise en forme (cheveux)"
+    ],
+    [
+      "jeu (au tennis, volley-ball, etc.)"
+    ],
+    [
+      "décors (d'un film, pièce de théâtre, etc.)"
+    ],
+    [
+      "récepteur (télévision, radio)"
+    ],
+    [
+      "fixation (d'une chose)"
+    ],
+    [
+      "mot quantitatif pour désigner un ensemble (en néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

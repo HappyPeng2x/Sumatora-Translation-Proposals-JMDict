@@ -1,0 +1,12 @@
+{
+  "seq": 1062370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "une courte histoire",
+      "une micro-nouvelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

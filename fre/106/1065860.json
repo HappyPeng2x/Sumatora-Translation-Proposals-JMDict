@@ -1,0 +1,19 @@
+{
+  "seq": 1065860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "saut"
+    ],
+    [
+      "épreuve de saut (ski, athlétisme)"
+    ],
+    [
+      "saut (d'une page à une autre en cliquant sur un lien hypertexte)"
+    ],
+    [
+      "bond (dans le prix) ; hausse soudaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

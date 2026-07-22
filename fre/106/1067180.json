@@ -1,0 +1,19 @@
+{
+  "seq": 1067180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balayage"
+    ],
+    [
+      "écharpe"
+    ],
+    [
+      "balayage (technique de rame)"
+    ],
+    [
+      "écharpe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1065730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déchet",
+      "ordure",
+      "chiffon"
+    ],
+    [
+      "déchet",
+      "matériel inutilisable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

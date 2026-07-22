@@ -5,6 +5,9 @@
     [
       "chef de bande de filles",
       "chef de groupe de filles délinquantes"
+    ],
+    [
+      "chef de bande de filles"
     ]
   ],
   "model": "qwen3:14b"

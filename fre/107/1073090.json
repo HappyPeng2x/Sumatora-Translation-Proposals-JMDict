@@ -1,0 +1,17 @@
+{
+  "seq": 1073090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spécifications",
+      "caractéristiques techniques"
+    ],
+    [
+      "Bureau de la coopération économique du Pacifique sud"
+    ],
+    [
+      "Corporation pour l'évaluation des performances standard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

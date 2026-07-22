@@ -10,6 +10,9 @@
     ],
     [
       "interface graphique personnalisée d'une application"
+    ],
+    [
+      "modèle de conception d'interface utilisateur"
     ]
   ],
   "model": "qwen3:14b"

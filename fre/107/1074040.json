@@ -9,6 +9,14 @@
     [
       "mouvement lent",
       "image en mouvement lent"
+    ],
+    [
+      "lent",
+      "paresseux",
+      "traînant",
+      "lentement",
+      "dans un mouvement lent",
+      "dans un tempo lent"
     ]
   ],
   "model": "qwen3:14b"

@@ -8,6 +8,9 @@
     [
       "session de jam",
       "jam session"
+    ],
+    [
+      "session de jam"
     ]
   ],
   "model": "qwen3:14b"

@@ -10,6 +10,18 @@
     [
       "relation stable",
       "liaison durable"
+    ],
+    [
+      "maintenir le cap"
+    ],
+    [
+      "état stable"
+    ],
+    [
+      "relation stable"
+    ],
+    [
+      "maintenir le cap (ordre en navigation maritime)"
     ]
   ],
   "model": "qwen3:14b"

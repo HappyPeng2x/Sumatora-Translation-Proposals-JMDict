@@ -5,6 +5,9 @@
     [
       "arroseur",
       "dispositif d'arrosage automatique"
+    ],
+    [
+      "installation de pulvérisation"
     ]
   ],
   "model": "qwen3:14b"

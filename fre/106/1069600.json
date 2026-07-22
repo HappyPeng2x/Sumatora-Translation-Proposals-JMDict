@@ -1,0 +1,12 @@
+{
+  "seq": 1069600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "veste de sport",
+      "veste de baseball",
+      "veste de collège"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

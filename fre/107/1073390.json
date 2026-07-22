@@ -6,6 +6,19 @@
       "sportif",
       "agréable à porter",
       "conçu pour le sport"
+    ],
+    [
+      "sportif",
+      "agréable à porter",
+      "conçu pour le sport"
+    ],
+    [
+      "sportivité"
+    ],
+    [
+      "sportif",
+      "agréable à porter",
+      "conçu pour le sport"
     ]
   ],
   "model": "qwen3:14b"

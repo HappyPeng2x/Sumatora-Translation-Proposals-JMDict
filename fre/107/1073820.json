@@ -5,7 +5,9 @@
     [
       "slalom"
     ],
-    []
+    [
+      "course en slalom"
+    ]
   ],
   "model": "qwen3:14b"
 }

@@ -1,0 +1,15 @@
+{
+  "seq": 1073490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "spotlight",
+      "projecteur"
+    ],
+    [
+      "observation attentive",
+      "surveillance étroite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

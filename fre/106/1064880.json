@@ -5,6 +5,9 @@
     [
       "gymnase",
       "salle de sport"
+    ],
+    [
+      "école de gymnastique; salle de sport; école de boxe"
     ]
   ],
   "model": "qwen3:14b"

@@ -4,6 +4,17 @@
   "glosses": [
     [
       "acier"
+    ],
+    [
+      "vol d'une base (au baseball; atteindre une base sans l'aide d'une balle frappée ou autre chose pendant le lancer)",
+      "acier",
+      "statue"
+    ],
+    [
+      "vol de but (au baseball)"
+    ],
+    [
+      "vol"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,11 @@
+{
+  "seq": 1063780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sympathisant",
+      "personne qui partage les idées d'un parti politique, d'une organisation, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

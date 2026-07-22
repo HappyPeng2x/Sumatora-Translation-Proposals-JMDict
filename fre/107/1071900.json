@@ -1,0 +1,12 @@
+{
+  "seq": 1071900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élan",
+      "sursaut",
+      "accélération brusque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

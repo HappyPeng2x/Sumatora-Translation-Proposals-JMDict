@@ -1,0 +1,22 @@
+{
+  "seq": 1070320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scène"
+    ],
+    [
+      "prestation (scénique)",
+      "représentation"
+    ],
+    [
+      "phase",
+      "partie"
+    ],
+    [
+      "étape",
+      "niveau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

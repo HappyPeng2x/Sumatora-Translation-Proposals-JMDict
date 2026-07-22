@@ -1,0 +1,10 @@
+{
+  "seq": 1061650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exercice de boxe consistant à imiter les mouvements de frappe sans toucher un partenaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

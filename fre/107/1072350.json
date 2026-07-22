@@ -1,0 +1,12 @@
+{
+  "seq": 1072350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ralentissement",
+      "ralentir",
+      "ralentir (se)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

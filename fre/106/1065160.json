@@ -1,0 +1,15 @@
+{
+  "seq": 1065160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joueur de jonglerie",
+      "acrobate"
+    ],
+    [
+      "escroc",
+      "tricheur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

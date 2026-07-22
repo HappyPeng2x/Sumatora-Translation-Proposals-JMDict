@@ -1,0 +1,11 @@
+{
+  "seq": 1074460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faille de sécurité",
+      "vulnérabilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

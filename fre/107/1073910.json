@@ -1,0 +1,23 @@
+{
+  "seq": 1073910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combinaison",
+      "jupon"
+    ],
+    [
+      "jupon",
+      "corset"
+    ],
+    [
+      "feuille",
+      "papier"
+    ],
+    [
+      "protocole",
+      "SLIP"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

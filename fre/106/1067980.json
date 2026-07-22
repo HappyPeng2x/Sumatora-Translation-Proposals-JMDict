@@ -1,0 +1,22 @@
+{
+  "seq": 1067980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "scanning",
+      "analyse",
+      "examen"
+    ],
+    [
+      "analyse",
+      "examen",
+      "inspection"
+    ],
+    [
+      "examen",
+      "inspection",
+      "étude approfondie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1062660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "choc"
+    ],
+    [
+      "choc",
+      "impact",
+      "secousse"
+    ],
+    [
+      "crise",
+      "dérangement"
+    ],
+    [
+      "choc circulatoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

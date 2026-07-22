@@ -1,0 +1,22 @@
+{
+  "seq": 1068540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "séance de projection",
+      "séance de visionnage",
+      "séance de démonstration"
+    ],
+    [
+      "examen",
+      "inspection",
+      "vérification"
+    ],
+    [
+      "projection",
+      "affichage",
+      "démonstration (de film)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

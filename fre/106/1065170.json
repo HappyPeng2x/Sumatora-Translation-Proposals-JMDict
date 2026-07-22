@@ -13,6 +13,13 @@
     [
       "enveloppe de CD",
       "couverture de disque"
+    ],
+    [
+      "manteau",
+      "veste"
+    ],
+    [
+      "pull-over"
     ]
   ],
   "model": "qwen3:14b"

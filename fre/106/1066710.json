@@ -1,0 +1,22 @@
+{
+  "seq": 1066710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "super",
+      "supermarché"
+    ],
+    [
+      "sous-titres",
+      "texte inscrit en bas de l'écran",
+      "légendes"
+    ],
+    [
+      "superhétérodyne"
+    ],
+    [
+      "super"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

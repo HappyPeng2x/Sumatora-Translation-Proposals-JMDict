@@ -4,6 +4,16 @@
   "glosses": [
     [
       "espagnol"
+    ],
+    [
+      "espagnol",
+      "langue espagnole"
+    ],
+    [
+      "d'origine espagnole"
+    ],
+    [
+      "espagnol"
     ]
   ],
   "model": "qwen3:14b"

@@ -19,6 +19,9 @@
     ],
     [
       "vente à découvert"
+    ],
+    [
+      "court"
     ]
   ],
   "model": "qwen3:14b"

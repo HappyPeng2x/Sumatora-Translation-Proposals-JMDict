@@ -6,6 +6,9 @@
       "rue",
       "avenue",
       "voie publique"
+    ],
+    [
+      "rue"
     ]
   ],
   "model": "qwen3:14b"

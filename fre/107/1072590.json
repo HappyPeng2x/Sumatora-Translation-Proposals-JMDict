@@ -1,0 +1,14 @@
+{
+  "seq": 1072590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuillère",
+      "cuiller"
+    ],
+    [
+      "appât en forme de cuillère utilisé en pêche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,13 @@
   "glosses": [
     [
       "jury"
+    ],
+    [
+      "comité d'experts"
+    ],
+    [
+      "jurés",
+      "juges"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,27 @@
+{
+  "seq": 1066030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jeune",
+      "junior"
+    ],
+    [
+      "rang inférieur",
+      "niveau inférieur"
+    ],
+    [
+      "moitié (dans les catégories de poids)",
+      "formation générale"
+    ],
+    [
+      "fils portant le même nom que son père",
+      "héritier"
+    ],
+    [
+      "fils",
+      "jeune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

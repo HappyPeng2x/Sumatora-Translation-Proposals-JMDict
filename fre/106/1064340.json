@@ -7,6 +7,11 @@
     ],
     [
       "médicament générique"
+    ],
+    [
+      "médicament de substitution",
+      "substitut médical",
+      "médicament générique (pharmaceutique)"
     ]
   ],
   "model": "qwen3:14b"

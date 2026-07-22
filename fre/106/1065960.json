@@ -4,6 +4,9 @@
   "glosses": [
     [
       "joule"
+    ],
+    [
+      "unité de mesure de l'énergie en physique"
     ]
   ],
   "model": "qwen3:14b"

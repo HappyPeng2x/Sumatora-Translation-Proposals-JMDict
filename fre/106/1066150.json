@@ -4,6 +4,10 @@
   "glosses": [
     [
       "jubilé"
+    ],
+    [
+      "célébration",
+      "fête"
     ]
   ],
   "model": "qwen3:14b"

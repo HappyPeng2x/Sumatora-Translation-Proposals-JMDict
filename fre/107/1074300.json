@@ -20,6 +20,21 @@
       "protéger",
       "préserver",
       "éviter"
+    ],
+    [
+      "retenir",
+      "maîtriser",
+      "contrôler"
+    ],
+    [
+      "sauver",
+      "dénicher",
+      "sauver (en sport)"
+    ],
+    [
+      "enregistrer",
+      "sauvegarder",
+      "stocker"
     ]
   ],
   "model": "qwen3:14b"

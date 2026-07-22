@@ -1,0 +1,18 @@
+{
+  "seq": 1074070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne lente",
+      "personne paresseuse"
+    ],
+    [
+      "idiot",
+      "imbécile",
+      "stupide",
+      "borné",
+      "imbécile (terme familier)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

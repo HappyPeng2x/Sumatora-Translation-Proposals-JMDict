@@ -8,6 +8,11 @@
       "tissu de chanvre",
       "tissu de jute",
       "tissu de sac"
+    ],
+    [
+      "chaussures en tissu de chanvre",
+      "chaussures en toile",
+      "sandales en tissu"
     ]
   ],
   "model": "qwen3:14b"

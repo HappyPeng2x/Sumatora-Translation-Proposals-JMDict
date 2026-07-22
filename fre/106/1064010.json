@@ -1,0 +1,11 @@
+{
+  "seq": 1064010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "militaire",
+      "soldat des forces armées des États-Unis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,36 @@
+{
+  "seq": 1071100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrêt",
+      "stop"
+    ],
+    [
+      "mettre fin à",
+      "cesser",
+      "faire cesser",
+      "arrêter",
+      "faire arrêter",
+      "ralentir",
+      "faire ralentir",
+      "stopper",
+      "faire stopper"
+    ],
+    [
+      "arrêt",
+      "halte",
+      "fin",
+      "finale",
+      "achèvement",
+      "arrêt de la progression"
+    ],
+    [
+      "arrêt de bus",
+      "halte de bus",
+      "point d'arrêt",
+      "station de bus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

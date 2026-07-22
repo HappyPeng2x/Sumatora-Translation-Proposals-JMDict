@@ -1,0 +1,16 @@
+{
+  "seq": 1073830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépression",
+      "chute",
+      "baisse"
+    ],
+    [
+      "affaissement",
+      "soufflure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

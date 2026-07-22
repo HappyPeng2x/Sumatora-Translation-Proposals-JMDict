@@ -1,0 +1,18 @@
+{
+  "seq": 1072750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vaporisateur (spray)"
+    ],
+    [
+      "sprayer",
+      "atomiseur"
+    ],
+    [
+      "des paillettes",
+      "des dragées"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

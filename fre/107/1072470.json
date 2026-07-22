@@ -1,0 +1,17 @@
+{
+  "seq": 1072470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esprit",
+      "âme",
+      "âme (religieuse)"
+    ],
+    [
+      "alcool fort",
+      "spiritueux",
+      "liqueur forte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -4,6 +4,13 @@
   "glosses": [
     [
       "gingembre"
+    ],
+    [
+      "poudre de gingembre",
+      "pulverisation de gingembre"
+    ],
+    [
+      "plante de la famille des Zingibéracées; proche du gingembre"
     ]
   ],
   "model": "qwen3:14b"

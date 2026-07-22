@@ -1,0 +1,13 @@
+{
+  "seq": 1072320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accélération",
+      "raccourcissement",
+      "allongement",
+      "délai réduit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

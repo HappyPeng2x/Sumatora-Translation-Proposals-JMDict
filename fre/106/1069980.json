@@ -6,6 +6,10 @@
       "grandiloquence",
       "spectacle ostentatoire",
       "attitude de mise en valeur"
+    ],
+    [
+      "jouer pour le public",
+      "jouer pour les tribunes"
     ]
   ],
   "model": "qwen3:14b"

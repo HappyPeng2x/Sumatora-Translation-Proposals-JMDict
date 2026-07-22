@@ -1,0 +1,14 @@
+{
+  "seq": 1061520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemise",
+      "maillot de corps"
+    ],
+    [
+      "chemise (veste extérieure, généralement avec col et boutons)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

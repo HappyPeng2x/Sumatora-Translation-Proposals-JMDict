@@ -1,0 +1,17 @@
+{
+  "seq": 1071190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frappe",
+      "coup",
+      "soufflet"
+    ],
+    [
+      "débarras",
+      "nettoyage",
+      "élimination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

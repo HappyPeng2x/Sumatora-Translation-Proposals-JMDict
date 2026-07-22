@@ -17,6 +17,9 @@
     [
       "n",
       "navette spatiale"
+    ],
+    [
+      "navette spatiale"
     ]
   ],
   "model": "qwen3:14b"

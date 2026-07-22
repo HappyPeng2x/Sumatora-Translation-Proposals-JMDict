@@ -1,0 +1,17 @@
+{
+  "seq": 1068770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "patinage"
+    ],
+    [
+      "glissade",
+      "patinage"
+    ],
+    [
+      "roue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

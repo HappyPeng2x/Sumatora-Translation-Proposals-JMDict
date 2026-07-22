@@ -25,6 +25,9 @@
       "dépôt",
       "calcaire",
       "incrustation"
+    ],
+    [
+      "dépôt; incrustation (dans un boiler)"
     ]
   ],
   "model": "qwen3:14b"

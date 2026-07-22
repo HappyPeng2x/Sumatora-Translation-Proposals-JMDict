@@ -5,6 +5,10 @@
     [
       "course de vitesse",
       "piste de vitesse"
+    ],
+    [
+      "autoroute",
+      "route rapide"
     ]
   ],
   "model": "qwen3:14b"

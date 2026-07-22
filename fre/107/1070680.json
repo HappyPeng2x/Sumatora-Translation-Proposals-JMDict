@@ -9,6 +9,9 @@
     [
       "stéréotype (idéotype, image fixe et souvent exagérée d'un groupe social)",
       "stéréotype (caractère typique, commun à un groupe)"
+    ],
+    [
+      "stéréotype (idéotype; image fixe et souvent exagérée d'un groupe social)"
     ]
   ],
   "model": "qwen3:14b"

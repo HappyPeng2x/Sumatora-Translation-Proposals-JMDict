@@ -1,0 +1,23 @@
+{
+  "seq": 1069370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "démarrage",
+      "départ"
+    ],
+    [
+      "départ",
+      "ligne de départ",
+      "début",
+      "point de départ"
+    ],
+    [
+      "(anglais) START (abréviation de Strategic Arms Reduction Talks; Traité)"
+    ],
+    [
+      "(anglais) start !"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

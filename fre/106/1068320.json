@@ -13,6 +13,18 @@
     ],
     [
       "[n] carré (outil)"
+    ],
+    [
+      "rigoureux",
+      "scrupuleux"
+    ],
+    [
+      "équilibré",
+      "juste"
+    ],
+    [
+      "centiare",
+      "centième de surface"
     ]
   ],
   "model": "qwen3:14b"

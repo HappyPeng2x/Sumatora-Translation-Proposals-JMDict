@@ -1,0 +1,14 @@
+{
+  "seq": 1065240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "juste",
+      "précisément",
+      "parfaitement",
+      "avec précision",
+      "nettement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "camellia japonica",
       "camellia commun"
+    ],
+    [
+      "riz Japonica (une des deux variétés de riz les plus importantes)"
     ]
   ],
   "model": "qwen3:14b"

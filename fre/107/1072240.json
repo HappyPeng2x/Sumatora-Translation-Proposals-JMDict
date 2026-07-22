@@ -1,0 +1,22 @@
+{
+  "seq": 1072240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "haut-parleur"
+    ],
+    [
+      "orateur",
+      "personne qui parle en public"
+    ],
+    [
+      "oratrice",
+      "femme qui parle en public"
+    ],
+    [
+      "député",
+      "personne qui siège dans une assemblée législative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

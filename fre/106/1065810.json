@@ -1,0 +1,13 @@
+{
+  "seq": 1065810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voyage de plaisir"
+    ],
+    [
+      "démo de film organisée en présence du réalisateur et des acteurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,11 @@
       "étape par étape",
       "progressif",
       "détail par détail"
+    ],
+    [
+      "étape par étape",
+      "progressif",
+      "détail par détail"
     ]
   ],
   "model": "qwen3:14b"

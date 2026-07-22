@@ -4,6 +4,10 @@
   "glosses": [
     [
       "ciel"
+    ],
+    [
+      "île",
+      "dans le golfe d'Argyll; en Écosse"
     ]
   ],
   "model": "qwen3:14b"

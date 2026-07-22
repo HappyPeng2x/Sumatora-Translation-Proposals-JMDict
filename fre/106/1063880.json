@@ -5,6 +5,11 @@
     [
       "symboliser",
       "représenter par un symbole"
+    ],
+    [
+      "symboliser",
+      "figurer",
+      "représenter de manière symbolique"
     ]
   ],
   "model": "qwen3:14b"

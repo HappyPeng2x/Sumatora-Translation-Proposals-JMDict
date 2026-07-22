@@ -1,0 +1,19 @@
+{
+  "seq": 1065920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "genre",
+      "catégorie",
+      "sorte"
+    ],
+    [
+      "catégorie",
+      "sorte"
+    ],
+    [
+      "mot mesure pour les genres; types"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

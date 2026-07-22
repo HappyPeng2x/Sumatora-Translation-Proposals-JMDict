@@ -1,0 +1,11 @@
+{
+  "seq": 1061330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sorcier",
+      "guérisseur traditionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1067220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "virage à 180°",
+      "zigzag",
+      "courbe en S",
+      "virage en U",
+      "virage inverse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

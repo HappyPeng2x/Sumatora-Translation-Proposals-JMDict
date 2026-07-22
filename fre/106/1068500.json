@@ -6,6 +6,18 @@
       "mélange désordonné",
       "agitation",
       "confusion"
+    ],
+    [
+      "bousculade",
+      "désordre",
+      "agitation"
+    ],
+    [
+      "œufs brouillés"
+    ],
+    [
+      "chiffrement",
+      "cryptage"
     ]
   ],
   "model": "qwen3:14b"

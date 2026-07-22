@@ -1,0 +1,16 @@
+{
+  "seq": 1072020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "araignée"
+    ],
+    [
+      "jeu de cartes appelé 'spider'"
+    ],
+    [
+      "robot d'indexation d'Internet; crawler web"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

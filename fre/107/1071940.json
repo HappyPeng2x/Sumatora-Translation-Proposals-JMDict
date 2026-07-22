@@ -1,0 +1,16 @@
+{
+  "seq": 1071940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espion"
+    ],
+    [
+      "espionnage",
+      "surveiller en secret",
+      "espionner",
+      "détecter en secret"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

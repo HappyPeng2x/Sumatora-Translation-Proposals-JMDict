@@ -5,6 +5,9 @@
     [
       "sous-titres",
       "texte inséré sur une image ou une vidéo"
+    ],
+    [
+      "film étranger avec sous-titres insérés"
     ]
   ],
   "model": "qwen3:14b"

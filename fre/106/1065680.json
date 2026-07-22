@@ -1,0 +1,25 @@
+{
+  "seq": 1065680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compote",
+      "confiture",
+      "marmelade"
+    ],
+    [
+      "bouchon",
+      "accumulation de papier",
+      "session de jazz"
+    ],
+    [
+      "obstruction",
+      "blocage"
+    ],
+    [
+      "session de jazz",
+      "Francis Jammes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1061150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "débrayer",
+      "passer en vitesse inférieure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

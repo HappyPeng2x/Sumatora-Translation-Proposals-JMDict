@@ -11,6 +11,9 @@
       "position",
       "attitude",
       "posture (en sport)"
+    ],
+    [
+      "point d'appui (en escalade)"
     ]
   ],
   "model": "qwen3:14b"
