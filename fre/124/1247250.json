@@ -1,0 +1,27 @@
+{
+  "seq": 1247250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "toi (mon ami)",
+      "tu"
+    ],
+    [
+      "monarque",
+      "règne",
+      "souverain",
+      "maître"
+    ],
+    [
+      "lui",
+      "elle"
+    ],
+    [
+      "monarque",
+      "gouvernant",
+      "souverain",
+      "maître (de quelqu'un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

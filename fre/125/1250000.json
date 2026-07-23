@@ -1,0 +1,10 @@
+{
+  "seq": 1250000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "querelle entre frères et sœurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

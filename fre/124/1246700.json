@@ -1,0 +1,15 @@
+{
+  "seq": 1246700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaussure"
+    ],
+    [
+      "châssis",
+      "support",
+      "base"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1248860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dépenses militaires",
+      "fonds de guerre"
+    ],
+    [
+      "dépenses militaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

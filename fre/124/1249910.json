@@ -1,0 +1,16 @@
+{
+  "seq": 1249910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frère ainé"
+    ],
+    [
+      "frère aîné dans un rapport amical ou professionnel"
+    ],
+    [
+      "jeune homme ; copain ; type ; garçon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

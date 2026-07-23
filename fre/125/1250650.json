@@ -1,0 +1,17 @@
+{
+  "seq": 1250650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "porter (à la main)"
+    ],
+    [
+      "emmener (quelqu'un) avec soi",
+      "être accompagné par (quelqu'un)"
+    ],
+    [
+      "agir ensemble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

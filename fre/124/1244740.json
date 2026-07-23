@@ -1,0 +1,16 @@
+{
+  "seq": 1244740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courir partout",
+      "s'activer"
+    ],
+    [
+      "se mouvoir en tous sens",
+      "être en mouvement constant",
+      "être actif; en agitation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

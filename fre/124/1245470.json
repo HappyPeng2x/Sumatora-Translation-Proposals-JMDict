@@ -1,0 +1,18 @@
+{
+  "seq": 1245470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "air",
+      "atmosphère"
+    ],
+    [
+      "ambiance",
+      "état de choses"
+    ],
+    [
+      "personne sans présence, personne qui ne se distingue pas du tout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

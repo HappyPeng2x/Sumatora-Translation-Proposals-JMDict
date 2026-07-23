@@ -1,0 +1,21 @@
+{
+  "seq": 1250830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "activité (marché)",
+      "conjoncture",
+      "situation (des affaires ou commerciale)"
+    ],
+    [
+      "bonne période (économique) ; prospérité ; floraison"
+    ],
+    [
+      "vitalité ; énergie ; vigueur ; enthousiasme"
+    ],
+    [
+      "élan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

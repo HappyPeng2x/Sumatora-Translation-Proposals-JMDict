@@ -1,0 +1,21 @@
+{
+  "seq": 1251950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaume",
+      "queue",
+      "tige"
+    ],
+    [
+      "tige",
+      "manche",
+      "bout de tige"
+    ],
+    [
+      "conserve avec le tige et les feuilles",
+      "conservé avec le manche et les feuilles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

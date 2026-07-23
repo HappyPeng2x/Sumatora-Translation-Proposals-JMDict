@@ -1,0 +1,50 @@
+{
+  "seq": 1250420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apparence",
+      "description",
+      "expression",
+      "figure",
+      "forme",
+      "qualification"
+    ],
+    [
+      "forme",
+      "apparence",
+      "aspect"
+    ],
+    [
+      "apparence",
+      "traits du visage"
+    ],
+    [
+      "ornement",
+      "modification",
+      "changement",
+      "représentation figurative"
+    ],
+    [
+      "description",
+      "dépiction"
+    ],
+    [
+      "figure stylistique",
+      "figure rhétorique",
+      "métaphore"
+    ],
+    [
+      "décrire",
+      "représenter",
+      "illustrer",
+      "esquisser"
+    ],
+    [
+      "parler en images",
+      "exprimer par des images",
+      "modifier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

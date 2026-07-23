@@ -5,6 +5,9 @@
     [
       "étudiant qui se finance seul",
       "étudiant travaillant"
+    ],
+    [
+      "étudiant en difficulté financière"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1250700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "honorer",
+      "respecter"
+    ],
+    [
+      "vénérer; adorer; considérer comme divin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,33 @@
+{
+  "seq": 1251130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "administration",
+      "direction",
+      "gestion"
+    ],
+    [
+      "gestion d'entreprise"
+    ],
+    [
+      "construction et mise en œuvre d'une fondation; développement; exploitation"
+    ],
+    [
+      "préparatifs; mesures préventives; programme; projet"
+    ],
+    [
+      "se hâter; agir avec empressement; gérer; diriger une entreprise; conduire un hôtel ou un restaurant; exploiter"
+    ],
+    [
+      "diriger; gérer"
+    ],
+    [
+      "développer; exploiter; exploiter (une ressource)"
+    ],
+    [
+      "planifier; élaborer; mettre en œuvre un projet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

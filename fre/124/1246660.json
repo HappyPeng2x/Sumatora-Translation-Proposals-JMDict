@@ -1,0 +1,16 @@
+{
+  "seq": 1246660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dégager",
+      "extraire",
+      "ramasser"
+    ],
+    [
+      "découvrir",
+      "trouver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

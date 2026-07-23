@@ -6,6 +6,9 @@
       "monde économique",
       "milieu financier",
       "communauté d'affaires"
+    ],
+    [
+      "monde économique"
     ]
   ],
   "model": "qwen3:14b"

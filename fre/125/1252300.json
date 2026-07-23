@@ -1,0 +1,17 @@
+{
+  "seq": 1252300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garde",
+      "escorte",
+      "patrouille"
+    ],
+    [
+      "escorte",
+      "vigile",
+      "sentinelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

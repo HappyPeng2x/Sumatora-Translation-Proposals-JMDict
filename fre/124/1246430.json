@@ -1,0 +1,16 @@
+{
+  "seq": 1246430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accueillir",
+      "traiter"
+    ],
+    [
+      "recevoir",
+      "héberger",
+      "accueillir chaleureusement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

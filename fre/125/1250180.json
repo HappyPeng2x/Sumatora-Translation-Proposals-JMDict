@@ -1,0 +1,20 @@
+{
+  "seq": 1250180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chance",
+      "occasion",
+      "opportunité"
+    ],
+    [
+      "déclencheur",
+      "cause"
+    ],
+    [
+      "facteur décisif",
+      "point de vue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

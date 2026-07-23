@@ -1,0 +1,15 @@
+{
+  "seq": 1244730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "descendre en courant",
+      "descendre rapidement"
+    ],
+    [
+      "descendre (des escaliers; etc.) en courant",
+      "s'élancer en bas (des escaliers; etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

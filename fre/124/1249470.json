@@ -1,0 +1,29 @@
+{
+  "seq": 1249470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inclination",
+      "penchant",
+      "tendance"
+    ],
+    [
+      "tendance",
+      "orientation",
+      "direction"
+    ],
+    [
+      "tendance à gauche",
+      "orientation à gauche"
+    ],
+    [
+      "penchant",
+      "disposition"
+    ],
+    [
+      "tendance",
+      "orientation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

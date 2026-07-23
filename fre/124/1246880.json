@@ -1,0 +1,14 @@
+{
+  "seq": 1246880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "châtaigne",
+      "marron"
+    ],
+    [
+      "châtaigne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

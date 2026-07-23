@@ -6,6 +6,9 @@
       "fonds militaires",
       "dépenses militaires",
       "budget militaire"
+    ],
+    [
+      "dépenses de défense; budget de la défense; budget militaire"
     ]
   ],
   "model": "qwen3:14b"

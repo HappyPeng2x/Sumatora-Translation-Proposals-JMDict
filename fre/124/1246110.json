@@ -1,0 +1,14 @@
+{
+  "seq": 1246110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "larmes de crocodile"
+    ],
+    [
+      "larmes feintes",
+      "pleurs hypocrites"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

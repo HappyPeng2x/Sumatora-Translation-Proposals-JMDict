@@ -1,0 +1,17 @@
+{
+  "seq": 1247460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "directives",
+      "instructions"
+    ],
+    [
+      "décret"
+    ],
+    [
+      "ordre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

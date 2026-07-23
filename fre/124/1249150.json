@@ -1,0 +1,19 @@
+{
+  "seq": 1249150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "la discipline militaire",
+      "le droit militaire",
+      "les articles de guerre"
+    ],
+    [
+      "les règlements militaires",
+      "le droit de guerre"
+    ],
+    [
+      "la discipline militaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1245170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grommellement",
+      "murmures",
+      "plainte sans fondements"
+    ],
+    [
+      "folie",
+      "ignorance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

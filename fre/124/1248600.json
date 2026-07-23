@@ -9,6 +9,9 @@
     ],
     [
       "affaires gouvernementales liées à l'armée"
+    ],
+    [
+      "régime militaire"
     ]
   ],
   "model": "qwen3:14b"

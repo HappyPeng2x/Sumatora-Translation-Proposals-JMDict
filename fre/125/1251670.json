@@ -1,0 +1,17 @@
+{
+  "seq": 1251670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "via"
+    ],
+    [
+      "par",
+      "par l'intermédiaire de",
+      "en passant par",
+      "en traversant",
+      "en suivant la route passant par"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

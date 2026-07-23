@@ -1,0 +1,12 @@
+{
+  "seq": 1250080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "argile diatomée",
+      "argile siliceuse",
+      "kieselguhr"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

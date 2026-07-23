@@ -1,0 +1,17 @@
+{
+  "seq": 1247240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décoration",
+      "médaille",
+      "ordre"
+    ],
+    [
+      "honneur",
+      "fierté",
+      "dignité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

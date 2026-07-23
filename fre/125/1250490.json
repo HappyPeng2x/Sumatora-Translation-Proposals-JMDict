@@ -1,0 +1,13 @@
+{
+  "seq": 1250490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bénédiction",
+      "pitié",
+      "faveur",
+      "bienfait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

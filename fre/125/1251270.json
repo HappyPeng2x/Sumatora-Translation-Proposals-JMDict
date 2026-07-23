@@ -1,0 +1,22 @@
+{
+  "seq": 1251270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expérience"
+    ],
+    [
+      "expérience de vie",
+      "maturité",
+      "aisance dans le monde"
+    ],
+    [
+      "essai",
+      "expérience"
+    ],
+    [
+      "expérience (forme d'empirisme)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -7,6 +7,9 @@
       "standart",
       "couleurs d'un régiment",
       "enseigne"
+    ],
+    [
+      "drapeau de régiment remis par l'empereur avant 1945"
     ]
   ],
   "model": "qwen3:14b"

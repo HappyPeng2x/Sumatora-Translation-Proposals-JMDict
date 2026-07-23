@@ -5,6 +5,9 @@
     [
       "livre militaire",
       "chronique de guerre"
+    ],
+    [
+      "traité militaire"
     ]
   ],
   "model": "qwen3:14b"

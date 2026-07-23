@@ -1,0 +1,15 @@
+{
+  "seq": 1250360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "formation"
+    ],
+    [
+      "chirurgie réparatrice",
+      "remplacement",
+      "plastie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

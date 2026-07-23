@@ -1,0 +1,15 @@
+{
+  "seq": 1250610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "insertion",
+      "parution"
+    ],
+    [
+      "insérer",
+      "publier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

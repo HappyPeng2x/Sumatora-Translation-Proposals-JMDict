@@ -6,6 +6,9 @@
       "stratège",
       "tacticien",
       "manipulateur"
+    ],
+    [
+      "manipulateur"
     ]
   ],
   "model": "qwen3:14b"

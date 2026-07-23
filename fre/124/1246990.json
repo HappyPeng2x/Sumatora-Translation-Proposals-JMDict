@@ -18,6 +18,9 @@
     [
       "lancer (une lance)",
       "donner un coup (ex. un coup de poing)"
+    ],
+    [
+      "sortir en masse pour un événement (comme un festival de fleurs)"
     ]
   ],
   "model": "qwen3:14b"

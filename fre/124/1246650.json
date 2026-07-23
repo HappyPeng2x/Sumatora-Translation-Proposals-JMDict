@@ -1,0 +1,15 @@
+{
+  "seq": 1246650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dégager",
+      "déterrer",
+      "découvrir"
+    ],
+    [
+      "exploiter (une nouvelle catégorie de électeurs)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1245280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vide"
+    ],
+    [
+      "dépourvu de contenu ; vide de tout objet ; sans fardeau"
+    ],
+    [
+      "déshonoré ; faux ; non tenu ; insincère ; vide de sens"
+    ],
+    [
+      "manqué; sans résultat; vide; creux; inoccupé; non gardé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

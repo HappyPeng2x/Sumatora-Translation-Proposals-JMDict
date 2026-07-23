@@ -1,0 +1,13 @@
+{
+  "seq": 1245850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "château en l'air"
+    ],
+    [
+      "mirage; illusion optique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

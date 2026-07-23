@@ -1,0 +1,19 @@
+{
+  "seq": 1247000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avancer",
+      "faire progresser"
+    ],
+    [
+      "avancer",
+      "faire progresser"
+    ],
+    [
+      "reporter",
+      "différer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

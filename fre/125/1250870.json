@@ -1,0 +1,17 @@
+{
+  "seq": 1250870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "panorama",
+      "paysage",
+      "site"
+    ],
+    [
+      "vue",
+      "panorama",
+      "paysage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

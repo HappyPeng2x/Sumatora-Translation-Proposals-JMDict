@@ -1,0 +1,27 @@
+{
+  "seq": 1251880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être connecté",
+      "être lié",
+      "être relié"
+    ],
+    [
+      "relier (un appel téléphonique, Internet, etc.) ; réussir à joindre"
+    ],
+    [
+      "mener à (un résultat) ; aboutir à (un résultat)"
+    ],
+    [
+      "être aligné (par exemple, des voitures) ; s'étendre ; s'étirer"
+    ],
+    [
+      "être lié (à une affaire) ; être connecté (à) ; avoir un rapport (avec)"
+    ],
+    [
+      "être apparenté (par le sang)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1249170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "armée",
+      "soldats",
+      "guerre"
+    ],
+    [
+      "guerre",
+      "bataille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

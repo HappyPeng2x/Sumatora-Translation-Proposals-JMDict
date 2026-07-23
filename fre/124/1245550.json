@@ -1,0 +1,29 @@
+{
+  "seq": 1245550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace vide",
+      "ouverture",
+      "ouverture",
+      "ouverture"
+    ],
+    [
+      "espace entre deux choses"
+    ],
+    [
+      "lacune",
+      "défaut",
+      "défaut"
+    ],
+    [
+      "défaut",
+      "erreur"
+    ],
+    [
+      "temps libre",
+      "loisirs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

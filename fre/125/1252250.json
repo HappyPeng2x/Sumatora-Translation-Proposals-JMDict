@@ -1,0 +1,20 @@
+{
+  "seq": 1252250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complot",
+      "plan",
+      "ruse",
+      "stratagème"
+    ],
+    [
+      "ruse",
+      "manœuvre",
+      "piège",
+      "combine",
+      "intrigue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

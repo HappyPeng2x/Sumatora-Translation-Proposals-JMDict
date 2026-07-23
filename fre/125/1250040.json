@@ -1,0 +1,17 @@
+{
+  "seq": 1250040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclaircissements",
+      "édification",
+      "développement"
+    ],
+    [
+      "développer",
+      "faire évoluer",
+      "former"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

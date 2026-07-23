@@ -1,0 +1,44 @@
+{
+  "seq": 1252140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "addition",
+      "calcul",
+      "comptes"
+    ],
+    [
+      "estimation",
+      "calcul",
+      "prévision"
+    ],
+    [
+      "compter",
+      "régler une dette",
+      "payer (une somme due)"
+    ],
+    [
+      "estimation",
+      "calcul approximatif",
+      "prévision"
+    ],
+    [
+      "calcul",
+      "opération arithmétique",
+      "prise en compte"
+    ],
+    [
+      "estimation",
+      "budget",
+      "évaluation",
+      "taxation"
+    ],
+    [
+      "règlement",
+      "paiement",
+      "liquidation",
+      "remboursement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

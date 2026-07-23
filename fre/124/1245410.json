@@ -8,6 +8,12 @@
     ],
     [
       "post honorifique sans fonction réelle"
+    ],
+    [
+      "interregnum"
+    ],
+    [
+      "sedisvacatie"
     ]
   ],
   "model": "qwen3:14b"

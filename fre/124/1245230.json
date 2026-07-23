@@ -1,0 +1,24 @@
+{
+  "seq": 1245230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bêtise",
+      "sottise",
+      "stupidité"
+    ],
+    [
+      "stupidité",
+      "bêtise",
+      "sottise",
+      "absurdité",
+      "nonsense",
+      "folie",
+      "imprudence",
+      "démence",
+      "folie furieuse",
+      "déraison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

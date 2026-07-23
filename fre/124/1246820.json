@@ -5,6 +5,9 @@
     [
       "polishage de chaussures",
       "personne qui polis les chaussures"
+    ],
+    [
+      "personne qui nettoie les chaussures"
     ]
   ],
   "model": "qwen3:14b"

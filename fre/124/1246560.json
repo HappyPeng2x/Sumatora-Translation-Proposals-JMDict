@@ -1,0 +1,12 @@
+{
+  "seq": 1246560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'agenouiller",
+      "se baisser",
+      "plier (les genoux)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -9,6 +9,14 @@
     [
       "chercher refuge dans",
       "prendre refuge dans"
+    ],
+    [
+      "se presser",
+      "se rueler"
+    ],
+    [
+      "chercher refuge",
+      "prendre refuge"
     ]
   ],
   "model": "qwen3:14b"

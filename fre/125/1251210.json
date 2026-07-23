@@ -6,6 +6,10 @@
       "le personnel de direction",
       "la direction",
       "les cadres supérieurs"
+    ],
+    [
+      "le management",
+      "la direction d'une entreprise"
     ]
   ],
   "model": "qwen3:14b"

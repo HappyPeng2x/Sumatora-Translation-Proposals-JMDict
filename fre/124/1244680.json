@@ -1,0 +1,49 @@
+{
+  "seq": 1244680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épreuves",
+      "peine",
+      "soucis",
+      "tracas"
+    ],
+    [
+      "anxiété",
+      "préoccupation",
+      "souci",
+      "inquiétude"
+    ],
+    [
+      "soucis d'autrui",
+      "tracas",
+      "peine",
+      "affliction"
+    ],
+    [
+      "se donner du mal",
+      "faire des efforts",
+      "se fatiguer",
+      "se tourmenter"
+    ],
+    [
+      "subir des difficultés",
+      "faire beaucoup d'efforts",
+      "travailler dur",
+      "s'épuiser"
+    ],
+    [
+      "se faire du souci",
+      "être inquiet",
+      "être anxieux",
+      "tâtonner"
+    ],
+    [
+      "s'inquiéter",
+      "avoir des soucis",
+      "se préoccuper",
+      "se tourmenter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

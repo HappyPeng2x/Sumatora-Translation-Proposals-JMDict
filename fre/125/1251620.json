@@ -1,0 +1,20 @@
+{
+  "seq": 1251620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre sacré",
+      "sutra",
+      "écriture sainte"
+    ],
+    [
+      "sutra",
+      "livre sacré",
+      "écriture sainte",
+      "Bible",
+      "Coran",
+      "classique confucéen"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,30 @@
+{
+  "seq": 1244530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anxiété",
+      "difficulté",
+      "douleur",
+      "effort",
+      "zèle"
+    ],
+    [
+      "faire des efforts",
+      "s'employer",
+      "se donner du mal"
+    ],
+    [
+      "inquiétude",
+      "souci",
+      "crainte",
+      "peur"
+    ],
+    [
+      "effort",
+      "peine",
+      "souffrance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

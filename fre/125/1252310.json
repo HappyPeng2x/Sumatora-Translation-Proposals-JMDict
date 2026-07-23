@@ -1,0 +1,21 @@
+{
+  "seq": 1252310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alerte",
+      "mesures de précaution",
+      "mise en garde",
+      "vigilance"
+    ],
+    [
+      "alerter",
+      "prévenir",
+      "mettre en garde",
+      "prendre des précautions",
+      "être vigilant",
+      "être sur ses gardes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

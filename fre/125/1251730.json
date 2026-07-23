@@ -1,0 +1,17 @@
+{
+  "seq": 1251730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "raccomodage",
+      "rapiéçage"
+    ],
+    [
+      "assemblage",
+      "recueil",
+      "compilation",
+      "copie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

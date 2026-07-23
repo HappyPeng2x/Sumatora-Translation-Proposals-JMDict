@@ -1,0 +1,52 @@
+{
+  "seq": 1244950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ingrédients",
+      "moyens",
+      "numéral pour armures,costumes, meubles",
+      "outils"
+    ],
+    [
+      "ingrédients ajoutés à un bouillon, du riz, etc."
+    ],
+    [
+      "unité de mesure pour des ensembles d'armures, d'ustensiles, de meubles, etc."
+    ],
+    [
+      "(allemand) pigment pour la couleur; (néerlandais) suite; escorte; personnel; (en particulier) hôte; hôtesse"
+    ],
+    [
+      "(allemand) mari; épouse; (néerlandais) vêtements"
+    ],
+    [
+      "(allemand) partenaire; adversaire; (néerlandais) pastel"
+    ],
+    [
+      "(allemand) mot-numéral pour des phrases; des ensembles; etc.; (néerlandais) argent volé; turf"
+    ],
+    [
+      "(néerlandais) mot-numéral pour un ensemble de vêtements; armures; ensemble d'instruments; plateau de plats"
+    ],
+    [
+      "(néerlandais) mot-numéral pour un inrō; boîte de rangement"
+    ],
+    [
+      "(néerlandais) mot-numéral pour des sièges portables"
+    ],
+    [
+      "(néerlandais) mot-numéral pour des selles"
+    ],
+    [
+      "(néerlandais) mot-numéral pour des gants de tireur à l'arc"
+    ],
+    [
+      "(néerlandais) mot-numéral pour des cordons de prière; paternostres"
+    ],
+    [
+      "(néerlandais) mot-numéral pour des peignes; (a) assortir; équiper; fournir; (b) outillage; matériel; instruments; (c) compte-rendu détaillé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

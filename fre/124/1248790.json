@@ -5,6 +5,9 @@
     [
       "histoire de guerre",
       "récit de combat"
+    ],
+    [
+      "romans populaires sur les guerres et les batailles (à l'époque d'Edo)"
     ]
   ],
   "model": "qwen3:14b"

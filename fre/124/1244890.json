@@ -5,6 +5,9 @@
     [
       "insecticide",
       "répulsif contre les insectes"
+    ],
+    [
+      "médicament vermifuge"
     ]
   ],
   "model": "qwen3:14b"

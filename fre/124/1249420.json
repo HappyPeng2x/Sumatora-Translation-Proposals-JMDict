@@ -1,0 +1,38 @@
+{
+  "seq": 1249420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "basculer",
+      "gîter",
+      "gaspiller",
+      "incliner",
+      "pencher",
+      "ruiner (un pays)",
+      "s'appliquer",
+      "se concentrer sur",
+      "vider"
+    ],
+    [
+      "consacrer",
+      "se consacrer à",
+      "mettre tout son élan dans"
+    ],
+    [
+      "ruiner",
+      "gaspiller",
+      "vider"
+    ],
+    [
+      "boire",
+      "se mettre à boire"
+    ],
+    [
+      "critiquer",
+      "blâmer",
+      "dévaloriser",
+      "déprécier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,11 @@
     [
       "enfant adopté",
       "enfant issu d'une union non mariée"
+    ],
+    [
+      "mouton noir",
+      "personne rejetée",
+      "personne mal aimée"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1244520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plainte",
+      "réclamation"
+    ],
+    [
+      "difficulté",
+      "complication",
+      "problème"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1245100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bête",
+      "sot",
+      "stupide"
+    ],
+    [
+      "imperfection",
+      "négligence"
+    ],
+    [
+      "paraître bête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

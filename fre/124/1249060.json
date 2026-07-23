@@ -5,6 +5,11 @@
     [
       "militaire",
       "destiné à l'usage militaire"
+    ],
+    [
+      "dépenses militaires",
+      "fardeau militaire",
+      "coûts militaires"
     ]
   ],
   "model": "qwen3:14b"

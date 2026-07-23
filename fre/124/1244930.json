@@ -10,6 +10,35 @@
     ],
     [
       "pont (d'un violon, etc.)"
+    ],
+    [
+      "élément d'une partition musicale",
+      "musicien performant",
+      "joueur de haut niveau"
+    ],
+    [
+      "image individuelle",
+      "instantané",
+      "scène (dans un film)"
+    ],
+    [
+      "case d'un manga",
+      "cadre",
+      "panneau"
+    ],
+    [
+      "heure hebdomadaire",
+      "rouleau",
+      "boucle"
+    ],
+    [
+      "roue de pivot",
+      "roue de roulement",
+      "rouleau (pour meubles ou piano)"
+    ],
+    [
+      "figurine stylisée de shogi",
+      "forme stylisée de violon"
     ]
   ],
   "model": "qwen3:14b"

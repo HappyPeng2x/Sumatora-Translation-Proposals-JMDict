@@ -1,0 +1,15 @@
+{
+  "seq": 1246720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chausseur",
+      "cordonnier",
+      "marchand de chaussures"
+    ],
+    [
+      "maison de chaussures; boutique de chaussures"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

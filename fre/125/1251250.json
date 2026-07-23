@@ -1,0 +1,21 @@
+{
+  "seq": 1251250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cours",
+      "déroulement",
+      "développement"
+    ],
+    [
+      "déroulement",
+      "évolution",
+      "cours"
+    ],
+    [
+      "transit",
+      "passage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -8,6 +8,14 @@
       "enregistrer",
       "allouer",
       "compter (un montant) dans un total"
+    ],
+    [
+      "définir",
+      "affecter",
+      "détacher",
+      "réserver",
+      "réserver",
+      "inclure dans un budget"
     ]
   ],
   "model": "qwen3:14b"

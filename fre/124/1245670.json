@@ -6,6 +6,9 @@
       "espace vide",
       "case vide",
       "lacune"
+    ],
+    [
+      "rubrique"
     ]
   ],
   "model": "qwen3:14b"

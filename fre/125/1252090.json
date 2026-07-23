@@ -1,0 +1,25 @@
+{
+  "seq": 1252090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plan",
+      "planning",
+      "programme",
+      "projet"
+    ],
+    [
+      "réflexion"
+    ],
+    [
+      "mot de mesure pour les plans"
+    ],
+    [
+      "faire des plans; planifier; programmer; entreprendre; projeter"
+    ],
+    [
+      "prendre en considération; réfléchir; peser le pour et le contre; méditer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

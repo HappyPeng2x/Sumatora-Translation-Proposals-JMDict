@@ -1,0 +1,12 @@
+{
+  "seq": 1245970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gaspillage",
+      "dépense inutile",
+      "gaspi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1252060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrangement",
+      "disposition",
+      "jugement",
+      "bonne volonté",
+      "prudence"
+    ],
+    [
+      "mesure",
+      "intervention",
+      "médiation",
+      "précaution",
+      "règlement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

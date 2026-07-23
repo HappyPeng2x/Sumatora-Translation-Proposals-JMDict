@@ -1,0 +1,16 @@
+{
+  "seq": 1245680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bleu ciel"
+    ],
+    [
+      "état du ciel; état météorologique; ciel bleu"
+    ],
+    [
+      "vêtements de deuil légèrement bleuâtres portés lors d'une cérémonie funéraire à l'époque d'Edo"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

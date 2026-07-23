@@ -1,0 +1,16 @@
+{
+  "seq": 1250270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "constituer",
+      "façonner",
+      "former",
+      "mouler"
+    ],
+    [
+      "s'habiller; se parer; se préparer; se mettre en valeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

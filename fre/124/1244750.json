@@ -1,0 +1,15 @@
+{
+  "seq": 1244750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courir vers",
+      "se précipiter vers"
+    ],
+    [
+      "venir en courant",
+      "arriver en courant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

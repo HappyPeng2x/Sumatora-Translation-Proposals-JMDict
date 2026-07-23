@@ -1,0 +1,35 @@
+{
+  "seq": 1244350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être inquiet",
+      "gémir",
+      "souffrir"
+    ],
+    [
+      "être dans une situation difficile",
+      "être en difficulté"
+    ],
+    [
+      "souffrir",
+      "être dans le besoin"
+    ],
+    [
+      "souffrir physiquement ou mentalement",
+      "se tourmenter",
+      "se faire souffrir"
+    ],
+    [
+      "être perplexe",
+      "être désemparé",
+      "être dans le doute"
+    ],
+    [
+      "faire de grands efforts",
+      "se donner beaucoup de peine",
+      "s'employer à fond"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

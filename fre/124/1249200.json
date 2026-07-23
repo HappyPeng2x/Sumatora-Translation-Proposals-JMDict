@@ -1,0 +1,11 @@
+{
+  "seq": 1249200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonies militaires",
+      "honneurs militaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

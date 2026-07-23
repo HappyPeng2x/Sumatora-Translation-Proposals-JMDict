@@ -1,0 +1,27 @@
+{
+  "seq": 1251120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "historique",
+      "le cours des choses",
+      "les circonstances"
+    ],
+    [
+      "position (angle, degrés)"
+    ],
+    [
+      "tissu (trame et maille)"
+    ],
+    [
+      "fils de trame et de maille (d'un tissu)"
+    ],
+    [
+      "détails; circonstances; situation; état des choses"
+    ],
+    [
+      "ordre fondamental; règle fondamentale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

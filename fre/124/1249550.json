@@ -1,0 +1,12 @@
+{
+  "seq": 1249550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "consacrer",
+      "mettre tout son effort dans",
+      "porter toute son attention sur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

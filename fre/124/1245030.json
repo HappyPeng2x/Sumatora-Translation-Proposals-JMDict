@@ -1,0 +1,22 @@
+{
+  "seq": 1245030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "incarnation",
+      "matérialisation",
+      "réalisation",
+      "actualisation",
+      "prise de forme",
+      "prise de consistance"
+    ],
+    [
+      "incarner",
+      "matérialiser",
+      "réaliser",
+      "concrétiser",
+      "donner une forme concrète"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

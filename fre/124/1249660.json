@@ -1,0 +1,14 @@
+{
+  "seq": 1249660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cas criminel",
+      "détective"
+    ],
+    [
+      "affaire criminelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

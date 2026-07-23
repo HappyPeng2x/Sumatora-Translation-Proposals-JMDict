@@ -5,6 +5,13 @@
     [
       "nation en guerre",
       "nation militariste"
+    ],
+    [
+      "État militariste",
+      "gouvernement militaire"
+    ],
+    [
+      "Pays en état de guerre"
     ]
   ],
   "model": "qwen3:14b"

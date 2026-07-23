@@ -1,0 +1,14 @@
+{
+  "seq": 1247650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe de villages",
+      "amas de plantes"
+    ],
+    [
+      "collection de villages"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

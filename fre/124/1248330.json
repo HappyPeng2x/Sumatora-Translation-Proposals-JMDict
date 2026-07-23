@@ -5,6 +5,9 @@
     [
       "offense militaire",
       "offence militaire"
+    ],
+    [
+      "criminel de guerre"
     ]
   ],
   "model": "qwen3:14b"

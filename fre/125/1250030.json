@@ -1,0 +1,25 @@
+{
+  "seq": 1250030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "révélation"
+    ],
+    [
+      "révélation divine",
+      "manifestation divine",
+      "dévoilement divin"
+    ],
+    [
+      "révéler",
+      "dévoiler",
+      "déclarer publiquement"
+    ],
+    [
+      "rendre public",
+      "annoncer",
+      "dévoiler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

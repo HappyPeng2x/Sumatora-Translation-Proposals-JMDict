@@ -1,0 +1,14 @@
+{
+  "seq": 1245340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "terrain inoccupé",
+      "terrain vague"
+    ],
+    [
+      "point vide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

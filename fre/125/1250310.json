@@ -1,0 +1,25 @@
+{
+  "seq": 1250310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expression mathématique",
+      "formalisme",
+      "formalité",
+      "forme"
+    ],
+    [
+      "format; forme; style; manière"
+    ],
+    [
+      "formalité; forme"
+    ],
+    [
+      "mode; forme"
+    ],
+    [
+      "forme (binaire, quadratique, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

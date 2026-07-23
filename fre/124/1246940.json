@@ -1,0 +1,16 @@
+{
+  "seq": 1246940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "différer",
+      "reporter",
+      "faire descendre"
+    ],
+    [
+      "mettre en bas",
+      "déplacer vers le bas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

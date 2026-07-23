@@ -1,0 +1,11 @@
+{
+  "seq": 1250300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "philosophie",
+      "métaphysique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

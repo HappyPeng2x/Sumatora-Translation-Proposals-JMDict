@@ -1,0 +1,11 @@
+{
+  "seq": 1249650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exécution capitale",
+      "mort par exécution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

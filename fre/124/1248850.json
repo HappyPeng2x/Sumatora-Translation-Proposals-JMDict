@@ -1,0 +1,13 @@
+{
+  "seq": 1248850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clique ou parti militaire"
+    ],
+    [
+      "militaire privé (du pouvoir militaire régional à la fin de la dynastie Qing jusqu'à la fondation de la République populaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

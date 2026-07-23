@@ -1,0 +1,50 @@
+{
+  "seq": 1250600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire paraître",
+      "insérer (annonce)",
+      "publier"
+    ],
+    [
+      "hisser (un drapeau)"
+    ],
+    [
+      "prétendre",
+      "mettre en avant",
+      "promouvoir",
+      "proclamer",
+      "exalter"
+    ],
+    [
+      "publier",
+      "imprimer",
+      "faire paraître",
+      "diffuser",
+      "reproduire"
+    ],
+    [
+      "relever",
+      "monter",
+      "rabattre",
+      "retrousser",
+      "rouler"
+    ],
+    [
+      "alimenter",
+      "aérer",
+      "souffler",
+      "allumer",
+      "entretenir"
+    ],
+    [
+      "publier",
+      "faire paraître",
+      "annoncer",
+      "diffuser",
+      "mettre en avant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

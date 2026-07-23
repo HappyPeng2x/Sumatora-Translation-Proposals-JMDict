@@ -1,0 +1,26 @@
+{
+  "seq": 1247470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entraînement",
+      "exercice"
+    ],
+    [
+      "exercice de répétition pour apprendre par cœur"
+    ],
+    [
+      "exercice pratique; entraînement; formation; instruction; discipline"
+    ],
+    [
+      "s'entraîner; faire des exercices; se former"
+    ],
+    [
+      "apprendre la discipline; instiller de l'ordre"
+    ],
+    [
+      "faire répéter; former selon des règles strictes; faire faire des exercices militaires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

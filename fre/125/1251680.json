@@ -1,0 +1,17 @@
+{
+  "seq": 1251680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "administration financière",
+      "comptabilité",
+      "gestion"
+    ],
+    [
+      "direction",
+      "gestion",
+      "administration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

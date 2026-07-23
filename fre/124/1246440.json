@@ -1,0 +1,25 @@
+{
+  "seq": 1246440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "angle",
+      "coin",
+      "encoignure",
+      "recoin"
+    ],
+    [
+      "en bas à droite (sur une scène de noh)",
+      "n"
+    ],
+    [
+      "tablette carrée",
+      "n"
+    ],
+    [
+      "coiffure des jeunes de l'époque d'Edo; où la ligne des cheveux formait des lignes droites",
+      "n"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

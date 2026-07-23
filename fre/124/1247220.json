@@ -1,0 +1,14 @@
+{
+  "seq": 1247220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mérites",
+      "services rendus"
+    ],
+    [
+      "récompense pour mérites"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

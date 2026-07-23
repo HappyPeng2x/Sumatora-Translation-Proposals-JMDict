@@ -1,0 +1,13 @@
+{
+  "seq": 1246960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mettre en place",
+      "organiser",
+      "arranger",
+      "préparer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

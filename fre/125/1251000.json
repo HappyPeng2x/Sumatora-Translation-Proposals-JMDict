@@ -19,6 +19,9 @@
     [
       "-type",
       "-ish"
+    ],
+    [
+      "appartenant à la chaîne"
     ]
   ],
   "model": "qwen3:14b"

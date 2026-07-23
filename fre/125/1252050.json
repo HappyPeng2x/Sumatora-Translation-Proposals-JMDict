@@ -1,0 +1,23 @@
+{
+  "seq": 1252050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plan",
+      "projets"
+    ],
+    [
+      "mètre",
+      "appareil de mesure"
+    ],
+    [
+      "en tout",
+      "total"
+    ],
+    [
+      "mètre",
+      "appareil de mesure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

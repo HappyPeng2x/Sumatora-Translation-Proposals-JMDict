@@ -1,0 +1,30 @@
+{
+  "seq": 1251110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire l'expérience de",
+      "passer",
+      "s'écouler"
+    ],
+    [
+      "traverser",
+      "passer à travers"
+    ],
+    [
+      "vivre",
+      "subir",
+      "endurer"
+    ],
+    [
+      "traverser",
+      "parcourir",
+      "accomplir"
+    ],
+    [
+      "passer",
+      "consacrer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1250660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire partie de",
+      "participer"
+    ],
+    [
+      "s'occuper de",
+      "accompagner",
+      "prendre part à",
+      "participer à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

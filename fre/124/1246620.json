@@ -1,0 +1,31 @@
+{
+  "seq": 1246620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "flexion",
+      "réfraction"
+    ],
+    [
+      "déformation",
+      "altération",
+      "tordant",
+      "détournement"
+    ],
+    [
+      "réfraction"
+    ],
+    [
+      "inflexion",
+      "flexion (linguistique)"
+    ],
+    [
+      "réfraction"
+    ],
+    [
+      "flexion",
+      "inflexion (linguistique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

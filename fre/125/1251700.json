@@ -1,0 +1,16 @@
+{
+  "seq": 1251700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chemin",
+      "parcours",
+      "route",
+      "voie"
+    ],
+    [
+      "procédé; étapes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

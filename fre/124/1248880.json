@@ -1,0 +1,11 @@
+{
+  "seq": 1248880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mobilisation militaire",
+      "renforcement des armes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

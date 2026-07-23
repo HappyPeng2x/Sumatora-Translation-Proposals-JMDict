@@ -1,0 +1,18 @@
+{
+  "seq": 1251660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "texte sacré",
+      "écriture religieuse",
+      "sūtra"
+    ],
+    [
+      "texte religieux bouddhiste"
+    ],
+    [
+      "écriture sainte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

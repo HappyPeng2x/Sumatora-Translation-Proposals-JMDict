@@ -1,0 +1,39 @@
+{
+  "seq": 1246510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chutes",
+      "déchets",
+      "miettes"
+    ],
+    [
+      "scum",
+      "déchet",
+      "perdant"
+    ],
+    [
+      "miettes",
+      "petits morceaux"
+    ],
+    [
+      "poussière de sciage",
+      "poussière de scie"
+    ],
+    [
+      "tissu usé",
+      "tissu en lambeaux",
+      "tissu déchiré"
+    ],
+    [
+      "vieille décoration",
+      "vieille décoration de Noël"
+    ],
+    [
+      "gens mal élevés",
+      "gens impolis",
+      "gens sans éducation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

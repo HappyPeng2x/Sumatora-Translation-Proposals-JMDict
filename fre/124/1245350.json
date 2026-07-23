@@ -6,6 +6,10 @@
       "chambre disponible",
       "vacance",
       "chambre à louer"
+    ],
+    [
+      "chambre d'hôte",
+      "chambre d'invité"
     ]
   ],
   "model": "qwen3:14b"

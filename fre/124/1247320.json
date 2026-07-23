@@ -1,0 +1,18 @@
+{
+  "seq": 1247320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autorité",
+      "règne",
+      "régenter (suru)",
+      "régner (suru)"
+    ],
+    [
+      "dominer",
+      "contrôler",
+      "imposer (sa volonté)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

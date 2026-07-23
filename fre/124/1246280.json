@@ -1,0 +1,20 @@
+{
+  "seq": 1246280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "idole",
+      "image",
+      "statue"
+    ],
+    [
+      "statue divine",
+      "statue bouddhique"
+    ],
+    [
+      "idole",
+      "image vénérée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

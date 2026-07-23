@@ -1,0 +1,14 @@
+{
+  "seq": 1249290,
+  "lang": "fre",
+  "glosses": [
+    [
+      "relation",
+      "liaison",
+      "implication",
+      "entrelacs",
+      "complication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

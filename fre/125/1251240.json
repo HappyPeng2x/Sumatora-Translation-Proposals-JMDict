@@ -1,0 +1,14 @@
+{
+  "seq": 1251240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échec d'une entreprise",
+      "faillite d'une entreprise"
+    ],
+    [
+      "effondrement bancaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

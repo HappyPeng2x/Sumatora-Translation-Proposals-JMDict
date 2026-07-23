@@ -1,0 +1,11 @@
+{
+  "seq": 1251940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "graphique",
+      "montrant les mouvements de prix"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

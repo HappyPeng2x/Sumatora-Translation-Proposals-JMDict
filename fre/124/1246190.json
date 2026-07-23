@@ -5,6 +5,9 @@
     [
       "poème improvisé",
       "poème spontané"
+    ],
+    [
+      "poème improvisé"
     ]
   ],
   "model": "qwen3:14b"

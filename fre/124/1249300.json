@@ -1,0 +1,19 @@
+{
+  "seq": 1249300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affecter",
+      "avoir rapport à",
+      "concerner",
+      "impliquer"
+    ],
+    [
+      "concerne",
+      "affecte",
+      "implique",
+      "relève de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

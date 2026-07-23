@@ -1,0 +1,12 @@
+{
+  "seq": 1250370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "indices",
+      "signes",
+      "preuves"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

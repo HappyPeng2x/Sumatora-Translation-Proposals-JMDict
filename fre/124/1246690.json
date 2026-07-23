@@ -1,0 +1,25 @@
+{
+  "seq": 1246690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "creuser",
+      "excaver"
+    ],
+    [
+      "développer",
+      "approfondir"
+    ],
+    [
+      "creuser",
+      "extraire",
+      "exploiter"
+    ],
+    [
+      "prendre l'initiative",
+      "être actif",
+      "prendre la position active"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

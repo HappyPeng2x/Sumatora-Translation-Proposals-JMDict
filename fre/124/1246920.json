@@ -1,0 +1,15 @@
+{
+  "seq": 1246920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ajournement",
+      "renvoi"
+    ],
+    [
+      "différé",
+      "sursis"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

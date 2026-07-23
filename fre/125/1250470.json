@@ -1,0 +1,30 @@
+{
+  "seq": 1250470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bénédiction",
+      "grâce"
+    ],
+    [
+      "bonté",
+      "générosité",
+      "compassion"
+    ],
+    [
+      "faveur",
+      "bonté",
+      "disposition favorable"
+    ],
+    [
+      "œuvre de charité",
+      "amour du prochain"
+    ],
+    [
+      "aumône",
+      "don généreux",
+      "cadeau d'amour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

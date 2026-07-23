@@ -1,0 +1,18 @@
+{
+  "seq": 1245730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fantaisie (phantasy)",
+      "imagination",
+      "rêverie",
+      "visions"
+    ],
+    [
+      "imaginer",
+      "se laisser aller à l'imagination",
+      "construire des châteaux en l'air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

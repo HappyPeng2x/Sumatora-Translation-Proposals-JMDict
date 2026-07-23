@@ -1,0 +1,19 @@
+{
+  "seq": 1244800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(au) pas de course"
+    ],
+    [
+      "canter",
+      "marche au galop"
+    ],
+    [
+      "agir en toute hâte",
+      "agir rapidement",
+      "se dépêcher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

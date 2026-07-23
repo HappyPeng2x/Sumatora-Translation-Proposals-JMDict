@@ -1,0 +1,11 @@
+{
+  "seq": 1250890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "katsura (Cercidiphyllum japonicum)",
+      "arbre à feuilles caduques du genre Cercidiphyllum"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

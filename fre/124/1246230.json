@@ -1,0 +1,12 @@
+{
+  "seq": 1246230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "œuvre improvisée",
+      "travail accompli par hasard",
+      "collaboration entre deux personnes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

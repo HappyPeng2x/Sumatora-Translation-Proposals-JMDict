@@ -6,6 +6,9 @@
       "flexion et extension",
       "pli et étirement",
       "mouvement de flexion et d'extension"
+    ],
+    [
+      "systole et diastole; fléchir et étendre"
     ]
   ],
   "model": "qwen3:14b"

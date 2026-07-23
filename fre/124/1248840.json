@@ -11,6 +11,14 @@
     [
       "stratagème",
       "tactique"
+    ],
+    [
+      "militaire",
+      "commandant"
+    ],
+    [
+      "stratégie commerciale",
+      "tactique commerciale"
     ]
   ],
   "model": "qwen3:14b"

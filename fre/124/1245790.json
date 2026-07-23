@@ -1,0 +1,15 @@
+{
+  "seq": 1245790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'air",
+      "le ciel"
+    ],
+    [
+      "espace",
+      "vide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

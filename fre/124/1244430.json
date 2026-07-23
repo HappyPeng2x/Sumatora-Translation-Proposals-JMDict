@@ -1,0 +1,11 @@
+{
+  "seq": 1244430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "joie et souffrance",
+      "plaisir et douleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

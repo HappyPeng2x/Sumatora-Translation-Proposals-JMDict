@@ -7,6 +7,10 @@
       "état des choses",
       "contexte économique",
       "perspective"
+    ],
+    [
+      "état économique",
+      "situation commerciale"
     ]
   ],
   "model": "qwen3:14b"

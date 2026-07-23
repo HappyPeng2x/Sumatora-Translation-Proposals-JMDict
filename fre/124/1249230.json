@@ -1,0 +1,19 @@
+{
+  "seq": 1249230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrondissement",
+      "district"
+    ],
+    [
+      "district (de 2 à 20 quartiers de 50 maisons ou villages, pendant la période ritsuryō)",
+      "district (de 2 à 20 quartiers de 50 maisons ou villages, pendant la période ritsuryō)"
+    ],
+    [
+      "commanderie (en Chine)",
+      "commanderie (en Chine)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

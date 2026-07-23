@@ -1,0 +1,15 @@
+{
+  "seq": 1249320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "navire amarré",
+      "amarrage d'un navire"
+    ],
+    [
+      "navire amarré",
+      "navire immobilisé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

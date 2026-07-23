@@ -7,6 +7,9 @@
       "opinion honnête",
       "exhortation",
       "conseil franc et direct"
+    ],
+    [
+      "critique"
     ]
   ],
   "model": "qwen3:14b"

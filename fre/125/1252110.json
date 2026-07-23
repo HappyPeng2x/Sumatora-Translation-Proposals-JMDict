@@ -1,0 +1,12 @@
+{
+  "seq": 1252110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "projet",
+      "plan",
+      "schéma"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

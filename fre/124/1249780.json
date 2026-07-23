@@ -1,0 +1,20 @@
+{
+  "seq": 1249780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jugement",
+      "peine",
+      "sanction",
+      "sentance"
+    ],
+    [
+      "sanction légitime",
+      "peine justifiée"
+    ],
+    [
+      "peine capitale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

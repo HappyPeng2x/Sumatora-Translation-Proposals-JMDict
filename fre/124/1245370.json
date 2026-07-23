@@ -1,0 +1,21 @@
+{
+  "seq": 1245370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "creux",
+      "inutile",
+      "vain"
+    ],
+    [
+      "inutile",
+      "stérile",
+      "sans effet"
+    ],
+    [
+      "sans vie",
+      "inanimé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

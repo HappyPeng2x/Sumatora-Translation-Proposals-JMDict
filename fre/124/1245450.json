@@ -1,0 +1,14 @@
+{
+  "seq": 1245450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace",
+      "place"
+    ],
+    [
+      "mesure d'espace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1248080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affaires militaires"
+    ],
+    [
+      "militaire",
+      "de guerre",
+      "d'armement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

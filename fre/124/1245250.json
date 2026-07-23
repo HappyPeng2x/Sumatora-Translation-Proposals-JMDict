@@ -1,0 +1,12 @@
+{
+  "seq": 1245250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "moquerie",
+      "ridicule",
+      "taquinerie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

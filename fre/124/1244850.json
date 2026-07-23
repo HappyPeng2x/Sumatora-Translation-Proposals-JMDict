@@ -11,6 +11,15 @@
       "forcer (quelqu'un) à travailler dur",
       "pousser (quelqu'un) à l'effort",
       "mettre (quelqu'un) à l'œuvre"
+    ],
+    [
+      "exploiter pleinement",
+      "faire travailler dur",
+      "ne pas laisser tranquille"
+    ],
+    [
+      "maîtriser parfaitement",
+      "être parfaitement doué dans"
     ]
   ],
   "model": "qwen3:14b"

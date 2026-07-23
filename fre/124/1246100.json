@@ -5,6 +5,9 @@
     [
       "terre et air",
       "forces terrestres et aériennes"
+    ],
+    [
+      "forces aériennes et terrestres"
     ]
   ],
   "model": "qwen3:14b"

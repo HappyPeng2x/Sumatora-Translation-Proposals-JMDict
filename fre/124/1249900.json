@@ -1,0 +1,22 @@
+{
+  "seq": 1249900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frère ainé"
+    ],
+    [
+      "beau-frère"
+    ],
+    [
+      "homme âgé"
+    ],
+    [
+      "prunier; prune"
+    ],
+    [
+      "fleur de prunier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

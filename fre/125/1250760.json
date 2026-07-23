@@ -5,6 +5,9 @@
     [
       "titre honorifique",
       "terme d'adresse honorifique"
+    ],
+    [
+      "forme honorifique; terme de politesse"
     ]
   ],
   "model": "qwen3:14b"

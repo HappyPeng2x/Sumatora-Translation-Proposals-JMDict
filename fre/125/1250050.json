@@ -1,0 +1,27 @@
+{
+  "seq": 1250050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éclaicissements",
+      "instruction",
+      "vulgarisation"
+    ],
+    [
+      "éclairer",
+      "instruire",
+      "rendre plus clair"
+    ],
+    [
+      "éclairage",
+      "cultivation",
+      "éducation"
+    ],
+    [
+      "éclairage",
+      "instruction",
+      "information"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

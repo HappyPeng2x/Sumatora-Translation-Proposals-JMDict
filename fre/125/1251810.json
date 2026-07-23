@@ -1,0 +1,28 @@
+{
+  "seq": 1251810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "continuation"
+    ],
+    [
+      "héritage",
+      "prise en charge",
+      "continuation",
+      "reprise"
+    ],
+    [
+      "prolongement",
+      "poursuite",
+      "développement",
+      "avancement"
+    ],
+    [
+      "continuité",
+      "persistance",
+      "durée",
+      "continuation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

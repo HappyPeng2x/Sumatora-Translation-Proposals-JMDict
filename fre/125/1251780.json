@@ -1,0 +1,18 @@
+{
+  "seq": 1251780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accession",
+      "héritage",
+      "succession"
+    ],
+    [
+      "copie conforme"
+    ],
+    [
+      "héritage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1248630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "registre militaire",
+      "liste de recrutement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

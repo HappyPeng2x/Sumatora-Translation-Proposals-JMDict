@@ -1,0 +1,23 @@
+{
+  "seq": 1250850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paysage pittoresque"
+    ],
+    [
+      "position avantageuse",
+      "emplacement stratégique"
+    ],
+    [
+      "beauté (d'un paysage)"
+    ],
+    [
+      "paysage magnifique"
+    ],
+    [
+      "territoire d'une forteresse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

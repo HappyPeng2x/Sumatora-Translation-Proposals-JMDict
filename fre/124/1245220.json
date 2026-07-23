@@ -1,0 +1,15 @@
+{
+  "seq": 1245220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "question insensée",
+      "question stupide"
+    ],
+    [
+      "question posée par quelqu'un",
+      "question formulée par une personne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

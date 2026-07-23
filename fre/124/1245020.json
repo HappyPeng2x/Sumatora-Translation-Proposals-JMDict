@@ -1,0 +1,17 @@
+{
+  "seq": 1245020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concret",
+      "tangible",
+      "matériel"
+    ],
+    [
+      "clarté",
+      "désignation précise",
+      "évidence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

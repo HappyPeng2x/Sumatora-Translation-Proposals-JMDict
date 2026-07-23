@@ -1,0 +1,25 @@
+{
+  "seq": 1247510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amas (étoiles)",
+      "banc",
+      "bande",
+      "essaim",
+      "groupe",
+      "massif (fleurs, arbres)",
+      "nuée",
+      "troupe",
+      "troupeau"
+    ],
+    [
+      "moutonnade",
+      "bouillie",
+      "multitude",
+      "peuple",
+      "troupe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

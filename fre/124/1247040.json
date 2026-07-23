@@ -1,0 +1,54 @@
+{
+  "seq": 1247040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dévider (fil)",
+      "enrouler",
+      "feuilleter (livre)",
+      "tourner (pages)"
+    ],
+    [
+      "feuilleter",
+      "un livre"
+    ],
+    [
+      "compter",
+      "des jours"
+    ],
+    [
+      "ouvrir",
+      "un à un",
+      "fermer",
+      "un à un",
+      "des volets"
+    ],
+    [
+      "retourner",
+      "un tissu"
+    ],
+    [
+      "déplacer",
+      "dans l'ordre",
+      "un à un",
+      "des billes",
+      "d'un chapelet",
+      "des goutte-à-goutte",
+      "d'une maison"
+    ],
+    [
+      "compter",
+      "un à un",
+      "des jours"
+    ],
+    [
+      "chanter",
+      "les tons de la gamme de la Nō"
+    ],
+    [
+      "dépiter",
+      "les graines de coton"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

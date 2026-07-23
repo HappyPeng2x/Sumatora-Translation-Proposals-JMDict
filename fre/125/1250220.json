@@ -1,0 +1,40 @@
+{
+  "seq": 1250220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forme",
+      "ligne (femme)",
+      "type"
+    ],
+    [
+      "visage",
+      "traits du visage",
+      "apparence (d'une personne)",
+      "figure",
+      "allure"
+    ],
+    [
+      "forme (opposé à la matière)",
+      "manière (d'agir)",
+      "style",
+      "apparence extérieure"
+    ],
+    [
+      "état (résultant)",
+      "situation",
+      "condition",
+      "forme"
+    ],
+    [
+      "comportement (envers autrui)",
+      "attitude",
+      "démenceur",
+      "manières"
+    ],
+    [
+      "forme (qualités positionnelles d'un groupe de pierres)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

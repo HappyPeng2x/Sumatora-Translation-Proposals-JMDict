@@ -1,0 +1,11 @@
+{
+  "seq": 1251200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dirigeant",
+      "propriétaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

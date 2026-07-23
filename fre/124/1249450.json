@@ -1,0 +1,12 @@
+{
+  "seq": 1249450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "glisser vers le bas",
+      "s'écrouler",
+      "tomber en pente douce"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

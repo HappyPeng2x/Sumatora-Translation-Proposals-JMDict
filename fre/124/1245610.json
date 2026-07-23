@@ -1,0 +1,23 @@
+{
+  "seq": 1245610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "taxi libre",
+      "voiture libre"
+    ],
+    [
+      "parking lot with available spaces"
+    ],
+    [
+      "place de parking libre"
+    ],
+    [
+      "véhicule vide"
+    ],
+    [
+      "place de parking libre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

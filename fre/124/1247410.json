@@ -1,0 +1,12 @@
+{
+  "seq": 1247410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instruction",
+      "direction",
+      "briefing"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

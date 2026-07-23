@@ -1,0 +1,10 @@
+{
+  "seq": 1252160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "calculateur non électronique (personne effectuant des calculs)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

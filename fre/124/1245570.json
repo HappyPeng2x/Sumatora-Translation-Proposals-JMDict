@@ -1,0 +1,13 @@
+{
+  "seq": 1245570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aéroport"
+    ],
+    [
+      "mot mesure pour les aéroports"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

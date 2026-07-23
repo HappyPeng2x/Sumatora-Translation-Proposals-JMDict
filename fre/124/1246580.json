@@ -8,6 +8,15 @@
       "éminent",
       "remarquable",
       "d'élite"
+    ],
+    [
+      "exceptionnel",
+      "remarquable",
+      "hors du commun"
+    ],
+    [
+      "camptodactylie",
+      "déformation congénitale des doigts"
     ]
   ],
   "model": "qwen3:14b"

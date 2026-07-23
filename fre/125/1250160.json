@@ -1,0 +1,24 @@
+{
+  "seq": 1250160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jurer",
+      "promettre",
+      "s'engager à"
+    ],
+    [
+      "avoir des rapports sexuels",
+      "coucher ensemble"
+    ],
+    [
+      "promettre le mariage",
+      "s'engager à se marier"
+    ],
+    [
+      "avoir des relations sexuelles",
+      "coucher avec quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

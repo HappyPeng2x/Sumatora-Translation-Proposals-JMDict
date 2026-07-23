@@ -1,0 +1,18 @@
+{
+  "seq": 1247370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brise d'été",
+      "brise embaumée"
+    ],
+    [
+      "brise parfumée",
+      "brise printanière chargée de l'odeur des feuilles vertes"
+    ],
+    [
+      "brise du début de l'été imprégnée de l'odeur des feuilles vertes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

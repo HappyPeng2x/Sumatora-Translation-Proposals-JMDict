@@ -1,0 +1,17 @@
+{
+  "seq": 1251870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "connection",
+      "lien",
+      "relation"
+    ],
+    [
+      "parenté",
+      "filiation",
+      "lien de parenté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

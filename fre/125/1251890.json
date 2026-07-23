@@ -36,6 +36,15 @@
     [
       "liaison",
       "connexion (jeu de go)"
+    ],
+    [
+      "précision",
+      "restriction",
+      "limitation"
+    ],
+    [
+      "costume de travail",
+      "ensemble de travail"
     ]
   ],
   "model": "qwen3:14b"

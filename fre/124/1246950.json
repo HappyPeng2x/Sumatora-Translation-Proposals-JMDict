@@ -1,0 +1,21 @@
+{
+  "seq": 1246950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déplier",
+      "dérouler",
+      "ouvrir"
+    ],
+    [
+      "célébrer (un festival)",
+      "dévoiler (fig.)",
+      "montrer (fig.)"
+    ],
+    [
+      "mener (une guerre)",
+      "conduire (une action)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

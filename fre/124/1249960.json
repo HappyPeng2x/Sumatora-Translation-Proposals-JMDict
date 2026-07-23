@@ -1,0 +1,31 @@
+{
+  "seq": 1249960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frère",
+      "frères et sœurs",
+      "fratrie",
+      "sœur"
+    ],
+    [
+      "frères et sœurs issus de parents différents"
+    ],
+    [
+      "compagnon; ami"
+    ],
+    [
+      "relation de parenté en tant que frères et sœurs"
+    ],
+    [
+      "beau-frère; frères adoptifs"
+    ],
+    [
+      "frères de sang"
+    ],
+    [
+      "camarades; compagnons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

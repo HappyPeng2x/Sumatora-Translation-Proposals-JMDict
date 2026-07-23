@@ -1,0 +1,16 @@
+{
+  "seq": 1252350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garde du corps",
+      "escorte"
+    ],
+    [
+      "garde",
+      "protéger",
+      "escorter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

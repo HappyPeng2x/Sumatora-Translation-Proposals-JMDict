@@ -1,0 +1,43 @@
+{
+  "seq": 1250090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "empreinte",
+      "forme",
+      "modèle",
+      "moule",
+      "type de données"
+    ],
+    [
+      "moule",
+      "modèle",
+      "patron",
+      "empreinte",
+      "mold"
+    ],
+    [
+      "kata",
+      "forme (dans les arts martiaux)",
+      "style (dans le kabuki, le noh, etc.)"
+    ],
+    [
+      "convention",
+      "tradition",
+      "forme (standard)",
+      "formule",
+      "usage"
+    ],
+    [
+      "taille (standard)",
+      "pouces (dans les dimensions d'écrans, disques, capteurs d'image, etc.)"
+    ],
+    [
+      "forme (taxonomique)"
+    ],
+    [
+      "forme (en taxonomie)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,31 @@
+{
+  "seq": 1251750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hériter",
+      "succéder"
+    ],
+    [
+      "rapiécer",
+      "réparer",
+      "colmater"
+    ],
+    [
+      "ajouter",
+      "recharger",
+      "alimenter",
+      "poursuivre",
+      "reprendre (sa respiration)"
+    ],
+    [
+      "lier",
+      "relier",
+      "connecter"
+    ],
+    [
+      "recharger (du charbon)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -11,6 +11,19 @@
       "ennui",
       "lassitude",
       "fatigue mentale"
+    ],
+    [
+      "inquiétude",
+      "tracasserie",
+      "souci"
+    ],
+    [
+      "crainte",
+      "appréhension"
+    ],
+    [
+      "ennui",
+      "lassitude"
     ]
   ],
   "model": "qwen3:14b"

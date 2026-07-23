@@ -1,0 +1,19 @@
+{
+  "seq": 1251070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arbre généalogique",
+      "généalogie",
+      "pedigree"
+    ],
+    [
+      "arbre généalogique",
+      "généalogie",
+      "origine",
+      "provenance",
+      "ascendance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

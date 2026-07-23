@@ -1,0 +1,11 @@
+{
+  "seq": 1251600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "méridien",
+      "longitude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

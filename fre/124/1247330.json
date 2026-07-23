@@ -1,0 +1,15 @@
+{
+  "seq": 1247330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "encens",
+      "parfum"
+    ],
+    [
+      "odeur agréable",
+      "parfum"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "matériel de guerre",
       "fonds de guerre",
       "dépenses militaires"
+    ],
+    [
+      "fonds de campagne électorale"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,20 @@
+{
+  "seq": 1247030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "répéter",
+      "refaire"
+    ],
+    [
+      "enrouler à nouveau",
+      "reprendre quelque chose en parlant"
+    ],
+    [
+      "répéter",
+      "relire",
+      "rereprendre (un texte)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

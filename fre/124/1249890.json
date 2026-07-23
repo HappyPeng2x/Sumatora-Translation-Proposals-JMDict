@@ -1,0 +1,15 @@
+{
+  "seq": 1249890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "châtiment",
+      "peine",
+      "exécution"
+    ],
+    [
+      "peine capitale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1250350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "situation",
+      "état des choses",
+      "perspective"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

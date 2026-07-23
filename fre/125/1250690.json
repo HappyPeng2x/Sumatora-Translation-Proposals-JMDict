@@ -5,6 +5,12 @@
     [
       "téléphone mobile",
       "téléphone portable"
+    ],
+    [
+      "téléphone portable",
+      "appareil mobile",
+      "téléphone sans fil",
+      "mobilophone"
     ]
   ],
   "model": "qwen3:14b"

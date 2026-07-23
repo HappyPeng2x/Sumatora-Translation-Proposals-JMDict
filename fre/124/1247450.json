@@ -1,0 +1,13 @@
+{
+  "seq": 1247450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "kun-yomi (lecture japonaise des kanji)"
+    ],
+    [
+      "lecture d'un texte chinois ou kanbun en japonais"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

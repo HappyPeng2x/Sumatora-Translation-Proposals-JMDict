@@ -1,0 +1,17 @@
+{
+  "seq": 1247490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe (math)"
+    ],
+    [
+      "ensemble",
+      "collection",
+      "regroupement",
+      "catégorie",
+      "classe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

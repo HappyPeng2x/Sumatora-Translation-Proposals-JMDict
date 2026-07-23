@@ -1,0 +1,15 @@
+{
+  "seq": 1244980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concrétisation",
+      "incarnation",
+      "expression concrète"
+    ],
+    [
+      "(néerlandais) concretisering; représentation; illustration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

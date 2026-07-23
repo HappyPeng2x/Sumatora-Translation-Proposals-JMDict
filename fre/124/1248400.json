@@ -5,6 +5,9 @@
     [
       "gants en coton",
       "gants de travail"
+    ],
+    [
+      "gants de travail militaires"
     ]
   ],
   "model": "qwen3:14b"

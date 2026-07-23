@@ -1,0 +1,13 @@
+{
+  "seq": 1246520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "n",
+      "la collecte de déchets recyclables",
+      "le ramassage de déchets recyclables",
+      "le métier de ramasseur de déchets recyclables"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

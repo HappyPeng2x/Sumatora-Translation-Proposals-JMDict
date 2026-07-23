@@ -1,0 +1,29 @@
+{
+  "seq": 1250620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "affichage",
+      "affiche",
+      "annonce",
+      "notification",
+      "placard"
+    ],
+    [
+      "annonce",
+      "déclaration",
+      "avis public"
+    ],
+    [
+      "afficher",
+      "coller un affiche",
+      "exposer un poster"
+    ],
+    [
+      "annoncer",
+      "faire savoir",
+      "rendre public"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

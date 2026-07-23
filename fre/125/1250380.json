@@ -1,0 +1,14 @@
+{
+  "seq": 1250380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "expression",
+      "mine (surtout une mine furieuse ou inquiète)"
+    ],
+    [
+      "expression"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

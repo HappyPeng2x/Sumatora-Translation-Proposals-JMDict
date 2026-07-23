@@ -1,0 +1,23 @@
+{
+  "seq": 1246270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fortuitement (ni)",
+      "hasard",
+      "imprévu",
+      "par accident (ni)",
+      "soudaineté"
+    ],
+    [
+      "par hasard",
+      "inopinément",
+      "accidentellement"
+    ],
+    [
+      "contingence",
+      "contingence philosophique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,29 @@
+{
+  "seq": 1244360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire souffrir",
+      "harceler",
+      "torturer",
+      "tourmenter"
+    ],
+    [
+      "harceler",
+      "causer une douleur morale",
+      "affliger"
+    ],
+    [
+      "charger de quelque chose de lourd",
+      "donner une tâche pénible",
+      "attribuer une mission désagréable"
+    ],
+    [
+      "taquiner",
+      "embêter",
+      "humilier",
+      "traiter avec méchanceté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

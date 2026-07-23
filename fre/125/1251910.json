@@ -1,0 +1,21 @@
+{
+  "seq": 1251910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attacher",
+      "fixer",
+      "connecter",
+      "transférer (un appel téléphonique)"
+    ],
+    [
+      "attacher",
+      "fixer",
+      "lier"
+    ],
+    [
+      "transférer (un appel)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,43 @@
+{
+  "seq": 1251030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ascendance",
+      "formation géologique",
+      "lignée (famille)",
+      "système"
+    ],
+    [
+      "lignée",
+      "ascendance",
+      "origine familiale"
+    ],
+    [
+      "groupe",
+      "famille",
+      "école de pensée",
+      "parti politique"
+    ],
+    [
+      "rapport proche",
+      "lien évolutif"
+    ],
+    [
+      "population génétique",
+      "souche",
+      "lignée bactérienne"
+    ],
+    [
+      "parti politique",
+      "faction",
+      "mouvement politique"
+    ],
+    [
+      "source d'une épidémie",
+      "foyer d'une maladie contagieuse",
+      "foyer d'une maladie endémique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

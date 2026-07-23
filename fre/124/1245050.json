@@ -1,0 +1,15 @@
+{
+  "seq": 1245050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concret",
+      "précis",
+      "tangible"
+    ],
+    [
+      "concret; précis; spécifique; déterminé; définitif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

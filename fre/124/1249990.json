@@ -6,6 +6,9 @@
       "frère d'armes",
       "compagnon",
       "ami proche"
+    ],
+    [
+      "quelqu'un qui est comme un frère"
     ]
   ],
   "model": "qwen3:14b"

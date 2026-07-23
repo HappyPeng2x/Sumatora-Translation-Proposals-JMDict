@@ -1,0 +1,18 @@
+{
+  "seq": 1245930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caverne",
+      "cavité",
+      "grotte"
+    ],
+    [
+      "creux"
+    ],
+    [
+      "cavité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

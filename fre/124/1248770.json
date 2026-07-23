@@ -5,6 +5,9 @@
     [
       "corps d'armée",
       "corps (militaire)"
+    ],
+    [
+      "cohorte de taille d'environ mille hommes"
     ]
   ],
   "model": "qwen3:14b"

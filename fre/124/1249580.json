@@ -1,0 +1,57 @@
+{
+  "seq": 1249580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "admiration",
+      "adoration",
+      "concentration sur",
+      "idolâtrie",
+      "se consacrer à (suru)"
+    ],
+    [
+      "chute",
+      "renversement",
+      "effondrement"
+    ],
+    [
+      "renverser",
+      "faire tomber",
+      "abattre"
+    ],
+    [
+      "débordement",
+      "éboulement",
+      "écoulement"
+    ],
+    [
+      "consacrer",
+      "dédier",
+      "mettre au service de"
+    ],
+    [
+      "chute",
+      "renversement",
+      "effondrement"
+    ],
+    [
+      "renversement",
+      "chute",
+      "abattage"
+    ],
+    [
+      "débordement",
+      "écoulement",
+      "éboulement"
+    ],
+    [
+      "dévotion",
+      "adoration",
+      "vénération",
+      "attachement",
+      "enthousiasme",
+      "respect profond"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

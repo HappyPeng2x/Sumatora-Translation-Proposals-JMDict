@@ -1,0 +1,10 @@
+{
+  "seq": 1250210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "document écrit stipulant un accord entre deux parties"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

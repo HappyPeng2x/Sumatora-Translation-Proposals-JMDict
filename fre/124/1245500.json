@@ -1,0 +1,18 @@
+{
+  "seq": 1245500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "néant",
+      "vacuité",
+      "vain",
+      "vide"
+    ],
+    [
+      "absurdité",
+      "inutilité",
+      "vide de sens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

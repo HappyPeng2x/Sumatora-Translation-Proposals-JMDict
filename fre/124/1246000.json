@@ -1,0 +1,18 @@
+{
+  "seq": 1246000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faim"
+    ],
+    [
+      "faim",
+      "soif"
+    ],
+    [
+      "affamé",
+      "avide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

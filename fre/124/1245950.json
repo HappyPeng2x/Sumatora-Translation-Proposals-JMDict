@@ -1,0 +1,23 @@
+{
+  "seq": 1245950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "espace",
+      "espace blanc",
+      "nul",
+      "vide"
+    ],
+    [
+      "vide",
+      "absence",
+      "lacune",
+      "vide (dans un contexte abstrait)"
+    ],
+    [
+      "espace blanc",
+      "espace vide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

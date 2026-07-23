@@ -9,6 +9,16 @@
     [
       "étudier dans des conditions difficiles",
       "étudier malgré des circonstances économiques difficiles"
+    ],
+    [
+      "étudier tout en luttant pour survivre",
+      "étudier avec difficulté",
+      "étudier dans des conditions difficiles"
+    ],
+    [
+      "étude pénible",
+      "étude ardue",
+      "étude laborieuse"
     ]
   ],
   "model": "qwen3:14b"

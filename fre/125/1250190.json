@@ -1,0 +1,42 @@
+{
+  "seq": 1250190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accord",
+      "contrat",
+      "convention",
+      "engagement"
+    ],
+    [
+      "accord",
+      "convention",
+      "engagement",
+      "traité",
+      "pacte",
+      "accord verbal"
+    ],
+    [
+      "union",
+      "alliance",
+      "convention",
+      "traité",
+      "accord",
+      "pacte"
+    ],
+    [
+      "traité",
+      "pacte",
+      "convention",
+      "traité international",
+      "accord"
+    ],
+    [
+      "union",
+      "alliance",
+      "convention",
+      "accord divin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

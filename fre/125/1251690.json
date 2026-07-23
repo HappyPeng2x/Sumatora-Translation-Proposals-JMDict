@@ -1,0 +1,21 @@
+{
+  "seq": 1251690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "antécédents",
+      "carrière",
+      "curriculum vitae"
+    ],
+    [
+      "expériences"
+    ],
+    [
+      "passage du temps"
+    ],
+    [
+      "circuit; course"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

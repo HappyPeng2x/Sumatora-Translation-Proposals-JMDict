@@ -1,0 +1,15 @@
+{
+  "seq": 1246330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "idolâtrie",
+      "adoration des idoles"
+    ],
+    [
+      "culte des idoles",
+      "adoration des dieux païens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

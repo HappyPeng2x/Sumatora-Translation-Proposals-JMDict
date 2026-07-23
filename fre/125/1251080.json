@@ -1,0 +1,18 @@
+{
+  "seq": 1251080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "groupe d'entreprises",
+      "lignée",
+      "série"
+    ],
+    [
+      "groupe d'entreprises lié par des participations croisées"
+    ],
+    [
+      "affilié; subsidiaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

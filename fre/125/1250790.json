@@ -1,0 +1,23 @@
+{
+  "seq": 1250790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salut",
+      "révérence"
+    ],
+    [
+      "présenter l'arme (militaire)"
+    ],
+    [
+      "s'incliner",
+      "saluer"
+    ],
+    [
+      "saluer (militaire)",
+      "présenter l'arme",
+      "frapper (archaïque)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

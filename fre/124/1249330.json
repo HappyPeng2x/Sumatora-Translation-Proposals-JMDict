@@ -1,0 +1,13 @@
+{
+  "seq": 1249330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dispute"
+    ],
+    [
+      "contention devant un tribunal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

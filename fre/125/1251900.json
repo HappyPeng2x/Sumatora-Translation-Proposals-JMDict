@@ -1,0 +1,48 @@
+{
+  "seq": 1251900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attacher",
+      "connecter",
+      "passer (un appel téléphonique)",
+      "relier"
+    ],
+    [
+      "lier",
+      "attacher",
+      "relier"
+    ],
+    [
+      "maintenir",
+      "préserver",
+      "conserver"
+    ],
+    [
+      "transférer (un appel)",
+      "mettre quelqu'un en relation"
+    ],
+    [
+      "spéculer",
+      "faire une opération à terme"
+    ],
+    [
+      "relier (des pierres)",
+      "connecter (des pierres)"
+    ],
+    [
+      "lier",
+      "établir une liaison"
+    ],
+    [
+      "conserver",
+      "garder",
+      "préserver"
+    ],
+    [
+      "suivre (une piste)",
+      "poursuivre (une trace)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -10,6 +10,21 @@
     [
       "perte totale de face",
       "humiliation totale"
+    ],
+    [
+      "déformé",
+      "défiguré",
+      "repoussant"
+    ],
+    [
+      "inefficace",
+      "sans effet",
+      "inutile"
+    ],
+    [
+      "ordinaire",
+      "commun",
+      "vulgaire"
     ]
   ],
   "model": "qwen3:14b"

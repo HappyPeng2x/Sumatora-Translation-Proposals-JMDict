@@ -1,0 +1,29 @@
+{
+  "seq": 1250730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "\"placard\" (promotion honorifique pour se débarrasser de qqun )",
+      "distance respectueuse",
+      "donner au batteur (baseball)  un \"but sur balles intentionnel (BBI)\""
+    ],
+    [
+      "éviter",
+      "se détourner de",
+      "éviter (qqch) désagréable"
+    ],
+    [
+      "accorder un but sur balles intentionnel",
+      "donner un but sur balles intentionnel au batteur"
+    ],
+    [
+      "éviter",
+      "se détourner de",
+      "éviter (qqch) désagréable"
+    ],
+    [
+      "but sur balles intentionnel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

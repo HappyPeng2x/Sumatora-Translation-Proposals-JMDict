@@ -5,6 +5,9 @@
     [
       "réparation de chaussures",
       "réparateur de chaussures"
+    ],
+    [
+      "réparateur de chaussures"
     ]
   ],
   "model": "qwen3:14b"

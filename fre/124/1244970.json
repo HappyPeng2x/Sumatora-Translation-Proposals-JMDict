@@ -1,0 +1,14 @@
+{
+  "seq": 1244970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "incarnation",
+      "incarnate",
+      "réalisation",
+      "concrétisation",
+      "manifestation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

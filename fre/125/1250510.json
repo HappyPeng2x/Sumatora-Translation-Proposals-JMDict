@@ -1,0 +1,13 @@
+{
+  "seq": 1250510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "félicitations"
+    ],
+    [
+      "salutation adressée à l'empereur au moment de son accession au trône ou à la réception d'un titre de cour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

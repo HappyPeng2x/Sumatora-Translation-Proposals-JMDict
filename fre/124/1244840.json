@@ -1,0 +1,20 @@
+{
+  "seq": 1244840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aiguillonner",
+      "aller (en voiture, à cheval)",
+      "conduire",
+      "pousser"
+    ],
+    [
+      "conduire à grande vitesse",
+      "faire rouler rapidement"
+    ],
+    [
+      "pousser; inciter à agir; presser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

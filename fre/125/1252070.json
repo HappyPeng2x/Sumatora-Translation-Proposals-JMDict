@@ -1,0 +1,30 @@
+{
+  "seq": 1252070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arranger",
+      "diriger",
+      "discuter",
+      "disposer de"
+    ],
+    [
+      "consulter",
+      "discuter avec"
+    ],
+    [
+      "planifier"
+    ],
+    [
+      "estimer",
+      "évaluer",
+      "peser",
+      "prendre en compte"
+    ],
+    [
+      "agir en fonction des circonstances",
+      "agir selon son instinct"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

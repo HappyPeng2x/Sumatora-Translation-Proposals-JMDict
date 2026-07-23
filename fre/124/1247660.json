@@ -1,0 +1,24 @@
+{
+  "seq": 1247660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "armée",
+      "forces armées",
+      "troupe"
+    ],
+    [
+      "autorités militaires"
+    ],
+    [
+      "équipe; groupe; troupe"
+    ],
+    [
+      "équipe; groupe de sport"
+    ],
+    [
+      "division de 12 500 soldats (pendant la dynastie Zhou)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
