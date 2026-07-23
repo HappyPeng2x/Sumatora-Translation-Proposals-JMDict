@@ -1,0 +1,12 @@
+{
+  "seq": 1256070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "période de lassitude",
+      "phase d'ennui",
+      "stade de paresse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

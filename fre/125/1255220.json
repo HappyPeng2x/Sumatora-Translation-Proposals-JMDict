@@ -1,0 +1,26 @@
+{
+  "seq": 1255220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lignage",
+      "descendance",
+      "parenté",
+      "sang",
+      "origine familiale"
+    ],
+    [
+      "vaisseau sanguin",
+      "conduite sanguine"
+    ],
+    [
+      "parent",
+      "proche de sang"
+    ],
+    [
+      "parenté par le sang",
+      "liens de sang"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

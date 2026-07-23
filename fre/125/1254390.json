@@ -1,0 +1,12 @@
+{
+  "seq": 1254390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit de décider",
+      "pouvoir de décision",
+      "droit de dire son mot dans une décision"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1256030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'ennuyer",
+      "s'épuiser",
+      "devenir fatigué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

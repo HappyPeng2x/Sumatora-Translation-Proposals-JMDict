@@ -1,0 +1,18 @@
+{
+  "seq": 1257990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "certification officielle"
+    ],
+    [
+      "examen de certification",
+      "examen de licence",
+      "test de maîtrise"
+    ],
+    [
+      "test d'hypothèse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

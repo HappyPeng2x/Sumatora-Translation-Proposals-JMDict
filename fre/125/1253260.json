@@ -1,0 +1,14 @@
+{
+  "seq": 1253260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hall de réception"
+    ],
+    [
+      "palais d'État",
+      "hôtel d'État"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

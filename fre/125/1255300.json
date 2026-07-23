@@ -1,0 +1,11 @@
+{
+  "seq": 1255300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sérum",
+      "sérum sanguin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

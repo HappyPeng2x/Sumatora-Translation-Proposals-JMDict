@@ -5,6 +5,14 @@
     [
       "discours sur le théâtre",
       "conversation sur les pièces de théâtre"
+    ],
+    [
+      "négociation intense",
+      "discussion vive"
+    ],
+    [
+      "récit animé",
+      "conte mouvementé"
     ]
   ],
   "model": "qwen3:14b"

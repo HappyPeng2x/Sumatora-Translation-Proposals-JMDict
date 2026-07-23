@@ -1,0 +1,14 @@
+{
+  "seq": 1256150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bon marcheur",
+      "personne qui marche bien"
+    ],
+    [
+      "personne qui marche bien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

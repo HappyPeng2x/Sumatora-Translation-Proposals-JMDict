@@ -1,0 +1,12 @@
+{
+  "seq": 1254740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "synthèse",
+      "rédaction finale",
+      "conclusion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

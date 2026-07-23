@@ -1,0 +1,13 @@
+{
+  "seq": 1255720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lumière de la lune"
+    ],
+    [
+      "couleur de la lune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1253640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intensification",
+      "aggravation",
+      "intensification de la situation",
+      "aggravation de la situation"
+    ],
+    [
+      "intensification",
+      "aggravation",
+      "aiguisement",
+      "renforcement",
+      "détérioration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

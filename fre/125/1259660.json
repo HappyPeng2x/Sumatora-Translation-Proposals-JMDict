@@ -1,0 +1,14 @@
+{
+  "seq": 1259660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abandonner",
+      "déserter"
+    ],
+    [
+      "abandonner quelqu'un en difficulté; laisser quelqu'un en plan"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

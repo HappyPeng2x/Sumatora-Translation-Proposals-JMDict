@@ -1,0 +1,21 @@
+{
+  "seq": 1257360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "proposition",
+      "motion",
+      "soumission",
+      "suggestion"
+    ],
+    [
+      "mémoire",
+      "proposition",
+      "soumettre une proposition",
+      "suggérer",
+      "présenter une demande",
+      "formuler une demande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

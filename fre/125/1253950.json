@@ -1,0 +1,17 @@
+{
+  "seq": 1253950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défaut",
+      "point faible"
+    ],
+    [
+      "déficit",
+      "manque",
+      "insuffisance",
+      "pénurie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

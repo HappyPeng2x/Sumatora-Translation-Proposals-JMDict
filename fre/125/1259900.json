@@ -1,0 +1,24 @@
+{
+  "seq": 1259900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "revoir",
+      "se refaire une opinion"
+    ],
+    [
+      "reexaminer",
+      "réévaluer",
+      "revoir (un plan, une politique, une estimation)"
+    ],
+    [
+      "voir en meilleure lumière",
+      "avoir une meilleure opinion de"
+    ],
+    [
+      "s'améliorer",
+      "se rétablir (un marché, une maladie, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

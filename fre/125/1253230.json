@@ -1,0 +1,24 @@
+{
+  "seq": 1253230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interception",
+      "contre-attaque"
+    ],
+    [
+      "contre-attaque"
+    ],
+    [
+      "interception",
+      "saisie",
+      "récupération",
+      "arrêt"
+    ],
+    [
+      "contre",
+      "contre-attaque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1254080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lacune",
+      "partie manquante d'un texte",
+      "passage manquant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1257840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "censure",
+      "examen",
+      "inspection"
+    ],
+    [
+      "examen",
+      "inspection"
+    ],
+    [
+      "censure",
+      "vérification",
+      "sensur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

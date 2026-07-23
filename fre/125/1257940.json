@@ -1,0 +1,12 @@
+{
+  "seq": 1257940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détecteur",
+      "detection",
+      "sens (capteur)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

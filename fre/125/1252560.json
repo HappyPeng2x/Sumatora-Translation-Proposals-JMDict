@@ -1,0 +1,36 @@
+{
+  "seq": 1252560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "léger",
+      "mineur",
+      "peu sérieux"
+    ],
+    [
+      "léger (au sens du mouvement)"
+    ],
+    [
+      "mineur ; peu important"
+    ],
+    [
+      "faible ; doux ; léger (comme une plaisanterie)"
+    ],
+    [
+      "facile"
+    ],
+    [
+      "indifférencié"
+    ],
+    [
+      "légère (forme ou pierres) ; pierres légères utilisées en sacrifice"
+    ],
+    [
+      "joyeux; animé"
+    ],
+    [
+      "simple; modeste; facile; abordable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

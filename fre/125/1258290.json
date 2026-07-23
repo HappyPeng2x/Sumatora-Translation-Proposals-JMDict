@@ -18,6 +18,23 @@
     [
       "lancer de pickoff",
       "action de maintenir un coureur sur la base"
+    ],
+    [
+      "contenir",
+      "maîtriser",
+      "régler",
+      "limiter",
+      "rester sous contrôle"
+    ],
+    [
+      "encercler",
+      "encercler",
+      "détourner",
+      "contenir"
+    ],
+    [
+      "faire un lancer de pickoff",
+      "faire une action de pickoff"
     ]
   ],
   "model": "qwen3:14b"

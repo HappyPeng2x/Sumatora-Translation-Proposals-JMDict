@@ -1,0 +1,18 @@
+{
+  "seq": 1259770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vue"
+    ],
+    [
+      "plateforme de vue",
+      "surplomb"
+    ],
+    [
+      "plateforme de vue",
+      "poste d'observation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

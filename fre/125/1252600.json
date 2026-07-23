@@ -1,0 +1,26 @@
+{
+  "seq": 1252600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agile",
+      "léger"
+    ],
+    [
+      "léger d'esprit",
+      "joyeux",
+      "dynamique",
+      "détendu",
+      "rythmé"
+    ],
+    [
+      "amélioration",
+      "convalescence",
+      "rémission des symptômes"
+    ],
+    [
+      "(néerlandais) en train de s'améliorer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

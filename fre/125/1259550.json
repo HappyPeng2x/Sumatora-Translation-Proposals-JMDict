@@ -1,0 +1,18 @@
+{
+  "seq": 1259550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entrevue formelle en vue d'un mariage"
+    ],
+    [
+      "correspondance",
+      "équilibre"
+    ],
+    [
+      "miai",
+      "deux options différentes telles que si un joueur en prend une, l'autre peut prendre l'autre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1254930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alliance",
+      "union"
+    ],
+    [
+      "nouage",
+      "attache",
+      "ligature"
+    ],
+    [
+      "mettre (des vêtements, un armure, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

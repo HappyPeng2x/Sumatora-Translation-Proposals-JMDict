@@ -1,0 +1,24 @@
+{
+  "seq": 1259820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adieux",
+      "raccompagnement (à la gare, à l'aéroport)"
+    ],
+    [
+      "différé",
+      "ajournement",
+      "report"
+    ],
+    [
+      "laisser passer une balle",
+      "laisser filer une balle"
+    ],
+    [
+      "attitude d'attente",
+      "attitude d'observation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

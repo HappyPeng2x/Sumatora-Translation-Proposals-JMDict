@@ -1,0 +1,10 @@
+{
+  "seq": 1257920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vérification des billets"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1256390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "remède pour le cerveau",
+      "tonique cérébral"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

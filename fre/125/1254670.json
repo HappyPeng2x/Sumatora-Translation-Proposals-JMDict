@@ -1,0 +1,56 @@
+{
+  "seq": 1254670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attacher",
+      "lier"
+    ],
+    [
+      "porter (des fruits)"
+    ],
+    [
+      "fermer (un accord) ; conclure ; confirmer"
+    ],
+    [
+      "relier (deux lieux distants)"
+    ],
+    [
+      "fermer hermétiquement ; froncer (les lèvres)"
+    ],
+    [
+      "unir (avec) ; allier ; se joindre"
+    ],
+    [
+      "porter (des fruits)"
+    ],
+    [
+      "former (une forme)"
+    ],
+    [
+      "construire; édifier"
+    ],
+    [
+      "attacher les cheveux; coiffer"
+    ],
+    [
+      "résumer (un article; par exemple)"
+    ],
+    [
+      "terminer (une phrase)"
+    ],
+    [
+      "saisir (avec la main ou les doigts); tenir fermement"
+    ],
+    [
+      "prendre (avec la main)"
+    ],
+    [
+      "former une boule de riz"
+    ],
+    [
+      "lier des branches de sapin ou des feuilles d'herbe (dans l'antiquité; en tant que rituel magique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

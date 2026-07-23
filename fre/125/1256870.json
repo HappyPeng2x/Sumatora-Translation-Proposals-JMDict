@@ -6,6 +6,9 @@
       "l'art du combat au sabre",
       "l'escrime",
       "la maîtrise du sabre"
+    ],
+    [
+      "un accessoire de coiffure utilisé pour fixer les cheveux"
     ]
   ],
   "model": "qwen3:14b"

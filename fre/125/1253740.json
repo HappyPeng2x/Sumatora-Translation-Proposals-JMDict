@@ -1,0 +1,16 @@
+{
+  "seq": 1253740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crampes",
+      "spasme",
+      "accès violent"
+    ],
+    [
+      "éclat",
+      "déflagration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

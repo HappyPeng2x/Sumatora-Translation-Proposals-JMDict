@@ -1,0 +1,11 @@
+{
+  "seq": 1258640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "usinage",
+      "action de polir ou de tailler en utilisant une meule ou un outil similaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "toile en soie",
       "œuvre d'art sur soie"
+    ],
+    [
+      "œuvre sur soie destinée à la peinture ou à l'écriture calligraphique"
     ]
   ],
   "model": "qwen3:14b"

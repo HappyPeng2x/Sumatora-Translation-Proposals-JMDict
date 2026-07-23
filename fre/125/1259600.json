@@ -5,6 +5,12 @@
     [
       "laisser mourir sans aider",
       "ne pas porter secours à quelqu'un qui est en danger"
+    ],
+    [
+      "laisser quelqu'un mourir sans l'aider",
+      "ne pas porter secours à quelqu'un en danger",
+      "abandonner quelqu'un en difficulté",
+      "laisser quelqu'un se débrouiller seul"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,15 @@
+{
+  "seq": 1253600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "couler (bateau)"
+    ],
+    [
+      "échec total",
+      "catastrophe",
+      "débâcle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

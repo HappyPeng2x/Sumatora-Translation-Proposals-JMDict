@@ -1,0 +1,15 @@
+{
+  "seq": 1257930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "procureur général"
+    ],
+    [
+      "procureur de l'État",
+      "ministère public",
+      "parquet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

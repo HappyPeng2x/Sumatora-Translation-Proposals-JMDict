@@ -1,0 +1,21 @@
+{
+  "seq": 1257480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "construction",
+      "édifice",
+      "bâtiment"
+    ],
+    [
+      "art de la construction",
+      "architecture"
+    ],
+    [
+      "œuvre de construction",
+      "monument",
+      "édifice monumental"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

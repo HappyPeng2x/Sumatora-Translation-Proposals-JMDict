@@ -1,0 +1,13 @@
+{
+  "seq": 1255920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "période du cycle lunaire"
+    ],
+    [
+      "âge en mois (par exemple, d'un nourrisson)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

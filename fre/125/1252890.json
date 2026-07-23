@@ -9,6 +9,9 @@
     ],
     [
       "huile légère"
+    ],
+    [
+      "huile de diesel"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1255200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vigueur",
+      "enthousiasme",
+      "élan"
+    ],
+    [
+      "ardeur juvénile",
+      "énergie de la jeunesse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

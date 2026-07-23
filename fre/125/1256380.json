@@ -1,0 +1,23 @@
+{
+  "seq": 1256380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combat vaillamment",
+      "faire des efforts considérables"
+    ],
+    [
+      "fournir des efforts considérables"
+    ],
+    [
+      "combat vaillant"
+    ],
+    [
+      "efforts considérables"
+    ],
+    [
+      "exprimer ses vœux pour beaucoup de chance; souhaiter tout le succès possible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

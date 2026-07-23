@@ -1,0 +1,22 @@
+{
+  "seq": 1253180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aller à la rencontre de qq'un",
+      "aller chercher qq'un (à la gare)",
+      "rencontre",
+      "salutation",
+      "bienvenue",
+      "aller à la rencontre de qq'un",
+      "aller chercher qq'un (à la gare)"
+    ],
+    [
+      "personne envoyée pour accueillir un visiteur"
+    ],
+    [
+      "personne qui attend quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

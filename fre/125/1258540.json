@@ -1,0 +1,11 @@
+{
+  "seq": 1258540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chercheur",
+      "technicien de laboratoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

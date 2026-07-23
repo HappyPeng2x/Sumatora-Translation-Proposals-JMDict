@@ -1,0 +1,24 @@
+{
+  "seq": 1253900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avoir besoin de",
+      "manquer de",
+      "négliger"
+    ],
+    [
+      "manquer de"
+    ],
+    [
+      "laisser manquer quelque chose; manquer à quelque chose"
+    ],
+    [
+      "interrompre; se détacher en morceaux; manquer; manquer à; manquer de; ne pas suffire; ne pas atteindre; être insuffisant"
+    ],
+    [
+      "gasiller; gaspiller; perdre en vain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

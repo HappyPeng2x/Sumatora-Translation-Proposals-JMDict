@@ -1,0 +1,19 @@
+{
+  "seq": 1252390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "police"
+    ],
+    [
+      "agent de police"
+    ],
+    [
+      "commissariat de police"
+    ],
+    [
+      "gendarme (non officiel), personne qui se croit en droit d'imposer des règles, personne qui se mêle de ce qui ne le regarde pas"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

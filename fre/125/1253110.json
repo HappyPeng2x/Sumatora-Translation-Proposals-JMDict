@@ -5,6 +5,11 @@
     [
       "université des arts",
       "collège des arts"
+    ],
+    [
+      "Université nationale des beaux-arts et de la musique de Tokyo",
+      "Université des beaux-arts de Tokyo",
+      "Tokyo Geidai"
     ]
   ],
   "model": "qwen3:14b"

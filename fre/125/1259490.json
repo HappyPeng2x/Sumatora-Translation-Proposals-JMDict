@@ -1,0 +1,23 @@
+{
+  "seq": 1259490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "deviner les intentions",
+      "examiner",
+      "s'assurer"
+    ],
+    [
+      "déterminer",
+      "éclaircir",
+      "prendre connaissance de",
+      "s'assurer de"
+    ],
+    [
+      "connaître en profondeur",
+      "maîtriser",
+      "avoir une compréhension approfondie de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

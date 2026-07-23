@@ -1,0 +1,20 @@
+{
+  "seq": 1255480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lumière de la lune",
+      "lune",
+      "rayons de lune"
+    ],
+    [
+      "forme de la lune",
+      "croissant de lune",
+      "lune"
+    ],
+    [
+      "silhouette projetée par la lumière de la lune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

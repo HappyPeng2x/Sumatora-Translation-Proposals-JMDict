@@ -1,0 +1,33 @@
+{
+  "seq": 1259830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accompagner (pour un départ)",
+      "dire au-revoir"
+    ],
+    [
+      "escorter"
+    ],
+    [
+      "laisser passer"
+    ],
+    [
+      "différer",
+      "reporter",
+      "mettre de côté",
+      "laisser en l'état"
+    ],
+    [
+      "prendre en charge jusqu'à la mort",
+      "assister à un enterrement",
+      "enterrer"
+    ],
+    [
+      "attendre avant d'agir",
+      "se tenir à l'écart (d'un achat ou d'une vente)",
+      "observer et attendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

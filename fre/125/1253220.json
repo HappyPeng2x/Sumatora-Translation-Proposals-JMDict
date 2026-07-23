@@ -6,6 +6,9 @@
       "accueillir",
       "faire entrer",
       "introduire"
+    ],
+    [
+      "accepter une demande"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,9 @@
     [
       "personne rigide",
       "personne obstinée"
+    ],
+    [
+      "personne rigide et conservatrice"
     ]
   ],
   "model": "qwen3:14b"

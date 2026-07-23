@@ -1,0 +1,28 @@
+{
+  "seq": 1254610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attache",
+      "conclusion (d'une histoire)",
+      "lien",
+      "nœud"
+    ],
+    [
+      "lien",
+      "union",
+      "rattachement"
+    ],
+    [
+      "nœud",
+      "façon de nouer"
+    ],
+    [
+      "boule de riz"
+    ],
+    [
+      "union (d'ensembles)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

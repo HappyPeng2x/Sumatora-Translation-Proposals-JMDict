@@ -1,0 +1,50 @@
+{
+  "seq": 1254180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décider"
+    ],
+    [
+      "clouer",
+      "décider le résultat d'un match"
+    ],
+    [
+      "persévérer à faire",
+      "aller jusqu'au bout"
+    ],
+    [
+      "toujours faire",
+      "avoir l'habitude de faire"
+    ],
+    [
+      "prendre pour acquis",
+      "supposer"
+    ],
+    [
+      "se vêtir de manière élaborée",
+      "se mettre en beauté"
+    ],
+    [
+      "réussir à exécuter",
+      "accomplir avec succès"
+    ],
+    [
+      "immobiliser avec un étau double",
+      "bloquer avec une prise de bras"
+    ],
+    [
+      "manger ou boire quelque chose",
+      "consommer des substances illicites"
+    ],
+    [
+      "rendre responsable",
+      "faire porter la responsabilité"
+    ],
+    [
+      "manger et boire",
+      "consommer nourriture et boisson"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

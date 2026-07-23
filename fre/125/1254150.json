@@ -1,0 +1,16 @@
+{
+  "seq": 1254150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fixe; évident; banal"
+    ],
+    [
+      "vaste; bepaalde; gezette"
+    ],
+    [
+      "ordinaire; commun; habituel; sans imagination; usé; cliché; routine; conventionnel; traditionnel; stéréotypé; figé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

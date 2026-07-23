@@ -1,0 +1,10 @@
+{
+  "seq": 1258070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courbe de calibration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

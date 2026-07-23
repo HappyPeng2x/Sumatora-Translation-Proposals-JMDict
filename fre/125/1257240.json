@@ -1,0 +1,21 @@
+{
+  "seq": 1257240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détestable",
+      "haissable"
+    ],
+    [
+      "marque",
+      "trace",
+      "empreinte"
+    ],
+    [
+      "distinction",
+      "différence",
+      "discrimination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,10 @@
     [
       "contrat mensuel",
       "paiement mensuel"
+    ],
+    [
+      "mensuel",
+      "mensuelle"
     ]
   ],
   "model": "qwen3:14b"

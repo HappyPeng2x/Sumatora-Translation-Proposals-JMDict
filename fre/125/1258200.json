@@ -1,0 +1,29 @@
+{
+  "seq": 1258200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit",
+      "privilège"
+    ],
+    [
+      "liberté d'agir ou de ne pas agir",
+      "droit de revendiquer quelque chose ou d'en exiger l'usage"
+    ],
+    [
+      "pouvoir et profit tirés de ce pouvoir",
+      "droit de pratiquer certaines actions"
+    ],
+    [
+      "autorité",
+      "pouvoir légal",
+      "pouvoir"
+    ],
+    [
+      "privilège",
+      "avantage particulier",
+      "faveur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

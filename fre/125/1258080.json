@@ -1,0 +1,27 @@
+{
+  "seq": 1258080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autorité",
+      "le droit (de faire...)"
+    ],
+    [
+      "autorité",
+      "pouvoir"
+    ],
+    [
+      "liste",
+      "ruse"
+    ],
+    [
+      "fierté",
+      "orgueil"
+    ],
+    [
+      "dureté",
+      "froideur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

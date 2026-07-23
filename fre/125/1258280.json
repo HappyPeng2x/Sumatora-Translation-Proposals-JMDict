@@ -1,0 +1,17 @@
+{
+  "seq": 1258280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "forcé",
+      "étiré",
+      "torturé",
+      "pénible",
+      "contraint",
+      "artificiel",
+      "maladroit",
+      "délibérément exagéré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

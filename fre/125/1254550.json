@@ -13,6 +13,10 @@
     [
       "château anaguma",
       "ouverture défensive"
+    ],
+    [
+      "position fortifiée",
+      "disposition défensive"
     ]
   ],
   "model": "qwen3:14b"

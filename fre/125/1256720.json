@@ -1,0 +1,37 @@
+{
+  "seq": 1256720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "utilisation multiple",
+      "usage combiné",
+      "multiplicité d'usage",
+      "servir à plusieurs fins"
+    ],
+    [
+      "utilisation par plusieurs personnes",
+      "emploi commun",
+      "partage d'utilisation"
+    ],
+    [
+      "utiliser plusieurs choses ensemble",
+      "employer plusieurs objets à la fois"
+    ],
+    [
+      "utilisation multiple",
+      "multiplicité d'usage",
+      "emploi polyvalent"
+    ],
+    [
+      "utilisation par plusieurs personnes",
+      "partage d'utilisation",
+      "accès commun"
+    ],
+    [
+      "utilisation de plusieurs choses pour un seul but",
+      "emploi combiné de plusieurs éléments",
+      "multiplicité d'objets pour une seule fin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

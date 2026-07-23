@@ -1,0 +1,13 @@
+{
+  "seq": 1257070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bruit",
+      "agitation",
+      "brouhaha",
+      "bouillonnement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

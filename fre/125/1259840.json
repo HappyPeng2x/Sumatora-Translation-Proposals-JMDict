@@ -1,0 +1,19 @@
+{
+  "seq": 1259840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "faire une erreur de jugement, se méprendre sur"
+    ],
+    [
+      "mal juger",
+      "surestimer"
+    ],
+    [
+      "manquer de voir",
+      "omettre",
+      "ne pas remarquer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

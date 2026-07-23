@@ -1,0 +1,11 @@
+{
+  "seq": 1254890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fin d'une audience",
+      "fin d'un procès"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

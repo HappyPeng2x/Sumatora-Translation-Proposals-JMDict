@@ -5,6 +5,11 @@
     [
       "ouvrir (les yeux) grands",
       "dilater (les yeux)"
+    ],
+    [
+      "apercevoir",
+      "découvrir",
+      "comprendre profondément"
     ]
   ],
   "model": "qwen3:14b"

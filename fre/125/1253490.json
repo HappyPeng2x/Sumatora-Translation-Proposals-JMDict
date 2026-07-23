@@ -1,0 +1,14 @@
+{
+  "seq": 1253490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dramatique",
+      "théâtral"
+    ],
+    [
+      "extrême"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1257370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "menuiseries",
+      "accessoires de menuiserie",
+      "ouvertures"
+    ],
+    [
+      "agencement intérieur",
+      "aménagement d'un logement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

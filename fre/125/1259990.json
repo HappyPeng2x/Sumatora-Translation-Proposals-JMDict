@@ -1,0 +1,19 @@
+{
+  "seq": 1259990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "visiter un malade"
+    ],
+    [
+      "attaquer",
+      "frapper",
+      "donner un coup"
+    ],
+    [
+      "patrouiller",
+      "faire la ronde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

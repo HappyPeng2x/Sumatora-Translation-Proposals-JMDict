@@ -1,0 +1,23 @@
+{
+  "seq": 1257250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détester",
+      "exécrer"
+    ],
+    [
+      "éviter"
+    ],
+    [
+      "négliger; agir sans tenir compte de"
+    ],
+    [
+      "être nuisible à (p. ex. la poussière dans les machines)"
+    ],
+    [
+      "éviter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

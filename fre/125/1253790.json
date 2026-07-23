@@ -1,0 +1,21 @@
+{
+  "seq": 1253790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fente",
+      "fissure"
+    ],
+    [
+      "moment libre",
+      "intervalle",
+      "pause"
+    ],
+    [
+      "moment de faiblesse",
+      "faille",
+      "point faible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

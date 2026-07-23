@@ -1,0 +1,23 @@
+{
+  "seq": 1259620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "admirable",
+      "magnifique",
+      "merveilleux",
+      "splendide"
+    ],
+    [
+      "complet",
+      "total",
+      "absolu"
+    ],
+    [
+      "vue",
+      "spectacle",
+      "attraction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1254110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manque",
+      "absence",
+      "omission"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

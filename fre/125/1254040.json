@@ -1,0 +1,17 @@
+{
+  "seq": 1254040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déficit",
+      "dommage (suite a un manque)",
+      "manque"
+    ],
+    [
+      "défaut partiel",
+      "état d'un objet partiellement endommagé",
+      "état d'un objet dont une partie est manquante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

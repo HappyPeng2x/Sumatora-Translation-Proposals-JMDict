@@ -1,0 +1,20 @@
+{
+  "seq": 1256750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épée",
+      "épée"
+    ],
+    [
+      "baïonnette"
+    ],
+    [
+      "escrime"
+    ],
+    [
+      "dard ; ovipositeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

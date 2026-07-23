@@ -1,0 +1,14 @@
+{
+  "seq": 1257590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "constitution"
+    ],
+    [
+      "règles",
+      "règlement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

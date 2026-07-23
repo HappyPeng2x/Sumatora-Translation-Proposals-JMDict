@@ -1,0 +1,16 @@
+{
+  "seq": 1257690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gain",
+      "offrir des récompenses",
+      "récompense"
+    ],
+    [
+      "concours de récompenses",
+      "annonce d'un concours avec récompenses"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

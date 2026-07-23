@@ -1,0 +1,19 @@
+{
+  "seq": 1260000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "excursion"
+    ],
+    [
+      "spectateur",
+      "témoin",
+      "observateur"
+    ],
+    [
+      "chose méritant d'être regardée",
+      "chose qu'on devrait avoir vue"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

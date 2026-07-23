@@ -1,0 +1,17 @@
+{
+  "seq": 1256050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ennui",
+      "fatigue",
+      "langueur"
+    ],
+    [
+      "fatigue",
+      "lassitude",
+      "épuisement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

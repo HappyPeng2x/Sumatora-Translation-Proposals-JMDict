@@ -1,0 +1,17 @@
+{
+  "seq": 1257950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "inspection",
+      "vérification"
+    ],
+    [
+      "inspection sur place (par un juge, un enquêteur, etc.) pour recueillir des preuves matérielles"
+    ],
+    [
+      "vérification"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

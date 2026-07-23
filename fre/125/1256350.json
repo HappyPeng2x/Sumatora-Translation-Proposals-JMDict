@@ -1,0 +1,16 @@
+{
+  "seq": 1256350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen médical",
+      "examen médical"
+    ],
+    [
+      "examen médical",
+      "examen médical par un médecin",
+      "examen clinique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

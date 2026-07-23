@@ -1,0 +1,15 @@
+{
+  "seq": 1259920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "prendre une vue globale de",
+      "surveiller"
+    ],
+    [
+      "porter le regard sur",
+      "avoir une bonne vue d'ensemble"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

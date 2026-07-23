@@ -1,0 +1,79 @@
+{
+  "seq": 1254480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "trou"
+    ],
+    [
+      "trou",
+      "cavité",
+      "creux",
+      "fosse"
+    ],
+    [
+      "terrier",
+      "repaire",
+      "abri",
+      "tanière"
+    ],
+    [
+      "déficit",
+      "manque",
+      "trou (dans une économie)",
+      "perte"
+    ],
+    [
+      "lacune",
+      "vacance",
+      "ouverture",
+      "poste vacant"
+    ],
+    [
+      "défaut",
+      "faute",
+      "déficit",
+      "faille",
+      "faille (dans un plan)",
+      "loupe"
+    ],
+    [
+      "lieu caché",
+      "secret bien gardé",
+      "endroit inconnu de peu de gens",
+      "belle cachette"
+    ],
+    [
+      "victoire inattendue",
+      "coup de chance",
+      "cheval de Troie",
+      "candidat surprise"
+    ],
+    [
+      "boîte (dans un théâtre japonais traditionnel)",
+      "case (partitionnée)",
+      "siège (sur le plancher)"
+    ],
+    [
+      "cache",
+      "planque",
+      "abri secret",
+      "repaire"
+    ],
+    [
+      "siège au rez-de-chaussée",
+      "place au rez-de-chaussée"
+    ],
+    [
+      "tombe",
+      "sépulture",
+      "fosse"
+    ],
+    [
+      "information interne",
+      "connaissance confidentielle",
+      "donnée secrète"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

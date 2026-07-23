@@ -1,0 +1,22 @@
+{
+  "seq": 1259090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soutien",
+      "appui",
+      "patronage"
+    ],
+    [
+      "pièce de renfort pour l'épaule",
+      "lappe d'épaule"
+    ],
+    [
+      "renfort d'épaule"
+    ],
+    [
+      "service rendu à l'ancien maître de maison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

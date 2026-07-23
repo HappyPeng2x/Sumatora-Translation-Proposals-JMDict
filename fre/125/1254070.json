@@ -5,6 +5,9 @@
     [
       "numéro manquant",
       "numéro absent"
+    ],
+    [
+      "numéro manquant"
     ]
   ],
   "model": "qwen3:14b"

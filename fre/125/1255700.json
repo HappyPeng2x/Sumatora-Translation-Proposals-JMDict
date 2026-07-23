@@ -4,6 +4,9 @@
   "glosses": [
     [
       "revenu mensuel"
+    ],
+    [
+      "revenu mensuel (ancien)"
     ]
   ],
   "model": "qwen3:14b"

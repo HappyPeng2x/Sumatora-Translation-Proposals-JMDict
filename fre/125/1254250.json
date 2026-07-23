@@ -1,0 +1,15 @@
+{
+  "seq": 1254250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mettre à exécution",
+      "mettre en œuvre",
+      "faire exécuter",
+      "réaliser",
+      "appliquer",
+      "mettre en pratique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1258420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contribution",
+      "don"
+    ],
+    [
+      "donation",
+      "offrande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

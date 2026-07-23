@@ -1,0 +1,27 @@
+{
+  "seq": 1253780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brèche",
+      "chance",
+      "occasion"
+    ],
+    [
+      "espace",
+      "fente",
+      "intervalle"
+    ],
+    [
+      "moment de faiblesse",
+      "faiblesse",
+      "faille",
+      "défaut"
+    ],
+    [
+      "occasion",
+      "chance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

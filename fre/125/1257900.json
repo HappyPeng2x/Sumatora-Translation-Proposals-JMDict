@@ -1,0 +1,24 @@
+{
+  "seq": 1257900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recherche",
+      "quête",
+      "consultation",
+      "extraction",
+      "recherche d'information"
+    ],
+    [
+      "recherche"
+    ],
+    [
+      "index",
+      "recherche",
+      "consultation",
+      "recherche d'information",
+      "trouver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

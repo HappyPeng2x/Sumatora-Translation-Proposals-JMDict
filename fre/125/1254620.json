@@ -1,0 +1,13 @@
+{
+  "seq": 1254620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lier",
+      "relier",
+      "mettre en relation",
+      "corrélater"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

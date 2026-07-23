@@ -9,6 +9,12 @@
     [
       "équipement léger",
       "armes légères"
+    ],
+    [
+      "habillement léger"
+    ],
+    [
+      "équipement léger; armement léger"
     ]
   ],
   "model": "qwen3:14b"

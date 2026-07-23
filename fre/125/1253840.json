@@ -1,0 +1,17 @@
+{
+  "seq": 1253840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef-d'œuvre"
+    ],
+    [
+      "absurde",
+      "hilarant",
+      "déconcertant",
+      "excessif",
+      "follement extravagant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

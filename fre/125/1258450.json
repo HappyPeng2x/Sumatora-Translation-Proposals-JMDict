@@ -1,0 +1,16 @@
+{
+  "seq": 1258450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dévotion",
+      "dévouement",
+      "abnégation"
+    ],
+    [
+      "abnégation",
+      "sacrifice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

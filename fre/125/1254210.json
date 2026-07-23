@@ -1,0 +1,15 @@
+{
+  "seq": 1254210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réprimander"
+    ],
+    [
+      "reprendre",
+      "blâmer",
+      "faire des reproches à quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

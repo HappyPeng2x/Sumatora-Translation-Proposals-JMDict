@@ -1,0 +1,13 @@
+{
+  "seq": 1258800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "légume",
+      "haricot",
+      "haricots de neige",
+      "mange-tout"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

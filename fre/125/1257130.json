@@ -1,0 +1,17 @@
+{
+  "seq": 1257130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonieux",
+      "trop sérieux"
+    ],
+    [
+      "stricte",
+      "sérieux",
+      "sévère",
+      "austère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

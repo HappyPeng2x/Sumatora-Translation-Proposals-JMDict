@@ -1,0 +1,13 @@
+{
+  "seq": 1257570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gouvernement constitutionnel"
+    ],
+    [
+      "gouvernement exemplaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

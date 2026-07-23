@@ -1,0 +1,18 @@
+{
+  "seq": 1254770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "union"
+    ],
+    [
+      "liaison",
+      "lien"
+    ],
+    [
+      "raccord",
+      "jonction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

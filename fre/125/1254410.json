@@ -1,0 +1,13 @@
+{
+  "seq": 1254410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "duel",
+      "affrontement",
+      "combat à mort",
+      "tir au revolver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

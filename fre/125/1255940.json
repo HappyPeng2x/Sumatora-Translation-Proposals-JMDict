@@ -14,6 +14,21 @@
     ],
     [
       "unité de compte pour les comptes (sur un site web, un service de messagerie, etc.)"
+    ],
+    [
+      "unité de mesure pour les demandes; les interrogations; les déclarations; les pétitions"
+    ],
+    [
+      "unité de mesure pour les transactions"
+    ],
+    [
+      "unité de mesure pour les visites d'un site internet; les résultats trouvés"
+    ],
+    [
+      "unité de mesure pour les points d'ordre du jour; les sujets"
+    ],
+    [
+      "unité de mesure pour les messages enregistrés ou envoyés par courrier"
     ]
   ],
   "model": "qwen3:14b"

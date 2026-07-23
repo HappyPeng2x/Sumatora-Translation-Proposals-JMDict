@@ -1,0 +1,12 @@
+{
+  "seq": 1259000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "douleur dans les épaules",
+      "tension dans les épaules",
+      "maux de dos supérieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

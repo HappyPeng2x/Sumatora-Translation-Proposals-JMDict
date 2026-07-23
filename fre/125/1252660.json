@@ -5,6 +5,11 @@
     [
       "acrobatie",
       "entreprise risquée"
+    ],
+    [
+      "entreprise risquée",
+      "aventure hasardeuse",
+      "projet audacieux"
     ]
   ],
   "model": "qwen3:14b"

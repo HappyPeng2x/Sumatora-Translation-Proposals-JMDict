@@ -1,0 +1,23 @@
+{
+  "seq": 1259130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "découvrir (cf. imitsukeru)",
+      "trouver"
+    ],
+    [
+      "choisir",
+      "sélectionner"
+    ],
+    [
+      "regarder dehors",
+      "observer de l'intérieur"
+    ],
+    [
+      "avoir les yeux écarquillés",
+      "fixer les yeux en signe de surprise ou de colère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

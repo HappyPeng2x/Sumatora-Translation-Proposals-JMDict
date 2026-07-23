@@ -1,0 +1,21 @@
+{
+  "seq": 1254440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pur",
+      "viril",
+      "héroique"
+    ],
+    [
+      "droit; honnête; innocent; pur (du cœur)"
+    ],
+    [
+      "inaltéré (paysage, etc.) ; pur ; propre"
+    ],
+    [
+      "ouvert; franc; sans hésitation; agréable; plaisant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1252920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poids léger",
+      "matériau léger"
+    ],
+    [
+      "léger",
+      "de faible poids"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

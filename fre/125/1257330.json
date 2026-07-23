@@ -1,0 +1,15 @@
+{
+  "seq": 1257330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "construire"
+    ],
+    [
+      "fonder",
+      "bâtir",
+      "édifier (une organisation; un pays; etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

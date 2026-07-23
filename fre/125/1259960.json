@@ -1,0 +1,17 @@
+{
+  "seq": 1259960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "percevoir à travers",
+      "détecter",
+      "pénétrer",
+      "voir à travers",
+      "deviner"
+    ],
+    [
+      "voir à travers qch."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

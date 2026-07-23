@@ -1,0 +1,22 @@
+{
+  "seq": 1254460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "innocent",
+      "intègre",
+      "pur"
+    ],
+    [
+      "pureté",
+      "blancheur",
+      "impeccabilité",
+      "propreté",
+      "pureté",
+      "immaculé",
+      "intègre",
+      "innocent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

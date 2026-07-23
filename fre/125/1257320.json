@@ -1,0 +1,15 @@
+{
+  "seq": 1257320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soupçon"
+    ],
+    [
+      "soupçon",
+      "doute",
+      "accusation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

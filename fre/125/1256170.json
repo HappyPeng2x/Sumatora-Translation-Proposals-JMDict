@@ -1,0 +1,16 @@
+{
+  "seq": 1256170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "santé"
+    ],
+    [
+      "sain",
+      "en bonne santé",
+      "vigoureux",
+      "wholesome"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1255030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ligature",
+      "ligation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

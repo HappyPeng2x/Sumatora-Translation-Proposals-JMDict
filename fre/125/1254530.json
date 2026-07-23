@@ -1,0 +1,14 @@
+{
+  "seq": 1254530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "habitation en grotte",
+      "mode de vie troglodyte"
+    ],
+    [
+      "(néerlandais) habitation en grotte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

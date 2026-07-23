@@ -1,0 +1,20 @@
+{
+  "seq": 1259220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fausse apparence",
+      "feinte"
+    ],
+    [
+      "apparence trompeuse",
+      "illusion",
+      "comédie",
+      "duperie",
+      "feinte",
+      "simulation",
+      "fausse représentation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,50 @@
+{
+  "seq": 1259140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être visible",
+      "être vu",
+      "apparaître",
+      "sembler"
+    ],
+    [
+      "paraître",
+      "sembler",
+      "avoir l'air de"
+    ],
+    [
+      "venir",
+      "arriver",
+      "se présenter"
+    ],
+    [
+      "venir",
+      "arriver",
+      "se montrer",
+      "faire une apparition"
+    ],
+    [
+      "être vu",
+      "sembler",
+      "donner l'impression de",
+      "paraître"
+    ],
+    [
+      "montrer",
+      "faire voir",
+      "exhiber"
+    ],
+    [
+      "rencontrer",
+      "voir",
+      "aborder"
+    ],
+    [
+      "se marier",
+      "devenir épouse",
+      "contracter un mariage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

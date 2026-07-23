@@ -1,0 +1,59 @@
+{
+  "seq": 1254760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "beau",
+      "bien",
+      "pas mal",
+      "réussi"
+    ],
+    [
+      "architecture",
+      "construction"
+    ],
+    [
+      "ça suffit",
+      "suffisamment"
+    ],
+    [
+      "assez",
+      "plutôt",
+      "assez bien",
+      "surprenamment",
+      "assez beaucoup",
+      "assez bien"
+    ],
+    [
+      "structure",
+      "construction",
+      "cadre",
+      "architecture"
+    ],
+    [
+      "merveilleux",
+      "excellent",
+      "parfait",
+      "suffisant",
+      "suffisamment",
+      "abondant",
+      "agréable",
+      "sympathique"
+    ],
+    [
+      "assez",
+      "plutôt",
+      "assez bien",
+      "assez beaucoup",
+      "assez bien"
+    ],
+    [
+      "agréable",
+      "assez",
+      "assez bien",
+      "assez beaucoup",
+      "assez bien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

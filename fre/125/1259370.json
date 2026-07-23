@@ -1,0 +1,15 @@
+{
+  "seq": 1259370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "d'en haut",
+      "regarder de haut"
+    ],
+    [
+      "mépriser",
+      "considérer avec dédain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

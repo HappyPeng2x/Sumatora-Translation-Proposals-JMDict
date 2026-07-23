@@ -1,0 +1,37 @@
+{
+  "seq": 1258330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chien"
+    ],
+    [
+      "dénonciateur",
+      "mouchard",
+      "mouchard",
+      "informateur",
+      "espion"
+    ],
+    [
+      "perdant",
+      "con"
+    ],
+    [
+      "faux",
+      "inférieur",
+      "inutile",
+      "gaspillé"
+    ],
+    [
+      "faux",
+      "contrefait",
+      "copié"
+    ],
+    [
+      "faux",
+      "contrefait",
+      "copié"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

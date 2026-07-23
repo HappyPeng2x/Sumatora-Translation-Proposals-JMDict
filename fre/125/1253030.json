@@ -1,0 +1,19 @@
+{
+  "seq": 1253030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aube",
+      "chant du coq"
+    ],
+    [
+      "coq",
+      "aube",
+      "début de la journée"
+    ],
+    [
+      "heure du Bœuf (environ 2h du matin)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

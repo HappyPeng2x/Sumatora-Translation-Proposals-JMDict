@@ -1,0 +1,21 @@
+{
+  "seq": 1259390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "opinion",
+      "point de vue"
+    ],
+    [
+      "évaluation",
+      "jugement",
+      "appréciation"
+    ],
+    [
+      "interprétation",
+      "compréhension",
+      "explication"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

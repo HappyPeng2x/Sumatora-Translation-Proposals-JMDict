@@ -1,0 +1,12 @@
+{
+  "seq": 1254420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adieu",
+      "séparation",
+      "dernier regard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

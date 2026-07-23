@@ -1,0 +1,16 @@
+{
+  "seq": 1259740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "admirer",
+      "regarder vers le haut"
+    ],
+    [
+      "admirer",
+      "respecter",
+      "estimer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

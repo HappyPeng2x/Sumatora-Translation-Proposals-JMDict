@@ -1,0 +1,21 @@
+{
+  "seq": 1255060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sang"
+    ],
+    [
+      "sang",
+      "origine",
+      "lignage",
+      "race"
+    ],
+    [
+      "le sang",
+      "émotions",
+      "passions"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

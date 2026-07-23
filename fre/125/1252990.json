@@ -1,0 +1,18 @@
+{
+  "seq": 1252990,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coq",
+      "poule",
+      "poulet"
+    ],
+    [
+      "viande de poulet"
+    ],
+    [
+      "jeune poule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

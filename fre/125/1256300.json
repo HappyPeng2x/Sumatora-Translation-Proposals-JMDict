@@ -1,0 +1,13 @@
+{
+  "seq": 1256300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "en bonne santé"
+    ],
+    [
+      "état inchangé; survie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

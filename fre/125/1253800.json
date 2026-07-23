@@ -1,0 +1,23 @@
+{
+  "seq": 1253800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chiffre",
+      "poutre"
+    ],
+    [
+      "chiffre; ordre de grandeur; décade"
+    ],
+    [
+      "unité; position (d'un chiffre dans un nombre); nombre de chiffres (dans un nombre); colonne"
+    ],
+    [
+      "échelle; rapport de mesure"
+    ],
+    [
+      "mot de mesure pour les chiffres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

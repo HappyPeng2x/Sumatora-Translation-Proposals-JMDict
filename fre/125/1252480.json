@@ -1,0 +1,19 @@
+{
+  "seq": 1252480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corne de brume",
+      "coup de sifflet",
+      "klaxon",
+      "sirène d'alarme"
+    ],
+    [
+      "sifflet d'alarme",
+      "klaxon",
+      "corne d'alarme",
+      "trompe d'alarme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

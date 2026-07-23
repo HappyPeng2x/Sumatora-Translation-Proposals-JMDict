@@ -1,0 +1,28 @@
+{
+  "seq": 1259570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "échanger des regards",
+      "ajourner",
+      "s'abstenir",
+      "suspendre les opérations"
+    ],
+    [
+      "reporter",
+      "différer",
+      "mettre en suspens",
+      "abandonner"
+    ],
+    [
+      "comparer",
+      "opposer"
+    ],
+    [
+      "annuler",
+      "révoquer",
+      "décommander"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1253930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manque de personnel",
+      "poste vacant"
+    ],
+    [
+      "vacance de poste",
+      "poste vacant",
+      "nombre de postes vacants"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1256680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "posséder à la fois deux compétences",
+      "savoir faire deux choses à la fois",
+      "réunir deux choses en une"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

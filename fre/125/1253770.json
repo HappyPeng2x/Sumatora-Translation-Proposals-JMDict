@@ -1,0 +1,22 @@
+{
+  "seq": 1253770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intensité",
+      "violence",
+      "fervent",
+      "fureur",
+      "véhémence",
+      "sévérité",
+      "fierceur",
+      "aigreur"
+    ],
+    [
+      "intense",
+      "furieux",
+      "ardent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

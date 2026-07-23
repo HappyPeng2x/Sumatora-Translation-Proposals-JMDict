@@ -1,0 +1,26 @@
+{
+  "seq": 1252830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frivole",
+      "superficiel"
+    ],
+    [
+      "frivolité",
+      "légèreté",
+      "insouciance"
+    ],
+    [
+      "désloyauté",
+      "manque de sincérité",
+      "malhonnêteté"
+    ],
+    [
+      "négligence",
+      "inadvertance",
+      "manque de précaution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

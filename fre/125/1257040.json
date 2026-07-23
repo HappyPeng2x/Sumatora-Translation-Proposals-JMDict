@@ -1,0 +1,36 @@
+{
+  "seq": 1257040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bagarre",
+      "querelle"
+    ],
+    [
+      "se disputer verbalement",
+      "avoir un différend",
+      "être en désaccord"
+    ],
+    [
+      "se battre",
+      "se quereller",
+      "se jeter des coups"
+    ],
+    [
+      "bagarre",
+      "altercation",
+      "affrontement"
+    ],
+    [
+      "dispute",
+      "désaccord",
+      "querelle"
+    ],
+    [
+      "combat",
+      "lutte",
+      "conflit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1258090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "autorité",
+      "influence",
+      "puissance"
+    ],
+    [
+      "expertise",
+      "personne experte",
+      "autorité dans un domaine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

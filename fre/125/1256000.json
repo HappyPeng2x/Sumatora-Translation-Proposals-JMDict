@@ -1,0 +1,11 @@
+{
+  "seq": 1256000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "économique et simple",
+      "frugal et sobre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

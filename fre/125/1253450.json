@@ -5,6 +5,9 @@
     [
       "compagnie théâtrale",
       "troupe théâtrale"
+    ],
+    [
+      "groupe de chercheurs en science du théâtre"
     ]
   ],
   "model": "qwen3:14b"

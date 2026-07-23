@@ -6,6 +6,15 @@
       "estimer",
       "calculer",
       "évaluer"
+    ],
+    [
+      "évaluer",
+      "estimer",
+      "calculer",
+      "déterminer",
+      "fixer",
+      "taxer",
+      "évaluer des dommages"
     ]
   ],
   "model": "qwen3:14b"

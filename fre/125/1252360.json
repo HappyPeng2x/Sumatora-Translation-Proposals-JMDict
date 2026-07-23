@@ -1,0 +1,15 @@
+{
+  "seq": 1252360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avertissement",
+      "avis"
+    ],
+    [
+      "sanction",
+      "pénalité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

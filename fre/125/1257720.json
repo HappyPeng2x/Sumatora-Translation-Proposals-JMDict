@@ -1,0 +1,25 @@
+{
+  "seq": 1257720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anxiété",
+      "inquiétude",
+      "peur",
+      "souci"
+    ],
+    [
+      "s'occuper de; s'inquiéter pour; avoir des inquiétudes quant à"
+    ],
+    [
+      "inquiétude; souci; anxiété; préoccupation"
+    ],
+    [
+      "attention portée à quelque chose; concentration"
+    ],
+    [
+      "persévérance; entêtement; obstination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

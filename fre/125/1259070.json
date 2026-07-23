@@ -1,0 +1,14 @@
+{
+  "seq": 1259070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épaule",
+      "partie supérieure de l'épaule"
+    ],
+    [
+      "acromion"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

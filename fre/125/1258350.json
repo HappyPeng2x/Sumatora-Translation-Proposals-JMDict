@@ -1,0 +1,16 @@
+{
+  "seq": 1258350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "canine"
+    ],
+    [
+      "dents de l'œil (dans la mâchoire supérieure)"
+    ],
+    [
+      "dents de prédation (chez les prédateurs); dent de prédation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

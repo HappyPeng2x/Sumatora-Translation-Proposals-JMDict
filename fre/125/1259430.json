@@ -1,0 +1,16 @@
+{
+  "seq": 1259430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se rappeler",
+      "reconnaître",
+      "identifier"
+    ],
+    [
+      "reconnaître à nouveau",
+      "se rappeler en voyant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

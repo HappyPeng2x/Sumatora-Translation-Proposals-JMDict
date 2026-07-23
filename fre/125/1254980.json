@@ -1,0 +1,14 @@
+{
+  "seq": 1254980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coiffure",
+      "chignon"
+    ],
+    [
+      "cérémonie de majorité pour les jeunes nobles hommes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

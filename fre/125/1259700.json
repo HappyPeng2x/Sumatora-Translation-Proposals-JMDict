@@ -1,0 +1,14 @@
+{
+  "seq": 1259700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apprendre",
+      "imiter"
+    ],
+    [
+      "apprendre par observation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

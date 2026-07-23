@@ -1,0 +1,16 @@
+{
+  "seq": 1259680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garder",
+      "surveiller attentivement"
+    ],
+    [
+      "observer fixement",
+      "regarder intensément",
+      "suivre du regard"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

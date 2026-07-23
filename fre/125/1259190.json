@@ -1,0 +1,12 @@
+{
+  "seq": 1259190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exemple",
+      "leçon",
+      "avertissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1259440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "observation",
+      "visite d'étude"
+    ],
+    [
+      "ne pas participer (par exemple, en cours de sport)",
+      "ne pas assister (par exemple, en cours de sport)",
+      "se retirer (par exemple, en cours de sport)"
+    ],
+    [
+      "étude par observation",
+      "visite d'observation",
+      "visite pédagogique"
+    ],
+    [
+      "inspection",
+      "examen",
+      "vérification"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

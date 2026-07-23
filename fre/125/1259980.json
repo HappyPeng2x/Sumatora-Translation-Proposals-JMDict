@@ -1,0 +1,17 @@
+{
+  "seq": 1259980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détecter",
+      "percevoir",
+      "voir à travers",
+      "pénétrer dans l'esprit de"
+    ],
+    [
+      "voir jusqu'au bout",
+      "regarder jusqu'au terme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

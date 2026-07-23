@@ -1,0 +1,10 @@
+{
+  "seq": 1255740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jour de la semaine, le lundi, le mercredi et le vendredi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

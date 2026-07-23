@@ -1,0 +1,13 @@
+{
+  "seq": 1255020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conclusion (d'un rapport, etc.)"
+    ],
+    [
+      "conclusion logique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

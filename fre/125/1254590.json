@@ -19,6 +19,27 @@
     [
       "exercice de type 'compléter les blancs'",
       "test de type 'cloze'"
+    ],
+    [
+      "exercice de remplissage"
+    ],
+    [
+      "le fait de combler un trou; le remplissage d'un vide"
+    ],
+    [
+      "le fait de compenser un manque; le remplissage d'une lacune"
+    ],
+    [
+      "morceau de tissu utilisé pour boucher un trou"
+    ],
+    [
+      "texte inséré dans un journal pour remplir une page"
+    ],
+    [
+      "remplacement personnel; élément de substitution individuel"
+    ],
+    [
+      "exercice de remplissage; exercice de type 'compléter les blancs'"
     ]
   ],
   "model": "qwen3:14b"

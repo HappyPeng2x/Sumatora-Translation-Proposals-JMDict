@@ -5,6 +5,9 @@
     [
       "sous administration préfectorale",
       "géré par la préfecture"
+    ],
+    [
+      "relatif à une préfecture"
     ]
   ],
   "model": "qwen3:14b"

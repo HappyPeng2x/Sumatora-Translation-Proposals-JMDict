@@ -1,0 +1,31 @@
+{
+  "seq": 1258500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "menu",
+      "programme"
+    ],
+    [
+      "programme",
+      "plan",
+      "organisation"
+    ],
+    [
+      "contenu",
+      "détails",
+      "caractéristiques"
+    ],
+    [
+      "programme",
+      "ordre",
+      "séquence"
+    ],
+    [
+      "structure",
+      "composition",
+      "disposition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

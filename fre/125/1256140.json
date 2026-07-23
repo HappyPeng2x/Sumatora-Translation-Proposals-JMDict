@@ -1,0 +1,26 @@
+{
+  "seq": 1256140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brave",
+      "courageux"
+    ],
+    [
+      "vaillant",
+      "audacieux",
+      "intrépide"
+    ],
+    [
+      "ferme",
+      "déterminé",
+      "résolu"
+    ],
+    [
+      "sain",
+      "vigoureux",
+      "solide"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

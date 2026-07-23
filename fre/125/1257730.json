@@ -1,0 +1,50 @@
+{
+  "seq": 1257730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avide",
+      "sincère",
+      "ardent",
+      "fervent",
+      "assidu",
+      "de toute ses forces"
+    ],
+    [
+      "à la vie",
+      "en péril",
+      "dangereux pour la vie",
+      "mortel",
+      "qui menace la vie"
+    ],
+    [
+      "sérieux",
+      "enthousiaste",
+      "ardent",
+      "dévoué",
+      "rempli de passion"
+    ],
+    [
+      "dangereux pour la vie",
+      "mortel",
+      "qui menace la vie",
+      "qui peut causer la mort",
+      "très risqué"
+    ],
+    [
+      "de toutes ses forces",
+      "avec tout son cœur",
+      "sérieusement",
+      "avec passion",
+      "avec dévotion"
+    ],
+    [
+      "dangereux pour la vie",
+      "mortel",
+      "qui menace la vie",
+      "qui peut causer la mort",
+      "très risqué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

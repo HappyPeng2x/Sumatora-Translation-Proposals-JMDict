@@ -1,0 +1,12 @@
+{
+  "seq": 1253590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "repousser",
+      "repulsion",
+      "chasser en arrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

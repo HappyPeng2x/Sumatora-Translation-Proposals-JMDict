@@ -1,0 +1,18 @@
+{
+  "seq": 1252470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sonnerie d'alarme",
+      "tocsin"
+    ],
+    [
+      "avertissement",
+      "réveil"
+    ],
+    [
+      "avertissement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

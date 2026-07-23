@@ -1,0 +1,35 @@
+{
+  "seq": 1255430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lune",
+      "mois"
+    ],
+    [
+      "mois"
+    ],
+    [
+      "lumière de la lune"
+    ],
+    [
+      "lune; satellite naturel"
+    ],
+    [
+      "lumière de la lune"
+    ],
+    [
+      "moment opportun; occasion"
+    ],
+    [
+      "mois attendu de naissance"
+    ],
+    [
+      "emblème lunaire"
+    ],
+    [
+      "règles"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

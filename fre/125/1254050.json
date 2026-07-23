@@ -1,0 +1,21 @@
+{
+  "seq": 1254050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défauts",
+      "faiblesses",
+      "points faibles"
+    ],
+    [
+      "échec (d'un examen) ; note insuffisante"
+    ],
+    [
+      "insuccès (d'un examen); note insuffisante pour réussir"
+    ],
+    [
+      "note inférieure à celle nécessaire pour réussir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

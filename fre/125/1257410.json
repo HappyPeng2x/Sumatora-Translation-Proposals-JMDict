@@ -1,0 +1,18 @@
+{
+  "seq": 1257410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "proposition",
+      "recommandation",
+      "suggestion"
+    ],
+    [
+      "proposition",
+      "conseil",
+      "idée",
+      "soumission"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

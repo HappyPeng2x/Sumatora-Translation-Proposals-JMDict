@@ -1,0 +1,12 @@
+{
+  "seq": 1257980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrest",
+      "emprisonnement",
+      "detention"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

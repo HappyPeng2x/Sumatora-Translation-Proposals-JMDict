@@ -1,0 +1,21 @@
+{
+  "seq": 1257140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ferme",
+      "fort",
+      "solide"
+    ],
+    [
+      "invulnérabilité; solidité; force"
+    ],
+    [
+      "robustesse physique; bonne santé"
+    ],
+    [
+      "cinq périodes successives de 500 ans chacune; commençant avec la mort du Bouddha Shakyamuni; fort; sûr"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1256230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu sain",
+      "station thermale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

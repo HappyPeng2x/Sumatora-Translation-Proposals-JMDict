@@ -1,0 +1,12 @@
+{
+  "seq": 1253400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chaleur intense",
+      "chaleur étouffante",
+      "canicule"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

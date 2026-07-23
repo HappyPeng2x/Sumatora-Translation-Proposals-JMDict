@@ -1,0 +1,10 @@
+{
+  "seq": 1253210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boisson du matin pour se remettre d'une cuite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

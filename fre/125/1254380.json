@@ -1,0 +1,16 @@
+{
+  "seq": 1254380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décision"
+    ],
+    [
+      "décision judiciaire"
+    ],
+    [
+      "détermination (différenciation initiale de cellules non différenciées)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

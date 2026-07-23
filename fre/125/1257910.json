@@ -1,0 +1,15 @@
+{
+  "seq": 1257910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen",
+      "procureur"
+    ],
+    [
+      "examen",
+      "enquête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

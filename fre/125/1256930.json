@@ -1,0 +1,12 @@
+{
+  "seq": 1256930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réprimande vive",
+      "reproche sévère",
+      "désapprobation vive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

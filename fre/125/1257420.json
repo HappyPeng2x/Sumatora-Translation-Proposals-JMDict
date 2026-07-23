@@ -1,0 +1,28 @@
+{
+  "seq": 1257420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "établissement",
+      "construction"
+    ],
+    [
+      "construction immobilière",
+      "édification de bâtiments",
+      "travaux de construction"
+    ],
+    [
+      "construction",
+      "édifice",
+      "ouvrage",
+      "travaux de construction"
+    ],
+    [
+      "création",
+      "établissement",
+      "fondation",
+      "institution"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

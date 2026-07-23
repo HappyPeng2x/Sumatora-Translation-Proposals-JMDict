@@ -1,0 +1,15 @@
+{
+  "seq": 1254370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "décision",
+      "jugement"
+    ],
+    [
+      "jugement moral",
+      "décision morale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

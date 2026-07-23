@@ -1,0 +1,25 @@
+{
+  "seq": 1259710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "entête",
+      "index",
+      "sous-titre",
+      "titre"
+    ],
+    [
+      "index"
+    ],
+    [
+      "mot-clé"
+    ],
+    [
+      "découvrir; trouver"
+    ],
+    [
+      "sélection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

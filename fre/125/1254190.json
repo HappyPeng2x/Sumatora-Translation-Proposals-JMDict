@@ -18,6 +18,10 @@
       "mettre à exécution (ce que l'on a décidé de faire)",
       "persister à faire",
       "prendre une décision"
+    ],
+    [
+      "faire parfaitement correspondre",
+      "faire s'adapter parfaitement"
     ]
   ],
   "model": "qwen3:14b"

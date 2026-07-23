@@ -1,0 +1,29 @@
+{
+  "seq": 1254600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se coiffer",
+      "tresser"
+    ],
+    [
+      "lier",
+      "attacher",
+      "fermer",
+      "construire (un enclos)"
+    ],
+    [
+      "remplir (un trou)",
+      "rapiécer (avec du fil)",
+      "réparer (avec du fil)"
+    ],
+    [
+      "lier",
+      "attacher",
+      "enchaîner",
+      "raccorder",
+      "relier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

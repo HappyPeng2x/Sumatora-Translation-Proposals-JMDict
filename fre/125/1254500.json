@@ -1,0 +1,12 @@
+{
+  "seq": 1254500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "perforer de trous",
+      "rendre plein de trous",
+      "ratisser (avec des balles)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

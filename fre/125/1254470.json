@@ -1,0 +1,25 @@
+{
+  "seq": 1254470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maniaque de la propreté"
+    ],
+    [
+      "intégrité",
+      "scrupulosité",
+      "probité",
+      "intolérance envers l'injustice"
+    ],
+    [
+      "manie de la propreté",
+      "dégoût intense pour la saleté"
+    ],
+    [
+      "honnêteté",
+      "consciencieux",
+      "exigence excessive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

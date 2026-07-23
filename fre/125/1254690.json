@@ -1,0 +1,20 @@
+{
+  "seq": 1254690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conséquence",
+      "résultat"
+    ],
+    [
+      "en conséquence de ... ; à la suite de ... ; après ... ; suivant ..."
+    ],
+    [
+      "porter des fruits ; être en train de porter des fruits"
+    ],
+    [
+      "(néerlandais) fin; conclusion; issue; dénouement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

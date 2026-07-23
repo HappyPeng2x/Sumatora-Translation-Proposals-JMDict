@@ -1,0 +1,15 @@
+{
+  "seq": 1259880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "garder",
+      "ouvrir grand les yeux",
+      "regarder"
+    ],
+    [
+      "ouvrir grands les yeux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

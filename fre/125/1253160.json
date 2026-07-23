@@ -5,6 +5,9 @@
     [
       "style de performance",
       "style d'interprétation"
+    ],
+    [
+      "manière de parler caractéristique"
     ]
   ],
   "model": "qwen3:14b"

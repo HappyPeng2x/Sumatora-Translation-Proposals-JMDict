@@ -1,0 +1,17 @@
+{
+  "seq": 1253060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "l'art",
+      "les beaux-arts"
+    ],
+    [
+      "technique"
+    ],
+    [
+      "art et science"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

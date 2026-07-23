@@ -1,0 +1,17 @@
+{
+  "seq": 1254730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "finalement"
+    ],
+    [
+      "conclusion",
+      "fin"
+    ],
+    [
+      "fin d'une partie de go, de shogi, etc."
+    ]
+  ],
+  "model": "qwen3:14b"
+}

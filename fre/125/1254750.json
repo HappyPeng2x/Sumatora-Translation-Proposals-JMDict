@@ -1,0 +1,11 @@
+{
+  "seq": 1254750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conclusion",
+      "remarques finales"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

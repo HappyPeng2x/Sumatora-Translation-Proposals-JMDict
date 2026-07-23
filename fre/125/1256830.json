@@ -1,0 +1,11 @@
+{
+  "seq": 1256830,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grand maître des armes",
+      "expert en escrime"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

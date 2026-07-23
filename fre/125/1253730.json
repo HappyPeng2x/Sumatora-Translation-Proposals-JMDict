@@ -15,6 +15,14 @@
       "débat",
       "collision d'idées",
       "confrontation"
+    ],
+    [
+      "choc violent",
+      "collision violente",
+      "collision"
+    ],
+    [
+      "duel"
     ]
   ],
   "model": "qwen3:14b"

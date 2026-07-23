@@ -1,0 +1,21 @@
+{
+  "seq": 1257810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feuilleter",
+      "tourner une page"
+    ],
+    [
+      "arracher",
+      "déchirer",
+      "retirer",
+      "ôter",
+      "détacher"
+    ],
+    [
+      "éplucher"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

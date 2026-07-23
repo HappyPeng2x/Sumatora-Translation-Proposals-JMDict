@@ -1,0 +1,19 @@
+{
+  "seq": 1253580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pulvérisation"
+    ],
+    [
+      "écraser un adversaire complètement"
+    ],
+    [
+      "écrasement; pulvérisation"
+    ],
+    [
+      "victoire totale sur un adversaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

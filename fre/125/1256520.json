@@ -1,0 +1,31 @@
+{
+  "seq": 1256520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être incapable",
+      "faire plusieurs choses a la fois",
+      "servir",
+      "tenir"
+    ],
+    [
+      "servir plusieurs fonctions ou rôles en même temps ; comporter plusieurs caractéristiques"
+    ],
+    [
+      "travailler simultanément dans plusieurs emplois (positions, etc.) ; faire en parallèle"
+    ],
+    [
+      "hésiter à faire quelque chose par considération pour autrui"
+    ],
+    [
+      "penser à l'avenir (ainsi qu'au présent)"
+    ],
+    [
+      "ne pas pouvoir vraiment faire; avoir du mal à faire"
+    ],
+    [
+      "peut-être pouvoir faire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

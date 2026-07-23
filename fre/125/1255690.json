@@ -1,0 +1,15 @@
+{
+  "seq": 1255690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paiement mensuel",
+      "salaire"
+    ],
+    [
+      "redevance mensuelle",
+      "cotisation mensuelle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

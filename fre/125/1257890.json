@@ -1,0 +1,26 @@
+{
+  "seq": 1257890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen",
+      "inspection (ex. douane, usine)"
+    ],
+    [
+      "essai"
+    ],
+    [
+      "accusation; reproche"
+    ],
+    [
+      "examiner; inspecter; vérifier; contrôler; soumettre à un examen"
+    ],
+    [
+      "examiner; tester; sonderer par un essai"
+    ],
+    [
+      "visiter; inspecter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

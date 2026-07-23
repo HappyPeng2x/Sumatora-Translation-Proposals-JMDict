@@ -1,0 +1,15 @@
+{
+  "seq": 1253020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "viande de poulet"
+    ],
+    [
+      "volaille",
+      "poulet",
+      "viande de volaille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

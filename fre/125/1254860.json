@@ -7,6 +7,17 @@
       "rassemblement",
       "mobilisation",
       "organisation"
+    ],
+    [
+      "rassemblement",
+      "concentration",
+      "groupement",
+      "réunion",
+      "regroupement",
+      "collecte",
+      "accumulation",
+      "concentration de forces",
+      "concentration d'efforts"
     ]
   ],
   "model": "qwen3:14b"

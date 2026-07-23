@@ -1,0 +1,20 @@
+{
+  "seq": 1259610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rencontre",
+      "vision",
+      "apparition"
+    ],
+    [
+      "accorder une audience"
+    ],
+    [
+      "rencontre",
+      "beauté",
+      "honneur de rencontrer quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

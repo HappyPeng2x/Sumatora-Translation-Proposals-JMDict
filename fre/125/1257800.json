@@ -1,0 +1,18 @@
+{
+  "seq": 1257800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "retrousser",
+      "soulever"
+    ],
+    [
+      "en tant que suffixe d'un verbe: obsessivement",
+      "agressivement"
+    ],
+    [
+      "faire un come-back (contre) (dans le mahjong, les courses hippiques, etc.) ; revenir de derrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -11,6 +11,9 @@
     [
       "boîte de pari",
       "poste de pari"
+    ],
+    [
+      "université avec de bonnes conditions d'admission"
     ]
   ],
   "model": "qwen3:14b"

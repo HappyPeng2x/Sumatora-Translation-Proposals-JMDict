@@ -5,6 +5,9 @@
     [
       "expert en théâtre",
       "spécialiste du théâtre"
+    ],
+    [
+      "connaisseur de la scène théâtrale"
     ]
   ],
   "model": "qwen3:14b"

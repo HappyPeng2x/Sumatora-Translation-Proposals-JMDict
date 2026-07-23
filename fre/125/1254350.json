@@ -6,6 +6,15 @@
       "bataille décisive",
       "match décisif",
       "match de barrage"
+    ],
+    [
+      "match décisif",
+      "match de play-off"
+    ],
+    [
+      "moment décisif",
+      "heure zéro",
+      "instant critique"
     ]
   ],
   "model": "qwen3:14b"

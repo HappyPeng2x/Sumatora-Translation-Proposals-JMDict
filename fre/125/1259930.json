@@ -1,0 +1,38 @@
+{
+  "seq": 1259930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "évaluer",
+      "deviner",
+      "direction approximative"
+    ],
+    [
+      "orientation",
+      "direction",
+      "orientation spatiale"
+    ],
+    [
+      "marque de repérage",
+      "repère de mise en page"
+    ],
+    [
+      "environ",
+      "approximativement",
+      "autour de"
+    ],
+    [
+      "supposition",
+      "hypothèse",
+      "présomption"
+    ],
+    [
+      "environ",
+      "approximativement",
+      "autour de",
+      "près de",
+      "à peu près"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

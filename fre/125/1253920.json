@@ -1,0 +1,19 @@
+{
+  "seq": 1253920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manquer"
+    ],
+    [
+      "manquer (d'un groupe, d'une équipe, etc.) ; être absent ; disparaître"
+    ],
+    [
+      "manquer (en quelque chose) ; être insuffisant ; être déficient ; manquer (d'une qualité)"
+    ],
+    [
+      "décroître (de la lune) ; entrer en éclipse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

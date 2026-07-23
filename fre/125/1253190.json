@@ -1,0 +1,43 @@
+{
+  "seq": 1253190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accueillir",
+      "accueillir en son sein",
+      "aller à la rencontre de",
+      "aller chercher"
+    ],
+    [
+      "appeler",
+      "faire appel à"
+    ],
+    [
+      "accepter",
+      "prendre (comme épouse)"
+    ],
+    [
+      "atteindre",
+      "entrer en",
+      "aborder"
+    ],
+    [
+      "flatter"
+    ],
+    [
+      "se marier",
+      "prendre pour épouse",
+      "se marier avec"
+    ],
+    [
+      "récupérer",
+      "faire venir"
+    ],
+    [
+      "intercepter",
+      "se dresser contre",
+      "affronter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

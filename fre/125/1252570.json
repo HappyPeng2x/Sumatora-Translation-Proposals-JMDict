@@ -1,0 +1,17 @@
+{
+  "seq": 1252570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mépriser",
+      "considérer avec dédain",
+      "faire peu de cas de"
+    ],
+    [
+      "bagatelliser",
+      "minimiser",
+      "considérer comme sans importance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -12,6 +12,13 @@
       "élément clé",
       "coup décisif",
       "preuve concluante"
+    ],
+    [
+      "dernière carte",
+      "coup décisif",
+      "carte gagnante",
+      "dernière chance",
+      "dernière option"
     ]
   ],
   "model": "qwen3:14b"

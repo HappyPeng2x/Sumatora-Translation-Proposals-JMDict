@@ -1,0 +1,19 @@
+{
+  "seq": 1259690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apercevoir",
+      "voir",
+      "supposer",
+      "penser"
+    ],
+    [
+      "apercevoir",
+      "rencontrer",
+      "découvrir",
+      "remarquer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

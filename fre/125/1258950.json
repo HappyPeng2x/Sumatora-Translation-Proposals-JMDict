@@ -1,0 +1,40 @@
+{
+  "seq": 1258950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épaule"
+    ],
+    [
+      "partie antérieure des jambes"
+    ],
+    [
+      "origine des ailes"
+    ],
+    [
+      "épaule; partie supérieure du corps"
+    ],
+    [
+      "épaule de montagne"
+    ],
+    [
+      "début d'une pente"
+    ],
+    [
+      "partie supérieure de quelque chose"
+    ],
+    [
+      "puissance de lancer"
+    ],
+    [
+      "capacité de portée"
+    ],
+    [
+      "(fig.) responsabilité; obligation"
+    ],
+    [
+      "(dans le bouddhisme) destin; karma; en raison des dieux qui siègent sur les épaules d'une personne et notent ses actes pour les rapporter au roi des enfers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

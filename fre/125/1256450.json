@@ -1,0 +1,15 @@
+{
+  "seq": 1256450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "amnésie",
+      "perte de mémoire"
+    ],
+    [
+      "oubli fréquent",
+      "manque de mémoire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

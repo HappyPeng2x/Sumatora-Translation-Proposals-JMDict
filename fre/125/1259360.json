@@ -1,0 +1,16 @@
+{
+  "seq": 1259360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "regarder de haut en bas",
+      "se montrer supérieur",
+      "condescendre"
+    ],
+    [
+      "mépriser",
+      "considérer comme inférieur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

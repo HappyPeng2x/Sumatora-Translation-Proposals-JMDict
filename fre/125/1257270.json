@@ -1,0 +1,68 @@
+{
+  "seq": 1257270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désagréable",
+      "détestable",
+      "détestable",
+      "désagréable"
+    ],
+    [
+      "lascivieux",
+      "obscène",
+      "sale",
+      "dégoûtant"
+    ],
+    [
+      "terrible",
+      "effroyable"
+    ],
+    [
+      "cruel",
+      "horrible"
+    ],
+    [
+      "dégoûtant",
+      "sale"
+    ],
+    [
+      "méprisable",
+      "ordurier",
+      "inconvenant"
+    ],
+    [
+      "honteux"
+    ],
+    [
+      "déshonnête",
+      "brutal"
+    ],
+    [
+      "désagréable",
+      "repoussant",
+      "nauséabond",
+      "déplaisant",
+      "répugnant",
+      "dégoûtant"
+    ],
+    [
+      "inconvenant",
+      "inapproprié",
+      "inconvenant",
+      "inacceptable",
+      "inadmissible",
+      "inconvenant",
+      "déshonnête",
+      "offensant",
+      "obscène",
+      "dégradant",
+      "lascivieux",
+      "obscène",
+      "sale",
+      "scabreux",
+      "ordurier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

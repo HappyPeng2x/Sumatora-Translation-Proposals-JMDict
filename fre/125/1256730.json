@@ -1,0 +1,23 @@
+{
+  "seq": 1256730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coupon",
+      "ticket"
+    ],
+    [
+      "document de propriété d'un terrain ou d'un shōen"
+    ],
+    [
+      "obligation"
+    ],
+    [
+      "certificat; preuve"
+    ],
+    [
+      "acte de propriété d'un bien immobilier; acte notarial; preuve de propriété; titre de valeur; sceau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

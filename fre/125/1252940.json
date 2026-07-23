@@ -1,0 +1,15 @@
+{
+  "seq": 1252940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frivolité",
+      "légitimité",
+      "superficialité",
+      "légèreté",
+      "faiblesse",
+      "insouciance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

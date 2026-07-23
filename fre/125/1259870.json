@@ -1,0 +1,15 @@
+{
+  "seq": 1259870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point de vue"
+    ],
+    [
+      "inspection sur place",
+      "visite sur site",
+      "examen de terrain"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

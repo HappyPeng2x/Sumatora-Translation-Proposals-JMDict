@@ -1,0 +1,24 @@
+{
+  "seq": 1253680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "combat acharné",
+      "bataille féroce",
+      "concurrentiel intense",
+      "lutte âpre"
+    ],
+    [
+      "se livrer un combat acharné"
+    ],
+    [
+      "combat acharné",
+      "lutte intense"
+    ],
+    [
+      "combat acharné",
+      "concurrentiel violent"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
