@@ -1,0 +1,15 @@
+{
+  "seq": 1242420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aujourd'hui",
+      "de nos jours",
+      "temps modernes"
+    ],
+    [
+      "période moderne précoce (au Japon, généralement de la restauration de Meiji jusqu'à la fin de la Seconde Guerre mondiale)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

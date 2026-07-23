@@ -1,0 +1,41 @@
+{
+  "seq": 1239940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "complication",
+      "courbure",
+      "lacet",
+      "méandre",
+      "péripéties",
+      "sinuosité"
+    ],
+    [
+      "vicissitudes",
+      "difficultés",
+      "complications",
+      "aléas"
+    ],
+    [
+      "instabilité",
+      "caprices du destin",
+      "embrouillures",
+      "montées et descentes"
+    ],
+    [
+      "changement",
+      "virage",
+      "tournant",
+      "détour"
+    ],
+    [
+      "détours",
+      "embrouillures",
+      "aléas",
+      "complexités",
+      "subtilités",
+      "ins et outs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

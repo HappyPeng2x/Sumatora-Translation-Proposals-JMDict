@@ -1,0 +1,27 @@
+{
+  "seq": 1241620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confinement",
+      "isolement",
+      "reclusion"
+    ],
+    [
+      "arrest en chambre",
+      "arrest de quartier"
+    ],
+    [
+      "emprisonner",
+      "detenir",
+      "interdire la sortie",
+      "limiter la liberté de mouvement"
+    ],
+    [
+      "consigner",
+      "mettre en consigne",
+      "faire subir un arrest en chambre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

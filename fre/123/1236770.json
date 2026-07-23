@@ -1,0 +1,14 @@
+{
+  "seq": 1236770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "politique de terreur",
+      "régime de terreur"
+    ],
+    [
+      "règne de terreur (surtout pendant la Révolution française)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1242000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lézard à collier",
+      "lézard à cou frisé (Chlamydosaurus kingii)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

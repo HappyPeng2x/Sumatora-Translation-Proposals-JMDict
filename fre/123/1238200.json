@@ -1,0 +1,13 @@
+{
+  "seq": 1238200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s' amuser",
+      "se divertir",
+      "prendre du plaisir",
+      "faire la fête"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

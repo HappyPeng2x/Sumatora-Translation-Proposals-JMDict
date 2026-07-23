@@ -1,0 +1,14 @@
+{
+  "seq": 1239800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interprétation délibérée erronée",
+      "distorsion",
+      "contorsion",
+      "perversion",
+      "compréhension malveillante"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

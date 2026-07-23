@@ -1,0 +1,12 @@
+{
+  "seq": 1241100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résumé professionnel",
+      "fiche de service",
+      "dossier de carrière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "diligence et paresse",
       "présence et absence (au travail)"
+    ],
+    [
+      "zèle professionnel"
     ]
   ],
   "model": "qwen3:14b"

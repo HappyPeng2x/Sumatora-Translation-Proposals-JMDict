@@ -1,0 +1,16 @@
+{
+  "seq": 1239710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "angle de deux rues",
+      "tournant (d'une rue, de sa vie)"
+    ],
+    [
+      "point tournant",
+      "moment décisif",
+      "tournant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

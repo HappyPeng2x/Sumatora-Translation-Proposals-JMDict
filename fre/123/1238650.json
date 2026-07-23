@@ -1,0 +1,27 @@
+{
+  "seq": 1238650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "effrayer",
+      "faire sensation",
+      "surprendre"
+    ],
+    [
+      "effrayer; faire peur; inspirer de la peur"
+    ],
+    [
+      "attirer l'attention; avertir; causer une sensation; créer de l'agitation"
+    ],
+    [
+      "réveiller; éveiller"
+    ],
+    [
+      "informer; notifier; faire savoir"
+    ],
+    [
+      "visiter; rendre visite à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

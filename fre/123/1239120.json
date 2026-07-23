@@ -1,0 +1,34 @@
+{
+  "seq": 1239120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caillement",
+      "coagulation",
+      "gel",
+      "solidification"
+    ],
+    [
+      "solidification",
+      "passage à l'état solide"
+    ],
+    [
+      "coagulation",
+      "précipitation",
+      "gélification"
+    ],
+    [
+      "devenir rigide",
+      "prendre consistance"
+    ],
+    [
+      "geler"
+    ],
+    [
+      "coaguler",
+      "précipiter",
+      "gélifier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

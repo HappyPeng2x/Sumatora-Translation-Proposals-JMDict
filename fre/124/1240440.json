@@ -1,0 +1,17 @@
+{
+  "seq": 1240440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extrême",
+      "maximum",
+      "ultime"
+    ],
+    [
+      "sommet",
+      "apogée",
+      "zénith"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

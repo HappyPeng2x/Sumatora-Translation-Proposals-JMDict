@@ -1,0 +1,26 @@
+{
+  "seq": 1242130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "près",
+      "près de"
+    ],
+    [
+      "proche dans le temps; prochain"
+    ],
+    [
+      "proche (relation); ami; intime"
+    ],
+    [
+      "étroitement lié"
+    ],
+    [
+      "similaire; presque le même; proche de; presque"
+    ],
+    [
+      "myope"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

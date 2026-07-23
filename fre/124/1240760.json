@@ -1,0 +1,14 @@
+{
+  "seq": 1240760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marge étroite",
+      "petite marge"
+    ],
+    [
+      "majorité étroite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

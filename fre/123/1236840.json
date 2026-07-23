@@ -1,0 +1,16 @@
+{
+  "seq": 1236840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être coincé",
+      "être pris entre deux"
+    ],
+    [
+      "être pris entre deux forces en conflit",
+      "être en situation de compromis",
+      "être coincé entre deux options"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

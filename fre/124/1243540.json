@@ -4,6 +4,11 @@
   "glosses": [
     [
       "mine d'argent"
+    ],
+    [
+      "poison pour rats",
+      "gif pour rats",
+      "pulvérisateur anti-rats"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,16 @@
+{
+  "seq": 1241480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défendre",
+      "interdire"
+    ],
+    [
+      "retenir",
+      "soumettre",
+      "réprimer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

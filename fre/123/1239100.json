@@ -1,0 +1,29 @@
+{
+  "seq": 1239100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caillement",
+      "coagulation",
+      "congélation",
+      "gel",
+      "solidification"
+    ],
+    [
+      "coagulation"
+    ],
+    [
+      "condensation"
+    ],
+    [
+      "condensation"
+    ],
+    [
+      "coagulation"
+    ],
+    [
+      "durcissement; prise (du béton; du mortier)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

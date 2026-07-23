@@ -1,0 +1,20 @@
+{
+  "seq": 1238840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dire",
+      "raconter"
+    ],
+    [
+      "être appelé"
+    ],
+    [
+      "parler (d'origine néerlandaise)"
+    ],
+    [
+      "appeler; nommer (d'origine néerlandaise)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

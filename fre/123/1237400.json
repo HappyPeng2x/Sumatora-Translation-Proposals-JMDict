@@ -1,0 +1,28 @@
+{
+  "seq": 1237400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exercice (militaire)"
+    ],
+    [
+      "exercice militaire",
+      "entraînement militaire",
+      "drill (dans l'ancienne armée)"
+    ],
+    [
+      "entraînement militaire des élèves (avant la guerre)"
+    ],
+    [
+      "entraîner",
+      "s'entraîner",
+      "faire des exercices"
+    ],
+    [
+      "exercer",
+      "driller",
+      "former (dans le domaine militaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

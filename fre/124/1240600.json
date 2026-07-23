@@ -1,0 +1,16 @@
+{
+  "seq": 1240600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rideau en bambou ; palais"
+    ],
+    [
+      "rideau en bambou"
+    ],
+    [
+      "bonbon au wasabi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

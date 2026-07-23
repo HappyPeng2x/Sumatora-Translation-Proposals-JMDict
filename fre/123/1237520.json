@@ -1,0 +1,17 @@
+{
+  "seq": 1237520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à rendre fou",
+      "exaspérant",
+      "presque fou"
+    ],
+    [
+      "follement fou",
+      "hystérique",
+      "dément"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

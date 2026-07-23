@@ -1,0 +1,11 @@
+{
+  "seq": 1243200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "source de revenus",
+      "soutien financier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

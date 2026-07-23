@@ -1,0 +1,20 @@
+{
+  "seq": 1237030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "église"
+    ],
+    [
+      "église",
+      "lieu de culte chrétien",
+      "édifice religieux",
+      "cathédrale",
+      "abbaye"
+    ],
+    [
+      "unité de mesure utilisée pour désigner des églises"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

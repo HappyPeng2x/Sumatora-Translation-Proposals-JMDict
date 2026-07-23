@@ -1,0 +1,24 @@
+{
+  "seq": 1237660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "folie",
+      "frénésie",
+      "furie"
+    ],
+    [
+      "folie",
+      "aberration",
+      "extravagance"
+    ],
+    [
+      "pièce théâtrale représentant une personne folle",
+      "devenir fou",
+      "perdre la raison",
+      "être pris de folie",
+      "se comporter de manière désordonnée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

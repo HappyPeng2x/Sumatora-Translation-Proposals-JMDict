@@ -1,0 +1,19 @@
+{
+  "seq": 1240240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "extrême droite",
+      "droite extrême",
+      "ultradroite"
+    ],
+    [
+      "extrémiste de droite",
+      "ultragauche",
+      "extrême droite",
+      "extrême-droite",
+      "radical de droite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

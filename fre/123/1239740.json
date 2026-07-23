@@ -1,0 +1,32 @@
+{
+  "seq": 1239740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courber",
+      "plier",
+      "tordre"
+    ],
+    [
+      "incliner",
+      "pencher",
+      "détourner"
+    ],
+    [
+      "fausser",
+      "altérer",
+      "déformer",
+      "pervertir"
+    ],
+    [
+      "céder",
+      "abandonner",
+      "négliger"
+    ],
+    [
+      "enlever en garantie",
+      "hypothéquer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1238680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être surpris",
+      "s'étonner de"
+    ],
+    [
+      "être effrayé",
+      "être pris de panique",
+      "être surpris par une peur soudaine"
+    ],
+    [
+      "être stupéfait",
+      "être abasourdi",
+      "être complètement décontenancé"
+    ],
+    [
+      "se réveiller",
+      "prendre conscience",
+      "sortir du sommeil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1242850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chambre forte",
+      "coffre-fort",
+      "trésor"
+    ],
+    [
+      "dépôt",
+      "bureau de trésorerie",
+      "trésorerie",
+      "fournisseur de fonds"
+    ],
+    [
+      "office des trésors"
+    ],
+    [
+      "banque",
+      "caisse",
+      "institution de crédit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1237640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fureur",
+      "frénésie"
+    ],
+    [
+      "furieux",
+      "enragé",
+      "hurlant",
+      "déchaîné",
+      "en colère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

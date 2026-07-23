@@ -1,0 +1,27 @@
+{
+  "seq": 1243390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "examen minutieux",
+      "test",
+      "vérification"
+    ],
+    [
+      "enquête",
+      "sur une affaire criminelle",
+      "examen d'une culpabilité"
+    ],
+    [
+      "vainqueur",
+      "d'une partie complète",
+      "celui qui remporte le plus de manches"
+    ],
+    [
+      "récitation",
+      "et appréciation de la poésie traditionnelle",
+      "lecture méditative de poèmes anciens"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

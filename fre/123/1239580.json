@@ -1,0 +1,17 @@
+{
+  "seq": 1239580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "employé de bureau",
+      "fonctionnaire (poste, etc)"
+    ],
+    [
+      "employé des postes; fonctionnaire des télégraphes"
+    ],
+    [
+      "employé d'une centrale téléphonique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

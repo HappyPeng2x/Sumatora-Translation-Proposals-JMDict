@@ -1,0 +1,16 @@
+{
+  "seq": 1241470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défendre",
+      "interdire"
+    ],
+    [
+      "réprimer",
+      "s'abstenir de",
+      "tenir en respect"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

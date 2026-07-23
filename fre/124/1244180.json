@@ -10,6 +10,13 @@
       "interruption",
       "arrêt",
       "milestone"
+    ],
+    [
+      "ponctuation",
+      "interponctuation"
+    ],
+    [
+      "mot de mesure pour les pauses"
     ]
   ],
   "model": "qwen3:14b"

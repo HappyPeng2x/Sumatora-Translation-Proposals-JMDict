@@ -5,6 +5,9 @@
     [
       "poil de cou",
       "poil de la nuque"
+    ],
+    [
+      "nuque; cou"
     ]
   ],
   "model": "qwen3:14b"

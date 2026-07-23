@@ -4,6 +4,9 @@
   "glosses": [
     [
       "Kinki (région autour d'Osaka, Kyoto, Nara)"
+    ],
+    [
+      "région du Japon comprenant les villes de Kyoto et Osaka ainsi que les préfectures de Hyōgo; Shiga et Mie"
     ]
   ],
   "model": "qwen3:14b"

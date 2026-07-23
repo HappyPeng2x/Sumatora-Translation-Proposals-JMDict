@@ -1,0 +1,10 @@
+{
+  "seq": 1244000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recueil de haïkus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

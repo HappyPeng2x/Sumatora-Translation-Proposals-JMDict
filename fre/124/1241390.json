@@ -1,0 +1,16 @@
+{
+  "seq": 1241390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poids"
+    ],
+    [
+      "poids mesuré"
+    ],
+    [
+      "poids de 1000 feuilles de papier ; poids de base"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

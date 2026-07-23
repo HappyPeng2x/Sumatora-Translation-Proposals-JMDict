@@ -5,6 +5,9 @@
     [
       "canne du professeur",
       "stylo-pointeur du professeur"
+    ],
+    [
+      "métier d'enseignant"
     ]
   ],
   "model": "qwen3:14b"

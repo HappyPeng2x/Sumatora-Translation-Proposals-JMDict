@@ -1,0 +1,25 @@
+{
+  "seq": 1244120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "section"
+    ],
+    [
+      "intervalle"
+    ],
+    [
+      "territoire"
+    ],
+    [
+      "intervalle"
+    ],
+    [
+      "étape; partie d'une relais; coup de rame"
+    ],
+    [
+      "unité de mesure pour des zones ou des étapes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

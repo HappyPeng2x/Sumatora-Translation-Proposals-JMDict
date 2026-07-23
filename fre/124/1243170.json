@@ -1,0 +1,22 @@
+{
+  "seq": 1243170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "racine de ginseng hachée cuite avec du sucre et de la sauce soja"
+    ],
+    [
+      "abréviation de Kinpira-Jōruri"
+    ],
+    [
+      "femme dotée d'un tempérament masculin fort"
+    ],
+    [
+      "racine de ginseng hachée cuite dans de la sauce soja et de l'huile de sésame (abréviation)"
+    ],
+    [
+      "colle à farine (abréviation)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

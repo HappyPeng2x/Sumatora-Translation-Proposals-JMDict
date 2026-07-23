@@ -7,6 +7,9 @@
       "commander",
       "dire à quelqu'un de faire quelque chose",
       "nommer à un poste"
+    ],
+    [
+      "nommer"
     ]
   ],
   "model": "qwen3:14b"

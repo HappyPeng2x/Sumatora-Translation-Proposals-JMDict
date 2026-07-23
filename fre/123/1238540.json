@@ -1,0 +1,15 @@
+{
+  "seq": 1238540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lieu de naissance",
+      "ville natale"
+    ],
+    [
+      "village",
+      "petit village"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

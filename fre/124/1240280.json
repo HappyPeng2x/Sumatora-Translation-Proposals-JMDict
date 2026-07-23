@@ -1,0 +1,14 @@
+{
+  "seq": 1240280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "froid intense",
+      "plein hiver"
+    ],
+    [
+      "époque de grande rigueur hivernale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

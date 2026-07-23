@@ -1,0 +1,21 @@
+{
+  "seq": 1241570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abstinence (alcool)",
+      "prohibition",
+      "tempérance"
+    ],
+    [
+      "interdiction de boire"
+    ],
+    [
+      "interdiction de l'alcool; prohibition de l'alcool; antialcoolisme; prohibition (historique)"
+    ],
+    [
+      "cessation de boire; abstinence; sobriété; abstinence totale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1240840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poste",
+      "lieu de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

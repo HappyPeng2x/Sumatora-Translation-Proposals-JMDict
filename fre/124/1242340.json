@@ -1,0 +1,11 @@
+{
+  "seq": 1242340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "valeur approchée",
+      "approximation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1242350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "proximité",
+      "voisinage"
+    ],
+    [
+      "maison proche"
+    ],
+    [
+      "entourage immédiat du seigneur féodal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

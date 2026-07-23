@@ -1,0 +1,40 @@
+{
+  "seq": 1244230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classification",
+      "compartiment",
+      "démarcation",
+      "division",
+      "file (traffic)",
+      "section"
+    ],
+    [
+      "classification",
+      "tri",
+      "groupement",
+      "segmentation"
+    ],
+    [
+      "division"
+    ],
+    [
+      "catégorie",
+      "séparation en parties",
+      "répartition"
+    ],
+    [
+      "isolement",
+      "séparation",
+      "isolation"
+    ],
+    [
+      "classification",
+      "ordre",
+      "tri",
+      "rangement en classes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1241590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livre interdit",
+      "interdiction de livres"
+    ],
+    [
+      "livre interdit",
+      "lecture clandestine"
+    ],
+    [
+      "interdiction d'importation de littérature chrétienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

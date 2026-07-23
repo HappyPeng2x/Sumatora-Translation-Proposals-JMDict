@@ -1,0 +1,24 @@
+{
+  "seq": 1244080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrondissement",
+      "circonscription"
+    ],
+    [
+      "district",
+      "section",
+      "zone"
+    ],
+    [
+      "district",
+      "quartier"
+    ],
+    [
+      "district scolaire",
+      "district judiciaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

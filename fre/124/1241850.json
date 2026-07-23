@@ -1,0 +1,19 @@
+{
+  "seq": 1241850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pressant",
+      "urgence"
+    ],
+    [
+      "urgence",
+      "not",
+      "dringent",
+      "pressant",
+      "imminent",
+      "indélayable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

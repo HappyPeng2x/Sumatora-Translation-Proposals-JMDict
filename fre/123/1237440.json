@@ -11,6 +11,11 @@
     [
       "construction d'un pont",
       "édification d'un pont"
+    ],
+    [
+      "médiateur",
+      "intermédiaire",
+      "personne qui facilite une négociation ou un accord entre des parties"
     ]
   ],
   "model": "qwen3:14b"

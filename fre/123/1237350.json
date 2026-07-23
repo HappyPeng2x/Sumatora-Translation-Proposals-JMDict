@@ -5,6 +5,9 @@
     [
       "affaires scolaires",
       "affaires religieuses"
+    ],
+    [
+      "affaires administratives d'un corps religieux"
     ]
   ],
   "model": "qwen3:14b"

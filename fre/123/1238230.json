@@ -1,0 +1,14 @@
+{
+  "seq": 1238230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "élan",
+      "montée",
+      "ascension",
+      "éveil de l'énergie",
+      "action enthousiaste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

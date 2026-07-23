@@ -1,0 +1,28 @@
+{
+  "seq": 1237570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "drame",
+      "pièce (kabuki)",
+      "simulation"
+    ],
+    [
+      "pièce de kabuki",
+      "représentation de kabuki"
+    ],
+    [
+      "fiction",
+      "ruse",
+      "tromperie",
+      "tour de passe-passe"
+    ],
+    [
+      "farce",
+      "blague",
+      "absurdité",
+      "plaisanterie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

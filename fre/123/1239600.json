@@ -1,0 +1,12 @@
+{
+  "seq": 1239600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "limitation",
+      "limiter",
+      "localiser"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

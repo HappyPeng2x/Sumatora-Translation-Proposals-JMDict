@@ -10,6 +10,19 @@
     [
       "publication récente",
       "qui a été récemment publiée"
+    ],
+    [
+      "prochainement",
+      "bientôt"
+    ],
+    [
+      "livre qui paraît bientôt"
+    ],
+    [
+      "nouvelle parution"
+    ],
+    [
+      "nouvelle parution; livre nouveau; nouveauté éditoriale"
     ]
   ],
   "model": "qwen3:14b"

@@ -5,6 +5,9 @@
     [
       "table de multiplication",
       "table des multiplications"
+    ],
+    [
+      "table de multiplication"
     ]
   ],
   "model": "qwen3:14b"

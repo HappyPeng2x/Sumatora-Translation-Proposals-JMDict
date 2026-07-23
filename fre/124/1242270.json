@@ -1,0 +1,15 @@
+{
+  "seq": 1242270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alentours",
+      "environs",
+      "voisinage"
+    ],
+    [
+      "villages proches d'une ville"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

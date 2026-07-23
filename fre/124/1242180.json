@@ -1,0 +1,19 @@
+{
+  "seq": 1242180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "proche parenté",
+      "relation étroite"
+    ],
+    [
+      "voisinage",
+      "parenté étroite"
+    ],
+    [
+      "parenté étroite",
+      "proche parenté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1241380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "unité de poids (environ 600 g)"
+    ],
+    [
+      "pound (unité de poids)",
+      "livre (unité de poids)"
+    ],
+    [
+      "pain (unité de pain)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

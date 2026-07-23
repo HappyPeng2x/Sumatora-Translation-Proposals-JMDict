@@ -1,0 +1,40 @@
+{
+  "seq": 1239070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être absorbé",
+      "être recherché (habits)",
+      "se passionner pour",
+      "se raidir"
+    ],
+    [
+      "s'immerger dans",
+      "se passionner pour",
+      "se consacrer à",
+      "devenir obsédé par",
+      "être accro à"
+    ],
+    [
+      "être soigné",
+      "être détaillé",
+      "être raffiné",
+      "être exigeant",
+      "porter une grande attention à"
+    ],
+    [
+      "devenir raide",
+      "se raidir",
+      "s'endurcir"
+    ],
+    [
+      "se rassembler en un lieu",
+      "s'accumuler en un endroit"
+    ],
+    [
+      "geler",
+      "figer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

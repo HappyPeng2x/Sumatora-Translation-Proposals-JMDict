@@ -6,6 +6,16 @@
       "ciel",
       "cieux",
       "palais céleste"
+    ],
+    [
+      "ciel",
+      "monde céleste"
+    ],
+    [
+      "palais impérial"
+    ],
+    [
+      "les neuf corps célestes (selon l'astronomie chinoise)"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,14 @@
+{
+  "seq": 1243120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coupe en or",
+      "goblet doré"
+    ],
+    [
+      "coupe dorée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

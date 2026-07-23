@@ -1,0 +1,12 @@
+{
+  "seq": 1237340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "manuel",
+      "ouvrage didactique",
+      "livre de cours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

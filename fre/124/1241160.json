@@ -1,0 +1,16 @@
+{
+  "seq": 1241160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "application",
+      "effort",
+      "travail"
+    ],
+    [
+      "travail rémunéré",
+      "travail à contrepartie financière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1241640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "symptômes de sevrage",
+      "syndrome de l'abstinence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

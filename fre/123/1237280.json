@@ -6,6 +6,18 @@
       "écritures sacrées",
       "canon",
       "guide des enseignements"
+    ],
+    [
+      "sutra"
+    ],
+    [
+      "Bible; Écritures saintes; Sainte Écriture"
+    ],
+    [
+      "Coran"
+    ],
+    [
+      "texte fondamental; livre de base; Bible"
     ]
   ],
   "model": "qwen3:14b"

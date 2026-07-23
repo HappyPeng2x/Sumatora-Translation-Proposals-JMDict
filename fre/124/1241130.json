@@ -1,0 +1,12 @@
+{
+  "seq": 1241130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allocation de lieu de travail",
+      "prime de résidence",
+      "aide au logement liée à la région"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

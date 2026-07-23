@@ -1,0 +1,16 @@
+{
+  "seq": 1240640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coléoptère précieux (surtout Chrysochroa fulgidissima) ; buprèstide"
+    ],
+    [
+      "puceron de cave"
+    ],
+    [
+      "irisation (abr.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1239280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aube",
+      "point du jour"
+    ],
+    [
+      "évènement",
+      "occasion",
+      "occurrence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

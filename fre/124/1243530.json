@@ -1,0 +1,21 @@
+{
+  "seq": 1243530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Ginza (Champs-Elysées de Tokyo)",
+      "monnaie d'argent (période d'Edo)"
+    ],
+    [
+      "quartier commerçant animé",
+      "lieu animé"
+    ],
+    [
+      "monnaie en argent (période d'Edo)"
+    ],
+    [
+      "(néerlandais) Ginza"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

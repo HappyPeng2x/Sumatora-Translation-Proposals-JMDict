@@ -1,0 +1,73 @@
+{
+  "seq": 1241750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "action (d'un roman)",
+      "fibre",
+      "ligament",
+      "ligne",
+      "muscle",
+      "source (d'une information)",
+      "tendon"
+    ],
+    [
+      "veine"
+    ],
+    [
+      "fibre"
+    ],
+    [
+      "ligne"
+    ],
+    [
+      "raison"
+    ],
+    [
+      "intrigue"
+    ],
+    [
+      "descendance"
+    ],
+    [
+      "école"
+    ],
+    [
+      "aptitude"
+    ],
+    [
+      "source"
+    ],
+    [
+      "personne bien informée"
+    ],
+    [
+      "coup logique"
+    ],
+    [
+      "neuvième ligne verticale"
+    ],
+    [
+      "couture d'un casque"
+    ],
+    [
+      "pâte de poisson gristly"
+    ],
+    [
+      "position sociale"
+    ],
+    [
+      "le long de"
+    ],
+    [
+      "compteur pour choses longues et fines"
+    ],
+    [
+      "rue (d'Osaka)"
+    ],
+    [
+      "compteur pour des centaines de mon (unité monétaire édo période)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

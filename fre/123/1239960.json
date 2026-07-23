@@ -1,0 +1,15 @@
+{
+  "seq": 1239960,
+  "lang": "fre",
+  "glosses": [
+    [
+      "théorie fausse",
+      "théorie erronée"
+    ],
+    [
+      "explication tordue",
+      "interprétation qui déforme la vérité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

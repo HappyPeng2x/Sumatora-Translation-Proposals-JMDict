@@ -1,0 +1,14 @@
+{
+  "seq": 1241650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interdiction",
+      "souffrance",
+      "douleur",
+      "malaise",
+      "inconfort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

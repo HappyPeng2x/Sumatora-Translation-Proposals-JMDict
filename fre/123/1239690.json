@@ -1,0 +1,13 @@
+{
+  "seq": 1239690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poste restante"
+    ],
+    [
+      "colis en instance de livraison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

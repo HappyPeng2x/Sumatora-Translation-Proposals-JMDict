@@ -1,0 +1,19 @@
+{
+  "seq": 1242390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les temps modernes"
+    ],
+    [
+      "période prémoderne"
+    ],
+    [
+      "période de la fin de la dynastie Ming à l'époque des Qing"
+    ],
+    [
+      "l'époque moderne; la modernité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

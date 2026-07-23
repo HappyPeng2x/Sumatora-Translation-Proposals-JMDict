@@ -1,0 +1,18 @@
+{
+  "seq": 1242170,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(s')approcher de",
+      "devenir intime avec quelque-un",
+      "se lier d'amitié avec quelqu'un",
+      "se ressembler (caractère, comportement)"
+    ],
+    [
+      "se familiariser avec",
+      "approcher davantage",
+      "devenir plus proche de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

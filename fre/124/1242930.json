@@ -5,6 +5,10 @@
     [
       "anniversaire de mariage doré",
       "cinquantième anniversaire de mariage"
+    ],
+    [
+      "La cinquantaine",
+      "œuvre musicale de Jean Gabriel-Marie"
     ]
   ],
   "model": "qwen3:14b"

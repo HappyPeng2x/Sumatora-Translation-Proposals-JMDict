@@ -6,6 +6,10 @@
       "partition administrative",
       "division administrative",
       "séparation administrative"
+    ],
+    [
+      "lieu séparé",
+      "endroit isolé"
     ]
   ],
   "model": "qwen3:14b"

@@ -29,6 +29,9 @@
       "monstre",
       "fantôme",
       "spectre"
+    ],
+    [
+      "monstre"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,15 @@
+{
+  "seq": 1240980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "application",
+      "diligence",
+      "frugalité"
+    ],
+    [
+      "zêne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

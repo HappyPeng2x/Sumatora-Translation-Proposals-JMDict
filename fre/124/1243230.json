@@ -1,0 +1,14 @@
+{
+  "seq": 1243230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "grillage"
+    ],
+    [
+      "grillage métallique",
+      "clôture en fil de fer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

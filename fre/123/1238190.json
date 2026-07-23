@@ -1,0 +1,80 @@
+{
+  "seq": 1238190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rétablir (fortune)",
+      "ranimer",
+      "redresser",
+      "relevere"
+    ],
+    [
+      "établir",
+      "créer",
+      "mettre en place",
+      "lancer",
+      "commencer"
+    ],
+    [
+      "labourer",
+      "retourner la terre",
+      "creuser"
+    ],
+    [
+      "défricher",
+      "ouvrir une surface"
+    ],
+    [
+      "découvrir",
+      "dévoiler"
+    ],
+    [
+      "retourner",
+      "inverser (une carte)"
+    ],
+    [
+      "causer",
+      "provoquer",
+      "produire",
+      "générer",
+      "créer",
+      "former"
+    ],
+    [
+      "fonder",
+      "commencer",
+      "ouvrir",
+      "démarrer",
+      "ranimer"
+    ],
+    [
+      "ranimer",
+      "donner de l'énergie"
+    ],
+    [
+      "souffrir",
+      "contracter",
+      "avoir",
+      "accoucher (de maladie; de crise; etc.)"
+    ],
+    [
+      "composer",
+      "écrire",
+      "créer"
+    ],
+    [
+      "transcrire",
+      "enregistrer (une bande sonore)"
+    ],
+    [
+      "découper",
+      "tailler",
+      "couper (une plaque de presse)"
+    ],
+    [
+      "ressentir",
+      "être envahi par (des émotions)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

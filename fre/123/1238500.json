@@ -1,0 +1,16 @@
+{
+  "seq": 1238500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mal du pays",
+      "nostalgie"
+    ],
+    [
+      "nostalgie pour le passé",
+      "désir de temps anciens",
+      "mélancolie liée au souvenir du passé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

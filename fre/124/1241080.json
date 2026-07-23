@@ -1,0 +1,11 @@
+{
+  "seq": 1241080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "employé",
+      "travailleur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

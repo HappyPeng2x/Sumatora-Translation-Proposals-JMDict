@@ -1,0 +1,74 @@
+{
+  "seq": 1240530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balle",
+      "joyau",
+      "sphère"
+    ],
+    [
+      "balle (de pistolet)",
+      "cartouche",
+      "munition",
+      "balle (de pistolet)",
+      "munition",
+      "cartouche"
+    ],
+    [
+      "balle (sportive)"
+    ],
+    [
+      "amas (de nouilles)"
+    ],
+    [
+      "balle (de fusil)"
+    ],
+    [
+      "ampoule (électrique)"
+    ],
+    [
+      "lentille (de lunettes)"
+    ],
+    [
+      "bille (d'un boulier)"
+    ],
+    [
+      "testicule"
+    ],
+    [
+      "joyau; perle; diamant"
+    ],
+    [
+      "danseuse; geisha"
+    ],
+    [
+      "personne; caractère (dér. mépr.)"
+    ],
+    [
+      "élément (d'un complot)"
+    ],
+    [
+      "œuf"
+    ],
+    [
+      "okonomiyaki"
+    ],
+    [
+      "monnaie"
+    ],
+    [
+      "précieux; beau; excellent"
+    ],
+    [
+      "prostituée"
+    ],
+    [
+      "personne; être humain (surtout en matière d'apparence)"
+    ],
+    [
+      "personne ou fonds nécessaires pour réaliser un plan; balle; balle de fusil; projectile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

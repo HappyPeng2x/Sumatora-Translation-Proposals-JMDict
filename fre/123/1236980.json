@@ -1,0 +1,15 @@
+{
+  "seq": 1236980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "équipe pédagogique",
+      "corps enseignat",
+      "professeurs"
+    ],
+    [
+      "corps enseignant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

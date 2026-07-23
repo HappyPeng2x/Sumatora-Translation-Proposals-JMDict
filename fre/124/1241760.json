@@ -1,0 +1,39 @@
+{
+  "seq": 1241760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "absurdité",
+      "crampe",
+      "entorse",
+      "illogique"
+    ],
+    [
+      "absurdité",
+      "irrationnalité"
+    ],
+    [
+      "irrationnel",
+      "incohérent"
+    ],
+    [
+      "mal orienté",
+      "mal placé",
+      "erroné"
+    ],
+    [
+      "crampes musculaires",
+      "torse",
+      "entorse"
+    ],
+    [
+      "obliquité",
+      "diagonalité"
+    ],
+    [
+      "oblique",
+      "inclinaison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

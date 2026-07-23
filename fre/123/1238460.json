@@ -1,0 +1,17 @@
+{
+  "seq": 1238460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "soba (nouilles de sarasin)"
+    ],
+    [
+      "nouilles de sarrasin",
+      "pâtes de sarrasin"
+    ],
+    [
+      "nouilles chinoises en pâte de blé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1241310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "égalité",
+      "parité"
+    ],
+    [
+      "égal",
+      "égalitaire",
+      "uniforme",
+      "paritaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1237410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pont"
+    ],
+    [
+      "liaison",
+      "médiation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

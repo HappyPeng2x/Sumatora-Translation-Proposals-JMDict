@@ -1,0 +1,20 @@
+{
+  "seq": 1243140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pieds et poings liés",
+      "sensation passagère de paralysie"
+    ],
+    [
+      "paralysie du sommeil"
+    ],
+    [
+      "être lié par l'argent"
+    ],
+    [
+      "paralysie du sommeil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

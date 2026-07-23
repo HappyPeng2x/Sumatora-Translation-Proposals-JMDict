@@ -1,0 +1,19 @@
+{
+  "seq": 1244240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "division",
+      "section",
+      "démarcation",
+      "voie (de circulation)",
+      "compartiment",
+      "classification",
+      "tri"
+    ],
+    [
+      "classification"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1241770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diagonal",
+      "oblique",
+      "brace"
+    ],
+    [
+      "poutre oblique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

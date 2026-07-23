@@ -1,0 +1,22 @@
+{
+  "seq": 1238550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "miroir"
+    ],
+    [
+      "bouchon de tonneau"
+    ],
+    [
+      "feuille d'engagement"
+    ],
+    [
+      "mochi en forme de miroir"
+    ],
+    [
+      "ouvrage historique japonais portant le mot 'kagami' dans le titre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

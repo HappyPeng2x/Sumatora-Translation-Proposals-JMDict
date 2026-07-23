@@ -1,0 +1,15 @@
+{
+  "seq": 1236950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éducation",
+      "formation",
+      "instruction"
+    ],
+    [
+      "culture; cultivation; éducation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

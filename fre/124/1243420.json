@@ -1,0 +1,17 @@
+{
+  "seq": 1243420,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ginkgo",
+      "arbre à biloba"
+    ],
+    [
+      "coiffure masculine de l'époque Edo où la pointe du chignon du samouraï était élargie en forme de feuille de ginkgo"
+    ],
+    [
+      "blason familial"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

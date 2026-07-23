@@ -19,6 +19,12 @@
     [
       "agglutination",
       "soudure (dans un contexte biologique)"
+    ],
+    [
+      "agrégation"
+    ],
+    [
+      "cohésion"
     ]
   ],
   "model": "qwen3:14b"

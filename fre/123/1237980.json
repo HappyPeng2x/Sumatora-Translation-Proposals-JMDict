@@ -1,0 +1,15 @@
+{
+  "seq": 1237980,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poitrine",
+      "sein",
+      "thorax"
+    ],
+    [
+      "organes respiratoires"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

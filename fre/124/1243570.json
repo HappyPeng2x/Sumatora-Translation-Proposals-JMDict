@@ -1,0 +1,14 @@
+{
+  "seq": 1243570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coupe en argent",
+      "timbale"
+    ],
+    [
+      "vase en argent recouvert de vers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

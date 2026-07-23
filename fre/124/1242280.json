@@ -1,0 +1,14 @@
+{
+  "seq": 1242280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "préfectures voisines",
+      "préfectures proches"
+    ],
+    [
+      "préfecture proche"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

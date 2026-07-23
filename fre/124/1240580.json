@@ -1,0 +1,16 @@
+{
+  "seq": 1240580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "défaite honorable",
+      "mort honorable"
+    ],
+    [
+      "défaite totale",
+      "échec complet",
+      "rejet total lorsqu'on déclare son amour"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

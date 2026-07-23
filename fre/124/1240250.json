@@ -1,0 +1,16 @@
+{
+  "seq": 1240250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paradis"
+    ],
+    [
+      "paradis",
+      "terre bénie",
+      "enfer de plaisirs",
+      "régné de bonheur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

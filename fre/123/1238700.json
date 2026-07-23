@@ -1,0 +1,16 @@
+{
+  "seq": 1238700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "merveille",
+      "miracle",
+      "prodige"
+    ],
+    [
+      "étonnement",
+      "surprise"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

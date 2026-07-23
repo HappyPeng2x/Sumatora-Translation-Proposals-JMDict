@@ -1,0 +1,21 @@
+{
+  "seq": 1237370,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éducation",
+      "culture"
+    ],
+    [
+      "éducation",
+      "culture",
+      "élégance de la vie",
+      "cultivé"
+    ],
+    [
+      "deuil",
+      "mémorial funéraire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

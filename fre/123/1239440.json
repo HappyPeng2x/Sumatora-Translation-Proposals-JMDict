@@ -1,0 +1,15 @@
+{
+  "seq": 1239440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commerçant",
+      "homme d'affaire"
+    ],
+    [
+      "collègue du même métier",
+      "personne exerçant le même métier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

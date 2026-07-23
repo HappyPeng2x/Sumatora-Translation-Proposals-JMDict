@@ -1,0 +1,15 @@
+{
+  "seq": 1239140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point de solidification",
+      "point de congélation"
+    ],
+    [
+      "point d'arrêt",
+      "point de blocage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

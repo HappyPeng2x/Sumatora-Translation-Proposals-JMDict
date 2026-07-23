@@ -1,0 +1,14 @@
+{
+  "seq": 1243850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le neuvième jour du mois",
+      "neuf jours"
+    ],
+    [
+      "neuf jours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

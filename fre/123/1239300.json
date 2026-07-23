@@ -1,0 +1,14 @@
+{
+  "seq": 1239300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Vénus",
+      "rareté"
+    ],
+    [
+      "Étoile du matin; Vénus"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

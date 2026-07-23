@@ -1,0 +1,17 @@
+{
+  "seq": 1243160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "hardware",
+      "ferraille",
+      "accessoire métallique",
+      "outillage en métal"
+    ],
+    [
+      "accessoire métallique",
+      "ornement métallique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

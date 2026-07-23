@@ -8,6 +8,11 @@
       "inculquer",
       "marteler",
       "donner des leçons répétées"
+    ],
+    [
+      "dresser",
+      "élever",
+      "éduquer"
     ]
   ],
   "model": "qwen3:14b"

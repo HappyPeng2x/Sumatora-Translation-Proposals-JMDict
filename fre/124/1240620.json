@@ -6,6 +6,9 @@
       "caillou",
       "pierre ronde",
       "roc"
+    ],
+    [
+      "charbon silicifié"
     ]
   ],
   "model": "qwen3:14b"

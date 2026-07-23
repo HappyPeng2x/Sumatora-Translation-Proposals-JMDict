@@ -1,0 +1,14 @@
+{
+  "seq": 1238800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instructions",
+      "ordre (d'un supérieur)"
+    ],
+    [
+      "ce que vous dites ; les paroles de quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

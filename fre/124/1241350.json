@@ -1,0 +1,15 @@
+{
+  "seq": 1241350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "estampe en bois polychrome",
+      "estampe en bois multicolore"
+    ],
+    [
+      "xylographie polychrome",
+      "gravure sur bois multicolore"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

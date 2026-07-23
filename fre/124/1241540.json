@@ -1,0 +1,21 @@
+{
+  "seq": 1241540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "emprisonnement",
+      "incarcération",
+      "confinement"
+    ],
+    [
+      "peine d'emprisonnement",
+      "peine de prison",
+      "emprisonnement"
+    ],
+    [
+      "interdiction d'exercer une fonction publique",
+      "interdiction de servir dans l'administration publique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

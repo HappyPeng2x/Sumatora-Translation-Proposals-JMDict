@@ -1,0 +1,38 @@
+{
+  "seq": 1237820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poitrine"
+    ],
+    [
+      "poitrine",
+      "sein",
+      "seins"
+    ],
+    [
+      "cœur",
+      "coeur"
+    ],
+    [
+      "poumons"
+    ],
+    [
+      "estomac"
+    ],
+    [
+      "cœur",
+      "esprit",
+      "sentiments"
+    ],
+    [
+      "cœur",
+      "esprit",
+      "âme"
+    ],
+    [
+      "partie supérieure du torse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

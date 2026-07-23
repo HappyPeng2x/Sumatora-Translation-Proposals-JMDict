@@ -10,6 +10,17 @@
     [
       "corde de koto",
       "corde de l'instrument koto"
+    ],
+    [
+      "toucher une corde sensible",
+      "faire vibrer une corde sensible",
+      "atteindre une corde sensible",
+      "toucher le cœur",
+      "émouvoir",
+      "affecter émotionnellement",
+      "toucher l'âme",
+      "atteindre l'émotion",
+      "toucher le sentiment"
     ]
   ],
   "model": "qwen3:14b"

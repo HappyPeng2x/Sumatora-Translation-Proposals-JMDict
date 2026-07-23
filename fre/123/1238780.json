@@ -1,0 +1,32 @@
+{
+  "seq": 1238780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "boire",
+      "chercher",
+      "demander",
+      "honorer",
+      "lever les yeux",
+      "prendre (nourriture)"
+    ],
+    [
+      "respecter",
+      "vénérer"
+    ],
+    [
+      "demander",
+      "solliciter",
+      "s'adresser à quelqu'un pour obtenir"
+    ],
+    [
+      "dépendre de",
+      "reposer sur"
+    ],
+    [
+      "avaler",
+      "boire avec empressement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

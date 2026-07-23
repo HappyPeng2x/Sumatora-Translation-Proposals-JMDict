@@ -9,6 +9,11 @@
     ],
     [
       "cartilage"
+    ],
+    [
+      "corps musculaire",
+      "constitution physique",
+      "force corporelle"
     ]
   ],
   "model": "qwen3:14b"

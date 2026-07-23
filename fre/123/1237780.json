@@ -1,0 +1,16 @@
+{
+  "seq": 1237780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corriger",
+      "remonter"
+    ],
+    [
+      "corriger",
+      "réparer",
+      "mettre en ordre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

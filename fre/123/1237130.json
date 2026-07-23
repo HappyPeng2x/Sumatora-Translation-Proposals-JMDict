@@ -1,0 +1,15 @@
+{
+  "seq": 1237130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enseignant",
+      "instituteur",
+      "professeur"
+    ],
+    [
+      "prêtre; guide religieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

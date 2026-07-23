@@ -1,0 +1,15 @@
+{
+  "seq": 1237270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plateforme",
+      "pavé",
+      "estrade"
+    ],
+    [
+      "métier d'enseignant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

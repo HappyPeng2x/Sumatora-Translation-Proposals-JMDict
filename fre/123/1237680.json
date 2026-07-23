@@ -1,0 +1,27 @@
+{
+  "seq": 1237680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étroit",
+      "confiné",
+      "petit"
+    ],
+    [
+      "limité",
+      "étroit d'esprit",
+      "restrictif"
+    ],
+    [
+      "limité",
+      "restreint",
+      "borné"
+    ],
+    [
+      "avare",
+      "étroit d'esprit",
+      "mesquin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

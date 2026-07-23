@@ -1,0 +1,26 @@
+{
+  "seq": 1237650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'acharner à (suru)",
+      "se démener (suru)"
+    ],
+    [
+      "course frénétique",
+      "agitation extrême",
+      "fouetter l'air en courant"
+    ],
+    [
+      "course désespérée",
+      "agitation paniquée",
+      "fuir en tous sens"
+    ],
+    [
+      "agitation intense",
+      "effort désespéré",
+      "déménagement frénétique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

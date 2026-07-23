@@ -1,0 +1,16 @@
+{
+  "seq": 1237360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "instituteur",
+      "professeur"
+    ],
+    [
+      "maître d'école",
+      "instituteur",
+      "professeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

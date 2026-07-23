@@ -1,0 +1,48 @@
+{
+  "seq": 1237510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir fou",
+      "se dérégler",
+      "se détraquer"
+    ],
+    [
+      "se dérégler",
+      "tomber en panne",
+      "perdre sa précision"
+    ],
+    [
+      "aller de travers",
+      "ne pas se réaliser",
+      "être en désordre"
+    ],
+    [
+      "devenir fou de passion",
+      "être enthousiaste",
+      "être emballé"
+    ],
+    [
+      "être en désordre",
+      "s'égarer",
+      "se dérouter",
+      "se déplacer de façon incohérente"
+    ],
+    [
+      "être déformé",
+      "être tordu",
+      "être dévié",
+      "être altéré"
+    ],
+    [
+      "se mouvoir de façon frénétique",
+      "agir comme possédé"
+    ],
+    [
+      "ne pas atteindre son but",
+      "se tromper de cible",
+      "manquer son objectif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

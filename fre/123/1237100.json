@@ -1,0 +1,14 @@
+{
+  "seq": 1237100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "incitation",
+      "instigation"
+    ],
+    [
+      "incitement (juridique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

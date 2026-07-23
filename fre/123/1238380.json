@@ -1,0 +1,27 @@
+{
+  "seq": 1238380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "agitation",
+      "excitation",
+      "stimulation"
+    ],
+    [
+      "s'agiter",
+      "être excité",
+      "être en ébullition"
+    ],
+    [
+      "agitation",
+      "excitation",
+      "nervosité"
+    ],
+    [
+      "excitation",
+      "éveil",
+      "stimulation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

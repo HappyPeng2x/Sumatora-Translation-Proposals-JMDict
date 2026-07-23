@@ -1,0 +1,19 @@
+{
+  "seq": 1237150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle de classe"
+    ],
+    [
+      "département (d'une université)"
+    ],
+    [
+      "classe; cours; leçons"
+    ],
+    [
+      "école (spécialisée); établissement scolaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

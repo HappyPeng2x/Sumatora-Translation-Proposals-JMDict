@@ -1,0 +1,14 @@
+{
+  "seq": 1237160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enseignement",
+      "professeur"
+    ],
+    [
+      "enseignement; instruction; cours"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

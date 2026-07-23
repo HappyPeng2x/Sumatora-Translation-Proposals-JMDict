@@ -1,0 +1,15 @@
+{
+  "seq": 1236940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "apprendre"
+    ],
+    [
+      "recevoir des instructions",
+      "être instruit",
+      "être éduqué"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

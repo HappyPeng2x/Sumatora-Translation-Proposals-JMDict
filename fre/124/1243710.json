@@ -1,0 +1,13 @@
+{
+  "seq": 1243710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Kyushu (la plus au sud des 4 îles principales du Japon)"
+    ],
+    [
+      "les Neuf Provinces"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

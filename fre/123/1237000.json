@@ -1,0 +1,13 @@
+{
+  "seq": 1237000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éducation",
+      "éclairage",
+      "civilisation",
+      "indoctrination"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

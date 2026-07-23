@@ -1,0 +1,19 @@
+{
+  "seq": 1242220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "myopie",
+      "vue basse"
+    ],
+    [
+      "personne myope",
+      "myope"
+    ],
+    [
+      "vision courte",
+      "manque de vision à long terme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

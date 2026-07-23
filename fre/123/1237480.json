@@ -1,0 +1,27 @@
+{
+  "seq": 1237480,
+  "lang": "fre",
+  "glosses": [
+    [
+      "folie",
+      "insanité"
+    ],
+    [
+      "irrégularité",
+      "déviation",
+      "désordre"
+    ],
+    [
+      "fanatisme",
+      "fanatique",
+      "enthousiaste",
+      "dingue"
+    ],
+    [
+      "fluctuation",
+      "oscillation",
+      "misse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

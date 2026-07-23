@@ -4,6 +4,12 @@
   "glosses": [
     [
       "fondateur d'une secte religieuse"
+    ],
+    [
+      "fondateur d'une secte"
+    ],
+    [
+      "créateur; auteur; initiateur"
     ]
   ],
   "model": "qwen3:14b"

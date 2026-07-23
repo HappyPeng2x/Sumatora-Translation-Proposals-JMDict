@@ -1,0 +1,15 @@
+{
+  "seq": 1241660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chose interdite",
+      "tabou"
+    ],
+    [
+      "chose détestable",
+      "chose nuisible"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

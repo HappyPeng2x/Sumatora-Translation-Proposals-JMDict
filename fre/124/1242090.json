@@ -1,0 +1,28 @@
+{
+  "seq": 1242090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrêts",
+      "châtiment",
+      "confinemeny",
+      "réclusion"
+    ],
+    [
+      "confinement",
+      "isolement",
+      "emprisonnement à domicile"
+    ],
+    [
+      "suspension",
+      "mise à l'écart",
+      "interdiction temporaire"
+    ],
+    [
+      "confinement",
+      "huis clos",
+      "arrestation à domicile"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

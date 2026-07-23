@@ -1,0 +1,11 @@
+{
+  "seq": 1239620,
+  "lang": "fre",
+  "glosses": [
+    [
+      "branchement local",
+      "saut local"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

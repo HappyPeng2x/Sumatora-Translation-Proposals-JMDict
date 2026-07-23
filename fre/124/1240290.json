@@ -7,6 +7,9 @@
       "peine de mort",
       "sanction maximale",
       "punition ultime"
+    ],
+    [
+      "peine capitale"
     ]
   ],
   "model": "qwen3:14b"

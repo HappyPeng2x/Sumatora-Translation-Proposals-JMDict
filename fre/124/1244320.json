@@ -1,0 +1,43 @@
+{
+  "seq": 1244320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "difficile",
+      "douloureux",
+      "pénible"
+    ],
+    [
+      "pénible",
+      "difficile",
+      "stressant",
+      "embarrassant"
+    ],
+    [
+      "précipité",
+      "difficile",
+      "dans une situation précaire",
+      "dans une situation financière difficile"
+    ],
+    [
+      "forcé",
+      "maladroit",
+      "faux",
+      "étiré"
+    ],
+    [
+      "difficile à faire",
+      "déplaisant"
+    ],
+    [
+      "difficile",
+      "problématique"
+    ],
+    [
+      "inconfortable",
+      "déplaisant",
+      "agaçant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

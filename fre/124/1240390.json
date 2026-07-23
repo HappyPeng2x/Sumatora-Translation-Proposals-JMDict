@@ -1,0 +1,15 @@
+{
+  "seq": 1240390,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cercle polaire"
+    ],
+    [
+      "pôle",
+      "extrémité du monde",
+      "fin du monde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

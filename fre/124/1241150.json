@@ -1,0 +1,12 @@
+{
+  "seq": 1241150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "évaluation du travail",
+      "examen de performance",
+      "note de rendement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

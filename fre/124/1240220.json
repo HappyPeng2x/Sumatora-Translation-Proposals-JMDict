@@ -1,0 +1,13 @@
+{
+  "seq": 1240220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "secret",
+      "mystère",
+      "essence",
+      "âme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

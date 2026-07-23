@@ -1,0 +1,15 @@
+{
+  "seq": 1238450,
+  "lang": "fre",
+  "glosses": [
+    [
+      "développement",
+      "prospérité"
+    ],
+    [
+      "prospérité",
+      "floraison"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

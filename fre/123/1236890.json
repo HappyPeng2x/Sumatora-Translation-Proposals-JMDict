@@ -1,0 +1,17 @@
+{
+  "seq": 1236890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "doctrine",
+      "enseignement",
+      "leçon",
+      "précepte"
+    ],
+    [
+      "règle",
+      "prescription"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

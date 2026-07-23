@@ -1,0 +1,14 @@
+{
+  "seq": 1239310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aube"
+    ],
+    [
+      "aube matinale",
+      "début de la journée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

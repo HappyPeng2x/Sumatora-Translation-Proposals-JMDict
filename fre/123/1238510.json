@@ -1,0 +1,19 @@
+{
+  "seq": 1238510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pays natal"
+    ],
+    [
+      "province",
+      "région",
+      "localité"
+    ],
+    [
+      "lié à une région",
+      "populaire; folklorique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

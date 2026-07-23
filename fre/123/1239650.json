@@ -1,0 +1,16 @@
+{
+  "seq": 1239650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef de bureau"
+    ],
+    [
+      "chef de poste"
+    ],
+    [
+      "chef d'une administration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

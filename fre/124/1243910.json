@@ -7,6 +7,9 @@
       "fraternité",
       "sororité",
       "bâtiment de club"
+    ],
+    [
+      "groupe d'intérêts (dans une école ou une université)"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,13 @@
+{
+  "seq": 1241730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "animaux",
+      "bête",
+      "brute",
+      "animal (stupide)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

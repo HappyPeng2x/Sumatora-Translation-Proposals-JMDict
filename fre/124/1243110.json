@@ -1,0 +1,15 @@
+{
+  "seq": 1243110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "caisse enregistreuse",
+      "porte-monnaie",
+      "portefeuille"
+    ],
+    [
+      "caisse de recettes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1243600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "neuf"
+    ],
+    [
+      "neuf ans"
+    ],
+    [
+      "midi (ancien système horaire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

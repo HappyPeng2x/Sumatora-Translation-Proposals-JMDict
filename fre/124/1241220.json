@@ -1,0 +1,12 @@
+{
+  "seq": 1241220,
+  "lang": "fre",
+  "glosses": [
+    [
+      "service du travail",
+      "travail obligatoire",
+      "service de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

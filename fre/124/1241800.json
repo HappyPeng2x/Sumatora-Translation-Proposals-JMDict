@@ -1,0 +1,20 @@
+{
+  "seq": 1241800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fil",
+      "logique",
+      "méthode",
+      "raison",
+      "système"
+    ],
+    [
+      "procédé",
+      "ordre",
+      "logique",
+      "fil conducteur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

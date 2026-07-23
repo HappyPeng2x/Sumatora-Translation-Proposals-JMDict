@@ -1,0 +1,24 @@
+{
+  "seq": 1239330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "œuvre",
+      "fait",
+      "tâche"
+    ],
+    [
+      "travail; service"
+    ],
+    [
+      "circonstances"
+    ],
+    [
+      "méthode; mesure; moyen"
+    ],
+    [
+      "action significative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

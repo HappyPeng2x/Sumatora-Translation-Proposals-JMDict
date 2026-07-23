@@ -1,0 +1,17 @@
+{
+  "seq": 1239050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exigence",
+      "passion (pour quelque chose)"
+    ],
+    [
+      "susceptibilité à une raideur des épaules"
+    ],
+    [
+      "obsessionnel; fanatique; obstiné; excessivement précis; exigeant; perfectionniste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

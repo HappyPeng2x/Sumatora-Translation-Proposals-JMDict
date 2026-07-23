@@ -1,0 +1,30 @@
+{
+  "seq": 1237770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "corriger",
+      "falsifier",
+      "rectifier"
+    ],
+    [
+      "altérer",
+      "fausser",
+      "déformer"
+    ],
+    [
+      "désabouter",
+      "abandonner",
+      "mettre de côté"
+    ],
+    [
+      "fixer le regard",
+      "fixer des yeux"
+    ],
+    [
+      "viser",
+      "pointer (avec un œil fermé)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

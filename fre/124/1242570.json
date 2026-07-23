@@ -1,0 +1,12 @@
+{
+  "seq": 1242570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "voisinage",
+      "quartier",
+      "environnement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

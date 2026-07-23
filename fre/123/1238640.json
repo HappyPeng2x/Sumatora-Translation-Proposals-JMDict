@@ -6,6 +6,12 @@
       "accueillir avec des repas et des boissons",
       "traiter à dîner",
       "faire honneur à quelqu'un par des repas et des boissons"
+    ],
+    [
+      "réception",
+      "repas de fête",
+      "fête",
+      "société"
     ]
   ],
   "model": "qwen3:14b"

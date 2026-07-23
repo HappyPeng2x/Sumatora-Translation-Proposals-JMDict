@@ -1,0 +1,17 @@
+{
+  "seq": 1242330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "approximation",
+      "ressemblance",
+      "similarité"
+    ],
+    [
+      "ressemblance étroite",
+      "analogie forte",
+      "grande similitude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

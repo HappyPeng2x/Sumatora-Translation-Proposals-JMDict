@@ -1,0 +1,17 @@
+{
+  "seq": 1242230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "s'approcher de quelque chose"
+    ],
+    [
+      "chercher à se rapprocher de",
+      "tenter de s'approcher de",
+      "s'approcher de",
+      "s'habituer à",
+      "se familiariser avec"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

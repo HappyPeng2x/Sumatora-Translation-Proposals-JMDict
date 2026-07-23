@@ -1,0 +1,20 @@
+{
+  "seq": 1241490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "Défense de fumer!"
+    ],
+    [
+      "interdiction de fumer"
+    ],
+    [
+      "Non fumer",
+      "Fumer interdit"
+    ],
+    [
+      "interdiction du feu pour cuisiner (en Chine; le 105e jour après le solstice d'hiver; car on dit que ce jour-là le vent et la pluie sont violents)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

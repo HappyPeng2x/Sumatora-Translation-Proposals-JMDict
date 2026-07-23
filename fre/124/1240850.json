@@ -1,0 +1,16 @@
+{
+  "seq": 1240850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devoir",
+      "obligation",
+      "responsabilité"
+    ],
+    [
+      "poste de travail",
+      "lieu de travail"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

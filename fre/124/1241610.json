@@ -1,0 +1,13 @@
+{
+  "seq": 1241610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interdiction"
+    ],
+    [
+      "empêchement d'un saut de ligne (avant ou après un certain signe)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

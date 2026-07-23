@@ -1,0 +1,45 @@
+{
+  "seq": 1244250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "classification",
+      "différentiation",
+      "distinction"
+    ],
+    [
+      "discrimination"
+    ],
+    [
+      "différence; diversité"
+    ],
+    [
+      "séparer (deux ou plusieurs choses très similaires)"
+    ],
+    [
+      "délimitation; démarcation"
+    ],
+    [
+      "classification; tri; ordonnancement"
+    ],
+    [
+      "distinguer"
+    ],
+    [
+      "discriminer"
+    ],
+    [
+      "différer de; se distinguer mutuellement"
+    ],
+    [
+      "séparer; ne pas se tromper sur"
+    ],
+    [
+      "délimiter; démarquer"
+    ],
+    [
+      "classifier; trier; ordonner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

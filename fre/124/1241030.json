@@ -1,0 +1,13 @@
+{
+  "seq": 1241030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "diligence et paresse ; présence et absence (au travail)"
+    ],
+    [
+      "zèle au service"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

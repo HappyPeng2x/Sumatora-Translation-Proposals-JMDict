@@ -1,0 +1,14 @@
+{
+  "seq": 1238360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désintéresser",
+      "perdre de l'intérêt",
+      "se refroidir",
+      "se dégonfler",
+      "se dégrader"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1238110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contrainte",
+      "intimidation",
+      "menace",
+      "terrorisme"
+    ],
+    [
+      "menace",
+      "menacer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

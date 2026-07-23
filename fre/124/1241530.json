@@ -1,0 +1,13 @@
+{
+  "seq": 1241530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mot tabou"
+    ],
+    [
+      "phrase interdite (dans le waka et le haikai)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

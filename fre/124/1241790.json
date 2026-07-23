@@ -1,0 +1,19 @@
+{
+  "seq": 1241790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "esquisse",
+      "grandes lignes",
+      "programme",
+      "projet",
+      "synopsis"
+    ],
+    [
+      "plan",
+      "projet",
+      "scénario"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

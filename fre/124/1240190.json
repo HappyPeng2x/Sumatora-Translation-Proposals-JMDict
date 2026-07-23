@@ -1,0 +1,17 @@
+{
+  "seq": 1240190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comble",
+      "fin",
+      "hauteur"
+    ],
+    [
+      "limite",
+      "extrémité",
+      "fin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

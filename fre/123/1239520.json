@@ -5,6 +5,10 @@
     [
       "lame tranchante",
       "arme tranchante"
+    ],
+    [
+      "œuvre d'art complexe",
+      "composition difficile"
     ]
   ],
   "model": "qwen3:14b"

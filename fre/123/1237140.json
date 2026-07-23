@@ -1,0 +1,14 @@
+{
+  "seq": 1237140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enseignement",
+      "instruction"
+    ],
+    [
+      "instruction à un sujet de test (dans une étude); apprendre; enseigner; montrer quelque chose à quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

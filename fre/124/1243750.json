@@ -5,6 +5,9 @@
     [
       "dague",
       "poignard"
+    ],
+    [
+      "dague portée par les femmes dans l'obi"
     ]
   ],
   "model": "qwen3:14b"

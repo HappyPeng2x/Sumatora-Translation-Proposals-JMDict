@@ -1,0 +1,18 @@
+{
+  "seq": 1237760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étroitesse d'esprit"
+    ],
+    [
+      "étroit d'esprit",
+      "petit esprit",
+      "étroitesse d'esprit",
+      "petitement disposé",
+      "étroitement enclin",
+      "étroitement limité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,19 @@
+{
+  "seq": 1241910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étroit (liens)",
+      "intime",
+      "serré fort"
+    ],
+    [
+      "strict",
+      "rigoureux",
+      "serré",
+      "étroit",
+      "ferme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

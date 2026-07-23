@@ -1,0 +1,14 @@
+{
+  "seq": 1238350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "désillusion",
+      "déception",
+      "dégoût",
+      "perte d'intérêt",
+      "frein à l'enthousiasme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

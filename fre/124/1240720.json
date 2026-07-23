@@ -5,6 +5,14 @@
     [
       "huile de tung",
       "huile de bois (chinois)"
+    ],
+    [
+      "papier huileux (abréviation)",
+      "papier huileux"
+    ],
+    [
+      "manteau de pluie en papier huileux (abréviation)",
+      "manteau de pluie en papier huileux"
     ]
   ],
   "model": "qwen3:14b"

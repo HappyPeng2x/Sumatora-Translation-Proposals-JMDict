@@ -1,0 +1,20 @@
+{
+  "seq": 1241880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "nervosité",
+      "tension"
+    ],
+    [
+      "tensions (entre pays, groupes, etc.)"
+    ],
+    [
+      "tonus; tonus musculaire"
+    ],
+    [
+      "tension; se tendre; se mettre en tension; être vigilant; être tendu; être nerveux; être raide; prendre cela au sérieux; être sur ses gardes"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

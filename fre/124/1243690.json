@@ -1,0 +1,12 @@
+{
+  "seq": 1243690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "une chance sur neuf de survivre",
+      "une échappatoire de justesse",
+      "une échappée de mort"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

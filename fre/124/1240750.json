@@ -1,0 +1,55 @@
+{
+  "seq": 1240750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à peine",
+      "(un) peu de",
+      "petite quantité",
+      "seulement"
+    ],
+    [
+      "seulement",
+      "à peine",
+      "à peine plus que",
+      "rien de plus que"
+    ],
+    [
+      "étroit",
+      "narrow",
+      "étroit"
+    ],
+    [
+      "peu",
+      "un peu",
+      "un tantinet",
+      "un peu de",
+      "un tout petit peu",
+      "un tout petit peu de",
+      "un peu de",
+      "un peu de"
+    ],
+    [
+      "faible",
+      "petit",
+      "léger",
+      "maigre",
+      "maigrelet",
+      "à peine",
+      "à peine assez",
+      "à peine à temps",
+      "à peine à temps"
+    ],
+    [
+      "étroit",
+      "narrow",
+      "étroit"
+    ],
+    [
+      "seulement",
+      "mais",
+      "seulement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,46 @@
+{
+  "seq": 1238610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "influencer",
+      "résonner",
+      "retentir"
+    ],
+    [
+      "réverbérer",
+      "trembler",
+      "vibrer"
+    ],
+    [
+      "revenir (chez quelqu'un)",
+      "rester (avec quelqu'un)"
+    ],
+    [
+      "avoir un effet",
+      "faire une impression"
+    ],
+    [
+      "résonner longtemps",
+      "avoir un écho prolongé",
+      "laisser une empreinte"
+    ],
+    [
+      "diffuser des vibrations",
+      "ébranler"
+    ],
+    [
+      "faire connaître la renommée de quelqu'un"
+    ],
+    [
+      "exercer une influence négative",
+      "agir",
+      "influencer"
+    ],
+    [
+      "faire une impression",
+      "produire un effet"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -5,6 +5,9 @@
     [
       "poil du torse",
       "poil de la poitrine"
+    ],
+    [
+      "plume de la poitrine"
     ]
   ],
   "model": "qwen3:14b"

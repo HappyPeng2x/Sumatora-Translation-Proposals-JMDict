@@ -1,0 +1,10 @@
+{
+  "seq": 1237560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladie infectieuse transmise par la morsure d'un animal enragé, principalement le chien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

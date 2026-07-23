@@ -1,0 +1,19 @@
+{
+  "seq": 1242160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alentours",
+      "voisinage"
+    ],
+    [
+      "presque",
+      "proche de"
+    ],
+    [
+      "bientôt",
+      "dans peu de temps"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

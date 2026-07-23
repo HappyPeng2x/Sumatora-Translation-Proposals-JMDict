@@ -1,0 +1,15 @@
+{
+  "seq": 1237970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poitrine",
+      "sein"
+    ],
+    [
+      "plaquette de poitrine (d'armure)",
+      "pièce de poitrine"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

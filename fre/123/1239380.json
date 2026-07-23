@@ -1,0 +1,21 @@
+{
+  "seq": 1239380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "milieu (des affaires, de l'industrie, de la banque)",
+      "monde"
+    ],
+    [
+      "industrie",
+      "secteur économique",
+      "monde des affaires"
+    ],
+    [
+      "industrie du divertissement",
+      "secteur du divertissement",
+      "monde du spectacle"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

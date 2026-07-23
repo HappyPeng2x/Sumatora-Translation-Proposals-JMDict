@@ -1,0 +1,11 @@
+{
+  "seq": 1240000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mélodie",
+      "air"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

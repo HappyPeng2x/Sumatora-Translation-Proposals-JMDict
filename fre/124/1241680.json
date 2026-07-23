@@ -1,0 +1,14 @@
+{
+  "seq": 1241680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "abstinence",
+      "ascétisme",
+      "célibat",
+      "renoncement",
+      "abnégation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

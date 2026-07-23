@@ -1,0 +1,16 @@
+{
+  "seq": 1240010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "droit",
+      "justice",
+      "légitimité"
+    ],
+    [
+      "droit et injustice",
+      "le bien et le mal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

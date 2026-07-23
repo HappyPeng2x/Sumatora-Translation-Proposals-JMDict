@@ -1,0 +1,13 @@
+{
+  "seq": 1239720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "coin",
+      "virage",
+      "courbe",
+      "tournant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

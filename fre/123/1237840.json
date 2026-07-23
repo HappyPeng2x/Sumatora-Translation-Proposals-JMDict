@@ -1,0 +1,11 @@
+{
+  "seq": 1237840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le fond de son cœur",
+      "les profondeurs de son esprit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1238740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étonnement",
+      "choc",
+      "frayeur",
+      "surprise"
+    ],
+    [
+      "être impressionné"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

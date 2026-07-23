@@ -5,6 +5,9 @@
     [
       "matière d'enseignement",
       "programme scolaire"
+    ],
+    [
+      "programme scolaire"
     ]
   ],
   "model": "qwen3:14b"

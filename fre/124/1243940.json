@@ -1,0 +1,35 @@
+{
+  "seq": 1243940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "article",
+      "expression",
+      "paragraphe",
+      "passage",
+      "phrase",
+      "poème en 7 syllabes",
+      "stance",
+      "vers"
+    ],
+    [
+      "phrase"
+    ],
+    [
+      "vers (dans la poésie japonaise, composé de 5 ou 7 mora ; dans la poésie chinoise, composé de 4, 5 ou 7 caractères)"
+    ],
+    [
+      "haïku ; première partie de 17 mora d’un renga, etc."
+    ],
+    [
+      "maxime ; proverbe ; expression idiomatique ; locution"
+    ],
+    [
+      "clause (par exemple dans un langage de requête de base de données)"
+    ],
+    [
+      "mot-counteur pour strophe; haïku ou senryū"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

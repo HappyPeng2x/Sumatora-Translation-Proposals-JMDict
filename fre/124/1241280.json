@@ -1,0 +1,16 @@
+{
+  "seq": 1241280,
+  "lang": "fre",
+  "glosses": [
+    [
+      "homogène",
+      "homogénéité"
+    ],
+    [
+      "homogène",
+      "uniforme",
+      "semblable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

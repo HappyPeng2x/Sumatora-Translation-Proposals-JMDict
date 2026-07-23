@@ -1,0 +1,12 @@
+{
+  "seq": 1238030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "le cœur",
+      "l'esprit",
+      "les sentiments"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

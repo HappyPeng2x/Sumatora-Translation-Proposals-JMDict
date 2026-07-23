@@ -1,0 +1,18 @@
+{
+  "seq": 1243130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "feuille d'or",
+      "or battu"
+    ],
+    [
+      "apparence extérieure soignée",
+      "apparence trompeuse"
+    ],
+    [
+      "titre et rang"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

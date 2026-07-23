@@ -1,0 +1,15 @@
+{
+  "seq": 1238070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "menacer"
+    ],
+    [
+      "effrayer",
+      "faire peur",
+      "surprendre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

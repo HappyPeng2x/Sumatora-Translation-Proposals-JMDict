@@ -1,0 +1,10 @@
+{
+  "seq": 1242070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "formule de politesse utilisée dans les lettres formelles, signifiant 'Cher Monsieur, Cher Madame' ou 'Messieurs'"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,21 @@
+{
+  "seq": 1242110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écouter attentivement"
+    ],
+    [
+      "écoutez !",
+      "écoutez attentivement !"
+    ],
+    [
+      "écouter en silence",
+      "laisser parler",
+      "écouter avec attention",
+      "écouter respectueusement",
+      "prêter l'oreille"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

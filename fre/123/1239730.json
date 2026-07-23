@@ -1,0 +1,23 @@
+{
+  "seq": 1239730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plier",
+      "se courber"
+    ],
+    [
+      "tourner"
+    ],
+    [
+      "être tordu; être déformé; être oblique"
+    ],
+    [
+      "être tordu; être courbé"
+    ],
+    [
+      "s'écarter du droit chemin; devenir bizarre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

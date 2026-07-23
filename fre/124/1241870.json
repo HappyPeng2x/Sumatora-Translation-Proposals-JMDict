@@ -1,0 +1,27 @@
+{
+  "seq": 1241870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contraction",
+      "mesure d'économie",
+      "réduction",
+      "rétrécissement"
+    ],
+    [
+      "restriction budgétaire",
+      "austérité",
+      "réduction des dépenses"
+    ],
+    [
+      "rétrécissement",
+      "rétrécissement (d'un tissu)"
+    ],
+    [
+      "réduction",
+      "économie",
+      "mesure d'économie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
