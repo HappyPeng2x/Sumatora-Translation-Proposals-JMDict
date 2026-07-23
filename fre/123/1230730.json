@@ -1,0 +1,11 @@
+{
+  "seq": 1230730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "quartier ancien",
+      "partie ancienne d'une ville"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

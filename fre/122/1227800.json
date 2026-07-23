@@ -1,0 +1,19 @@
+{
+  "seq": 1227800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arrêt",
+      "interruption (repos)",
+      "pause"
+    ],
+    [
+      "cessation",
+      "fin",
+      "arrêter",
+      "faire une pause",
+      "mettre en pause"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

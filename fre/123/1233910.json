@@ -5,6 +5,21 @@
     [
       "cérémonie commémorative pour les morts",
       "célébration en mémoire des défunts"
+    ],
+    [
+      "offrande",
+      "don",
+      "sacrifice"
+    ],
+    [
+      "cérémonie funéraire bouddhiste",
+      "hommage rendu aux morts",
+      "récitation de prières pour les défunts"
+    ],
+    [
+      "acte de présenter une offrande",
+      "présentation d'un don",
+      "offrande rituelle"
     ]
   ],
   "model": "qwen3:14b"

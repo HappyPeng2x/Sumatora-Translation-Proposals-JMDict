@@ -1,0 +1,12 @@
+{
+  "seq": 1236160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accentuation",
+      "insistance",
+      "force"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

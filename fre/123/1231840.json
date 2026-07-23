@@ -1,0 +1,12 @@
+{
+  "seq": 1231840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confortable",
+      "agréable",
+      "chaleureux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1229540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "employeur",
+      "personne recherchant des travailleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

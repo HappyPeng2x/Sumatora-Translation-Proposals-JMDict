@@ -1,0 +1,47 @@
+{
+  "seq": 1229350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chercher",
+      "demander",
+      "exiger",
+      "rechercher",
+      "souhaiter",
+      "vouloir"
+    ],
+    [
+      "demander",
+      "exiger",
+      "réclamer",
+      "réclamer",
+      "réclamer",
+      "réclamer"
+    ],
+    [
+      "chercher",
+      "rechercher",
+      "chercher",
+      "poursuivre",
+      "chasser",
+      "trouver"
+    ],
+    [
+      "acheter",
+      "acheter",
+      "acheter",
+      "acheter",
+      "acheter",
+      "acheter"
+    ],
+    [
+      "provoquer",
+      "susciter",
+      "faire naître",
+      "faire sortir",
+      "faire produire",
+      "causer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

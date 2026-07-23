@@ -1,0 +1,14 @@
+{
+  "seq": 1229080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "premiers secours",
+      "premiers soins"
+    ],
+    [
+      "première assistance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

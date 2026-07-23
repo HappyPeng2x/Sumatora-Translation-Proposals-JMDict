@@ -1,0 +1,11 @@
+{
+  "seq": 1234970,
+  "lang": "fre",
+  "glosses": [
+    [
+      "front commun",
+      "front uni"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

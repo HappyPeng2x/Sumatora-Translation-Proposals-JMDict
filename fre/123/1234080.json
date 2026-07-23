@@ -1,0 +1,18 @@
+{
+  "seq": 1234080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épreuve",
+      "compétition",
+      "match"
+    ],
+    [
+      "compétition sportive"
+    ],
+    [
+      "manifestation sportive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

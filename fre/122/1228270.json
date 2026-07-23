@@ -1,0 +1,24 @@
+{
+  "seq": 1228270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "absorption"
+    ],
+    [
+      "attraction",
+      "séduction",
+      "tirage"
+    ],
+    [
+      "absorption",
+      "sorption",
+      "prélèvement"
+    ],
+    [
+      "attraction",
+      "séduction"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

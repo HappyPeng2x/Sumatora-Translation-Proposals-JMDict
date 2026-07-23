@@ -1,0 +1,14 @@
+{
+  "seq": 1233630,
+  "lang": "fre",
+  "glosses": [
+    [
+      "approvisionnement",
+      "fourniture"
+    ],
+    [
+      "offre"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

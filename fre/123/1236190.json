@@ -1,0 +1,14 @@
+{
+  "seq": 1236190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accent",
+      "emphase"
+    ],
+    [
+      "accent versique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

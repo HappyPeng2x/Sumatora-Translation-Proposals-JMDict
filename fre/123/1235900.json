@@ -1,0 +1,17 @@
+{
+  "seq": 1235900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "clameur",
+      "cri",
+      "cri aigu",
+      "hurlement"
+    ],
+    [
+      "cri d'indignation",
+      "éclat de colère"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

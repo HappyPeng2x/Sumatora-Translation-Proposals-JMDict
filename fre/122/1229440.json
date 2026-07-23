@@ -1,0 +1,11 @@
+{
+  "seq": 1229440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "réclamation",
+      "demande de dommages-intérêts"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

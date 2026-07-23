@@ -6,6 +6,11 @@
       "buse à vide",
       "disque de succion",
       "soufflet"
+    ],
+    [
+      "moule à succion",
+      "bouche à vide",
+      "embout de succion"
     ]
   ],
   "model": "qwen3:14b"

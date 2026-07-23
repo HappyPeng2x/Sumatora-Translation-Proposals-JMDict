@@ -1,0 +1,12 @@
+{
+  "seq": 1231940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chef",
+      "meneur",
+      "principal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1235530,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rêve funeste",
+      "rêve maléfique",
+      "mauvais rêve"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

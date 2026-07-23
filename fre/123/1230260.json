@@ -1,0 +1,16 @@
+{
+  "seq": 1230260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "alimentation d'eau"
+    ],
+    [
+      "approvisionnement en eau",
+      "eau de consommation",
+      "fournir de l'eau",
+      "alimenter en eau"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

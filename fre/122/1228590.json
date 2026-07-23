@@ -1,0 +1,12 @@
+{
+  "seq": 1228590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "plus on est pressé, plus on est lent",
+      "celui qui se précipite ne va pas loin",
+      "mieux vaut faire les choses lentement et avec soin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

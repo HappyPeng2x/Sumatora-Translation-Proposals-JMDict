@@ -6,6 +6,9 @@
       "suspension des traversées",
       "suspension des navires en mer",
       "arrêt des voyages maritimes"
+    ],
+    [
+      "laisser tomber (un ferry; un vol; etc.); absence (d'un ferry; d'un avion; etc.)"
     ]
   ],
   "model": "qwen3:14b"

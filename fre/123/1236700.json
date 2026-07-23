@@ -1,0 +1,15 @@
+{
+  "seq": 1236700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chantage",
+      "menace"
+    ],
+    [
+      "extorsion",
+      "menace"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

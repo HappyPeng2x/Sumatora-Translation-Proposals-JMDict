@@ -1,0 +1,13 @@
+{
+  "seq": 1232800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "canard",
+      "fausse nouvelle",
+      "information erronée",
+      "rumeur"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

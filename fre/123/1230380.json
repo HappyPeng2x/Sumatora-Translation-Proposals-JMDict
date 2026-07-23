@@ -1,0 +1,20 @@
+{
+  "seq": 1230380,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancien",
+      "ex-"
+    ],
+    [
+      "l'ancien; les choses anciennes; les anciennes coutumes"
+    ],
+    [
+      "les temps anciens; les jours passés"
+    ],
+    [
+      "l'ancien calendrier lunaire-junaire du Japon"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

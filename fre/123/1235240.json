@@ -1,0 +1,22 @@
+{
+  "seq": 1235240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "copropriété"
+    ],
+    [
+      "partage"
+    ],
+    [
+      "propriété commune"
+    ],
+    [
+      "copropriété"
+    ],
+    [
+      "utilisation commune"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

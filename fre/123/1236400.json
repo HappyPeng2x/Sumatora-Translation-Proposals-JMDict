@@ -1,0 +1,14 @@
+{
+  "seq": 1236400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accent",
+      "emphase"
+    ],
+    [
+      "accent (dans le contexte d'une prononciation néerlandaise)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1232090,
+  "lang": "fre",
+  "glosses": [
+    [
+      "colosse",
+      "géant"
+    ],
+    [
+      "l'équipe de baseball des Giants de Tokyo"
+    ],
+    [
+      "joueur des Yomiuri-Giants (équipe de baseball de Tokyo)"
+    ],
+    [
+      "Titan (œuvre de Jean Paul; 1800-1803)"
+    ],
+    [
+      "La Titan (Symphonie n°1 en ré majeur de Gustav Mahler; 1884-1888)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

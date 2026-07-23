@@ -1,0 +1,16 @@
+{
+  "seq": 1232410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déni",
+      "refus",
+      "rejet",
+      "veto"
+    ],
+    [
+      "veto"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

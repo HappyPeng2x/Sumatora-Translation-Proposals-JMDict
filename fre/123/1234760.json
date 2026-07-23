@@ -1,0 +1,13 @@
+{
+  "seq": 1234760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fait que deux époux travaillent ensemble"
+    ],
+    [
+      "couple de travailleurs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

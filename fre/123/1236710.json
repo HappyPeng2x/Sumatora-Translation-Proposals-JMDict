@@ -1,0 +1,16 @@
+{
+  "seq": 1236710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épouvante",
+      "consternation",
+      "panique",
+      "terreur"
+    ],
+    [
+      "crise financière"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1235940,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arbre haut",
+      "arbre de forêt",
+      "arbre fruitier",
+      "abri végétal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

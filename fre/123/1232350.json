@@ -6,6 +6,11 @@
       "autorité",
       "personne influente",
       "vedette"
+    ],
+    [
+      "personne influente",
+      "vedette",
+      "personnalité importante"
     ]
   ],
   "model": "qwen3:14b"

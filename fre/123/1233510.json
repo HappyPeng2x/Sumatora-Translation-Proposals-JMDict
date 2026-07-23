@@ -6,6 +6,10 @@
       "style kyotois",
       "urbanité",
       "raffinement"
+    ],
+    [
+      "noblesse",
+      "noblesse"
     ]
   ],
   "model": "qwen3:14b"

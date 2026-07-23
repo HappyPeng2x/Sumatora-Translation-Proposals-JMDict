@@ -6,6 +6,11 @@
       "mauvaise chance",
       "malheur",
       "infortune"
+    ],
+    [
+      "mauvaise intention",
+      "malice",
+      "méchanceté"
     ]
   ],
   "model": "qwen3:14b"

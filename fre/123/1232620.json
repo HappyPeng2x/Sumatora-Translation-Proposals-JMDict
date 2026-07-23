@@ -6,6 +6,10 @@
       "mobilisation",
       "armée",
       "lever des troupes"
+    ],
+    [
+      "se lever",
+      "se soulever"
     ]
   ],
   "model": "qwen3:14b"

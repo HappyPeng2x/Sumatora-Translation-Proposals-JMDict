@@ -1,0 +1,12 @@
+{
+  "seq": 1231520,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dominer",
+      "prendre la tête",
+      "avoir sous sa coupe"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

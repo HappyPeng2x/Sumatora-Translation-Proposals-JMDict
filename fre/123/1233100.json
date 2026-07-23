@@ -1,0 +1,13 @@
+{
+  "seq": 1233100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marché au poissons"
+    ],
+    [
+      "marchand de poissons"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,17 @@
+{
+  "seq": 1235790,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pacte",
+      "convention",
+      "accord"
+    ],
+    [
+      "convention",
+      "traité",
+      "alliance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

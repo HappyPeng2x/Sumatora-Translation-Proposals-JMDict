@@ -1,0 +1,11 @@
+{
+  "seq": 1234890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "immeuble de logements",
+      "complex résidentiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -6,6 +6,9 @@
       "rester en arrière",
       "rester",
       "travailler en heures supplémentaires"
+    ],
+    [
+      "travailler des heures supplémentaires"
     ]
   ],
   "model": "qwen3:14b"

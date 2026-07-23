@@ -1,0 +1,15 @@
+{
+  "seq": 1228890,
+  "lang": "fre",
+  "glosses": [
+    [
+      "brusque (ex.: un développement)",
+      "rapide"
+    ],
+    [
+      "rapide",
+      "vif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

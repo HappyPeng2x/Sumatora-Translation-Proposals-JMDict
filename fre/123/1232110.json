@@ -1,0 +1,17 @@
+{
+  "seq": 1232110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étoile géante",
+      "grosse pointure"
+    ],
+    [
+      "personne importante",
+      "personne influente",
+      "superstar",
+      "personnage important"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

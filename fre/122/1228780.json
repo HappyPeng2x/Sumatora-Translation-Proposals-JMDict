@@ -1,0 +1,16 @@
+{
+  "seq": 1228780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "progrès rapide",
+      "progrès radical"
+    ],
+    [
+      "extrémisme",
+      "avancer rapidement",
+      "faire de rapides progrès"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

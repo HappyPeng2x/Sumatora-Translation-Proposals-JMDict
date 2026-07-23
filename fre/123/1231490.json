@@ -1,0 +1,42 @@
+{
+  "seq": 1231490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bétail",
+      "bœuf",
+      "vache"
+    ],
+    [
+      "viande de bœuf"
+    ],
+    [
+      "constellation chinoise du Taureau (l'un des 28 palais célestes)"
+    ],
+    [
+      "structure en forme de gouttière; contre laquelle on appuyait un faisceau de bambous comme bouclier contre les flèches et les balles"
+    ],
+    [
+      "prostituée"
+    ],
+    [
+      "gâteau traditionnel fait avec de la poudre de riz; du sucre et des arômes"
+    ],
+    [
+      "centaine"
+    ],
+    [
+      "langue; langue de poisson"
+    ],
+    [
+      "construction en bois"
+    ],
+    [
+      "poutre lourde de soutien"
+    ],
+    [
+      "brise-vent; digue; barrage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

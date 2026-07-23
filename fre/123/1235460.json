@@ -1,0 +1,11 @@
+{
+  "seq": 1235460,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maison maléfique",
+      "maison maudite"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

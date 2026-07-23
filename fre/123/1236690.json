@@ -1,0 +1,27 @@
+{
+  "seq": 1236690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "épouvantable",
+      "terrible",
+      "terrifiant"
+    ],
+    [
+      "surprenant; étonnant; extraordinaire"
+    ],
+    [
+      "remarquable; à éviter"
+    ],
+    [
+      "dangerux; menaçant"
+    ],
+    [
+      "énorme; gigantesque; incroyable"
+    ],
+    [
+      "mystérieux; étrange; inexplicable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1230130,
+  "lang": "fre",
+  "glosses": [
+    [
+      "les pauvres",
+      "les gens pauvres"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

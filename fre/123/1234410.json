@@ -1,0 +1,11 @@
+{
+  "seq": 1234410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mutualité",
+      "solidarité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

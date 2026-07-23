@@ -1,0 +1,14 @@
+{
+  "seq": 1235550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "association",
+      "société"
+    ],
+    [
+      "mot multiplicateur pour les associations; société"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

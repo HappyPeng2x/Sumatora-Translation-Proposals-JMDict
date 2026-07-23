@@ -1,0 +1,15 @@
+{
+  "seq": 1236340,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résistant",
+      "solide",
+      "tenace"
+    ],
+    [
+      "persévérance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

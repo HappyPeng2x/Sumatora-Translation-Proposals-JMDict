@@ -10,6 +10,9 @@
     [
       "pêche",
       "collecte de coquillages"
+    ],
+    [
+      "pêche"
     ]
   ],
   "model": "qwen3:14b"

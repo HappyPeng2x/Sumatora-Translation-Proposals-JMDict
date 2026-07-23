@@ -1,0 +1,11 @@
+{
+  "seq": 1234120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concours de création",
+      "compétition pour produire une œuvre (artistique, littéraire, etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1227810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "signe de pause",
+      "pause"
+    ],
+    [
+      "signe de repos",
+      "repos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

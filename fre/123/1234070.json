@@ -10,6 +10,14 @@
     [
       "concurrent",
       "rivalité entre théâtres présentant la même pièce"
+    ],
+    [
+      "concours de talents",
+      "bataille d'interprétation",
+      "concours d'acteurs"
+    ],
+    [
+      "concurrence théâtrale"
     ]
   ],
   "model": "qwen3:14b"

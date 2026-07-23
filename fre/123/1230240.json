@@ -19,6 +19,20 @@
     [
       "employé de bureau",
       "employée de bureau"
+    ],
+    [
+      "jeune employé de bureau ou de service dans une entreprise",
+      "jeune employé chargé de tâches mineures dans un commerce ou une entreprise",
+      "jeune personne chargée de courses ou de services divers dans un commerce"
+    ],
+    [
+      "le fait de servir; de rendre service",
+      "l'action de fournir un service ou une assistance"
+    ],
+    [
+      "le service à table",
+      "le service de restauration",
+      "le service de cuisine dans un restaurant"
     ]
   ],
   "model": "qwen3:14b"

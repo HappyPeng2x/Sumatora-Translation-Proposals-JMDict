@@ -6,6 +6,9 @@
       "ancienne nouvelle",
       "information datée",
       "rumeur ancienne"
+    ],
+    [
+      "chose qui n'est plus nouvelle"
     ]
   ],
   "model": "qwen3:14b"

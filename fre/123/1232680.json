@@ -1,0 +1,23 @@
+{
+  "seq": 1232680,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ciel vide",
+      "espace vide"
+    ],
+    [
+      "fiction; imagination; fantaisie; idée non fondée sur des faits"
+    ],
+    [
+      "imprudence; témérité; insouciance; hardiesse"
+    ],
+    [
+      "désordonné; incohérent; absurde"
+    ],
+    [
+      "insouciant; imprudent; téméraire; audacieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

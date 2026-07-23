@@ -1,0 +1,22 @@
+{
+  "seq": 1229030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aide",
+      "assistance",
+      "secours"
+    ],
+    [
+      "salvation",
+      "réconfort",
+      "source de consolation",
+      "grâce salvatrice"
+    ],
+    [
+      "salvation religieuse",
+      "grâce (chrétienne)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

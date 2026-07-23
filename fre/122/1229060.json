@@ -1,0 +1,23 @@
+{
+  "seq": 1229060,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aider",
+      "sauver de",
+      "secourir"
+    ],
+    [
+      "rédimer",
+      "délivrer",
+      "sauver spirituellement",
+      "porter à la salutation"
+    ],
+    [
+      "mener à la stabilité spirituelle",
+      "libérer",
+      "révéler"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1228300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sucrage",
+      "sangsue"
+    ],
+    [
+      "hématophagie"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

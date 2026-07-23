@@ -1,0 +1,11 @@
+{
+  "seq": 1234440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "devenir communiste",
+      "prendre une orientation communiste"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

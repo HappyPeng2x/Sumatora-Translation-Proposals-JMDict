@@ -1,0 +1,16 @@
+{
+  "seq": 1234250,
+  "lang": "fre",
+  "glosses": [
+    [
+      "suffixe de pluriel indiquant l'humilité s'il est utilisé pour soi-même ou le mépris s'il est utilisé pour une tierce personne"
+    ],
+    [
+      "forme du pluriel du deuxième ou du troisième personne du pronom, utilisé pour indiquer que le locuteur est de statut supérieur à ceux qui sont désignés"
+    ],
+    [
+      "suffixe de dérivation d'origine néerlandaise utilisé dans les formes du vocatif"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

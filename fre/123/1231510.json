@@ -1,0 +1,17 @@
+{
+  "seq": 1231510,
+  "lang": "fre",
+  "glosses": [
+    [
+      "éleveur de bétail",
+      "élevage du bétail"
+    ],
+    [
+      "stalknecht chargé de la garde des chevaux de carrosse"
+    ],
+    [
+      "ossendrijver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

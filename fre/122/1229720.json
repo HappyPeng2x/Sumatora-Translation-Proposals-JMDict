@@ -1,0 +1,11 @@
+{
+  "seq": 1229720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "personne qui pleure facilement quand elle est ivre",
+      "buveur maudlin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,26 @@
+{
+  "seq": 1232910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pardon",
+      "permission"
+    ],
+    [
+      "tolérance",
+      "acceptation",
+      "acceptabilité"
+    ],
+    [
+      "permettre",
+      "autoriser",
+      "laisser faire"
+    ],
+    [
+      "tolérer",
+      "durer",
+      "supporter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

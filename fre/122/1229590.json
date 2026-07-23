@@ -1,0 +1,24 @@
+{
+  "seq": 1229590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comprendre (une situation ou les sentiments de quelqu'un)",
+      "vidanger",
+      "vider"
+    ],
+    [
+      "comprendre",
+      "percevoir",
+      "deviner",
+      "prendre en compte"
+    ],
+    [
+      "deviner",
+      "penser",
+      "avoir un pressentiment",
+      "décrypter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

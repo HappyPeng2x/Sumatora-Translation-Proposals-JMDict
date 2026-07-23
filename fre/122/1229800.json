@@ -6,6 +6,9 @@
       "s'effondrer en pleurant",
       "être submergé par les larmes",
       "ne plus pouvoir retenir ses larmes"
+    ],
+    [
+      "s'effondrer en pleurant"
     ]
   ],
   "model": "qwen3:14b"

@@ -1,0 +1,13 @@
+{
+  "seq": 1231590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lait de vache"
+    ],
+    [
+      "lait et produits laitiers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

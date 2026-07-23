@@ -1,0 +1,13 @@
+{
+  "seq": 1233190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "poisson (chair de poisson)"
+    ],
+    [
+      "viande de poisson"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

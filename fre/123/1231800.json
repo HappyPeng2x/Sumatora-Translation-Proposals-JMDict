@@ -1,0 +1,15 @@
+{
+  "seq": 1231800,
+  "lang": "fre",
+  "glosses": [
+    [
+      "bar",
+      "bistro",
+      "pub"
+    ],
+    [
+      "taverne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

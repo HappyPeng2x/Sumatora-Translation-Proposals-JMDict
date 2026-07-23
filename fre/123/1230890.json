@@ -5,6 +5,18 @@
     [
       "le défunt",
       "l'ami d'autrefois"
+    ],
+    [
+      "personne d'autrefois",
+      "personne appartenant à une époque passée"
+    ],
+    [
+      "personne conservant des idées ou des comportements anciens",
+      "personne peu moderne"
+    ],
+    [
+      "ami d'autrefois",
+      "ami ancien"
     ]
   ],
   "model": "qwen3:14b"

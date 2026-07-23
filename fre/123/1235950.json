@@ -1,0 +1,41 @@
+{
+  "seq": 1235950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frontière"
+    ],
+    [
+      "moment décisif",
+      "point de départ",
+      "tournant"
+    ],
+    [
+      "zone",
+      "région",
+      "lieu",
+      "environnement"
+    ],
+    [
+      "état mental",
+      "état psychologique"
+    ],
+    [
+      "objet cognitif",
+      "chose perceptible par les sens ou l'esprit"
+    ],
+    [
+      "ligne de démarcation"
+    ],
+    [
+      "lieu",
+      "endroit",
+      "place"
+    ],
+    [
+      "circonstances",
+      "contexte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

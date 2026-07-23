@@ -1,0 +1,12 @@
+{
+  "seq": 1227740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle de repos",
+      "salle de détente",
+      "salle de pause"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

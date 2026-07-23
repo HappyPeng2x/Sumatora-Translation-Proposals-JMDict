@@ -1,0 +1,26 @@
+{
+  "seq": 1235840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "concord",
+      "harmonie",
+      "concert"
+    ],
+    [
+      "accord",
+      "consonance"
+    ],
+    [
+      "unité d'esprit",
+      "accord",
+      "bonne entente"
+    ],
+    [
+      "consonance",
+      "consonnance",
+      "son bien accordé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

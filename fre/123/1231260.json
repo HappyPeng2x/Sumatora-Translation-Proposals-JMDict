@@ -1,0 +1,17 @@
+{
+  "seq": 1231260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conservatisme",
+      "démodé",
+      "vieux jeu"
+    ],
+    [
+      "démodé",
+      "obsolète",
+      "archaïque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,23 @@
+{
+  "seq": 1229610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "écoper",
+      "pomper",
+      "puiser un liquide"
+    ],
+    [
+      "boire (de l'alcool)"
+    ],
+    [
+      "compatir, sympathiser avec (une situation, les sentiments de quelqu'un)"
+    ],
+    [
+      "s'appuyer sur",
+      "tirer profit de",
+      "hériter de"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

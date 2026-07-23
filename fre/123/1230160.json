@@ -5,6 +5,9 @@
     [
       "camarade de classe",
       "ami de la même classe"
+    ],
+    [
+      "compagnon de classe"
     ]
   ],
   "model": "qwen3:14b"

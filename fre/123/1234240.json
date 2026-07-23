@@ -1,0 +1,13 @@
+{
+  "seq": 1234240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course cycliste"
+    ],
+    [
+      "course cycliste de type keirin (sport cycliste)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

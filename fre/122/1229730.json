@@ -1,0 +1,14 @@
+{
+  "seq": 1229730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sanglots",
+      "voix éplorée"
+    ],
+    [
+      "voix pleurnicharde"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1229560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "recherche de la vérité"
+    ],
+    [
+      "recherche de la vérité",
+      "recherche de l'éveil"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

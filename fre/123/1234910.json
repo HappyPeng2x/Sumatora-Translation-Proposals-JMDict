@@ -1,0 +1,10 @@
+{
+  "seq": 1234910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cuisine communautaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

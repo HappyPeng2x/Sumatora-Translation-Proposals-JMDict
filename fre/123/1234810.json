@@ -1,0 +1,13 @@
+{
+  "seq": 1234810,
+  "lang": "fre",
+  "glosses": [
+    [
+      "gouvernance conjointe"
+    ],
+    [
+      "condominium; domination conjointe (de plusieurs États sur un territoire)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

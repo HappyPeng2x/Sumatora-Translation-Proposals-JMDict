@@ -1,0 +1,13 @@
+{
+  "seq": 1227750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salle de repos"
+    ],
+    [
+      "lieu de repos"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

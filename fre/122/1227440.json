@@ -1,0 +1,15 @@
+{
+  "seq": 1227440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vengeance",
+      "revenge",
+      "retaliation"
+    ],
+    [
+      "bloodwraak"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

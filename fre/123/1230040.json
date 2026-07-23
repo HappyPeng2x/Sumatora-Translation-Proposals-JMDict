@@ -1,0 +1,16 @@
+{
+  "seq": 1230040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dernier",
+      "final",
+      "ultime"
+    ],
+    [
+      "achèvement",
+      "perfection"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

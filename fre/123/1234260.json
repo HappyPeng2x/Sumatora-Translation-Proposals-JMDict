@@ -1,0 +1,18 @@
+{
+  "seq": 1234260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "à mesure que",
+      "en même temps",
+      "ensemble"
+    ],
+    [
+      "en même temps; avec; comme ...; y compris; en compagnie de"
+    ],
+    [
+      "les deux; ensemble; mutuellement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

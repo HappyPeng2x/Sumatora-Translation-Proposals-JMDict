@@ -1,0 +1,22 @@
+{
+  "seq": 1235700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "conciliation",
+      "coopération",
+      "harmonie"
+    ],
+    [
+      "accord",
+      "concord",
+      "réconciliation"
+    ],
+    [
+      "coopération",
+      "action concertée",
+      "agir en accord mutuel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

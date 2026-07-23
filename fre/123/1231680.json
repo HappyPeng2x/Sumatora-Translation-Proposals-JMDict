@@ -11,6 +11,29 @@
       "affaiblissement",
       "émasculation",
       "domination"
+    ],
+    [
+      "castrer",
+      "détourner",
+      "dépouiller",
+      "émasculer",
+      "stériliser",
+      "rendre stérile",
+      "aider"
+    ],
+    [
+      "stériliser",
+      "rendre stérile",
+      "déféminiser",
+      "aider"
+    ],
+    [
+      "affaiblir",
+      "rendre faible",
+      "désillusionner",
+      "contester",
+      "priver de vitalité",
+      "rendre inutile"
     ]
   ],
   "model": "qwen3:14b"

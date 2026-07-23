@@ -1,0 +1,13 @@
+{
+  "seq": 1234210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "course de chevaux"
+    ],
+    [
+      "sport équestre de course de chevaux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

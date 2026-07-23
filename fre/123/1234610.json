@@ -1,0 +1,18 @@
+{
+  "seq": 1234610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cannibalisme animal",
+      "alimentation mutuelle"
+    ],
+    [
+      "cannibalisation",
+      "concurrence mutuellement nuisible",
+      "lutte internecine",
+      "concurrence à la sauce chien-qui-mange-chien",
+      "conflit suicidaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

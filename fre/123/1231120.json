@@ -1,0 +1,11 @@
+{
+  "seq": 1231120,
+  "lang": "fre",
+  "glosses": [
+    [
+      "anciens hivers",
+      "dernier hiver"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

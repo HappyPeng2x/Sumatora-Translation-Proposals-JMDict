@@ -1,0 +1,13 @@
+{
+  "seq": 1231430,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancien calendrier lunaire"
+    ],
+    [
+      "ancien calendrier"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

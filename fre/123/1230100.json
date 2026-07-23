@@ -1,0 +1,15 @@
+{
+  "seq": 1230100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dilemme",
+      "impasse",
+      "situation difficile, bloquée"
+    ],
+    [
+      "endroit reculé; lieu éloigné de la capitale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,15 @@
+{
+  "seq": 1228040,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jour de vacance",
+      "jour férié"
+    ],
+    [
+      "jour férié",
+      "jour de repos légal"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

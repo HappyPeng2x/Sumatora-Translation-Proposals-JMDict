@@ -1,0 +1,14 @@
+{
+  "seq": 1231820,
+  "lang": "fre",
+  "glosses": [
+    [
+      "adresse",
+      "lieu de résidence"
+    ],
+    [
+      "lieu de résidence"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,12 @@
+{
+  "seq": 1234310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "frais communs",
+      "cotisation pour les parties communes d'un immeuble",
+      "frais de copropriété"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

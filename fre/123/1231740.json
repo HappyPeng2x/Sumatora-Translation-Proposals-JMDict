@@ -1,0 +1,16 @@
+{
+  "seq": 1231740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "parasite",
+      "squatteur"
+    ],
+    [
+      "personne qui profite des autres sans rien rendre en retour",
+      "personne qui vit aux dépens des autres",
+      "individu qui ne paie pas ses dettes ou qui évite de payer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

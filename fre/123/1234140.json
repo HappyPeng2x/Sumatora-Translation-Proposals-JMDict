@@ -1,0 +1,16 @@
+{
+  "seq": 1234140,
+  "lang": "fre",
+  "glosses": [
+    [
+      "compétition",
+      "concours"
+    ],
+    [
+      "concurrence",
+      "rivalité",
+      "lutte"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

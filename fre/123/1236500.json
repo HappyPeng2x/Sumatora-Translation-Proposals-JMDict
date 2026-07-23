@@ -1,0 +1,17 @@
+{
+  "seq": 1236500,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cambriolage",
+      "cambrioleur",
+      "voleur"
+    ],
+    [
+      "vol",
+      "saccage",
+      "ravissement (par la force)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

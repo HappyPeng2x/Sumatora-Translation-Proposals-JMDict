@@ -1,0 +1,31 @@
+{
+  "seq": 1228550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arc et flèches"
+    ],
+    [
+      "arme",
+      "armes"
+    ],
+    [
+      "arc et flèches"
+    ],
+    [
+      "armes"
+    ],
+    [
+      "guerrier",
+      "samouraï",
+      "métaphore",
+      "art de la guerre"
+    ],
+    [
+      "guerre",
+      "combat",
+      "conflit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

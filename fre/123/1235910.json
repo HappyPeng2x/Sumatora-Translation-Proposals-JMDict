@@ -1,0 +1,18 @@
+{
+  "seq": 1235910,
+  "lang": "fre",
+  "glosses": [
+    [
+      "crier",
+      "s'écrier"
+    ],
+    [
+      "crier",
+      "plaidoyer",
+      "insister",
+      "protester",
+      "appeler à"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

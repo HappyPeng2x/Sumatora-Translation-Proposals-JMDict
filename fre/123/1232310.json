@@ -5,6 +5,10 @@
     [
       "gros canon",
       "canon de grande taille"
+    ],
+    [
+      "bon tireur",
+      "excellent tireur"
     ]
   ],
   "model": "qwen3:14b"

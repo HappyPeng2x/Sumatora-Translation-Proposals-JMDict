@@ -1,0 +1,25 @@
+{
+  "seq": 1228750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "point névralgique",
+      "point vital",
+      "talon d'Achille"
+    ],
+    [
+      "point clé",
+      "point essentiel",
+      "crux d'un problème",
+      "coeur d'une affaire"
+    ],
+    [
+      "croupion (dans un combat)"
+    ],
+    [
+      "point vital",
+      "position critique pour jouer un coup"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

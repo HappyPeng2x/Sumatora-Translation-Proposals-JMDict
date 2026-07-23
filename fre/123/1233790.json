@@ -5,6 +5,9 @@
     [
       "salle d'attente pour les employés",
       "salle d'attente des servants"
+    ],
+    [
+      "salle d'attente pour les serviteurs attendant que leur maître reparte"
     ]
   ],
   "model": "qwen3:14b"

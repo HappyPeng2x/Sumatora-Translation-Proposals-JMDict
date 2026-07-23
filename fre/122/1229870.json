@@ -7,6 +7,15 @@
     ],
     [
       "abdiquer par frustration ; accepter docilement ; être contraint d'accepter une situation"
+    ],
+    [
+      "s'endormir en pleurant",
+      "s'endormir en sanglotant"
+    ],
+    [
+      "résignation",
+      "acceptation passive",
+      "soumission"
     ]
   ],
   "model": "qwen3:14b"

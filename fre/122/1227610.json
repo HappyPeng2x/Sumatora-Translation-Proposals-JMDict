@@ -1,0 +1,15 @@
+{
+  "seq": 1227610,
+  "lang": "fre",
+  "glosses": [
+    [
+      "congé",
+      "permission",
+      "vacance"
+    ],
+    [
+      "vacances"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

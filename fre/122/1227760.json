@@ -1,0 +1,15 @@
+{
+  "seq": 1227760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fermeture provisoire d4une école"
+    ],
+    [
+      "absence",
+      "éloignement",
+      "fermeture temporaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

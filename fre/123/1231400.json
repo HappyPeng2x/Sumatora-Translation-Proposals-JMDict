@@ -1,0 +1,15 @@
+{
+  "seq": 1231400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancienne mode",
+      "ancien courant"
+    ],
+    [
+      "ancienne école",
+      "ancien style"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1231360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "traduction ancienne"
+    ],
+    [
+      "traduction chinoise antérieure à Xuanzang (surtout du Ve au milieu du VIIe siècle)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

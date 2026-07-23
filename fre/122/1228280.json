@@ -9,6 +9,9 @@
     [
       "intake",
       "entrée (d'air)"
+    ],
+    [
+      "air inspiré"
     ]
   ],
   "model": "qwen3:14b"

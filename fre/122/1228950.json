@@ -1,0 +1,14 @@
+{
+  "seq": 1228950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "maladie subite"
+    ],
+    [
+      "urgence médicale",
+      "cas de maladie aiguë"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

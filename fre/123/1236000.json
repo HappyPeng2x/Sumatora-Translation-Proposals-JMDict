@@ -1,0 +1,22 @@
+{
+  "seq": 1236000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "circonstances",
+      "environnement"
+    ],
+    [
+      "situation matérielle",
+      "état",
+      "conditions",
+      "circonstances",
+      "sort"
+    ],
+    [
+      "position sociale",
+      "état social"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,13 @@
+{
+  "seq": 1229180,
+  "lang": "fre",
+  "glosses": [
+    [
+      "sauvetage",
+      "délivrance",
+      "extraction",
+      "libération"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

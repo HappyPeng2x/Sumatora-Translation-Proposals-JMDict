@@ -1,0 +1,14 @@
+{
+  "seq": 1232320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fortune énorme",
+      "richesse colossale"
+    ],
+    [
+      "une somme d'argent considérable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

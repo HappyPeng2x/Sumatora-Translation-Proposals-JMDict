@@ -5,6 +5,9 @@
     [
       "palais impérial",
       "cour impériale"
+    ],
+    [
+      "domaine d'un sanctuaire"
     ]
   ],
   "model": "qwen3:14b"

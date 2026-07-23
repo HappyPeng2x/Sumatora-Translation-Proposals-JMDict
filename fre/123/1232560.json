@@ -1,0 +1,15 @@
+{
+  "seq": 1232560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cérémonie",
+      "cérémonie de mariage"
+    ],
+    [
+      "mariage",
+      "fête de mariage"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

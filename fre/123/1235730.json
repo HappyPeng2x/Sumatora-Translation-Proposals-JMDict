@@ -1,0 +1,16 @@
+{
+  "seq": 1235730,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accord",
+      "convention",
+      "pacte"
+    ],
+    [
+      "accord informel entre États",
+      "traité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

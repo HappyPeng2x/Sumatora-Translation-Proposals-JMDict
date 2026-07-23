@@ -1,0 +1,11 @@
+{
+  "seq": 1230440,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancienne relation",
+      "ancien connaissances"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

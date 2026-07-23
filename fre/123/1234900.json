@@ -1,0 +1,10 @@
+{
+  "seq": 1234900,
+  "lang": "fre",
+  "glosses": [
+    [
+      "robinet partagé"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

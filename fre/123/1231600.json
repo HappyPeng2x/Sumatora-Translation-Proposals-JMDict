@@ -1,0 +1,10 @@
+{
+  "seq": 1231600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "un vendeur de lait"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

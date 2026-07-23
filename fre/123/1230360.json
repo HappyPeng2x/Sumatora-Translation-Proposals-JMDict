@@ -1,0 +1,14 @@
+{
+  "seq": 1230360,
+  "lang": "fre",
+  "glosses": [
+    [
+      "paye",
+      "salaire"
+    ],
+    [
+      "argent versé aux étudiants durant l'époque de Heian"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

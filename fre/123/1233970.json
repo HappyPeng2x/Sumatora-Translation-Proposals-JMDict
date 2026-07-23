@@ -5,6 +5,11 @@
     [
       "esprit chevaleresque",
       "chevalerie"
+    ],
+    [
+      "courage",
+      "vaillance",
+      "dignité masculine"
     ]
   ],
   "model": "qwen3:14b"

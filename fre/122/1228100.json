@@ -1,0 +1,24 @@
+{
+  "seq": 1228100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "délassement",
+      "détente",
+      "pause"
+    ],
+    [
+      "réparer"
+    ],
+    [
+      "repos; loisirs; calme"
+    ],
+    [
+      "récupération; loisirs"
+    ],
+    [
+      "chômage technique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

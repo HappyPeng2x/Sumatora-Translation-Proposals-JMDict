@@ -1,0 +1,53 @@
+{
+  "seq": 1232880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "approbation",
+      "permission"
+    ],
+    [
+      "licence",
+      "concession"
+    ],
+    [
+      "brevet"
+    ],
+    [
+      "accorder une licence à",
+      "autoriser",
+      "mémoriser"
+    ],
+    [
+      "admettre",
+      "permettre"
+    ],
+    [
+      "accord",
+      "consentement",
+      "approbation",
+      "acceptation"
+    ],
+    [
+      "approbation",
+      "approbation"
+    ],
+    [
+      "ratification",
+      "validation"
+    ],
+    [
+      "licence",
+      "autorisation",
+      "autorisation",
+      "permis"
+    ],
+    [
+      "admission",
+      "permission",
+      "permis",
+      "autorisation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

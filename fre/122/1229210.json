@@ -1,0 +1,23 @@
+{
+  "seq": 1229210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "salvation",
+      "délivrance",
+      "salut",
+      "rédemption"
+    ],
+    [
+      "Bouddhas et Bodhisattvas",
+      "les Bouddhas et les Bodhisattvas considérés comme les sauveurs du monde"
+    ],
+    [
+      "Avalokiteśvara",
+      "la délivrance du monde",
+      "la rédemption de l'humanité",
+      "la béatification"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

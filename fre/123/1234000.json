@@ -1,0 +1,15 @@
+{
+  "seq": 1234000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courage",
+      "gallanterie",
+      "chevalerie"
+    ],
+    [
+      "personne chevaleresque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

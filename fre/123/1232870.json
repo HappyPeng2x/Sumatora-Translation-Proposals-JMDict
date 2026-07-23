@@ -1,0 +1,61 @@
+{
+  "seq": 1232870,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accorder",
+      "approuver",
+      "autoriser",
+      "excuser",
+      "exempter",
+      "pardonner",
+      "permettre"
+    ],
+    [
+      "pardonner",
+      "excuser",
+      "tolérer"
+    ],
+    [
+      "exempter",
+      "remettre",
+      "libérer",
+      "laisser partir"
+    ],
+    [
+      "reconnaître",
+      "admettre"
+    ],
+    [
+      "faire confiance",
+      "se confier",
+      "se détendre"
+    ],
+    [
+      "abandonner",
+      "céder",
+      "laisser tomber"
+    ],
+    [
+      "reconnaître",
+      "estimer",
+      "approuver",
+      "permettre",
+      "pardonner",
+      "libérer",
+      "laisser sortir"
+    ],
+    [
+      "détendre",
+      "dénouer",
+      "détacher",
+      "détacher (qqch. serré)"
+    ],
+    [
+      "faire confiance",
+      "se résigner",
+      "céder"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

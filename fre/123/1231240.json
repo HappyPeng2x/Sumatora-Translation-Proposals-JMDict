@@ -1,0 +1,14 @@
+{
+  "seq": 1231240,
+  "lang": "fre",
+  "glosses": [
+    [
+      "objet ancien",
+      "chose ancienne"
+    ],
+    [
+      "coutume ancienne"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

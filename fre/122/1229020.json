@@ -1,0 +1,15 @@
+{
+  "seq": 1229020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "avec précipitation",
+      "précipitamment"
+    ],
+    [
+      "soudain",
+      "brusque"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

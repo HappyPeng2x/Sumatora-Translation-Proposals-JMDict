@@ -1,0 +1,35 @@
+{
+  "seq": 1227560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "être absent",
+      "dormir",
+      "faire une pause",
+      "prendre un congé",
+      "se reposer"
+    ],
+    [
+      "se reposer"
+    ],
+    [
+      "aller se coucher; dormir; se retirer"
+    ],
+    [
+      "suspendre une activité; faire une pause; interrompre provisoirement"
+    ],
+    [
+      "ne pas aller travailler; ne pas aller à l'école"
+    ],
+    [
+      "reprendre une activité après une interruption; se remettre; récupérer; guérir; redevenir en forme"
+    ],
+    [
+      "dormir; aller se coucher"
+    ],
+    [
+      "guérir; se rétablir"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -10,6 +10,9 @@
       "adopter une attitude provocatrice",
       "devenir agressif",
       "prendre l'offensive"
+    ],
+    [
+      "adopter une attitude menaçante"
     ]
   ],
   "model": "qwen3:14b"

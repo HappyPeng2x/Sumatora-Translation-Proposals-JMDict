@@ -1,0 +1,22 @@
+{
+  "seq": 1229880,
+  "lang": "fre",
+  "glosses": [
+    [
+      "balle",
+      "bille",
+      "boule",
+      "globe",
+      "grain",
+      "sphère"
+    ],
+    [
+      "boule",
+      "sphère"
+    ],
+    [
+      "compteur de lancers"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

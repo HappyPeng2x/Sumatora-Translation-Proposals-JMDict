@@ -15,6 +15,11 @@
     [
       "offrir (aux dieux)",
       "installer (devant un autel)"
+    ],
+    [
+      "regaler",
+      "traiter",
+      "héberger pour un repas"
     ]
   ],
   "model": "qwen3:14b"

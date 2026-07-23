@@ -1,0 +1,11 @@
+{
+  "seq": 1234950,
+  "lang": "fre",
+  "glosses": [
+    [
+      "responsabilité conjointe",
+      "solidarité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

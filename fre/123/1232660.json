@@ -1,0 +1,14 @@
+{
+  "seq": 1232660,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vanité"
+    ],
+    [
+      "vanité factice",
+      "orgueil basé sur des apparences"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,10 @@
+{
+  "seq": 1234160,
+  "lang": "fre",
+  "glosses": [
+    [
+      "marché concurrentiel"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

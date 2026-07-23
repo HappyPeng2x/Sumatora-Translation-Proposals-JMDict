@@ -1,0 +1,23 @@
+{
+  "seq": 1234050,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enchérir",
+      "vendre aux enchères"
+    ],
+    [
+      "faire une offre"
+    ],
+    [
+      "vendre aux enchères"
+    ],
+    [
+      "acheter par enchères; vendre par enchères"
+    ],
+    [
+      "négocier; marchander"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,20 @@
+{
+  "seq": 1236470,
+  "lang": "fre",
+  "glosses": [
+    [
+      "emphase",
+      "insistance",
+      "mise en relief"
+    ],
+    [
+      "accentuation",
+      "mise en valeur"
+    ],
+    [
+      "ton fort",
+      "démarche ferme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,14 @@
+{
+  "seq": 1236200,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intensification",
+      "renforcement"
+    ],
+    [
+      "renforcement psychologique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

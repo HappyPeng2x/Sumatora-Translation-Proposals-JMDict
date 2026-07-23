@@ -1,0 +1,14 @@
+{
+  "seq": 1232740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "impartialité"
+    ],
+    [
+      "hypocrisie",
+      "mensonge"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

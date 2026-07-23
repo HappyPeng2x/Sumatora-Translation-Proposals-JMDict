@@ -1,0 +1,42 @@
+{
+  "seq": 1230080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "étriqué",
+      "étroit",
+      "rigide",
+      "sévère",
+      "serré",
+      "strict"
+    ],
+    [
+      "formel",
+      "sérieux",
+      "rigide",
+      "cérémonieux"
+    ],
+    [
+      "contraint",
+      "inconfortable"
+    ],
+    [
+      "étroit",
+      "serré"
+    ],
+    [
+      "inflexible",
+      "stupide"
+    ],
+    [
+      "inconfortable",
+      "mal à l'aise"
+    ],
+    [
+      "très limité",
+      "étroit",
+      "serré"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

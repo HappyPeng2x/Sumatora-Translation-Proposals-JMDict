@@ -9,6 +9,13 @@
     [
       "jeune joueur chargé de récupérer les balles sur un terrain de tennis",
       "jeune assistant chargé de ramasser les balles"
+    ],
+    [
+      "porteur de bagages"
+    ],
+    [
+      "joueur de secours",
+      "remplaçant"
     ]
   ],
   "model": "qwen3:14b"

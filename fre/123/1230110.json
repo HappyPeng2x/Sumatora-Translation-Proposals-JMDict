@@ -1,0 +1,14 @@
+{
+  "seq": 1230110,
+  "lang": "fre",
+  "glosses": [
+    [
+      "détresse",
+      "difficulté financière"
+    ],
+    [
+      "pauvreté"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

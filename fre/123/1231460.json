@@ -5,6 +5,10 @@
     [
       "maladie chronique",
       "maladie tenace"
+    ],
+    [
+      "maladie ancienne",
+      "ancienne maladie"
     ]
   ],
   "model": "qwen3:14b"

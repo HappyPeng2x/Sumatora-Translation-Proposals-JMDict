@@ -1,0 +1,32 @@
+{
+  "seq": 1233560,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accompagnateur",
+      "suivant"
+    ],
+    [
+      "accompagnateur",
+      "suivant"
+    ],
+    [
+      "fonctionnaire du palais impérial du Yamato"
+    ],
+    [
+      "accompagner",
+      "accompagner quelqu'un",
+      "suivre"
+    ],
+    [
+      "accompagnateur"
+    ],
+    [
+      "suivi",
+      "procession",
+      "cortège",
+      "train (arch.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

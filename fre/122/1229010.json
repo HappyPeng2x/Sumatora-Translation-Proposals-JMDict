@@ -1,0 +1,15 @@
+{
+  "seq": 1229010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "courant rapide",
+      "rapide"
+    ],
+    [
+      "eau sauvage",
+      "eau tumultueuse"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

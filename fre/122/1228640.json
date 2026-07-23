@@ -1,0 +1,16 @@
+{
+  "seq": 1228640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "allure rapide",
+      "rythme rapide"
+    ],
+    [
+      "à vive allure",
+      "en toute hâte",
+      "à grand train"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

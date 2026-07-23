@@ -1,0 +1,11 @@
+{
+  "seq": 1228930,
+  "lang": "fre",
+  "glosses": [
+    [
+      "envoyer en hâte",
+      "expédier rapidement"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

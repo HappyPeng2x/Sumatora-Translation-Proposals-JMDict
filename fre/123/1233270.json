@@ -1,0 +1,15 @@
+{
+  "seq": 1233270,
+  "lang": "fre",
+  "glosses": [
+    [
+      "possession",
+      "bénéfice",
+      "profit",
+      "avantage",
+      "droit",
+      "usufruit"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

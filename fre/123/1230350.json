@@ -1,0 +1,15 @@
+{
+  "seq": 1230350,
+  "lang": "fre",
+  "glosses": [
+    [
+      "honoraires",
+      "salaire",
+      "solde (de soldat)"
+    ],
+    [
+      "subside; allocation; provision; fourniture"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

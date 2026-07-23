@@ -1,0 +1,23 @@
+{
+  "seq": 1232860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pardon",
+      "indulgence",
+      "permission"
+    ],
+    [
+      "excuse",
+      "grâce",
+      "remission"
+    ],
+    [
+      "licenciation",
+      "libération",
+      "décharge",
+      "attestation"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

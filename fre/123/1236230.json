@@ -1,0 +1,25 @@
+{
+  "seq": 1236230,
+  "lang": "fre",
+  "glosses": [
+    [
+      "énergique",
+      "ferme"
+    ],
+    [
+      "optimiste",
+      "confiant",
+      "assuré"
+    ],
+    [
+      "ferme",
+      "décidé",
+      "désireux de lutter",
+      "vaillant"
+    ],
+    [
+      "favorable à la montée"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

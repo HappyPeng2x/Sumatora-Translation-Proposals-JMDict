@@ -1,0 +1,16 @@
+{
+  "seq": 1230400,
+  "lang": "fre",
+  "glosses": [
+    [
+      "ancien méfaits",
+      "crimes passés"
+    ],
+    [
+      "ancien délit",
+      "faute passée",
+      "crime ancien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

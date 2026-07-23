@@ -1,0 +1,18 @@
+{
+  "seq": 1234700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "commun",
+      "communauté"
+    ],
+    [
+      "être commun à",
+      "être partagé par"
+    ],
+    [
+      "-large"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

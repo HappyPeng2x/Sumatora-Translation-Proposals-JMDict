@@ -1,0 +1,15 @@
+{
+  "seq": 1233690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "offrandes",
+      "offrandes et culte"
+    ],
+    [
+      "offrande",
+      "don d'offrande"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

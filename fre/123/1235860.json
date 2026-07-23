@@ -1,0 +1,14 @@
+{
+  "seq": 1235860,
+  "lang": "fre",
+  "glosses": [
+    [
+      "correction",
+      "remède",
+      "rectification",
+      "régulation",
+      "réforme"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

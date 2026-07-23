@@ -1,0 +1,10 @@
+{
+  "seq": 1231030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "restant inchangé (dans l'état ancien des choses) ; pas meilleur en raison du changement (s'il y en a un)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

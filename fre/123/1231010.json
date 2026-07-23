@@ -1,0 +1,13 @@
+{
+  "seq": 1231010,
+  "lang": "fre",
+  "glosses": [
+    [
+      "régime ancien"
+    ],
+    [
+      "ancien régime"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

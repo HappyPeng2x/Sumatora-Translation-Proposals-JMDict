@@ -1,0 +1,15 @@
+{
+  "seq": 1236030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "état limite (entre vie et mort)",
+      "crise"
+    ],
+    [
+      "ligne de démarcation",
+      "bordure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

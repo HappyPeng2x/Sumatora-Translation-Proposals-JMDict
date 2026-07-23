@@ -1,0 +1,15 @@
+{
+  "seq": 1236020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "enceinte (du temple)"
+    ],
+    [
+      "domaine religieux",
+      "terrein sacré",
+      "enceinte du temple"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

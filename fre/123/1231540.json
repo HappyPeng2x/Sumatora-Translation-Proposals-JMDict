@@ -1,0 +1,22 @@
+{
+  "seq": 1231540,
+  "lang": "fre",
+  "glosses": [
+    [
+      "charrette tirée par des bœufs (utilisée par les nobles de l'époque Heian)",
+      "charrette de bœufs"
+    ],
+    [
+      "charrette tirée par des bœufs (utilisée par les nobles de l'époque Heian)",
+      "charrette de bœufs"
+    ],
+    [
+      "charrette tirée par des bœufs",
+      "charrette de bœufs"
+    ],
+    [
+      "charrette de bœufs utilisée par les nobles de l'époque Heian"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,11 @@
+{
+  "seq": 1230570,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chronique ancienne",
+      "document ancien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

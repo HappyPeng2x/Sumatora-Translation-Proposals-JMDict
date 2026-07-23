@@ -11,6 +11,18 @@
       "retard",
       "séance prolongée",
       "séance supplémentaire"
+    ],
+    [
+      "personne qui reste plus longtemps que les autres"
+    ],
+    [
+      "celui qui reste en arrière"
+    ],
+    [
+      "travail supplémentaire; heures supplémentaires"
+    ],
+    [
+      "travailleur qui effectue des heures supplémentaires"
     ]
   ],
   "model": "qwen3:14b"

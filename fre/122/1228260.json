@@ -1,0 +1,31 @@
+{
+  "seq": 1228260,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aspirer",
+      "fumer",
+      "sucer"
+    ],
+    [
+      "aspirer",
+      "boire en buvant avec bruit",
+      "sucer"
+    ],
+    [
+      "absorber",
+      "imbiber"
+    ],
+    [
+      "embrasser"
+    ],
+    [
+      "embrasser"
+    ],
+    [
+      "attirer",
+      "attirer vers soi"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

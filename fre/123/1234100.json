@@ -1,0 +1,33 @@
+{
+  "seq": 1234100,
+  "lang": "fre",
+  "glosses": [
+    [
+      "contention",
+      "concurrence",
+      "rivalité",
+      "querelle"
+    ],
+    [
+      "coïncidence",
+      "rencontre",
+      "concours"
+    ],
+    [
+      "rivalité",
+      "concurrence",
+      "compétition",
+      "concurrence",
+      "lutte"
+    ],
+    [
+      "coïncidence des circonstances",
+      "combinaison de facteurs"
+    ],
+    [
+      "concours",
+      "coïncidence de faits punissables"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

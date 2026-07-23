@@ -1,0 +1,15 @@
+{
+  "seq": 1229850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pleurer",
+      "être ému aux larmes"
+    ],
+    [
+      "être sur le point de pleurer",
+      "pouvoir pleurer"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

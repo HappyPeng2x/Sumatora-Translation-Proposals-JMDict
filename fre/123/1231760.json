@@ -1,0 +1,12 @@
+{
+  "seq": 1231760,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résidence",
+      "séjour",
+      "demeure"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

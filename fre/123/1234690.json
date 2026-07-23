@@ -1,0 +1,16 @@
+{
+  "seq": 1234690,
+  "lang": "fre",
+  "glosses": [
+    [
+      "collaboration",
+      "œuvre commune",
+      "co-auteur",
+      "copublication"
+    ],
+    [
+      "œuvre commune (néerlandais)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

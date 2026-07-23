@@ -1,0 +1,18 @@
+{
+  "seq": 1233580,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dédier",
+      "offrir",
+      "présenter",
+      "sacrifier"
+    ],
+    [
+      "servir",
+      "aider",
+      "être utile à quelqu'un"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

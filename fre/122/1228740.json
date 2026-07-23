@@ -1,0 +1,12 @@
+{
+  "seq": 1228740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "attaque surprise",
+      "raid",
+      "assaut"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

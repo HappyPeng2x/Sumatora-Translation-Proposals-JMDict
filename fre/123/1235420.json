@@ -5,6 +5,10 @@
     [
       "mauvaise récolte",
       "famine"
+    ],
+    [
+      "famine",
+      "pénurie alimentaire"
     ]
   ],
   "model": "qwen3:14b"

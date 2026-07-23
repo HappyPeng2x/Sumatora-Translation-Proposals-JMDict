@@ -1,0 +1,15 @@
+{
+  "seq": 1235920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cri",
+      "cri aigu"
+    ],
+    [
+      "bruit infernal",
+      "vacarme effroyable"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

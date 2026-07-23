@@ -1,0 +1,11 @@
+{
+  "seq": 1232590,
+  "lang": "fre",
+  "glosses": [
+    [
+      "comportement",
+      "manière de se comporter"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

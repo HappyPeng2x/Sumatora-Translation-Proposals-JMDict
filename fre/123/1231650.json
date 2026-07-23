@@ -1,0 +1,54 @@
+{
+  "seq": 1231650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "partir",
+      "quitter"
+    ],
+    [
+      "passer",
+      "s'écouler"
+    ],
+    [
+      "être éloigné",
+      "distant"
+    ],
+    [
+      "expulser",
+      "chasser",
+      "divorcer"
+    ],
+    [
+      "faire complètement",
+      "accomplir entièrement"
+    ],
+    [
+      "dernier",
+      "passé",
+      "dernier (mois, année, etc.)"
+    ],
+    [
+      "se séparer de sa femme",
+      "obtenir un divorce"
+    ],
+    [
+      "éviter",
+      "éviter",
+      "contourner"
+    ],
+    [
+      "refuser",
+      "décliner",
+      "rejeter"
+    ],
+    [
+      "refuser",
+      "dernier",
+      "passé",
+      "précédent",
+      "dernier (mois; année; etc.)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

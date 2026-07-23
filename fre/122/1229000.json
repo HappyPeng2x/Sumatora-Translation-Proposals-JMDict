@@ -1,0 +1,11 @@
+{
+  "seq": 1229000,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chute soudaine",
+      "baisse brutale"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

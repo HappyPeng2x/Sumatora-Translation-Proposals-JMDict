@@ -19,6 +19,12 @@
     [
       "acheter",
       "acheter (formellement)"
+    ],
+    [
+      "provoquer",
+      "faire sortir",
+      "exciter",
+      "causer"
     ]
   ],
   "model": "qwen3:14b"

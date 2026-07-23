@@ -1,0 +1,10 @@
+{
+  "seq": 1233780,
+  "lang": "fre",
+  "glosses": [
+    [
+      "accompagnement par un cortège complet d'accompagnateurs (par exemple, dans le cortège d'un daimyo)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

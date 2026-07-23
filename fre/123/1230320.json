@@ -1,0 +1,15 @@
+{
+  "seq": 1230320,
+  "lang": "fre",
+  "glosses": [
+    [
+      "subvention",
+      "fourniture",
+      "octroi",
+      "paiement",
+      "livraison",
+      "bénéfice"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

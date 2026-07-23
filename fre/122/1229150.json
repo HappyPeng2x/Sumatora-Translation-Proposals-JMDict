@@ -1,0 +1,17 @@
+{
+  "seq": 1229150,
+  "lang": "fre",
+  "glosses": [
+    [
+      "aide",
+      "assistance",
+      "sauvetage",
+      "secours"
+    ],
+    [
+      "sauvetage spirituel",
+      "grâce (chrétienne)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

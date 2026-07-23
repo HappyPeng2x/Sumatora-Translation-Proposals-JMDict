@@ -11,6 +11,21 @@
       "lubrification",
       "huiler",
       "graisser"
+    ],
+    [
+      "recharger le carburant",
+      "ajouter du carburant",
+      "faire le plein"
+    ],
+    [
+      "huiler",
+      "lubrifier",
+      "graisser"
+    ],
+    [
+      "ajouter du carburant",
+      "compléter le réservoir",
+      "faire le plein"
     ]
   ],
   "model": "qwen3:14b"

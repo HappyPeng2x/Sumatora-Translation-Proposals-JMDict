@@ -1,0 +1,23 @@
+{
+  "seq": 1236300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "intensité (son)",
+      "puissance"
+    ],
+    [
+      "intensité (son); puissance"
+    ],
+    [
+      "dynamique"
+    ],
+    [
+      "force; puissance"
+    ],
+    [
+      "intensité sonore"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

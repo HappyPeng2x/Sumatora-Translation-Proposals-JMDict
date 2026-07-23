@@ -1,0 +1,12 @@
+{
+  "seq": 1234640,
+  "lang": "fre",
+  "glosses": [
+    [
+      "exposition compétitive",
+      "exposition de concours",
+      "démonstration de compétition"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

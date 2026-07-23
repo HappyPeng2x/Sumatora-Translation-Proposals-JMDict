@@ -1,0 +1,31 @@
+{
+  "seq": 1236740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "confus",
+      "désolé",
+      "obligé",
+      "reconnaissant"
+    ],
+    [
+      "se sentir coupable",
+      "se sentir honteux",
+      "se sentir embarrassé"
+    ],
+    [
+      "reculer par peur",
+      "trembler de peur"
+    ],
+    [
+      "se contracter par honte",
+      "se rétrécir par confusion"
+    ],
+    [
+      "mes plus profondes excuses",
+      "ma plus sincère demande d'excuses",
+      "mon humble supplique"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

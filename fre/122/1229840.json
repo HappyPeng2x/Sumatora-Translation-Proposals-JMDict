@@ -1,0 +1,30 @@
+{
+  "seq": 1229840,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pleurer"
+    ],
+    [
+      "souffrir (de)",
+      "être en difficulté (avec)",
+      "affronter des difficultés"
+    ],
+    [
+      "accepter (une demande inacceptable, une perte, etc.)",
+      "faire quelque chose à contrecœur",
+      "faire des sacrifices"
+    ],
+    [
+      "ne pas mériter le nom",
+      "être ruiné (en réputation)",
+      "être déshonoré"
+    ],
+    [
+      "lamentation",
+      "pleurer sur quelqu'un ou quelque chose",
+      "exprimer son chagrin"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

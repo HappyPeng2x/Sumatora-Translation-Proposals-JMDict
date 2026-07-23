@@ -1,0 +1,15 @@
+{
+  "seq": 1228330,
+  "lang": "fre",
+  "glosses": [
+    [
+      "absorption",
+      "attraction",
+      "succion"
+    ],
+    [
+      "résorption"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

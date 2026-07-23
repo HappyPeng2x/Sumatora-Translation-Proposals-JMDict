@@ -1,0 +1,18 @@
+{
+  "seq": 1233720,
+  "lang": "fre",
+  "glosses": [
+    [
+      "déclaration sous serment",
+      "déposition"
+    ],
+    [
+      "témoignage",
+      "déclaration",
+      "avouer",
+      "confesser",
+      "faire une déclaration"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

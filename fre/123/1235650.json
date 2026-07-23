@@ -1,0 +1,22 @@
+{
+  "seq": 1235650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "(avec le) concours",
+      "consentement",
+      "coopération",
+      "permission"
+    ],
+    [
+      "approbation (par le parlement impérial sous la Constitution de Meiji)"
+    ],
+    [
+      "accord; approbation; soutien; coopération"
+    ],
+    [
+      "approbation; sanction; ratification (du parlement impérial)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

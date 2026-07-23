@@ -1,0 +1,11 @@
+{
+  "seq": 1231190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "vieux plateau",
+      "enregistrement (musical) ancien"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,18 @@
+{
+  "seq": 1228080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "dormance",
+      "quiescence",
+      "diapause"
+    ],
+    [
+      "dormance",
+      "état de repos",
+      "torpeur",
+      "immobilité"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

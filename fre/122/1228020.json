@@ -1,0 +1,11 @@
+{
+  "seq": 1228020,
+  "lang": "fre",
+  "glosses": [
+    [
+      "interruption de l'approvisionnement en électricité",
+      "coupure de courant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,22 @@
+{
+  "seq": 1228490,
+  "lang": "fre",
+  "glosses": [
+    [
+      "arc (à flèches)"
+    ],
+    [
+      "archery"
+    ],
+    [
+      "boîtier d'un violon"
+    ],
+    [
+      "blason en forme de courbe"
+    ],
+    [
+      "boîtier (pour violon; violoncelle ou fidel chinois)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

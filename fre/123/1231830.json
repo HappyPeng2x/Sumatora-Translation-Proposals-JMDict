@@ -8,6 +8,22 @@
     ],
     [
       "lieu de séjour temporaire"
+    ],
+    [
+      "lieu de séjour",
+      "endroit où l'on se trouve"
+    ],
+    [
+      "lieu de séjour temporaire",
+      "endroit où l'on séjourne provisoirement"
+    ],
+    [
+      "domicile",
+      "lieu de résidence"
+    ],
+    [
+      "lieu où l'on se trouve",
+      "endroit où quelqu'un est présent"
     ]
   ],
   "model": "qwen3:14b"

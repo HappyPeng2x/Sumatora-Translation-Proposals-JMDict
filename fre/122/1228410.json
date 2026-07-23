@@ -1,0 +1,14 @@
+{
+  "seq": 1228410,
+  "lang": "fre",
+  "glosses": [
+    [
+      "passage au temple",
+      "visite à un temple"
+    ],
+    [
+      "visite d'un sanctuaire"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

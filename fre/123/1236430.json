@@ -6,6 +6,11 @@
       "coup puissant",
       "frappée forte",
       "choc violent"
+    ],
+    [
+      "frappe puissante",
+      "coup fort",
+      "impact violent"
     ]
   ],
   "model": "qwen3:14b"

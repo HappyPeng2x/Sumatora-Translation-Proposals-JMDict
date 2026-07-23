@@ -7,6 +7,9 @@
     ],
     [
       "sympathie"
+    ],
+    [
+      "compassion"
     ]
   ],
   "model": "qwen3:14b"

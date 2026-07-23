@@ -1,0 +1,12 @@
+{
+  "seq": 1230300,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fourniture d'eau chaude",
+      "chauffage à l'eau chaude",
+      "distribution d'eau chaude"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

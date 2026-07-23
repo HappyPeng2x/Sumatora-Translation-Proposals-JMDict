@@ -1,0 +1,20 @@
+{
+  "seq": 1228650,
+  "lang": "fre",
+  "glosses": [
+    [
+      "se dépêcher",
+      "se précipiter",
+      "se ruer"
+    ],
+    [
+      "se hâter",
+      "se diriger rapidement vers un endroit"
+    ],
+    [
+      "préparer",
+      "faire des préparatifs"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

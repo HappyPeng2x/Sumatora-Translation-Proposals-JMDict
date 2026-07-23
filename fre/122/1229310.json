@@ -1,0 +1,20 @@
+{
+  "seq": 1229310,
+  "lang": "fre",
+  "glosses": [
+    [
+      "pourrir",
+      "se décomposer"
+    ],
+    [
+      "mourir dans l'oubli"
+    ],
+    [
+      "être oublié avec le temps"
+    ],
+    [
+      "mourir sans que personne s'en aperçoive"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1232030,
+  "lang": "fre",
+  "glosses": [
+    [
+      "macro-",
+      "macroscopique"
+    ],
+    [
+      "global",
+      "étendant à l'ensemble",
+      "large"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,16 @@
+{
+  "seq": 1228710,
+  "lang": "fre",
+  "glosses": [
+    [
+      "chute soudaine",
+      "plongeon abrupt",
+      "chute vertigineuse"
+    ],
+    [
+      "chute brutale",
+      "baisse soudaine (de température; de pression atmosphérique)"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

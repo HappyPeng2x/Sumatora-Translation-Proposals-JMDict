@@ -1,0 +1,23 @@
+{
+  "seq": 1231770,
+  "lang": "fre",
+  "glosses": [
+    [
+      "rester",
+      "demeurer",
+      "se maintenir"
+    ],
+    [
+      "rester",
+      "persister",
+      "continuer",
+      "ne pas changer"
+    ],
+    [
+      "rester stable",
+      "ne pas bouger",
+      "stagner"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

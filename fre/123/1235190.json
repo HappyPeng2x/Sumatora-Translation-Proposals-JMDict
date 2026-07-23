@@ -1,0 +1,26 @@
+{
+  "seq": 1235190,
+  "lang": "fre",
+  "glosses": [
+    [
+      "résonance",
+      "sympathie"
+    ],
+    [
+      "sympathie"
+    ],
+    [
+      "résonance; écho; prolongement sonore"
+    ],
+    [
+      "mesomérie; résonance"
+    ],
+    [
+      "pitié"
+    ],
+    [
+      "écho; résonance"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

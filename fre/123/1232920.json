@@ -1,0 +1,25 @@
+{
+  "seq": 1232920,
+  "lang": "fre",
+  "glosses": [
+    [
+      "distance",
+      "intervalle",
+      "portée"
+    ],
+    [
+      "différence",
+      "écart",
+      "distance"
+    ],
+    [
+      "métrique"
+    ],
+    [
+      "différence",
+      "distance",
+      "écart"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

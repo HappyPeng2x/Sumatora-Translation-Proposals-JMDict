@@ -6,6 +6,11 @@
       "excuser",
       "donner des vacances à",
       "faire (quelqu'un) se reposer"
+    ],
+    [
+      "accorder des congés",
+      "donner un congé",
+      "libérer temporairement"
     ]
   ],
   "model": "qwen3:14b"

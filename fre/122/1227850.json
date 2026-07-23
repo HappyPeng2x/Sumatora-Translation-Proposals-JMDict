@@ -1,0 +1,10 @@
+{
+  "seq": 1227850,
+  "lang": "fre",
+  "glosses": [
+    [
+      "jour de fermeture (d'un cabinet médical, d'un médecin, etc.) ; fermeture ; non réception de patients"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

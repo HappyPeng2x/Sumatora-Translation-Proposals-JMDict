@@ -1,0 +1,14 @@
+{
+  "seq": 1227550,
+  "lang": "fre",
+  "glosses": [
+    [
+      "\"fermé\""
+    ],
+    [
+      "fermé temporairement",
+      "en pause"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

@@ -1,0 +1,51 @@
+{
+  "seq": 1236070,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fort",
+      "puissant"
+    ],
+    [
+      "puissant",
+      "fort",
+      "vigoureux",
+      "puissant",
+      "solide",
+      "en bonne santé"
+    ],
+    [
+      "bon",
+      "compétent",
+      "savant",
+      "expérimenté"
+    ],
+    [
+      "capable de gérer",
+      "savoir faire face",
+      "résistant",
+      "durable",
+      "résilient"
+    ],
+    [
+      "ferme",
+      "rigide",
+      "solide",
+      "inflexible"
+    ],
+    [
+      "intense",
+      "fort",
+      "violent",
+      "élevé",
+      "violent"
+    ],
+    [
+      "fiable",
+      "digne de confiance",
+      "sérieux",
+      "constant"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

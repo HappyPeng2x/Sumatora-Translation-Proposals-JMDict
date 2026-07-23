@@ -1,0 +1,14 @@
+{
+  "seq": 1233700,
+  "lang": "fre",
+  "glosses": [
+    [
+      "livraison",
+      "remise"
+    ],
+    [
+      "livraison de quantités fixées de biens agricoles (denrées alimentaires de base; notamment le riz) au gouvernement japonais; sur la base de la loi sur la gestion des denrées alimentaires de base abrogée en 1995"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

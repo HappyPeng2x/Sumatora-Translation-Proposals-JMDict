@@ -1,0 +1,25 @@
+{
+  "seq": 1230210,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cadeau",
+      "paye"
+    ],
+    [
+      "donner",
+      "attribuer"
+    ],
+    [
+      "salaire",
+      "revenu",
+      "cadeau"
+    ],
+    [
+      "aide",
+      "assistance",
+      "service"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

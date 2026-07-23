@@ -1,0 +1,11 @@
+{
+  "seq": 1234750,
+  "lang": "fre",
+  "glosses": [
+    [
+      "lutte commune",
+      "front commun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

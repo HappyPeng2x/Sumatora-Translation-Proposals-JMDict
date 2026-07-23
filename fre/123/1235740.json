@@ -1,0 +1,12 @@
+{
+  "seq": 1235740,
+  "lang": "fre",
+  "glosses": [
+    [
+      "proposition",
+      "soumission",
+      "projet d'accord"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

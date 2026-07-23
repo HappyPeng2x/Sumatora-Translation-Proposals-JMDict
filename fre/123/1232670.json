@@ -1,0 +1,18 @@
+{
+  "seq": 1232670,
+  "lang": "fre",
+  "glosses": [
+    [
+      "fabulation",
+      "faux",
+      "mensonge",
+      "tromperie"
+    ],
+    [
+      "faux",
+      "erreur logique",
+      "fallacieux"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

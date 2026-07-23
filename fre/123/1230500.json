@@ -5,6 +5,9 @@
     [
       "numéro ancien",
       "édition ancienne"
+    ],
+    [
+      "édition ancienne"
     ]
   ],
   "model": "qwen3:14b"

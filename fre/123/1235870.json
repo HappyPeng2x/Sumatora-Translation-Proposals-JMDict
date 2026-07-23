@@ -8,6 +8,16 @@
     ],
     [
       "ministre d'État (sous le système ritsuryō ou le système du Grand Conseil de l'époque Meiji)"
+    ],
+    [
+      "noble",
+      "personne de haut rang"
+    ],
+    [
+      "seigneur",
+      "lord",
+      "monsieur",
+      "personne de haut rang"
     ]
   ],
   "model": "qwen3:14b"

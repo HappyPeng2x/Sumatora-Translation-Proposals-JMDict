@@ -1,0 +1,16 @@
+{
+  "seq": 1234600,
+  "lang": "fre",
+  "glosses": [
+    [
+      "mutualité",
+      "aide mutuelle",
+      "coopération"
+    ],
+    [
+      "assistance juridique",
+      "aide administrative"
+    ]
+  ],
+  "model": "qwen3:14b"
+}

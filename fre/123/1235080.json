@@ -1,0 +1,13 @@
+{
+  "seq": 1235080,
+  "lang": "fre",
+  "glosses": [
+    [
+      "cimetière public"
+    ],
+    [
+      "cimetière commun"
+    ]
+  ],
+  "model": "qwen3:14b"
+}
